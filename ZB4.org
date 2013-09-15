@@ -1,6 +1,7 @@
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：4 集部
 #+LINK: krp   file:../../text/%s::10
+#+LINK: krp   mandoku:%s::10
 * 4 集部
 ** ZB4a 楚辭類
 *** [[krp:ZB4a/ZB4a0001/ZB4a0001.org][ZB4a0001]] 楚辭章句
@@ -12644,7 +12645,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB4d 詩文評類
-*** [[krp:ZB4d/ZB4d0001/ZB4d0001.org][ZB4d0001]] 文心雕龍
+*** [[mandoku:ZB4d/ZB4d0001/ZB4d0001.org][ZB4d0001]] 文心雕龍
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0001
 :SOURCE:   四庫全書 文淵閣版
@@ -12688,7 +12689,7 @@
 **** responsible: 任昉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB4d/ZB4d0005/ZB4d0005.org][ZB4d0005]] 本事詩
+*** [[krp:ZB4d/ZB4d0005/ZB4d0005.org][ZB4d0000]] 本事詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0005
 :SOURCE:   四庫全書 文淵閣版
