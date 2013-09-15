@@ -3,7 +3,7 @@
 #+TITLE: 漢籍リポジトリ目録：1 經部
 * 1 經部
 ** ZB1a 易類
-*** [[krp:ZB1a/ZB1a0001/ZB1a0001.org][ZB1a0001] 子夏易傳
+*** [[mandoku:ZB1a0001.org][ZB1a0001] 子夏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0001
 :SOURCE:   四庫全書 文淵閣版
@@ -12,7 +12,7 @@
 :END:
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0002/ZB1a0002.org][ZB1a0002]] 周易鄭康成注
+*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0002
 :SOURCE:   四庫全書 文淵閣版
@@ -23,7 +23,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0003/ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
+*** [[mandoku:ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0003
 :SOURCE:   四庫全書 文淵閣版
@@ -34,7 +34,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0004/ZB1a0004.org][ZB1a0004]] 陸氏易解
+*** [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0004
 :SOURCE:   四庫全書 文淵閣版
@@ -45,7 +45,7 @@
 **** responsible: 陸績
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0005/ZB1a0005.org][ZB1a0005]] 周易註
+*** [[mandoku:ZB1a0005.org][ZB1a0005]] 周易註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0005
 :SOURCE:   四庫全書 文淵閣版
@@ -56,7 +56,7 @@
 **** responsible: 王弼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0006/ZB1a0006.org][ZB1a0006]] 周易注疏
+*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0006
 :SOURCE:   四庫全書 文淵閣版
@@ -67,8 +67,8 @@
 **** responsible: 王弼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0006a/ZB1a0006a.org][ZB1a0006a]] 周易註疏__周易略例
-*** [[krp:ZB1a/ZB1a0007/ZB1a0007.org][ZB1a0007]] 周易集解
+*** [[mandoku:ZB1a0006a.org][ZB1a0006a]] 周易註疏__周易略例
+*** [[mandoku:ZB1a0007.org][ZB1a0007]] 周易集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0007
 :SOURCE:   四庫全書 文淵閣版
@@ -79,7 +79,7 @@
 **** responsible: 李鼎祚
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0008/ZB1a0008.org][ZB1a0008]] 周易口訣義
+*** [[mandoku:ZB1a0008.org][ZB1a0008]] 周易口訣義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0008
 :SOURCE:   四庫全書 文淵閣版
@@ -90,7 +90,7 @@
 **** responsible: 史徵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0009/ZB1a0009.org][ZB1a0009]] 周易擧正
+*** [[mandoku:ZB1a0009.org][ZB1a0009]] 周易擧正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0009
 :SOURCE:   四庫全書 文淵閣版
@@ -101,7 +101,7 @@
 **** responsible: 郭京
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0010/ZB1a0010.org][ZB1a0010]] 易數鈎隱圖
+*** [[mandoku:ZB1a0010.org][ZB1a0010]] 易數鈎隱圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0010
 :SOURCE:   四庫全書 文淵閣版
@@ -112,7 +112,7 @@
 **** responsible: 劉牧
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0011/ZB1a0011.org][ZB1a0011]] 周易口義
+*** [[mandoku:ZB1a0011.org][ZB1a0011]] 周易口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0011
 :SOURCE:   四庫全書 文淵閣版
@@ -123,7 +123,7 @@
 **** responsible: 胡瑗
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0012/ZB1a0012.org][ZB1a0012]] 易說
+*** [[mandoku:ZB1a0012.org][ZB1a0012]] 易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0012
 :SOURCE:   四庫全書 文淵閣版
@@ -134,7 +134,7 @@
 **** responsible: 司馬光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0013/ZB1a0013.org][ZB1a0013]] 橫渠易說
+*** [[mandoku:ZB1a0013.org][ZB1a0013]] 橫渠易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0013
 :SOURCE:   四庫全書 文淵閣版
@@ -145,7 +145,7 @@
 **** responsible: 張載
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0014/ZB1a0014.org][ZB1a0014]] 東坡易傳
+*** [[mandoku:ZB1a0014.org][ZB1a0014]] 東坡易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0014
 :SOURCE:   四庫全書 文淵閣版
@@ -156,7 +156,7 @@
 **** responsible: 蘇軾
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0015/ZB1a0015.org][ZB1a0015]] 伊川易傳
+*** [[mandoku:ZB1a0015.org][ZB1a0015]] 伊川易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0015
 :SOURCE:   四庫全書 文淵閣版
@@ -167,7 +167,7 @@
 **** responsible: 程頤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0016/ZB1a0016.org][ZB1a0016]] 易學辨惑
+*** [[mandoku:ZB1a0016.org][ZB1a0016]] 易學辨惑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0016
 :SOURCE:   四庫全書 文淵閣版
@@ -178,7 +178,7 @@
 **** responsible: 邵伯溫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0017/ZB1a0017.org][ZB1a0017]] 了齋易說
+*** [[mandoku:ZB1a0017.org][ZB1a0017]] 了齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0017
 :SOURCE:   四庫全書 文淵閣版
@@ -189,7 +189,7 @@
 **** responsible: 陳瓘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0018/ZB1a0018.org][ZB1a0018]] 吳園周易解
+*** [[mandoku:ZB1a0018.org][ZB1a0018]] 吳園周易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0018
 :SOURCE:   四庫全書 文淵閣版
@@ -200,7 +200,7 @@
 **** responsible: 張根
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0019/ZB1a0019.org][ZB1a0019]] 周易新講義
+*** [[mandoku:ZB1a0019.org][ZB1a0019]] 周易新講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0019
 :SOURCE:   四庫全書 文淵閣版
@@ -211,7 +211,7 @@
 **** responsible: 耿南仲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0020/ZB1a0020.org][ZB1a0020]] 紫巖易傳
+*** [[mandoku:ZB1a0020.org][ZB1a0020]] 紫巖易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0020
 :SOURCE:   四庫全書 文淵閣版
@@ -222,7 +222,7 @@
 **** responsible: 張浚
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0021/ZB1a0021.org][ZB1a0021]] 讀易詳說
+*** [[mandoku:ZB1a0021.org][ZB1a0021]] 讀易詳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0021
 :SOURCE:   四庫全書 文淵閣版
@@ -233,7 +233,7 @@
 **** responsible: 李光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0022/ZB1a0022.org][ZB1a0022]] 易小傳
+*** [[mandoku:ZB1a0022.org][ZB1a0022]] 易小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0022
 :SOURCE:   四庫全書 文淵閣版
@@ -244,7 +244,7 @@
 **** responsible: 沈該
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0023/ZB1a0023.org][ZB1a0023]] 漢上易傳
+*** [[mandoku:ZB1a0023.org][ZB1a0023]] 漢上易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0023
 :SOURCE:   四庫全書 文淵閣版
@@ -255,7 +255,7 @@
 **** responsible: 朱震
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0024/ZB1a0024.org][ZB1a0024]] 周易窺餘
+*** [[mandoku:ZB1a0024.org][ZB1a0024]] 周易窺餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0024
 :SOURCE:   四庫全書 文淵閣版
@@ -266,7 +266,7 @@
 **** responsible: 鄭剛中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0025/ZB1a0025.org][ZB1a0025]] 易璇璣
+*** [[mandoku:ZB1a0025.org][ZB1a0025]] 易璇璣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0025
 :SOURCE:   四庫全書 文淵閣版
@@ -277,7 +277,7 @@
 **** responsible: 吳沆
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0026/ZB1a0026.org][ZB1a0026]] 易變體義
+*** [[mandoku:ZB1a0026.org][ZB1a0026]] 易變體義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0026
 :SOURCE:   四庫全書 文淵閣版
@@ -288,7 +288,7 @@
 **** responsible: 都絜
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0027/ZB1a0027.org][ZB1a0027]] 周易經傳集解
+*** [[mandoku:ZB1a0027.org][ZB1a0027]] 周易經傳集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0027
 :SOURCE:   四庫全書 文淵閣版
@@ -299,7 +299,7 @@
 **** responsible: 林栗
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0028/ZB1a0028.org][ZB1a0028]] 易原
+*** [[mandoku:ZB1a0028.org][ZB1a0028]] 易原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0028
 :SOURCE:   四庫全書 文淵閣版
@@ -310,7 +310,7 @@
 **** responsible: 程大昌
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0029/ZB1a0029.org][ZB1a0029]] 周易古占法
+*** [[mandoku:ZB1a0029.org][ZB1a0029]] 周易古占法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0029
 :SOURCE:   四庫全書 文淵閣版
@@ -321,8 +321,8 @@
 **** responsible: 程迥
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0029a/ZB1a0029a.org][ZB1a0029a]] 周易章句外編
-*** [[krp:ZB1a/ZB1a0030/ZB1a0030.org][ZB1a0030]] 原本周易本義
+*** [[mandoku:ZB1a0029a.org][ZB1a0029a]] 周易章句外編
+*** [[mandoku:ZB1a0030.org][ZB1a0030]] 原本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0030
 :SOURCE:   四庫全書 文淵閣版
@@ -333,7 +333,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0031/ZB1a0031.org][ZB1a0031]] 周易本義
+*** [[mandoku:ZB1a0031.org][ZB1a0031]] 周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0031
 :SOURCE:   四庫全書 文淵閣版
@@ -344,7 +344,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0032/ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
+*** [[mandoku:ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0032
 :SOURCE:   四庫全書 文淵閣版
@@ -355,7 +355,7 @@
 **** responsible: 郭雍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0033/ZB1a0033.org][ZB1a0033]] 周易義海撮要
+*** [[mandoku:ZB1a0033.org][ZB1a0033]] 周易義海撮要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0033
 :SOURCE:   四庫全書 文淵閣版
@@ -366,7 +366,7 @@
 **** responsible: 李衡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0034/ZB1a0034.org][ZB1a0034]] 南軒易說
+*** [[mandoku:ZB1a0034.org][ZB1a0034]] 南軒易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0034
 :SOURCE:   四庫全書 文淵閣版
@@ -377,7 +377,7 @@
 **** responsible: 張栻
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0035/ZB1a0035.org][ZB1a0035]] 復齋易說
+*** [[mandoku:ZB1a0035.org][ZB1a0035]] 復齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0035
 :SOURCE:   四庫全書 文淵閣版
@@ -388,7 +388,7 @@
 **** responsible: 趙彥肅
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0036/ZB1a0036.org][ZB1a0036]] 楊氏易傳
+*** [[mandoku:ZB1a0036.org][ZB1a0036]] 楊氏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0036
 :SOURCE:   四庫全書 文淵閣版
@@ -399,7 +399,7 @@
 **** responsible: 楊簡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0037/ZB1a0037.org][ZB1a0037]] 周易玩辭
+*** [[mandoku:ZB1a0037.org][ZB1a0037]] 周易玩辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0037
 :SOURCE:   四庫全書 文淵閣版
@@ -410,7 +410,7 @@
 **** responsible: 項安世
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0038/ZB1a0038.org][ZB1a0038]] 易說
+*** [[mandoku:ZB1a0038.org][ZB1a0038]] 易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0038
 :SOURCE:   四庫全書 文淵閣版
@@ -421,7 +421,7 @@
 **** responsible: 趙善譽
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0039/ZB1a0039.org][ZB1a0039]] 誠齋易傳
+*** [[mandoku:ZB1a0039.org][ZB1a0039]] 誠齋易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0039
 :SOURCE:   四庫全書 文淵閣版
@@ -432,7 +432,7 @@
 **** responsible: 楊萬里
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0040/ZB1a0040.org][ZB1a0040]] 大易粹言
+*** [[mandoku:ZB1a0040.org][ZB1a0040]] 大易粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0040
 :SOURCE:   四庫全書 文淵閣版
@@ -443,7 +443,7 @@
 **** responsible: 方聞一
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0041/ZB1a0041.org][ZB1a0041]] 易圖說
+*** [[mandoku:ZB1a0041.org][ZB1a0041]] 易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0041
 :SOURCE:   四庫全書 文淵閣版
@@ -454,7 +454,7 @@
 **** responsible: 吳仁傑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0042/ZB1a0042.org][ZB1a0042]] 古周易
+*** [[mandoku:ZB1a0042.org][ZB1a0042]] 古周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0042
 :SOURCE:   四庫全書 文淵閣版
@@ -465,7 +465,7 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0043/ZB1a0043.org][ZB1a0043]] 易傳燈
+*** [[mandoku:ZB1a0043.org][ZB1a0043]] 易傳燈
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0043
 :SOURCE:   四庫全書 文淵閣版
@@ -476,7 +476,7 @@
 **** responsible: 徐總幹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0044/ZB1a0044.org][ZB1a0044]] 易裨傳
+*** [[mandoku:ZB1a0044.org][ZB1a0044]] 易裨傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0044
 :SOURCE:   四庫全書 文淵閣版
@@ -487,7 +487,7 @@
 **** responsible: 林至
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0045/ZB1a0045.org][ZB1a0045]] 厚齋易學
+*** [[mandoku:ZB1a0045.org][ZB1a0045]] 厚齋易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0045
 :SOURCE:   四庫全書 文淵閣版
@@ -498,7 +498,7 @@
 **** responsible: 馮椅
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0046/ZB1a0046.org][ZB1a0046]] 童溪易傳
+*** [[mandoku:ZB1a0046.org][ZB1a0046]] 童溪易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0046
 :SOURCE:   四庫全書 文淵閣版
@@ -509,7 +509,7 @@
 **** responsible: 王宗傳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0047/ZB1a0047.org][ZB1a0047]] 周易總義
+*** [[mandoku:ZB1a0047.org][ZB1a0047]] 周易總義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0047
 :SOURCE:   四庫全書 文淵閣版
@@ -520,7 +520,7 @@
 **** responsible: 易祓
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0048/ZB1a0048.org][ZB1a0048]] 西谿易說
+*** [[mandoku:ZB1a0048.org][ZB1a0048]] 西谿易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0048
 :SOURCE:   四庫全書 文淵閣版
@@ -531,7 +531,7 @@
 **** responsible: 李過
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0049/ZB1a0049.org][ZB1a0049]] 丙子學易編
+*** [[mandoku:ZB1a0049.org][ZB1a0049]] 丙子學易編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0049
 :SOURCE:   四庫全書 文淵閣版
@@ -542,7 +542,7 @@
 **** responsible: 李心傳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0050/ZB1a0050.org][ZB1a0050]] 易通
+*** [[mandoku:ZB1a0050.org][ZB1a0050]] 易通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0050
 :SOURCE:   四庫全書 文淵閣版
@@ -553,7 +553,7 @@
 **** responsible: 趙以夫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0051/ZB1a0051.org][ZB1a0051]] 周易赴爻經傳訓解
+*** [[mandoku:ZB1a0051.org][ZB1a0051]] 周易赴爻經傳訓解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0051
 :SOURCE:   四庫全書 文淵閣版
@@ -564,7 +564,7 @@
 **** responsible: 蔡淵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0052/ZB1a0052.org][ZB1a0052]] 易象意言
+*** [[mandoku:ZB1a0052.org][ZB1a0052]] 易象意言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0052
 :SOURCE:   四庫全書 文淵閣版
@@ -575,7 +575,7 @@
 **** responsible: 蔡淵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0053/ZB1a0053.org][ZB1a0053]] 周易要義
+*** [[mandoku:ZB1a0053.org][ZB1a0053]] 周易要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0053
 :SOURCE:   四庫全書 文淵閣版
@@ -586,7 +586,7 @@
 **** responsible: 魏了翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0054/ZB1a0054.org][ZB1a0054]] 易翼傳上經
+*** [[mandoku:ZB1a0054.org][ZB1a0054]] 易翼傳上經
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0054
 :SOURCE:   四庫全書 文淵閣版
@@ -597,7 +597,7 @@
 **** responsible: 鄭汝諧
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0055/ZB1a0055.org][ZB1a0055]] 文公易說
+*** [[mandoku:ZB1a0055.org][ZB1a0055]] 文公易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0055
 :SOURCE:   四庫全書 文淵閣版
@@ -608,7 +608,7 @@
 **** responsible: 朱鑑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0056/ZB1a0056.org][ZB1a0056]] 易學啟蒙小傳
+*** [[mandoku:ZB1a0056.org][ZB1a0056]] 易學啟蒙小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0056
 :SOURCE:   四庫全書 文淵閣版
@@ -619,8 +619,8 @@
 **** responsible: 稅與權
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0056a/ZB1a0056a.org][ZB1a0056a]] 易學啟蒙小傳__易學啟蒙古經傳
-*** [[krp:ZB1a/ZB1a0057/ZB1a0057.org][ZB1a0057]] 周易輯聞
+*** [[mandoku:ZB1a0056a.org][ZB1a0056a]] 易學啟蒙小傳__易學啟蒙古經傳
+*** [[mandoku:ZB1a0057.org][ZB1a0057]] 周易輯聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0057
 :SOURCE:   四庫全書 文淵閣版
@@ -631,9 +631,9 @@
 **** responsible: 趙汝楳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0057a/ZB1a0057a.org][ZB1a0057a]] 周易輯聞__易雅
-*** [[krp:ZB1a/ZB1a0057b/ZB1a0057b.org][ZB1a0057b]] 周易輯聞__筮宗
-*** [[krp:ZB1a/ZB1a0058/ZB1a0058.org][ZB1a0058]] 用易詳解
+*** [[mandoku:ZB1a0057a.org][ZB1a0057a]] 周易輯聞__易雅
+*** [[mandoku:ZB1a0057b.org][ZB1a0057b]] 周易輯聞__筮宗
+*** [[mandoku:ZB1a0058.org][ZB1a0058]] 用易詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0058
 :SOURCE:   四庫全書 文淵閣版
@@ -644,7 +644,7 @@
 **** responsible: 李&
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0059/ZB1a0059.org][ZB1a0059]] 淙山讀周易
+*** [[mandoku:ZB1a0059.org][ZB1a0059]] 淙山讀周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0059
 :SOURCE:   四庫全書 文淵閣版
@@ -655,7 +655,7 @@
 **** responsible: 方寔孫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0060/ZB1a0060.org][ZB1a0060]] 周易傳義附錄
+*** [[mandoku:ZB1a0060.org][ZB1a0060]] 周易傳義附錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0060
 :SOURCE:   四庫全書 文淵閣版
@@ -666,7 +666,7 @@
 **** responsible: 董楷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0061/ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
+*** [[mandoku:ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0061
 :SOURCE:   四庫全書 文淵閣版
@@ -677,7 +677,7 @@
 **** responsible: 胡方平
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0062/ZB1a0062.org][ZB1a0062]] 三易備遺
+*** [[mandoku:ZB1a0062.org][ZB1a0062]] 三易備遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0062
 :SOURCE:   四庫全書 文淵閣版
@@ -688,7 +688,7 @@
 **** responsible: 朱元昇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0063/ZB1a0063.org][ZB1a0063]] 周易集說
+*** [[mandoku:ZB1a0063.org][ZB1a0063]] 周易集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0063
 :SOURCE:   四庫全書 文淵閣版
@@ -699,7 +699,7 @@
 **** responsible: 俞琰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0064/ZB1a0064.org][ZB1a0064]] 讀易擧要
+*** [[mandoku:ZB1a0064.org][ZB1a0064]] 讀易擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0064
 :SOURCE:   四庫全書 文淵閣版
@@ -710,7 +710,7 @@
 **** responsible: 俞琰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0065/ZB1a0065.org][ZB1a0065]] 易象義
+*** [[mandoku:ZB1a0065.org][ZB1a0065]] 易象義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0065
 :SOURCE:   四庫全書 文淵閣版
@@ -721,7 +721,7 @@
 **** responsible: 丁易東
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0066/ZB1a0066.org][ZB1a0066]] 易圖通變
+*** [[mandoku:ZB1a0066.org][ZB1a0066]] 易圖通變
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0066
 :SOURCE:   四庫全書 文淵閣版
@@ -732,8 +732,8 @@
 **** responsible: 雷思齊
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0066a/ZB1a0066a.org][ZB1a0066a]] 易圖通變__易筮通變
-*** [[krp:ZB1a/ZB1a0067/ZB1a0067.org][ZB1a0067]] 讀易私言
+*** [[mandoku:ZB1a0066a.org][ZB1a0066a]] 易圖通變__易筮通變
+*** [[mandoku:ZB1a0067.org][ZB1a0067]] 讀易私言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0067
 :SOURCE:   四庫全書 文淵閣版
@@ -744,7 +744,7 @@
 **** responsible: 許衡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0068/ZB1a0068.org][ZB1a0068]] 易附錄纂註
+*** [[mandoku:ZB1a0068.org][ZB1a0068]] 易附錄纂註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0068
 :SOURCE:   四庫全書 文淵閣版
@@ -755,7 +755,7 @@
 **** responsible: 胡一桂
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0069/ZB1a0069.org][ZB1a0069]] 周易啟蒙翼傳
+*** [[mandoku:ZB1a0069.org][ZB1a0069]] 周易啟蒙翼傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0069
 :SOURCE:   四庫全書 文淵閣版
@@ -766,7 +766,7 @@
 **** responsible: 胡一桂
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0070/ZB1a0070.org][ZB1a0070]] 易纂言
+*** [[mandoku:ZB1a0070.org][ZB1a0070]] 易纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0070
 :SOURCE:   四庫全書 文淵閣版
@@ -777,7 +777,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0071/ZB1a0071.org][ZB1a0071]] 易纂言外翼
+*** [[mandoku:ZB1a0071.org][ZB1a0071]] 易纂言外翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0071
 :SOURCE:   四庫全書 文淵閣版
@@ -788,7 +788,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0072/ZB1a0072.org][ZB1a0072]] 易源奧義
+*** [[mandoku:ZB1a0072.org][ZB1a0072]] 易源奧義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0072
 :SOURCE:   四庫全書 文淵閣版
@@ -799,8 +799,8 @@
 **** responsible: 保巴
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0072a/ZB1a0072a.org][ZB1a0072a]] 易源奧義__周易原旨
-*** [[krp:ZB1a/ZB1a0073/ZB1a0073.org][ZB1a0073]] 周易程朱傳義折衷
+*** [[mandoku:ZB1a0072a.org][ZB1a0072a]] 易源奧義__周易原旨
+*** [[mandoku:ZB1a0073.org][ZB1a0073]] 周易程朱傳義折衷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0073
 :SOURCE:   四庫全書 文淵閣版
@@ -811,7 +811,7 @@
 **** responsible: 趙采
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0074/ZB1a0074.org][ZB1a0074]] 周易衍義
+*** [[mandoku:ZB1a0074.org][ZB1a0074]] 周易衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0074
 :SOURCE:   四庫全書 文淵閣版
@@ -822,7 +822,7 @@
 **** responsible: 胡震
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0075/ZB1a0075.org][ZB1a0075]] 易學濫觴
+*** [[mandoku:ZB1a0075.org][ZB1a0075]] 易學濫觴
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0075
 :SOURCE:   四庫全書 文淵閣版
@@ -833,7 +833,7 @@
 **** responsible: 黃澤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0076/ZB1a0076.org][ZB1a0076]] 大易緝說
+*** [[mandoku:ZB1a0076.org][ZB1a0076]] 大易緝說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0076
 :SOURCE:   四庫全書 文淵閣版
@@ -844,7 +844,7 @@
 **** responsible: 王申子
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0077/ZB1a0077.org][ZB1a0077]] 周易本義通釋
+*** [[mandoku:ZB1a0077.org][ZB1a0077]] 周易本義通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0077
 :SOURCE:   四庫全書 文淵閣版
@@ -855,7 +855,7 @@
 **** responsible: 胡炳文
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0078/ZB1a0078.org][ZB1a0078]] 周易本義集成
+*** [[mandoku:ZB1a0078.org][ZB1a0078]] 周易本義集成
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0078
 :SOURCE:   四庫全書 文淵閣版
@@ -866,7 +866,7 @@
 **** responsible: 熊良輔
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0079/ZB1a0079.org][ZB1a0079]] 大易象數鈎深圖
+*** [[mandoku:ZB1a0079.org][ZB1a0079]] 大易象數鈎深圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0079
 :SOURCE:   四庫全書 文淵閣版
@@ -877,7 +877,7 @@
 **** responsible: 張理
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0080/ZB1a0080.org][ZB1a0080]] 學易記
+*** [[mandoku:ZB1a0080.org][ZB1a0080]] 學易記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0080
 :SOURCE:   四庫全書 文淵閣版
@@ -888,7 +888,7 @@
 **** responsible: 李簡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0081/ZB1a0081.org][ZB1a0081]] 周易集傳
+*** [[mandoku:ZB1a0081.org][ZB1a0081]] 周易集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0081
 :SOURCE:   四庫全書 文淵閣版
@@ -899,7 +899,7 @@
 **** responsible: 龍仁夫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0082/ZB1a0082.org][ZB1a0082]] 讀易考原
+*** [[mandoku:ZB1a0082.org][ZB1a0082]] 讀易考原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0082
 :SOURCE:   四庫全書 文淵閣版
@@ -910,7 +910,7 @@
 **** responsible: 蕭漢中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0083/ZB1a0083.org][ZB1a0083]] 易精蘊大義
+*** [[mandoku:ZB1a0083.org][ZB1a0083]] 易精蘊大義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0083
 :SOURCE:   四庫全書 文淵閣版
@@ -921,7 +921,7 @@
 **** responsible: 解蒙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0084/ZB1a0084.org][ZB1a0084]] 易學變通
+*** [[mandoku:ZB1a0084.org][ZB1a0084]] 易學變通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0084
 :SOURCE:   四庫全書 文淵閣版
@@ -932,7 +932,7 @@
 **** responsible: 曾貫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0085/ZB1a0085.org][ZB1a0085]] 周易會通
+*** [[mandoku:ZB1a0085.org][ZB1a0085]] 周易會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0085
 :SOURCE:   四庫全書 文淵閣版
@@ -943,7 +943,7 @@
 **** responsible: 董眞卿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0086/ZB1a0086.org][ZB1a0086]] 周易圖說
+*** [[mandoku:ZB1a0086.org][ZB1a0086]] 周易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0086
 :SOURCE:   四庫全書 文淵閣版
@@ -954,7 +954,7 @@
 **** responsible: 錢義方
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0087/ZB1a0087.org][ZB1a0087]] 周易爻變易縕
+*** [[mandoku:ZB1a0087.org][ZB1a0087]] 周易爻變易縕
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0087
 :SOURCE:   四庫全書 文淵閣版
@@ -965,7 +965,7 @@
 **** responsible: 陳應潤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0088/ZB1a0088.org][ZB1a0088]] 周易參義
+*** [[mandoku:ZB1a0088.org][ZB1a0088]] 周易參義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0088
 :SOURCE:   四庫全書 文淵閣版
@@ -976,7 +976,7 @@
 **** responsible: 梁寅
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0089/ZB1a0089.org][ZB1a0089]] 周易文詮
+*** [[mandoku:ZB1a0089.org][ZB1a0089]] 周易文詮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0089
 :SOURCE:   四庫全書 文淵閣版
@@ -987,7 +987,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0090/ZB1a0090.org][ZB1a0090]] 周易傳義大全
+*** [[mandoku:ZB1a0090.org][ZB1a0090]] 周易傳義大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0090
 :SOURCE:   四庫全書 文淵閣版
@@ -998,7 +998,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0091/ZB1a0091.org][ZB1a0091]] 易經蒙引
+*** [[mandoku:ZB1a0091.org][ZB1a0091]] 易經蒙引
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0091
 :SOURCE:   四庫全書 文淵閣版
@@ -1009,7 +1009,7 @@
 **** responsible: 蔡清
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0092/ZB1a0092.org][ZB1a0092]] 讀易餘言
+*** [[mandoku:ZB1a0092.org][ZB1a0092]] 讀易餘言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0092
 :SOURCE:   四庫全書 文淵閣版
@@ -1020,7 +1020,7 @@
 **** responsible: 崔銑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0093/ZB1a0093.org][ZB1a0093]] 啟蒙意見
+*** [[mandoku:ZB1a0093.org][ZB1a0093]] 啟蒙意見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0093
 :SOURCE:   四庫全書 文淵閣版
@@ -1031,7 +1031,7 @@
 **** responsible: 韓邦奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0094/ZB1a0094.org][ZB1a0094]] 易經存疑
+*** [[mandoku:ZB1a0094.org][ZB1a0094]] 易經存疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0094
 :SOURCE:   四庫全書 文淵閣版
@@ -1042,7 +1042,7 @@
 **** responsible: 林希元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0095/ZB1a0095.org][ZB1a0095]] 周易辯錄
+*** [[mandoku:ZB1a0095.org][ZB1a0095]] 周易辯錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0095
 :SOURCE:   四庫全書 文淵閣版
@@ -1053,7 +1053,7 @@
 **** responsible: 楊爵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0096/ZB1a0096.org][ZB1a0096]] 易象鈔
+*** [[mandoku:ZB1a0096.org][ZB1a0096]] 易象鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0096
 :SOURCE:   四庫全書 文淵閣版
@@ -1064,7 +1064,7 @@
 **** responsible: 胡居仁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0097/ZB1a0097.org][ZB1a0097]] 周易象旨决錄
+*** [[mandoku:ZB1a0097.org][ZB1a0097]] 周易象旨决錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0097
 :SOURCE:   四庫全書 文淵閣版
@@ -1075,7 +1075,7 @@
 **** responsible: 熊過
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0098/ZB1a0098.org][ZB1a0098]] 易象鈎解
+*** [[mandoku:ZB1a0098.org][ZB1a0098]] 易象鈎解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0098
 :SOURCE:   四庫全書 文淵閣版
@@ -1086,7 +1086,7 @@
 **** responsible: 陳士元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0099/ZB1a0099.org][ZB1a0099]] 周易集註
+*** [[mandoku:ZB1a0099.org][ZB1a0099]] 周易集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0099
 :SOURCE:   四庫全書 文淵閣版
@@ -1097,7 +1097,7 @@
 **** responsible: 來知德
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0100/ZB1a0100.org][ZB1a0100]] 讀易紀聞
+*** [[mandoku:ZB1a0100.org][ZB1a0100]] 讀易紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0100
 :SOURCE:   四庫全書 文淵閣版
@@ -1108,7 +1108,7 @@
 **** responsible: 張獻翼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0101/ZB1a0101.org][ZB1a0101]] 葉八白易傳
+*** [[mandoku:ZB1a0101.org][ZB1a0101]] 葉八白易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0101
 :SOURCE:   四庫全書 文淵閣版
@@ -1119,7 +1119,7 @@
 **** responsible: 葉山
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0102/ZB1a0102.org][ZB1a0102]] 讀易述
+*** [[mandoku:ZB1a0102.org][ZB1a0102]] 讀易述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0102
 :SOURCE:   四庫全書 文淵閣版
@@ -1130,7 +1130,7 @@
 **** responsible: 潘士藻
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0103/ZB1a0103.org][ZB1a0103]] 像象管見
+*** [[mandoku:ZB1a0103.org][ZB1a0103]] 像象管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0103
 :SOURCE:   四庫全書 文淵閣版
@@ -1141,7 +1141,7 @@
 **** responsible: 錢一本
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0104/ZB1a0104.org][ZB1a0104]] 周易劄記
+*** [[mandoku:ZB1a0104.org][ZB1a0104]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0104
 :SOURCE:   四庫全書 文淵閣版
@@ -1152,7 +1152,7 @@
 **** responsible: 逯中立
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0105/ZB1a0105.org][ZB1a0105]] 周易易簡說
+*** [[mandoku:ZB1a0105.org][ZB1a0105]] 周易易簡說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0105
 :SOURCE:   四庫全書 文淵閣版
@@ -1163,7 +1163,7 @@
 **** responsible: 高攀龍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0106/ZB1a0106.org][ZB1a0106]] 易義古象通
+*** [[mandoku:ZB1a0106.org][ZB1a0106]] 易義古象通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0106
 :SOURCE:   四庫全書 文淵閣版
@@ -1174,7 +1174,7 @@
 **** responsible: 魏濬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0107/ZB1a0107.org][ZB1a0107]] 周易像象述
+*** [[mandoku:ZB1a0107.org][ZB1a0107]] 周易像象述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0107
 :SOURCE:   四庫全書 文淵閣版
@@ -1185,7 +1185,7 @@
 **** responsible: 吳桂森
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0108/ZB1a0108.org][ZB1a0108]] 易用
+*** [[mandoku:ZB1a0108.org][ZB1a0108]] 易用
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0108
 :SOURCE:   四庫全書 文淵閣版
@@ -1196,7 +1196,7 @@
 **** responsible: 陳祖念
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0109/ZB1a0109.org][ZB1a0109]] 易象正
+*** [[mandoku:ZB1a0109.org][ZB1a0109]] 易象正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0109
 :SOURCE:   四庫全書 文淵閣版
@@ -1207,7 +1207,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0110/ZB1a0110.org][ZB1a0110]] 兒易內儀
+*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0110
 :SOURCE:   四庫全書 文淵閣版
@@ -1218,8 +1218,8 @@
 **** responsible: 倪元璐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0110a/ZB1a0110a.org][ZB1a0110a]] 兒易內儀以__兒易外儀
-*** [[krp:ZB1a/ZB1a0111/ZB1a0111.org][ZB1a0111]] 卦變考畧
+*** [[mandoku:ZB1a0110a.org][ZB1a0110a]] 兒易內儀以__兒易外儀
+*** [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0111
 :SOURCE:   四庫全書 文淵閣版
@@ -1230,7 +1230,7 @@
 **** responsible: 董守諭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0112/ZB1a0112.org][ZB1a0112]] 古周易訂詁
+*** [[mandoku:ZB1a0112.org][ZB1a0112]] 古周易訂詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0112
 :SOURCE:   四庫全書 文淵閣版
@@ -1241,7 +1241,7 @@
 **** responsible: 何楷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0113/ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
+*** [[mandoku:ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0113
 :SOURCE:   四庫全書 文淵閣版
@@ -1252,7 +1252,7 @@
 **** responsible: 張次仲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0114/ZB1a0114.org][ZB1a0114]] 易經通注
+*** [[mandoku:ZB1a0114.org][ZB1a0114]] 易經通注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0114
 :SOURCE:   四庫全書 文淵閣版
@@ -1263,7 +1263,7 @@
 **** responsible: 曹本榮
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0115/ZB1a0115.org][ZB1a0115]] 日講易經解義
+*** [[mandoku:ZB1a0115.org][ZB1a0115]] 日講易經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0115
 :SOURCE:   四庫全書 文淵閣版
@@ -1274,7 +1274,7 @@
 **** responsible: 牛鈕
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0116/ZB1a0116.org][ZB1a0116]] 御纂周易折中
+*** [[mandoku:ZB1a0116.org][ZB1a0116]] 御纂周易折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0116
 :SOURCE:   四庫全書 文淵閣版
@@ -1285,7 +1285,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0117/ZB1a0117.org][ZB1a0117]] 御纂周易述義
+*** [[mandoku:ZB1a0117.org][ZB1a0117]] 御纂周易述義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0117
 :SOURCE:   四庫全書 文淵閣版
@@ -1296,7 +1296,7 @@
 **** responsible: 傅恆
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0118/ZB1a0118.org][ZB1a0118]] 讀易大旨
+*** [[mandoku:ZB1a0118.org][ZB1a0118]] 讀易大旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0118
 :SOURCE:   四庫全書 文淵閣版
@@ -1307,7 +1307,7 @@
 **** responsible: 孫奇逢
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0119/ZB1a0119.org][ZB1a0119]] 周易稗疏
+*** [[mandoku:ZB1a0119.org][ZB1a0119]] 周易稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0119
 :SOURCE:   四庫全書 文淵閣版
@@ -1318,7 +1318,7 @@
 **** responsible: 王夫之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0120/ZB1a0120.org][ZB1a0120]] 易酌
+*** [[mandoku:ZB1a0120.org][ZB1a0120]] 易酌
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0120
 :SOURCE:   四庫全書 文淵閣版
@@ -1329,7 +1329,7 @@
 **** responsible: 刁包
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0121/ZB1a0121.org][ZB1a0121]] 田閒易學
+*** [[mandoku:ZB1a0121.org][ZB1a0121]] 田閒易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0121
 :SOURCE:   四庫全書 文淵閣版
@@ -1340,7 +1340,7 @@
 **** responsible: 錢澄之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0122/ZB1a0122.org][ZB1a0122]] 易學象數論
+*** [[mandoku:ZB1a0122.org][ZB1a0122]] 易學象數論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0122
 :SOURCE:   四庫全書 文淵閣版
@@ -1351,7 +1351,7 @@
 **** responsible: 黃宗羲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0123/ZB1a0123.org][ZB1a0123]] 周易象辭
+*** [[mandoku:ZB1a0123.org][ZB1a0123]] 周易象辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0123
 :SOURCE:   四庫全書 文淵閣版
@@ -1362,9 +1362,9 @@
 **** responsible: 黃宗炎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0123a/ZB1a0123a.org][ZB1a0123a]] 周易象辭__周易尋門餘論
-*** [[krp:ZB1a/ZB1a0123b/ZB1a0123b.org][ZB1a0123b]] 周易象辭__圖學辯惑
-*** [[krp:ZB1a/ZB1a0124/ZB1a0124.org][ZB1a0124]] 周易筮述
+*** [[mandoku:ZB1a0123a.org][ZB1a0123a]] 周易象辭__周易尋門餘論
+*** [[mandoku:ZB1a0123b.org][ZB1a0123b]] 周易象辭__圖學辯惑
+*** [[mandoku:ZB1a0124.org][ZB1a0124]] 周易筮述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0124
 :SOURCE:   四庫全書 文淵閣版
@@ -1375,7 +1375,7 @@
 **** responsible: 王弘撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0125/ZB1a0125.org][ZB1a0125]] 仲氏易
+*** [[mandoku:ZB1a0125.org][ZB1a0125]] 仲氏易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0125
 :SOURCE:   四庫全書 文淵閣版
@@ -1386,7 +1386,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0126/ZB1a0126.org][ZB1a0126]] 推易始末
+*** [[mandoku:ZB1a0126.org][ZB1a0126]] 推易始末
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0126
 :SOURCE:   四庫全書 文淵閣版
@@ -1397,7 +1397,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0127/ZB1a0127.org][ZB1a0127]] 春秋占筮書
+*** [[mandoku:ZB1a0127.org][ZB1a0127]] 春秋占筮書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0127
 :SOURCE:   四庫全書 文淵閣版
@@ -1408,7 +1408,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0128/ZB1a0128.org][ZB1a0128]] 易小帖
+*** [[mandoku:ZB1a0128.org][ZB1a0128]] 易小帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0128
 :SOURCE:   四庫全書 文淵閣版
@@ -1419,7 +1419,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0129/ZB1a0129.org][ZB1a0129]] 易俟
+*** [[mandoku:ZB1a0129.org][ZB1a0129]] 易俟
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0129
 :SOURCE:   四庫全書 文淵閣版
@@ -1430,7 +1430,7 @@
 **** responsible: 喬萊
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0130/ZB1a0130.org][ZB1a0130]] 讀易日鈔
+*** [[mandoku:ZB1a0130.org][ZB1a0130]] 讀易日鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0130
 :SOURCE:   四庫全書 文淵閣版
@@ -1441,7 +1441,7 @@
 **** responsible: 張烈
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0131/ZB1a0131.org][ZB1a0131]] 周易通論
+*** [[mandoku:ZB1a0131.org][ZB1a0131]] 周易通論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0131
 :SOURCE:   四庫全書 文淵閣版
@@ -1452,7 +1452,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0132/ZB1a0132.org][ZB1a0132]] 周易觀彖
+*** [[mandoku:ZB1a0132.org][ZB1a0132]] 周易觀彖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0132
 :SOURCE:   四庫全書 文淵閣版
@@ -1463,7 +1463,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0133/ZB1a0133.org][ZB1a0133]] 周易淺述
+*** [[mandoku:ZB1a0133.org][ZB1a0133]] 周易淺述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0133
 :SOURCE:   四庫全書 文淵閣版
@@ -1474,7 +1474,7 @@
 **** responsible: 陳夢雷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0134/ZB1a0134.org][ZB1a0134]] 易原就正
+*** [[mandoku:ZB1a0134.org][ZB1a0134]] 易原就正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0134
 :SOURCE:   四庫全書 文淵閣版
@@ -1485,7 +1485,7 @@
 **** responsible: 包儀
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0135/ZB1a0135.org][ZB1a0135]] 大易通解
+*** [[mandoku:ZB1a0135.org][ZB1a0135]] 大易通解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0135
 :SOURCE:   四庫全書 文淵閣版
@@ -1496,7 +1496,7 @@
 **** responsible: 魏荔彤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0136/ZB1a0136.org][ZB1a0136]] 易經衷論
+*** [[mandoku:ZB1a0136.org][ZB1a0136]] 易經衷論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0136
 :SOURCE:   四庫全書 文淵閣版
@@ -1507,7 +1507,7 @@
 **** responsible: 張英
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0137/ZB1a0137.org][ZB1a0137]] 易圖明辨
+*** [[mandoku:ZB1a0137.org][ZB1a0137]] 易圖明辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0137
 :SOURCE:   四庫全書 文淵閣版
@@ -1518,7 +1518,7 @@
 **** responsible: 胡渭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0138/ZB1a0138.org][ZB1a0138]] 合訂刪補大易集義粹言
+*** [[mandoku:ZB1a0138.org][ZB1a0138]] 合訂刪補大易集義粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0138
 :SOURCE:   四庫全書 文淵閣版
@@ -1529,7 +1529,7 @@
 **** responsible: 納喇性德
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0139/ZB1a0139.org][ZB1a0139]] 周易傳註
+*** [[mandoku:ZB1a0139.org][ZB1a0139]] 周易傳註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0139
 :SOURCE:   四庫全書 文淵閣版
@@ -1540,8 +1540,8 @@
 **** responsible: 李塨
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0139a/ZB1a0139a.org][ZB1a0139a]] 周易傳註__周易筮考
-*** [[krp:ZB1a/ZB1a0140/ZB1a0140.org][ZB1a0140]] 周易劄記
+*** [[mandoku:ZB1a0139a.org][ZB1a0139a]] 周易傳註__周易筮考
+*** [[mandoku:ZB1a0140.org][ZB1a0140]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0140
 :SOURCE:   四庫全書 文淵閣版
@@ -1552,7 +1552,7 @@
 **** responsible: 楊名時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0141/ZB1a0141.org][ZB1a0141]] 周易傳義合訂
+*** [[mandoku:ZB1a0141.org][ZB1a0141]] 周易傳義合訂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0141
 :SOURCE:   四庫全書 文淵閣版
@@ -1563,7 +1563,7 @@
 **** responsible: 朱軾
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0142/ZB1a0142.org][ZB1a0142]] 周易玩辭集解
+*** [[mandoku:ZB1a0142.org][ZB1a0142]] 周易玩辭集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0142
 :SOURCE:   四庫全書 文淵閣版
@@ -1574,7 +1574,7 @@
 **** responsible: 查愼行
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0143/ZB1a0143.org][ZB1a0143]] 易說
+*** [[mandoku:ZB1a0143.org][ZB1a0143]] 易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0143
 :SOURCE:   四庫全書 文淵閣版
@@ -1585,7 +1585,7 @@
 **** responsible: 惠士奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0144/ZB1a0144.org][ZB1a0144]] 周易函書約存
+*** [[mandoku:ZB1a0144.org][ZB1a0144]] 周易函書約存
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0144
 :SOURCE:   四庫全書 文淵閣版
@@ -1596,9 +1596,9 @@
 **** responsible: 胡煦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0144a/ZB1a0144a.org][ZB1a0144a]] 周易函書約存__周易函書約註
-*** [[krp:ZB1a/ZB1a0144b/ZB1a0144b.org][ZB1a0144b]] 周易函書約存__周易函書別集
-*** [[krp:ZB1a/ZB1a0145/ZB1a0145.org][ZB1a0145]] 易箋
+*** [[mandoku:ZB1a0144a.org][ZB1a0144a]] 周易函書約存__周易函書約註
+*** [[mandoku:ZB1a0144b.org][ZB1a0144b]] 周易函書約存__周易函書別集
+*** [[mandoku:ZB1a0145.org][ZB1a0145]] 易箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0145
 :SOURCE:   四庫全書 文淵閣版
@@ -1609,7 +1609,7 @@
 **** responsible: 陳法
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0146/ZB1a0146.org][ZB1a0146]] 學易初津
+*** [[mandoku:ZB1a0146.org][ZB1a0146]] 學易初津
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0146
 :SOURCE:   四庫全書 文淵閣版
@@ -1620,9 +1620,9 @@
 **** responsible: 晏斯盛
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0146a/ZB1a0146a.org][ZB1a0146a]] 易翼宗
-*** [[krp:ZB1a/ZB1a0146b/ZB1a0146b.org][ZB1a0146b]] 易翼說
-*** [[krp:ZB1a/ZB1a0147/ZB1a0147.org][ZB1a0147]] 周易孔義集說
+*** [[mandoku:ZB1a0146a.org][ZB1a0146a]] 易翼宗
+*** [[mandoku:ZB1a0146b.org][ZB1a0146b]] 易翼說
+*** [[mandoku:ZB1a0147.org][ZB1a0147]] 周易孔義集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0147
 :SOURCE:   四庫全書 文淵閣版
@@ -1633,7 +1633,7 @@
 **** responsible: 沈起元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0148/ZB1a0148.org][ZB1a0148]] 易翼述信
+*** [[mandoku:ZB1a0148.org][ZB1a0148]] 易翼述信
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0148
 :SOURCE:   四庫全書 文淵閣版
@@ -1644,7 +1644,7 @@
 **** responsible: 王又樸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0149/ZB1a0149.org][ZB1a0149]] 周易淺釋
+*** [[mandoku:ZB1a0149.org][ZB1a0149]] 周易淺釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0149
 :SOURCE:   四庫全書 文淵閣版
@@ -1655,7 +1655,7 @@
 **** responsible: 潘思榘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0150/ZB1a0150.org][ZB1a0150]] 周易洗心
+*** [[mandoku:ZB1a0150.org][ZB1a0150]] 周易洗心
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0150
 :SOURCE:   四庫全書 文淵閣版
@@ -1666,7 +1666,7 @@
 **** responsible: 任啟運
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0151/ZB1a0151.org][ZB1a0151]] 豐川易說
+*** [[mandoku:ZB1a0151.org][ZB1a0151]] 豐川易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0151
 :SOURCE:   四庫全書 文淵閣版
@@ -1677,7 +1677,7 @@
 **** responsible: 王心敬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0152/ZB1a0152.org][ZB1a0152]] 周易述
+*** [[mandoku:ZB1a0152.org][ZB1a0152]] 周易述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0152
 :SOURCE:   四庫全書 文淵閣版
@@ -1688,7 +1688,7 @@
 **** responsible: 惠棟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0153/ZB1a0153.org][ZB1a0153]] 易漢學
+*** [[mandoku:ZB1a0153.org][ZB1a0153]] 易漢學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0153
 :SOURCE:   四庫全書 文淵閣版
@@ -1699,7 +1699,7 @@
 **** responsible: 惠棟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0154/ZB1a0154.org][ZB1a0154]] 易例
+*** [[mandoku:ZB1a0154.org][ZB1a0154]] 易例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0154
 :SOURCE:   四庫全書 文淵閣版
@@ -1710,7 +1710,7 @@
 **** responsible: 惠棟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0155/ZB1a0155.org][ZB1a0155]] 易象大意存解
+*** [[mandoku:ZB1a0155.org][ZB1a0155]] 易象大意存解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0155
 :SOURCE:   四庫全書 文淵閣版
@@ -1721,7 +1721,7 @@
 **** responsible: 任陳晉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0156/ZB1a0156.org][ZB1a0156]] 大易擇言
+*** [[mandoku:ZB1a0156.org][ZB1a0156]] 大易擇言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0156
 :SOURCE:   四庫全書 文淵閣版
@@ -1732,7 +1732,7 @@
 **** responsible: 程廷祚
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0157/ZB1a0157.org][ZB1a0157]] 周易辨畫
+*** [[mandoku:ZB1a0157.org][ZB1a0157]] 周易辨畫
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0157
 :SOURCE:   四庫全書 文淵閣版
@@ -1743,7 +1743,7 @@
 **** responsible: 連斗山
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0158/ZB1a0158.org][ZB1a0158]] 周易圖書質疑
+*** [[mandoku:ZB1a0158.org][ZB1a0158]] 周易圖書質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0158
 :SOURCE:   四庫全書 文淵閣版
@@ -1754,7 +1754,7 @@
 **** responsible: 趙繼序
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0159/ZB1a0159.org][ZB1a0159]] 周易章句證異
+*** [[mandoku:ZB1a0159.org][ZB1a0159]] 周易章句證異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0159
 :SOURCE:   四庫全書 文淵閣版
@@ -1765,7 +1765,7 @@
 **** responsible: 翟圴廉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0160/ZB1a0160.org][ZB1a0160]] 乾坤鑿度
+*** [[mandoku:ZB1a0160.org][ZB1a0160]] 乾坤鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0160
 :SOURCE:   四庫全書 文淵閣版
@@ -1776,7 +1776,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0161/ZB1a0161.org][ZB1a0161]] 易緯稽覽圖
+*** [[mandoku:ZB1a0161.org][ZB1a0161]] 易緯稽覽圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0161
 :SOURCE:   四庫全書 文淵閣版
@@ -1787,7 +1787,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0162/ZB1a0162.org][ZB1a0162]] 易緯辨終備
+*** [[mandoku:ZB1a0162.org][ZB1a0162]] 易緯辨終備
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0162
 :SOURCE:   四庫全書 文淵閣版
@@ -1798,7 +1798,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0163/ZB1a0163.org][ZB1a0163]] 周易乾鑿度
+*** [[mandoku:ZB1a0163.org][ZB1a0163]] 周易乾鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0163
 :SOURCE:   四庫全書 文淵閣版
@@ -1809,7 +1809,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0164/ZB1a0164.org][ZB1a0164]] 易緯通卦驗
+*** [[mandoku:ZB1a0164.org][ZB1a0164]] 易緯通卦驗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0164
 :SOURCE:   四庫全書 文淵閣版
@@ -1820,7 +1820,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0165/ZB1a0165.org][ZB1a0165]] 易緯乾元序制記
+*** [[mandoku:ZB1a0165.org][ZB1a0165]] 易緯乾元序制記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0165
 :SOURCE:   四庫全書 文淵閣版
@@ -1831,7 +1831,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0166/ZB1a0166.org][ZB1a0166]] 易緯是類謀
+*** [[mandoku:ZB1a0166.org][ZB1a0166]] 易緯是類謀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0166
 :SOURCE:   四庫全書 文淵閣版
@@ -1842,7 +1842,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0167/ZB1a0167.org][ZB1a0167]] 易緯坤靈圖
+*** [[mandoku:ZB1a0167.org][ZB1a0167]] 易緯坤靈圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0167
 :SOURCE:   四庫全書 文淵閣版
@@ -1853,7 +1853,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0168/ZB1a0168.org][ZB1a0168]] 尚書注疏
+*** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
 :SOURCE:   四庫全書 文淵閣版
@@ -1864,7 +1864,7 @@
 **** responsible: 孔安國
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1a/ZB1a0169/ZB1a0169.org][ZB1a0169]] 洪範口義
+*** [[mandoku:ZB1a0169.org][ZB1a0169]] 洪範口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0169
 :SOURCE:   四庫全書 文淵閣版
@@ -1876,7 +1876,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1b 書類
-*** [[krp:ZB1b/ZB1b0001/ZB1b0001.org][ZB1b0001]] 書傳
+*** [[mandoku:ZB1b0001.org][ZB1b0001]] 書傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0001
 :SOURCE:   四庫全書 文淵閣版
@@ -1887,7 +1887,7 @@
 **** responsible: 蘇軾
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0002/ZB1b0002.org][ZB1b0002]] 尚書
+*** [[mandoku:ZB1b0002.org][ZB1b0002]] 尚書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0002
 :SOURCE:   四庫全書 文淵閣版
@@ -1898,7 +1898,7 @@
 **** responsible: 林之奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0003/ZB1b0003.org][ZB1b0003]] 禹貢指南
+*** [[mandoku:ZB1b0003.org][ZB1b0003]] 禹貢指南
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0003
 :SOURCE:   四庫全書 文淵閣版
@@ -1909,7 +1909,7 @@
 **** responsible: 毛晃
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0004/ZB1b0004.org][ZB1b0004]] 禹貢論
+*** [[mandoku:ZB1b0004.org][ZB1b0004]] 禹貢論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0004
 :SOURCE:   四庫全書 文淵閣版
@@ -1920,9 +1920,9 @@
 **** responsible: 程大昌
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0004a/ZB1b0004a.org][ZB1b0004a]] 禹貢論__禹貢後論
-*** [[krp:ZB1b/ZB1b0004b/ZB1b0004b.org][ZB1b0004b]] 禹貢論__禹貢山川地理圖
-*** [[krp:ZB1b/ZB1b0005/ZB1b0005.org][ZB1b0005]] 尚書講義
+*** [[mandoku:ZB1b0004a.org][ZB1b0004a]] 禹貢論__禹貢後論
+*** [[mandoku:ZB1b0004b.org][ZB1b0004b]] 禹貢論__禹貢山川地理圖
+*** [[mandoku:ZB1b0005.org][ZB1b0005]] 尚書講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0005
 :SOURCE:   四庫全書 文淵閣版
@@ -1933,7 +1933,7 @@
 **** responsible: 史浩
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0006/ZB1b0006.org][ZB1b0006]] 尚書詳解
+*** [[mandoku:ZB1b0006.org][ZB1b0006]] 尚書詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0006
 :SOURCE:   四庫全書 文淵閣版
@@ -1944,7 +1944,7 @@
 **** responsible: 夏僎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0007/ZB1b0007.org][ZB1b0007]] 禹貢說斷
+*** [[mandoku:ZB1b0007.org][ZB1b0007]] 禹貢說斷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0007
 :SOURCE:   四庫全書 文淵閣版
@@ -1955,7 +1955,7 @@
 **** responsible: 傅寅
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0008/ZB1b0008.org][ZB1b0008]] 增修東萊書說
+*** [[mandoku:ZB1b0008.org][ZB1b0008]] 增修東萊書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0008
 :SOURCE:   四庫全書 文淵閣版
@@ -1966,7 +1966,7 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0009/ZB1b0009.org][ZB1b0009]] 尚書說
+*** [[mandoku:ZB1b0009.org][ZB1b0009]] 尚書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0009
 :SOURCE:   四庫全書 文淵閣版
@@ -1977,7 +1977,7 @@
 **** responsible: 黃度
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0010/ZB1b0010.org][ZB1b0010]] 五誥解
+*** [[mandoku:ZB1b0010.org][ZB1b0010]] 五誥解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0010
 :SOURCE:   四庫全書 文淵閣版
@@ -1988,7 +1988,7 @@
 **** responsible: 楊簡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0011/ZB1b0011.org][ZB1b0011]] 絜齋家塾書鈔
+*** [[mandoku:ZB1b0011.org][ZB1b0011]] 絜齋家塾書鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0011
 :SOURCE:   四庫全書 文淵閣版
@@ -1999,7 +1999,7 @@
 **** responsible: 袁燮
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0012/ZB1b0012.org][ZB1b0012]] 書經集傳
+*** [[mandoku:ZB1b0012.org][ZB1b0012]] 書經集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0012
 :SOURCE:   四庫全書 文淵閣版
@@ -2010,7 +2010,7 @@
 **** responsible: 蔡沈
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0013/ZB1b0013.org][ZB1b0013]] 尚書精義
+*** [[mandoku:ZB1b0013.org][ZB1b0013]] 尚書精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0013
 :SOURCE:   四庫全書 文淵閣版
@@ -2021,7 +2021,7 @@
 **** responsible: 黃倫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0014/ZB1b0014.org][ZB1b0014]] 尚書詳解
+*** [[mandoku:ZB1b0014.org][ZB1b0014]] 尚書詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0014
 :SOURCE:   四庫全書 文淵閣版
@@ -2032,7 +2032,7 @@
 **** responsible: 陳經
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0015/ZB1b0015.org][ZB1b0015]] 融尚書解
+*** [[mandoku:ZB1b0015.org][ZB1b0015]] 融尚書解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0015
 :SOURCE:   四庫全書 文淵閣版
@@ -2043,7 +2043,7 @@
 **** responsible: 錢時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0016/ZB1b0016.org][ZB1b0016]] 洪範統一
+*** [[mandoku:ZB1b0016.org][ZB1b0016]] 洪範統一
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0016
 :SOURCE:   四庫全書 文淵閣版
@@ -2054,7 +2054,7 @@
 **** responsible: 趙善湘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0017/ZB1b0017.org][ZB1b0017]] 尚書要義
+*** [[mandoku:ZB1b0017.org][ZB1b0017]] 尚書要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0017
 :SOURCE:   四庫全書 文淵閣版
@@ -2065,7 +2065,7 @@
 **** responsible: 魏了翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0018/ZB1b0018.org][ZB1b0018]] 書集傳或問
+*** [[mandoku:ZB1b0018.org][ZB1b0018]] 書集傳或問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0018
 :SOURCE:   四庫全書 文淵閣版
@@ -2076,7 +2076,7 @@
 **** responsible: 陳大猷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0019/ZB1b0019.org][ZB1b0019]] 尚書詳解
+*** [[mandoku:ZB1b0019.org][ZB1b0019]] 尚書詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0019
 :SOURCE:   四庫全書 文淵閣版
@@ -2087,7 +2087,7 @@
 **** responsible: 胡士行
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0020/ZB1b0020.org][ZB1b0020]] 尚書表注
+*** [[mandoku:ZB1b0020.org][ZB1b0020]] 尚書表注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0020
 :SOURCE:   四庫全書 文淵閣版
@@ -2098,7 +2098,7 @@
 **** responsible: 金履祥
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0021/ZB1b0021.org][ZB1b0021]] 書纂言
+*** [[mandoku:ZB1b0021.org][ZB1b0021]] 書纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0021
 :SOURCE:   四庫全書 文淵閣版
@@ -2109,7 +2109,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0022/ZB1b0022.org][ZB1b0022]] 書集傳纂疏
+*** [[mandoku:ZB1b0022.org][ZB1b0022]] 書集傳纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0022
 :SOURCE:   四庫全書 文淵閣版
@@ -2120,7 +2120,7 @@
 **** responsible: 陳櫟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0023/ZB1b0023.org][ZB1b0023]] 讀書叢說
+*** [[mandoku:ZB1b0023.org][ZB1b0023]] 讀書叢說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0023
 :SOURCE:   四庫全書 文淵閣版
@@ -2131,7 +2131,7 @@
 **** responsible: 許謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0024/ZB1b0024.org][ZB1b0024]] 書傳輯錄纂註
+*** [[mandoku:ZB1b0024.org][ZB1b0024]] 書傳輯錄纂註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0024
 :SOURCE:   四庫全書 文淵閣版
@@ -2142,7 +2142,7 @@
 **** responsible: 董鼎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0025/ZB1b0025.org][ZB1b0025]] 尚書通考
+*** [[mandoku:ZB1b0025.org][ZB1b0025]] 尚書通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0025
 :SOURCE:   四庫全書 文淵閣版
@@ -2153,7 +2153,7 @@
 **** responsible: 黃鎭成
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0026/ZB1b0026.org][ZB1b0026]] 書蔡氏傳旁通
+*** [[mandoku:ZB1b0026.org][ZB1b0026]] 書蔡氏傳旁通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0026
 :SOURCE:   四庫全書 文淵閣版
@@ -2164,7 +2164,7 @@
 **** responsible: 陳師凱
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0027/ZB1b0027.org][ZB1b0027]] 讀書管見
+*** [[mandoku:ZB1b0027.org][ZB1b0027]] 讀書管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0027
 :SOURCE:   四庫全書 文淵閣版
@@ -2175,7 +2175,7 @@
 **** responsible: 王充耘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0028/ZB1b0028.org][ZB1b0028]] 書義斷法
+*** [[mandoku:ZB1b0028.org][ZB1b0028]] 書義斷法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0028
 :SOURCE:   四庫全書 文淵閣版
@@ -2186,7 +2186,7 @@
 **** responsible: 陳悅道
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0029/ZB1b0029.org][ZB1b0029]] 尚書纂傳
+*** [[mandoku:ZB1b0029.org][ZB1b0029]] 尚書纂傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0029
 :SOURCE:   四庫全書 文淵閣版
@@ -2197,7 +2197,7 @@
 **** responsible: 王夫與
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0030/ZB1b0030.org][ZB1b0030]] 尚書句解
+*** [[mandoku:ZB1b0030.org][ZB1b0030]] 尚書句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0030
 :SOURCE:   四庫全書 文淵閣版
@@ -2208,7 +2208,7 @@
 **** responsible: 朱祖義
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0031/ZB1b0031.org][ZB1b0031]] 書傳會選
+*** [[mandoku:ZB1b0031.org][ZB1b0031]] 書傳會選
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0031
 :SOURCE:   四庫全書 文淵閣版
@@ -2219,7 +2219,7 @@
 **** responsible: 劉三吾
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0032/ZB1b0032.org][ZB1b0032]] 書經大全
+*** [[mandoku:ZB1b0032.org][ZB1b0032]] 書經大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0032
 :SOURCE:   四庫全書 文淵閣版
@@ -2230,7 +2230,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0033/ZB1b0033.org][ZB1b0033]] 尚書考異
+*** [[mandoku:ZB1b0033.org][ZB1b0033]] 尚書考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0033
 :SOURCE:   四庫全書 文淵閣版
@@ -2241,7 +2241,7 @@
 **** responsible: 梅鷟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0034/ZB1b0034.org][ZB1b0034]] 尚書疑義
+*** [[mandoku:ZB1b0034.org][ZB1b0034]] 尚書疑義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0034
 :SOURCE:   四庫全書 文淵閣版
@@ -2252,7 +2252,7 @@
 **** responsible: 馬明衡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0035/ZB1b0035.org][ZB1b0035]] 尚書日記
+*** [[mandoku:ZB1b0035.org][ZB1b0035]] 尚書日記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0035
 :SOURCE:   四庫全書 文淵閣版
@@ -2263,7 +2263,7 @@
 **** responsible: 王樵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0036/ZB1b0036.org][ZB1b0036]] 尚書砭蔡編
+*** [[mandoku:ZB1b0036.org][ZB1b0036]] 尚書砭蔡編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0036
 :SOURCE:   四庫全書 文淵閣版
@@ -2274,7 +2274,7 @@
 **** responsible: 袁仁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0037/ZB1b0037.org][ZB1b0037]] 尚書注考
+*** [[mandoku:ZB1b0037.org][ZB1b0037]] 尚書注考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0037
 :SOURCE:   四庫全書 文淵閣版
@@ -2285,7 +2285,7 @@
 **** responsible: 陳泰交
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0038/ZB1b0038.org][ZB1b0038]] 尚書疏衍
+*** [[mandoku:ZB1b0038.org][ZB1b0038]] 尚書疏衍
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0038
 :SOURCE:   四庫全書 文淵閣版
@@ -2296,7 +2296,7 @@
 **** responsible: 陳第
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0039/ZB1b0039.org][ZB1b0039]] 洪範明義
+*** [[mandoku:ZB1b0039.org][ZB1b0039]] 洪範明義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0039
 :SOURCE:   四庫全書 文淵閣版
@@ -2307,7 +2307,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0040/ZB1b0040.org][ZB1b0040]] 日講書經解義
+*** [[mandoku:ZB1b0040.org][ZB1b0040]] 日講書經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0040
 :SOURCE:   四庫全書 文淵閣版
@@ -2318,7 +2318,7 @@
 **** responsible: 庫勒納
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0041/ZB1b0041.org][ZB1b0041]] 欽定書經傳說彙纂
+*** [[mandoku:ZB1b0041.org][ZB1b0041]] 欽定書經傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0041
 :SOURCE:   四庫全書 文淵閣版
@@ -2329,7 +2329,7 @@
 **** responsible: 王頊齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0042/ZB1b0042.org][ZB1b0042]] 尚書稗疏
+*** [[mandoku:ZB1b0042.org][ZB1b0042]] 尚書稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0042
 :SOURCE:   四庫全書 文淵閣版
@@ -2340,7 +2340,7 @@
 **** responsible: 王夫之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0043/ZB1b0043.org][ZB1b0043]] 尚書古文疏證
+*** [[mandoku:ZB1b0043.org][ZB1b0043]] 尚書古文疏證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0043
 :SOURCE:   四庫全書 文淵閣版
@@ -2351,7 +2351,7 @@
 **** responsible: 閻若璩
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0044/ZB1b0044.org][ZB1b0044]] 古文尚書&詞
+*** [[mandoku:ZB1b0044.org][ZB1b0044]] 古文尚書&詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0044
 :SOURCE:   四庫全書 文淵閣版
@@ -2362,7 +2362,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0045/ZB1b0045.org][ZB1b0045]] 尚書廣聽錄
+*** [[mandoku:ZB1b0045.org][ZB1b0045]] 尚書廣聽錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0045
 :SOURCE:   四庫全書 文淵閣版
@@ -2373,7 +2373,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0046/ZB1b0046.org][ZB1b0046]] 尚書埤傳
+*** [[mandoku:ZB1b0046.org][ZB1b0046]] 尚書埤傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0046
 :SOURCE:   四庫全書 文淵閣版
@@ -2384,7 +2384,7 @@
 **** responsible: 朱鶴齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0047/ZB1b0047.org][ZB1b0047]] 禹貢長箋
+*** [[mandoku:ZB1b0047.org][ZB1b0047]] 禹貢長箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0047
 :SOURCE:   四庫全書 文淵閣版
@@ -2395,7 +2395,7 @@
 **** responsible: 朱鶴齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0048/ZB1b0048.org][ZB1b0048]] 禹貢錐指
+*** [[mandoku:ZB1b0048.org][ZB1b0048]] 禹貢錐指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0048
 :SOURCE:   四庫全書 文淵閣版
@@ -2406,7 +2406,7 @@
 **** responsible: 胡渭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0049/ZB1b0049.org][ZB1b0049]] 洪範正論
+*** [[mandoku:ZB1b0049.org][ZB1b0049]] 洪範正論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0049
 :SOURCE:   四庫全書 文淵閣版
@@ -2417,7 +2417,7 @@
 **** responsible: 胡渭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0050/ZB1b0050.org][ZB1b0050]] 尚書七篇解義
+*** [[mandoku:ZB1b0050.org][ZB1b0050]] 尚書七篇解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0050
 :SOURCE:   四庫全書 文淵閣版
@@ -2428,7 +2428,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0051/ZB1b0051.org][ZB1b0051]] 書經衷論
+*** [[mandoku:ZB1b0051.org][ZB1b0051]] 書經衷論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0051
 :SOURCE:   四庫全書 文淵閣版
@@ -2439,7 +2439,7 @@
 **** responsible: 張英
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0052/ZB1b0052.org][ZB1b0052]] 尚書地理今釋
+*** [[mandoku:ZB1b0052.org][ZB1b0052]] 尚書地理今釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0052
 :SOURCE:   四庫全書 文淵閣版
@@ -2450,7 +2450,7 @@
 **** responsible: 蔣廷錫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0053/ZB1b0053.org][ZB1b0053]] 禹貢會箋
+*** [[mandoku:ZB1b0053.org][ZB1b0053]] 禹貢會箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0053
 :SOURCE:   四庫全書 文淵閣版
@@ -2461,7 +2461,7 @@
 **** responsible: 徐文靖
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0054/ZB1b0054.org][ZB1b0054]] 尚書大傳
+*** [[mandoku:ZB1b0054.org][ZB1b0054]] 尚書大傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0054
 :SOURCE:   四庫全書 文淵閣版
@@ -2472,7 +2472,7 @@
 **** responsible: 伏勝
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0055/ZB1b0055.org][ZB1b0055]] 書義矜式
+*** [[mandoku:ZB1b0055.org][ZB1b0055]] 書義矜式
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0055
 :SOURCE:   四庫全書 文淵閣版
@@ -2483,7 +2483,7 @@
 **** responsible: 王充耘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0056/ZB1b0056.org][ZB1b0056]] 詩序
+*** [[mandoku:ZB1b0056.org][ZB1b0056]] 詩序
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0056
 :SOURCE:   四庫全書 文淵閣版
@@ -2494,7 +2494,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0057/ZB1b0057.org][ZB1b0057]] 毛詩注疏
+*** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
 :SOURCE:   四庫全書 文淵閣版
@@ -2505,7 +2505,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1b/ZB1b0058/ZB1b0058.org][ZB1b0058]] 毛詩草木鳥獸蟲魚疏
+*** [[mandoku:ZB1b0058.org][ZB1b0058]] 毛詩草木鳥獸蟲魚疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0058
 :SOURCE:   四庫全書 文淵閣版
@@ -2517,7 +2517,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1c 詩類
-*** [[krp:ZB1c/ZB1c0001/ZB1c0001.org][ZB1c0001]] 陸氏詩疏廣要
+*** [[mandoku:ZB1c0001.org][ZB1c0001]] 陸氏詩疏廣要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0001
 :SOURCE:   四庫全書 文淵閣版
@@ -2528,7 +2528,7 @@
 **** responsible: 毛晉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0002/ZB1c0002.org][ZB1c0002]] 毛詩指說
+*** [[mandoku:ZB1c0002.org][ZB1c0002]] 毛詩指說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0002
 :SOURCE:   四庫全書 文淵閣版
@@ -2539,7 +2539,7 @@
 **** responsible: 成伯璵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0003/ZB1c0003.org][ZB1c0003]] 詩本義
+*** [[mandoku:ZB1c0003.org][ZB1c0003]] 詩本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0003
 :SOURCE:   四庫全書 文淵閣版
@@ -2550,7 +2550,7 @@
 **** responsible: 歐陽修
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0004/ZB1c0004.org][ZB1c0004]] 詩集傳
+*** [[mandoku:ZB1c0004.org][ZB1c0004]] 詩集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0004
 :SOURCE:   四庫全書 文淵閣版
@@ -2561,7 +2561,7 @@
 **** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0005/ZB1c0005.org][ZB1c0005]] 毛詩名物解
+*** [[mandoku:ZB1c0005.org][ZB1c0005]] 毛詩名物解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0005
 :SOURCE:   四庫全書 文淵閣版
@@ -2572,7 +2572,7 @@
 **** responsible: 蔡卞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0006/ZB1c0006.org][ZB1c0006]] 毛詩集解
+*** [[mandoku:ZB1c0006.org][ZB1c0006]] 毛詩集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0006
 :SOURCE:   四庫全書 文淵閣版
@@ -2583,7 +2583,7 @@
 **** responsible: 李樗
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0007/ZB1c0007.org][ZB1c0007]] 詩補傳
+*** [[mandoku:ZB1c0007.org][ZB1c0007]] 詩補傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0007
 :SOURCE:   四庫全書 文淵閣版
@@ -2594,7 +2594,7 @@
 **** responsible: 范處義
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0008/ZB1c0008.org][ZB1c0008]] 詩總聞
+*** [[mandoku:ZB1c0008.org][ZB1c0008]] 詩總聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0008
 :SOURCE:   四庫全書 文淵閣版
@@ -2605,7 +2605,7 @@
 **** responsible: 王質
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0009/ZB1c0009.org][ZB1c0009]] 詩經集傳
+*** [[mandoku:ZB1c0009.org][ZB1c0009]] 詩經集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0009
 :SOURCE:   四庫全書 文淵閣版
@@ -2616,7 +2616,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0010/ZB1c0010.org][ZB1c0010]] 慈湖詩傳
+*** [[mandoku:ZB1c0010.org][ZB1c0010]] 慈湖詩傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0010
 :SOURCE:   四庫全書 文淵閣版
@@ -2627,7 +2627,7 @@
 **** responsible: 楊簡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0011/ZB1c0011.org][ZB1c0011]] 呂氏家塾讀詩記
+*** [[mandoku:ZB1c0011.org][ZB1c0011]] 呂氏家塾讀詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0011
 :SOURCE:   四庫全書 文淵閣版
@@ -2638,7 +2638,7 @@
 **** responsible:  呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0012/ZB1c0012.org][ZB1c0012]] 續呂氏家塾讀詩記
+*** [[mandoku:ZB1c0012.org][ZB1c0012]] 續呂氏家塾讀詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0012
 :SOURCE:   四庫全書 文淵閣版
@@ -2649,8 +2649,8 @@
 **** responsible: 戴溪
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0012a/ZB1c0012a.org][ZB1c0012a]] 絜齋毛詩經筵講義
-*** [[krp:ZB1c/ZB1c0013/ZB1c0013.org][ZB1c0013]] 絜齋毛詩經筵講義
+*** [[mandoku:ZB1c0012a.org][ZB1c0012a]] 絜齋毛詩經筵講義
+*** [[mandoku:ZB1c0013.org][ZB1c0013]] 絜齋毛詩經筵講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0013
 :SOURCE:   四庫全書 文淵閣版
@@ -2661,7 +2661,7 @@
 **** responsible: 袁燮
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0014/ZB1c0014.org][ZB1c0014]] 毛詩講義
+*** [[mandoku:ZB1c0014.org][ZB1c0014]] 毛詩講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0014
 :SOURCE:   四庫全書 文淵閣版
@@ -2672,7 +2672,7 @@
 **** responsible: 林岊
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0015/ZB1c0015.org][ZB1c0015]] 童子問
+*** [[mandoku:ZB1c0015.org][ZB1c0015]] 童子問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0015
 :SOURCE:   四庫全書 文淵閣版
@@ -2683,7 +2683,7 @@
 **** responsible: 輔廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0016/ZB1c0016.org][ZB1c0016]] 毛詩集解
+*** [[mandoku:ZB1c0016.org][ZB1c0016]] 毛詩集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0016
 :SOURCE:   四庫全書 文淵閣版
@@ -2694,7 +2694,7 @@
 **** responsible: 段昌武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0017/ZB1c0017.org][ZB1c0017]] 詩緝
+*** [[mandoku:ZB1c0017.org][ZB1c0017]] 詩緝
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0017
 :SOURCE:   四庫全書 文淵閣版
@@ -2705,7 +2705,7 @@
 **** responsible: 嚴粲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0018/ZB1c0018.org][ZB1c0018]] 詩傳遺說
+*** [[mandoku:ZB1c0018.org][ZB1c0018]] 詩傳遺說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0018
 :SOURCE:   四庫全書 文淵閣版
@@ -2716,7 +2716,7 @@
 **** responsible: 朱鑑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0019/ZB1c0019.org][ZB1c0019]] 詩攷
+*** [[mandoku:ZB1c0019.org][ZB1c0019]] 詩攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0019
 :SOURCE:   四庫全書 文淵閣版
@@ -2727,7 +2727,7 @@
 **** responsible: 王應麟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0020/ZB1c0020.org][ZB1c0020]] 詩地理攷
+*** [[mandoku:ZB1c0020.org][ZB1c0020]] 詩地理攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0020
 :SOURCE:   四庫全書 文淵閣版
@@ -2738,7 +2738,7 @@
 **** responsible: 王應麟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0021/ZB1c0021.org][ZB1c0021]] 詩集傳名物鈔
+*** [[mandoku:ZB1c0021.org][ZB1c0021]] 詩集傳名物鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0021
 :SOURCE:   四庫全書 文淵閣版
@@ -2749,7 +2749,7 @@
 **** responsible: 許謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0022/ZB1c0022.org][ZB1c0022]] 詩傳通釋
+*** [[mandoku:ZB1c0022.org][ZB1c0022]] 詩傳通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0022
 :SOURCE:   四庫全書 文淵閣版
@@ -2760,7 +2760,7 @@
 **** responsible: 劉瑾
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0023/ZB1c0023.org][ZB1c0023]] 詩傳旁通
+*** [[mandoku:ZB1c0023.org][ZB1c0023]] 詩傳旁通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0023
 :SOURCE:   四庫全書 文淵閣版
@@ -2771,7 +2771,7 @@
 **** responsible: 梁益
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0024/ZB1c0024.org][ZB1c0024]] 詩經疏義會通
+*** [[mandoku:ZB1c0024.org][ZB1c0024]] 詩經疏義會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0024
 :SOURCE:   四庫全書 文淵閣版
@@ -2782,7 +2782,7 @@
 **** responsible: 朱公遷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0025/ZB1c0025.org][ZB1c0025]] 詩經欵問
+*** [[mandoku:ZB1c0025.org][ZB1c0025]] 詩經欵問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0025
 :SOURCE:   四庫全書 文淵閣版
@@ -2793,7 +2793,7 @@
 **** responsible: 朱倬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0026/ZB1c0026.org][ZB1c0026]] 詩纘緖
+*** [[mandoku:ZB1c0026.org][ZB1c0026]] 詩纘緖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0026
 :SOURCE:   四庫全書 文淵閣版
@@ -2804,7 +2804,7 @@
 **** responsible: 劉玉汝
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0027/ZB1c0027.org][ZB1c0027]] 詩演義
+*** [[mandoku:ZB1c0027.org][ZB1c0027]] 詩演義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0027
 :SOURCE:   四庫全書 文淵閣版
@@ -2815,7 +2815,7 @@
 **** responsible: 梁寅
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0028/ZB1c0028.org][ZB1c0028]] 詩解頤
+*** [[mandoku:ZB1c0028.org][ZB1c0028]] 詩解頤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0028
 :SOURCE:   四庫全書 文淵閣版
@@ -2826,7 +2826,7 @@
 **** responsible: 朱善
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0029/ZB1c0029.org][ZB1c0029]] 詩傳大全
+*** [[mandoku:ZB1c0029.org][ZB1c0029]] 詩傳大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0029
 :SOURCE:   四庫全書 文淵閣版
@@ -2837,7 +2837,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0030/ZB1c0030.org][ZB1c0030]] 詩說解頤總論
+*** [[mandoku:ZB1c0030.org][ZB1c0030]] 詩說解頤總論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0030
 :SOURCE:   四庫全書 文淵閣版
@@ -2848,9 +2848,9 @@
 **** responsible: 季本
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0030a/ZB1c0030a.org][ZB1c0030a]] 詩說解頤__正釋
-*** [[krp:ZB1c/ZB1c0030b/ZB1c0030b.org][ZB1c0030b]] 詩說解頤__字義
-*** [[krp:ZB1c/ZB1c0031/ZB1c0031.org][ZB1c0031]] 讀詩私記
+*** [[mandoku:ZB1c0030a.org][ZB1c0030a]] 詩說解頤__正釋
+*** [[mandoku:ZB1c0030b.org][ZB1c0030b]] 詩說解頤__字義
+*** [[mandoku:ZB1c0031.org][ZB1c0031]] 讀詩私記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0031
 :SOURCE:   四庫全書 文淵閣版
@@ -2861,7 +2861,7 @@
 **** responsible: 李先芳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0032/ZB1c0032.org][ZB1c0032]] 詩故
+*** [[mandoku:ZB1c0032.org][ZB1c0032]] 詩故
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0032
 :SOURCE:   四庫全書 文淵閣版
@@ -2872,7 +2872,7 @@
 **** responsible: 朱謀&
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0033/ZB1c0033.org][ZB1c0033]] 六家詩名物疏
+*** [[mandoku:ZB1c0033.org][ZB1c0033]] 六家詩名物疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0033
 :SOURCE:   四庫全書 文淵閣版
@@ -2883,7 +2883,7 @@
 **** responsible: 馮復京
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0034/ZB1c0034.org][ZB1c0034]] 重訂詩經疑問
+*** [[mandoku:ZB1c0034.org][ZB1c0034]] 重訂詩經疑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0034
 :SOURCE:   四庫全書 文淵閣版
@@ -2894,7 +2894,7 @@
 **** responsible: 姚舜牧
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0035/ZB1c0035.org][ZB1c0035]] 詩經世本古義
+*** [[mandoku:ZB1c0035.org][ZB1c0035]] 詩經世本古義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0035
 :SOURCE:   四庫全書 文淵閣版
@@ -2905,7 +2905,7 @@
 **** responsible: 何楷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0036/ZB1c0036.org][ZB1c0036]] 待軒詩記
+*** [[mandoku:ZB1c0036.org][ZB1c0036]] 待軒詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0036
 :SOURCE:   四庫全書 文淵閣版
@@ -2916,7 +2916,7 @@
 **** responsible: 張次仲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0037/ZB1c0037.org][ZB1c0037]] 讀詩畧記
+*** [[mandoku:ZB1c0037.org][ZB1c0037]] 讀詩畧記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0037
 :SOURCE:   四庫全書 文淵閣版
@@ -2927,7 +2927,7 @@
 **** responsible: 朱朝瑛
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0038/ZB1c0038.org][ZB1c0038]] 欽定詩經傳說彙纂
+*** [[mandoku:ZB1c0038.org][ZB1c0038]] 欽定詩經傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0038
 :SOURCE:   四庫全書 文淵閣版
@@ -2938,7 +2938,7 @@
 **** responsible: 王鴻緖
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0039/ZB1c0039.org][ZB1c0039]] 御纂詩義折中
+*** [[mandoku:ZB1c0039.org][ZB1c0039]] 御纂詩義折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0039
 :SOURCE:   四庫全書 文淵閣版
@@ -2949,7 +2949,7 @@
 **** responsible: 傅恆
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0040/ZB1c0040.org][ZB1c0040]] 田間詩學
+*** [[mandoku:ZB1c0040.org][ZB1c0040]] 田間詩學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0040
 :SOURCE:   四庫全書 文淵閣版
@@ -2960,7 +2960,7 @@
 **** responsible: 錢澄之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0041/ZB1c0041.org][ZB1c0041]] 詩經稗疏
+*** [[mandoku:ZB1c0041.org][ZB1c0041]] 詩經稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0041
 :SOURCE:   四庫全書 文淵閣版
@@ -2971,7 +2971,7 @@
 **** responsible: 王夫之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0042/ZB1c0042.org][ZB1c0042]] 詩經通義
+*** [[mandoku:ZB1c0042.org][ZB1c0042]] 詩經通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0042
 :SOURCE:   四庫全書 文淵閣版
@@ -2982,7 +2982,7 @@
 **** responsible: 朱鶴齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0043/ZB1c0043.org][ZB1c0043]] 毛詩稽古編
+*** [[mandoku:ZB1c0043.org][ZB1c0043]] 毛詩稽古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0043
 :SOURCE:   四庫全書 文淵閣版
@@ -2993,7 +2993,7 @@
 **** responsible: 陳啟源
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0044/ZB1c0044.org][ZB1c0044]] 詩所
+*** [[mandoku:ZB1c0044.org][ZB1c0044]] 詩所
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0044
 :SOURCE:   四庫全書 文淵閣版
@@ -3004,7 +3004,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0045/ZB1c0045.org][ZB1c0045]] 毛詩寫官記
+*** [[mandoku:ZB1c0045.org][ZB1c0045]] 毛詩寫官記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0045
 :SOURCE:   四庫全書 文淵閣版
@@ -3015,8 +3015,8 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0045a/ZB1c0045a.org][ZB1c0045a]] 詩札
-*** [[krp:ZB1c/ZB1c0046/ZB1c0046.org][ZB1c0046]] 詩傳詩說駁義
+*** [[mandoku:ZB1c0045a.org][ZB1c0045a]] 詩札
+*** [[mandoku:ZB1c0046.org][ZB1c0046]] 詩傳詩說駁義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0046
 :SOURCE:   四庫全書 文淵閣版
@@ -3027,7 +3027,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0047/ZB1c0047.org][ZB1c0047]] 續詩傳鳥名卷
+*** [[mandoku:ZB1c0047.org][ZB1c0047]] 續詩傳鳥名卷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0047
 :SOURCE:   四庫全書 文淵閣版
@@ -3038,7 +3038,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0048/ZB1c0048.org][ZB1c0048]] 詩識名解
+*** [[mandoku:ZB1c0048.org][ZB1c0048]] 詩識名解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0048
 :SOURCE:   四庫全書 文淵閣版
@@ -3049,7 +3049,7 @@
 **** responsible: 姚炳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0049/ZB1c0049.org][ZB1c0049]] 詩傳名物集覽
+*** [[mandoku:ZB1c0049.org][ZB1c0049]] 詩傳名物集覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0049
 :SOURCE:   四庫全書 文淵閣版
@@ -3060,7 +3060,7 @@
 **** responsible: 陳大章
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0050/ZB1c0050.org][ZB1c0050]] 詩說
+*** [[mandoku:ZB1c0050.org][ZB1c0050]] 詩說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0050
 :SOURCE:   四庫全書 文淵閣版
@@ -3071,7 +3071,7 @@
 **** responsible: 惠周惕
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0051/ZB1c0051.org][ZB1c0051]] 詩經劄記
+*** [[mandoku:ZB1c0051.org][ZB1c0051]] 詩經劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0051
 :SOURCE:   四庫全書 文淵閣版
@@ -3082,7 +3082,7 @@
 **** responsible: 楊名時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0052/ZB1c0052.org][ZB1c0052]] 讀詩質疑
+*** [[mandoku:ZB1c0052.org][ZB1c0052]] 讀詩質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0052
 :SOURCE:   四庫全書 文淵閣版
@@ -3093,7 +3093,7 @@
 **** responsible: 嚴虞惇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0053/ZB1c0053.org][ZB1c0053]] 毛詩類釋
+*** [[mandoku:ZB1c0053.org][ZB1c0053]] 毛詩類釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0053
 :SOURCE:   四庫全書 文淵閣版
@@ -3104,7 +3104,7 @@
 **** responsible: 顧棟高
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0054/ZB1c0054.org][ZB1c0054]] 詩欵辨證
+*** [[mandoku:ZB1c0054.org][ZB1c0054]] 詩欵辨證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0054
 :SOURCE:   四庫全書 文淵閣版
@@ -3115,7 +3115,7 @@
 **** responsible: 黃中松
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0055/ZB1c0055.org][ZB1c0055]] 三家詩拾遺
+*** [[mandoku:ZB1c0055.org][ZB1c0055]] 三家詩拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0055
 :SOURCE:   四庫全書 文淵閣版
@@ -3126,7 +3126,7 @@
 **** responsible: 范家相
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0056/ZB1c0056.org][ZB1c0056]] 詩瀋
+*** [[mandoku:ZB1c0056.org][ZB1c0056]] 詩瀋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0056
 :SOURCE:   四庫全書 文淵閣版
@@ -3137,7 +3137,7 @@
 **** responsible: 范家相
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0057/ZB1c0057.org][ZB1c0057]] 詩序補義
+*** [[mandoku:ZB1c0057.org][ZB1c0057]] 詩序補義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0057
 :SOURCE:   四庫全書 文淵閣版
@@ -3148,7 +3148,7 @@
 **** responsible: 姜炳璋
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0058/ZB1c0058.org][ZB1c0058]] 虞東學詩
+*** [[mandoku:ZB1c0058.org][ZB1c0058]] 虞東學詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0058
 :SOURCE:   四庫全書 文淵閣版
@@ -3159,7 +3159,7 @@
 **** responsible: 顧鎭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1c/ZB1c0059/ZB1c0059.org][ZB1c0059]] 詩外傳
+*** [[mandoku:ZB1c0059.org][ZB1c0059]] 詩外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0059
 :SOURCE:   四庫全書 文淵閣版
@@ -3171,7 +3171,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1d 禮類
-*** [[krp:ZB1d/ZB1d0001/ZB1d0001.org][ZB1d0001]] 周禮注疏
+*** [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0001
 :SOURCE:   四庫全書 文淵閣版
@@ -3182,7 +3182,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0002/ZB1d0002.org][ZB1d0002]] 周官新義
+*** [[mandoku:ZB1d0002.org][ZB1d0002]] 周官新義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0002
 :SOURCE:   四庫全書 文淵閣版
@@ -3193,7 +3193,7 @@
 **** responsible: 王安石
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0003/ZB1d0003.org][ZB1d0003]] 周禮詳解
+*** [[mandoku:ZB1d0003.org][ZB1d0003]] 周禮詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0003
 :SOURCE:   四庫全書 文淵閣版
@@ -3204,7 +3204,7 @@
 **** responsible: 王昭禹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0004/ZB1d0004.org][ZB1d0004]] 周禮復古編
+*** [[mandoku:ZB1d0004.org][ZB1d0004]] 周禮復古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0004
 :SOURCE:   四庫全書 文淵閣版
@@ -3215,7 +3215,7 @@
 **** responsible: 俞庭椿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0005/ZB1d0005.org][ZB1d0005]] 禮經會元
+*** [[mandoku:ZB1d0005.org][ZB1d0005]] 禮經會元
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0005
 :SOURCE:   四庫全書 文淵閣版
@@ -3226,7 +3226,7 @@
 **** responsible: 葉時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0006/ZB1d0006.org][ZB1d0006]] 太平經國書
+*** [[mandoku:ZB1d0006.org][ZB1d0006]] 太平經國書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0006
 :SOURCE:   四庫全書 文淵閣版
@@ -3237,7 +3237,7 @@
 **** responsible: 鄭伯謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0007/ZB1d0007.org][ZB1d0007]] 周官總義
+*** [[mandoku:ZB1d0007.org][ZB1d0007]] 周官總義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0007
 :SOURCE:   四庫全書 文淵閣版
@@ -3248,7 +3248,7 @@
 **** responsible: 易祓
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0008/ZB1d0008.org][ZB1d0008]] 周禮訂義
+*** [[mandoku:ZB1d0008.org][ZB1d0008]] 周禮訂義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0008
 :SOURCE:   四庫全書 文淵閣版
@@ -3259,7 +3259,7 @@
 **** responsible: 王與之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0009/ZB1d0009.org][ZB1d0009]] 考工記解
+*** [[mandoku:ZB1d0009.org][ZB1d0009]] 考工記解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0009
 :SOURCE:   四庫全書 文淵閣版
@@ -3270,7 +3270,7 @@
 **** responsible: 林希逸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0010/ZB1d0010.org][ZB1d0010]] 周禮句解
+*** [[mandoku:ZB1d0010.org][ZB1d0010]] 周禮句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0010
 :SOURCE:   四庫全書 文淵閣版
@@ -3281,7 +3281,7 @@
 **** responsible: 朱申
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0011/ZB1d0011.org][ZB1d0011]] 周禮集說
+*** [[mandoku:ZB1d0011.org][ZB1d0011]] 周禮集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0011
 :SOURCE:   四庫全書 文淵閣版
@@ -3292,7 +3292,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0012/ZB1d0012.org][ZB1d0012]] 周官集傳
+*** [[mandoku:ZB1d0012.org][ZB1d0012]] 周官集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0012
 :SOURCE:   四庫全書 文淵閣版
@@ -3303,7 +3303,7 @@
 **** responsible: 毛應龍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0013/ZB1d0013.org][ZB1d0013]] 周禮傳
+*** [[mandoku:ZB1d0013.org][ZB1d0013]] 周禮傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0013
 :SOURCE:   四庫全書 文淵閣版
@@ -3314,10 +3314,10 @@
 **** responsible: 王應電
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0013a/ZB1d0013a.org][ZB1d0013a]] 周禮傳__周禮圖說
-*** [[krp:ZB1d/ZB1d0013b/ZB1d0013b.org][ZB1d0013b]] 周禮傳__周禮翼傳
-*** [[krp:ZB1d/ZB1d0013c/ZB1d0013c.org][ZB1d0013c]] 周禮之屬
-*** [[krp:ZB1d/ZB1d0014/ZB1d0014.org][ZB1d0014]] 周禮全經釋原
+*** [[mandoku:ZB1d0013a.org][ZB1d0013a]] 周禮傳__周禮圖說
+*** [[mandoku:ZB1d0013b.org][ZB1d0013b]] 周禮傳__周禮翼傳
+*** [[mandoku:ZB1d0013c.org][ZB1d0013c]] 周禮之屬
+*** [[mandoku:ZB1d0014.org][ZB1d0014]] 周禮全經釋原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0014
 :SOURCE:   四庫全書 文淵閣版
@@ -3328,7 +3328,7 @@
 **** responsible: 柯尚遷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0015/ZB1d0015.org][ZB1d0015]] 周禮註疏刪翼
+*** [[mandoku:ZB1d0015.org][ZB1d0015]] 周禮註疏刪翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0015
 :SOURCE:   四庫全書 文淵閣版
@@ -3339,7 +3339,7 @@
 **** responsible: 王志長
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0016/ZB1d0016.org][ZB1d0016]] 欽定周官義疏
+*** [[mandoku:ZB1d0016.org][ZB1d0016]] 欽定周官義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0016
 :SOURCE:   四庫全書 文淵閣版
@@ -3350,9 +3350,9 @@
 **** responsible: 允祿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0016a/ZB1d0016a.org][ZB1d0016a]] 周禮之屬
-*** [[krp:ZB1d/ZB1d0016b/ZB1d0016b.org][ZB1d0016b]] 欽定周官義疏
-*** [[krp:ZB1d/ZB1d0017/ZB1d0017.org][ZB1d0017]] 周禮述註
+*** [[mandoku:ZB1d0016a.org][ZB1d0016a]] 周禮之屬
+*** [[mandoku:ZB1d0016b.org][ZB1d0016b]] 欽定周官義疏
+*** [[mandoku:ZB1d0017.org][ZB1d0017]] 周禮述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0017
 :SOURCE:   四庫全書 文淵閣版
@@ -3363,7 +3363,7 @@
 **** responsible: 李光坡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0018/ZB1d0018.org][ZB1d0018]] 周禮纂訓
+*** [[mandoku:ZB1d0018.org][ZB1d0018]] 周禮纂訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0018
 :SOURCE:   四庫全書 文淵閣版
@@ -3374,7 +3374,7 @@
 **** responsible: 李鍾倫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0019/ZB1d0019.org][ZB1d0019]] 周官集注
+*** [[mandoku:ZB1d0019.org][ZB1d0019]] 周官集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0019
 :SOURCE:   四庫全書 文淵閣版
@@ -3385,7 +3385,7 @@
 **** responsible: 方苞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0020/ZB1d0020.org][ZB1d0020]] 禮說
+*** [[mandoku:ZB1d0020.org][ZB1d0020]] 禮說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0020
 :SOURCE:   四庫全書 文淵閣版
@@ -3396,7 +3396,7 @@
 **** responsible: 惠士奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0021/ZB1d0021.org][ZB1d0021]] 周官祿田考
+*** [[mandoku:ZB1d0021.org][ZB1d0021]] 周官祿田考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0021
 :SOURCE:   四庫全書 文淵閣版
@@ -3407,7 +3407,7 @@
 **** responsible: 沈彤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0022/ZB1d0022.org][ZB1d0022]] 周禮疑義擧要
+*** [[mandoku:ZB1d0022.org][ZB1d0022]] 周禮疑義擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0022
 :SOURCE:   四庫全書 文淵閣版
@@ -3418,7 +3418,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0023/ZB1d0023.org][ZB1d0023]] 儀禮注疏
+*** [[mandoku:ZB1d0023.org][ZB1d0023]] 儀禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0023
 :SOURCE:   四庫全書 文淵閣版
@@ -3429,7 +3429,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0024/ZB1d0024.org][ZB1d0024]] 儀禮識誤
+*** [[mandoku:ZB1d0024.org][ZB1d0024]] 儀禮識誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0024
 :SOURCE:   四庫全書 文淵閣版
@@ -3440,7 +3440,7 @@
 **** responsible: 張淳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0025/ZB1d0025.org][ZB1d0025]] 儀禮集釋
+*** [[mandoku:ZB1d0025.org][ZB1d0025]] 儀禮集釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0025
 :SOURCE:   四庫全書 文淵閣版
@@ -3451,7 +3451,7 @@
 **** responsible: 李如圭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0026/ZB1d0026.org][ZB1d0026]] 儀禮釋宮
+*** [[mandoku:ZB1d0026.org][ZB1d0026]] 儀禮釋宮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0026
 :SOURCE:   四庫全書 文淵閣版
@@ -3462,7 +3462,7 @@
 **** responsible: 李如圭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0027/ZB1d0027.org][ZB1d0027]] 儀禮圖
+*** [[mandoku:ZB1d0027.org][ZB1d0027]] 儀禮圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0027
 :SOURCE:   四庫全書 文淵閣版
@@ -3473,7 +3473,7 @@
 **** responsible: 楊復
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0028/ZB1d0028.org][ZB1d0028]] 儀禮要義
+*** [[mandoku:ZB1d0028.org][ZB1d0028]] 儀禮要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0028
 :SOURCE:   四庫全書 文淵閣版
@@ -3484,7 +3484,7 @@
 **** responsible: 魏了翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0029/ZB1d0029.org][ZB1d0029]] 儀禮逸經
+*** [[mandoku:ZB1d0029.org][ZB1d0029]] 儀禮逸經
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0029
 :SOURCE:   四庫全書 文淵閣版
@@ -3495,7 +3495,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0030/ZB1d0030.org][ZB1d0030]] 儀禮集說
+*** [[mandoku:ZB1d0030.org][ZB1d0030]] 儀禮集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0030
 :SOURCE:   四庫全書 文淵閣版
@@ -3506,7 +3506,7 @@
 **** responsible: 敖繼公
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0031/ZB1d0031.org][ZB1d0031]] 經禮補逸
+*** [[mandoku:ZB1d0031.org][ZB1d0031]] 經禮補逸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0031
 :SOURCE:   四庫全書 文淵閣版
@@ -3517,7 +3517,7 @@
 **** responsible: 汪克寬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0032/ZB1d0032.org][ZB1d0032]] 欽定儀禮義疏
+*** [[mandoku:ZB1d0032.org][ZB1d0032]] 欽定儀禮義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0032
 :SOURCE:   四庫全書 文淵閣版
@@ -3528,7 +3528,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0033/ZB1d0033.org][ZB1d0033]] 儀禮鄭註句讀
+*** [[mandoku:ZB1d0033.org][ZB1d0033]] 儀禮鄭註句讀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0033
 :SOURCE:   四庫全書 文淵閣版
@@ -3539,7 +3539,7 @@
 **** responsible: 張爾岐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0034/ZB1d0034.org][ZB1d0034]] 儀禮商
+*** [[mandoku:ZB1d0034.org][ZB1d0034]] 儀禮商
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0034
 :SOURCE:   四庫全書 文淵閣版
@@ -3550,7 +3550,7 @@
 **** responsible: 萬斯大
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0035/ZB1d0035.org][ZB1d0035]] 儀禮述註
+*** [[mandoku:ZB1d0035.org][ZB1d0035]] 儀禮述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0035
 :SOURCE:   四庫全書 文淵閣版
@@ -3561,7 +3561,7 @@
 **** responsible: 李光坡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0036/ZB1d0036.org][ZB1d0036]] 儀禮析疑
+*** [[mandoku:ZB1d0036.org][ZB1d0036]] 儀禮析疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0036
 :SOURCE:   四庫全書 文淵閣版
@@ -3572,7 +3572,7 @@
 **** responsible: 方苞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0037/ZB1d0037.org][ZB1d0037]] 儀禮章句
+*** [[mandoku:ZB1d0037.org][ZB1d0037]] 儀禮章句
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0037
 :SOURCE:   四庫全書 文淵閣版
@@ -3583,7 +3583,7 @@
 **** responsible: 吳廷華
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0038/ZB1d0038.org][ZB1d0038]] 補饗禮
+*** [[mandoku:ZB1d0038.org][ZB1d0038]] 補饗禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0038
 :SOURCE:   四庫全書 文淵閣版
@@ -3594,7 +3594,7 @@
 **** responsible: 諸錦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0039/ZB1d0039.org][ZB1d0039]] 禮經本義
+*** [[mandoku:ZB1d0039.org][ZB1d0039]] 禮經本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0039
 :SOURCE:   四庫全書 文淵閣版
@@ -3605,7 +3605,7 @@
 **** responsible: 蔡德晉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0040/ZB1d0040.org][ZB1d0040]] 宮室考
+*** [[mandoku:ZB1d0040.org][ZB1d0040]] 宮室考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0040
 :SOURCE:   四庫全書 文淵閣版
@@ -3616,7 +3616,7 @@
 **** responsible: 任啟運
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0041/ZB1d0041.org][ZB1d0041]] 天子肆獻祼饋食禮
+*** [[mandoku:ZB1d0041.org][ZB1d0041]] 天子肆獻祼饋食禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0041
 :SOURCE:   四庫全書 文淵閣版
@@ -3627,7 +3627,7 @@
 **** responsible: 任啟運
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0042/ZB1d0042.org][ZB1d0042]] 儀禮釋宮增注
+*** [[mandoku:ZB1d0042.org][ZB1d0042]] 儀禮釋宮增注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0042
 :SOURCE:   四庫全書 文淵閣版
@@ -3638,7 +3638,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0043/ZB1d0043.org][ZB1d0043]] 儀禮小疏
+*** [[mandoku:ZB1d0043.org][ZB1d0043]] 儀禮小疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0043
 :SOURCE:   四庫全書 文淵閣版
@@ -3649,7 +3649,7 @@
 **** responsible: 沈彤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0044/ZB1d0044.org][ZB1d0044]] 儀禮集編
+*** [[mandoku:ZB1d0044.org][ZB1d0044]] 儀禮集編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0044
 :SOURCE:   四庫全書 文淵閣版
@@ -3660,7 +3660,7 @@
 **** responsible: 盛世佐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0045/ZB1d0045.org][ZB1d0045]] 內外服制通釋
+*** [[mandoku:ZB1d0045.org][ZB1d0045]] 內外服制通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0045
 :SOURCE:   四庫全書 文淵閣版
@@ -3671,7 +3671,7 @@
 **** responsible: 車垓
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0046/ZB1d0046.org][ZB1d0046]] 讀禮通考
+*** [[mandoku:ZB1d0046.org][ZB1d0046]] 讀禮通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0046
 :SOURCE:   四庫全書 文淵閣版
@@ -3682,7 +3682,7 @@
 **** responsible: 徐乾學
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0047/ZB1d0047.org][ZB1d0047]] 禮記注疏
+*** [[mandoku:ZB1d0047.org][ZB1d0047]] 禮記注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0047
 :SOURCE:   四庫全書 文淵閣版
@@ -3693,7 +3693,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0048/ZB1d0048.org][ZB1d0048]] 月令解
+*** [[mandoku:ZB1d0048.org][ZB1d0048]] 月令解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0048
 :SOURCE:   四庫全書 文淵閣版
@@ -3704,7 +3704,7 @@
 **** responsible: 張虙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0049/ZB1d0049.org][ZB1d0049]] 禮記集說
+*** [[mandoku:ZB1d0049.org][ZB1d0049]] 禮記集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0049
 :SOURCE:   四庫全書 文淵閣版
@@ -3715,7 +3715,7 @@
 **** responsible: 衞湜
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0050/ZB1d0050.org][ZB1d0050]] 禮記纂言
+*** [[mandoku:ZB1d0050.org][ZB1d0050]] 禮記纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0050
 :SOURCE:   四庫全書 文淵閣版
@@ -3726,7 +3726,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0051/ZB1d0051.org][ZB1d0051]] 禮記集說
+*** [[mandoku:ZB1d0051.org][ZB1d0051]] 禮記集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0051
 :SOURCE:   四庫全書 文淵閣版
@@ -3737,7 +3737,7 @@
 **** responsible: 陳澔
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0052/ZB1d0052.org][ZB1d0052]] 禮記大全
+*** [[mandoku:ZB1d0052.org][ZB1d0052]] 禮記大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0052
 :SOURCE:   四庫全書 文淵閣版
@@ -3748,7 +3748,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0053/ZB1d0053.org][ZB1d0053]] 月令明義
+*** [[mandoku:ZB1d0053.org][ZB1d0053]] 月令明義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0053
 :SOURCE:   四庫全書 文淵閣版
@@ -3759,7 +3759,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0054/ZB1d0054.org][ZB1d0054]] 表記集傳
+*** [[mandoku:ZB1d0054.org][ZB1d0054]] 表記集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0054
 :SOURCE:   四庫全書 文淵閣版
@@ -3770,7 +3770,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0055/ZB1d0055.org][ZB1d0055]] 坊記集傳
+*** [[mandoku:ZB1d0055.org][ZB1d0055]] 坊記集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0055
 :SOURCE:   四庫全書 文淵閣版
@@ -3781,7 +3781,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0056/ZB1d0056.org][ZB1d0056]] 緇衣集傳
+*** [[mandoku:ZB1d0056.org][ZB1d0056]] 緇衣集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0056
 :SOURCE:   四庫全書 文淵閣版
@@ -3792,7 +3792,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0057/ZB1d0057.org][ZB1d0057]] 儒行集傳
+*** [[mandoku:ZB1d0057.org][ZB1d0057]] 儒行集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0057
 :SOURCE:   四庫全書 文淵閣版
@@ -3803,7 +3803,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0058/ZB1d0058.org][ZB1d0058]] 日講禮記解義
+*** [[mandoku:ZB1d0058.org][ZB1d0058]] 日講禮記解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0058
 :SOURCE:   四庫全書 文淵閣版
@@ -3813,7 +3813,7 @@
 **** dynasty: 清康熙中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0059/ZB1d0059.org][ZB1d0059]] 欽定禮記義疏
+*** [[mandoku:ZB1d0059.org][ZB1d0059]] 欽定禮記義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0059
 :SOURCE:   四庫全書 文淵閣版
@@ -3824,7 +3824,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0060/ZB1d0060.org][ZB1d0060]] 深衣考
+*** [[mandoku:ZB1d0060.org][ZB1d0060]] 深衣考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0060
 :SOURCE:   四庫全書 文淵閣版
@@ -3835,7 +3835,7 @@
 **** responsible: 黃宗義
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0061/ZB1d0061.org][ZB1d0061]] 陳氏禮記集說補正
+*** [[mandoku:ZB1d0061.org][ZB1d0061]] 陳氏禮記集說補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0061
 :SOURCE:   四庫全書 文淵閣版
@@ -3846,7 +3846,7 @@
 **** responsible: 納喇性德
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0062/ZB1d0062.org][ZB1d0062]] 禮記述註
+*** [[mandoku:ZB1d0062.org][ZB1d0062]] 禮記述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0062
 :SOURCE:   四庫全書 文淵閣版
@@ -3857,7 +3857,7 @@
 **** responsible: 李光坡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0063/ZB1d0063.org][ZB1d0063]] 禮記析疑
+*** [[mandoku:ZB1d0063.org][ZB1d0063]] 禮記析疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0063
 :SOURCE:   四庫全書 文淵閣版
@@ -3868,7 +3868,7 @@
 **** responsible: 方苞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0064/ZB1d0064.org][ZB1d0064]] 檀弓疑問
+*** [[mandoku:ZB1d0064.org][ZB1d0064]] 檀弓疑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0064
 :SOURCE:   四庫全書 文淵閣版
@@ -3879,7 +3879,7 @@
 **** responsible: 邵泰衢
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0065/ZB1d0065.org][ZB1d0065]] 禮記訓義擇言
+*** [[mandoku:ZB1d0065.org][ZB1d0065]] 禮記訓義擇言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0065
 :SOURCE:   四庫全書 文淵閣版
@@ -3890,7 +3890,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0066/ZB1d0066.org][ZB1d0066]] 深衣考誤
+*** [[mandoku:ZB1d0066.org][ZB1d0066]] 深衣考誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0066
 :SOURCE:   四庫全書 文淵閣版
@@ -3901,7 +3901,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0067/ZB1d0067.org][ZB1d0067]] 大戴禮記
+*** [[mandoku:ZB1d0067.org][ZB1d0067]] 大戴禮記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0067
 :SOURCE:   四庫全書 文淵閣版
@@ -3912,7 +3912,7 @@
 **** responsible: 盧辯
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0068/ZB1d0068.org][ZB1d0068]] 夏小正戴氏傳
+*** [[mandoku:ZB1d0068.org][ZB1d0068]] 夏小正戴氏傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0068
 :SOURCE:   四庫全書 文淵閣版
@@ -3923,7 +3923,7 @@
 **** responsible: 傅崧卿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0069/ZB1d0069.org][ZB1d0069]] 三禮圖注
+*** [[mandoku:ZB1d0069.org][ZB1d0069]] 三禮圖注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0069
 :SOURCE:   四庫全書 文淵閣版
@@ -3934,7 +3934,7 @@
 **** responsible: 聶崇義
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0070/ZB1d0070.org][ZB1d0070]] 三禮圖
+*** [[mandoku:ZB1d0070.org][ZB1d0070]] 三禮圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0070
 :SOURCE:   四庫全書 文淵閣版
@@ -3945,7 +3945,7 @@
 **** responsible: 劉績
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0071/ZB1d0071.org][ZB1d0071]] 學禮質疑
+*** [[mandoku:ZB1d0071.org][ZB1d0071]] 學禮質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0071
 :SOURCE:   四庫全書 文淵閣版
@@ -3956,7 +3956,7 @@
 **** responsible: 萬斯大
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0072/ZB1d0072.org][ZB1d0072]] 讀禮志疑
+*** [[mandoku:ZB1d0072.org][ZB1d0072]] 讀禮志疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0072
 :SOURCE:   四庫全書 文淵閣版
@@ -3967,7 +3967,7 @@
 **** responsible: 陸隴其
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0073/ZB1d0073.org][ZB1d0073]] 郊社禘祫問
+*** [[mandoku:ZB1d0073.org][ZB1d0073]] 郊社禘祫問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0073
 :SOURCE:   四庫全書 文淵閣版
@@ -3978,7 +3978,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0074/ZB1d0074.org][ZB1d0074]] 參讀禮志疑
+*** [[mandoku:ZB1d0074.org][ZB1d0074]] 參讀禮志疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0074
 :SOURCE:   四庫全書 文淵閣版
@@ -3989,7 +3989,7 @@
 **** responsible: 汪紱
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0075/ZB1d0075.org][ZB1d0075]] 禮書
+*** [[mandoku:ZB1d0075.org][ZB1d0075]] 禮書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0075
 :SOURCE:   四庫全書 文淵閣版
@@ -4000,7 +4000,7 @@
 **** responsible: 陳祥道
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0076/ZB1d0076.org][ZB1d0076]] 儀禮經傳通解
+*** [[mandoku:ZB1d0076.org][ZB1d0076]] 儀禮經傳通解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0076
 :SOURCE:   四庫全書 文淵閣版
@@ -4011,8 +4011,8 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0076a/ZB1d0076a.org][ZB1d0076a]] 儀禮經傳通解__儀禮經傳通解續
-*** [[krp:ZB1d/ZB1d0077/ZB1d0077.org][ZB1d0077]] 禮書綱目
+*** [[mandoku:ZB1d0076a.org][ZB1d0076a]] 儀禮經傳通解__儀禮經傳通解續
+*** [[mandoku:ZB1d0077.org][ZB1d0077]] 禮書綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0077
 :SOURCE:   四庫全書 文淵閣版
@@ -4023,7 +4023,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0078/ZB1d0078.org][ZB1d0078]] 五禮通考
+*** [[mandoku:ZB1d0078.org][ZB1d0078]] 五禮通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0078
 :SOURCE:   四庫全書 文淵閣版
@@ -4034,7 +4034,7 @@
 **** responsible: 泰蕙田
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0079/ZB1d0079.org][ZB1d0079]] 書儀
+*** [[mandoku:ZB1d0079.org][ZB1d0079]] 書儀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0079
 :SOURCE:   四庫全書 文淵閣版
@@ -4045,7 +4045,7 @@
 **** responsible: 司馬光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0080/ZB1d0080.org][ZB1d0080]] 家禮
+*** [[mandoku:ZB1d0080.org][ZB1d0080]] 家禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0080
 :SOURCE:   四庫全書 文淵閣版
@@ -4056,7 +4056,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0081/ZB1d0081.org][ZB1d0081]] 泰泉鄉禮
+*** [[mandoku:ZB1d0081.org][ZB1d0081]] 泰泉鄉禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0081
 :SOURCE:   四庫全書 文淵閣版
@@ -4067,7 +4067,7 @@
 **** responsible: 黃佐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0082/ZB1d0082.org][ZB1d0082]] 朱子禮纂
+*** [[mandoku:ZB1d0082.org][ZB1d0082]] 朱子禮纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0082
 :SOURCE:   四庫全書 文淵閣版
@@ -4078,7 +4078,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1d/ZB1d0083/ZB1d0083.org][ZB1d0083]] 辨定祭禮通俗譜
+*** [[mandoku:ZB1d0083.org][ZB1d0083]] 辨定祭禮通俗譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0083
 :SOURCE:   四庫全書 文淵閣版
@@ -4090,7 +4090,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1e 春秋類
-*** [[krp:ZB1e/ZB1e0001/ZB1e0001.org][ZB1e0001]] 春秋左傳注疏
+*** [[mandoku:ZB1e0001.org][ZB1e0001]] 春秋左傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0001
 :SOURCE:   四庫全書 文淵閣版
@@ -4101,7 +4101,7 @@
 **** responsible: 杜預
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0002/ZB1e0002.org][ZB1e0002]] 春秋公羊傳注疏
+*** [[mandoku:ZB1e0002.org][ZB1e0002]] 春秋公羊傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0002
 :SOURCE:   四庫全書 文淵閣版
@@ -4112,7 +4112,7 @@
 **** responsible: 何休
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0003/ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
+*** [[mandoku:ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0003
 :SOURCE:   四庫全書 文淵閣版
@@ -4123,7 +4123,7 @@
 **** responsible: 范甯
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0004/ZB1e0004.org][ZB1e0004]] 箴膏肓
+*** [[mandoku:ZB1e0004.org][ZB1e0004]] 箴膏肓
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0004
 :SOURCE:   四庫全書 文淵閣版
@@ -4134,9 +4134,9 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0004a/ZB1e0004a.org][ZB1e0004a]] 起廢疾
-*** [[krp:ZB1e/ZB1e0004b/ZB1e0004b.org][ZB1e0004b]] 發墨守
-*** [[krp:ZB1e/ZB1e0005/ZB1e0005.org][ZB1e0005]] 春秋釋例
+*** [[mandoku:ZB1e0004a.org][ZB1e0004a]] 起廢疾
+*** [[mandoku:ZB1e0004b.org][ZB1e0004b]] 發墨守
+*** [[mandoku:ZB1e0005.org][ZB1e0005]] 春秋釋例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0005
 :SOURCE:   四庫全書 文淵閣版
@@ -4147,7 +4147,7 @@
 **** responsible: 杜預
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0006/ZB1e0006.org][ZB1e0006]] 春秋集傳纂例
+*** [[mandoku:ZB1e0006.org][ZB1e0006]] 春秋集傳纂例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0006
 :SOURCE:   四庫全書 文淵閣版
@@ -4158,7 +4158,7 @@
 **** responsible: 陸淳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0007/ZB1e0007.org][ZB1e0007]] 春秋集傳微旨
+*** [[mandoku:ZB1e0007.org][ZB1e0007]] 春秋集傳微旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0007
 :SOURCE:   四庫全書 文淵閣版
@@ -4169,7 +4169,7 @@
 **** responsible: 陸淳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0008/ZB1e0008.org][ZB1e0008]] 春秋集傳辨疑
+*** [[mandoku:ZB1e0008.org][ZB1e0008]] 春秋集傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0008
 :SOURCE:   四庫全書 文淵閣版
@@ -4180,7 +4180,7 @@
 **** responsible: 陸淳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0009/ZB1e0009.org][ZB1e0009]] 春秋名號歸一圖
+*** [[mandoku:ZB1e0009.org][ZB1e0009]] 春秋名號歸一圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0009
 :SOURCE:   四庫全書 文淵閣版
@@ -4191,7 +4191,7 @@
 **** responsible: 馮繼先
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0010/ZB1e0010.org][ZB1e0010]] 春秋年表
+*** [[mandoku:ZB1e0010.org][ZB1e0010]] 春秋年表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0010
 :SOURCE:   四庫全書 文淵閣版
@@ -4202,7 +4202,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0011/ZB1e0011.org][ZB1e0011]] 春秋尊王發微
+*** [[mandoku:ZB1e0011.org][ZB1e0011]] 春秋尊王發微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0011
 :SOURCE:   四庫全書 文淵閣版
@@ -4213,7 +4213,7 @@
 **** responsible: 孫復
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0012/ZB1e0012.org][ZB1e0012]] 春秋皇綱論
+*** [[mandoku:ZB1e0012.org][ZB1e0012]] 春秋皇綱論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0012
 :SOURCE:   四庫全書 文淵閣版
@@ -4224,7 +4224,7 @@
 **** responsible: 王晳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0013/ZB1e0013.org][ZB1e0013]] 春秋通義
+*** [[mandoku:ZB1e0013.org][ZB1e0013]] 春秋通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0013
 :SOURCE:   四庫全書 文淵閣版
@@ -4235,7 +4235,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0014/ZB1e0014.org][ZB1e0014]] 春秋權衡
+*** [[mandoku:ZB1e0014.org][ZB1e0014]] 春秋權衡
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0014
 :SOURCE:   四庫全書 文淵閣版
@@ -4246,7 +4246,7 @@
 **** responsible: 劉敞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0015/ZB1e0015.org][ZB1e0015]] 春秋傳
+*** [[mandoku:ZB1e0015.org][ZB1e0015]] 春秋傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0015
 :SOURCE:   四庫全書 文淵閣版
@@ -4257,7 +4257,7 @@
 **** responsible: 劉敞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0016/ZB1e0016.org][ZB1e0016]] 劉氏春秋意林
+*** [[mandoku:ZB1e0016.org][ZB1e0016]] 劉氏春秋意林
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0016
 :SOURCE:   四庫全書 文淵閣版
@@ -4268,7 +4268,7 @@
 **** responsible: 劉敞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0017/ZB1e0017.org][ZB1e0017]] 春秋傳說例
+*** [[mandoku:ZB1e0017.org][ZB1e0017]] 春秋傳說例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0017
 :SOURCE:   四庫全書 文淵閣版
@@ -4279,7 +4279,7 @@
 **** responsible: 劉敞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0018/ZB1e0018.org][ZB1e0018]] 春秋經解
+*** [[mandoku:ZB1e0018.org][ZB1e0018]] 春秋經解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0018
 :SOURCE:   四庫全書 文淵閣版
@@ -4290,7 +4290,7 @@
 **** responsible: 孫覺
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0019/ZB1e0019.org][ZB1e0019]] 春秋集解
+*** [[mandoku:ZB1e0019.org][ZB1e0019]] 春秋集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0019
 :SOURCE:   四庫全書 文淵閣版
@@ -4301,7 +4301,7 @@
 **** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0020/ZB1e0020.org][ZB1e0020]] 春秋辨疑
+*** [[mandoku:ZB1e0020.org][ZB1e0020]] 春秋辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0020
 :SOURCE:   四庫全書 文淵閣版
@@ -4312,7 +4312,7 @@
 **** responsible: 蕭楚
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0021/ZB1e0021.org][ZB1e0021]] 春秋經解
+*** [[mandoku:ZB1e0021.org][ZB1e0021]] 春秋經解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0021
 :SOURCE:   四庫全書 文淵閣版
@@ -4323,7 +4323,7 @@
 **** responsible: 崔子方
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0022/ZB1e0022.org][ZB1e0022]] 春秋本例
+*** [[mandoku:ZB1e0022.org][ZB1e0022]] 春秋本例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0022
 :SOURCE:   四庫全書 文淵閣版
@@ -4334,7 +4334,7 @@
 **** responsible: 崔子方
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0023/ZB1e0023.org][ZB1e0023]] 春秋五禮例宗
+*** [[mandoku:ZB1e0023.org][ZB1e0023]] 春秋五禮例宗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0023
 :SOURCE:   四庫全書 文淵閣版
@@ -4345,7 +4345,7 @@
 **** responsible: 張大亨
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0024/ZB1e0024.org][ZB1e0024]] 春秋通訓
+*** [[mandoku:ZB1e0024.org][ZB1e0024]] 春秋通訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0024
 :SOURCE:   四庫全書 文淵閣版
@@ -4356,7 +4356,7 @@
 **** responsible: 張大亨
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0025/ZB1e0025.org][ZB1e0025]] 葉氏春秋傳
+*** [[mandoku:ZB1e0025.org][ZB1e0025]] 葉氏春秋傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0025
 :SOURCE:   四庫全書 文淵閣版
@@ -4367,7 +4367,7 @@
 **** responsible: 葉夢得
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0026/ZB1e0026.org][ZB1e0026]] 春秋考
+*** [[mandoku:ZB1e0026.org][ZB1e0026]] 春秋考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0026
 :SOURCE:   四庫全書 文淵閣版
@@ -4378,7 +4378,7 @@
 **** responsible: 葉夢得
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0027/ZB1e0027.org][ZB1e0027]] 春秋左傳讞
+*** [[mandoku:ZB1e0027.org][ZB1e0027]] 春秋左傳讞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0027
 :SOURCE:   四庫全書 文淵閣版
@@ -4389,10 +4389,10 @@
 **** responsible: 葉夢得
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0027a/ZB1e0027a.org][ZB1e0027a]] 春秋三傳讞__春秋左傳讞
-*** [[krp:ZB1e/ZB1e0027b/ZB1e0027b.org][ZB1e0027b]] 春秋三傳讞__春秋公羊傳讞
-*** [[krp:ZB1e/ZB1e0027c/ZB1e0027c.org][ZB1e0027c]] 春秋三傳讞__春秋穀梁傳讞
-*** [[krp:ZB1e/ZB1e0028/ZB1e0028.org][ZB1e0028]] 春秋集解
+*** [[mandoku:ZB1e0027a.org][ZB1e0027a]] 春秋三傳讞__春秋左傳讞
+*** [[mandoku:ZB1e0027b.org][ZB1e0027b]] 春秋三傳讞__春秋公羊傳讞
+*** [[mandoku:ZB1e0027c.org][ZB1e0027c]] 春秋三傳讞__春秋穀梁傳讞
+*** [[mandoku:ZB1e0028.org][ZB1e0028]] 春秋集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0028
 :SOURCE:   四庫全書 文淵閣版
@@ -4403,7 +4403,7 @@
 **** responsible: 呂本中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0029/ZB1e0029.org][ZB1e0029]] 春秋傳
+*** [[mandoku:ZB1e0029.org][ZB1e0029]] 春秋傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0029
 :SOURCE:   四庫全書 文淵閣版
@@ -4414,7 +4414,7 @@
 **** responsible: 胡安國
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0030/ZB1e0030.org][ZB1e0030]] 春秋集註
+*** [[mandoku:ZB1e0030.org][ZB1e0030]] 春秋集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0030
 :SOURCE:   四庫全書 文淵閣版
@@ -4425,7 +4425,7 @@
 **** responsible: 高閌
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0031/ZB1e0031.org][ZB1e0031]] 春秋後傳
+*** [[mandoku:ZB1e0031.org][ZB1e0031]] 春秋後傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0031
 :SOURCE:   四庫全書 文淵閣版
@@ -4436,7 +4436,7 @@
 **** responsible: 陳傅良
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0032/ZB1e0032.org][ZB1e0032]] 左氏傳說
+*** [[mandoku:ZB1e0032.org][ZB1e0032]] 左氏傳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0032
 :SOURCE:   四庫全書 文淵閣版
@@ -4447,7 +4447,7 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0033/ZB1e0033.org][ZB1e0033]] 左氏傳續說
+*** [[mandoku:ZB1e0033.org][ZB1e0033]] 左氏傳續說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0033
 :SOURCE:   四庫全書 文淵閣版
@@ -4458,7 +4458,7 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0034/ZB1e0034.org][ZB1e0034]] 左氏博議
+*** [[mandoku:ZB1e0034.org][ZB1e0034]] 左氏博議
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0034
 :SOURCE:   四庫全書 文淵閣版
@@ -4469,7 +4469,7 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0035/ZB1e0035.org][ZB1e0035]] 春秋比事
+*** [[mandoku:ZB1e0035.org][ZB1e0035]] 春秋比事
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0035
 :SOURCE:   四庫全書 文淵閣版
@@ -4480,7 +4480,7 @@
 **** responsible: 沈棐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0036/ZB1e0036.org][ZB1e0036]] 春秋左傳要義
+*** [[mandoku:ZB1e0036.org][ZB1e0036]] 春秋左傳要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0036
 :SOURCE:   四庫全書 文淵閣版
@@ -4491,7 +4491,7 @@
 **** responsible: 魏了翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0037/ZB1e0037.org][ZB1e0037]] 春秋分記
+*** [[mandoku:ZB1e0037.org][ZB1e0037]] 春秋分記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0037
 :SOURCE:   四庫全書 文淵閣版
@@ -4502,7 +4502,7 @@
 **** responsible: 程公說
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0038/ZB1e0038.org][ZB1e0038]] 春秋講義
+*** [[mandoku:ZB1e0038.org][ZB1e0038]] 春秋講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0038
 :SOURCE:   四庫全書 文淵閣版
@@ -4513,7 +4513,7 @@
 **** responsible: 戴溪
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0039/ZB1e0039.org][ZB1e0039]] 春秋集義
+*** [[mandoku:ZB1e0039.org][ZB1e0039]] 春秋集義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0039
 :SOURCE:   四庫全書 文淵閣版
@@ -4524,7 +4524,7 @@
 **** responsible: 李明復
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0040/ZB1e0040.org][ZB1e0040]] 春秋集注
+*** [[mandoku:ZB1e0040.org][ZB1e0040]] 春秋集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0040
 :SOURCE:   四庫全書 文淵閣版
@@ -4535,7 +4535,7 @@
 **** responsible: 張洽
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0041/ZB1e0041.org][ZB1e0041]] 春秋王霸列國世紀編
+*** [[mandoku:ZB1e0041.org][ZB1e0041]] 春秋王霸列國世紀編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0041
 :SOURCE:   四庫全書 文淵閣版
@@ -4546,7 +4546,7 @@
 **** responsible: 李琪
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0042/ZB1e0042.org][ZB1e0042]] 春秋通說
+*** [[mandoku:ZB1e0042.org][ZB1e0042]] 春秋通說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0042
 :SOURCE:   四庫全書 文淵閣版
@@ -4557,7 +4557,7 @@
 **** responsible: 黃仲炎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0043/ZB1e0043.org][ZB1e0043]] 春秋說
+*** [[mandoku:ZB1e0043.org][ZB1e0043]] 春秋說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0043
 :SOURCE:   四庫全書 文淵閣版
@@ -4568,7 +4568,7 @@
 **** responsible: 洪咨虁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0044/ZB1e0044.org][ZB1e0044]] 春秋經筌
+*** [[mandoku:ZB1e0044.org][ZB1e0044]] 春秋經筌
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0044
 :SOURCE:   四庫全書 文淵閣版
@@ -4579,7 +4579,7 @@
 **** responsible: 趙鵬飛
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0045/ZB1e0045.org][ZB1e0045]] 春秋或問
+*** [[mandoku:ZB1e0045.org][ZB1e0045]] 春秋或問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0045
 :SOURCE:   四庫全書 文淵閣版
@@ -4590,8 +4590,8 @@
 **** responsible: 呂大圭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0045a/ZB1e0045a.org][ZB1e0045a]] 呂氏春秋或問__附春秋五論
-*** [[krp:ZB1e/ZB1e0046/ZB1e0046.org][ZB1e0046]] 春秋集傳詳說
+*** [[mandoku:ZB1e0045a.org][ZB1e0045a]] 呂氏春秋或問__附春秋五論
+*** [[mandoku:ZB1e0046.org][ZB1e0046]] 春秋集傳詳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0046
 :SOURCE:   四庫全書 文淵閣版
@@ -4602,7 +4602,7 @@
 **** responsible: 家鉉翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0047/ZB1e0047.org][ZB1e0047]] 讀春秋編
+*** [[mandoku:ZB1e0047.org][ZB1e0047]] 讀春秋編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0047
 :SOURCE:   四庫全書 文淵閣版
@@ -4613,7 +4613,7 @@
 **** responsible: 陳深
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0048/ZB1e0048.org][ZB1e0048]] 春秋集傳釋義大成
+*** [[mandoku:ZB1e0048.org][ZB1e0048]] 春秋集傳釋義大成
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0048
 :SOURCE:   四庫全書 文淵閣版
@@ -4624,7 +4624,7 @@
 **** responsible: 俞皋
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0049/ZB1e0049.org][ZB1e0049]] 春秋纂言
+*** [[mandoku:ZB1e0049.org][ZB1e0049]] 春秋纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0049
 :SOURCE:   四庫全書 文淵閣版
@@ -4635,7 +4635,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0050/ZB1e0050.org][ZB1e0050]] 春秋提綱
+*** [[mandoku:ZB1e0050.org][ZB1e0050]] 春秋提綱
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0050
 :SOURCE:   四庫全書 文淵閣版
@@ -4646,7 +4646,7 @@
 **** responsible: 陳則通
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0051/ZB1e0051.org][ZB1e0051]] 春秋諸國統紀
+*** [[mandoku:ZB1e0051.org][ZB1e0051]] 春秋諸國統紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0051
 :SOURCE:   四庫全書 文淵閣版
@@ -4657,7 +4657,7 @@
 **** responsible: 齊履謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0052/ZB1e0052.org][ZB1e0052]] 春秋本義
+*** [[mandoku:ZB1e0052.org][ZB1e0052]] 春秋本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0052
 :SOURCE:   四庫全書 文淵閣版
@@ -4668,7 +4668,7 @@
 **** responsible: 程端學
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0053/ZB1e0053.org][ZB1e0053]] 春秋或問
+*** [[mandoku:ZB1e0053.org][ZB1e0053]] 春秋或問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0053
 :SOURCE:   四庫全書 文淵閣版
@@ -4679,7 +4679,7 @@
 **** responsible: 程端學
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0054/ZB1e0054.org][ZB1e0054]] 三傳辨疑
+*** [[mandoku:ZB1e0054.org][ZB1e0054]] 三傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0054
 :SOURCE:   四庫全書 文淵閣版
@@ -4690,7 +4690,7 @@
 **** responsible: 程端學
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0055/ZB1e0055.org][ZB1e0055]] 春秋讞義
+*** [[mandoku:ZB1e0055.org][ZB1e0055]] 春秋讞義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0055
 :SOURCE:   四庫全書 文淵閣版
@@ -4701,7 +4701,7 @@
 **** responsible: 王元杰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0056/ZB1e0056.org][ZB1e0056]] 春秋會通
+*** [[mandoku:ZB1e0056.org][ZB1e0056]] 春秋會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0056
 :SOURCE:   四庫全書 文淵閣版
@@ -4712,7 +4712,7 @@
 **** responsible: 李廉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0057/ZB1e0057.org][ZB1e0057]] 春秋闕欵
+*** [[mandoku:ZB1e0057.org][ZB1e0057]] 春秋闕欵
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0057
 :SOURCE:   四庫全書 文淵閣版
@@ -4723,7 +4723,7 @@
 **** responsible: 鄭玉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0058/ZB1e0058.org][ZB1e0058]] 春秋集傳
+*** [[mandoku:ZB1e0058.org][ZB1e0058]] 春秋集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0058
 :SOURCE:   四庫全書 文淵閣版
@@ -4734,7 +4734,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0059/ZB1e0059.org][ZB1e0059]] 春秋師說
+*** [[mandoku:ZB1e0059.org][ZB1e0059]] 春秋師說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0059
 :SOURCE:   四庫全書 文淵閣版
@@ -4745,7 +4745,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0060/ZB1e0060.org][ZB1e0060]] 春秋左氏傳補註
+*** [[mandoku:ZB1e0060.org][ZB1e0060]] 春秋左氏傳補註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0060
 :SOURCE:   四庫全書 文淵閣版
@@ -4756,7 +4756,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0061/ZB1e0061.org][ZB1e0061]] 春秋金鎖匙
+*** [[mandoku:ZB1e0061.org][ZB1e0061]] 春秋金鎖匙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0061
 :SOURCE:   四庫全書 文淵閣版
@@ -4767,7 +4767,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0062/ZB1e0062.org][ZB1e0062]] 春秋屬辭
+*** [[mandoku:ZB1e0062.org][ZB1e0062]] 春秋屬辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0062
 :SOURCE:   四庫全書 文淵閣版
@@ -4778,7 +4778,7 @@
 **** responsible: 趙汸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0063/ZB1e0063.org][ZB1e0063]] 春秋胡傳附錄纂疏
+*** [[mandoku:ZB1e0063.org][ZB1e0063]] 春秋胡傳附錄纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0063
 :SOURCE:   四庫全書 文淵閣版
@@ -4789,7 +4789,7 @@
 **** responsible: 汪克寬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0064/ZB1e0064.org][ZB1e0064]] 春秋春王正月考
+*** [[mandoku:ZB1e0064.org][ZB1e0064]] 春秋春王正月考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0064
 :SOURCE:   四庫全書 文淵閣版
@@ -4800,7 +4800,7 @@
 **** responsible: 張以寧
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0065/ZB1e0065.org][ZB1e0065]] 春秋書法鈎元
+*** [[mandoku:ZB1e0065.org][ZB1e0065]] 春秋書法鈎元
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0065
 :SOURCE:   四庫全書 文淵閣版
@@ -4811,7 +4811,7 @@
 **** responsible: 石光霽
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0066/ZB1e0066.org][ZB1e0066]] 春秋大全
+*** [[mandoku:ZB1e0066.org][ZB1e0066]] 春秋大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0066
 :SOURCE:   四庫全書 文淵閣版
@@ -4822,7 +4822,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0067/ZB1e0067.org][ZB1e0067]] 春秋經傳辨疑
+*** [[mandoku:ZB1e0067.org][ZB1e0067]] 春秋經傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0067
 :SOURCE:   四庫全書 文淵閣版
@@ -4833,7 +4833,7 @@
 **** responsible: 童品
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0068/ZB1e0068.org][ZB1e0068]] 春秋正傳
+*** [[mandoku:ZB1e0068.org][ZB1e0068]] 春秋正傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0068
 :SOURCE:   四庫全書 文淵閣版
@@ -4844,7 +4844,7 @@
 **** responsible: 湛若水
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0069/ZB1e0069.org][ZB1e0069]] 左傳附注
+*** [[mandoku:ZB1e0069.org][ZB1e0069]] 左傳附注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0069
 :SOURCE:   四庫全書 文淵閣版
@@ -4855,7 +4855,7 @@
 **** responsible: 陸粲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0070/ZB1e0070.org][ZB1e0070]] 春秋胡氏傳辨疑
+*** [[mandoku:ZB1e0070.org][ZB1e0070]] 春秋胡氏傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0070
 :SOURCE:   四庫全書 文淵閣版
@@ -4866,7 +4866,7 @@
 **** responsible: 陸粲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0071/ZB1e0071.org][ZB1e0071]] 春秋明志錄
+*** [[mandoku:ZB1e0071.org][ZB1e0071]] 春秋明志錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0071
 :SOURCE:   四庫全書 文淵閣版
@@ -4877,7 +4877,7 @@
 **** responsible: 熊過
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0072/ZB1e0072.org][ZB1e0072]] 春秋正旨
+*** [[mandoku:ZB1e0072.org][ZB1e0072]] 春秋正旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0072
 :SOURCE:   四庫全書 文淵閣版
@@ -4888,7 +4888,7 @@
 **** responsible: 高拱
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0073/ZB1e0073.org][ZB1e0073]] 春秋輯傳
+*** [[mandoku:ZB1e0073.org][ZB1e0073]] 春秋輯傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0073
 :SOURCE:   四庫全書 文淵閣版
@@ -4899,7 +4899,7 @@
 **** responsible: 王樵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0074/ZB1e0074.org][ZB1e0074]] 春秋億
+*** [[mandoku:ZB1e0074.org][ZB1e0074]] 春秋億
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0074
 :SOURCE:   四庫全書 文淵閣版
@@ -4910,7 +4910,7 @@
 **** responsible: 徐學謨
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0075/ZB1e0075.org][ZB1e0075]] 春秋事義全考
+*** [[mandoku:ZB1e0075.org][ZB1e0075]] 春秋事義全考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0075
 :SOURCE:   四庫全書 文淵閣版
@@ -4921,7 +4921,7 @@
 **** responsible: 姜寶
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0076/ZB1e0076.org][ZB1e0076]] 春秋左傳屬事
+*** [[mandoku:ZB1e0076.org][ZB1e0076]] 春秋左傳屬事
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0076
 :SOURCE:   四庫全書 文淵閣版
@@ -4932,7 +4932,7 @@
 **** responsible: 傅遜
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0077/ZB1e0077.org][ZB1e0077]] 春秋胡傳考誤
+*** [[mandoku:ZB1e0077.org][ZB1e0077]] 春秋胡傳考誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0077
 :SOURCE:   四庫全書 文淵閣版
@@ -4943,7 +4943,7 @@
 **** responsible: 袁仁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0078/ZB1e0078.org][ZB1e0078]] 左氏釋
+*** [[mandoku:ZB1e0078.org][ZB1e0078]] 左氏釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0078
 :SOURCE:   四庫全書 文淵閣版
@@ -4954,7 +4954,7 @@
 **** responsible: 馮時可
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0079/ZB1e0079.org][ZB1e0079]] 春秋質疑
+*** [[mandoku:ZB1e0079.org][ZB1e0079]] 春秋質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0079
 :SOURCE:   四庫全書 文淵閣版
@@ -4965,7 +4965,7 @@
 **** responsible: 楊于庭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0080/ZB1e0080.org][ZB1e0080]] 春秋孔義
+*** [[mandoku:ZB1e0080.org][ZB1e0080]] 春秋孔義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0080
 :SOURCE:   四庫全書 文淵閣版
@@ -4976,7 +4976,7 @@
 **** responsible: 高攀龍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0081/ZB1e0081.org][ZB1e0081]] 春秋辯義
+*** [[mandoku:ZB1e0081.org][ZB1e0081]] 春秋辯義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0081
 :SOURCE:   四庫全書 文淵閣版
@@ -4987,7 +4987,7 @@
 **** responsible: 卓爾康
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0082/ZB1e0082.org][ZB1e0082]] 讀春秋畧記
+*** [[mandoku:ZB1e0082.org][ZB1e0082]] 讀春秋畧記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0082
 :SOURCE:   四庫全書 文淵閣版
@@ -4998,7 +4998,7 @@
 **** responsible: 朱朝瑛
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0083/ZB1e0083.org][ZB1e0083]] 春秋四傳質
+*** [[mandoku:ZB1e0083.org][ZB1e0083]] 春秋四傳質
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0083
 :SOURCE:   四庫全書 文淵閣版
@@ -5009,7 +5009,7 @@
 **** responsible: 王介之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0084/ZB1e0084.org][ZB1e0084]] 左傳杜林合注
+*** [[mandoku:ZB1e0084.org][ZB1e0084]] 左傳杜林合注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0084
 :SOURCE:   四庫全書 文淵閣版
@@ -5020,7 +5020,7 @@
 **** responsible: 王道焜
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0085/ZB1e0085.org][ZB1e0085]] 日講春秋解義
+*** [[mandoku:ZB1e0085.org][ZB1e0085]] 日講春秋解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0085
 :SOURCE:   四庫全書 文淵閣版
@@ -5031,7 +5031,7 @@
 **** responsible: 庫勒納
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0086/ZB1e0086.org][ZB1e0086]] 欽定春秋傳說彙纂
+*** [[mandoku:ZB1e0086.org][ZB1e0086]] 欽定春秋傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0086
 :SOURCE:   四庫全書 文淵閣版
@@ -5042,7 +5042,7 @@
 **** responsible: 王掞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0087/ZB1e0087.org][ZB1e0087]] 御纂春秋直解
+*** [[mandoku:ZB1e0087.org][ZB1e0087]] 御纂春秋直解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0087
 :SOURCE:   四庫全書 文淵閣版
@@ -5053,7 +5053,7 @@
 **** responsible: 傅恆
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0088/ZB1e0088.org][ZB1e0088]] 左傳杜解補正
+*** [[mandoku:ZB1e0088.org][ZB1e0088]] 左傳杜解補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0088
 :SOURCE:   四庫全書 文淵閣版
@@ -5064,7 +5064,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0089/ZB1e0089.org][ZB1e0089]] 春秋稗疏
+*** [[mandoku:ZB1e0089.org][ZB1e0089]] 春秋稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0089
 :SOURCE:   四庫全書 文淵閣版
@@ -5075,7 +5075,7 @@
 **** responsible: 王夫之
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0090/ZB1e0090.org][ZB1e0090]] 春秋四傳糾正
+*** [[mandoku:ZB1e0090.org][ZB1e0090]] 春秋四傳糾正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0090
 :SOURCE:   四庫全書 文淵閣版
@@ -5086,7 +5086,7 @@
 **** responsible: 俞汝言
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0091/ZB1e0091.org][ZB1e0091]] 春秋平議
+*** [[mandoku:ZB1e0091.org][ZB1e0091]] 春秋平議
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0091
 :SOURCE:   四庫全書 文淵閣版
@@ -5097,7 +5097,7 @@
 **** responsible: 俞汝言
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0092/ZB1e0092.org][ZB1e0092]] 讀左日鈔
+*** [[mandoku:ZB1e0092.org][ZB1e0092]] 讀左日鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0092
 :SOURCE:   四庫全書 文淵閣版
@@ -5108,7 +5108,7 @@
 **** responsible: 朱鶴齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0093/ZB1e0093.org][ZB1e0093]] 左傳事緯
+*** [[mandoku:ZB1e0093.org][ZB1e0093]] 左傳事緯
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0093
 :SOURCE:   四庫全書 文淵閣版
@@ -5119,8 +5119,8 @@
 **** responsible: 馬驌
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0093a/ZB1e0093a.org][ZB1e0093a]] 左傳事緯__前集
-*** [[krp:ZB1e/ZB1e0094/ZB1e0094.org][ZB1e0094]] 春秋毛氏傳
+*** [[mandoku:ZB1e0093a.org][ZB1e0093a]] 左傳事緯__前集
+*** [[mandoku:ZB1e0094.org][ZB1e0094]] 春秋毛氏傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0094
 :SOURCE:   四庫全書 文淵閣版
@@ -5131,7 +5131,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0095/ZB1e0095.org][ZB1e0095]] 春秋簡書刋誤
+*** [[mandoku:ZB1e0095.org][ZB1e0095]] 春秋簡書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0095
 :SOURCE:   四庫全書 文淵閣版
@@ -5142,7 +5142,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0096/ZB1e0096.org][ZB1e0096]] 春秋屬辭比事記
+*** [[mandoku:ZB1e0096.org][ZB1e0096]] 春秋屬辭比事記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0096
 :SOURCE:   四庫全書 文淵閣版
@@ -5153,7 +5153,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0097/ZB1e0097.org][ZB1e0097]] 春秋地名攷畧
+*** [[mandoku:ZB1e0097.org][ZB1e0097]] 春秋地名攷畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0097
 :SOURCE:   四庫全書 文淵閣版
@@ -5164,7 +5164,7 @@
 **** responsible: 高士奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0098/ZB1e0098.org][ZB1e0098]] 春秋管窺
+*** [[mandoku:ZB1e0098.org][ZB1e0098]] 春秋管窺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0098
 :SOURCE:   四庫全書 文淵閣版
@@ -5175,7 +5175,7 @@
 **** responsible: 徐廷垣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0099/ZB1e0099.org][ZB1e0099]] 左傳折諸
+*** [[mandoku:ZB1e0099.org][ZB1e0099]] 左傳折諸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0099
 :SOURCE:   四庫全書 文淵閣版
@@ -5186,10 +5186,10 @@
 **** responsible: 張尚瑗 ;;S1n0587
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0099a/ZB1e0099a.org][ZB1e0099a]] 三傳折諸__左傳折諸
-*** [[krp:ZB1e/ZB1e0099b/ZB1e0099b.org][ZB1e0099b]] 三傳折諸__公羊折諸
-*** [[krp:ZB1e/ZB1e0099c/ZB1e0099c.org][ZB1e0099c]] 三傳折諸__穀梁折諸
-*** [[krp:ZB1e/ZB1e0100/ZB1e0100.org][ZB1e0100]] 春秋闕如編
+*** [[mandoku:ZB1e0099a.org][ZB1e0099a]] 三傳折諸__左傳折諸
+*** [[mandoku:ZB1e0099b.org][ZB1e0099b]] 三傳折諸__公羊折諸
+*** [[mandoku:ZB1e0099c.org][ZB1e0099c]] 三傳折諸__穀梁折諸
+*** [[mandoku:ZB1e0100.org][ZB1e0100]] 春秋闕如編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0100
 :SOURCE:   四庫全書 文淵閣版
@@ -5200,7 +5200,7 @@
 **** responsible: 焦袁熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0101/ZB1e0101.org][ZB1e0101]] 春秋宗朱辨義
+*** [[mandoku:ZB1e0101.org][ZB1e0101]] 春秋宗朱辨義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0101
 :SOURCE:   四庫全書 文淵閣版
@@ -5211,7 +5211,7 @@
 **** responsible: 張自超
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0102/ZB1e0102.org][ZB1e0102]] 春秋通論
+*** [[mandoku:ZB1e0102.org][ZB1e0102]] 春秋通論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0102
 :SOURCE:   四庫全書 文淵閣版
@@ -5222,7 +5222,7 @@
 **** responsible: 方苞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0103/ZB1e0103.org][ZB1e0103]] 春秋世族譜
+*** [[mandoku:ZB1e0103.org][ZB1e0103]] 春秋世族譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0103
 :SOURCE:   四庫全書 文淵閣版
@@ -5233,7 +5233,7 @@
 **** responsible: 陳厚耀
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0104/ZB1e0104.org][ZB1e0104]] 春秋長歷
+*** [[mandoku:ZB1e0104.org][ZB1e0104]] 春秋長歷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0104
 :SOURCE:   四庫全書 文淵閣版
@@ -5244,7 +5244,7 @@
 **** responsible: 陳厚耀
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0105/ZB1e0105.org][ZB1e0105]] 春秋說
+*** [[mandoku:ZB1e0105.org][ZB1e0105]] 春秋說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0105
 :SOURCE:   四庫全書 文淵閣版
@@ -5255,7 +5255,7 @@
 **** responsible: 惠士奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0106/ZB1e0106.org][ZB1e0106]] 春秋大事表
+*** [[mandoku:ZB1e0106.org][ZB1e0106]] 春秋大事表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0106
 :SOURCE:   四庫全書 文淵閣版
@@ -5266,7 +5266,7 @@
 **** responsible: 顧棟高
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0107/ZB1e0107.org][ZB1e0107]] 春秋識小錄
+*** [[mandoku:ZB1e0107.org][ZB1e0107]] 春秋識小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0107
 :SOURCE:   四庫全書 文淵閣版
@@ -5277,7 +5277,7 @@
 **** responsible: 程廷祚
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0108/ZB1e0108.org][ZB1e0108]] 春秋左傳補註
+*** [[mandoku:ZB1e0108.org][ZB1e0108]] 春秋左傳補註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0108
 :SOURCE:   四庫全書 文淵閣版
@@ -5288,7 +5288,7 @@
 **** responsible: 惠棟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0109/ZB1e0109.org][ZB1e0109]] 春秋左傳小疏
+*** [[mandoku:ZB1e0109.org][ZB1e0109]] 春秋左傳小疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0109
 :SOURCE:   四庫全書 文淵閣版
@@ -5299,7 +5299,7 @@
 **** responsible: 沈彤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0110/ZB1e0110.org][ZB1e0110]] 春秋地理考實
+*** [[mandoku:ZB1e0110.org][ZB1e0110]] 春秋地理考實
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0110
 :SOURCE:   四庫全書 文淵閣版
@@ -5310,7 +5310,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0111/ZB1e0111.org][ZB1e0111]] 三正考
+*** [[mandoku:ZB1e0111.org][ZB1e0111]] 三正考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0111
 :SOURCE:   四庫全書 文淵閣版
@@ -5321,7 +5321,7 @@
 **** responsible: 吳鼐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0112/ZB1e0112.org][ZB1e0112]] 春秋究遺
+*** [[mandoku:ZB1e0112.org][ZB1e0112]] 春秋究遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0112
 :SOURCE:   四庫全書 文淵閣版
@@ -5332,7 +5332,7 @@
 **** responsible: 葉酉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0113/ZB1e0113.org][ZB1e0113]] 春秋隨筆
+*** [[mandoku:ZB1e0113.org][ZB1e0113]] 春秋隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0113
 :SOURCE:   四庫全書 文淵閣版
@@ -5343,7 +5343,7 @@
 **** responsible: 顧奎光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1e/ZB1e0114/ZB1e0114.org][ZB1e0114]] 春秋繁露
+*** [[mandoku:ZB1e0114.org][ZB1e0114]] 春秋繁露
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0114
 :SOURCE:   四庫全書 文淵閣版
@@ -5355,7 +5355,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1f 孝經類
-*** [[krp:ZB1f/ZB1f0001/ZB1f0001.org][ZB1f0001]] 古文孝經孔氏傳
+*** [[mandoku:ZB1f0001.org][ZB1f0001]] 古文孝經孔氏傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0001
 :SOURCE:   四庫全書 文淵閣版
@@ -5366,7 +5366,7 @@
 **** responsible: 孔安國
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0002/ZB1f0002.org][ZB1f0002]] 孝經注疏
+*** [[mandoku:ZB1f0002.org][ZB1f0002]] 孝經注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0002
 :SOURCE:   四庫全書 文淵閣版
@@ -5377,7 +5377,7 @@
 **** responsible: 玄宗李隆基
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0003/ZB1f0003.org][ZB1f0003]] 孝經指解
+*** [[mandoku:ZB1f0003.org][ZB1f0003]] 孝經指解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0003
 :SOURCE:   四庫全書 文淵閣版
@@ -5388,7 +5388,7 @@
 **** responsible: 司馬光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0004/ZB1f0004.org][ZB1f0004]] 孝經刊誤
+*** [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刊誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0004
 :SOURCE:   四庫全書 文淵閣版
@@ -5399,7 +5399,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0005/ZB1f0005.org][ZB1f0005]] 孝經大義
+*** [[mandoku:ZB1f0005.org][ZB1f0005]] 孝經大義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0005
 :SOURCE:   四庫全書 文淵閣版
@@ -5410,7 +5410,7 @@
 **** responsible: 董鼎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0006/ZB1f0006.org][ZB1f0006]] 孝經定本
+*** [[mandoku:ZB1f0006.org][ZB1f0006]] 孝經定本
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0006
 :SOURCE:   四庫全書 文淵閣版
@@ -5421,7 +5421,7 @@
 **** responsible: 吳澄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0007/ZB1f0007.org][ZB1f0007]] 孝經述註
+*** [[mandoku:ZB1f0007.org][ZB1f0007]] 孝經述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0007
 :SOURCE:   四庫全書 文淵閣版
@@ -5432,7 +5432,7 @@
 **** responsible: 項霦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0008/ZB1f0008.org][ZB1f0008]] 孝經集傳
+*** [[mandoku:ZB1f0008.org][ZB1f0008]] 孝經集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0008
 :SOURCE:   四庫全書 文淵閣版
@@ -5443,7 +5443,7 @@
 **** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0009/ZB1f0009.org][ZB1f0009]] 御定孝經注
+*** [[mandoku:ZB1f0009.org][ZB1f0009]] 御定孝經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0009
 :SOURCE:   四庫全書 文淵閣版
@@ -5454,7 +5454,7 @@
 **** responsible: 蔣赫德
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0010/ZB1f0010.org][ZB1f0010]] 御纂孝經集註
+*** [[mandoku:ZB1f0010.org][ZB1f0010]] 御纂孝經集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0010
 :SOURCE:   四庫全書 文淵閣版
@@ -5465,7 +5465,7 @@
 **** responsible: 世宗胤禎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1f/ZB1f0011/ZB1f0011.org][ZB1f0011]] 孝經問
+*** [[mandoku:ZB1f0011.org][ZB1f0011]] 孝經問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0011
 :SOURCE:   四庫全書 文淵閣版
@@ -5477,7 +5477,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1g 五經總義類
-*** [[krp:ZB1g/ZB1g0001/ZB1g0001.org][ZB1g0001]] 駁五經異義
+*** [[mandoku:ZB1g0001.org][ZB1g0001]] 駁五經異義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0001
 :SOURCE:   四庫全書 文淵閣版
@@ -5488,7 +5488,7 @@
 **** responsible: 鄭玄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0002/ZB1g0002.org][ZB1g0002]] 鄭志
+*** [[mandoku:ZB1g0002.org][ZB1g0002]] 鄭志
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0002
 :SOURCE:   四庫全書 文淵閣版
@@ -5499,7 +5499,7 @@
 **** responsible: 鄭小同
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0003/ZB1g0003.org][ZB1g0003]] 經典釋文
+*** [[mandoku:ZB1g0003.org][ZB1g0003]] 經典釋文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0003
 :SOURCE:   四庫全書 文淵閣版
@@ -5510,7 +5510,7 @@
 **** responsible: 陸德明
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0004/ZB1g0004.org][ZB1g0004]] 公是七經小傳
+*** [[mandoku:ZB1g0004.org][ZB1g0004]] 公是七經小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0004
 :SOURCE:   四庫全書 文淵閣版
@@ -5521,7 +5521,7 @@
 **** responsible: 劉敞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0005/ZB1g0005.org][ZB1g0005]] 程氏經說
+*** [[mandoku:ZB1g0005.org][ZB1g0005]] 程氏經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0005
 :SOURCE:   四庫全書 文淵閣版
@@ -5532,7 +5532,7 @@
 **** responsible: 程頤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0006/ZB1g0006.org][ZB1g0006]] 六經圖
+*** [[mandoku:ZB1g0006.org][ZB1g0006]] 六經圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0006
 :SOURCE:   四庫全書 文淵閣版
@@ -5543,7 +5543,7 @@
 **** responsible: 楊甲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0007/ZB1g0007.org][ZB1g0007]] 六經正誤
+*** [[mandoku:ZB1g0007.org][ZB1g0007]] 六經正誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0007
 :SOURCE:   四庫全書 文淵閣版
@@ -5554,7 +5554,7 @@
 **** responsible: 毛居正
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0008/ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
+*** [[mandoku:ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0008
 :SOURCE:   四庫全書 文淵閣版
@@ -5565,7 +5565,7 @@
 **** responsible: 嶽珂
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0009/ZB1g0009.org][ZB1g0009]] 融堂四書管見
+*** [[mandoku:ZB1g0009.org][ZB1g0009]] 融堂四書管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0009
 :SOURCE:   四庫全書 文淵閣版
@@ -5576,7 +5576,7 @@
 **** responsible: 錢時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0010/ZB1g0010.org][ZB1g0010]] 四如講稿
+*** [[mandoku:ZB1g0010.org][ZB1g0010]] 四如講稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0010
 :SOURCE:   四庫全書 文淵閣版
@@ -5587,7 +5587,7 @@
 **** responsible: 黃仲元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0011/ZB1g0011.org][ZB1g0011]] 六經奧論
+*** [[mandoku:ZB1g0011.org][ZB1g0011]] 六經奧論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0011
 :SOURCE:   四庫全書 文淵閣版
@@ -5598,7 +5598,7 @@
 **** responsible: 鄭樵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0012/ZB1g0012.org][ZB1g0012]] 明本排字九經直音
+*** [[mandoku:ZB1g0012.org][ZB1g0012]] 明本排字九經直音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0012
 :SOURCE:   四庫全書 文淵閣版
@@ -5609,7 +5609,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0013/ZB1g0013.org][ZB1g0013]] 經說
+*** [[mandoku:ZB1g0013.org][ZB1g0013]] 經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0013
 :SOURCE:   四庫全書 文淵閣版
@@ -5620,7 +5620,7 @@
 **** responsible: 熊明來
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0014/ZB1g0014.org][ZB1g0014]] 十一經問對
+*** [[mandoku:ZB1g0014.org][ZB1g0014]] 十一經問對
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0014
 :SOURCE:   四庫全書 文淵閣版
@@ -5631,7 +5631,7 @@
 **** responsible: 何異
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0015/ZB1g0015.org][ZB1g0015]] 五經蠡測
+*** [[mandoku:ZB1g0015.org][ZB1g0015]] 五經蠡測
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0015
 :SOURCE:   四庫全書 文淵閣版
@@ -5642,7 +5642,7 @@
 **** responsible: 蔣悌生
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0016/ZB1g0016.org][ZB1g0016]] 簡端錄
+*** [[mandoku:ZB1g0016.org][ZB1g0016]] 簡端錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0016
 :SOURCE:   四庫全書 文淵閣版
@@ -5653,7 +5653,7 @@
 **** responsible: 邵寶
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0017/ZB1g0017.org][ZB1g0017]] 五經稽疑
+*** [[mandoku:ZB1g0017.org][ZB1g0017]] 五經稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0017
 :SOURCE:   四庫全書 文淵閣版
@@ -5664,7 +5664,7 @@
 **** responsible: 朱睦&
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0018/ZB1g0018.org][ZB1g0018]] 經典稽疑
+*** [[mandoku:ZB1g0018.org][ZB1g0018]] 經典稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0018
 :SOURCE:   四庫全書 文淵閣版
@@ -5675,7 +5675,7 @@
 **** responsible: 陳耀文
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0019/ZB1g0019.org][ZB1g0019]] 御製繙譯易經
+*** [[mandoku:ZB1g0019.org][ZB1g0019]] 御製繙譯易經
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0019
 :SOURCE:   四庫全書 文淵閣版
@@ -5685,7 +5685,7 @@
 **** dynasty: 清乾隆中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0020/ZB1g0020.org][ZB1g0020]] 七經孟子考文補遺
+*** [[mandoku:ZB1g0020.org][ZB1g0020]] 七經孟子考文補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0020
 :SOURCE:   四庫全書 文淵閣版
@@ -5696,7 +5696,7 @@
 **** responsible: 山井鼎
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0021/ZB1g0021.org][ZB1g0021]] 九經誤字
+*** [[mandoku:ZB1g0021.org][ZB1g0021]] 九經誤字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0021
 :SOURCE:   四庫全書 文淵閣版
@@ -5707,7 +5707,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0022/ZB1g0022.org][ZB1g0022]] 經問
+*** [[mandoku:ZB1g0022.org][ZB1g0022]] 經問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0022
 :SOURCE:   四庫全書 文淵閣版
@@ -5718,7 +5718,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0023/ZB1g0023.org][ZB1g0023]] 十三經義疑
+*** [[mandoku:ZB1g0023.org][ZB1g0023]] 十三經義疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0023
 :SOURCE:   四庫全書 文淵閣版
@@ -5729,7 +5729,7 @@
 **** responsible: 吳浩
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0024/ZB1g0024.org][ZB1g0024]] 九經古義
+*** [[mandoku:ZB1g0024.org][ZB1g0024]] 九經古義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0024
 :SOURCE:   四庫全書 文淵閣版
@@ -5740,7 +5740,7 @@
 **** responsible: 惠棟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0025/ZB1g0025.org][ZB1g0025]] 經稗
+*** [[mandoku:ZB1g0025.org][ZB1g0025]] 經稗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0025
 :SOURCE:   四庫全書 文淵閣版
@@ -5751,7 +5751,7 @@
 **** responsible: 鄭方坤
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0026/ZB1g0026.org][ZB1g0026]] 十三經注疏正字
+*** [[mandoku:ZB1g0026.org][ZB1g0026]] 十三經注疏正字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0026
 :SOURCE:   四庫全書 文淵閣版
@@ -5762,7 +5762,7 @@
 **** responsible: 沈廷芳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0027/ZB1g0027.org][ZB1g0027]] 朱子五經語類
+*** [[mandoku:ZB1g0027.org][ZB1g0027]] 朱子五經語類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0027
 :SOURCE:   四庫全書 文淵閣版
@@ -5773,7 +5773,7 @@
 **** responsible: 程川
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0028/ZB1g0028.org][ZB1g0028]] 羣經補義
+*** [[mandoku:ZB1g0028.org][ZB1g0028]] 羣經補義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0028
 :SOURCE:   四庫全書 文淵閣版
@@ -5784,7 +5784,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0029/ZB1g0029.org][ZB1g0029]] 經咫
+*** [[mandoku:ZB1g0029.org][ZB1g0029]] 經咫
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0029
 :SOURCE:   四庫全書 文淵閣版
@@ -5795,7 +5795,7 @@
 **** responsible: 陳祖范
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0030/ZB1g0030.org][ZB1g0030]] 九經辨字瀆蒙
+*** [[mandoku:ZB1g0030.org][ZB1g0030]] 九經辨字瀆蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0030
 :SOURCE:   四庫全書 文淵閣版
@@ -5806,7 +5806,7 @@
 **** responsible: 沈炳震
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0031/ZB1g0031.org][ZB1g0031]] 古經解鉤沉
+*** [[mandoku:ZB1g0031.org][ZB1g0031]] 古經解鉤沉
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0031
 :SOURCE:   四庫全書 文淵閣版
@@ -5817,7 +5817,7 @@
 **** responsible: 餘蕭客
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1g/ZB1g0032/ZB1g0032.org][ZB1g0032]] 古微書
+*** [[mandoku:ZB1g0032.org][ZB1g0032]] 古微書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0032
 :SOURCE:   四庫全書 文淵閣版
@@ -5829,7 +5829,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1h 四書類
-*** [[krp:ZB1h/ZB1h0001/ZB1h0001.org][ZB1h0001]] 孟子注疏
+*** [[mandoku:ZB1h0001.org][ZB1h0001]] 孟子注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0001
 :SOURCE:   四庫全書 文淵閣版
@@ -5840,7 +5840,7 @@
 **** responsible: 趙岐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0002/ZB1h0002.org][ZB1h0002]] 論語集解義疏
+*** [[mandoku:ZB1h0002.org][ZB1h0002]] 論語集解義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0002
 :SOURCE:   四庫全書 文淵閣版
@@ -5851,7 +5851,7 @@
 **** responsible: 何晏
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0003/ZB1h0003.org][ZB1h0003]] 論語注疏
+*** [[mandoku:ZB1h0003.org][ZB1h0003]] 論語注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0003
 :SOURCE:   四庫全書 文淵閣版
@@ -5862,7 +5862,7 @@
 **** responsible: 何晏
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0004/ZB1h0004.org][ZB1h0004]] 論語筆解
+*** [[mandoku:ZB1h0004.org][ZB1h0004]] 論語筆解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0004
 :SOURCE:   四庫全書 文淵閣版
@@ -5873,7 +5873,7 @@
 **** responsible: 韓愈
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0005/ZB1h0005.org][ZB1h0005]] 孟子音義
+*** [[mandoku:ZB1h0005.org][ZB1h0005]] 孟子音義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0005
 :SOURCE:   四庫全書 文淵閣版
@@ -5884,7 +5884,7 @@
 **** responsible: 孫奭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0006/ZB1h0006.org][ZB1h0006]] 論語拾遺
+*** [[mandoku:ZB1h0006.org][ZB1h0006]] 論語拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0006
 :SOURCE:   四庫全書 文淵閣版
@@ -5895,7 +5895,7 @@
 **** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0007/ZB1h0007.org][ZB1h0007]] 孟子解
+*** [[mandoku:ZB1h0007.org][ZB1h0007]] 孟子解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0007
 :SOURCE:   四庫全書 文淵閣版
@@ -5906,7 +5906,7 @@
 **** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0008/ZB1h0008.org][ZB1h0008]] 論語全解
+*** [[mandoku:ZB1h0008.org][ZB1h0008]] 論語全解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0008
 :SOURCE:   四庫全書 文淵閣版
@@ -5917,7 +5917,7 @@
 **** responsible: 陳祥道
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0009/ZB1h0009.org][ZB1h0009]] 孟子傳
+*** [[mandoku:ZB1h0009.org][ZB1h0009]] 孟子傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0009
 :SOURCE:   四庫全書 文淵閣版
@@ -5928,7 +5928,7 @@
 **** responsible: 張九成
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0010/ZB1h0010.org][ZB1h0010]] 尊孟辨
+*** [[mandoku:ZB1h0010.org][ZB1h0010]] 尊孟辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0010
 :SOURCE:   四庫全書 文淵閣版
@@ -5939,7 +5939,7 @@
 **** responsible: 餘允文
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0011/ZB1h0011.org][ZB1h0011]] 大學
+*** [[mandoku:ZB1h0011.org][ZB1h0011]] 大學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0011
 :SOURCE:   四庫全書 文淵閣版
@@ -5950,7 +5950,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0012/ZB1h0012.org][ZB1h0012]] 四書或問
+*** [[mandoku:ZB1h0012.org][ZB1h0012]] 四書或問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0012
 :SOURCE:   四庫全書 文淵閣版
@@ -5961,7 +5961,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0013/ZB1h0013.org][ZB1h0013]] 論語精義
+*** [[mandoku:ZB1h0013.org][ZB1h0013]] 論語精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0013
 :SOURCE:   四庫全書 文淵閣版
@@ -5972,7 +5972,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0014/ZB1h0014.org][ZB1h0014]] 中庸輯畧
+*** [[mandoku:ZB1h0014.org][ZB1h0014]] 中庸輯畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0014
 :SOURCE:   四庫全書 文淵閣版
@@ -5983,7 +5983,7 @@
 **** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0015/ZB1h0015.org][ZB1h0015]] 石鼓論語答問
+*** [[mandoku:ZB1h0015.org][ZB1h0015]] 石鼓論語答問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0015
 :SOURCE:   四庫全書 文淵閣版
@@ -5994,7 +5994,7 @@
 **** responsible: 戴溪
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0016/ZB1h0016.org][ZB1h0016]] 論語意原
+*** [[mandoku:ZB1h0016.org][ZB1h0016]] 論語意原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0016
 :SOURCE:   四庫全書 文淵閣版
@@ -6005,7 +6005,7 @@
 **** responsible: 鄭汝諧
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0017/ZB1h0017.org][ZB1h0017]] 論語解
+*** [[mandoku:ZB1h0017.org][ZB1h0017]] 論語解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0017
 :SOURCE:   四庫全書 文淵閣版
@@ -6016,7 +6016,7 @@
 **** responsible: 張栻
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0018/ZB1h0018.org][ZB1h0018]] 孟子說
+*** [[mandoku:ZB1h0018.org][ZB1h0018]] 孟子說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0018
 :SOURCE:   四庫全書 文淵閣版
@@ -6027,7 +6027,7 @@
 **** responsible: 張栻
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0019/ZB1h0019.org][ZB1h0019]] 蒙齋中庸講義
+*** [[mandoku:ZB1h0019.org][ZB1h0019]] 蒙齋中庸講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0019
 :SOURCE:   四庫全書 文淵閣版
@@ -6038,7 +6038,7 @@
 **** responsible: 袁甫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0020/ZB1h0020.org][ZB1h0020]] 大學集編
+*** [[mandoku:ZB1h0020.org][ZB1h0020]] 大學集編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0020
 :SOURCE:   四庫全書 文淵閣版
@@ -6049,7 +6049,7 @@
 **** responsible: 眞德秀
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0021/ZB1h0021.org][ZB1h0021]] 孟子集疏
+*** [[mandoku:ZB1h0021.org][ZB1h0021]] 孟子集疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0021
 :SOURCE:   四庫全書 文淵閣版
@@ -6060,7 +6060,7 @@
 **** responsible: 蔡模
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0022/ZB1h0022.org][ZB1h0022]] 論語集說
+*** [[mandoku:ZB1h0022.org][ZB1h0022]] 論語集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0022
 :SOURCE:   四庫全書 文淵閣版
@@ -6071,7 +6071,7 @@
 **** responsible: 蔡節
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0023/ZB1h0023.org][ZB1h0023]] 中庸指歸
+*** [[mandoku:ZB1h0023.org][ZB1h0023]] 中庸指歸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0023
 :SOURCE:   四庫全書 文淵閣版
@@ -6082,7 +6082,7 @@
 **** responsible: 黎立武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0024/ZB1h0024.org][ZB1h0024]] 大學纂疏
+*** [[mandoku:ZB1h0024.org][ZB1h0024]] 大學纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0024
 :SOURCE:   四庫全書 文淵閣版
@@ -6093,7 +6093,7 @@
 **** responsible: 趙順孫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0025/ZB1h0025.org][ZB1h0025]] 大學疏義
+*** [[mandoku:ZB1h0025.org][ZB1h0025]] 大學疏義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0025
 :SOURCE:   四庫全書 文淵閣版
@@ -6104,7 +6104,7 @@
 **** responsible: 金履祥
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0026/ZB1h0026.org][ZB1h0026]] 論語集註攷證
+*** [[mandoku:ZB1h0026.org][ZB1h0026]] 論語集註攷證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0026
 :SOURCE:   四庫全書 文淵閣版
@@ -6115,7 +6115,7 @@
 **** responsible: 金履祥
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0027/ZB1h0027.org][ZB1h0027]] 四書集義精要
+*** [[mandoku:ZB1h0027.org][ZB1h0027]] 四書集義精要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0027
 :SOURCE:   四庫全書 文淵閣版
@@ -6126,7 +6126,7 @@
 **** responsible: 劉因
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0028/ZB1h0028.org][ZB1h0028]] 四書辨疑
+*** [[mandoku:ZB1h0028.org][ZB1h0028]] 四書辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0028
 :SOURCE:   四庫全書 文淵閣版
@@ -6137,7 +6137,7 @@
 **** responsible: 陳天祥
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0029/ZB1h0029.org][ZB1h0029]] 讀四書叢說
+*** [[mandoku:ZB1h0029.org][ZB1h0029]] 讀四書叢說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0029
 :SOURCE:   四庫全書 文淵閣版
@@ -6148,7 +6148,7 @@
 **** responsible: 許謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0030/ZB1h0030.org][ZB1h0030]] 大學通
+*** [[mandoku:ZB1h0030.org][ZB1h0030]] 大學通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0030
 :SOURCE:   四庫全書 文淵閣版
@@ -6159,7 +6159,7 @@
 **** responsible: 胡炳文
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0031/ZB1h0031.org][ZB1h0031]] 大學章句或問通證
+*** [[mandoku:ZB1h0031.org][ZB1h0031]] 大學章句或問通證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0031
 :SOURCE:   四庫全書 文淵閣版
@@ -6170,7 +6170,7 @@
 **** responsible: 張存中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0032/ZB1h0032.org][ZB1h0032]] 四書疑節
+*** [[mandoku:ZB1h0032.org][ZB1h0032]] 四書疑節
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0032
 :SOURCE:   四庫全書 文淵閣版
@@ -6181,7 +6181,7 @@
 **** responsible: 袁俊翁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0033/ZB1h0033.org][ZB1h0033]] 四書經疑貫通
+*** [[mandoku:ZB1h0033.org][ZB1h0033]] 四書經疑貫通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0033
 :SOURCE:   四庫全書 文淵閣版
@@ -6192,7 +6192,7 @@
 **** responsible: 王充耘
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0034/ZB1h0034.org][ZB1h0034]] 大學纂箋
+*** [[mandoku:ZB1h0034.org][ZB1h0034]] 大學纂箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0034
 :SOURCE:   四庫全書 文淵閣版
@@ -6203,7 +6203,7 @@
 **** responsible: 詹道傳
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0035/ZB1h0035.org][ZB1h0035]] 四書通旨
+*** [[mandoku:ZB1h0035.org][ZB1h0035]] 四書通旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0035
 :SOURCE:   四庫全書 文淵閣版
@@ -6214,7 +6214,7 @@
 **** responsible: 朱公遷
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0036/ZB1h0036.org][ZB1h0036]] 四書管窺
+*** [[mandoku:ZB1h0036.org][ZB1h0036]] 四書管窺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0036
 :SOURCE:   四庫全書 文淵閣版
@@ -6225,7 +6225,7 @@
 **** responsible: 史伯璿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0037/ZB1h0037.org][ZB1h0037]] 大學集說啟蒙
+*** [[mandoku:ZB1h0037.org][ZB1h0037]] 大學集說啟蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0037
 :SOURCE:   四庫全書 文淵閣版
@@ -6236,7 +6236,7 @@
 **** responsible: 景星
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0038/ZB1h0038.org][ZB1h0038]] 大學章句大全
+*** [[mandoku:ZB1h0038.org][ZB1h0038]] 大學章句大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0038
 :SOURCE:   四庫全書 文淵閣版
@@ -6247,7 +6247,7 @@
 **** responsible: 胡廣
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0039/ZB1h0039.org][ZB1h0039]] 四書蒙引
+*** [[mandoku:ZB1h0039.org][ZB1h0039]] 四書蒙引
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0039
 :SOURCE:   四庫全書 文淵閣版
@@ -6258,7 +6258,7 @@
 **** responsible: 蔡清
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0040/ZB1h0040.org][ZB1h0040]] 四書因問
+*** [[mandoku:ZB1h0040.org][ZB1h0040]] 四書因問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0040
 :SOURCE:   四庫全書 文淵閣版
@@ -6269,7 +6269,7 @@
 **** responsible: 呂柟
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0041/ZB1h0041.org][ZB1h0041]] 問辨錄
+*** [[mandoku:ZB1h0041.org][ZB1h0041]] 問辨錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0041
 :SOURCE:   四庫全書 文淵閣版
@@ -6280,7 +6280,7 @@
 **** responsible: 高拱
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0042/ZB1h0042.org][ZB1h0042]] 論語類考
+*** [[mandoku:ZB1h0042.org][ZB1h0042]] 論語類考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0042
 :SOURCE:   四庫全書 文淵閣版
@@ -6291,7 +6291,7 @@
 **** responsible: 陳士元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0043/ZB1h0043.org][ZB1h0043]] 孟子雜記
+*** [[mandoku:ZB1h0043.org][ZB1h0043]] 孟子雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0043
 :SOURCE:   四庫全書 文淵閣版
@@ -6302,7 +6302,7 @@
 **** responsible: 陳士元
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0044/ZB1h0044.org][ZB1h0044]] 學庸正說
+*** [[mandoku:ZB1h0044.org][ZB1h0044]] 學庸正說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0044
 :SOURCE:   四庫全書 文淵閣版
@@ -6313,7 +6313,7 @@
 **** responsible: 趙南星
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0045/ZB1h0045.org][ZB1h0045]] 論語商
+*** [[mandoku:ZB1h0045.org][ZB1h0045]] 論語商
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0045
 :SOURCE:   四庫全書 文淵閣版
@@ -6324,7 +6324,7 @@
 **** responsible: 周宗建
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0046/ZB1h0046.org][ZB1h0046]] 論語學案
+*** [[mandoku:ZB1h0046.org][ZB1h0046]] 論語學案
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0046
 :SOURCE:   四庫全書 文淵閣版
@@ -6335,7 +6335,7 @@
 **** responsible: 劉宗周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0047/ZB1h0047.org][ZB1h0047]] 四書留書
+*** [[mandoku:ZB1h0047.org][ZB1h0047]] 四書留書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0047
 :SOURCE:   四庫全書 文淵閣版
@@ -6346,7 +6346,7 @@
 **** responsible: 章世純
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0048/ZB1h0048.org][ZB1h0048]] 日講四書解義
+*** [[mandoku:ZB1h0048.org][ZB1h0048]] 日講四書解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0048
 :SOURCE:   四庫全書 文淵閣版
@@ -6357,7 +6357,7 @@
 **** responsible: 庫勒納
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0049/ZB1h0049.org][ZB1h0049]] 四書近指
+*** [[mandoku:ZB1h0049.org][ZB1h0049]] 四書近指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0049
 :SOURCE:   四庫全書 文淵閣版
@@ -6368,7 +6368,7 @@
 **** responsible: 孫奇逢
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0050/ZB1h0050.org][ZB1h0050]] 孟子師說
+*** [[mandoku:ZB1h0050.org][ZB1h0050]] 孟子師說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0050
 :SOURCE:   四庫全書 文淵閣版
@@ -6379,7 +6379,7 @@
 **** responsible: 黃宗義
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0051/ZB1h0051.org][ZB1h0051]] 大學翼眞
+*** [[mandoku:ZB1h0051.org][ZB1h0051]] 大學翼眞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0051
 :SOURCE:   四庫全書 文淵閣版
@@ -6390,7 +6390,7 @@
 **** responsible: 胡渭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0052/ZB1h0052.org][ZB1h0052]] 四書講義困勉錄
+*** [[mandoku:ZB1h0052.org][ZB1h0052]] 四書講義困勉錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0052
 :SOURCE:   四庫全書 文淵閣版
@@ -6401,7 +6401,7 @@
 **** responsible: 陸隴其
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0053/ZB1h0053.org][ZB1h0053]] 松陽講義
+*** [[mandoku:ZB1h0053.org][ZB1h0053]] 松陽講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0053
 :SOURCE:   四庫全書 文淵閣版
@@ -6412,7 +6412,7 @@
 **** responsible: 陸隴其
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0054/ZB1h0054.org][ZB1h0054]] 大學古本說
+*** [[mandoku:ZB1h0054.org][ZB1h0054]] 大學古本說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0054
 :SOURCE:   四庫全書 文淵閣版
@@ -6423,7 +6423,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0055/ZB1h0055.org][ZB1h0055]] 論語稽求篇
+*** [[mandoku:ZB1h0055.org][ZB1h0055]] 論語稽求篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0055
 :SOURCE:   四庫全書 文淵閣版
@@ -6434,7 +6434,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0056/ZB1h0056.org][ZB1h0056]] 四書賸言
+*** [[mandoku:ZB1h0056.org][ZB1h0056]] 四書賸言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0056
 :SOURCE:   四庫全書 文淵閣版
@@ -6445,7 +6445,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0057/ZB1h0057.org][ZB1h0057]] 大學證文
+*** [[mandoku:ZB1h0057.org][ZB1h0057]] 大學證文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0057
 :SOURCE:   四庫全書 文淵閣版
@@ -6456,7 +6456,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0058/ZB1h0058.org][ZB1h0058]] 四書釋地
+*** [[mandoku:ZB1h0058.org][ZB1h0058]] 四書釋地
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0058
 :SOURCE:   四庫全書 文淵閣版
@@ -6467,7 +6467,7 @@
 **** responsible: 閻若璩
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0059/ZB1h0059.org][ZB1h0059]] 四書劄記
+*** [[mandoku:ZB1h0059.org][ZB1h0059]] 四書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0059
 :SOURCE:   四庫全書 文淵閣版
@@ -6478,7 +6478,7 @@
 **** responsible: 楊名時
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0060/ZB1h0060.org][ZB1h0060]] 此木軒四書說
+*** [[mandoku:ZB1h0060.org][ZB1h0060]] 此木軒四書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0060
 :SOURCE:   四庫全書 文淵閣版
@@ -6489,7 +6489,7 @@
 **** responsible: 焦袁熹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0061/ZB1h0061.org][ZB1h0061]] 四書逸箋
+*** [[mandoku:ZB1h0061.org][ZB1h0061]] 四書逸箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0061
 :SOURCE:   四庫全書 文淵閣版
@@ -6500,7 +6500,7 @@
 **** responsible: 程大中
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1h/ZB1h0062/ZB1h0062.org][ZB1h0062]] 鄉黨圖考
+*** [[mandoku:ZB1h0062.org][ZB1h0062]] 鄉黨圖考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0062
 :SOURCE:   四庫全書 文淵閣版
@@ -6512,7 +6512,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1i 樂類
-*** [[krp:ZB1i/ZB1i0001/ZB1i0001.org][ZB1i0001]] 皇祐新樂圖記
+*** [[mandoku:ZB1i0001.org][ZB1i0001]] 皇祐新樂圖記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0001
 :SOURCE:   四庫全書 文淵閣版
@@ -6523,7 +6523,7 @@
 **** responsible: 阮逸
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0002/ZB1i0002.org][ZB1i0002]] 樂書
+*** [[mandoku:ZB1i0002.org][ZB1i0002]] 樂書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0002
 :SOURCE:   四庫全書 文淵閣版
@@ -6534,7 +6534,7 @@
 **** responsible: 陳晹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0003/ZB1i0003.org][ZB1i0003]] 律呂新書
+*** [[mandoku:ZB1i0003.org][ZB1i0003]] 律呂新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0003
 :SOURCE:   四庫全書 文淵閣版
@@ -6545,7 +6545,7 @@
 **** responsible: 蔡元定
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0004/ZB1i0004.org][ZB1i0004]] 瑟譜
+*** [[mandoku:ZB1i0004.org][ZB1i0004]] 瑟譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0004
 :SOURCE:   四庫全書 文淵閣版
@@ -6556,7 +6556,7 @@
 **** responsible: 熊朋來
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0005/ZB1i0005.org][ZB1i0005]] 韶舞九成樂補
+*** [[mandoku:ZB1i0005.org][ZB1i0005]] 韶舞九成樂補
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0005
 :SOURCE:   四庫全書 文淵閣版
@@ -6567,7 +6567,7 @@
 **** responsible: 餘載
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0006/ZB1i0006.org][ZB1i0006]] 律呂成書
+*** [[mandoku:ZB1i0006.org][ZB1i0006]] 律呂成書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0006
 :SOURCE:   四庫全書 文淵閣版
@@ -6578,7 +6578,7 @@
 **** responsible: 劉墐
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0007/ZB1i0007.org][ZB1i0007]] 苑洛志樂
+*** [[mandoku:ZB1i0007.org][ZB1i0007]] 苑洛志樂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0007
 :SOURCE:   四庫全書 文淵閣版
@@ -6589,7 +6589,7 @@
 **** responsible: 韓邦奇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0008/ZB1i0008.org][ZB1i0008]] 鐘律通考
+*** [[mandoku:ZB1i0008.org][ZB1i0008]] 鐘律通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0008
 :SOURCE:   四庫全書 文淵閣版
@@ -6600,7 +6600,7 @@
 **** responsible: 倪復
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0009/ZB1i0009.org][ZB1i0009]] 樂律全書
+*** [[mandoku:ZB1i0009.org][ZB1i0009]] 樂律全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0009
 :SOURCE:   四庫全書 文淵閣版
@@ -6611,7 +6611,7 @@
 **** responsible: 朱載堉
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0010/ZB1i0010.org][ZB1i0010]] 御製律呂正義上編
+*** [[mandoku:ZB1i0010.org][ZB1i0010]] 御製律呂正義上編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0010
 :SOURCE:   四庫全書 文淵閣版
@@ -6622,7 +6622,7 @@
 **** responsible: 聖祖玄燁
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0011/ZB1i0011.org][ZB1i0011]] 御製律呂正義後編
+*** [[mandoku:ZB1i0011.org][ZB1i0011]] 御製律呂正義後編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0011
 :SOURCE:   四庫全書 文淵閣版
@@ -6633,7 +6633,7 @@
 **** responsible: 允祿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0012/ZB1i0012.org][ZB1i0012]] 欽定詩經樂譜全書
+*** [[mandoku:ZB1i0012.org][ZB1i0012]] 欽定詩經樂譜全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0012
 :SOURCE:   四庫全書 文淵閣版
@@ -6644,7 +6644,7 @@
 **** responsible: 永瑢
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0013/ZB1i0013.org][ZB1i0013]] 古樂經傳
+*** [[mandoku:ZB1i0013.org][ZB1i0013]] 古樂經傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0013
 :SOURCE:   四庫全書 文淵閣版
@@ -6655,7 +6655,7 @@
 **** responsible: 李光地
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0014/ZB1i0014.org][ZB1i0014]] 古樂書
+*** [[mandoku:ZB1i0014.org][ZB1i0014]] 古樂書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0014
 :SOURCE:   四庫全書 文淵閣版
@@ -6666,7 +6666,7 @@
 **** responsible: 應撝謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0015/ZB1i0015.org][ZB1i0015]] 聖諭樂本解說
+*** [[mandoku:ZB1i0015.org][ZB1i0015]] 聖諭樂本解說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0015
 :SOURCE:   四庫全書 文淵閣版
@@ -6677,7 +6677,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0016/ZB1i0016.org][ZB1i0016]] 皇言定聲錄
+*** [[mandoku:ZB1i0016.org][ZB1i0016]] 皇言定聲錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0016
 :SOURCE:   四庫全書 文淵閣版
@@ -6688,7 +6688,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0017/ZB1i0017.org][ZB1i0017]] 竟山樂錄
+*** [[mandoku:ZB1i0017.org][ZB1i0017]] 竟山樂錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0017
 :SOURCE:   四庫全書 文淵閣版
@@ -6699,7 +6699,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0018/ZB1i0018.org][ZB1i0018]] 李氏學樂錄
+*** [[mandoku:ZB1i0018.org][ZB1i0018]] 李氏學樂錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0018
 :SOURCE:   四庫全書 文淵閣版
@@ -6710,7 +6710,7 @@
 **** responsible: 李塨
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0019/ZB1i0019.org][ZB1i0019]] 樂律表微
+*** [[mandoku:ZB1i0019.org][ZB1i0019]] 樂律表微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0019
 :SOURCE:   四庫全書 文淵閣版
@@ -6721,7 +6721,7 @@
 **** responsible: 胡彥昇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0020/ZB1i0020.org][ZB1i0020]] 律呂新論
+*** [[mandoku:ZB1i0020.org][ZB1i0020]] 律呂新論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0020
 :SOURCE:   四庫全書 文淵閣版
@@ -6732,7 +6732,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0021/ZB1i0021.org][ZB1i0021]] 律呂闡微
+*** [[mandoku:ZB1i0021.org][ZB1i0021]] 律呂闡微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0021
 :SOURCE:   四庫全書 文淵閣版
@@ -6743,7 +6743,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1i/ZB1i0022/ZB1i0022.org][ZB1i0022]] 琴旨
+*** [[mandoku:ZB1i0022.org][ZB1i0022]] 琴旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0022
 :SOURCE:   四庫全書 文淵閣版
@@ -6755,7 +6755,7 @@
 **** textual witnesses
 ***** WYG
 ** ZB1j 小學類
-*** [[krp:ZB1j/ZB1j0001/ZB1j0001.org][ZB1j0001]] 爾雅注疏
+*** [[mandoku:ZB1j0001.org][ZB1j0001]] 爾雅注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0001
 :SOURCE:   四庫全書 文淵閣版
@@ -6766,7 +6766,7 @@
 **** responsible: 郭璞
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0002/ZB1j0002.org][ZB1j0002]] 爾雅注
+*** [[mandoku:ZB1j0002.org][ZB1j0002]] 爾雅注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0002
 :SOURCE:   四庫全書 文淵閣版
@@ -6777,7 +6777,7 @@
 **** responsible: 鄭樵
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0003/ZB1j0003.org][ZB1j0003]] 輶軒使者絕代語釋別國方言
+*** [[mandoku:ZB1j0003.org][ZB1j0003]] 輶軒使者絕代語釋別國方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0003
 :SOURCE:   四庫全書 文淵閣版
@@ -6788,7 +6788,7 @@
 **** responsible: 楊雄
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0004/ZB1j0004.org][ZB1j0004]] 釋名
+*** [[mandoku:ZB1j0004.org][ZB1j0004]] 釋名
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0004
 :SOURCE:   四庫全書 文淵閣版
@@ -6799,7 +6799,7 @@
 **** responsible: 劉熙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0005/ZB1j0005.org][ZB1j0005]] 廣雅
+*** [[mandoku:ZB1j0005.org][ZB1j0005]] 廣雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0005
 :SOURCE:   四庫全書 文淵閣版
@@ -6810,7 +6810,7 @@
 **** responsible: 張揖
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0006/ZB1j0006.org][ZB1j0006]] 匡謬正俗
+*** [[mandoku:ZB1j0006.org][ZB1j0006]] 匡謬正俗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0006
 :SOURCE:   四庫全書 文淵閣版
@@ -6821,7 +6821,7 @@
 **** responsible: 顏師古
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0007/ZB1j0007.org][ZB1j0007]] 羣經音辨
+*** [[mandoku:ZB1j0007.org][ZB1j0007]] 羣經音辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0007
 :SOURCE:   四庫全書 文淵閣版
@@ -6832,7 +6832,7 @@
 **** responsible: 賈昌朝
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0008/ZB1j0008.org][ZB1j0008]] 埤雅
+*** [[mandoku:ZB1j0008.org][ZB1j0008]] 埤雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0008
 :SOURCE:   四庫全書 文淵閣版
@@ -6843,7 +6843,7 @@
 **** responsible: 陸佃
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0009/ZB1j0009.org][ZB1j0009]] 爾雅翼
+*** [[mandoku:ZB1j0009.org][ZB1j0009]] 爾雅翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0009
 :SOURCE:   四庫全書 文淵閣版
@@ -6854,7 +6854,7 @@
 **** responsible: 羅願
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0010/ZB1j0010.org][ZB1j0010]] 駢雅
+*** [[mandoku:ZB1j0010.org][ZB1j0010]] 駢雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0010
 :SOURCE:   四庫全書 文淵閣版
@@ -6865,7 +6865,7 @@
 **** responsible: 朱謀㙔
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0011/ZB1j0011.org][ZB1j0011]] 字詁
+*** [[mandoku:ZB1j0011.org][ZB1j0011]] 字詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0011
 :SOURCE:   四庫全書 文淵閣版
@@ -6876,7 +6876,7 @@
 **** responsible: 黃生
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0012/ZB1j0012.org][ZB1j0012]] 續方言
+*** [[mandoku:ZB1j0012.org][ZB1j0012]] 續方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0012
 :SOURCE:   四庫全書 文淵閣版
@@ -6887,7 +6887,7 @@
 **** responsible: 杭世駿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0013/ZB1j0013.org][ZB1j0013]] 別雅
+*** [[mandoku:ZB1j0013.org][ZB1j0013]] 別雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0013
 :SOURCE:   四庫全書 文淵閣版
@@ -6898,7 +6898,7 @@
 **** responsible: 吳玉搢
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0014/ZB1j0014.org][ZB1j0014]] 急就篇
+*** [[mandoku:ZB1j0014.org][ZB1j0014]] 急就篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0014
 :SOURCE:   四庫全書 文淵閣版
@@ -6909,7 +6909,7 @@
 **** responsible: 史游
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0015/ZB1j0015.org][ZB1j0015]] 說文解字
+*** [[mandoku:ZB1j0015.org][ZB1j0015]] 說文解字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0015
 :SOURCE:   四庫全書 文淵閣版
@@ -6920,7 +6920,7 @@
 **** responsible: 許愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0016/ZB1j0016.org][ZB1j0016]] 說文繫傳
+*** [[mandoku:ZB1j0016.org][ZB1j0016]] 說文繫傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0016
 :SOURCE:   四庫全書 文淵閣版
@@ -6931,7 +6931,7 @@
 **** responsible: 徐鍇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0017/ZB1j0017.org][ZB1j0017]] 說文繫傳考異
+*** [[mandoku:ZB1j0017.org][ZB1j0017]] 說文繫傳考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0017
 :SOURCE:   四庫全書 文淵閣版
@@ -6942,7 +6942,7 @@
 **** responsible: 汪憲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0018/ZB1j0018.org][ZB1j0018]] 說文解字篆韻譜
+*** [[mandoku:ZB1j0018.org][ZB1j0018]] 說文解字篆韻譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0018
 :SOURCE:   四庫全書 文淵閣版
@@ -6953,7 +6953,7 @@
 **** responsible: 徐鍇
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0019/ZB1j0019.org][ZB1j0019]] 玉篇
+*** [[mandoku:ZB1j0019.org][ZB1j0019]] 玉篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0019
 :SOURCE:   四庫全書 文淵閣版
@@ -6964,7 +6964,7 @@
 **** responsible: 顧野王
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0020/ZB1j0020.org][ZB1j0020]] 千祿字書
+*** [[mandoku:ZB1j0020.org][ZB1j0020]] 千祿字書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0020
 :SOURCE:   四庫全書 文淵閣版
@@ -6975,7 +6975,7 @@
 **** responsible: 顏元孫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0021/ZB1j0021.org][ZB1j0021]] 五經文字
+*** [[mandoku:ZB1j0021.org][ZB1j0021]] 五經文字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0021
 :SOURCE:   四庫全書 文淵閣版
@@ -6986,7 +6986,7 @@
 **** responsible: 張參
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0022/ZB1j0022.org][ZB1j0022]] 九經字樣
+*** [[mandoku:ZB1j0022.org][ZB1j0022]] 九經字樣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0022
 :SOURCE:   四庫全書 文淵閣版
@@ -6997,7 +6997,7 @@
 **** responsible: 唐玄度
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0023/ZB1j0023.org][ZB1j0023]] 汗簡
+*** [[mandoku:ZB1j0023.org][ZB1j0023]] 汗簡
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0023
 :SOURCE:   四庫全書 文淵閣版
@@ -7008,7 +7008,7 @@
 **** responsible: 郭忠恕
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0024/ZB1j0024.org][ZB1j0024]] 佩觽
+*** [[mandoku:ZB1j0024.org][ZB1j0024]] 佩觽
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0024
 :SOURCE:   四庫全書 文淵閣版
@@ -7019,7 +7019,7 @@
 **** responsible: 郭忠恕
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0025/ZB1j0025.org][ZB1j0025]] 古文四聲韻
+*** [[mandoku:ZB1j0025.org][ZB1j0025]] 古文四聲韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0025
 :SOURCE:   四庫全書 文淵閣版
@@ -7030,7 +7030,7 @@
 **** responsible: 夏竦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0026/ZB1j0026.org][ZB1j0026]] 類篇
+*** [[mandoku:ZB1j0026.org][ZB1j0026]] 類篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0026
 :SOURCE:   四庫全書 文淵閣版
@@ -7041,7 +7041,7 @@
 **** responsible: 司馬光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0027/ZB1j0027.org][ZB1j0027]] 歷代鐘鼎彝器款識法帖
+*** [[mandoku:ZB1j0027.org][ZB1j0027]] 歷代鐘鼎彝器款識法帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0027
 :SOURCE:   四庫全書 文淵閣版
@@ -7052,7 +7052,7 @@
 **** responsible: 薛尚功
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0028/ZB1j0028.org][ZB1j0028]] 復古編
+*** [[mandoku:ZB1j0028.org][ZB1j0028]] 復古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0028
 :SOURCE:   四庫全書 文淵閣版
@@ -7063,7 +7063,7 @@
 **** responsible: 張有
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0029/ZB1j0029.org][ZB1j0029]] 班馬字類
+*** [[mandoku:ZB1j0029.org][ZB1j0029]] 班馬字類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0029
 :SOURCE:   四庫全書 文淵閣版
@@ -7074,7 +7074,7 @@
 **** responsible: 婁機
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0030/ZB1j0030.org][ZB1j0030]] 漢隸字源
+*** [[mandoku:ZB1j0030.org][ZB1j0030]] 漢隸字源
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0030
 :SOURCE:   四庫全書 文淵閣版
@@ -7085,7 +7085,7 @@
 **** responsible: 婁機
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0031/ZB1j0031.org][ZB1j0031]] 六書故
+*** [[mandoku:ZB1j0031.org][ZB1j0031]] 六書故
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0031
 :SOURCE:   四庫全書 文淵閣版
@@ -7096,7 +7096,7 @@
 **** responsible: 戴侗
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0032/ZB1j0032.org][ZB1j0032]] 字通
+*** [[mandoku:ZB1j0032.org][ZB1j0032]] 字通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0032
 :SOURCE:   四庫全書 文淵閣版
@@ -7107,7 +7107,7 @@
 **** responsible: 李從周
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0033/ZB1j0033.org][ZB1j0033]] 龍龕手鑑
+*** [[mandoku:ZB1j0033.org][ZB1j0033]] 龍龕手鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0033
 :SOURCE:   四庫全書 文淵閣版
@@ -7118,7 +7118,7 @@
 **** responsible: 釋行均
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0034/ZB1j0034.org][ZB1j0034]] 六書統
+*** [[mandoku:ZB1j0034.org][ZB1j0034]] 六書統
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0034
 :SOURCE:   四庫全書 文淵閣版
@@ -7129,7 +7129,7 @@
 **** responsible: 楊桓
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0035/ZB1j0035.org][ZB1j0035]] 周秦刻石釋音
+*** [[mandoku:ZB1j0035.org][ZB1j0035]] 周秦刻石釋音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0035
 :SOURCE:   四庫全書 文淵閣版
@@ -7140,7 +7140,7 @@
 **** responsible: 吾丘衍
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0036/ZB1j0036.org][ZB1j0036]] 字鑑
+*** [[mandoku:ZB1j0036.org][ZB1j0036]] 字鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0036
 :SOURCE:   四庫全書 文淵閣版
@@ -7151,7 +7151,7 @@
 **** responsible: 李文仲
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0037/ZB1j0037.org][ZB1j0037]] 說文字原
+*** [[mandoku:ZB1j0037.org][ZB1j0037]] 說文字原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0037
 :SOURCE:   四庫全書 文淵閣版
@@ -7162,7 +7162,7 @@
 **** responsible: 周伯琦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0038/ZB1j0038.org][ZB1j0038]] 漢隸分韻
+*** [[mandoku:ZB1j0038.org][ZB1j0038]] 漢隸分韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0038
 :SOURCE:   四庫全書 文淵閣版
@@ -7173,7 +7173,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0039/ZB1j0039.org][ZB1j0039]] 六書本義
+*** [[mandoku:ZB1j0039.org][ZB1j0039]] 六書本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0039
 :SOURCE:   四庫全書 文淵閣版
@@ -7184,7 +7184,7 @@
 **** responsible: 趙撝謙
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0040/ZB1j0040.org][ZB1j0040]] 奇字韻
+*** [[mandoku:ZB1j0040.org][ZB1j0040]] 奇字韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0040
 :SOURCE:   四庫全書 文淵閣版
@@ -7195,7 +7195,7 @@
 **** responsible: 楊愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0041/ZB1j0041.org][ZB1j0041]] 古音駢字
+*** [[mandoku:ZB1j0041.org][ZB1j0041]] 古音駢字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0041
 :SOURCE:   四庫全書 文淵閣版
@@ -7206,7 +7206,7 @@
 **** responsible: 楊愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0042/ZB1j0042.org][ZB1j0042]] 俗書刋誤
+*** [[mandoku:ZB1j0042.org][ZB1j0042]] 俗書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0042
 :SOURCE:   四庫全書 文淵閣版
@@ -7217,7 +7217,7 @@
 **** responsible: 焦竑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0043/ZB1j0043.org][ZB1j0043]] 字&
+*** [[mandoku:ZB1j0043.org][ZB1j0043]] 字&
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0043
 :SOURCE:   四庫全書 文淵閣版
@@ -7228,7 +7228,7 @@
 **** responsible: 葉秉敬
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0044/ZB1j0044.org][ZB1j0044]] 御定康熙字典
+*** [[mandoku:ZB1j0044.org][ZB1j0044]] 御定康熙字典
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0044
 :SOURCE:   四庫全書 文淵閣版
@@ -7239,7 +7239,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0045/ZB1j0045.org][ZB1j0045]] 御製增訂清文鑑
+*** [[mandoku:ZB1j0045.org][ZB1j0045]] 御製增訂清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0045
 :SOURCE:   四庫全書 文淵閣版
@@ -7250,7 +7250,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0046/ZB1j0046.org][ZB1j0046]] 御製滿珠蒙古漢字三合切音清文鑑
+*** [[mandoku:ZB1j0046.org][ZB1j0046]] 御製滿珠蒙古漢字三合切音清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0046
 :SOURCE:   四庫全書 文淵閣版
@@ -7261,7 +7261,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0047/ZB1j0047.org][ZB1j0047]] 欽定西域同文志
+*** [[mandoku:ZB1j0047.org][ZB1j0047]] 欽定西域同文志
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0047
 :SOURCE:   四庫全書 文淵閣版
@@ -7272,7 +7272,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0048/ZB1j0048.org][ZB1j0048]] 隸辨
+*** [[mandoku:ZB1j0048.org][ZB1j0048]] 隸辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0048
 :SOURCE:   四庫全書 文淵閣版
@@ -7283,7 +7283,7 @@
 **** responsible: 顧藹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0049/ZB1j0049.org][ZB1j0049]] 篆隸攷異
+*** [[mandoku:ZB1j0049.org][ZB1j0049]] 篆隸攷異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0049
 :SOURCE:   四庫全書 文淵閣版
@@ -7294,7 +7294,7 @@
 **** responsible: 周靖
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0050/ZB1j0050.org][ZB1j0050]] 原本廣韻
+*** [[mandoku:ZB1j0050.org][ZB1j0050]] 原本廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0050
 :SOURCE:   四庫全書 文淵閣版
@@ -7305,7 +7305,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0051/ZB1j0051.org][ZB1j0051]] 廣韻
+*** [[mandoku:ZB1j0051.org][ZB1j0051]] 廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0051
 :SOURCE:   四庫全書 文淵閣版
@@ -7316,7 +7316,7 @@
 **** responsible: 陳彭年
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0052/ZB1j0052.org][ZB1j0052]] 集韻
+*** [[mandoku:ZB1j0052.org][ZB1j0052]] 集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0052
 :SOURCE:   四庫全書 文淵閣版
@@ -7327,7 +7327,7 @@
 **** responsible: 丁度
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0053/ZB1j0053.org][ZB1j0053]] 切韻指掌圖
+*** [[mandoku:ZB1j0053.org][ZB1j0053]] 切韻指掌圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0053
 :SOURCE:   四庫全書 文淵閣版
@@ -7338,7 +7338,7 @@
 **** responsible: 司馬光
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0054/ZB1j0054.org][ZB1j0054]] 韻補
+*** [[mandoku:ZB1j0054.org][ZB1j0054]] 韻補
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0054
 :SOURCE:   四庫全書 文淵閣版
@@ -7349,7 +7349,7 @@
 **** responsible: 吳棫
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0055/ZB1j0055.org][ZB1j0055]] 附釋文互註禮部韻略
+*** [[mandoku:ZB1j0055.org][ZB1j0055]] 附釋文互註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0055
 :SOURCE:   四庫全書 文淵閣版
@@ -7360,7 +7360,7 @@
 **** responsible: 丁度
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0056/ZB1j0056.org][ZB1j0056]] 增修亙註禮部韻略
+*** [[mandoku:ZB1j0056.org][ZB1j0056]] 增修亙註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0056
 :SOURCE:   四庫全書 文淵閣版
@@ -7371,7 +7371,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0057/ZB1j0057.org][ZB1j0057]] 增修校正押韻釋疑
+*** [[mandoku:ZB1j0057.org][ZB1j0057]] 增修校正押韻釋疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0057
 :SOURCE:   四庫全書 文淵閣版
@@ -7382,7 +7382,7 @@
 **** responsible: 歐陽德隆
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0058/ZB1j0058.org][ZB1j0058]] 九經補韻
+*** [[mandoku:ZB1j0058.org][ZB1j0058]] 九經補韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0058
 :SOURCE:   四庫全書 文淵閣版
@@ -7393,7 +7393,7 @@
 **** responsible: 楊伯喦
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0059/ZB1j0059.org][ZB1j0059]] 五音集韻
+*** [[mandoku:ZB1j0059.org][ZB1j0059]] 五音集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0059
 :SOURCE:   四庫全書 文淵閣版
@@ -7404,7 +7404,7 @@
 **** responsible: 韓道昭
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0060/ZB1j0060.org][ZB1j0060]] 古今韻會擧要
+*** [[mandoku:ZB1j0060.org][ZB1j0060]] 古今韻會擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0060
 :SOURCE:   四庫全書 文淵閣版
@@ -7415,7 +7415,7 @@
 **** responsible: 黃公紹
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0061/ZB1j0061.org][ZB1j0061]] 四聲全形等子
+*** [[mandoku:ZB1j0061.org][ZB1j0061]] 四聲全形等子
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0061
 :SOURCE:   四庫全書 文淵閣版
@@ -7426,7 +7426,7 @@
 **** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0062/ZB1j0062.org][ZB1j0062]] 經史正音切韻指南
+*** [[mandoku:ZB1j0062.org][ZB1j0062]] 經史正音切韻指南
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0062
 :SOURCE:   四庫全書 文淵閣版
@@ -7437,7 +7437,7 @@
 **** responsible: 劉鑑
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0063/ZB1j0063.org][ZB1j0063]] 洪武正韻
+*** [[mandoku:ZB1j0063.org][ZB1j0063]] 洪武正韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0063
 :SOURCE:   四庫全書 文淵閣版
@@ -7448,7 +7448,7 @@
 **** responsible: 宋濂
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0064/ZB1j0064.org][ZB1j0064]] 古音叢目
+*** [[mandoku:ZB1j0064.org][ZB1j0064]] 古音叢目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0064
 :SOURCE:   四庫全書 文淵閣版
@@ -7459,7 +7459,7 @@
 **** responsible: 楊愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0065/ZB1j0065.org][ZB1j0065]] 古音畧例
+*** [[mandoku:ZB1j0065.org][ZB1j0065]] 古音畧例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0065
 :SOURCE:   四庫全書 文淵閣版
@@ -7470,7 +7470,7 @@
 **** responsible: 楊愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0066/ZB1j0066.org][ZB1j0066]] 轉注古音略
+*** [[mandoku:ZB1j0066.org][ZB1j0066]] 轉注古音略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0066
 :SOURCE:   四庫全書 文淵閣版
@@ -7481,7 +7481,7 @@
 **** responsible: 楊愼
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0067/ZB1j0067.org][ZB1j0067]] 毛詩古音攷
+*** [[mandoku:ZB1j0067.org][ZB1j0067]] 毛詩古音攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0067
 :SOURCE:   四庫全書 文淵閣版
@@ -7492,7 +7492,7 @@
 **** responsible: 陳第
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0068/ZB1j0068.org][ZB1j0068]] 屈宋古音義
+*** [[mandoku:ZB1j0068.org][ZB1j0068]] 屈宋古音義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0068
 :SOURCE:   四庫全書 文淵閣版
@@ -7503,7 +7503,7 @@
 **** responsible: 陳第
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0069/ZB1j0069.org][ZB1j0069]] 御定音韻闡微
+*** [[mandoku:ZB1j0069.org][ZB1j0069]] 御定音韻闡微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0069
 :SOURCE:   四庫全書 文淵閣版
@@ -7513,7 +7513,7 @@
 **** dynasty: 清康熙五十五年
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0070/ZB1j0070.org][ZB1j0070]] 欽定同文韻統
+*** [[mandoku:ZB1j0070.org][ZB1j0070]] 欽定同文韻統
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0070
 :SOURCE:   四庫全書 文淵閣版
@@ -7524,7 +7524,7 @@
 **** responsible: 允祿
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0071/ZB1j0071.org][ZB1j0071]] 欽定叶韻彙輯
+*** [[mandoku:ZB1j0071.org][ZB1j0071]] 欽定叶韻彙輯
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0071
 :SOURCE:   四庫全書 文淵閣版
@@ -7535,7 +7535,7 @@
 **** responsible: 弘晝
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0072/ZB1j0072.org][ZB1j0072]] 欽定音韻述微
+*** [[mandoku:ZB1j0072.org][ZB1j0072]] 欽定音韻述微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0072
 :SOURCE:   四庫全書 文淵閣版
@@ -7546,7 +7546,7 @@
 **** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0073/ZB1j0073.org][ZB1j0073]] 音論
+*** [[mandoku:ZB1j0073.org][ZB1j0073]] 音論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0073
 :SOURCE:   四庫全書 文淵閣版
@@ -7557,7 +7557,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0074/ZB1j0074.org][ZB1j0074]] 詩本音
+*** [[mandoku:ZB1j0074.org][ZB1j0074]] 詩本音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0074
 :SOURCE:   四庫全書 文淵閣版
@@ -7568,7 +7568,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0075/ZB1j0075.org][ZB1j0075]] 易音
+*** [[mandoku:ZB1j0075.org][ZB1j0075]] 易音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0075
 :SOURCE:   四庫全書 文淵閣版
@@ -7579,7 +7579,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0076/ZB1j0076.org][ZB1j0076]] 唐韻正
+*** [[mandoku:ZB1j0076.org][ZB1j0076]] 唐韻正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0076
 :SOURCE:   四庫全書 文淵閣版
@@ -7590,7 +7590,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0077/ZB1j0077.org][ZB1j0077]] 古音表
+*** [[mandoku:ZB1j0077.org][ZB1j0077]] 古音表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0077
 :SOURCE:   四庫全書 文淵閣版
@@ -7601,7 +7601,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0078/ZB1j0078.org][ZB1j0078]] 韻補正
+*** [[mandoku:ZB1j0078.org][ZB1j0078]] 韻補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0078
 :SOURCE:   四庫全書 文淵閣版
@@ -7612,7 +7612,7 @@
 **** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0079/ZB1j0079.org][ZB1j0079]] 古今通韻
+*** [[mandoku:ZB1j0079.org][ZB1j0079]] 古今通韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0079
 :SOURCE:   四庫全書 文淵閣版
@@ -7623,7 +7623,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0080/ZB1j0080.org][ZB1j0080]] 易韻
+*** [[mandoku:ZB1j0080.org][ZB1j0080]] 易韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0080
 :SOURCE:   四庫全書 文淵閣版
@@ -7634,7 +7634,7 @@
 **** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0081/ZB1j0081.org][ZB1j0081]] 孫氏唐韻考
+*** [[mandoku:ZB1j0081.org][ZB1j0081]] 孫氏唐韻考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0081
 :SOURCE:   四庫全書 文淵閣版
@@ -7645,7 +7645,7 @@
 **** responsible: 紀容舒
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0082/ZB1j0082.org][ZB1j0082]] 古韻標準
+*** [[mandoku:ZB1j0082.org][ZB1j0082]] 古韻標準
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0082
 :SOURCE:   四庫全書 文淵閣版
@@ -7656,7 +7656,7 @@
 **** responsible: 江永
 **** textual witnesses
 ***** WYG
-*** [[krp:ZB1j/ZB1j0083/ZB1j0083.org][ZB1j0083]] 六藝綱目
+*** [[mandoku:ZB1j0083.org][ZB1j0083]] 六藝綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0083
 :SOURCE:   四庫全書 文淵閣版
