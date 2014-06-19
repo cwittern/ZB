@@ -1,34 +1,8 @@
 #-*- mode: mandoku-index; -*-
 #+TITLE: ZB5 Contents
-#+LINK: dzimg file:~/db/images/hfl/%s
 
 * ZB5
-** General remarks
-*** Conversion to ZB format
- *** pb format
-#+PROPERTY: JUAN 4
-<pb:SJB_DZ0001_010022c>¶
--> <pb:ZB5a0001_SJB_001-010022c>
--> SJB branch 
-
- special treatment:
- 263 ok 
- 346 ZB5b0030_000.txt ok
- TODO:
- 466 ZB5b0153 (zhdz missing)
- 487 a, b, c ZB5b0174 5 6
- 492 a, b, c ZB5b0181 2 3
- 495 ZB5b0186 7 8 
- 496 ZB5b0189 90 91
- 497 ZB5b0192 93 94
- 502 ZB5b0199 ZB5b0200 ZB5b0201
- 505 ZB5b0204 ZB5b0205 ZB5b0206 .. ZB5b0211
-1431 ZB5g0240 ZB5g0241
-1480 ZB5h0049 ZB5h0050
-
 ** ZB5a 洞真部
- 分類	洞　真　部　經　名 (作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0101	本文類 Benwen Fundamental Scriptures
 *** [[mandoku:ZB5a0001.org][ZB5a0001]] 靈寶無量度人上品妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0001
@@ -4634,8 +4608,6 @@
 ***** SJB
 ***** ZHDZ
 ** ZB5b 洞玄部
- 分類	洞　玄　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0201	本文類
 *** [[mandoku:ZB5b0001.org][ZB5b0001]] 靈寶天尊說洪恩靈濟真君妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0001
@@ -9189,8 +9161,6 @@
 ***** ZHDZ
 
 ** ZB5c 洞神部
- 分類	洞　神　部　經名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0301	本文類			　	　
 *** [[mandoku:ZB5c0001.org][ZB5c0001]] 太上老君說常清靜妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0001
@@ -14413,9 +14383,6 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 ***** ZHDZ
 
 ** ZB5d 太玄部
-## attention: CH04 filenames have only one category, but more than 100 files, thus the format is different
- 分類	太　玄　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0400
 *** [[mandoku:ZB5d0001.org][ZB5d0001]] 玄精碧匣靈寶聚玄經
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0001
@@ -16038,9 +16005,6 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 ***** ZHDZ
 
 ** ZB5e 太平部
-#  here, we have only one cat and less than 100 files, so two digits extra
- 分類	太　平　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0500
 *** [[mandoku:ZB5e0001.org][ZB5e0001]] 太平經鈔
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0001
@@ -16987,8 +16951,6 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 ***** ZHDZ
 
 ** ZB5f 太清部
- 分類	太　清　部　經　名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0600
 *** [[mandoku:ZB5f0001.org][ZB5f0001]] 太上感應篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0001
@@ -17333,8 +17295,6 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 ***** ZHDZ
 
 ** ZB5g 正一部
- 分類	正　一　部　經名(作者)	上海版	新文豐	中華道藏	涵芬樓
- ** CMTS0700
 *** [[mandoku:ZB5g0001.org][ZB5g0001]] 大惠靜慈妙樂天尊說福德五聖經
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0001
@@ -20732,8 +20692,6 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
  CH07243 xx xx x 全真清規 ZHDZ00p0000 XWDZ00p0000
 
 ** ZB5h 續道藏
- 分類	續 道 藏 經 名(作者)	上海版	新文豐	　	　
- ** CMTS0800
 *** [[mandoku:ZB5h0001.org][ZB5h0001]] 太上中道妙法蓮花經
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0001
