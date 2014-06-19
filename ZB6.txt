@@ -88906,6 +88906,9 @@
 :RESP: 玄奘譯
 :END:
 **** extent: 200卷
+:PROPERTIES:
+:PAGES: 1-1004
+:END:
 **** dynasty: 五百大阿羅漢等造        
 **** responsible: 玄奘譯
 **** textual witnesses
@@ -91387,6 +91390,7 @@
 :WITID: wit99
 :END:
 
+** ZB6l 毘曇部類
 ** ZB6n 瑜伽部類
 *** [[mandoku:ZB6n0001.org][ZB6n0001]]  [[cbeta:T/T30n1579/T30n1579.org][T30n1579]] 瑜伽師地論
 :PROPERTIES: 
@@ -104833,6 +104837,7 @@
 :DYNASTY: 宋
 :RESP: 行秀評唱
 :END:
+226-292
 **** extent: 6卷
 **** dynasty: 宋        
 **** responsible: 行秀評唱
