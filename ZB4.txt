@@ -1,4 +1,4 @@
-#-*- mode: mandoku-index; -*-
+#-*- mode: org; -*-
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：4 集部
 * 4 集部
@@ -12,6 +12,9 @@
 :END:
 **** dynasty: 漢
 **** responsible: 王逸
+     :PROPERTIES:
+     :DYNASTY: 漢 
+     :END:
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4a0002.org][ZB4a0002]] 楚詞補注

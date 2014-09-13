@@ -1,39 +1,62 @@
-#-*- mode: mandoku-index; -*-
+#-*- mode: org; -*-
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：2 史部
 * 3 子部
 ** ZB3a 儒家類
-*** [[mandoku:ZB3a0001.org][ZB3a0001]] 家語
+*** [[mandoku:ZB3a0001.org][ZB3a0001]] 孔子家語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王肅
+:SOURCE:   四庫全書 文淵閣版, V695.1, p1
+:EXTENT: 10 卷
+:BOOK: 2
 :END:
-**** dynasty: 魏
-**** responsible: 王肅
+**** responsible:
+***** 王肅
+      :PROPERTIES:
+      :FUNCTION: 註
+      :DYNASTY:  魏
+      :DATES: 195 - 256
+      :END:
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0002.org][ZB3a0002]] 荀子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 楊倞
+:SOURCE:   四庫全書 文淵閣版， V695.2, p115
+:EXTENT:   20 卷
+:BOOK: 7
 :END:
-**** dynasty: 唐
-**** responsible: 楊倞
+**** responsible:
+***** 荀況
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :DYNASTY:  周
+      :DATES:    -313 - -238
+      :END:
+
+***** 楊倞
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0003.org][ZB3a0003]] 孔叢子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 孔鮒
+:SOURCE:   四庫全書 文淵閣版, V695.3, p307
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 孔鮒
+**** responsible:
+***** 孔鮒
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -221 - -207
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0004.org][ZB3a0004]] 新語
