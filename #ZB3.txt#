@@ -290,73 +290,115 @@
 *** [[mandoku:ZB3a0016.org][ZB3a0016]] 續孟子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 林愼思
+:SOURCE:   四庫全書 文淵閣版, V696.16, p619
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 林愼思
+**** responsible: 
+***** 林愼思
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0017.org][ZB3a0017]] 伸蒙子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 林愼思
+:SOURCE:   四庫全書 文淵閣版, V696.17, p629
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 林愼思
+**** responsible: 
+***** 林愼思
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0018.org][ZB3a0018]] 素履子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張弧
+:SOURCE:   四庫全書 文淵閣版, V696.18, p645
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 張弧
+**** responsible: 
+***** 張弧
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0019.org][ZB3a0019]] 家範
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V696.19, p657
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible: 
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0020.org][ZB3a0020]] 帝學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范祖禹
+:SOURCE:   四庫全書 文淵閣版, V696.20, p725
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 范祖禹
+**** responsible: 
+***** 范祖禹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1041 - 1098
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0021.org][ZB3a0021]] 儒志編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王開祖
+:SOURCE:   四庫全書 文淵閣版, V696.21, p781
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王開祖
+**** responsible: 
+***** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V697.22, p781
+:EXTENT: 1 + 1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 曹端
 :END:
