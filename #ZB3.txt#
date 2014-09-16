@@ -1165,51 +1165,84 @@
       :DATES:    1256
       :END:
 
-:DYNASTY: 宋
-:RESP: 黃震
-:END:
-**** dynasty: 宋
-**** responsible: 黃震
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0061.org][ZB3a0061]] 北溪字義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳淳
+:SOURCE:   四庫全書 文淵閣版, V709.1, p1
+:EXTENT: 2 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 陳淳
+**** responsible: 
+***** 陳淳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1153 - 1217
+      :END:
+
+***** 王雋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 錄
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0061a.org][ZB3a0061a]] 北溪字義__嚴陵講義
 *** [[mandoku:ZB3a0062.org][ZB3a0062]] 準齋雜說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳如愚
+:SOURCE:   四庫全書 文淵閣版, V709.2, p63
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳如愚
+**** responsible: 
+***** 吳如愚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1167 - 1244
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0063.org][ZB3a0063]] 性理羣書句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 熊節
+:SOURCE:   四庫全書 文淵閣版, V709.3, p91
+:EXTENT: 23 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 熊節
+**** responsible: 
+***** 熊節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 熊剛大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0064.org][ZB3a0064]] 東宮備覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0064
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V709.4, p291
+:EXTENT: 6 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 陳模
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 陳模
 :END:
