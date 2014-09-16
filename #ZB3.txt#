@@ -961,45 +961,68 @@
 *** [[mandoku:ZB3a0049.org][ZB3a0049]] 曾子全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王晫
+:SOURCE:   四庫全書 文淵閣版, V703.6, p457
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王晫
+**** responsible: 
+***** 王晫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1162 - 1237
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0050.org][ZB3a0050]] 子思子全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪晫
+:SOURCE:   四庫全書 文淵閣版, V703.7, p487
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 汪晫
+**** responsible: 
+***** 王晫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1162 - 1237
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0051.org][ZB3a0051]] 邇言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉炎
+:SOURCE:   四庫全書 文淵閣版, V703.8, p509
+:EXTENT: 12 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 劉炎
+**** responsible: 
+***** 劉炎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0052.org][ZB3a0052]] 木鍾集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳植
+:SOURCE:   四庫全書 文淵閣版, V703.9, p553
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 陳植
+**** responsible: 
+***** 陳植
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1214
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0053.org][ZB3a0053]] 經濟文衡前集
