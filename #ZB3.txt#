@@ -249,35 +249,42 @@
 ***** WYG
 *** [[mandoku:ZB3a0014.org][ZB3a0014]] 中說
 :PROPERTIES:
-:CUSTOM_ID:  ZB3a0014, V696.14, p521
+:CUSTOM_ID:  ZB3a0014
+:SOURCE:   四庫全書 文淵閣版, V696.14, p521
 :EXTENT: 10 卷
 :BOOK:   2
 :END:
 **** responsible: 
-***** 傅玄
+***** 王通
       :PROPERTIES:
-      :DYNASTY:  晉
+      :DYNASTY:  隋
       :FUNCTION: 撰
-      :DATES:    217 - 278
+      :DATES:    584 - 618
       :END:
 
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 隋
-:RESP: 王通
-:END:
-**** dynasty: 隋
-**** responsible: 王通
+***** 阮逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0015.org][ZB3a0015]] 帝範
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐太宗
-:RESP: 李世民
+:SOURCE:   四庫全書 文淵閣版, V696.15, p587
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐太宗
-**** responsible: 李世民
+**** responsible: 
+***** 太宗(李世民)
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    597 - 649
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0016.org][ZB3a0016]] 續孟子
