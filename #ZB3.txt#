@@ -692,13 +692,13 @@
 ***** 曾恬
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 録
+      :FUNCTION: 錄
       :END:
 
 ***** 胡安國
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 録
+      :FUNCTION: 錄
       :END:
 
 ***** 朱熹
@@ -915,33 +915,47 @@
 *** [[mandoku:ZB3a0047.org][ZB3a0047]] 少儀外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0047
-:SOURCE:   四庫全書 文淵閣版, V703.3, p159
-:EXTENT: 3 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V703.4, p219
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
 **** responsible: 
-***** 劉荀
+***** 呂祖謙
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1137 - 1181
       :END:
 
-:DYNASTY: 宋
-:RESP: 呂祖謙
-:END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0048.org][ZB3a0048]] 麗澤論說集錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂祖謙
+:SOURCE:   四庫全書 文淵閣版, V703.5, p265
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
+**** responsible: 
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1181
+      :END:
+
+***** 呂祖儉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 蒐錄
+      :END:
+
+***** 呂喬年
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0049.org][ZB3a0049]] 曾子全書
