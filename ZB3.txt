@@ -529,95 +529,172 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 編
+      :END:
 
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程顥
+:SOURCE:   四庫全書 文淵閣版, V698.2, p281
+:EXTENT: 12 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 程顥
+**** responsible: 
+***** 程顥 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0029.org][ZB3a0029]] 二程粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊時
+:SOURCE:   四庫全書 文淵閣版, V698.3, p355
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 楊時
+**** responsible: 
+***** 楊時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1053 - 1135
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0030.org][ZB3a0030]] 公是第子記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V698.4, p439
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible: 
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0031.org][ZB3a0031]] 節孝語錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 江端禮
+:SOURCE:   四庫全書 文淵閣版, V698.5, p473
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 江端禮
+**** responsible: 
+***** 徐積
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1028 - 1103
+      :END:
+
+***** 江端禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0032.org][ZB3a0032]] 儒言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁說之
+:SOURCE:   四庫全書 文淵閣版, V698.6, p497
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晁說之
+**** responsible: 
+***** 晁說之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0033.org][ZB3a0033]] 童蒙訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂本中
+:SOURCE:   四庫全書 文淵閣版, V698.7, p515
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 呂本中
+**** responsible: 
+***** 呂本中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1136
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0034.org][ZB3a0034]] 省心雜言
 :PROPERTIES:
-:CUSTOM_ID:  ZB3a0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李邦獻
+:CUSTOM_ID:  ZB3a0034, V698.8, p545
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李邦獻
+**** responsible: 
+***** 李邦獻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0035.org][ZB3a0035]] 上蔡語錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 謝良佐
+:SOURCE:   四庫全書 文淵閣版, V698.9, p565
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 謝良佐
+**** responsible: 
+***** 謝良佐
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1050 - 1103
+      :END:
+
+***** 曾恬
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 録
+      :END:
+
+***** 胡安國
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 録
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0036.org][ZB3a0036]] 袁氏世範
