@@ -1025,50 +1025,78 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0053.org][ZB3a0053]] 經濟文衡前集
+*** [[mandoku:ZB3a0053.org][ZB3a0053]] 經濟文衡
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 滕珙
+:SOURCE:   四庫全書 文淵閣版, V704.1, p1
+:EXTENT: 72 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 滕珙
+**** responsible: 
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 滕珙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0053a.org][ZB3a0053a]] 經濟文衡__後集
-*** [[mandoku:ZB3a0053b.org][ZB3a0053b]] 經濟文衡__續集
 *** [[mandoku:ZB3a0054.org][ZB3a0054]] 大學衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V704.2, p497
+:EXTENT: 43 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible: 
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0055.org][ZB3a0055]] 西山讀書記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V705 - 706.1, p1
+:EXTENT: 40 卷
+:BOOK:   40
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible: 
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0056.org][ZB3a0056]] 心經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V706.1, p425
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible: 
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0057.org][ZB3a0057]] 政經
