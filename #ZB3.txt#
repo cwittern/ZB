@@ -422,29 +422,52 @@
 *** [[mandoku:ZB3a0023.org][ZB3a0023]] 通書述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 曹端
+:SOURCE:   四庫全書 文淵閣版, V697.23, p21
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 曹端
+**** responsible: 
+***** 曹端
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1376 - 1434
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0024.org][ZB3a0024]] 張子全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張戴
+:SOURCE:   四庫全書 文淵閣版, V697.24, p75
+:EXTENT: 14 + 1 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 張戴
+**** responsible: 
+***** 張戴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V697.25, p333
+:EXTENT: 14 + 1 卷
+:BOOK:   10
+:END:
+**** responsible: 
+***** 張戴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 :DYNASTY: 清
 :RESP: 李光地
 :END:
