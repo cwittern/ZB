@@ -128,7 +128,7 @@
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    -77 - -76
+      :DATES:    -77 - -6
       :END:
 
 **** textual witnesses
@@ -145,7 +145,7 @@
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    -77 - -76
+      :DATES:    -77 - -6
       :END:
 
 **** textual witnesses
@@ -158,24 +158,36 @@
 :BOOK:   4
 :END:
 **** responsible: 
-***** 劉向
+***** 揚雄
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    -77 - -76
+      :DATES:    -53 - 18
       :END:
 
-:DYNASTY: 漢
-:RESP: 揚雄
-:END:
-**** dynasty: 漢
-**** responsible: 揚雄
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0010.org][ZB3a0010]] 潛夫論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V696.10, p355
+:EXTENT: 10 + 1 卷
+:BOOK:   3
+:END:
+**** responsible: 
+***** 王符
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    76 - 157
+      :END:
+
 :DYNASTY: 漢
 :RESP: 王符
 :END:
