@@ -188,49 +188,79 @@
       :DATES:    76 - 157
       :END:
 
-:DYNASTY: 漢
-:RESP: 王符
-:END:
-**** dynasty: 漢
-**** responsible: 王符
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0011.org][ZB3a0011]] 申鑒
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 荀悅
+:SOURCE:   四庫全書 文淵閣版, V696.11, p433
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 荀悅
+**** responsible: 
+***** 荀悅
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    148 - 209
+      :END:
+
+***** 黃省曾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0012.org][ZB3a0012]] 中論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 徐幹
+:SOURCE:   四庫全書 文淵閣版, V696.12, p465
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 徐幹
+**** responsible: 
+***** 徐幹
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    170 - 217
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0013.org][ZB3a0013]] 傅子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 傅玄
+:SOURCE:   四庫全書 文淵閣版, V696.13, p503
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 傅玄
+**** responsible: 
+***** 傅玄
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    217 - 278
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0014.org][ZB3a0014]] 中說
 :PROPERTIES:
-:CUSTOM_ID:  ZB3a0014
+:CUSTOM_ID:  ZB3a0014, V696.14, p521
+:EXTENT: 10 卷
+:BOOK:   2
+:END:
+**** responsible: 
+***** 傅玄
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    217 - 278
+      :END:
+
 :SOURCE:   四庫全書 文淵閣版
 :DYNASTY: 隋
 :RESP: 王通
