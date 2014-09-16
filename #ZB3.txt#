@@ -71,30 +71,50 @@
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
+      :DATES:    -228 - -141
       :END:
-
-:DYNASTY: 漢
-:RESP: 陸賈
-
-**** dynasty: 漢
 
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0005.org][ZB3a0005]] 新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 賈誼
+:SOURCE:   四庫全書 文淵閣版, V695.5, p387
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 賈誼
+**** responsible: 
+***** 賈誼
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -200 - -168
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0006.org][ZB3a0006]] 鹽鐵論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0006
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V695.6, p475
+:EXTENT: 12 卷
+:BOOK:   6
+:END:
+**** responsible: 
+***** 桓寬
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -73
+      :END:
+
+***** 桓寬
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -200 - -168
+      :END:
+
 :DYNASTY: 漢
 :RESP: 桓寬
 :END:
