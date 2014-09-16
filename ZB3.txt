@@ -1277,61 +1277,79 @@
       :FUNCTION: 編
       :END:
 
-***** 齊
+***** 齊𤇸
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 編
       :END:
 
-:DYNASTY: 宋
-:RESP: 張洪
-:END:
-**** dynasty: 宋
-**** responsible: 張洪
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0067.org][ZB3a0067]] 家山圖書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V709.7, p421
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0068.org][ZB3a0068]] 讀書分年日程
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 程端禮
+:SOURCE:   四庫全書 文淵閣版, V709.8, p457
+:EXTENT: 3 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 程端禮
+**** responsible: 
+***** 程端禮
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1271 - 1345
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0069.org][ZB3a0069]] 辨惑編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 謝應芳
+:SOURCE:   四庫全書 文淵閣版, V709.9, p535
+:EXTENT: 4 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 謝應芳
+**** responsible: 
+***** 謝應芳
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1296? - 1392?
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0070.org][ZB3a0070]] 治世龜鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 蘇天爵
+:SOURCE:   四庫全書 文淵閣版, V709.10, p595
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 蘇天爵
+**** responsible: 
+***** 蘇天爵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1294 - 1352
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0071.org][ZB3a0071]] 管窺外篇
