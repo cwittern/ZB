@@ -841,7 +841,7 @@
 ***** 陳選
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 撰
+      :FUNCTION: 集注
       :END:
 
 **** textual witnesses
@@ -849,7 +849,18 @@
 *** [[mandoku:ZB3a0043.org][ZB3a0043]] 朱子語類
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V700 - 702.1, p1
+:EXTENT: 140 卷
+:BOOK:   92
+:END:
+**** responsible: 
+***** 黎靖德
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱熹
 :END:
