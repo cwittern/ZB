@@ -1102,40 +1102,69 @@
 *** [[mandoku:ZB3a0057.org][ZB3a0057]] 政經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V706.2, p441
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible: 
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0058.org][ZB3a0058]] 項氏家說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 項安世
+:SOURCE:   四庫全書 文淵閣版, V706.3, p471
+:EXTENT: 10 + 2 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 項安世
+**** responsible: 
+***** 項安世
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1146 - 1208
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0059.org][ZB3a0059]] 先聖大訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊簡
+:SOURCE:   四庫全書 文淵閣版, V706.4, p585
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 楊簡
+**** responsible: 
+***** 楊簡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1226
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0060.org][ZB3a0060]] 黃氏日抄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0060
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V707 - 708.1, p1
+:EXTENT: 存94 卷
+:BOOK:   64
+:END:
+**** responsible: 
+***** 黃震
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1256
+      :END:
+
 :DYNASTY: 宋
 :RESP: 黃震
 :END:
