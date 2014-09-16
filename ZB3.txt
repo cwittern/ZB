@@ -1504,134 +1504,205 @@
 *** [[mandoku:ZB3a0080.org][ZB3a0080]] 因知記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 羅欽訓
+:SOURCE:   四庫全書 文淵閣版, V714.4, p275
+:EXTENT: 2 + 2 + 1 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 羅欽訓
+**** responsible: 
+***** 羅欽訓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1465 - 1547
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0081.org][ZB3a0081]] 讀書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐問
+:SOURCE:   四庫全書 文淵閣版, V714.5, p373
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 徐問
+**** responsible: 
+***** 徐問
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1602
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0082.org][ZB3a0082]] 士翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 崔銑
+:SOURCE:   四庫全書 文淵閣版, V714.6, p451
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 崔銑
+**** responsible: 
+***** 崔銑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1478 - 1541
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0083.org][ZB3a0083]] 涇野子內篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V714.7, p521
+:EXTENT: 27 卷
+:BOOK:   7
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible: 
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0084.org][ZB3a0084]] 周子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V715.1, p1
+:EXTENT: 2 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible: 
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0085.org][ZB3a0085]] 張子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V715.2, p31
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible: 
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0086.org][ZB3a0086]] 二程子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V715.3, p107
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible: 
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0087.org][ZB3a0087]] 朱子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V715.4, p251
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible: 
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0088.org][ZB3a0088]] 中庸衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 夏良勝
+:SOURCE:   四庫全書 文淵閣版, V715.5, p281
+:EXTENT: 17 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 夏良勝
+**** responsible: 
+***** 夏良勝
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0089.org][ZB3a0089]] 格物通
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 湛若水
+:SOURCE:   四庫全書 文淵閣版, V716.1, p1
+:EXTENT: 100 + 1 卷
+:BOOK:   34
 :END:
-**** dynasty: 明
-**** responsible: 湛若水
+**** responsible: 
+***** 湛若水
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1466 - 1560
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0090.org][ZB3a0090]] 世緯
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁衮
+:SOURCE:   四庫全書 文淵閣版, V717.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 袁衮
+**** responsible: 
+***** 袁衮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1502 - 1547
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0091.org][ZB3a0091]] 呻吟語摘
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂坤
+:SOURCE:   四庫全書 文淵閣版, V717.2, p27
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 呂坤
-**** textual witnesses
+**** responsible: 
+***** 呂坤
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1536 - 1618
+      :END:
+
+**** textual witnesses<!--- here 2014-09-16 --->
 ***** WYG
 *** [[mandoku:ZB3a0092.org][ZB3a0092]] 劉子遺書
 :PROPERTIES:
