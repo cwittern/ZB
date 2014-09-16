@@ -559,51 +559,92 @@
 *** [[mandoku:ZB3a0029.org][ZB3a0029]] 二程粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊時
+:SOURCE:   四庫全書 文淵閣版, V698.3, p355
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 楊時
+**** responsible: 
+***** 楊時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1053 - 1135
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0030.org][ZB3a0030]] 公是第子記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V698.4, p439
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible: 
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0031.org][ZB3a0031]] 節孝語錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 江端禮
+:SOURCE:   四庫全書 文淵閣版, V698.5, p473
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 江端禮
+**** responsible: 
+***** 徐積
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1028 - 1103
+      :END:
+
+***** 江端禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0032.org][ZB3a0032]] 儒言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁說之
+:SOURCE:   四庫全書 文淵閣版, V698.6, p497
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晁說之
+**** responsible: 
+***** 晁說之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0033.org][ZB3a0033]] 童蒙訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0033
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V698.7, p515
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 晁說之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1082
+      :END:
+
 :DYNASTY: 宋
 :RESP: 呂本中
 :END:
