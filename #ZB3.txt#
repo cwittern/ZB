@@ -1405,83 +1405,116 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0074
 :SOURCE:   四庫全書 文淵閣版, V710 - 711.1, p1
-:EXTENT: 8 卷
-:BOOK:   4
+:EXTENT: 70 卷
+:BOOK:   56
 :END:
 **** responsible: 
-***** 張九韶
+***** 胡廣
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 撰
+      :FUNCTION: 勅撰
       :END:
 
-:DYNASTY: 明
-:RESP: 胡廣
-:END:
-**** dynasty: 明
-**** responsible: 胡廣
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0075.org][ZB3a0075]] 讀書錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 薛瑄
+:SOURCE:   四庫全書 文淵閣版, V711.1, p541
+:EXTENT: 11 + 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 薛瑄
+**** responsible: 
+***** 薛瑄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1389 - 1464
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0075a.org][ZB3a0075a]] 讀書錄__續錄
 *** [[mandoku:ZB3a0076.org][ZB3a0076]] 大學衍義補
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 丘濬
+:SOURCE:   四庫全書 文淵閣版, V712 - 713.1, p1
+:EXTENT: 160 + 1 卷
+:BOOK:   64
 :END:
-**** dynasty: 明
-**** responsible: 丘濬
+**** responsible: 
+***** 丘濬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1419? - 1495
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0077.org][ZB3a0077]] 居業錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡居仁
+:SOURCE:   四庫全書 文淵閣版, V714.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 胡居仁
+**** responsible: 
+***** 胡居仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1434 - 1484
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0078.org][ZB3a0078]] 楓山語錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 章懋
+:SOURCE:   四庫全書 文淵閣版, V714.2, p111
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 章懋
+**** responsible: 
+***** 章懋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1436 - 1521
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0079.org][ZB3a0079]] 東溪日談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周琦
+:SOURCE:   四庫全書 文淵閣版, V714.3, p137
+:EXTENT: 18 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 周琦
+**** responsible: 
+***** 周琦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0080.org][ZB3a0080]] 因知記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0080
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V714.3, p137
+:EXTENT: 18 卷
+:BOOK:   6
+:END:
+**** responsible: 
+***** 周琦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 羅欽訓
 :END:
