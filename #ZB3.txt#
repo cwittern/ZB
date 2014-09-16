@@ -857,54 +857,75 @@
 ***** 黎靖德
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    1130 - 1200
+      :FUNCTION: 編
+      :DATES:    fl. 1263 - 1270
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱熹
-:END:
-**** dynasty: 宋
-**** responsible: 朱熹
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0044.org][ZB3a0044]] 戒子通錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉清之
+:SOURCE:   四庫全書 文淵閣版, V703.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 劉清之
+**** responsible: 
+***** 劉清之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1157
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0045.org][ZB3a0045]] 知言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡宏
+:SOURCE:   四庫全書 文淵閣版, V703.2, p109
+:EXTENT: 6 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡宏
+**** responsible: 
+***** 胡宏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0046.org][ZB3a0046]] 明本釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉荀
+:SOURCE:   四庫全書 文淵閣版, V703.3, p159
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 劉荀
+**** responsible: 
+***** 劉荀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0047.org][ZB3a0047]] 少儀外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0047
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V703.3, p159
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+**** responsible: 
+***** 劉荀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 呂祖謙
 :END:
