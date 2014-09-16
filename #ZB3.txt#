@@ -480,7 +480,7 @@
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
-:SOURCE:   四庫全書 文淵閣版, V697.25, p333
+:SOURCE:   四庫全書 文淵閣版, V697.5, p333
 :EXTENT: 2 卷
 :BOOK:   2
 :END:
@@ -497,7 +497,7 @@
 *** [[mandoku:ZB3a0026.org][ZB3a0026]] 正蒙初義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0026
-:SOURCE:   四庫全書 文淵閣版, V697.26, p411
+:SOURCE:   四庫全書 文淵閣版, V697.6, p411
 :EXTENT: 17 卷
 :BOOK:   10
 :END:
@@ -513,23 +513,47 @@
 *** [[mandoku:ZB3a0027.org][ZB3a0027]] 二程遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程顥
+:SOURCE:   四庫全書 文淵閣版, V698.1, p1
+:EXTENT: 25 + 1 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 程顥
+**** responsible: 
+***** 程顥 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程顥
+:SOURCE:   四庫全書 文淵閣版, V698.2, p281
+:EXTENT: 12 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 程顥
+**** responsible: 
+***** 程顥 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0029.org][ZB3a0029]] 二程粹言

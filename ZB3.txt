@@ -165,25 +165,25 @@
       :DATES:    -53 - 18
       :END:
 
-***** 
+***** 李軌
       :PROPERTIES:
-      :DYNASTY:  
+      :DYNASTY: 晉 
       :FUNCTION: 注
       :END:
 
-***** 司馬光
+***** 柳宗元
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
+***** 宋咸
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 注
       :END:
 
-***** 司馬光
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 注
-      :END:
-
-***** 司馬光
+***** 吳秘
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 注
@@ -200,7 +200,7 @@
 *** [[mandoku:ZB3a0010.org][ZB3a0010]] 潛夫論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0010
-:SOURCE:   四庫全書 文淵閣版, V696.10, p355
+:SOURCE:   四庫全書 文淵閣版, V696.4, p355
 :EXTENT: 10 + 1 卷
 :BOOK:   3
 :END:
@@ -217,7 +217,7 @@
 *** [[mandoku:ZB3a0011.org][ZB3a0011]] 申鑒
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0011
-:SOURCE:   四庫全書 文淵閣版, V696.11, p433
+:SOURCE:   四庫全書 文淵閣版, V696.5, p433
 :EXTENT: 2 卷
 :BOOK:   1
 :END:
@@ -240,7 +240,7 @@
 *** [[mandoku:ZB3a0012.org][ZB3a0012]] 中論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0012
-:SOURCE:   四庫全書 文淵閣版, V696.12, p465
+:SOURCE:   四庫全書 文淵閣版, V696.6, p465
 :EXTENT: 2 卷
 :BOOK:   1
 :END:
@@ -257,7 +257,7 @@
 *** [[mandoku:ZB3a0013.org][ZB3a0013]] 傅子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0013
-:SOURCE:   四庫全書 文淵閣版, V696.13, p503
+:SOURCE:   四庫全書 文淵閣版, V696.7, p503
 :EXTENT: 1 卷
 :BOOK:   1
 :END:
@@ -274,7 +274,7 @@
 *** [[mandoku:ZB3a0014.org][ZB3a0014]] 中說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0014
-:SOURCE:   四庫全書 文淵閣版, V696.14, p521
+:SOURCE:   四庫全書 文淵閣版, V696.8, p521
 :EXTENT: 10 卷
 :BOOK:   2
 :END:
@@ -286,7 +286,7 @@
       :DATES:    584 - 618
       :END:
 
-***** 阮逸
+***** 阮逸
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 注
@@ -297,12 +297,12 @@
 *** [[mandoku:ZB3a0015.org][ZB3a0015]] 帝範
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0015
-:SOURCE:   四庫全書 文淵閣版, V696.15, p587
+:SOURCE:   四庫全書 文淵閣版, V696.9, p587
 :EXTENT: 4 卷
 :BOOK:   2
 :END:
 **** responsible: 
-***** 太宗(李世民)
+***** 太宗
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
@@ -314,7 +314,7 @@
 *** [[mandoku:ZB3a0016.org][ZB3a0016]] 續孟子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0016
-:SOURCE:   四庫全書 文淵閣版, V696.16, p619
+:SOURCE:   四庫全書 文淵閣版, V696.10, p619
 :EXTENT: 2 卷
 :BOOK:   1
 :END:
@@ -330,7 +330,7 @@
 *** [[mandoku:ZB3a0017.org][ZB3a0017]] 伸蒙子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0017
-:SOURCE:   四庫全書 文淵閣版, V696.17, p629
+:SOURCE:   四庫全書 文淵閣版, V696.11, p629
 :EXTENT: 3 卷
 :BOOK:   1
 :END:
@@ -346,7 +346,7 @@
 *** [[mandoku:ZB3a0018.org][ZB3a0018]] 素履子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0018
-:SOURCE:   四庫全書 文淵閣版, V696.18, p645
+:SOURCE:   四庫全書 文淵閣版, V696.12, p645
 :EXTENT: 3 卷
 :BOOK:   1
 :END:
@@ -362,7 +362,7 @@
 *** [[mandoku:ZB3a0019.org][ZB3a0019]] 家範
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0019
-:SOURCE:   四庫全書 文淵閣版, V696.19, p657
+:SOURCE:   四庫全書 文淵閣版, V696.13, p657
 :EXTENT: 10 卷
 :BOOK:   2
 :END:
@@ -379,7 +379,7 @@
 *** [[mandoku:ZB3a0020.org][ZB3a0020]] 帝學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0020
-:SOURCE:   四庫全書 文淵閣版, V696.20, p725
+:SOURCE:   四庫全書 文淵閣版, V696.14, p725
 :EXTENT: 8 卷
 :BOOK:   2
 :END:
@@ -396,7 +396,7 @@
 *** [[mandoku:ZB3a0021.org][ZB3a0021]] 儒志編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0021
-:SOURCE:   四庫全書 文淵閣版, V696.21, p781
+:SOURCE:   四庫全書 文淵閣版, V696.15, p781
 :EXTENT: 1 + 1 卷
 :BOOK:   1
 :END:
@@ -412,7 +412,7 @@
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022
-:SOURCE:   四庫全書 文淵閣版, V697.22, p1
+:SOURCE:   四庫全書 文淵閣版, V697.1, p1
 :EXTENT: 1 卷
 :BOOK:   1
 :END:
@@ -429,7 +429,7 @@
 *** [[mandoku:ZB3a0022a.org][ZB3a0022a]] 西銘述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022a
-:SOURCE:   四庫全書 文淵閣版, V697.22a, p15
+:SOURCE:   四庫全書 文淵閣版, V697.2, p15
 :EXTENT: 1 卷
 :BOOK:   (1)
 :END:
@@ -446,7 +446,7 @@
 *** [[mandoku:ZB3a0023.org][ZB3a0023]] 通書述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0023
-:SOURCE:   四庫全書 文淵閣版, V697.23, p21
+:SOURCE:   四庫全書 文淵閣版, V697.3, p21
 :EXTENT: 2 卷
 :BOOK:   2
 :END:
@@ -463,7 +463,7 @@
 *** [[mandoku:ZB3a0024.org][ZB3a0024]] 張子全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0024
-:SOURCE:   四庫全書 文淵閣版, V697.24, p75
+:SOURCE:   四庫全書 文淵閣版, V697.4, p75
 :EXTENT: 14 + 1 卷
 :BOOK:   10
 :END:
@@ -480,7 +480,7 @@
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
-:SOURCE:   四庫全書 文淵閣版, V697.25, p333
+:SOURCE:   四庫全書 文淵閣版, V697.5, p333
 :EXTENT: 2 卷
 :BOOK:   2
 :END:
@@ -497,7 +497,7 @@
 *** [[mandoku:ZB3a0026.org][ZB3a0026]] 正蒙初義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0026
-:SOURCE:   四庫全書 文淵閣版, V697.26, p411
+:SOURCE:   四庫全書 文淵閣版, V697.6, p411
 :EXTENT: 17 卷
 :BOOK:   10
 :END:
@@ -513,12 +513,23 @@
 *** [[mandoku:ZB3a0027.org][ZB3a0027]] 二程遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程顥
+:SOURCE:   四庫全書 文淵閣版, V698.1, p1
+:EXTENT: 25 + 1 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 程顥
+**** responsible: 
+***** 程顥 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
