@@ -1193,45 +1193,74 @@
 *** [[mandoku:ZB3a0062.org][ZB3a0062]] 準齋雜說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳如愚
+:SOURCE:   四庫全書 文淵閣版, V709.2, p63
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳如愚
+**** responsible: 
+***** 吳如愚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1167 - 1244
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0063.org][ZB3a0063]] 性理羣書句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 熊節
+:SOURCE:   四庫全書 文淵閣版, V709.3, p91
+:EXTENT: 23 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 熊節
+**** responsible: 
+***** 熊節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 熊剛大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0064.org][ZB3a0064]] 東宮備覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳模
+:SOURCE:   四庫全書 文淵閣版, V709.4, p291
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳模
+**** responsible: 
+***** 陳模
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1196
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0065.org][ZB3a0065]] 孔子集語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 薛據
+:SOURCE:   四庫全書 文淵閣版, V709.5, p319
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 薛據
+**** responsible: 
+***** 薛據
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :DATES:    fl. 1241 - 1260
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0066.org][ZB3a0066]] 朱子讀書法
