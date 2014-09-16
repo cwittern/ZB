@@ -388,34 +388,35 @@
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022
-:SOURCE:   四庫全書 文淵閣版, V697.22, p781
-:EXTENT: 1 + 1 卷
+:SOURCE:   四庫全書 文淵閣版, V697.22, p1
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible: 
-***** 王開祖
+***** 曹端
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  明
       :FUNCTION: 撰
+      :DATES:    1376 - 1434
       :END:
 
-:DYNASTY: 明
-:RESP: 曹端
-:END:
-**** dynasty: 明
-**** responsible: 曹端
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0022a.org][ZB3a0022a]] 西銘述解
-*** [[mandoku:ZB3a0022a.org][ZB3a0022a]] 西銘述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 曹端
+:SOURCE:   四庫全書 文淵閣版, V697.22a, p15
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 曹端
+**** responsible: 
+***** 曹端
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1376 - 1434
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0023.org][ZB3a0023]] 通書述解
