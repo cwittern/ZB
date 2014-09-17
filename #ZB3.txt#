@@ -3007,33 +3007,50 @@
 :BOOK:   4
 :END:
 **** responsible: 
-***** 皇甫謐
+***** 張機
       :PROPERTIES:
-      :DYNASTY:  晉
+      :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    215 - 282
+      :DATES:    fl. 168 - 196
       :END:
 
-:DYNASTY: 漢
-:RESP: 張機
-:END:
-**** dynasty: 漢
-**** responsible: 張機
+***** 徐彬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0006.org][ZB3e0006]] 傷寒論注釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 成無己
+:SOURCE:   四庫全書 文淵閣版, V734.2, p201
+:EXTENT: 10 + 3 + 1 卷
+:BOOK:   4 + 2
 :END:
-**** dynasty: 金
-**** responsible: 成無己
+**** responsible: 
+***** 張機
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. 168 - 196
+      :END:
+
+***** 王叔和
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 編
+      :END:
+
+***** 成無己
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0006a.org][ZB3e0006a]] 傷寒論注釋__傷寒明理論
-*** [[mandoku:ZB3e0006b.org][ZB3e0006b]] 傷寒論注釋__傷寒論方
 *** [[mandoku:ZB3e0007.org][ZB3e0007]] 肘後備急方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0007
