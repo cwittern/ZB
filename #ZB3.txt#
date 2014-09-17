@@ -1707,63 +1707,86 @@
 *** [[mandoku:ZB3a0092.org][ZB3a0092]] 劉子遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0092
-:SOURCE:   四庫全書 文淵閣版, V717.2, p27
-:EXTENT: 2 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V717.3, p99
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
 **** responsible: 
-***** 呂坤
+***** 劉宗周
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1536 - 1618
+      :DATES:    1578 - 1645
       :END:
 
-:DYNASTY: 明
-:RESP: 劉宗周
-:END:
-**** dynasty: 明
-**** responsible: 劉宗周
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0093.org][ZB3a0093]] 人譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉宗周
+:SOURCE:   四庫全書 文淵閣版, V717.4, p175
+:EXTENT: 1 + 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 劉宗周
+**** responsible: 
+***** 劉宗周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1578 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0093a.org][ZB3a0093a]] 人譜__人譜類記
 *** [[mandoku:ZB3a0094.org][ZB3a0094]] 榕壇問業
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V717.5, p271
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible: 
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0095.org][ZB3a0095]] 溫氏母訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 溫璜
+:SOURCE:   四庫全書 文淵閣版, V717.6, p521
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 溫璜
+**** responsible: 
+***** 溫璜
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 述
+      :DATES:    1585 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0096.org][ZB3a0096]] 御定資政要覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0096
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V717.7, p531
+:EXTENT: 3 + 1 卷
+:BOOK:   2
+:END:
+**** responsible: 
+***** 溫璜
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 述
+      :DATES:    1585 - 1645
+      :END:
+
 :DYNASTY: 清
 :RESP: 世祖福臨
 :END:
