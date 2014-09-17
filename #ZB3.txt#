@@ -3717,33 +3717,33 @@
 *** [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0042
-:SOURCE:   四庫全書 文淵閣版, V744.1, p1
-:EXTENT: 26 + 7 卷
-:BOOK:   20 + 4
+:SOURCE:   四庫全書 文淵閣版, V744.2, p665
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
 **** responsible: 
-***** 楊士瀛
+***** 闕名
       :PROPERTIES:
-      :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 闕名
-:END:
-**** dynasty: 宋
-**** responsible: 闕名
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0043.org][ZB3e0043]] 素問玄機原病式
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 劉完素
+:SOURCE:   四庫全書 文淵閣版, V744.3, p703
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 金
-**** responsible: 劉完素
+**** responsible: 
+***** 劉完素
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :DATES:    fl. 1186
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0044.org][ZB3e0044]] 宣明方論
