@@ -1987,110 +1987,188 @@
 *** [[mandoku:ZB3a0105.org][ZB3a0105]] 御覽經史講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0105
-:SOURCE:   四庫全書 文淵閣版, V722.1, p1
-:EXTENT: 8 卷
-:BOOK:   4
+:SOURCE:   四庫全書 文淵閣版, V722 - 723.2, p125
+:EXTENT: 30 + 2 + 1 卷
+:BOOK:   32
 :END:
 **** responsible: 
-***** 清雍正六年
+***** 蔣溥
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 敕撰
-      :DATES:    1678 - 1735
+      :FUNCTION: 奉敕編
+      :DATES:    1708 - 1761
       :END:
 
-:DYNASTY: 清乾隆十四年
-:RESP:  
-:END:
-**** dynasty: 清乾隆十四年
+***** 劉統勳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0106.org][ZB3a0106]] 思辨錄輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸世儀
+:SOURCE:   四庫全書 文淵閣版, V724.1, p1
+:EXTENT: 35 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 陸世儀
+**** responsible: 
+***** 陸世儀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1611 - 1672
+      :END:
+
+***** 張伯行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編次
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0107.org][ZB3a0107]] 正學隅見述
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王宏撰
+:SOURCE:   四庫全書 文淵閣版, V724.2, p341
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 王宏撰
+**** responsible: 
+***** 王宏
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰著
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0108.org][ZB3a0108]] 雙橋隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0108
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 周召
+:SOURCE:   四庫全書 文淵閣版, V724.3, p373
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 周召
+**** responsible: 
+***** 周召
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0109.org][ZB3a0109]] 榕村語錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0109
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V725.1, p1
+:EXTENT: 30 卷
+:BOOK:   20
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible: 
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
+***** 徐用錫
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+***** 李清植
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0110.org][ZB3a0110]] 讀朱隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V725.2, p477
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible: 
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0111.org][ZB3a0111]] 三魚堂賸言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V725.3, p561
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible: 
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
+***** 陳濟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0112.org][ZB3a0112]] 松陽鈔存
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0112
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V725.4, p627
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible: 
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
+***** 楊開基
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0113.org][ZB3a0113]] 讀書偶記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0113
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 雷鈜
+:SOURCE:   四庫全書 文淵閣版, V725.5, p661
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 雷鈜
+**** responsible: 
+***** 雷鈜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1697 - 1760
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3b 兵家類
