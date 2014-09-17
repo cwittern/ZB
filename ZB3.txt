@@ -1702,145 +1702,286 @@
       :DATES:    1536 - 1618
       :END:
 
-**** textual witnesses<!--- here 2014-09-16 --->
+**** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0092.org][ZB3a0092]] 劉子遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉宗周
+:SOURCE:   四庫全書 文淵閣版, V717.3, p99
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 劉宗周
+**** responsible: 
+***** 劉宗周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1578 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0093.org][ZB3a0093]] 人譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉宗周
+:SOURCE:   四庫全書 文淵閣版, V717.4, p175
+:EXTENT: 1 + 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 劉宗周
+**** responsible: 
+***** 劉宗周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1578 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0093a.org][ZB3a0093a]] 人譜__人譜類記
 *** [[mandoku:ZB3a0094.org][ZB3a0094]] 榕壇問業
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V717.5, p271
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible: 
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0095.org][ZB3a0095]] 溫氏母訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 溫璜
+:SOURCE:   四庫全書 文淵閣版, V717.6, p521
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 溫璜
+**** responsible: 
+***** 溫璜
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 述
+      :DATES:    1585 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0096.org][ZB3a0096]] 御定資政要覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世祖福臨
+:SOURCE:   四庫全書 文淵閣版, V717.7, p531
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 世祖福臨
+**** responsible: 
+***** 世祖福臨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1661
+      :END:
+
+***** 呂宮
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :END:
+
+***** 蔣赫德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+***** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0097.org][ZB3a0097]] 聖論廣訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V717.8, p589
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible: 
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 頒諭
+      :DATES:    1654 - 1722
+      :END:
+
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 繹譯
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0098.org][ZB3a0098]] 聖祖仁皇帝庭訓格言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V717.9, p613
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible: 
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :DATES:    1678 - 1735
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0099.org][ZB3a0099]] 日知薈說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高宗弘曆
+:SOURCE:   四庫全書 文淵閣版, V717.10, p663
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
+**** responsible: 
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0100.org][ZB3a0100]] 御定孝經衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 葉方藹
+:SOURCE:   四庫全書 文淵閣版, V718 - 719.1, p1
+:EXTENT: 100 + 1 + 2 卷
+:BOOK:   50
 :END:
-**** dynasty: 清
-**** responsible: 葉方藹
+**** responsible: 
+***** 葉方藹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1629 - 1682
+      :END:
+
+***** 張英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 韓菼
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0101.org][ZB3a0101]] 御定內則衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅以漸
+:SOURCE:   四庫全書 文淵閣版, V719.1, p347
+:EXTENT: 16 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 傅以漸
+**** responsible: 
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    1638 - 1661
+      :END:
+
+***** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉勅纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0102.org][ZB3a0102]] 御纂性理精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0102
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V719.2, p589
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible: 
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉勅纂
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0103.org][ZB3a0103]] 御纂朱子全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0103
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V720 - 721.1, p1
+:EXTENT: 66 卷
+:BOOK:   60
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible: 
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 定
+      :END:
+
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 熊賜履
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0104.org][ZB3a0104]] 欽定執中成憲
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0104
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V720 - 721.1, p1
+:EXTENT: 66 卷
+:BOOK:   60
+:END:
+**** responsible: 
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 :DYNASTY: 清雍正六年
 :RESP: 敕撰
 :END:
