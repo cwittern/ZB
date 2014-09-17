@@ -1810,40 +1810,75 @@
 *** [[mandoku:ZB3a0097.org][ZB3a0097]] 聖論廣訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V717.8, p589
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible: 
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 頒諭
+      :DATES:    1654 - 1722
+      :END:
+
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 繹譯
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0098.org][ZB3a0098]] 聖祖仁皇帝庭訓格言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V717.9, p613
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible: 
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :DATES:    1678 - 1735
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0099.org][ZB3a0099]] 日知薈說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高宗弘曆
+:SOURCE:   四庫全書 文淵閣版, V717.10, p663
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
+**** responsible: 
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0100.org][ZB3a0100]] 御定孝經衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0100
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V718 - 719.1, p1
+:EXTENT: 100 + 1 + 2 卷
+:BOOK:   50
+:END:
+**** responsible: 
+***** 葉方藹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1629 - 1682
+      :END:
+
+
 :DYNASTY: 清
 :RESP: 葉方藹
 :END:
