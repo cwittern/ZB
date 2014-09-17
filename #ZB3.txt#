@@ -2952,7 +2952,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0003
 :SOURCE:   四庫全書 文淵閣版, V733.3, p429
-:EXTENT: 2 + 1 + 1 + 1卷
+:EXTENT: 2 + 1 + 1 + 1 卷
 :BOOK:   2
 :END:
 **** responsible: 
@@ -2967,24 +2967,53 @@
       :DYNASTY:  元
       :FUNCTION: 注
       :END:
-here
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0004.org][ZB3e0004]] 鍼灸甲乙經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 皇甫謐
+:SOURCE:   四庫全書 文淵閣版, V733.4, p509
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 晉
-**** responsible: 皇甫謐
+**** responsible: 
+***** 皇甫謐
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    215 - 282
+      :END:
+
+***** 高保衡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校注
+      :END:
+
+***** 林億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0005.org][ZB3e0005]] 金匱要畧論註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0005
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V734.1, p1
+:EXTENT: 24 卷
+:BOOK:   4
+:END:
+**** responsible: 
+***** 皇甫謐
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    215 - 282
+      :END:
+
 :DYNASTY: 漢
 :RESP: 張機
 :END:
