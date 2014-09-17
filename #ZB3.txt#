@@ -3222,34 +3222,56 @@
 *** [[mandoku:ZB3e0015.org][ZB3e0015]] 明堂灸經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 西方子
+:SOURCE:   四庫全書 文淵閣版, V738.3, p51
+:EXTENT: 8 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 西方子
+**** responsible: 
+***** 西方子
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0016.org][ZB3e0016]] 博濟方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王衮
+:SOURCE:   四庫全書 文淵閣版, V738.4, p97
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 王衮
+**** responsible: 
+***** 王袞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1078
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0017.org][ZB3e0017]] 蘇沈良方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V738.5, p217
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible: 
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
+***** 沈括
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0018.org][ZB3e0018]] 壽親養老新書
