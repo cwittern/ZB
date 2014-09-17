@@ -3629,63 +3629,105 @@
 *** [[mandoku:ZB3e0037.org][ZB3e0037]] 三因極一病證方論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳言
+:SOURCE:   四庫全書 文淵閣版, V743.3, p149
+:EXTENT: 18 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 陳言
+**** responsible: 
+***** 陳言
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1500 - 1540
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0038.org][ZB3e0038]] 集驗背疽方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李迅
+:SOURCE:   四庫全書 文淵閣版, V743.4, p433
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李迅
+**** responsible: 
+***** 李迅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0039.org][ZB3e0039]] 濟生方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嚴用和
+:SOURCE:   四庫全書 文淵閣版, V743.5, p449
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 嚴用和
+**** responsible: 
+***** 嚴用和
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0040.org][ZB3e0040]] 產寶諸寶
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V743.6, p525
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0041.org][ZB3e0041]] 仁齋直指
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊士瀛
+:SOURCE:   四庫全書 文淵閣版, V744.1, p1
+:EXTENT: 26 + 7 卷
+:BOOK:   20 + 4
 :END:
-**** dynasty: 宋
-**** responsible: 楊士瀛
+**** responsible: 
+***** 楊士瀛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 朱崇正
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 附遺
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0041a.org][ZB3e0041a]] 仁齋直指__仁齋傷寒類書
 *** [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0042
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V744.1, p1
+:EXTENT: 26 + 7 卷
+:BOOK:   20 + 4
+:END:
+**** responsible: 
+***** 楊士瀛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 闕名
 :END:

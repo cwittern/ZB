@@ -3543,100 +3543,153 @@
 *** [[mandoku:ZB3e0032.org][ZB3e0032]] 醫說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張杲
+:SOURCE:   四庫全書 文淵閣版, V742.1, p1
+:EXTENT: 10 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 張杲
+**** responsible: 
+***** 張杲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0033.org][ZB3e0033]] 鍼灸資生經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王執中
+:SOURCE:   四庫全書 文淵閣版, V742.2, p229
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 王執中
+**** responsible: 
+***** 王執中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0034.org][ZB3e0034]] 婦人大全良方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳自明
+:SOURCE:   四庫全書 文淵閣版, V742.3, p435
+:EXTENT: 24 + 2 + 1 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 陳自明
+**** responsible: 
+***** 陳自明
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0035.org][ZB3e0035]] 太醫局諸科程文格
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V743.1, p1
+:EXTENT: 9 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 何大任
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0036.org][ZB3e0036]] 產育寶慶集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李師聖
+:SOURCE:   四庫全書 文淵閣版, V743.2, p117
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李師聖
+**** responsible: 
+***** 陳師聖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 郭稽中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0037.org][ZB3e0037]] 三因極一病證方論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳言
+:SOURCE:   四庫全書 文淵閣版, V743.3, p149
+:EXTENT: 18 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 陳言
+**** responsible: 
+***** 陳言
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1500 - 1540
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0038.org][ZB3e0038]] 集驗背疽方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李迅
+:SOURCE:   四庫全書 文淵閣版, V743.4, p433
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李迅
+**** responsible: 
+***** 李迅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0039.org][ZB3e0039]] 濟生方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嚴用和
+:SOURCE:   四庫全書 文淵閣版, V743.5, p449
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 嚴用和
+**** responsible: 
+***** 嚴用和
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0040.org][ZB3e0040]] 產寶諸寶
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V743.6, p525
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0041.org][ZB3e0041]] 仁齋直指
