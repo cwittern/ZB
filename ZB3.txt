@@ -2421,46 +2421,74 @@
 *** [[mandoku:ZB3b0014.org][ZB3b0014]] 何博士備論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 何去非
+:SOURCE:   四庫全書 文淵閣版, V727.2, p131
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 何去非
+**** responsible: 
+***** 何去非
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1082 - 1090
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0015.org][ZB3b0015]] 守城錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳規
+:SOURCE:   四庫全書 文淵閣版, V727.3, p175
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳規
+**** responsible: 
+***** 陳規
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1071 - 1141
+      :END:
+
+***** 湯璹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0016.org][ZB3b0016]] 武編前集
+*** [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 唐順之
+:SOURCE:   四庫全書 文淵閣版, V727.4, p205
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 唐順之
+**** responsible: 
+***** 唐順之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1507 - 1560
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0016a.org][ZB3b0016a]] 武編__後集
-*** [[mandoku:ZB3b0017.org][ZB3b0017]] 陳紀
+*** [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何良臣
+:SOURCE:   四庫全書 文淵閣版, V727.5, p675
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 何良臣
+**** responsible: 
+***** 何良臣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
