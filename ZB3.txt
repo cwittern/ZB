@@ -2569,74 +2569,143 @@
 *** [[mandoku:ZB3c0002.org][ZB3c0002]] 管子補注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉績
+:SOURCE:   四庫全書 文淵閣版, V729.2, p275
+:EXTENT: 24 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 劉績
+**** responsible: 
+***** 劉績
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1490
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0003.org][ZB3c0003]] 鄧子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V729.3, p553
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
+**** responsible: 
+***** 鄧析
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -545 - -501
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0004.org][ZB3c0004]] 商子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V729.4, p561
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
+**** responsible: 
+***** 商鞅
+      :PROPERTIES:
+      :DYNASTY:  秦
+      :FUNCTION: 撰
+      :DATES:    d. -338
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0005.org][ZB3c0005]] 韓非子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 何犿
+:SOURCE:   四庫全書 文淵閣版, V729.5, p597
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 元
-**** responsible: 何犿
+**** responsible: 
+***** 韓非
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    d. -233
+      :END:
+
+***** 何犿
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0006.org][ZB3c0006]] 疑嶽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後晉
-:RESP: 和疑
+:SOURCE:   四庫全書 文淵閣版, V729.6, p795
+:EXTENT: 4 + 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 後晉
-**** responsible: 和疑
+**** responsible: 
+***** 和凝
+      :PROPERTIES:
+      :DYNASTY:  五代
+      :FUNCTION: 撰
+      :END:
+
+***** 和㠓
+      :PROPERTIES:
+      :DYNASTY:  五代
+      :FUNCTION: 撰
+      :END:
+
+***** 張景
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0007.org][ZB3c0007]] 折嶽龜鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭克
+:SOURCE:   四庫全書 文淵閣版, V729.7, p861
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 鄭克
+**** responsible: 
+***** 鄭克
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0008.org][ZB3c0008]] 棠陰比事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 桂萬榮
+:SOURCE:   四庫全書 文淵閣版, V729.8, p969
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 桂萬榮
+**** responsible: 
+***** 桂萬榮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1196
+      :END:
+
+***** 吳訥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 刪補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0009.org][ZB3c0009]] 齊民要術
