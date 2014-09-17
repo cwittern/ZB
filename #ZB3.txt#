@@ -3104,72 +3104,119 @@
 :BOOK:   14
 :END:
 **** responsible: 
-***** 褚澄
+***** 巢元方
       :PROPERTIES:
-      :DYNASTY:  南齊
-      :FUNCTION: 撰
+      :DYNASTY:  隋
+      :FUNCTION: 奉敕撰
       :END:
 
-:DYNASTY: 隋
-:RESP: 巢元方
-:END:
-**** dynasty: 隋
-**** responsible: 巢元方
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0010.org][ZB3e0010]] 備急千金要方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 孫思邈
+:SOURCE:   四庫全書 文淵閣版, V735.1, p1
+:EXTENT: 93 卷
+:BOOK:   40
 :END:
-**** dynasty: 唐
-**** responsible: 孫思邈
+**** responsible: 
+***** 孫思邈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    581 - 682
+      :END:
+
+***** 高保衡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
+***** 林億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0011.org][ZB3e0011]] 銀海精微
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 孫思邈
+:SOURCE:   四庫全書 文淵閣版, V735.2, p945
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 孫思邈
+**** responsible: 
+***** 孫思邈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    581 - 682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0012.org][ZB3e0012]] 外臺秘要方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王燾
+:SOURCE:   四庫全書 文淵閣版, V736 - 737.1, p1
+:EXTENT: 40 + 2 卷
+:BOOK:   40
 :END:
-**** dynasty: 唐
-**** responsible: 王燾
+**** responsible: 
+***** 王燾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 752
+      :END:
+
+***** 林億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
+***** 孫兆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0013.org][ZB3e0013]] 顱顖經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V738.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0014.org][ZB3e0014]] 銅人鍼灸經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V738.2, p15
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0015.org][ZB3e0015]] 明堂灸經
