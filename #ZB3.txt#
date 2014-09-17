@@ -1992,45 +1992,74 @@
 :BOOK:   32
 :END:
 **** responsible: 
-***** 清雍正六
+***** 蔣溥
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 敕撰
-      :DATES:    1678 - 1735
+      :FUNCTION: 奉敕編
+      :DATES:    1708 - 1761
       :END:
 
-:DYNASTY: 清乾隆十四年
-:RESP:  
-:END:
-**** dynasty: 清乾隆十四年
+***** 劉統勳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0106.org][ZB3a0106]] 思辨錄輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸世儀
+:SOURCE:   四庫全書 文淵閣版, V724.1, p1
+:EXTENT: 35 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 陸世儀
+**** responsible: 
+***** 陸世儀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1611 - 1672
+      :END:
+
+***** 張伯行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編次
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0107.org][ZB3a0107]] 正學隅見述
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王宏撰
+:SOURCE:   四庫全書 文淵閣版, V724.2, p341
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 王宏撰
+**** responsible: 
+***** 王宏
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰著
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0108.org][ZB3a0108]] 雙橋隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0108
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V724.3, p373
+:EXTENT: 12 卷
+:BOOK:   6
+:END:
+**** responsible: 
+***** 王宏
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰著
+      :END:
+
 :DYNASTY: 清
 :RESP: 周召
 :END:
