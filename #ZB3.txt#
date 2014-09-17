@@ -1780,18 +1780,31 @@
 :BOOK:   2
 :END:
 **** responsible: 
-***** 溫璜
+***** 世祖福臨
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 述
-      :DATES:    1585 - 1645
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1661
       :END:
 
-:DYNASTY: 清
-:RESP: 世祖福臨
-:END:
-**** dynasty: 清
-**** responsible: 世祖福臨
+***** 呂宮
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :END:
+
+***** 蔣赫德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+***** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0097.org][ZB3a0097]] 聖論廣訓
