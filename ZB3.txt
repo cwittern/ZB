@@ -3332,123 +3332,212 @@
 *** [[mandoku:ZB3e0021.org][ZB3e0021]] 素問入式運氣論奧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉溫舒
+:SOURCE:   四庫全書 文淵閣版, V738.9, p451
+:EXTENT: 3 + 1 卷
+:BOOK:   2 + 1
 :END:
-**** dynasty: 宋
-**** responsible: 劉溫舒
+**** responsible: 
+***** 劉溫舒
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0022.org][ZB3e0022]] 傷寒微旨論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 韓祗和
+:SOURCE:   四庫全書 文淵閣版, V738.10, p541
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 韓祗和
+**** responsible: 
+***** 韓祗和
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0023.org][ZB3e0023]] 傷寒總病論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 龐安時
+:SOURCE:   四庫全書 文淵閣版, V738.11, p575
+:EXTENT: 6 + 1 + 1 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 龐安時
+**** responsible: 
+***** 龐安時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1042 - 1096
+      :END:
+
+***** 董炳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0024.org][ZB3e0024]] 聖濟總錄纂要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 政和中
+:SOURCE:   四庫全書 文淵閣版, V739.1, p1
+:EXTENT: 26 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 政和中
+**** responsible: 
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 敕編
+      :DATES:    1082 - 1135
+      :END:
+
+***** 程林
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0025.org][ZB3e0025]] 證類本草
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 唐愼微
+:SOURCE:   四庫全書 文淵閣版, V740.1, p1
+:EXTENT: 30 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 唐愼微
+**** responsible: 
+***** 唐愼微
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1086 - 1108
+      :END:
+
+***** 曹孝忠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校
+      :END:
+
+***** 寇宗奭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 衍義
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0026.org][ZB3e0026]] 金生指迷方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王貺
+:SOURCE:   四庫全書 文淵閣版, V741.1, p1
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 王貺
+**** responsible: 
+***** 王貺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0027.org][ZB3e0027]] 小兒衞生總散論方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V741.2, p49
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
+***** 何大任
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校訂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0028.org][ZB3e0028]] 類證普濟本事方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 許叔
+:SOURCE:   四庫全書 文淵閣版, V741.3, p375
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 許叔
+**** responsible: 
+***** 許叔微
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0029.org][ZB3e0029]] 太平惠民和劑局方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳師文
+:SOURCE:   四庫全書 文淵閣版, V741.4, p469
+:EXTENT: 10 + 3 卷
+:BOOK:   8 + 2
 :END:
-**** dynasty: 宋
-**** responsible: 陳師文
+**** responsible: 
+***** 陳師文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0029a.org][ZB3e0029a]] 太平惠民和劑局方__指南總論
 *** [[mandoku:ZB3e0030.org][ZB3e0030]] 傳信適用方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳彥夔
+:SOURCE:   四庫全書 文淵閣版, V741.5, p745
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳彥夔
+**** responsible: 
+***** 吳彥夔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0031.org][ZB3e0031]] 衞濟寶書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 東軒居士
+:SOURCE:   四庫全書 文淵閣版, V741.6, p813
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 東軒居士
+**** responsible: 
+***** 東軒居士
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0032.org][ZB3e0032]] 醫說
