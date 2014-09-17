@@ -2242,72 +2242,106 @@
 *** [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0004
-:SOURCE:   四庫全書 文淵閣版, V726.3, p43
+:SOURCE:   四庫全書 文淵閣版, V726.4, p57
 :EXTENT: 1 卷
-:BOOK:   1
+:BOOK:   (1)
 :END:
 **** responsible: 
-***** 孫武
+***** 吳起
       :PROPERTIES:
       :DYNASTY:  周
       :FUNCTION: 撰
-      :DATES:    fl. -380 - -320
+      :DATES:    d. -378
       :END:
 
-:DYNASTY: 
-:RESP: 
-:END:
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0005.org][ZB3b0005]] 司馬法
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V726.5, p65
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible: 
+***** 司馬穰苴
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -722 - -481
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0006.org][ZB3b0006]] 尉繚子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V726.6, p71
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
+**** responsible: 
+***** 尉繚
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0007.org][ZB3b0007]] 黃石公三畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 黃石公
+:SOURCE:   四庫全書 文淵閣版, V726.7, p89
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 黃石公
+**** responsible: 
+***** 黃石公
+      :PROPERTIES:
+      :DYNASTY:  秦
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0008.org][ZB3b0008]] 三畧直解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉寅
+:SOURCE:   四庫全書 文淵閣版, V726.8, p99
+:EXTENT: 3 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 明
-**** responsible: 劉寅
+**** responsible: 
+***** 劉寅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1371
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0009.org][ZB3b0009]] 黃石公素書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 黃石公
+:SOURCE:   四庫全書 文淵閣版, V726.9, p127
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 黃石公
+**** responsible: 
+***** 黃石公
+      :PROPERTIES:
+      :DYNASTY:  秦
+      :FUNCTION: 撰
+      :END:
+
+***** 張商英
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0010.org][ZB3b0010]] 李衞公問對
