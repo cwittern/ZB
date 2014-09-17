@@ -3075,33 +3075,41 @@
 ***** 楊用道
       :PROPERTIES:
       :DYNASTY:  金
-      :FUNCTION: 
-      :DATES:    ca. 250 - ca. 330
+      :FUNCTION: 補
       :END:
 
-
-:DYNASTY: 晉
-:RESP: 葛洪
-:END:
-**** dynasty: 晉
-**** responsible: 葛洪
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0008.org][ZB3e0008]] 褚氏遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南齊
-:RESP: 褚澄
+:SOURCE:   四庫全書 文淵閣版, V734.4, p541
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 南齊
-**** responsible: 褚澄
+**** responsible: 
+***** 褚澄
+      :PROPERTIES:
+      :DYNASTY:  南齊
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0009.org][ZB3e0009]] 巢氏諸病源候總論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0009
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V734.5, p549
+:EXTENT: 50 卷
+:BOOK:   14
+:END:
+**** responsible: 
+***** 褚澄
+      :PROPERTIES:
+      :DYNASTY:  南齊
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 隋
 :RESP: 巢元方
 :END:
