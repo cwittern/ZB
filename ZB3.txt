@@ -2494,47 +2494,76 @@
 *** [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭若曾
+:SOURCE:   四庫全書 文淵閣版, V728.1, p1
+:EXTENT: 8 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 鄭若曾
+**** responsible: 
+***** 鄭若曾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1505 - 1580
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0019.org][ZB3b0019]] 紀效新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 戚繼光
+:SOURCE:   四庫全書 文淵閣版, V728.2, p487
+:EXTENT: 18 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 戚繼光
+**** responsible: 
+***** 戚繼光
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1528 - 1587
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 戚繼光
+:SOURCE:   四庫全書 文淵閣版, V728.3, p687
+:EXTENT: 9 + 6 卷
+:BOOK:   4 + 4
 :END:
-**** dynasty: 明
-**** responsible: 戚繼光
+**** responsible: 
+***** 戚繼光
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1528 - 1587
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0020a.org][ZB3b0020a]] 練兵實紀__練兵雜紀
 ** ZB3c 法家類
 *** [[mandoku:ZB3c0001.org][ZB3c0001]] 管子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 房玄齡
+:SOURCE:   四庫全書 文淵閣版, V729.1, p1
+:EXTENT: 24 卷
+:BOOK:   10
 :END:
-**** dynasty: 唐
-**** responsible: 房玄齡
+**** responsible: 
+***** 管仲
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    d. -645
+      :END:
+
+***** 房玄齡
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3c0002.org][ZB3c0002]] 管子補注
