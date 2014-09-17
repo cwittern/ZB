@@ -2209,25 +2209,51 @@
 *** [[mandoku:ZB3b0002.org][ZB3b0002]] 六韜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V726.2, p9
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
+**** responsible: 
+***** 呂望
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0003.org][ZB3b0003]] 孫子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V726.3, p43
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
+**** responsible: 
+***** 孫武
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    fl. -380 - -320
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0004
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V726.3, p43
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 孫武
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    fl. -380 - -320
+      :END:
+
 :DYNASTY: 
 :RESP: 
 :END:
