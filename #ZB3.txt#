@@ -3377,28 +3377,65 @@
       :DATES:    1042 - 1096
       :END:
 
-:DYNASTY: 宋
-:RESP: 龐安時
-:END:
-**** dynasty: 宋
-**** responsible: 龐安時
+***** 董炳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0024.org][ZB3e0024]] 聖濟總錄纂要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 政和中
+:SOURCE:   四庫全書 文淵閣版, V739.1, p1
+:EXTENT: 26 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 政和中
+**** responsible: 
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 敕編
+      :DATES:    1082 - 1135
+      :END:
+
+***** 程林
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0025.org][ZB3e0025]] 證類本草
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0025
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V740.1, p1
+:EXTENT: 30 卷
+:BOOK:   22
+:END:
+**** responsible: 
+***** 唐愼微
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1086 - 1108
+      :END:
+
+***** 曹孝忠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校
+      :END:
+
+***** 寇宗奭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1086 - 1108
+      :END:
+
 :DYNASTY: 宋
 :RESP: 唐愼微
 :END:
