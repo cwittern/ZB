@@ -2711,121 +2711,175 @@
 *** [[mandoku:ZB3c0009.org][ZB3c0009]] 齊民要術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後魏
-:RESP: 賈思勰
+:SOURCE:   四庫全書 文淵閣版, V730.1, p1
+:EXTENT: 10 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 後魏
-**** responsible: 賈思勰
+**** responsible: 
+***** 賈思勰
+      :PROPERTIES:
+      :DYNASTY:  後魏
+      :FUNCTION: 撰
+      :DATES:    6th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3c0009a.org][ZB3c0009a]] 南華真經義海纂微
-*** [[mandoku:ZB3c0009b.org][ZB3c0009b]] 周易參同契解
-*** [[mandoku:ZB3c0009c.org][ZB3c0009c]] 莊子翼
 ** ZB3d 農家類
 *** [[mandoku:ZB3d0001.org][ZB3d0001]] 農書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳旉
+:SOURCE:   四庫全書 文淵閣版, V730.2, p169
+:EXTENT: 3 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳旉
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3d0002.org][ZB3d0002]] 蠶書
-:PROPERTIES:
-:CUSTOM_ID:  ZB3d0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 秦觀
-:END:
-**** dynasty: 宋
-**** responsible: 秦觀
+**** responsible: 
+***** 陳旉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1076 - 1154
+      :END:
+
+***** 秦觀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0003.org][ZB3d0003]] 農桑輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 司農司
+:SOURCE:   四庫全書 文淵閣版, V730.3, p195
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 司農司
+**** responsible: 
+***** 司農司
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0004.org][ZB3d0004]] 農桑衣食撮要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 魯明善
+:SOURCE:   四庫全書 文淵閣版, V730.4, p291
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 魯明善
+**** responsible: 
+***** 魯明善
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1314 - 1330
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0005.org][ZB3d0005]] 農書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王楨
+:SOURCE:   四庫全書 文淵閣版, V730.5, p315
+:EXTENT: 22 卷
+:BOOK:   16
 :END:
-**** dynasty: 元
-**** responsible: 王楨
+**** responsible: 
+***** 王禎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1333
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0006.org][ZB3d0006]] 救荒本草
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱橚
+:SOURCE:   四庫全書 文淵閣版, V730.6, p609
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 朱橚
+**** responsible: 
+***** 朱橚
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1361 - 1425
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0007.org][ZB3d0007]] 農政全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐光啟
+:SOURCE:   四庫全書 文淵閣版, V731.1, p1
+:EXTENT: 60 卷
+:BOOK:   40
 :END:
-**** dynasty: 明
-**** responsible: 徐光啟
+**** responsible: 
+***** 徐光啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1562 - 1633
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0008.org][ZB3d0008]] 秦西水法
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋熊三拔
+:SOURCE:   四庫全書 文淵閣版, V731.2, p931
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 西洋熊三拔
+**** responsible: 
+***** 西洋熊三拔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1575 - 1620
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0009.org][ZB3d0009]] 野菜博錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鮑山
+:SOURCE:   四庫全書 文淵閣版, V731.3, p979
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 鮑山
+**** responsible: 
+***** 鮑山
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3d0010.org][ZB3d0010]] 欽定授時通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V732.1, p1
+:EXTENT: 78 卷
+:BOOK:   32
+:END:
+**** responsible: 
+***** 鮑山
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清乾隆二年
 :RESP: 敕撰
 :END:
