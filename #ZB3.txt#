@@ -1878,23 +1878,41 @@
       :DATES:    1629 - 1682
       :END:
 
+***** 張英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
 
-:DYNASTY: 清
-:RESP: 葉方藹
-:END:
-**** dynasty: 清
-**** responsible: 葉方藹
+***** 韓菼
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0101.org][ZB3a0101]] 御定內則衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅以漸
+:SOURCE:   四庫全書 文淵閣版, V719.1, p347
+:EXTENT: 16 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 傅以漸
+**** responsible: 
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    1638 - 1661
+      :END:
+
+***** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 勅纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3a0102.org][ZB3a0102]] 御纂性理精義
