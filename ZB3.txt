@@ -2874,51 +2874,100 @@
 :BOOK:   32
 :END:
 **** responsible: 
-***** 鮑山
+***** 鄂爾泰
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1677 - 1745
       :END:
 
-:DYNASTY: 清乾隆二年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆二年
-**** responsible: 敕撰
+***** 張廷玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 董誥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補編
+      :END:
+
+***** 戴衢亨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補編
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3e 醫家類
 *** [[mandoku:ZB3e0001.org][ZB3e0001]] 黃帝內經素問
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王冰
+:SOURCE:   四庫全書 文淵閣版, V733.1, p1
+:EXTENT: 24 卷
+:BOOK:   14
 :END:
-**** dynasty: 唐
-**** responsible: 王冰
+**** responsible: 
+***** 王冰
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 次注
+      :DATES:    fl. 762
+      :END:
+
+***** 林億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0002.org][ZB3e0002]] 靈樞經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 史崧音
+:SOURCE:   四庫全書 文淵閣版, V733.2, p317
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 史崧音
+**** responsible: 
+***** 王冰
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :DATES:    fl. 762
+      :END:
+
+***** 史崧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 校正
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0003.org][ZB3e0003]] 難經本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 滑壽
+:SOURCE:   四庫全書 文淵閣版, V733.3, p429
+:EXTENT: 2 + 1 + 1 + 1卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 滑壽
+**** responsible: 
+***** 秦越人
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 滑壽
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0004.org][ZB3e0004]] 鍼灸甲乙經
