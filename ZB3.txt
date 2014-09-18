@@ -4079,56 +4079,95 @@
 *** [[mandoku:ZB3e0063.org][ZB3e0063]] 普濟方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱橚
+:SOURCE:   四庫全書 文淵閣版, V747 - 761.1, p1
+:EXTENT: 426 + 1 卷
+:BOOK:   300
 :END:
-**** dynasty: 明
-**** responsible: 朱橚
+**** responsible: 
+***** 朱橚
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1361 - 1425
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0064.org][ZB3e0064]] 玉機微義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐用誠
+:SOURCE:   四庫全書 文淵閣版, V762.1, p1
+:EXTENT: 50 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 徐用誠
+**** responsible: 
+***** 徐用誠
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 原輯
+      :END:
+
+***** 劉純續
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0065.org][ZB3e0065]] 仁端錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐謙
+:SOURCE:   四庫全書 文淵閣版, V762.2, p571
+:EXTENT: 16 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 徐謙
+**** responsible: 
+***** 徐謙
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 陳葵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0066.org][ZB3e0066]] 薛氏醫案
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 薛己
+:SOURCE:   四庫全書 文淵閣版, V763 - 764.1, p1
+:EXTENT: 77 卷
+:BOOK:   62
 :END:
-**** dynasty: 明
-**** responsible: 薛己
+**** responsible: 
+***** 薛己
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0067.org][ZB3e0067]] 推求師竟
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 戴原禮
+:SOURCE:   四庫全書 文淵閣版, V765.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 戴原禮
+**** responsible: 
+***** 戴原禮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1403
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0068.org][ZB3e0068]] 針灸問對
