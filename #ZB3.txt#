@@ -5199,35 +5199,45 @@
 :BOOK:   1
 :END:
 **** responsible: 
-***** 梅文
+***** 梅文鼏
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1633 - 1721
+      :DATES:    fl. 1641 - 1721
       :END:
 
-:DYNASTY: 清
-:RESP: 梅文鼎
-:END:
-**** dynasty: 清
-**** responsible: 梅文鼎
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0031.org][ZB3f0031]] 全史日至源流
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 許伯政
+:SOURCE:   四庫全書 文淵閣版, V796.1, p1
+:EXTENT: 30 + 2 卷
+:BOOK:   28
 :END:
-**** dynasty: 清
-**** responsible: 許伯政
+**** responsible: 
+***** 許伯政
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0032.org][ZB3f0032]] 數學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0032
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V796.2, p607
+:EXTENT: 30 + 2 卷
+:BOOK:   28
+:END:
+**** responsible: 
+***** 許伯政
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 江永
 :END:
