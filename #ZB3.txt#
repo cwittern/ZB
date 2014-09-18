@@ -3816,12 +3816,18 @@
 *** [[mandoku:ZB3e0048.org][ZB3e0048]] 內外傷辯惑論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李杲
+:SOURCE:   四庫全書 文淵閣版, V745.3, p363
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 李杲
+**** responsible: 
+***** 李杲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1180 - 1251
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0049.org][ZB3e0049]] 脾胃論
