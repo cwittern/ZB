@@ -3967,67 +3967,113 @@
 *** [[mandoku:ZB3e0057.org][ZB3e0057]] 局方發揮
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱震亨
+:SOURCE:   四庫全書 文淵閣版, V746.4, p675
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 朱震亨
+**** responsible: 
+***** 朱震亨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1281 - 1358
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0058.org][ZB3e0058]] 金匱鈎玄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱震亨
+:SOURCE:   四庫全書 文淵閣版, V746.5, p697
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 朱震亨
+**** responsible: 
+***** 朱震亨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1281 - 1358
+      :END:
+
+***** 戴原禮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 校補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0059.org][ZB3e0059]] 扁鵲神應鍼灸玉龍經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王國瑞
+:SOURCE:   四庫全書 文淵閣版, V746.6, p755
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 王國瑞
+**** responsible: 
+***** 王國瑞
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0060.org][ZB3e0060]] 外科精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 齊德之
+:SOURCE:   四庫全書 文淵閣版, V746.7, p799
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 齊德之
+**** responsible: 
+***** 齊德之
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0061.org][ZB3e0061]] 脉訣刊誤急解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 戴啟宗
+:SOURCE:   四庫全書 文淵閣版, V746.8, p863
+:EXTENT: 2 + 1 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 戴啟宗
+**** responsible: 
+***** 戴啟宗
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
+***** 汪機
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0062.org][ZB3e0062]] 醫經溯洄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王履
+:SOURCE:   四庫全書 文淵閣版, V746.9, p937
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 王履
+**** responsible: 
+***** 王履
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    b. 1332
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0063.org][ZB3e0063]] 普濟方

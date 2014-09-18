@@ -4048,46 +4048,71 @@
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
+      :DATES:    14th cent
       :END:
 
-:DYNASTY: 元
-:RESP: 戴啟宗
-:END:
-**** dynasty: 元
-**** responsible: 戴啟宗
+***** 汪機
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0062.org][ZB3e0062]] 醫經溯洄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王履
+:SOURCE:   四庫全書 文淵閣版, V746.9, p937
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 王履
+**** responsible: 
+***** 王履
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    b. 1332
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0063.org][ZB3e0063]] 普濟方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱橚
+:SOURCE:   四庫全書 文淵閣版, V747 - 761.1, p1
+:EXTENT: 426 + 1 卷
+:BOOK:   300
 :END:
-**** dynasty: 明
-**** responsible: 朱橚
+**** responsible: 
+***** 朱橚
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1361 - 1425
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0064.org][ZB3e0064]] 玉機微義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐用誠
+:SOURCE:   四庫全書 文淵閣版, V762.1, p1
+:EXTENT: 50 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 徐用誠
+**** responsible: 
+***** 徐用誠
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 原輯
+      :END:
+
+***** 劉純續
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0065.org][ZB3e0065]] 仁端錄
