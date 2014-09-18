@@ -5063,97 +5063,149 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    162 - 1767
+      :DATES:    1628 - 1682
       :END:
 
-:DYNASTY: 清
-:RESP: 王錫闡
-:END:
-**** dynasty: 清
-**** responsible: 王錫闡
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0023.org][ZB3f0023]] 中星譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡亶
+:SOURCE:   四庫全書 文淵閣版, V793.3, p533
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 胡亶
+**** responsible: 
+***** 胡亶
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0024.org][ZB3f0024]] 天經惑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 游藝
+:SOURCE:   四庫全書 文淵閣版, V793.4, p565
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 游藝
+**** responsible: 
+***** 游藝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0025.org][ZB3f0025]] 天步眞原
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 西洋穆尼閣
+:SOURCE:   四庫全書 文淵閣版, V793.5, p647
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 西洋穆尼閣
+**** responsible: 
+***** 西洋穆尼閣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1611 - 1656
+      :END:
+
+***** 薛鳳祚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 譯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0026.org][ZB3f0026]] 天學會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 薛鳳祚
+:SOURCE:   四庫全書 文淵閣版, V793.6, p661
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 薛鳳祚
+**** responsible: 
+***** 薛鳳祚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628 - 1680
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0027.org][ZB3f0027]] 歷算全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 梅文鼎
+:SOURCE:   四庫全書 文淵閣版, V794 - 795.1, p1
+:EXTENT: 60 卷
+:BOOK:   26
 :END:
-**** dynasty: 清
-**** responsible: 梅文鼎
+**** responsible: 
+***** 梅文鼎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1721
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0028.org][ZB3f0028]] 大統歷志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 梅文鼎
+:SOURCE:   四庫全書 文淵閣版, V795.1, p819
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 梅文鼎
+**** responsible: 
+***** 梅文鼎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1721
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0029.org][ZB3f0029]] 勿菴歷算書記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 梅文鼎
+:SOURCE:   四庫全書 文淵閣版, V795.2, p961
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 梅文鼎
+**** responsible: 
+***** 梅文鼎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1721
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0030.org][ZB3f0030]] 中西經星同異考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0030
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V795.3, p993
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 梅文
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1721
+      :END:
+
 :DYNASTY: 清
 :RESP: 梅文鼎
 :END:
