@@ -5575,106 +5575,153 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3f0049.org][ZB3f0049]] 御製數理精薀上編
+*** [[mandoku:ZB3f0049.org][ZB3f0049]] 御製數理精薀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清康熙五十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V799 - 801.1, p1
+:EXTENT: 53 卷
+:BOOK:   50
 :END:
-**** dynasty: 清康熙五十二年
-**** responsible: 敕撰
+**** responsible: 
+***** 康熙
+      :PROPERTIES:
+      :DYNASTY:  清康熙五十二年
+      :FUNCTION: 敕撰
+      :DATES:    1654 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3f0049a.org][ZB3f0049a]] 御製數理精蘊__上編
-*** [[mandoku:ZB3f0049b.org][ZB3f0049b]] 御製數理精蘊__下編
-*** [[mandoku:ZB3f0049c.org][ZB3f0049c]] 御製數理精蘊
 *** [[mandoku:ZB3f0050.org][ZB3f0050]] 幾何論約
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 杜知耕
+:SOURCE:   四庫全書 文淵閣版, V802.1, p1
+:EXTENT: 6 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 杜知耕
+**** responsible: 
+***** 杜知耕
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0051.org][ZB3f0051]] 數學鑰
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 杜知耕
+:SOURCE:   四庫全書 文淵閣版, V802.2, p91
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 杜知耕
+**** responsible: 
+***** 杜知耕
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0052.org][ZB3f0052]] 數度衍
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 方中通
+:SOURCE:   四庫全書 文淵閣版, V802.3, p233
+:EXTENT: 23 + 2 + 1 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 方中通
+**** responsible: 
+***** 方中通
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1661
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0053.org][ZB3f0053]] 句股引蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳訏
+:SOURCE:   四庫全書 文淵閣版, V802.4, p593
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 陳訏
+**** responsible: 
+***** 陳訏
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1650 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0054.org][ZB3f0054]] 句股矩解原
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃百家
+:SOURCE:   四庫全書 文淵閣版, V802.5, p679
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 黃百家
+**** responsible: 
+***** 黃百家
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0055.org][ZB3f0055]] 少廣補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳世仁
+:SOURCE:   四庫全書 文淵閣版, V802.6, p697
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 陳世仁
+**** responsible: 
+***** 陳世仁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1676 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0056.org][ZB3f0056]] 莊氏算學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 莊亨陽
+:SOURCE:   四庫全書 文淵閣版, V802.7, p717
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 莊亨陽
+**** responsible: 
+***** 莊亨陽
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1686 - 1746
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0057.org][ZB3f0057]] 九章錄要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 屠文漪
+:SOURCE:   四庫全書 文淵閣版, V802.8, p859
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 屠文漪
+**** responsible: 
+***** 屠文漪
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3g 術數類
