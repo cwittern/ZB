@@ -5461,33 +5461,40 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0043
 :SOURCE:   四庫全書 文淵閣版, V798.1, p1
-:EXTENT: 18 卷
-:BOOK:   12
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
 **** responsible: 
-***** 秦九韶
+***** 李治
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    fl. 1247
+      :DATES:    1192 - 1279
       :END:
 
-:DYNASTY: 元
-:RESP: 李治
-:END:
-**** dynasty: 元
-**** responsible: 李治
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0044.org][ZB3f0044]] 測圓海鏡分類釋術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 顧應祥
+:SOURCE:   四庫全書 文淵閣版, V798.2, p127
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 顧應祥
+**** responsible: 
+***** 李治
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1192 - 1279
+      :END:
+
+***** 顧應祥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 釋術
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0045.org][ZB3f0045]] 益古演段
