@@ -4671,12 +4671,35 @@
 *** [[mandoku:ZB3f0001.org][ZB3f0001]] 周髀算經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 趙爽
+:SOURCE:   四庫全書 文淵閣版, V786.1, p1
+:EXTENT: 2 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 趙爽
+**** responsible: 
+***** 趙君卿
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :END:
+
+***** 甄鸞
+      :PROPERTIES:
+      :DYNASTY:  北周
+      :FUNCTION: 重述
+      :END:
+
+***** 李淳風
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注譯
+      :END:
+
+***** 李籍
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0002.org][ZB3f0002]] 新儀象法要
