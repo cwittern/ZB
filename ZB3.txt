@@ -3918,34 +3918,50 @@
 *** [[mandoku:ZB3e0054.org][ZB3e0054]] 瑞竹堂經驗方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 沙圖穆蘇
+:SOURCE:   四庫全書 文淵閣版, V746.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 沙圖穆蘇
+**** responsible: 
+***** 沙圖穆蘇
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0055.org][ZB3e0055]] 世醫得效方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 危亦林
+:SOURCE:   四庫全書 文淵閣版, V746.2, p43
+:EXTENT: 20 卷
+:BOOK:   18
 :END:
-**** dynasty: 元
-**** responsible: 危亦林
+**** responsible: 
+***** 危亦林
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0056.org][ZB3e0056]] 格致餘論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱震亨
+:SOURCE:   四庫全書 文淵閣版, V746.3, p637
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 朱震亨
+**** responsible: 
+***** 朱震亨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1281 - 1358
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0057.org][ZB3e0057]] 局方發揮
