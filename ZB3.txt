@@ -5278,7 +5278,7 @@
 :BOOK:   1
 :END:
 **** responsible: 
-***** 不著
+***** 闕名
       :PROPERTIES:
       :FUNCTION: 撰
       :END:
@@ -5288,45 +5288,84 @@
 *** [[mandoku:ZB3f0035.org][ZB3f0035]] 數述記遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 徐嶽
+:SOURCE:   四庫全書 文淵閣版, V797.3, p161
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 徐嶽
+**** responsible: 
+***** 徐岳
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :END:
+
+***** 甄鸞
+      :PROPERTIES:
+      :DYNASTY:  北周
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0036.org][ZB3f0036]] 海島算經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 劉徽
+:SOURCE:   四庫全書 文淵閣版, V797.4, p173
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 晉
-**** responsible: 劉徽
+**** responsible: 
+***** 劉徽
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    fl. 263
+      :END:
+
+***** 李淳風
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 奉詔注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0037.org][ZB3f0037]] 五曹算經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V797.5, p179
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0038.org][ZB3f0038]] 五經算術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 北周
-:RESP: 甄鸞
+:SOURCE:   四庫全書 文淵閣版, V797.6, p193
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 北周
-**** responsible: 甄鸞
+**** responsible: 
+***** 甄鸞
+      :PROPERTIES:
+      :DYNASTY:  北周
+      :FUNCTION: 撰
+      :DATES:    d. 578?
+      :END:
+
+***** 李淳風
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0039.org][ZB3f0039]] 夏侯陽算經
