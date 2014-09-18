@@ -4417,9 +4417,9 @@
 *** [[mandoku:ZB3e0082.org][ZB3e0082]] 景嶽全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0082
-:SOURCE:   四庫全書 文淵閣版, V776.1, p1
-:EXTENT: 32 + 11 + 4 卷
-:BOOK:   40
+:SOURCE:   四庫全書 文淵閣版, V777 - 778.1, p1
+:EXTENT: 64 卷
+:BOOK:   54
 :END:
 **** responsible: 
 ***** 張介賓
@@ -4428,73 +4428,110 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 明
-:RESP: 張介賓
-:END:
-**** dynasty: 明
-**** responsible: 張介賓
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0083.org][ZB3e0083]] 瘟疫論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳有性
+:SOURCE:   四庫全書 文淵閣版, V779.1, p1
+:EXTENT: 2 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 吳有性
+**** responsible: 
+***** 吳有性
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0084.org][ZB3e0084]] 痎瘧論疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 廬之頤
+:SOURCE:   四庫全書 文淵閣版, V779.2, p63
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 廬之頤
+**** responsible: 
+***** 廬之頤
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0085.org][ZB3e0085]] 本草乘雅半偈
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 廬之頤
+:SOURCE:   四庫全書 文淵閣版, V779.3, p97
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 廬之頤
+**** responsible: 
+***** 廬之頤
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0086.org][ZB3e0086]] 御纂醫宗金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳謙
+:SOURCE:   四庫全書 文淵閣版, V780 - 782.1, p1
+:EXTENT: 90 + 1 卷
+:BOOK:   80
 :END:
-**** dynasty: 清
-**** responsible: 吳謙
+**** responsible: 
+***** 吳謙
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 劉裕鐸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0087.org][ZB3e0087]] 尚論篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 喻昌
+:SOURCE:   四庫全書 文淵閣版, V783.1, p1
+:EXTENT: 4 + 1 + 4 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 喻昌
+**** responsible: 
+***** 喻昌
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1585
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0087a.org][ZB3e0087a]] 尚論篇__後篇
 *** [[mandoku:ZB3e0088.org][ZB3e0088]] 醫門法律
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0088
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V783.2, p271
+:EXTENT: 12 + 4 卷
+:BOOK:   8
+:END:
+**** responsible: 
+***** 喻昌
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1585
+      :END:
+
 :DYNASTY: 清
 :RESP: 喻昌
 :END:
