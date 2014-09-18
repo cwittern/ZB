@@ -4794,84 +4794,131 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 明
-:RESP: 貝林
-:END:
-**** dynasty: 明
-**** responsible: 貝林
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0007.org][ZB3f0007]] 聖壽萬年曆
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱載堉
+:SOURCE:   四庫全書 文淵閣版, V786.7, p449
+:EXTENT: 5 + 1 + 1 + 4 + 1 卷
+:BOOK:   3 + 4
 :END:
-**** dynasty: 明
-**** responsible: 朱載堉
+**** responsible: 
+***** 朱載堉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1536 - 1611
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3f0007a.org][ZB3f0007a]] 聖壽萬年歷__律歷融通
 *** [[mandoku:ZB3f0008.org][ZB3f0008]] 古今律歷考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 邢雲路
+:SOURCE:   四庫全書 文淵閣版, V787.1, p1
+:EXTENT: 72 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 邢雲路
+**** responsible: 
+***** 邢雲路
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1580
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0009.org][ZB3f0009]] 乾坤體義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋刊瑪竇
+:SOURCE:   四庫全書 文淵閣版, V787.2, p755
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 西洋刊瑪竇
+**** responsible: 
+***** 西洋利瑪竇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1552 - 1610
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0010.org][ZB3f0010]] 表度說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋熊三拔
+:SOURCE:   四庫全書 文淵閣版, V787.3, p807
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 西洋熊三拔
+**** responsible: 
+***** 西洋熊三拔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 口譯
+      :DATES:    1575 - 1620
+      :END:
+
+***** 周子愚
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 筆錄
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0011.org][ZB3f0011]] 簡平儀說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋熊三拔
+:SOURCE:   四庫全書 文淵閣版, V787.4, p835
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 明
-**** responsible: 西洋熊三拔
+**** responsible: 
+***** 西洋熊三拔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1575 - 1620
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0012.org][ZB3f0012]] 天問畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋陽瑪諾
+:SOURCE:   四庫全書 文淵閣版, V787.5, p851
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 西洋陽瑪諾
+**** responsible: 
+***** 西洋陽瑪諾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1574 - 1659
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0013.org][ZB3f0013]] 新法算書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0013
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V788 - 789.1, p851
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 西洋陽瑪諾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1574 - 1659
+      :END:
+
 :DYNASTY: 明
 :RESP: 徐光啟
 :END:
