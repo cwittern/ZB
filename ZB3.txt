@@ -5426,12 +5426,18 @@
 *** [[mandoku:ZB3f0041.org][ZB3f0041]] 緝古等經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王孝通
+:SOURCE:   四庫全書 文淵閣版, V797.9, p303
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 王孝通
+**** responsible: 
+***** 王孝通
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 570 - 626
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0042.org][ZB3f0042]] 數學九章
