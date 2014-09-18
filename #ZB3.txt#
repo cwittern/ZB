@@ -4384,31 +4384,50 @@
 *** [[mandoku:ZB3e0080.org][ZB3e0080]] 神農本草經疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 繆希雍
+:SOURCE:   四庫全書 文淵閣版, V775.3, p287
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 繆希雍
+**** responsible: 
+***** 繆希雍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0081.org][ZB3e0081]] 類經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張介賓
+:SOURCE:   四庫全書 文淵閣版, V776.1, p1
+:EXTENT: 32 + 11 + 4 卷
+:BOOK:   40
 :END:
-**** dynasty: 明
-**** responsible: 張介賓
+**** responsible: 
+***** 張介賓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0081a.org][ZB3e0081a]] 類經__類經圖翼
-*** [[mandoku:ZB3e0081b.org][ZB3e0081b]] 類經__類經附翼
 *** [[mandoku:ZB3e0082.org][ZB3e0082]] 景嶽全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0082
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V776.1, p1
+:EXTENT: 32 + 11 + 4 卷
+:BOOK:   40
+:END:
+**** responsible: 
+***** 張介賓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 張介賓
 :END:
