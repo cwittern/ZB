@@ -3778,94 +3778,141 @@
       :DATES:    fl. 1186
       :END:
 
-**** textual witnesses<!--- here 2014-09-17 --->
+**** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0046.org][ZB3e0046]] 保命集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 張元素
+:SOURCE:   四庫全書 文淵閣版, V745.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 金
-**** responsible: 張元素
+**** responsible: 
+***** 張元素
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0047.org][ZB3e0047]] 儒門事親
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 張從正
+:SOURCE:   四庫全書 文淵閣版, V745.2, p99
+:EXTENT: 15 卷
+:BOOK:   10
 :END:
-**** dynasty: 金
-**** responsible: 張從正
+**** responsible: 
+***** 張從正
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :DATES:    fl. 1217 - 1231
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0048.org][ZB3e0048]] 內外傷辯惑論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李杲
+:SOURCE:   四庫全書 文淵閣版, V745.3, p363
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 李杲
+**** responsible: 
+***** 李杲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1180 - 1251
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0049.org][ZB3e0049]] 脾胃論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李杲
+:SOURCE:   四庫全書 文淵閣版, V745.4, p401
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 李杲
+**** responsible: 
+***** 李杲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1180 - 1251
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0050.org][ZB3e0050]] 蘭室祕藏
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李杲
+:SOURCE:   四庫全書 文淵閣版, V745.5, p469
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 李杲
+**** responsible: 
+***** 李杲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1180 - 1251
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0051.org][ZB3e0051]] 此事難知
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王好古
+:SOURCE:   四庫全書 文淵閣版, V745.6, p573
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 王好古
+**** responsible: 
+***** 王好古
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0052.org][ZB3e0052]] 醫壘元戎
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王好古
+:SOURCE:   四庫全書 文淵閣版, V745.7, p631
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 王好古
+**** responsible: 
+***** 王好古
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0053.org][ZB3e0053]] 湯液本章
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王好古
+:SOURCE:   四庫全書 文淵閣版, V745.8, p909
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 王好古
+**** responsible: 
+***** 王好古
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0054.org][ZB3e0054]] 瑞竹堂經驗方
