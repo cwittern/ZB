@@ -5443,81 +5443,136 @@
 *** [[mandoku:ZB3f0042.org][ZB3f0042]] 數學九章
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 秦九韶
+:SOURCE:   四庫全書 文淵閣版, V797.10, p323
+:EXTENT: 18 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 秦九韶
+**** responsible: 
+***** 秦九韶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1247
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0043.org][ZB3f0043]] 測圓海鏡
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李治
+:SOURCE:   四庫全書 文淵閣版, V798.1, p1
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 李治
+**** responsible: 
+***** 李治
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1192 - 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0044.org][ZB3f0044]] 測圓海鏡分類釋術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 顧應祥
+:SOURCE:   四庫全書 文淵閣版, V798.2, p127
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 顧應祥
+**** responsible: 
+***** 李治
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1192 - 1279
+      :END:
+
+***** 顧應祥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 釋術
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0045.org][ZB3f0045]] 益古演段
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李治
+:SOURCE:   四庫全書 文淵閣版, V798.3, p243
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 李治
+**** responsible: 
+***** 李治
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1192 - 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0046.org][ZB3f0046]] 弧矢筭術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 顧應祥
+:SOURCE:   四庫全書 文淵閣版, V798.4, p305
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 顧應祥
+**** responsible: 
+***** 顧應祥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1483 - 1565
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3f0046a.org][ZB3f0046a]] 算書之屬
-*** [[mandoku:ZB3f0047.org][ZB3f0047]] 同文算指前編
+*** [[mandoku:ZB3f0047.org][ZB3f0047]] 同文算指
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明西洋
-:RESP: 利瑪竇
+:SOURCE:   四庫全書 文淵閣版, V798.5, p339
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明西洋
-**** responsible: 利瑪竇
+**** responsible: 
+***** 李之藻
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 演
+      :DATES:    1565 - 1630
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3f0047a.org][ZB3f0047a]] 同文算指__前編
-*** [[mandoku:ZB3f0047b.org][ZB3f0047b]] 同文算指__通編
 *** [[mandoku:ZB3f0048.org][ZB3f0048]] 幾何原本
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明西洋
-:RESP: 利瑪竇
+:SOURCE:   四庫全書 文淵閣版, V798.6, p563
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明西洋
-**** responsible: 利瑪竇
+**** responsible: 
+***** 西洋歐几里得
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
+***** 西洋利瑪竇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 譯
+      :END:
+
+***** 徐光啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 筆受
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3f0049.org][ZB3f0049]] 御製數理精薀上編
