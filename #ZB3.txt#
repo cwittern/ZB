@@ -4252,89 +4252,133 @@
 *** [[mandoku:ZB3e0072.org][ZB3e0072]] 赤水元珠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫一奎
+:SOURCE:   四庫全書 文淵閣版, V766.1, p1
+:EXTENT: 30 卷
+:BOOK:   30
 :END:
-**** dynasty: 明
-**** responsible: 孫一奎
+**** responsible: 
+***** 孫一奎
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0073.org][ZB3e0073]] 醫旨緒餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫一奎
+:SOURCE:   四庫全書 文淵閣版, V766.2, p1079
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 孫一奎
+**** responsible: 
+***** 孫一奎
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0074.org][ZB3e0074]] 證治準繩
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王肯堂
+:SOURCE:   四庫全書 文淵閣版, V767 - 771.1, p1
+:EXTENT: 120 卷
+:BOOK:   120
 :END:
-**** dynasty: 明
-**** responsible: 王肯堂
+**** responsible: 
+***** 王肯堂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0075.org][ZB3e0075]] 本草綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李時珍
+:SOURCE:   四庫全書 文淵閣版, V772 - 774.1, p1
+:EXTENT: 52 + 9 卷
+:BOOK:   64
 :END:
-**** dynasty: 明
-**** responsible: 李時珍
+**** responsible: 
+***** 李時珍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1518 - 1593
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0076.org][ZB3e0076]] 奇經八脉攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李時珍
+:SOURCE:   四庫全書 文淵閣版, V774.2, p549
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 李時珍
+**** responsible: 
+***** 李時珍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1518 - 1593
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0077.org][ZB3e0077]] 瀕湖脉學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李時珍
+:SOURCE:   四庫全書 文淵閣版, V774.3, p571
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 李時珍
+**** responsible: 
+***** 李時珍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1518 - 1593
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0078.org][ZB3e0078]] 傷寒論條辦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 方有執
+:SOURCE:   四庫全書 文淵閣版, V775.1, p1
+:EXTENT: 8 + 1 + 1 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 方有執
+**** responsible: 
+***** 方有執
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0079.org][ZB3e0079]] 先醒齋廣筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 繆希雍
+:SOURCE:   四庫全書 文淵閣版, V775.2, p159
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 繆希雍
+**** responsible: 
+***** 繆希雍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0080.org][ZB3e0080]] 神農本草經疏
