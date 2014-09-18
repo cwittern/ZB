@@ -4223,22 +4223,30 @@
 *** [[mandoku:ZB3e0071.org][ZB3e0071]] 名醫類案
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0071
-:SOURCE:   四庫全書 文淵閣版, V765.4, p325
-:EXTENT: 3 + 1 卷
-:BOOK:   4
+:SOURCE:   四庫全書 文淵閣版, V765.5, p411
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
 **** responsible: 
-***** 陳桷
+***** 江瓘
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 編
+      :DATES:    1503 - 1565
       :END:
 
-:DYNASTY: 明
-:RESP: 江瓘
-:END:
-**** dynasty: 明
-**** responsible: 江瓘
+***** 江應宿
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增補
+      :END:
+
+***** 魏之琇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考證
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3e0072.org][ZB3e0072]] 赤水元珠
