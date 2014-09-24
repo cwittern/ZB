@@ -5843,41 +5843,69 @@
 *** [[mandoku:ZB3g0007.org][ZB3g0007]] 皇極經世索引
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張行成
+:SOURCE:   四庫全書 文淵閣版, V804.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張行成
+**** responsible: 
+***** 張行成
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1132
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0008.org][ZB3g0008]] 皇極經世觀物外篇衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張行成
+:SOURCE:   四庫全書 文淵閣版, V804.2, p37
+:EXTENT: 9 卷
+:BOOK:   48
 :END:
-**** dynasty: 宋
-**** responsible: 張行成
+**** responsible: 
+***** 張行成
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1132
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0009.org][ZB3g0009]] 易通變
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張行成
+:SOURCE:   四庫全書 文淵閣版, V804.3, p197
+:EXTENT: 40 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 張行成
+**** responsible: 
+***** 張行成
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1132
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3g0009a.org][ZB3g0009a]] 數學之屬
 *** [[mandoku:ZB3g0010.org][ZB3g0010]] 觀物篇解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V805.1, p1
+:EXTENT: 5 + 3 卷
+:BOOK:   5 + 1
+:END:
+**** responsible: 
+***** 張行成
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1132
+      :END:
+
 :DYNASTY: 宋
 :RESP: 祝泌
 :END:
