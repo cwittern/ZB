@@ -5971,10 +5971,11 @@
       :FUNCTION: 撰
       :END:
 
-***** 鮑寧辨
+***** 鮑寧
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 正
+      :FUNCTION: 辨正
+      :FUNCTION: 撰
       :END:
 
 **** textual witnesses
@@ -5982,28 +5983,33 @@
 *** [[mandoku:ZB3g0015.org][ZB3g0015]] 大衍索隱
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0015
-:SOURCE:   四庫全書 文淵閣版, V806.2, p1
-:EXTENT: 5 + 1 + 1 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V806.2, p313
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
 **** responsible: 
-***** 鮑雲龍
+***** 丁易東
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 丁易東
-:END:
-**** dynasty: 宋
-**** responsible: 丁易東
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3g0016.org][ZB3g0016]] 易象圖說內篇
+*** [[mandoku:ZB3g0016.org][ZB3g0016]] 易象圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0016
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V806.3, p371
+:EXTENT: 3 + 3 卷
+:BOOK:   1 + 1
+:END:
+**** responsible: 
+***** 張理
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 張理
 :END:
