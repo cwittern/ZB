@@ -6593,45 +6593,79 @@
 *** [[mandoku:ZB3g0049.org][ZB3g0049]] 遁甲演義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 程道生
+:SOURCE:   四庫全書 文淵閣版, V810.7, p921
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 程道生
+**** responsible: 
+***** 程道生
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0050.org][ZB3g0050]] 禽星易見
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 池本理
+:SOURCE:   四庫全書 文淵閣版, V810.8, p999
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 池本理
+**** responsible: 
+***** 池本理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0051.org][ZB3g0051]] 御定星歷考原
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V811.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible: 
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0052.org][ZB3g0052]] 欽定協紀辨方書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V811.2, p109
+:EXTENT: 36 + 1 卷
+:BOOK:   36
 :END:
-**** dynasty: 清乾隆四年
-**** responsible: 敕撰
+**** responsible: 
+***** 允祿
+      :PROPERTIES:
+      :DYNASTY:  清乾隆四年
+      :FUNCTION: 奉敕撰
+      :DATES:    1695 - 1767
+      :END:
+
+***** 梅㲄成
+      :PROPERTIES:
+      :DYNASTY:  清乾隆四年
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 何國宗
+      :PROPERTIES:
+      :DYNASTY:  清乾隆四年
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3h 藝術類
