@@ -7742,40 +7742,73 @@
 *** [[mandoku:ZB3h0061.org][ZB3h0061]] 石渠寶笈
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V824 - 825.1, p1
+:EXTENT: 44 卷
+:BOOK:   28
 :END:
-**** dynasty: 清乾隆九年
-**** responsible: 敕撰
+**** responsible: 
+***** 張照
+      :PROPERTIES:
+      :DYNASTY:  清乾隆九年
+      :FUNCTION: 奉敕撰
+      :DATES:    1691 - 1745
+      :END:
+
+***** 詩正
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0062.org][ZB3h0062]] 庚子銷夏記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫承澤
+:SOURCE:   四庫全書 文淵閣版, V826.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 孫承澤
+**** responsible: 
+***** 孫承澤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1592 - 1676
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0063.org][ZB3h0063]] 繪事備考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王毓賢
+:SOURCE:   四庫全書 文淵閣版, V826.2, p101
+:EXTENT: 8 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 王毓賢
+**** responsible: 
+***** 王毓賢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0064.org][ZB3h0064]] 書法正傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0064
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V826.4, p321
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** responsible: 
+***** 王毓賢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 馮武
 :END:

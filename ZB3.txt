@@ -7617,101 +7617,166 @@
 *** [[mandoku:ZB3h0055.org][ZB3h0055]] 眞蹟日錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張丑
+:SOURCE:   四庫全書 文淵閣版, V817.2, p511
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 張丑
+**** responsible: 
+***** 張丑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1577 - 1635
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0056.org][ZB3h0056]] 清河書畫表
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張丑
+:SOURCE:   四庫全書 文淵閣版, V817.3, p607
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 張丑
+**** responsible: 
+***** 張丑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1577 - 1635
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0056a.org][ZB3h0056a]] 清河書畫表
 *** [[mandoku:ZB3h0056a.org][ZB3h0056a]] 書畫見聞表
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0056a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP:  張丑 
+:SOURCE:   四庫全書 文淵閣版, V817.4, p613
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 明
-**** responsible:  張丑 
+**** responsible: 
+***** 張丑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1577 - 1635
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0057.org][ZB3h0057]] 南陽書畫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張丑
+:SOURCE:   四庫全書 文淵閣版, V817.5, p619
+:EXTENT: 2 + 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 張丑
+**** responsible: 
+***** 張丑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1577 - 1635
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0058.org][ZB3h0058]] 珊瑚網
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 汪砢玉
+:SOURCE:   四庫全書 文淵閣版, V818.1, p1
+:EXTENT: 48 卷
+:BOOK:   24
 :END:
-**** dynasty: 明
-**** responsible: 汪砢玉
+**** responsible: 
+***** 汪砢玉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1587 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0059.org][ZB3h0059]] 御定佩文齋書畫譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清康熙四十七年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V819 - 823.1, p1
+:EXTENT: 100 + 1 + 1 卷
+:BOOK:   96
 :END:
-**** dynasty: 清康熙四十七年
-**** responsible: 敕撰
+**** responsible: 
+***** 孫岳頒
+      :PROPERTIES:
+      :DYNASTY:  清康熙四十七年
+      :FUNCTION: 奉敕撰
+      :DATES:    b. 1639
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0060.org][ZB3h0060]] 祕殿珠林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V823.1, p443
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
-**** dynasty: 清乾隆九年
-**** responsible: 敕撰
+**** responsible: 
+***** 張照
+      :PROPERTIES:
+      :DYNASTY:  清乾隆九年
+      :FUNCTION: 奉敕撰
+      :DATES:    1691 - 1745
+      :END:
+
+***** 詩正
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0061.org][ZB3h0061]] 石渠寶笈
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V824 - 825.1, p1
+:EXTENT: 44 卷
+:BOOK:   28
 :END:
-**** dynasty: 清乾隆九年
-**** responsible: 敕撰
+**** responsible: 
+***** 張照
+      :PROPERTIES:
+      :DYNASTY:  清乾隆九年
+      :FUNCTION: 奉敕撰
+      :DATES:    1691 - 1745
+      :END:
+
+***** 詩正
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0062.org][ZB3h0062]] 庚子銷夏記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫承澤
+:SOURCE:   四庫全書 文淵閣版, V826.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 孫承澤
+**** responsible: 
+***** 孫承澤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1592 - 1676
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0063.org][ZB3h0063]] 繪事備考
