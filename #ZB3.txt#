@@ -6177,45 +6177,73 @@
 *** [[mandoku:ZB3g0026.org][ZB3g0026]] 靈城精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 何溥
+:SOURCE:   四庫全書 文淵閣版, V808.7, p113
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 南唐
-**** responsible: 何溥
+**** responsible: 
+***** 何溥
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0027.org][ZB3g0027]] 催官篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 賴文俊
+:SOURCE:   四庫全書 文淵閣版, V808.8, p153
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 賴文俊
+**** responsible: 
+***** 賴文俊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0028.org][ZB3g0028]] 發微論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡元定
+:SOURCE:   四庫全書 文淵閣版, V808.9, p189
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蔡元定
+**** responsible: 
+***** 蔡元定
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1135 - 1198
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0029.org][ZB3g0029]] 靈棋經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 東方朔
+:SOURCE:   四庫全書 文淵閣版, V808.10, p197
+:EXTENT: 2 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 東方朔
+**** responsible: 
+***** 東方朔
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -154 - -93
+      :END:
+
+***** 劉基
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0030.org][ZB3g0030]] 焦氏易林

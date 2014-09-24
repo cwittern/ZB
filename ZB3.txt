@@ -6127,67 +6127,100 @@
 *** [[mandoku:ZB3g0023.org][ZB3g0023]] 青囊序
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 曾文辿
+:SOURCE:   四庫全書 文淵閣版, V808.4, p83
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 曾文辿
+**** responsible: 
+***** 曾文辿
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0024.org][ZB3g0024]] 青囊奧語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 楊益
+:SOURCE:   四庫全書 文淵閣版, V808.5, p89
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 唐
-**** responsible: 楊益
+**** responsible: 
+***** 楊筠松
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 874 - 888
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0025.org][ZB3g0025]] 天玉經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 楊益
+:SOURCE:   四庫全書 文淵閣版, V808.6, p91
+:EXTENT: 3 + 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 唐
-**** responsible: 楊益
+**** responsible: 
+***** 楊筠松
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 874 - 888
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0026.org][ZB3g0026]] 靈城精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 何溥
+:SOURCE:   四庫全書 文淵閣版, V808.7, p113
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 南唐
-**** responsible: 何溥
+**** responsible: 
+***** 何溥
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0027.org][ZB3g0027]] 催官篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 賴文俊
+:SOURCE:   四庫全書 文淵閣版, V808.8, p153
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 賴文俊
+**** responsible: 
+***** 賴文俊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0028.org][ZB3g0028]] 發微論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡元定
+:SOURCE:   四庫全書 文淵閣版, V808.9, p189
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蔡元定
+**** responsible: 
+***** 蔡元定
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1135 - 1198
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0029.org][ZB3g0029]] 靈棋經
