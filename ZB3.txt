@@ -6473,78 +6473,121 @@
 *** [[mandoku:ZB3g0042.org][ZB3g0042]] 星學大成
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 萬民英
+:SOURCE:   四庫全書 文淵閣版, V809.9, p285
+:EXTENT: 30 卷
+:BOOK:   22
 :END:
-**** dynasty: 明
-**** responsible: 萬民英
+**** responsible: 
+***** 萬民英
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0043.org][ZB3g0043]] 三命通會
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 萬民英
+:SOURCE:   四庫全書 文淵閣版, V810.1, p1
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 萬民英
+**** responsible: 
+***** 萬民英
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0044.org][ZB3g0044]] 月波洞中記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V810.2, p693
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0045.org][ZB3g0045]] 玉管照神局
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 宋齊邱
+:SOURCE:   四庫全書 文淵閣版, V810.3, p713
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 南唐
-**** responsible: 宋齊邱
+**** responsible: 
+***** 宋齊邱
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    d. 959
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0046.org][ZB3g0046]] 太清神鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後周
-:RESP: 王朴
+:SOURCE:   四庫全書 文淵閣版, V810.4, p759
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 後周
-**** responsible: 王朴
+**** responsible: 
+***** 王朴
+      :PROPERTIES:
+      :DYNASTY:  後周
+      :FUNCTION: 撰
+      :DATES:    d. 959
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0047.org][ZB3g0047]] 人倫大統賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 張行簡
+:SOURCE:   四庫全書 文淵閣版, V810.5, p813
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 金
-**** responsible: 張行簡
+**** responsible: 
+***** 張行簡
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :DATES:    1146 - 1215
+      :END:
+
+***** 薛延年
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0048.org][ZB3g0048]] 太乙金鏡式經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王希明
+:SOURCE:   四庫全書 文淵閣版, V810.6, p855
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 王希明
+**** responsible: 
+***** 王希明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0049.org][ZB3g0049]] 遁甲演義
