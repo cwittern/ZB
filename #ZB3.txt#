@@ -6249,51 +6249,95 @@
 *** [[mandoku:ZB3g0030.org][ZB3g0030]] 焦氏易林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 焦贛
+:SOURCE:   四庫全書 文淵閣版, V808.11, p269
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 焦贛
+**** responsible: 
+***** 焦贛
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0031.org][ZB3g0031]] 京氏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 京房
+:SOURCE:   四庫全書 文淵閣版, V808.12, p439
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 京房
+**** responsible: 
+***** 京房
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -77 - -37
+      :END:
+
+***** 陸績
+      :PROPERTIES:
+      :DYNASTY:  吳
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0032.org][ZB3g0032]] 六壬大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 郭載騋
+:SOURCE:   四庫全書 文淵閣版, V808.13, p471
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 郭載騋
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
+***** 郭載騋
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 校訂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0033.org][ZB3g0033]] 卜法詳考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡煦
+:SOURCE:   四庫全書 文淵閣版, V808.14, p849
+:EXTENT: 8 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 胡煦
+**** responsible: 
+***** 胡煦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1655 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0034.org][ZB3g0034]] 李虛中命書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0034
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V809.1, p849
+:EXTENT: 8 卷
+:BOOK:   5
+:END:
+**** responsible: 
+***** 胡煦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1655 - 1736
+      :END:
+
 :DYNASTY: 唐
 :RESP: 李虛中
 :END:
