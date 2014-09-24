@@ -5899,68 +5899,100 @@
 :BOOK:   5 + 1
 :END:
 **** responsible: 
-***** 張行成
+***** 祝泌
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1132
+      :DATES:    1274
       :END:
 
-:DYNASTY: 宋
-:RESP: 祝泌
-:END:
-**** dynasty: 宋
-**** responsible: 祝泌
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0011.org][ZB3g0011]] 皇極經世書解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王植
+:SOURCE:   四庫全書 文淵閣版, V805.2, p245
+:EXTENT: 14 + 2 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 王植
+**** responsible: 
+***** 王植
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0012.org][ZB3g0012]] 易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王湜
+:SOURCE:   四庫全書 文淵閣版, V805.3, p667
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王湜
+**** responsible: 
+***** 王湜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0013.org][ZB3g0013]] 洪範皇極內篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡沈
+:SOURCE:   四庫全書 文淵閣版, V805.4, p697
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 蔡沈
+**** responsible: 
+***** 蔡沈
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1167 - 1230
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0014.org][ZB3g0014]] 天原發微
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鮑雲龍
+:SOURCE:   四庫全書 文淵閣版, V806.1, p1
+:EXTENT: 5 + 1 + 1 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 鮑雲龍
+**** responsible: 
+***** 鮑雲龍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 鮑寧辨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 正
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0015.org][ZB3g0015]] 大衍索隱
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0015
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V806.2, p1
+:EXTENT: 5 + 1 + 1 卷
+:BOOK:   12
+:END:
+**** responsible: 
+***** 鮑雲龍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 丁易東
 :END:
