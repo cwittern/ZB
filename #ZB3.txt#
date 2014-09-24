@@ -6778,62 +6778,84 @@
 :BOOK:   1
 :END:
 **** responsible: 
-***** 竇臮
+***** 竇[自/豕]
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
       :END:
 
-***** 竇臮
+***** 竇蒙
       :PROPERTIES:
       :DYNASTY:  唐
-      :FUNCTION: 撰
+      :FUNCTION: 注
       :END:
 
-:DYNASTY: 唐
-:RESP: 竇臮
-:END:
-**** dynasty: 唐
-**** responsible: 竇臮
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0008.org][ZB3h0008]] 法書要錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張彥遠
+:SOURCE:   四庫全書 文淵閣版, V812.8, p101
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 張彥遠
+**** responsible: 
+***** 張彥遠
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    9th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0009.org][ZB3h0009]] 歷代名畫記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張彥遠
+:SOURCE:   四庫全書 文淵閣版, V812.9, p277
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 張彥遠
+**** responsible: 
+***** 張彥遠
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    9th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0010.org][ZB3h0010]] 唐朝名畫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 朱景玄
+:SOURCE:   四庫全書 文淵閣版, V812.10, p357
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 朱景玄
+**** responsible: 
+***** 朱景玄
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0011.org][ZB3h0011]] 墨藪
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V812.11, p375
+:EXTENT: 2 +1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 朱景玄
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 韋續
 :RESP: 
 :END:
