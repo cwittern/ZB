@@ -7782,34 +7782,50 @@
 *** [[mandoku:ZB3h0063.org][ZB3h0063]] 繪事備考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王毓賢
+:SOURCE:   四庫全書 文淵閣版, V826.2, p101
+:EXTENT: 8 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 王毓賢
+**** responsible: 
+***** 王毓賢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0064.org][ZB3h0064]] 書法正傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 馮武
+:SOURCE:   四庫全書 文淵閣版, V826.4, p321
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 馮武
+**** responsible: 
+***** 馮武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0065.org][ZB3h0065]] 江村銷夏錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高士奇
+:SOURCE:   四庫全書 文淵閣版, V826.5, p467
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 高士奇
+**** responsible: 
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0066.org][ZB3h0066]] 書畫彙考

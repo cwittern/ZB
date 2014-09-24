@@ -7803,56 +7803,80 @@
 :BOOK:   4
 :END:
 **** responsible: 
-***** 王毓賢
+***** 馮武
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 清
-:RESP: 馮武
-:END:
-**** dynasty: 清
-**** responsible: 馮武
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0065.org][ZB3h0065]] 江村銷夏錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高士奇
+:SOURCE:   四庫全書 文淵閣版, V826.5, p467
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 高士奇
+**** responsible: 
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0066.org][ZB3h0066]] 書畫彙考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 卞永譽
+:SOURCE:   四庫全書 文淵閣版, V827 - 829.1, p1
+:EXTENT: 60 卷
+:BOOK:   58
 :END:
-**** dynasty: 清
-**** responsible: 卞永譽
+**** responsible: 
+***** 卞永譽
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1706
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0067.org][ZB3h0067]] 南宋院畫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 厲鶚
+:SOURCE:   四庫全書 文淵閣版, V829.1, p541
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 厲鶚
+**** responsible: 
+***** 厲鶚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0068.org][ZB3h0068]] 六藝之一錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0068
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V830 - 838.1, p1
+:EXTENT: 406 + 14  卷
+:BOOK:   167
+:END:
+**** responsible: 
+***** 倪濤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 :DYNASTY: 清
 :RESP: 倪濤
 :END:
