@@ -6846,115 +6846,160 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0011
 :SOURCE:   四庫全書 文淵閣版, V812.11, p375
-:EXTENT: 2 +1 卷
-:BOOK:   1
+:EXTENT: 2 + 1 卷
+:BOOK:   2
 :END:
 **** responsible: 
-***** 朱景玄
+***** 韋續
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 韋續
-:RESP: 
-:END:
-**** dynasty: 韋續
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3h0012.org][ZB3h0012]] 法帖音釋刊誤
-:PROPERTIES:
-:CUSTOM_ID:  ZB3h0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳與義
-:END:
-**** dynasty: 宋
-**** responsible: 陳與義
+***** 陳與義
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0013.org][ZB3h0013]] 畫山水賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 荊浩
+:SOURCE:   四庫全書 文淵閣版, V812.12, p421
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 荊浩
+**** responsible: 
+***** 荊浩
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0013a.org][ZB3h0013a]] 畫山水賦__筆法記
 *** [[mandoku:ZB3h0014.org][ZB3h0014]] 思陵翰墨志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高宗趙構
+:SOURCE:   四庫全書 文淵閣版, V812.13, p427
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 高宗趙構
+**** responsible: 
+***** 高宗趙構
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 御撰
+      :DATES:    1107 - 1187
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0015.org][ZB3h0015]] 五代名畫補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉道醇
+:SOURCE:   四庫全書 文淵閣版, V812.14, p433
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉道醇
+**** responsible: 
+***** 劉道醇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0016.org][ZB3h0016]] 宋朝名畫評
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉道醇
+:SOURCE:   四庫全書 文淵閣版, V812.15, p445
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉道醇
+**** responsible: 
+***** 劉道醇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0017.org][ZB3h0017]] 益州名畫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃休復
+:SOURCE:   四庫全書 文淵閣版, V812.16, p477
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 黃休復
+**** responsible: 
+***** 黃休復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1006
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0018.org][ZB3h0018]] 圖畫見聞誌
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭若虛
+:SOURCE:   四庫全書 文淵閣版, V812.16, p507
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 郭若虛
+**** responsible: 
+***** 郭若虛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1070 - 1075
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0019.org][ZB3h0019]] 林泉高致集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭熙
+:SOURCE:   四庫全書 文淵閣版, V812.17, p571
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 郭熙
+**** responsible: 
+***** 郭熙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 郭思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0020.org][ZB3h0020]] 墨池編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0020
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V812.18, p595
+:EXTENT: 6 卷
+:BOOK:   6
+:END:
+**** responsible: 
+***** 郭熙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱長文
 :END:
