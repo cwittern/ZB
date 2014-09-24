@@ -7382,29 +7382,46 @@
       :DATES:    1458 - 1525
       :END:
 
-:DYNASTY: 明
-:RESP: 都穆
-:END:
-**** dynasty: 明
-**** responsible: 都穆
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0042.org][ZB3h0042]] 書史會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陶宗儀
+:SOURCE:   四庫全書 文淵閣版, V814.10, p645
+:EXTENT: 9 + 1 + 1 卷
+:BOOK:   2 + 1
 :END:
-**** dynasty: 明
-**** responsible: 陶宗儀
+**** responsible: 
+***** 陶宗儀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1360 - 1368
+      :END:
+
+***** 朱謀垔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0042a.org][ZB3h0042a]] 書史會要__續書史會要
 *** [[mandoku:ZB3h0043.org][ZB3h0043]] 珊瑚木難
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V815.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
+:END:
+**** responsible: 
+***** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1360 - 1368
+      :END:
+
 :DYNASTY: 明
 :RESP: 朱存理
 :END:
