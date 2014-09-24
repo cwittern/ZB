@@ -7399,54 +7399,88 @@
       :DATES:    fl. 1360 - 1368
       :END:
 
+***** 朱謀垔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0042a.org][ZB3h0042a]] 書史會要__續書史會要
 *** [[mandoku:ZB3h0043.org][ZB3h0043]] 珊瑚木難
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱存理
+:SOURCE:   四庫全書 文淵閣版, V815.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 朱存理
+**** responsible: 
+***** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444 - 1513
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0044.org][ZB3h0044]] 趙氏鐵綱珊瑚
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙琦美
+:SOURCE:   四庫全書 文淵閣版, V815.2, p263
+:EXTENT: 16 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 趙琦美
+**** responsible: 
+***** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444 - 1513
+      :END:
+
+***** 趙琦美
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0045.org][ZB3h0045]] 墨池璅錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V816.1, p1
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible: 
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0046.org][ZB3h0046]] 書畫跋跋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫鑛
+:SOURCE:   四庫全書 文淵閣版, V816.2, p15
+:EXTENT: 3 + 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 孫鑛
+**** responsible: 
+***** 孫鑛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0046a.org][ZB3h0046a]] 書畫跋跋__續
 *** [[mandoku:ZB3h0047.org][ZB3h0047]] 書訣
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0047
