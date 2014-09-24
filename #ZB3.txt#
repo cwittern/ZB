@@ -7874,76 +7874,108 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1692 - 1752
+      :DATES:    18th cent
       :END:
 
-:DYNASTY: 清
-:RESP: 倪濤
-:END:
-**** dynasty: 清
-**** responsible: 倪濤
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0068a.org][ZB3h0068a]] 六藝之一錄續編
 *** [[mandoku:ZB3h0069.org][ZB3h0069]] 小山畫譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄒一桂
+:SOURCE:   四庫全書 文淵閣版, V838.1, p701
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 鄒一桂
+**** responsible: 
+***** 鄒一桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1686 - 1772
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0070.org][ZB3h0070]] 傳神祕要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣驥
+:SOURCE:   四庫全書 文淵閣版, V838.2, p741
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 清
-**** responsible: 蔣驥
+**** responsible: 
+***** 蔣驥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1707 - 1727
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0071.org][ZB3h0071]] 琴史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱長文
+:SOURCE:   四庫全書 文淵閣版, V839.1, p1
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱長文
+**** responsible: 
+***** 朱長文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1041 - 1100
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0072.org][ZB3h0072]] 松絃館琴譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 嚴澂
+:SOURCE:   四庫全書 文淵閣版, V839.2, p71
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 嚴澂
+**** responsible: 
+***** 嚴澂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0073.org][ZB3h0073]] 松風閣琴譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 程雄
+:SOURCE:   四庫全書 文淵閣版, V839.3, p139
+:EXTENT: 2 + 1 + 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 清
-**** responsible: 程雄
+**** responsible: 
+***** 程雄
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0074.org][ZB3h0074]] 琴譜合璧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0074
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V839.4, p179
+:EXTENT: 18 卷
+:BOOK:   18
+:END:
+**** responsible: 
+***** 楊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 和素
 :END:

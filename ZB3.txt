@@ -7831,57 +7831,86 @@
 *** [[mandoku:ZB3h0066.org][ZB3h0066]] 書畫彙考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 卞永譽
+:SOURCE:   四庫全書 文淵閣版, V827 - 829.1, p1
+:EXTENT: 60 卷
+:BOOK:   58
 :END:
-**** dynasty: 清
-**** responsible: 卞永譽
+**** responsible: 
+***** 卞永譽
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1706
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0067.org][ZB3h0067]] 南宋院畫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 厲鶚
+:SOURCE:   四庫全書 文淵閣版, V829.1, p541
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 厲鶚
+**** responsible: 
+***** 厲鶚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0068.org][ZB3h0068]] 六藝之一錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 倪濤
+:SOURCE:   四庫全書 文淵閣版, V830 - 838.1, p1
+:EXTENT: 406 + 14  卷
+:BOOK:   167
 :END:
-**** dynasty: 清
-**** responsible: 倪濤
+**** responsible: 
+***** 倪濤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    18th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0068a.org][ZB3h0068a]] 六藝之一錄續編
 *** [[mandoku:ZB3h0069.org][ZB3h0069]] 小山畫譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄒一桂
+:SOURCE:   四庫全書 文淵閣版, V838.1, p701
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 鄒一桂
+**** responsible: 
+***** 鄒一桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1686 - 1772
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0070.org][ZB3h0070]] 傳神祕要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣驥
+:SOURCE:   四庫全書 文淵閣版, V838.2, p741
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 清
-**** responsible: 蔣驥
+**** responsible: 
+***** 蔣驥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1707 - 1727
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0071.org][ZB3h0071]] 琴史
