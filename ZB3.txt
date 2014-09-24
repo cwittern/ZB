@@ -7484,90 +7484,134 @@
 *** [[mandoku:ZB3h0047.org][ZB3h0047]] 書訣
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 豐坊
+:SOURCE:   四庫全書 文淵閣版, V816.3, p153
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 豐坊
+**** responsible: 
+***** 豐坊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1523
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0048.org][ZB3h0048]] 繪事微言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 唐志契
+:SOURCE:   四庫全書 文淵閣版, V816.4, p189
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 唐志契
+**** responsible: 
+***** 唐志契
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0049.org][ZB3h0049]] 書法雅言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 項穆
+:SOURCE:   四庫全書 文淵閣版, V816.5, p243
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 項穆
+**** responsible: 
+***** 項穆
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    16th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0050.org][ZB3h0050]] 寒山帚談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙宧光
+:SOURCE:   四庫全書 文淵閣版, V816.6, p263
+:EXTENT: 2 + 1 + 1 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 趙宧光
+**** responsible: 
+***** 趙宧光
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1559 - 1625
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0051.org][ZB3h0051]] 書法離鈎
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘之淙
+:SOURCE:   四庫全書 文淵閣版, V816.7, p335
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 潘之淙
+**** responsible: 
+***** 潘之淙
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0052.org][ZB3h0052]] 畫史會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱謀垔
+:SOURCE:   四庫全書 文淵閣版, V816.8, p403
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 朱謀垔
+**** responsible: 
+***** 朱謀垔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0053.org][ZB3h0053]] 書畫題跋記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 郁逢慶
+:SOURCE:   四庫全書 文淵閣版, V816.9, p587
+:EXTENT: 12 + 12 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 郁逢慶
+**** responsible: 
+***** 郁逢慶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0053a.org][ZB3h0053a]] 書畫題跋記__續題跋記
 *** [[mandoku:ZB3h0054.org][ZB3h0054]] 清河書畫舫
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張丑
+:SOURCE:   四庫全書 文淵閣版, V817.1, p1
+:EXTENT: 12 卷
+:BOOK:   20
 :END:
-**** dynasty: 明
-**** responsible: 張丑
+**** responsible: 
+***** 張丑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1577 - 1635
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0055.org][ZB3h0055]] 眞蹟日錄
