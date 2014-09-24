@@ -8172,49 +8172,74 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0086
 :SOURCE:   四庫全書 文淵閣版, V840.6, p1019
-:EXTENT: 30 卷
-:BOOK:   18
+:EXTENT: 8 + 1 卷
+:BOOK:   2
 :END:
 **** responsible: 
-***** 王黼
+***** 呂震
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    d. 1126
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    fl. 1386 - 1428
       :END:
 
-:DYNASTY: 明
-:RESP: 呂震
-:END:
-**** dynasty: 明
-**** responsible: 呂震
+***** 項于汴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0086a.org][ZB3h0086a]] 宣德鼎彝譜__宣爐博論
 *** [[mandoku:ZB3h0087.org][ZB3h0087]] 西清古鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十四年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V841 - 842.1, p1
+:EXTENT: 40 卷
+:BOOK:   28
 :END:
-**** dynasty: 清乾隆十四年
-**** responsible: 敕撰
+**** responsible: 
+***** 梁詩正
+      :PROPERTIES:
+      :DYNASTY:  清乾隆十四年
+      :FUNCTION: 奉敕撰
+      :DATES:    1697 - 1763
+      :END:
+
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清乾隆十四年
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3i 譜錄類
 *** [[mandoku:ZB3i0001.org][ZB3i0001]] 奇器圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋鄧玉函
+:SOURCE:   四庫全書 文淵閣版, V842.1, p407
+:EXTENT: 3 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 西洋鄧玉函
+**** responsible: 
+***** 西洋鄧玉函
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1576 - 1630
+      :END:
+
+***** 王徴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 譯
+      :FUNCTION: 撰
+      :DATES:    1571 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3i0001a.org][ZB3i0001a]] 奇器圖說__諸器圖說
 *** [[mandoku:ZB3i0002.org][ZB3i0002]] 文房四譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0002
