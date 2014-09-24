@@ -7356,21 +7356,32 @@
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    fl. 1
+      :DATES:    fl. 1365
       :END:
 
-:DYNASTY: 元
-:RESP: 夏文彥
-:END:
-**** dynasty: 元
-**** responsible: 夏文彥
+***** 韓昂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3h0040a.org][ZB3h0040a]] 圖繪寶鑑__續編
 *** [[mandoku:ZB3h0041.org][ZB3h0041]] 寓意編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0041
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V814.9, p635
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 都穆
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1458 - 1525
+      :END:
+
 :DYNASTY: 明
 :RESP: 都穆
 :END:
