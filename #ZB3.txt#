@@ -7200,108 +7200,165 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    ca. 1127 - ca. 1167
+      :DATES:    ca. 1155 - ca. 1235
       :END:
 
-:DYNASTY: 宋
-:RESP: 姜夔
-:END:
-**** dynasty: 宋
-**** responsible: 姜夔
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0032.org][ZB3h0032]] 寶眞齋法書贊
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嶽珂
+:SOURCE:   四庫全書 文淵閣版, V813.11, p563
+:EXTENT: 28 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 嶽珂
+**** responsible: 
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1173? - ca. 1240
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0033.org][ZB3h0033]] 書苑菁華
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳思
+:SOURCE:   四庫全書 文淵閣版, V814.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 陳思
+**** responsible: 
+***** 陳思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1259
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0034.org][ZB3h0034]] 書小史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳思
+:SOURCE:   四庫全書 文淵閣版, V814.2, p205
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 陳思
+**** responsible: 
+***** 陳思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1259
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0035.org][ZB3h0035]] 書錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董史
+:SOURCE:   四庫全書 文淵閣版, V814.3, p283
+:EXTENT: 3 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 董史
+**** responsible: 
+***** 董更
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0036.org][ZB3h0036]] 竹譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李衎
+:SOURCE:   四庫全書 文淵閣版, V814.4, p317
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 李衎
+**** responsible: 
+***** 李衎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1245 - 1320
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0037.org][ZB3h0037]] 畫鑒
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 湯垕
+:SOURCE:   四庫全書 文淵閣版, V814.5, p419
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 湯垕
+**** responsible: 
+***** 湯垕
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1322
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0038.org][ZB3h0038]] 衍極
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 鄭枃
+:SOURCE:   四庫全書 文淵閣版, V814.6, p441
+:EXTENT: 2 +  卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 鄭枃
+**** responsible: 
+***** 鄭枃
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+***** 劉有
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 定註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0039.org][ZB3h0039]] 法書考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 盛熙明
+:SOURCE:   四庫全書 文淵閣版, V814.7, p477
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 盛熙明
+**** responsible: 
+***** 盛熙明
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3h0040.org][ZB3h0040]] 圖繪寶鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0040
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V814.8, p541
+:EXTENT: 5 + 1 卷
+:BOOK:   4
+:END:
+**** responsible: 
+***** 夏文彥
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1
+      :END:
+
 :DYNASTY: 元
 :RESP: 夏文彥
 :END:
