@@ -6386,56 +6386,88 @@
 *** [[mandoku:ZB3g0037.org][ZB3g0037]] 珞琭子賦註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋曇瑩
+:SOURCE:   四庫全書 文淵閣版, V809.4, p105
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋曇瑩
+**** responsible: 
+***** 釋曇瑩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1127
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0038.org][ZB3g0038]] 珞琭子三命消息賦註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐子平
+:SOURCE:   四庫全書 文淵閣版, V809.5, p157
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 徐子平
+**** responsible: 
+***** 徐子平
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0039.org][ZB3g0039]] 三命指迷賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 珞琭子
+:SOURCE:   四庫全書 文淵閣版, V809.6, p177
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 珞琭子
+**** responsible: 
+***** 珞琭子
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 補注
+      :DATES:    1173? - 1240
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0040.org][ZB3g0040]] 星命總括
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 遼
-:RESP: 耶律純
+:SOURCE:   四庫全書 文淵閣版, V809.7, p191
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 遼
-**** responsible: 耶律純
+**** responsible: 
+***** 耶律純
+      :PROPERTIES:
+      :DYNASTY:  遼
+      :FUNCTION: 撰
+      :DATES:    fl. 984
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0041.org][ZB3g0041]] 演禽通纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V809.8, p237
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0042.org][ZB3g0042]] 星學大成

@@ -6424,56 +6424,82 @@
 :BOOK:   1
 :END:
 **** responsible: 
-***** 徐子平
+***** 珞琭子
       :PROPERTIES:
-      :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: □
-:RESP: 珞琭子
-:END:
-**** dynasty: □
-**** responsible: 珞琭子
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 補注
+      :DATES:    1173? - 1240
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0040.org][ZB3g0040]] 星命總括
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 遼
-:RESP: 耶律純
+:SOURCE:   四庫全書 文淵閣版, V809.7, p191
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 遼
-**** responsible: 耶律純
+**** responsible: 
+***** 耶律純
+      :PROPERTIES:
+      :DYNASTY:  遼
+      :FUNCTION: 撰
+      :DATES:    fl. 984
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0041.org][ZB3g0041]] 演禽通纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V809.8, p237
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0042.org][ZB3g0042]] 星學大成
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 萬民英
+:SOURCE:   四庫全書 文淵閣版, V809.9, p285
+:EXTENT: 30 卷
+:BOOK:   22
 :END:
-**** dynasty: 明
-**** responsible: 萬民英
+**** responsible: 
+***** 萬民英
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3g0043.org][ZB3g0043]] 三命通會
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V809.9, p285
+:EXTENT: 30 卷
+:BOOK:   22
+:END:
+**** responsible: 
+***** 萬民英
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 萬民英
 :END:
