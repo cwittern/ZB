@@ -9095,77 +9095,158 @@
 *** [[mandoku:ZB3j0001.org][ZB3j0001]] 鬻子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 逢行珪
+:SOURCE:   四庫全書 文淵閣版, V848.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 逢行珪
+**** responsible:
+***** 鬻熊
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 逢行珪
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0002.org][ZB3j0002]] 墨子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.2, p19
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
+**** responsible:
+***** 墨翟
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    fl. -400
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0003.org][ZB3j0003]] 子華子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.3, p149
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
+**** responsible:
+***** 程本
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0004.org][ZB3j0004]] 尹文子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.4, p181
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
+**** responsible:
+***** 尹文
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -350 - -284
+      :END:
+
+***** 仲長統
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 校定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0005.org][ZB3j0005]] 愼子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.5, p193
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 愼到
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -350 - -275
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0006.org][ZB3j0006]] 鶡冠子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸佃
+:SOURCE:   四庫全書 文淵閣版, V848.6, p199
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 陸佃
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 陸佃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 解
+      :DATES:    1042 - 1102
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0007.org][ZB3j0007]] 公孫龍子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.7, p245
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
+**** responsible:
+***** 公孫龍
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    b. -498
+      :END:
+
+***** 謝希深
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0008.org][ZB3j0008]] 鬼谷子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.8, p257
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 鬼谷子
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0009.org][ZB3j0009]] 呂氏春秋

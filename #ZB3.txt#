@@ -9222,49 +9222,94 @@
       :PROPERTIES:
       :DYNASTY:  周
       :FUNCTION: 撰
-      
+      :DATES:    b. -498
       :END:
 
-:DYNASTY: 
-:RESP: 
-:END:
+***** 謝希深
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0008.org][ZB3j0008]] 鬼谷子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V848.8, p257
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 鬼谷子
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0009.org][ZB3j0009]] 呂氏春秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 高誘
+:SOURCE:   四庫全書 文淵閣版, V848.9, p271
+:EXTENT: 26 卷
+:BOOK:   10
 :END:
-**** dynasty: 漢
-**** responsible: 高誘
+**** responsible:
+***** 呂不韋
+      :PROPERTIES:
+      :DYNASTY:  秦
+      :FUNCTION: 撰
+      :DATES:    d. -235
+      :END:
+
+***** 高誘
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0010.org][ZB3j0010]] 淮南鴻烈解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 劉安
+:SOURCE:   四庫全書 文淵閣版, V848.10, p505
+:EXTENT: 21 卷
+:BOOK:   8
 :END:
-**** dynasty: 漢
-**** responsible: 劉安
+**** responsible:
+***** 劉安
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    d. -122
+      :END:
+
+***** 高誘
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0011.org][ZB3j0011]] 人物志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V848.11, p759
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 劉邵
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 撰
+      :DATES:    d. -122
+      :END:
+
 :DYNASTY: 魏
 :RESP: 劉邵
 :END:
