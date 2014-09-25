@@ -8632,56 +8632,83 @@
 *** [[mandoku:ZB3i0024.org][ZB3i0024]] 續茶經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸廷燦
+:SOURCE:   四庫全書 文淵閣版, V844.11, p661
+:EXTENT: 3 + 1 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 陸廷燦
+**** responsible: 
+***** 陸廷燦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0025.org][ZB3i0025]] 煎茶水記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張又新
+:SOURCE:   四庫全書 文淵閣版, V844.12, p807
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 張又新
+**** responsible: 
+***** 張又新
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0026.org][ZB3i0026]] 北山酒經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱肱
+:SOURCE:   四庫全書 文淵閣版, V844.13, p813
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱肱
+**** responsible: 
+***** 朱翼中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1088
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0027.org][ZB3i0027]] 酒譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 竇苹
+:SOURCE:   四庫全書 文淵閣版, V844.14, p835
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 竇苹
+**** responsible: 
+***** 竇苹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0028.org][ZB3i0028]] 糖霜譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王灼
+:SOURCE:   四庫全書 文淵閣版, V844.14, p839
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王灼
+**** responsible: 
+***** 王灼
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1145 - 1149
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0029.org][ZB3i0029]] 洛陽牡丹記
