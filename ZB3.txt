@@ -10443,45 +10443,75 @@
 *** [[mandoku:ZB3j0076.org][ZB3j0076]] 義門讀書記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 何焯
+:SOURCE:   四庫全書 文淵閣版, V860.1, p1
+:EXTENT: 58 卷
+:BOOK:   38
 :END:
-**** dynasty: 清
-**** responsible: 何焯
+**** responsible:
+***** 何焯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1661 - 1722
+      :END:
+
+***** 蔣維鈞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0077.org][ZB3j0077]] 管城碩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 徐文靖
+:SOURCE:   四庫全書 文淵閣版, V861.1, p1
+:EXTENT: 30 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 徐文靖
+**** responsible:
+***** 徐文靖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1667 - 1756
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0078.org][ZB3j0078]] 訂譌雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡鳴玉
+:SOURCE:   四庫全書 文淵閣版, V861.2, p431
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 胡鳴玉
+**** responsible:
+***** 胡鳴玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0079.org][ZB3j0079]] 識小織
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 董豐垣
+:SOURCE:   四庫全書 文淵閣版, V861.3, p519
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 董豐垣
+**** responsible:
+***** 董豐垣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1751
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0080.org][ZB3j0080]] 論衡
