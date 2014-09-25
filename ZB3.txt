@@ -10353,73 +10353,91 @@
 *** [[mandoku:ZB3j0071.org][ZB3j0071]] 藝林彙考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0071
-:SOURCE:   四庫全書 文淵閣版, V858.4, p367
-:EXTENT: 32 + 1 卷
-:BOOK:   32
+:SOURCE:   四庫全書 文淵閣版, V859.1, p1
+:EXTENT: 40 卷
+:BOOK:   14
 :END:
 **** responsible:
-***** 顧炎武
+***** 沈自南
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1613 - 1682
       :END:
 
-:DYNASTY: 清
-:RESP: 沈自南
-:END:
-**** dynasty: 清
-**** responsible: 沈自南
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0071a.org][ZB3j0071a]] 藝林彙考__服飾篇
-*** [[mandoku:ZB3j0071b.org][ZB3j0071b]] 藝林彙考__棟宇篇
-*** [[mandoku:ZB3j0071c.org][ZB3j0071c]] 藝林彙考__植物篇
-*** [[mandoku:ZB3j0071d.org][ZB3j0071d]] 藝林彙考__稱號篇
-*** [[mandoku:ZB3j0071e.org][ZB3j0071e]] 藝林彙考__飲食篇
-*** [[mandoku:ZB3j0071f.org][ZB3j0071f]] 蘆浦筆記
-*** [[mandoku:ZB3j0072.org][ZB3j0072]] 潛邱&記
+*** [[mandoku:ZB3j0072.org][ZB3j0072]] 潛邱劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 閻若璩
+:SOURCE:   四庫全書 文淵閣版, V859.2, p381
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 閻若璩
+**** responsible:
+***** 閻若璩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1636 - 1704
+      :END:
+
+***** 吳玉搢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0073.org][ZB3j0073]] 湛園札記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姜宸英
+:SOURCE:   四庫全書 文淵閣版, V859.3, p567
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 姜宸英
+**** responsible:
+***** 姜宸英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628 - 1699
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0074.org][ZB3j0074]] 白田雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王懋竑
+:SOURCE:   四庫全書 文淵閣版, V859.4, p645
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 王懋竑
+**** responsible:
+***** 王懋竑
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0075.org][ZB3j0075]] 樵香小記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 何琇
+:SOURCE:   四庫全書 文淵閣版, V859.5, p781
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 何琇
+**** responsible:
+***** 何琇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1733
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0076.org][ZB3j0076]] 義門讀書記
