@@ -9967,46 +9967,75 @@
 *** [[mandoku:ZB3j0049.org][ZB3j0049]] 古今攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏了翁
+:SOURCE:   四庫全書 文淵閣版, V853.4, p107
+:EXTENT: 1 + 37 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 魏了翁
+**** responsible:
+***** 魏了翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1237
+      :END:
+
+***** 方回
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補續
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0049a.org][ZB3j0049a]] 續古今攷
 *** [[mandoku:ZB3j0050.org][ZB3j0050]] 潁川語小
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳叔方
+:SOURCE:   四庫全書 文淵閣版, V853.5, p629
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳叔方
+**** responsible:
+***** 陳叔方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1200 - 1265
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0051.org][ZB3j0051]] 賓退錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙與旹
+:SOURCE:   四庫全書 文淵閣版, V853.6, p653
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 趙與旹
+**** responsible:
+***** 趙與旹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1172 - 1228
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0052.org][ZB3j0052]] 學齋佔畢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 史繩祖
+:SOURCE:   四庫全書 文淵閣版, V854.1, p1
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 史繩祖
+**** responsible:
+***** 史繩祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1250
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0053.org][ZB3j0053]] 鼠璞
