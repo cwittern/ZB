@@ -8589,7 +8589,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0022
 :SOURCE:   四庫全書 文淵閣版, V844.9, p635
-:EXTENT: 1 卷
+:EXTENT: 1 + 1 卷
 :BOOK:   1
 :END:
 **** responsible: 
@@ -8602,27 +8602,31 @@
 ***** 熊克
       :PROPERTIES:
       :DYNASTY:  宋
+      :FUNCTION: 繪圖
+      :END:
+
+***** 趙汝礪
+      :PROPERTIES:
+      :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 熊蕃
-:END:
-**** dynasty: 宋
-**** responsible: 熊蕃
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3i0022a.org][ZB3i0022a]] 宣和北苑貢茶錄__北苑別錄
-*** [[mandoku:ZB3i0022b.org][ZB3i0022b]] 飮饌之屬
 *** [[mandoku:ZB3i0023.org][ZB3i0023]] 東溪試茶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋子安
+:SOURCE:   四庫全書 文淵閣版, V844.10, p655
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 宋子安
+**** responsible: 
+***** 宋子安
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0024.org][ZB3i0024]] 續茶經
