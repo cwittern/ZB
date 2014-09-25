@@ -10573,79 +10573,112 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 封演
+***** 李綽
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    756
+      :DATES:    ca. 805 - ca. 862
       :END:
 
-:DYNASTY: 唐
-:RESP: 李綽
-:END:
-**** dynasty: 唐
-**** responsible: 李綽
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0084.org][ZB3j0084]] 灌畦暇語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V862.5, p481
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0085.org][ZB3j0085]] 春明退朝錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋敏求
+:SOURCE:   四庫全書 文淵閣版, V862.6, p499
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋敏求
+**** responsible:
+***** 宋敏求
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0086.org][ZB3j0086]] 宋景文筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋祁
+:SOURCE:   四庫全書 文淵閣版, V862.7, p533
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋祁
+**** responsible:
+***** 宋祁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    998 - 1061
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0087.org][ZB3j0087]] 東原錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 龔鼎臣
+:SOURCE:   四庫全書 文淵閣版, V862.8, p555
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 龔鼎臣
+**** responsible:
+***** 龔鼎臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1010 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0088.org][ZB3j0088]] 王氏談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王欽臣
+:SOURCE:   四庫全書 文淵閣版, V862.9, p577
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王欽臣
+**** responsible:
+***** 王欽臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0089.org][ZB3j0089]] 麈史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0089
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V862.9, p577
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王欽臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 王得臣
 :END:
