@@ -8310,62 +8310,105 @@
 *** [[mandoku:ZB3i0006.org][ZB3i0006]] 端溪硯譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V843.5, p87
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0007.org][ZB3i0007]] 硯譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V843.6, p91
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible: 
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0008.org][ZB3i0008]] 硯箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高似孫
+:SOURCE:   四庫全書 文淵閣版, V843.7, p97
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 高似孫
+**** responsible: 
+***** 高似孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1184
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0009.org][ZB3i0009]] 欽定西清硯譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十三年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V843.8, p133
+:EXTENT: 24 + 1 卷
+:BOOK:   12
 :END:
-**** dynasty: 清乾隆四十三年
-**** responsible: 敕撰
+**** responsible: 
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清乾隆四十三年
+      :FUNCTION: 奉敕撰
+      :DATES:    1714 - 1779
+      :END:
+
+***** 梁國治
+      :PROPERTIES:
+      :DYNASTY:  清乾隆四十三年
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0010.org][ZB3i0010]] 墨譜法式
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李孝美
+:SOURCE:   四庫全書 文淵閣版, V843.9, p625
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李孝美
+**** responsible: 
+***** 李孝美
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0011.org][ZB3i0011]] 墨經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V843.10, p649
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible: 
+***** 李孝美
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 晁貫之
 :END:
