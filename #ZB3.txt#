@@ -10269,56 +10269,68 @@
 *** [[mandoku:ZB3j0066.org][ZB3j0066]] 通雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0066
-:SOURCE:   四庫全書 文淵閣版, V856.5, p451
-:EXTENT: 8 卷
-:BOOK:   6
+:SOURCE:   四庫全書 文淵閣版, V857.1, p1
+:EXTENT: 52 + 3 卷
+:BOOK:   42
 :END:
 **** responsible:
-***** 徐𤊹
+***** 方以智
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1570 - 1642
+      :DATES:    1611 - 1671
       :END:
 
-:DYNASTY: 明
-:RESP: 方以智
-:END:
-**** dynasty: 明
-**** responsible: 方以智
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0067.org][ZB3j0067]] 巵林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周嬰
+:SOURCE:   四庫全書 文淵閣版, V858.1, p1
+:EXTENT: 10 + 1 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 周嬰
+**** responsible:
+***** 周嬰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1642
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0068.org][ZB3j0068]] 拾遺錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡爌
+:SOURCE:   四庫全書 文淵閣版, V858.2, p257
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 胡爌
+**** responsible:
+***** 胡爌
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0069.org][ZB3j0069]] 義府
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃生
+:SOURCE:   四庫全書 文淵閣版, V858.3, p295
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 黃生
+**** responsible:
+***** 黃生
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1622
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0070.org][ZB3j0070]] 日知錄
