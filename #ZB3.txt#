@@ -8729,6 +8729,23 @@
 
 **** textual witnesses
 ***** WYG
+*** [[mandoku:ZB3i0039.org][ZB3i0039]] 揚州芍藥譜
+:PROPERTIES:
+:CUSTOM_ID:  ZB3i0039
+:SOURCE:   四庫全書 文淵閣版, V845.2, p9
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 王觀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    11th cent
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB3i0030.org][ZB3i0030]] 劉氏菊譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0030
@@ -8829,88 +8846,108 @@
       :DATES:    fl. 1233
       :END:
 
-:DYNASTY: 宋
-:RESP: 趙時庾
-:END:
-**** dynasty: 宋
-**** responsible: 趙時庾
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0035.org][ZB3i0035]] 海棠譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳思
+:SOURCE:   四庫全書 文淵閣版, V845.9, p133
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳思
+**** responsible:
+***** 陳思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1259
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0036.org][ZB3i0036]] 荔枝譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡襄
+:SOURCE:   四庫全書 文淵閣版, V845.10, p153
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蔡襄
+**** responsible:
+***** 蔡襄
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1012 - 1067
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0037.org][ZB3i0037]] 橘錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 韓彥直
+:SOURCE:   四庫全書 文淵閣版, V845.11, p161
+:EXTENT: 3 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 韓彥直
+**** responsible:
+***** 韓彥直
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0038.org][ZB3i0038]] 竹譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 戴凱之
+:SOURCE:   四庫全書 文淵閣版, V845.12, p171
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 戴凱之
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3i0039.org][ZB3i0039]] 揚州芍藥譜
-:PROPERTIES:
-:CUSTOM_ID:  ZB3i0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王觀
-:END:
-**** dynasty: 宋
-**** responsible: 王觀
+**** responsible:
+***** 戴凱之
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    5th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0040.org][ZB3i0040]] 筍譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋贊寧
+:SOURCE:   四庫全書 文淵閣版, V845.13, p181
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 釋贊寧
+**** responsible:
+***** 釋贊寧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    918 - 999
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0041.org][ZB3i0041]] 菌譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳仁玉
+:SOURCE:   四庫全書 文淵閣版, V845.14, p205
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 陳仁玉
+**** responsible:
+***** 陳仁玉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1245
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0042.org][ZB3i0042]] 御定佩文齋廣羣芳譜
