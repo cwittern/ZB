@@ -9077,19 +9077,36 @@
 *** [[mandoku:ZB3i0048.org][ZB3i0048]] 異魚圖贊補
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡世安
+:SOURCE:   四庫全書 文淵閣版, V847.6, p815
+:EXTENT: 3 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 胡世安
+**** responsible:
+***** 胡世安
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1593 - 1663
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3j 雜家類
 *** [[mandoku:ZB3j0001.org][ZB3j0001]] 鬻子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0001
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V848.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 胡世安
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1593 - 1663
+      :END:
+
 :DYNASTY: 唐
 :RESP: 逢行珪
 :END:

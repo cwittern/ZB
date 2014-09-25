@@ -8953,78 +8953,142 @@
 *** [[mandoku:ZB3i0042.org][ZB3i0042]] 御定佩文齋廣羣芳譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王象晉
+:SOURCE:   四庫全書 文淵閣版, V845 - 847.15, p207
+:EXTENT: 100 + 2 卷
+:BOOK:   54
 :END:
-**** dynasty: 明
-**** responsible: 王象晉
+**** responsible:
+***** 王象晉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 原本
+      :END:
+
+***** 汪灝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 張逸少
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0043.org][ZB3i0043]] 禽經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 張華
+:SOURCE:   四庫全書 文淵閣版, V847.1, p677
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 張華
+**** responsible:
+***** 師曠
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 張華
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0044.org][ZB3i0044]] 蟹譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 傅肱
+:SOURCE:   四庫全書 文淵閣版, V847.2, p689
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 傅肱
+**** responsible:
+***** 傅肱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1059
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0045.org][ZB3i0045]] 蟹畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高似孫
+:SOURCE:   四庫全書 文淵閣版, V847.3, p703
+:EXTENT: 4 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 高似孫
+**** responsible:
+***** 高似孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1184
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0046.org][ZB3i0046]] 異魚圖贊
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V847.4, p733
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0047.org][ZB3i0047]] 異魚圖贊箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡世安
+:SOURCE:   四庫全書 文淵閣版, V847.5, p751
+:EXTENT: 4 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 胡世安
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 原本
+      :DATES:    1488 - 1559
+      :END:
+
+***** 胡世安
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 箋
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0048.org][ZB3i0048]] 異魚圖贊補
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡世安
+:SOURCE:   四庫全書 文淵閣版, V847.6, p815
+:EXTENT: 3 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 胡世安
+**** responsible:
+***** 胡世安
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1593 - 1663
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3j 雜家類
