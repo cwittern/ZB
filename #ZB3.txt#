@@ -9696,50 +9696,69 @@
 *** [[mandoku:ZB3j0033.org][ZB3j0033]] 猗覺寮雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0033
-:SOURCE:   四庫全書 文淵閣版, V850.10, p385
-:EXTENT: 10 卷
+:SOURCE:   四庫全書 文淵閣版, V850.11, p431
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
-***** 黃朝英
+***** 朱翌
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1098 - 1167
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱翌
-:END:
-**** dynasty: 宋
-**** responsible: 朱翌
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0034.org][ZB3j0034]] 能改齋漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳曾
+:SOURCE:   四庫全書 文淵閣版, V850.12, p501
+:EXTENT: 18 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 吳曾
+**** responsible:
+***** 吳曾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1153
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0035.org][ZB3j0035]] 雲谷雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張淏
+:SOURCE:   四庫全書 文淵閣版, V850.13, p853
+:EXTENT: 4 + 1 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 張淏
+**** responsible:
+***** 張淏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1225
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0036.org][ZB3j0036]] 西溪叢語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0036
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V850.14, p913
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 姚寬
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1225
+      :END:
+
 :DYNASTY: 宋
 :RESP: 姚寬
 :END:
