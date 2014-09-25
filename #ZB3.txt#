@@ -9303,46 +9303,74 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 劉邵
+***** 劉卲
       :PROPERTIES:
       :DYNASTY:  魏
       :FUNCTION: 撰
-      :DATES:    d. -122
+      :DATES:    fl. 224
       :END:
 
-:DYNASTY: 魏
-:RESP: 劉邵
-:END:
-**** dynasty: 魏
-**** responsible: 劉邵
+***** 劉昞
+      :PROPERTIES:
+      :DYNASTY:  北魏
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0012.org][ZB3j0012]] 金樓子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 世祖蕭繹
+:SOURCE:   四庫全書 文淵閣版, V848.12, p791
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 梁
-**** responsible: 世祖蕭繹
+**** responsible:
+***** 孝元帝
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    509 - 555
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0013.org][ZB3j0013]] 劉子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 北齊
-:RESP: 劉晝
+:SOURCE:   四庫全書 文淵閣版, V848.13, p881
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 北齊
-**** responsible: 劉晝
+**** responsible:
+***** 劉晝
+      :PROPERTIES:
+      :DYNASTY:  北齊
+      :FUNCTION: 撰
+      :END:
+
+***** 袁孝政
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0014.org][ZB3j0014]] 顏氏家訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0014
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V848.14, p9
+:EXTENT: 10 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 劉晝
+      :PROPERTIES:
+      :DYNASTY:  北齊
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 隋
 :RESP: 顏之推
 :END:
