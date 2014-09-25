@@ -10169,128 +10169,202 @@
 *** [[mandoku:ZB3j0060.org][ZB3j0060]] 譚苑醍醐
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V855.2, p671
+:EXTENT: 9 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0061.org][ZB3j0061]] 藝彀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄧伯羔
+:SOURCE:   四庫全書 文淵閣版, V856.1, p1
+:EXTENT: 3 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 鄧伯羔
+**** responsible:
+***** 鄧伯羔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0062.org][ZB3j0062]] 正楊
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳耀文
+:SOURCE:   四庫全書 文淵閣版, V856.2, p47
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 陳耀文
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1550
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0063.org][ZB3j0063]] 疑耀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張萱
+:SOURCE:   四庫全書 文淵閣版, V856.3, p159
+:EXTENT: 7 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 張萱
+**** responsible:
+***** 張萱
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1558 - 1641
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0064.org][ZB3j0064]] 名義考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周祈
+:SOURCE:   四庫全書 文淵閣版, V856.4, p299
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 周祈
+**** responsible:
+***** 周祈
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0065.org][ZB3j0065]] 徐氏筆精
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐&撰
+:SOURCE:   四庫全書 文淵閣版, V856.5, p451
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 徐&撰
+**** responsible:
+***** 徐𤊹
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1570 - 1642
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0066.org][ZB3j0066]] 通雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 方以智
+:SOURCE:   四庫全書 文淵閣版, V857.1, p1
+:EXTENT: 52 + 3 卷
+:BOOK:   42
 :END:
-**** dynasty: 明
-**** responsible: 方以智
+**** responsible:
+***** 方以智
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1611 - 1671
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0067.org][ZB3j0067]] 巵林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周嬰
+:SOURCE:   四庫全書 文淵閣版, V858.1, p1
+:EXTENT: 10 + 1 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 周嬰
+**** responsible:
+***** 周嬰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1642
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0068.org][ZB3j0068]] 拾遺錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡爌
+:SOURCE:   四庫全書 文淵閣版, V858.2, p257
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 胡爌
+**** responsible:
+***** 胡爌
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0069.org][ZB3j0069]] 義府
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃生
+:SOURCE:   四庫全書 文淵閣版, V858.3, p295
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 黃生
+**** responsible:
+***** 黃生
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1622
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0070.org][ZB3j0070]] 日知錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V858.4, p367
+:EXTENT: 32 + 1 卷
+:BOOK:   32
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0071.org][ZB3j0071]] 藝林彙考
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0071
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V858.4, p367
+:EXTENT: 32 + 1 卷
+:BOOK:   32
+:END:
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 :DYNASTY: 清
 :RESP: 沈自南
 :END:
