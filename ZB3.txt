@@ -8732,34 +8732,52 @@
 *** [[mandoku:ZB3i0030.org][ZB3i0030]] 劉氏菊譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉蒙
+:SOURCE:   四庫全書 文淵閣版, V845.3, p15
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉蒙
+**** responsible:
+***** 劉蒙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1104
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0031.org][ZB3i0031]] 史氏菊譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 史正志
+:SOURCE:   四庫全書 文淵閣版, V845.4, p29
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 史正志
+**** responsible:
+***** 史正志
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1151
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0032.org][ZB3i0032]] 苑村梅譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范成大
+:SOURCE:   四庫全書 文淵閣版, V845.5, p33
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 范成大
+**** responsible:
+***** 范成大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1126 - 1193
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3i0032a.org][ZB3i0032a]] 范村菊譜
