@@ -9934,23 +9934,34 @@
 *** [[mandoku:ZB3j0047.org][ZB3j0047]] 攷古質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉大慶
+:SOURCE:   四庫全書 文淵閣版, V853.2, p15
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 葉大慶
+**** responsible:
+***** 葉大慶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0048.org][ZB3j0048]] 經外雜抄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏了翁
+:SOURCE:   四庫全書 文淵閣版, V853.3, p69
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 魏了翁
+**** responsible:
+***** 魏了翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1237
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0049.org][ZB3j0049]] 古今攷
