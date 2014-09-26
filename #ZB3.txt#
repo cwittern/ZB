@@ -11472,90 +11472,132 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 周密
+***** 鮮于樞
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1232 - 1308
+      :DATES:    1256 - 1301
       :END:
 
-:DYNASTY: 元
-:RESP: 鮮于樞
-:END:
-**** dynasty: 元
-**** responsible: 鮮于樞
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0135.org][ZB3j0135]] 隱居通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0135
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉壎
+:SOURCE:   四庫全書 文淵閣版, V866.2, p19
+:EXTENT: 31 卷
+:BOOK:   10
 :END:
-**** dynasty: 元
-**** responsible: 劉壎
+**** responsible:
+***** 劉壎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1240 - 1319
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0136.org][ZB3j0136]] 湛淵靜語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0136
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 白珽
+:SOURCE:   四庫全書 文淵閣版, V866.3, p283
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 白珽
+**** responsible:
+***** 白挺
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1248 - 1328
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0137.org][ZB3j0137]] 敬齊古今黈
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0137
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李治撰
+:SOURCE:   四庫全書 文淵閣版, V866.4, p319
+:EXTENT: 8 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 李治撰
+**** responsible:
+***** 李治
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1192 - 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0138.org][ZB3j0138]] 日聞錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0138
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李翀
+:SOURCE:   四庫全書 文淵閣版, V866.5, p417
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 李翀
+**** responsible:
+***** 李翀
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0139.org][ZB3j0139]] 勤有堂隨錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0139
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳櫟
+:SOURCE:   四庫全書 文淵閣版, V866.6, p433
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 元
-**** responsible: 陳櫟
+**** responsible:
+***** 陳櫟
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1252 - 1334
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0140.org][ZB3j0140]] 玉堂嘉話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0140
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王惲
+:SOURCE:   四庫全書 文淵閣版, V866.7, p439
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 王惲
+**** responsible:
+***** 王惲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1227 - 1304
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0141.org][ZB3j0141]] 庶齋老學叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0141
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V866.7, p439
+:EXTENT: 8 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 王惲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1227 - 1304
+      :END:
+
 :DYNASTY: 元
 :RESP: 盛如梓
 :END:
