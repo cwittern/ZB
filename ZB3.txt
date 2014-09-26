@@ -12196,164 +12196,259 @@
 *** [[mandoku:ZB3j0177.org][ZB3j0177]] 意林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0177
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 馬總
+:SOURCE:   四庫全書 文淵閣版, V872.6, p197
+:EXTENT: 5 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 馬總
+**** responsible:
+***** 馬總
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 823
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0178.org][ZB3j0178]] 紺珠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0178
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱勝非
+:SOURCE:   四庫全書 文淵閣版, V872.7, p273
+:EXTENT: 13 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 朱勝非
+**** responsible:
+***** 朱勝非
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0179.org][ZB3j0179]] 類說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0179
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾慥
+:SOURCE:   四庫全書 文淵閣版, V873.1, p1
+:EXTENT: 60 卷
+:BOOK:   40
 :END:
-**** dynasty: 宋
-**** responsible: 曾慥
+**** responsible:
+***** 曾慥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1148 - 1154
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0180.org][ZB3j0180]] 事實類苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0180
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 江少虞
+:SOURCE:   四庫全書 文淵閣版, V874.1, p1
+:EXTENT: 63 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 江少虞
+**** responsible:
+***** 江少虞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0181.org][ZB3j0181]] 仕學規範
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0181
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張鎡
+:SOURCE:   四庫全書 文淵閣版, V875.1, p1
+:EXTENT: 40 + 1 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 張鎡
+**** responsible:
+***** 張鎡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0182.org][ZB3j0182]] 自警編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0182
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙善璙
+:SOURCE:   四庫全書 文淵閣版, V875.2, p203
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 趙善璙
+**** responsible:
+***** 趙善璙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1153
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0183.org][ZB3j0183]] 言行龜鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0183
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 張光祖
+:SOURCE:   四庫全書 文淵閣版, V875.3, p463
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 張光祖
+**** responsible:
+***** 張光祖
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1285 - 1346
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0184.org][ZB3j0184]] 說孚
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0184
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陶宗儀 ;; this seems to be a congshu that has been incorporated and split? 876-882, 200 juan
+:SOURCE:   四庫全書 文淵閣版, V876 - 882.1, p1
+:EXTENT: 120 卷
+:BOOK:   144
 :END:
-**** dynasty: 明
-**** responsible: 陶宗儀 ;; this seems to be a congshu that has been incorporated and split? 876-882, 200 juan
+**** responsible:
+***** 陶宗儀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    fl. 1360 - 1368
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0185.org][ZB3j0185]] 玉芝堂談薈
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0185
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐應秋
+:SOURCE:   四庫全書 文淵閣版, V883.1, p1
+:EXTENT: 36 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 徐應秋
+**** responsible:
+***** 徐應秋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0185a.org][ZB3j0185a]] 雜纂之屬
-*** [[mandoku:ZB3j0185b.org][ZB3j0185b]] 玉芝堂談薈
 *** [[mandoku:ZB3j0186.org][ZB3j0186]] 元明事類鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0186
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姚之駰
+:SOURCE:   四庫全書 文淵閣版, V884.1, p1
+:EXTENT: 40 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 姚之駰
+**** responsible:
+***** 姚之駰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1721
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0187.org][ZB3j0187]] 儼山外集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0187
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陸深
+:SOURCE:   四庫全書 文淵閣版, V885.1, p1
+:EXTENT: 34 卷
+:BOOK:   7
 :END:
-**** dynasty: 明
-**** responsible: 陸深
+**** responsible:
+***** 陸深
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1477 - 1544
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0188.org][ZB3j0188]] 古今說海
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0188
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陸楫
+:SOURCE:   四庫全書 文淵閣版, V885 - 886.2, p225
+:EXTENT: 存137 卷
+:BOOK:   24
 :END:
-**** dynasty: 明
-**** responsible: 陸楫
+**** responsible:
+***** 陸楫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    16th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0189.org][ZB3j0189]] 少室山房筆叢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0189
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡應麟
+:SOURCE:   四庫全書 文淵閣版, V886.2, p165
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 胡應麟
+**** responsible:
+***** 胡應麟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1551 - 1602
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0190.org][ZB3j0190]] 鈍吟雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0190
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 馮班
+:SOURCE:   四庫全書 文淵閣版, V886.3, p511
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 馮班
+**** responsible:
+***** 馮班
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1614 - 1671
+      :END:
+
+***** 馮武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3k 類書類
 *** [[mandoku:ZB3k0001.org][ZB3k0001]] 古今同姓名錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0001
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V887.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 馮班
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1614 - 1671
+      :END:
+
 :DYNASTY: 梁
 :RESP: 世祖蕭繹
 :END:

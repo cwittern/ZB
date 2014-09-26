@@ -12396,41 +12396,88 @@
 *** [[mandoku:ZB3j0189.org][ZB3j0189]] 少室山房筆叢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0189
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡應麟
+:SOURCE:   四庫全書 文淵閣版, V886.2, p165
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 胡應麟
+**** responsible:
+***** 胡應麟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1551 - 1602
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0190.org][ZB3j0190]] 鈍吟雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0190
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 馮班
+:SOURCE:   四庫全書 文淵閣版, V886.3, p511
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 馮班
+**** responsible:
+***** 馮班
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1614 - 1671
+      :END:
+
+***** 馮武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3k 類書類
 *** [[mandoku:ZB3k0001.org][ZB3k0001]] 古今同姓名錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 世祖蕭繹
+:SOURCE:   四庫全書 文淵閣版, V887.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 世祖蕭繹
+**** responsible:
+***** 元帝
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    509 - 555
+      :END:
+
+***** 陸善經
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 續
+      :END:
+
+***** 葉森
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0002.org][ZB3k0002]] 編珠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0002
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V887.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 元帝
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    509 - 555
+      :END:
+
 :DYNASTY: 隋
 :RESP: 杜公瞻
 :END:
