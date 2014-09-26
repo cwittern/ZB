@@ -11344,6 +11344,7 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    fl. 1224
       :END:
 
 **** textual witnesses
@@ -11351,45 +11352,66 @@
 *** [[mandoku:ZB3j0127.org][ZB3j0127]] 貴耳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0127
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張端義撰
+:SOURCE:   四庫全書 文淵閣版, V865.6, p409
+:EXTENT: 1 + 1 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張端義撰
+**** responsible:
+***** 張端義
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1241 - 1248
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0128.org][ZB3j0128]] 吹劍錄外集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0128
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞文豹撰
+:SOURCE:   四庫全書 文淵閣版, V865.7, p469
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 俞文豹撰
+**** responsible:
+***** 俞文豹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0129.org][ZB3j0129]] 腳氣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0129
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 車若水撰
+:SOURCE:   四庫全書 文淵閣版, V865.8, p505
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 車若水撰
+**** responsible:
+***** 車若水
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0130.org][ZB3j0130]] 藏一話腴內編
+*** [[mandoku:ZB3j0130.org][ZB3j0130]] 藏一話腴
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0130
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳郁撰
+:SOURCE:   四庫全書 文淵閣版, V865.9, p537
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 陳郁撰
+**** responsible:
+***** 陳郁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0131.org][ZB3j0131]] 佩韋齋輯聞
