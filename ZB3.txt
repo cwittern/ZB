@@ -11031,45 +11031,69 @@
 *** [[mandoku:ZB3j0109.org][ZB3j0109]] 紫微雜說
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0109
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂本中
+:SOURCE:   四庫全書 文淵閣版, V863.18, p821
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 呂本中
+**** responsible:
+***** 呂本中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1136
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0110.org][ZB3j0110]] 辯言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 員興宗
+:SOURCE:   四庫全書 文淵閣版, V863.19, p849
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 員興宗
+**** responsible:
+***** 員興宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1170
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0111.org][ZB3j0111]] 墨莊漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張邦基
+:SOURCE:   四庫全書 文淵閣版, V864.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 張邦基
+**** responsible:
+***** 張邦基
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1123 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0112.org][ZB3j0112]] 寓簡
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0112
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈作喆
+:SOURCE:   四庫全書 文淵閣版, V864.2, p103
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 沈作喆
+**** responsible:
+***** 沈作喆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1135
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0113.org][ZB3j0113]] 欒城遺言
