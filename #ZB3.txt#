@@ -11417,47 +11417,68 @@
 *** [[mandoku:ZB3j0131.org][ZB3j0131]] 佩韋齋輯聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞德鄰撰
+:SOURCE:   四庫全書 文淵閣版, V865.10, p573
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 俞德鄰撰
+**** responsible:
+***** 俞德鄰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0132.org][ZB3j0132]] 書齋夜話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0132
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 俞琰撰
+:SOURCE:   四庫全書 文淵閣版, V865.11, p611
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 俞琰撰
+**** responsible:
+***** 俞琰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1258 - 1314
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0133.org][ZB3j0133]] 齊東野語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0133
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周密
+:SOURCE:   四庫全書 文淵閣版, V865.12, p635
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 周密
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0133a.org][ZB3j0133a]] 初學記
-*** [[mandoku:ZB3j0133b.org][ZB3j0133b]] 名賢氏族言行類稿
-*** [[mandoku:ZB3j0133c.org][ZB3j0133c]] 太平御覽
-*** [[mandoku:ZB3j0133d.org][ZB3j0133d]] 山堂肆考
-*** [[mandoku:ZB3j0133e.org][ZB3j0133e]] 御定佩文韻府
-*** [[mandoku:ZB3j0133f.org][ZB3j0133f]] 稗編
-*** [[mandoku:ZB3j0133g.org][ZB3j0133g]] 翰苑新書
 *** [[mandoku:ZB3j0134.org][ZB3j0134]] 困學齋雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0134
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V866.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
 :DYNASTY: 元
 :RESP: 鮮于樞
 :END:
