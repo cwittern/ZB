@@ -12598,68 +12598,102 @@
       :DATES:    772 - 846
       :END:
 
-***** 白居易
+***** 孔傳
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 原本
-      :DATES:    772 - 846
+      :DYNASTY:  宋
+      :FUNCTION: 續撰
       :END:
 
-:DYNASTY: 唐
-:RESP: 白居易
-:END:
-**** dynasty: 唐
-**** responsible: 白居易
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0009.org][ZB3k0009]] 小名錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸龜蒙
+:SOURCE:   四庫全書 文淵閣版, V892.1, p623
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 陸龜蒙
+**** responsible:
+***** 陸龜蒙
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 881
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0010.org][ZB3k0010]] 蒙求集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李瀚
+:SOURCE:   四庫全書 文淵閣版, V892.2, p651
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 李瀚
+**** responsible:
+***** 李瀚
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 徐子光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0011.org][ZB3k0011]] 事類賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳淑
+:SOURCE:   四庫全書 文淵閣版, V892.3, p799
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 吳淑
+**** responsible:
+***** 吳淑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    943 - 1002
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0012.org][ZB3k0012]] 太平御覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李昉
+:SOURCE:   四庫全書 文淵閣版, V893 - 901.1, p1
+:EXTENT: 1000 + 1 + 10 卷
+:BOOK:   180
 :END:
-**** dynasty: 宋
-**** responsible: 李昉
+**** responsible:
+***** 李昉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    925 - 996
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0013.org][ZB3k0013]] 册府元龜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0013
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V902 - 919.1, p1
+:EXTENT: 1000 + 10 卷
+:BOOK:   336
+:END:
+**** responsible:
+***** 王欽若
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1025
+      :END:
+
 :DYNASTY: 宋
 :RESP: 王錄若
 :END:
