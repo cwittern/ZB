@@ -12982,19 +12982,20 @@
 *** [[mandoku:ZB3k0030.org][ZB3k0030]] 古今合璧事類備要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 謝維新
+:SOURCE:   四庫全書 文淵閣版, V939 - 941.1, p1
+:EXTENT: 存365 卷
+:BOOK:   80
 :END:
-**** dynasty: 宋
-**** responsible: 謝維新
+**** responsible:
+***** 謝維新
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1257
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3k0030a.org][ZB3k0030a]] 古今合璧事類備要__前集
-*** [[mandoku:ZB3k0030b.org][ZB3k0030b]] 古今合璧事類備要__後集
-*** [[mandoku:ZB3k0030c.org][ZB3k0030c]] 古今合璧事類備要__續集
-*** [[mandoku:ZB3k0030d.org][ZB3k0030d]] 古今合璧事類備要__别集
-*** [[mandoku:ZB3k0030e.org][ZB3k0030e]] 古今合璧事類備要__外集
 *** [[mandoku:ZB3k0031.org][ZB3k0031]] 古今源流至論前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0031
