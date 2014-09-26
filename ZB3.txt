@@ -10714,112 +10714,175 @@
       :DATES:    1031 - 1095
       :END:
 
-**** textual witnesses<!--- here 2014-09-25 --->
+**** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3j0091a.org][ZB3j0091a]] 夢溪筆談__補筆談
 *** [[mandoku:ZB3j0092.org][ZB3j0092]] 仇池筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V863.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0093.org][ZB3j0093]] 東坡志林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V863.2, p21
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0094.org][ZB3j0094]] 珩璜新論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孔平仲
+:SOURCE:   四庫全書 文淵閣版, V863.3, p99
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 孔平仲
+**** responsible:
+***** 孔平仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1065
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0095.org][ZB3j0095]] 晁氏客語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁說之
+:SOURCE:   四庫全書 文淵閣版, V863.4, p141
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晁說之
+**** responsible:
+***** 晁說之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0096.org][ZB3j0096]] 師友談記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李廌
+:SOURCE:   四庫全書 文淵閣版, V863.5, p171
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李廌
+**** responsible:
+***** 李廌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1059 - 1109
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0097.org][ZB3j0097]] 楊公筆錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊彥齡
+:SOURCE:   四庫全書 文淵閣版, V863.6, p191
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊彥齡
+**** responsible:
+***** 楊彥齡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0098.org][ZB3j0098]] 呂氏雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂希哲
+:SOURCE:   四庫全書 文淵閣版, V863.7, p207
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 呂希哲
+**** responsible:
+***** 呂希哲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1089
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0099.org][ZB3j0099]] 冷齋夜話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋惠洪
+:SOURCE:   四庫全書 文淵閣版, V863.8, p237
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋惠洪
+**** responsible:
+***** 釋惠洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1071 - 1128
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0100.org][ZB3j0100]] 苗洧舊聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱辨
+:SOURCE:   四庫全書 文淵閣版, V863.9, p285
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱辨
+**** responsible:
+***** 朱辨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0101.org][ZB3j0101]] 元城語錄解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0101
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V863.10, p353
+:EXTENT: 3 + 1 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 朱辨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1144
+      :END:
+
 :DYNASTY: 明
 :RESP: 王崇慶
 :END:

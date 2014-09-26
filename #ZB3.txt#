@@ -10839,49 +10839,85 @@
 :CUSTOM_ID:  ZB3j0099
 :SOURCE:   四庫全書 文淵閣版, V863.8, p237
 :EXTENT: 10 卷
-:BOOK:   1
+:BOOK:   2
 :END:
 **** responsible:
-***** 呂希哲
+***** 釋惠洪
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1089
+      :DATES:    1071 - 1128
       :END:
 
-:DYNASTY: 宋
-:RESP: 釋惠洪
-:END:
-**** dynasty: 宋
-**** responsible: 釋惠洪
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0100.org][ZB3j0100]] 苗洧舊聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱辨
+:SOURCE:   四庫全書 文淵閣版, V863.9, p285
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱辨
+**** responsible:
+***** 朱辨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0101.org][ZB3j0101]] 元城語錄解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王崇慶
+:SOURCE:   四庫全書 文淵閣版, V863.10, p353
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王崇慶
+**** responsible:
+***** 馬永卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1109
+      :END:
+
+***** 王崇慶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 解
+      :END:
+
+***** 崔銑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 于文煕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0102.org][ZB3j0102]] 嬾眞子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0102
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V863.11, p35
+:EXTENT: 3 + 1 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 馬永卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1109
+      :END:
+
 :DYNASTY: 宋
 :RESP: 馬永卿
 :END:
