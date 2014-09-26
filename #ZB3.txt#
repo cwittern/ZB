@@ -11586,139 +11586,200 @@
 *** [[mandoku:ZB3j0141.org][ZB3j0141]] 庶齋老學叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0141
-:SOURCE:   四庫全書 文淵閣版, V866.7, p439
-:EXTENT: 8 卷
+:SOURCE:   四庫全書 文淵閣版, V866.8, p513
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
-***** 王惲
+***** 盛如梓
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1227 - 1304
+      :DATES:    13th cent
       :END:
 
-:DYNASTY: 元
-:RESP: 盛如梓
-:END:
-**** dynasty: 元
-**** responsible: 盛如梓
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0142.org][ZB3j0142]] 研北雜誌
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0142
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陸友
+:SOURCE:   四庫全書 文淵閣版, V866.9, p561
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 陸友
+**** responsible:
+***** 陸友
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1330 - 1333
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0143.org][ZB3j0143]] 北軒筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0143
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳世隆
+:SOURCE:   四庫全書 文淵閣版, V866.10, p609
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 陳世隆
+**** responsible:
+***** 陳世隆
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0144.org][ZB3j0144]] 閒居錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0144
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吾丘衍
+:SOURCE:   四庫全書 文淵閣版, V866.11, p629
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 吾丘衍
+**** responsible:
+***** 吾丘衍
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    d. 1311
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0145.org][ZB3j0145]] 雪履齋筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0145
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 郭翼
+:SOURCE:   四庫全書 文淵閣版, V866.12, p645
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 郭翼
+**** responsible:
+***** 郭翼
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1305 - 1364
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0146.org][ZB3j0146]] 霏雪錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0146
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鎦績
+:SOURCE:   四庫全書 文淵閣版, V866.13, p657
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 鎦績
+**** responsible:
+***** 鎦績
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0147.org][ZB3j0147]] 蠡海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0147
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王逵
+:SOURCE:   四庫全書 文淵閣版, V866.14, p699
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王逵
+**** responsible:
+***** 王逵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0148.org][ZB3j0148]] 草木子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0148
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葉子奇
+:SOURCE:   四庫全書 文淵閣版, V866.15, p733
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 葉子奇
+**** responsible:
+***** 葉子奇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0149.org][ZB3j0149]] 胡文穆雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0149
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡廣
+:SOURCE:   四庫全書 文淵閣版, V867.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 胡廣
+**** responsible:
+***** 胡廣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1370 - 1418
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0150.org][ZB3j0150]] 讕言長語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0150
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 曹安
+:SOURCE:   四庫全書 文淵閣版, V867.2, p27
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 曹安
+**** responsible:
+***** 曹安
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0151.org][ZB3j0151]] 蟫精雋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0151
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐伯齡
+:SOURCE:   四庫全書 文淵閣版, V867.3, p69
+:EXTENT: 16 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 徐伯齡
+**** responsible:
+***** 徐伯齡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0152.org][ZB3j0152]] 震澤長語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0152
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V867.4, p189
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 徐伯齡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 王鏊
 :END:
