@@ -10517,134 +10517,204 @@
 *** [[mandoku:ZB3j0080.org][ZB3j0080]] 論衡
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 王充
+:SOURCE:   四庫全書 文淵閣版, V862.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 漢
-**** responsible: 王充
+**** responsible:
+***** 王充
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    27 - 97?
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0081.org][ZB3j0081]] 風俗通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 應劭
+:SOURCE:   四庫全書 文淵閣版, V862.2, p349
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 應劭
+**** responsible:
+***** 應劭
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. 189 - 220
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0082.org][ZB3j0082]] 封氏聞見記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 封演
+:SOURCE:   四庫全書 文淵閣版, V862.3, p415
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 封演
+**** responsible:
+***** 封演
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    756
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0083.org][ZB3j0083]] 尚書故實
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李綽
+:SOURCE:   四庫全書 文淵閣版, V862.4, p467
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李綽
+**** responsible:
+***** 李綽
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    ca. 805 - ca. 862
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0084.org][ZB3j0084]] 灌畦暇語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V862.5, p481
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0085.org][ZB3j0085]] 春明退朝錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋敏求
+:SOURCE:   四庫全書 文淵閣版, V862.6, p499
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋敏求
+**** responsible:
+***** 宋敏求
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0086.org][ZB3j0086]] 宋景文筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋祁
+:SOURCE:   四庫全書 文淵閣版, V862.7, p533
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋祁
+**** responsible:
+***** 宋祁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    998 - 1061
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0087.org][ZB3j0087]] 東原錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 龔鼎臣
+:SOURCE:   四庫全書 文淵閣版, V862.8, p555
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 龔鼎臣
+**** responsible:
+***** 龔鼎臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1010 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0088.org][ZB3j0088]] 王氏談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王欽臣
+:SOURCE:   四庫全書 文淵閣版, V862.9, p577
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王欽臣
+**** responsible:
+***** 王欽臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0089.org][ZB3j0089]] 麈史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王得臣
+:SOURCE:   四庫全書 文淵閣版, V862.10, p595
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王得臣
+**** responsible:
+***** 王得臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1036
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0090.org][ZB3j0090]] 文昌雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 龐元英
+:SOURCE:   四庫全書 文淵閣版, V862.11, p649
+:EXTENT: 6 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 龐元英
+**** responsible:
+***** 龐元英
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1082 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0091.org][ZB3j0091]] 夢溪筆談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈括
+:SOURCE:   四庫全書 文淵閣版, V862.12, p707
+:EXTENT: 26 + 2 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 沈括
-**** textual witnesses
+**** responsible:
+***** 沈括
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1031 - 1095
+      :END:
+
+**** textual witnesses<!--- here 2014-09-25 --->
 ***** WYG
 *** [[mandoku:ZB3j0091a.org][ZB3j0091a]] 夢溪筆談__補筆談
 *** [[mandoku:ZB3j0092.org][ZB3j0092]] 仇池筆記
