@@ -10876,95 +10876,156 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 朱辨
+***** 馬永卿
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    d. 1144
+      :FUNCTION: 編
+      :DATES:    1109
       :END:
 
-:DYNASTY: 明
-:RESP: 王崇慶
-:END:
-**** dynasty: 明
-**** responsible: 王崇慶
+***** 王崇慶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 解
+      :END:
+
+***** 崔銑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 于文煕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0102.org][ZB3j0102]] 嬾眞子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0102
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 馬永卿
+:SOURCE:   四庫全書 文淵閣版, V863.11, p401
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 馬永卿
+**** responsible:
+***** 馬永卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1109
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0103.org][ZB3j0103]] 春渚紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0103
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 何薳
+:SOURCE:   四庫全書 文淵閣版, V863.12, p451
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 何薳
+**** responsible:
+***** 何薳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1094
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0104.org][ZB3j0104]] 石林燕語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0104
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V863.13, p535
+:EXTENT: 10 +   卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
+***** 宇文紹奕
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 考異
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0105.org][ZB3j0105]] 避暑錄話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0105
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V863.14, p629
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0106.org][ZB3j0106]] 巖下放言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V863.15, p721
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0107.org][ZB3j0107]] 却掃編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐度
+:SOURCE:   四庫全書 文淵閣版, V863.16, p747
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 徐度
+**** responsible:
+***** 徐度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1135 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0108.org][ZB3j0108]] 五總志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0108
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳坰
+:SOURCE:   四庫全書 文淵閣版, V863.17, p801
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳坰
+**** responsible:
+***** 吳坰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1090 - 1143
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3j0109.org][ZB3j0109]] 紫微雜說
