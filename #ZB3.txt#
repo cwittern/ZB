@@ -12833,82 +12833,102 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 孫逢吉
+***** 呂祖謙
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1135 - 1199
+      :DATES:    1137 - 1181
       :END:
 
-:DYNASTY: 宋
-:RESP: 呂祖謙
-:END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0022.org][ZB3k0022]] 八面鋒
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳傅良
+:SOURCE:   四庫全書 文淵閣版, V923.3, p989
+:EXTENT: 13 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陳傅良
+**** responsible:
+***** 陳傅良
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1203
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3k0023.org][ZB3k0023]] 錦繡萬花谷前集
+*** [[mandoku:ZB3k0023.org][ZB3k0023]] 錦繡萬花谷
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V924.1, p1
+:EXTENT: 120 卷
+:BOOK:   26
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3k0023a.org][ZB3k0023a]] 錦繡萬花谷__後集
-*** [[mandoku:ZB3k0023b.org][ZB3k0023b]] 錦繡萬花谷__續集
 *** [[mandoku:ZB3k0024.org][ZB3k0024]] 古今事文類聚
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 祝穆
+:SOURCE:   四庫全書 文淵閣版, V925 - 929.1, p1
+:EXTENT: 236 卷
+:BOOK:   140
 :END:
-**** dynasty: 宋
-**** responsible: 祝穆
+**** responsible:
+***** 祝穆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1246
+      :END:
+
+***** 富大用
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3k0024a.org][ZB3k0024a]] 古今事文類聚__前集
-*** [[mandoku:ZB3k0024b.org][ZB3k0024b]] 古今事文類聚__後集
-*** [[mandoku:ZB3k0024c.org][ZB3k0024c]] 古今事文類聚__續集
-*** [[mandoku:ZB3k0024d.org][ZB3k0024d]] 古今事文類聚__别集
-*** [[mandoku:ZB3k0024e.org][ZB3k0024e]] 古今事文類聚__古今事文類聚外集
-*** [[mandoku:ZB3k0024f.org][ZB3k0024f]] 古今事文類聚__古今事文類聚新集
-*** [[mandoku:ZB3k0024g.org][ZB3k0024g]] 古今事文類聚__古今事文類聚遺集
 *** [[mandoku:ZB3k0025.org][ZB3k0025]] 記纂淵海
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 潘自牧
+:SOURCE:   四庫全書 文淵閣版, V930 - 932.1, p1
+:EXTENT: 100 卷
+:BOOK:   76
 :END:
-**** dynasty: 宋
-**** responsible: 潘自牧
+**** responsible:
+***** 潘自牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0026.org][ZB3k0026]] 名賢氏族言行類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 章定
+:SOURCE:   四庫全書 文淵閣版, V933.1, p1
+:EXTENT: 60 + 1 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 章定
+**** responsible:
+***** 章定
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1209
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0027.org][ZB3k0027]] 羣書會元截江網
