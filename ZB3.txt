@@ -14002,67 +14002,102 @@
 *** [[mandoku:ZB3l0018.org][ZB3l0018]] 開元天寶遺事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後周
-:RESP: 王仁裕
+:SOURCE:   四庫全書 文淵閣版, V1035.20, p843
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 後周
-**** responsible: 王仁裕
+**** responsible:
+***** 王仁裕
+      :PROPERTIES:
+      :DYNASTY:  五代
+      :FUNCTION: 撰
+      :DATES:    880 - 942
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0019.org][ZB3l0019]] 鑒誡錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後蜀
-:RESP: 何光遠
+:SOURCE:   四庫全書 文淵閣版, V1035.21, p867
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 後蜀
-**** responsible: 何光遠
+**** responsible:
+***** 何光遠
+      :PROPERTIES:
+      :DYNASTY:  後蜀
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0020.org][ZB3l0020]] 南唐近事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭文寶
+:SOURCE:   四庫全書 文淵閣版, V1035.22, p927
+:EXTENT: 2 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 鄭文寶
+**** responsible:
+***** 鄭文寶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    953 - 1013
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0021.org][ZB3l0021]] 北夢瑣言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 孫光憲
+:SOURCE:   四庫全書 文淵閣版, V1036.1, p1
+:EXTENT: 20 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 孫光憲
+**** responsible:
+***** 孫光憲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 968
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0022.org][ZB3l0022]] 賈氏譚錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 張洎
+:SOURCE:   四庫全書 文淵閣版, V1036.2, p127
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 南唐
-**** responsible: 張洎
+**** responsible:
+***** 張洎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    933 - 996
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0023.org][ZB3l0023]] 洛陽搢紳舊聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張齋賢
+:SOURCE:   四庫全書 文淵閣版, V1036.3, p133
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 張齋賢
+**** responsible:
+***** 張齋賢
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    969 - 1014
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0023a.org][ZB3l0023a]] 雜事之屬
@@ -14070,12 +14105,18 @@
 *** [[mandoku:ZB3l0024.org][ZB3l0024]] 南部新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 錢易
+:SOURCE:   四庫全書 文淵閣版, V1036.4, p175
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 錢易
+**** responsible:
+***** 錢易
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    968 - 1026
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0025.org][ZB3l0025]] 王文正筆錄
