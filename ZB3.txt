@@ -13591,56 +13591,84 @@
 *** [[mandoku:ZB3k0061.org][ZB3k0061]] 格致鏡原
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳元龍
+:SOURCE:   四庫全書 文淵閣版, V1031 - 1032.1, p1
+:EXTENT: 100 卷
+:BOOK:   40
 :END:
-**** dynasty: 清
-**** responsible: 陳元龍
+**** responsible:
+***** 陳元龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1652 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0062.org][ZB3k0062]] 讀書紀數略
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 宮夢仁
+:SOURCE:   四庫全書 文淵閣版, V1033.1, p1
+:EXTENT: 54 卷
+:BOOK:   30
 :END:
-**** dynasty: 清
-**** responsible: 宮夢仁
+**** responsible:
+***** 宮夢仁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1632
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0063.org][ZB3k0063]] 花木鳥獸集類
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳寶芝
+:SOURCE:   四庫全書 文淵閣版, V1034.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 吳寶芝
+**** responsible:
+***** 吳寶芝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0064.org][ZB3k0064]] 別號錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 葛萬里
+:SOURCE:   四庫全書 文淵閣版, V1034.2, p113
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 葛萬里
+**** responsible:
+***** 葛萬里
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0065.org][ZB3k0065]] 宋稗類鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 潘永因
+:SOURCE:   四庫全書 文淵閣版, V1034.3, p215
+:EXTENT: 36 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 潘永因
+**** responsible:
+***** 潘永因
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    17th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB3l 小說家類
