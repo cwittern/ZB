@@ -14418,40 +14418,69 @@
 *** [[mandoku:ZB3l0040.org][ZB3l0040]] 湘山野綠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋文瑩
+:SOURCE:   四庫全書 文淵閣版, V1037.9, p225
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋文瑩
+**** responsible:
+***** 釋文瑩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0041.org][ZB3l0041]] 王壺野史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋文瑩
+:SOURCE:   四庫全書 文淵閣版, V1037.10, p283
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 釋文瑩
+**** responsible:
+***** 釋文瑩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0042.org][ZB3l0042]] 侯鯖錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙令時
+:SOURCE:   四庫全書 文淵閣版, V1037.11, p355
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙令時
+**** responsible:
+***** 趙令畤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1134
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0043.org][ZB3l0043]] 東軒筆錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1037.12, p355
+:EXTENT: 8 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 趙令畤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1134
+      :END:
+
 :DYNASTY: 宋
 :RESP: 魏泰
 :END:
