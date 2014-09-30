@@ -15317,80 +15317,116 @@
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    32 - 92
+      :DATES:    1014 - 1080
       :END:
 
-:DYNASTY: 漢
-:RESP: 郭憲
-:END:
-**** dynasty: 漢
-**** responsible: 郭憲
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0091.org][ZB3l0091]] 拾遺記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 王嘉
+:SOURCE:   四庫全書 文淵閣版, V1042.9, p311
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 晉
-**** responsible: 王嘉
+**** responsible:
+***** 王嘉
+      :PROPERTIES:
+      :DYNASTY:  前晉
+      :FUNCTION: 撰
+      :DATES:    d. -2
+      :END:
+
+***** 蕭綺
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0092.org][ZB3l0092]] 搜神記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 干寶
+:SOURCE:   四庫全書 文淵閣版, V1042.10, p365
+:EXTENT: 20 卷
+:BOOK:   4
 :END:
-**** dynasty: 晉
-**** responsible: 干寶
+**** responsible:
+***** 干寶
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    4th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0093.org][ZB3l0093]] 搜神後記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 陶潛
+:SOURCE:   四庫全書 文淵閣版, V1042.11, p469
+:EXTENT: 10 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 陶潛
+**** responsible:
+***** 陶潛
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    365 - 427
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0094.org][ZB3l0094]] 異苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 劉宋
-:RESP: 劉敬叔
+:SOURCE:   四庫全書 文淵閣版, V1042.12, p499
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 劉宋
-**** responsible: 劉敬叔
+**** responsible:
+***** 劉敬叔
+      :PROPERTIES:
+      :DYNASTY:  劉宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0095.org][ZB3l0095]] 續齊諧記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 吳均
+:SOURCE:   四庫全書 文淵閣版, V1042.13, p553
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 吳均
+**** responsible:
+***** 吳均
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    469 - 520
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0096.org][ZB3l0096]] 還冤記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 隋
-:RESP: 顏之推
+:SOURCE:   四庫全書 文淵閣版, V1042.14, p561
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 隋
-**** responsible: 顏之推
+**** responsible:
+***** 顏之推
+      :PROPERTIES:
+      :DYNASTY:  隋
+      :FUNCTION: 撰
+      :DATES:    531 - 591
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0097.org][ZB3l0097]] 集異記
