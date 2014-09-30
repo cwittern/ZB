@@ -13699,83 +13699,125 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0002
 :SOURCE:   四庫全書 文淵閣版, V1035.2, p29
-:EXTENT: 6 卷
-:BOOK:   1
+:EXTENT: 3 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 劉歆
+***** 劉義慶
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: 編
-      :DATES:    d. -23
+      :DYNASTY:  劉宋
+      :FUNCTION: 撰
+      :DATES:    403 - 444
       :END:
 
-:DYNASTY: 劉宋
-:RESP: 劉義慶
-:END:
-**** dynasty: 劉宋
-**** responsible: 劉義慶
+***** 劉孝標
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0003.org][ZB3l0003]] 朝野僉載
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張鷟
+:SOURCE:   四庫全書 文淵閣版, V1035.3, p215
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 張鷟
+**** responsible:
+***** 張鷟
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    666 - 741
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0004.org][ZB3l0004]] 唐新語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 劉肅
+:SOURCE:   四庫全書 文淵閣版, V1035.4, p287
+:EXTENT: 13 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 劉肅
+**** responsible:
+***** 劉肅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 806 - 820
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0005.org][ZB3l0005]] 次柳氏舊聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李德裕
+:SOURCE:   四庫全書 文淵閣版, V1035.5, p403
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李德裕
+**** responsible:
+***** 李德裕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    787 - 849
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0006.org][ZB3l0006]] 唐國史補
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李肇
+:SOURCE:   四庫全書 文淵閣版, V1035.6, p411
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 李肇
+**** responsible:
+***** 李肇
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 819
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0007.org][ZB3l0007]] 劉賓客嘉話錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韋絢
+:SOURCE:   四庫全書 文淵閣版, V1035.7, p453
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 韋絢
+**** responsible:
+***** 韋絢
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 812 - 856
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0008.org][ZB3l0008]] 明皇雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0008
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1035.8, p469
+:EXTENT: 6 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 韋絢
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 812 - 856
+      :END:
+
 :DYNASTY: 唐
 :RESP: 鄭處誨
 :END:
