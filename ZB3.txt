@@ -14584,78 +14584,116 @@
 *** [[mandoku:ZB3l0050.org][ZB3l0050]] 唐語林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王讜
+:SOURCE:   四庫全書 文淵閣版, V1038.1, p1
+:EXTENT: 8 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 王讜
+**** responsible:
+***** 王讜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1101 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0051.org][ZB3l0051]] 楓窗小牘
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 袁□
+:SOURCE:   四庫全書 文淵閣版, V1038.2, p207
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 袁□
+**** responsible:
+***** 袁□
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0052.org][ZB3l0052]] 南窗記談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1038.3, p235
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0053.org][ZB3l0053]] 過庭錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范公稱
+:SOURCE:   四庫全書 文淵閣版, V1038.4, p245
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 范公稱
+**** responsible:
+***** 范公偁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0054.org][ZB3l0054]] 萍洲可談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱彧
+:SOURCE:   四庫全書 文淵閣版, V1038.5, p273
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱彧
+**** responsible:
+***** 朱彧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0055.org][ZB3l0055]] 高齋漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾慥
+:SOURCE:   四庫全書 文淵閣版, V1038.6, p313
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 曾慥
+**** responsible:
+***** 曾慥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1148 - 1154
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0056.org][ZB3l0056]] 默記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王銍
+:SOURCE:   四庫全書 文淵閣版, V1038.7, p325
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王銍
+**** responsible:
+***** 王銍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1122 - 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0057.org][ZB3l0057]] 揮塵前錄
