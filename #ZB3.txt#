@@ -13448,45 +13448,87 @@
 :BOOK:   272
 :END:
 **** responsible:
-***** 董斯張
+***** 張英
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
-      :DATES:    1586 - 1628
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1637 - 1708
       :END:
 
-:DYNASTY: 清
-:RESP: 聖祖玄燁
-:END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+***** 王士禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0056.org][ZB3k0056]] 御定駢字類編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 康熙五十八年
+:SOURCE:   四庫全書 文淵閣版, V994 - 1004.1, p1
+:EXTENT: 240 + 4 卷
+:BOOK:   210
 :END:
-**** dynasty: 清
-**** responsible: 康熙五十八年
+**** responsible:
+***** 吳士玉
+      :PROPERTIES:
+      :DYNASTY:  清康熙五十八年
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 沈宗敬
+      :PROPERTIES:
+      :DYNASTY:  清康熙五十八年
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0057.org][ZB3k0057]] 御定分類字錦
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清康熙六十一年
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1005 - 1007.1, p1
+:EXTENT: 64 + 1 卷
+:BOOK:   60
 :END:
-**** dynasty: 清康熙六十一年
+**** responsible:
+***** 何焯
+      :PROPERTIES:
+      :DYNASTY:  清康熙六十一年
+      :FUNCTION: 奉敕撰
+      :DATES:    1661 - 1722
+      :END:
+
+***** 陳鵬年
+      :PROPERTIES:
+      :DYNASTY:  清康熙六十一年
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0058.org][ZB3k0058]] 御定子史精華
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0058
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1008 - 1010.1, p1
+:EXTENT: 64 + 1 卷
+:BOOK:   60
+:END:
+**** responsible:
+***** 何焯
+      :PROPERTIES:
+      :DYNASTY:  清康熙六十一年
+      :FUNCTION: 奉敕撰
+      :DATES:    1661 - 1722
+      :END:
+
 :DYNASTY: 清
 :RESP: 世宗胤禛
 :END:
