@@ -15117,75 +15117,117 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1436 - 1474
+      :DATES:    1436 - 1494
       :END:
 
-:DYNASTY: 明
-:RESP: 陸容
-:END:
-**** dynasty: 明
-**** responsible: 陸容
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0081.org][ZB3l0081]] 先進遺風
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 耿定向
+:SOURCE:   四庫全書 文淵閣版, V1041.3, p379
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 耿定向
+**** responsible:
+***** 耿定向
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1524 - 1596
+      :END:
+
+***** 毛在
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0082.org][ZB3l0082]] 觚不觚錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王世貞
+:SOURCE:   四庫全書 文淵閣版, V1041.4, p425
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 王世貞
+**** responsible:
+***** 王世貞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1526 - 1590
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0083.org][ZB3l0083]] 語林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何良俊
+:SOURCE:   四庫全書 文淵閣版, V1041.5, p441
+:EXTENT: 30 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 何良俊
+**** responsible:
+***** 何良俊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1526 - 1573
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0084.org][ZB3l0084]] 山海經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 郭璞
+:SOURCE:   四庫全書 文淵閣版, V1042.1, p1
+:EXTENT: 18 卷
+:BOOK:   3
 :END:
-**** dynasty: 晉
-**** responsible: 郭璞
+**** responsible:
+***** 郭璞
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    276 - 324
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0085.org][ZB3l0085]] 山海經廣注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳任臣
+:SOURCE:   四庫全書 文淵閣版, V1042.2, p85
+:EXTENT: 18 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 吳任臣
+**** responsible:
+***** 吳任臣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 注
+      :DATES:    1628? - 1689?
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0086.org][ZB3l0086]] 穆天子傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0086
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1042.3, p245
+:EXTENT: 6 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 郭璞
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    1628? - 1689?
+      :END:
+
 :DYNASTY: 晉
 :RESP: 郭璞
 :END:
