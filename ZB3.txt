@@ -13517,34 +13517,75 @@
 *** [[mandoku:ZB3k0058.org][ZB3k0058]] 御定子史精華
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V1008 - 1010.1, p1
+:EXTENT: 160 + 1 卷
+:BOOK:   54
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible:
+***** 吳士玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 吳襄
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0059.org][ZB3k0059]] 御定佩文韻府
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1011 - 1028.1, p1
+:EXTENT: 444 卷
+:BOOK:   437
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1711
+      :END:
+
+***** 陳廷敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0060.org][ZB3k0060]] 御定韻府拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1029 - 1030.1, p1
+:EXTENT: 112 卷
+:BOOK:   38
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 康熙
+      :PROPERTIES:
+      :DYNASTY:  清康熙五十五年
+      :FUNCTION: 御定
+      :DATES:    1654 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0061.org][ZB3k0061]] 格致鏡原
