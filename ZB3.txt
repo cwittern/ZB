@@ -13936,46 +13936,67 @@
 *** [[mandoku:ZB3l0015.org][ZB3l0015]] 雲仙雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 馮贄
+:SOURCE:   四庫全書 文淵閣版, V1035.16, p641
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 馮贄
+**** responsible:
+***** 馮贄
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 904
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0016.org][ZB3l0016]] 唐摭言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王定保
+:SOURCE:   四庫全書 文淵閣版, V1035.17, p695
+:EXTENT: 15 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 王定保
+**** responsible:
+***** 王定保
+      :PROPERTIES:
+      :DYNASTY:  五代
+      :FUNCTION: 撰
+      :DATES:    870 - ca. 954
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0017.org][ZB3l0017]] 中朝故事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 尉遲偓
+:SOURCE:   四庫全書 文淵閣版, V1035.18, p809
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 南唐
-**** responsible: 尉遲偓
+**** responsible:
+***** 尉遲偓
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0017a.org][ZB3l0017a]] 金華子雜編
-*** [[mandoku:ZB3l0017a.org][ZB3l0017a]] 金華子雜編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0017a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 劉崇逺
+:SOURCE:   四庫全書 文淵閣版, V1035.19, p823
+:EXTENT: 2 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 南唐
-**** responsible: 劉崇逺
+**** responsible:
+***** 劉崇遠
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0018.org][ZB3l0018]] 開元天寶遺事
