@@ -1,7 +1,7 @@
 (define-package "mandoku-meta-zb" "0.05" "Catalog files for ZB repository in mandoku" 
-  '((mandoku "20140901")
+  '((mandoku "20140930")
 ;    (org "20140101")
-    (org-plus-contrib "20140101")
+    (org-plus-contrib "20140630")
   ))
 
 
