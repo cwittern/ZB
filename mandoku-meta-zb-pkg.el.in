@@ -1,0 +1,3 @@
+(define-package "mandoku-meta-zb" "0.05" "Catalog files for ZB repository in mandoku" '((mandoku "20140901")))
+
+
