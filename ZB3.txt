@@ -14292,56 +14292,91 @@
 *** [[mandoku:ZB3l0035.org][ZB3l0035]] 後山談叢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳師道
+:SOURCE:   四庫全書 文淵閣版, V1037.2, p61
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳師道
+**** responsible:
+***** 陳師道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1102
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0036.org][ZB3l0036]] 孫公談圃
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孫升
+:SOURCE:   四庫全書 文淵閣版, V1037.3, p95
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 孫升
+**** responsible:
+***** 孫升
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 語
+      :DATES:    1038 - 1099
+      :END:
+
+***** 劉延世
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0037.org][ZB3l0037]] 談苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孔平仲
+:SOURCE:   四庫全書 文淵閣版, V1037.4, p119
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 孔平仲
+**** responsible:
+***** 孔平仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1065
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0038.org][ZB3l0038]] 畫墁錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張舜民
+:SOURCE:   四庫全書 文淵閣版, V1037.5, p155
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張舜民
+**** responsible:
+***** 張舜民
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0039.org][ZB3l0039]] 甲申雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王鞏
+:SOURCE:   四庫全書 文淵閣版, V1037.6, p179
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王鞏
+**** responsible:
+***** 王鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1075 - 1104
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 甲申雜記
