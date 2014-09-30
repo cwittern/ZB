@@ -15225,65 +15225,101 @@
       :PROPERTIES:
       :DYNASTY:  晉
       :FUNCTION: 注
-      :DATES:    1628? - 1689?
+      :DATES:    276 - 324
       :END:
 
-:DYNASTY: 晉
-:RESP: 郭璞
-:END:
-**** dynasty: 晉
-**** responsible: 郭璞
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0087.org][ZB3l0087]] 神異經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 東方朔
+:SOURCE:   四庫全書 文淵閣版, V1042.4, p265
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 東方朔
+**** responsible:
+***** 東方朔
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -154 - -93
+      :END:
+
+***** 張華
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0088.org][ZB3l0088]] 海內十洲記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 東方朔
+:SOURCE:   四庫全書 文淵閣版, V1042.5, p273
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 東方朔
+**** responsible:
+***** 東方朔
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -154 - -93
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0089.org][ZB3l0089]] 漢武故事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 班固
+:SOURCE:   四庫全書 文淵閣版, V1042.6, p281
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 班固
+**** responsible:
+***** 班固
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    32 - 92
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0089a.org][ZB3l0089a]] 漢武故事
 *** [[mandoku:ZB3l0089a.org][ZB3l0089a]] 漢武帝內傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0089a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 班固
+:SOURCE:   四庫全書 文淵閣版, V1042.7, p289
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 班固
+**** responsible:
+***** 班固
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    32 - 92
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0090.org][ZB3l0090]] 洞冥記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0090
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1042.8, p299
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 郭憲
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    32 - 92
+      :END:
+
 :DYNASTY: 漢
 :RESP: 郭憲
 :END:
