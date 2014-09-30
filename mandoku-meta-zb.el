@@ -1,9 +1,13 @@
 ;;; mandoku-meta-zb.el
-
+;(ignore-errors
 ;;;###autoload
-(ignore-errors
-(dolist (file (directory-files (concat mandoku-meta-dir dir) nil ".txt" ))
-  (add-to-list 'mandoku-catalogs-alist 
-	       (cons (file-name-sans-extension file) (concat mandoku-meta-dir dir "/" file)))))
-;(add-to-list 'mandoku-catalogs-alist)
+(eval-after-load 'mandoku
+  (let ((catdir (concat (file-name-directory (or load-file-name (buffer-file-name))) "")))
+    (dolist (file (directory-files catdir nil "ZB.*txt" ))
+      (add-to-list 'mandoku-catalogs-alist 
+		   (cons (file-name-sans-extension file) (concat catdir "" file)))
+      )))
+
+
+
 
