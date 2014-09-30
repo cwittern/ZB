@@ -14122,111 +14122,170 @@
 *** [[mandoku:ZB3l0025.org][ZB3l0025]] 王文正筆錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王曾
+:SOURCE:   四庫全書 文淵閣版, V1036.5, p265
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王曾
+**** responsible:
+***** 王曾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    978 - 1033
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0026.org][ZB3l0026]] 儒林公議
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 田況
+:SOURCE:   四庫全書 文淵閣版, V1036.6, p275
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 田況
+**** responsible:
+***** 田况
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1003 - 1061
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0027.org][ZB3l0027]] 涑水記聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V1036.7, p315
+:EXTENT: 16 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0028.org][ZB3l0028]] 澠水燕談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王闢之
+:SOURCE:   四庫全書 文淵閣版, V1036.8, p469
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 王闢之
+**** responsible:
+***** 王闢之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1067
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0029.org][ZB3l0029]] 歸田錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽修
+:SOURCE:   四庫全書 文淵閣版, V1036.9, p531
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽修
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0030.org][ZB3l0030]] 嘉祐雜誌
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 江休復
+:SOURCE:   四庫全書 文淵閣版, V1036.10, p557
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 江休復
+**** responsible:
+***** 江休復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1005 - 1060
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0031.org][ZB3l0031]] 東齋記事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范鎭
+:SOURCE:   四庫全書 文淵閣版, V1036.11, p579
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 范鎭
+**** responsible:
+***** 范鎭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1087
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0032.org][ZB3l0032]] 青箱雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳處厚
+:SOURCE:   四庫全書 文淵閣版, V1036.12, p609
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳處厚
+**** responsible:
+***** 吳處厚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1245
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0033.org][ZB3l0033]] 錢氏私志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 錢世昭
+:SOURCE:   四庫全書 文淵閣版, V1036.13, p657
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 錢世昭
+**** responsible:
+***** 錢世昭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0034.org][ZB3l0034]] 龍川畧志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇轍
+:SOURCE:   四庫全書 文淵閣版, V1037.1, p1
+:EXTENT: 10 + 2 卷
+:BOOK:   2 + 1
 :END:
-**** dynasty: 宋
-**** responsible: 蘇轍
+**** responsible:
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1039 - 1112
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0034a.org][ZB3l0034a]] 龍川略志__別志

@@ -14274,40 +14274,53 @@
 *** [[mandoku:ZB3l0034.org][ZB3l0034]] 龍川畧志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0034
-:SOURCE:   四庫全書 文淵閣版, V1037.1, p657
-:EXTENT: 1 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V1037.1, p1
+:EXTENT: 10 + 2 卷
+:BOOK:   2 + 1
 :END:
 **** responsible:
-***** 錢世昭
+***** 蘇轍
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1039 - 1112
       :END:
 
-:DYNASTY: 宋
-:RESP: 蘇轍
-:END:
-**** dynasty: 宋
-**** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0034a.org][ZB3l0034a]] 龍川略志__別志
 *** [[mandoku:ZB3l0035.org][ZB3l0035]] 後山談叢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳師道
+:SOURCE:   四庫全書 文淵閣版, V1037.2, p61
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳師道
+**** responsible:
+***** 陳師道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1102
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0036.org][ZB3l0036]] 孫公談圃
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0036
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1037.3, p95
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 陳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1102
+      :END:
+
 :DYNASTY: 宋
 :RESP: 孫升
 :END:
