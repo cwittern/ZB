@@ -14379,144 +14379,206 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 甲申雜記
-*** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 聞見近錄
-*** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 隨手雜錄
-*** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 隨手雜錄
-:PROPERTIES:
-:CUSTOM_ID:  ZB3l0039a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
-:END:
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3l0039b.org][ZB3l0039b]] 甲申聞見二錄補遺
-:PROPERTIES:
-:CUSTOM_ID:  ZB3l0039b
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
-:END:
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3l0039c.org][ZB3l0039c]] 聞見近錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0039c
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1037.7, p191
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 王鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1075 - 1104
+      :END:
+
 **** textual witnesses
 ***** WYG
+
+*** [[mandoku:ZB3l0039a.org][ZB3l0039a]] 隨手雜錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3l0039a
+:SOURCE:   四庫全書 文淵閣版, V1037.8, p211
+:EXTENT: 1 + 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 王鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1075 - 1104
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB3l0039b.org][ZB3l0039b]] 甲申聞見二錄補遺
 *** [[mandoku:ZB3l0040.org][ZB3l0040]] 湘山野綠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋文瑩
+:SOURCE:   四庫全書 文淵閣版, V1037.9, p225
+:EXTENT: 3 + 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋文瑩
+**** responsible:
+***** 釋文瑩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0041.org][ZB3l0041]] 王壺野史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋文瑩
+:SOURCE:   四庫全書 文淵閣版, V1037.10, p283
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 釋文瑩
+**** responsible:
+***** 釋文瑩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0042.org][ZB3l0042]] 侯鯖錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙令時
+:SOURCE:   四庫全書 文淵閣版, V1037.11, p355
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙令時
+**** responsible:
+***** 趙令畤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1134
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0043.org][ZB3l0043]] 東軒筆錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏泰
+:SOURCE:   四庫全書 文淵閣版, V1037.12, p415
+:EXTENT: 15 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 魏泰
+**** responsible:
+***** 魏泰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0044.org][ZB3l0044]] 泊宅編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方勺
+:SOURCE:   四庫全書 文淵閣版, V1037.13, p507
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 方勺
+**** responsible:
+***** 方勺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0045.org][ZB3l0045]] 珍席放談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高晦叟
+:SOURCE:   四庫全書 文淵閣版, V1037.14, p533
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 高晦叟
+**** responsible:
+***** 高晦叟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0046.org][ZB3l0046]] 鐵圍山叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡絛
+:SOURCE:   四庫全書 文淵閣版, V1037.15, p551
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 蔡絛
+**** responsible:
+***** 蔡絛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1124 - 1150
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0047.org][ZB3l0047]] 國光談苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王君玉
+:SOURCE:   四庫全書 文淵閣版, V1037.16, p631
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王君玉
+**** responsible:
+***** 王君玉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    11th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0048.org][ZB3l0048]] 道山清話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王暐
+:SOURCE:   四庫全書 文淵閣版, V1037.17, p645
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王暐
+**** responsible:
+***** 王暐
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0049.org][ZB3l0049]] 墨客揮犀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 彭乘
+:SOURCE:   四庫全書 文淵閣版, V1037.18, p673
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 彭乘
+**** responsible:
+***** 彭乘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0050.org][ZB3l0050]] 唐語林
