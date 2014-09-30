@@ -13286,50 +13286,74 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0047
 :SOURCE:   四庫全書 文淵閣版, V964.1, p1
-:EXTENT: 12 + 卷
-:BOOK:   78
+:EXTENT: 12 + 1 + 1 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 馮琦
+***** 余寅
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 編
-      :DATES:    1558 - 1603
+      :FUNCTION: 撰
+      :DATES:    1519 - 1595
       :END:
 
-:DYNASTY: 明
-:RESP: 餘寅
-:END:
-**** dynasty: 明
-**** responsible: 餘寅
+***** 周應賓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0048.org][ZB3k0048]] 說畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 顧起元
+:SOURCE:   四庫全書 文淵閣版, V964.2, p341
+:EXTENT: 30 卷
+:BOOK:   20
 :END:
-**** dynasty: 明
-**** responsible: 顧起元
+**** responsible:
+***** 顧起元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1565 - 1628
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0049.org][ZB3k0049]] 天中記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳耀文
+:SOURCE:   四庫全書 文淵閣版, V965 - 967.1, p1
+:EXTENT: 60 + 1 卷
+:BOOK:   60
 :END:
-**** dynasty: 明
-**** responsible: 陳耀文
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1550
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0050.org][ZB3k0050]] 圖書編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0050
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V965 - 967.1, p1
+:EXTENT: 60 + 1 卷
+:BOOK:   60
+:END:
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1550
+      :END:
+
 :DYNASTY: 明
 :RESP: 章潢
 :END:
