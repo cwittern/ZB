@@ -13228,52 +13228,75 @@
 *** [[mandoku:ZB3k0044.org][ZB3k0044]] 萬姓統譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0044
-:SOURCE:   四庫全書 文淵閣版, V953 - 955.1, p1
-:EXTENT: 120 卷
-:BOOK:   82
+:SOURCE:   四庫全書 文淵閣版, V956 - 957.1, p1
+:EXTENT: 140 + 1 + 6 卷
+:BOOK:   44
 :END:
 **** responsible:
-***** 唐順之
+***** 凌迪知
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1507 - 1560
+      :DATES:    1556
       :END:
 
-:DYNASTY: 明
-:RESP: 凌迪知
-:END:
-**** dynasty: 明
-**** responsible: 凌迪知
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0044a.org][ZB3k0044a]] 萬姓統譜__氏族博攷
 *** [[mandoku:ZB3k0045.org][ZB3k0045]] 喻林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐元太
+:SOURCE:   四庫全書 文淵閣版, V958 - 959.1, p1
+:EXTENT: 120 卷
+:BOOK:   56
 :END:
-**** dynasty: 明
-**** responsible: 徐元太
+**** responsible:
+***** 徐元太
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0046.org][ZB3k0046]] 經濟類編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮琦
+:SOURCE:   四庫全書 文淵閣版, V960 - 963.1, p1
+:EXTENT: 100 卷
+:BOOK:   78
 :END:
-**** dynasty: 明
-**** responsible: 馮琦
+**** responsible:
+***** 馮琦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1558 - 1603
+      :END:
+
+***** 馮瑗
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3k0047.org][ZB3k0047]] 同姓名錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0047
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V964.1, p1
+:EXTENT: 12 + 卷
+:BOOK:   78
+:END:
+**** responsible:
+***** 馮琦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1558 - 1603
+      :END:
+
 :DYNASTY: 明
 :RESP: 餘寅
 :END:
