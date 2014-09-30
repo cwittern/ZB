@@ -14991,83 +14991,135 @@
 *** [[mandoku:ZB3l0074.org][ZB3l0074]] 歸潛志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0074
-:SOURCE:   四庫全書 文淵閣版, V1040.3, p199
-:EXTENT: 3 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V1040.4, p223
+:EXTENT: 14 卷
+:BOOK:   4
 :END:
 **** responsible:
-***** 闕名
+***** 劉祁
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
+      :DATES:    1203 - 1250
       :END:
 
-:DYNASTY: 元
-:RESP: 劉祁
-:END:
-**** dynasty: 元
-**** responsible: 劉祁
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0075.org][ZB3l0075]] 山房隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 蔣正子
+:SOURCE:   四庫全書 文淵閣版, V1040.5, p331
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 蔣正子
+**** responsible:
+***** 蔣正子
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0076.org][ZB3l0076]] 山居新話
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊瑀
+:SOURCE:   四庫全書 文淵閣版, V1040.6, p343
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 楊瑀
+**** responsible:
+***** 楊瑀
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1285 - 1361
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0077.org][ZB3l0077]] 遂昌雜錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 鄭元祐
+:SOURCE:   四庫全書 文淵閣版, V1040.7, p379
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 鄭元祐
+**** responsible:
+***** 鄭元祐
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1292 - 1364
+      :END:
+
+**** textual witnesses
+***** WYG
+*** ZB3l0077a 樂郊私語
+:PROPERTIES:
+:CUSTOM_ID:  ZB3l0077a
+:SOURCE:   四庫全書 文淵閣版, V1040.8, p397
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 姚桐壽
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0078.org][ZB3l0078]] 輟耕錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陶宗儀
+:SOURCE:   四庫全書 文淵閣版, V1040.9, p409
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 元
-**** responsible: 陶宗儀
+**** responsible:
+***** 陶宗儀
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1360 - 1368
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0079.org][ZB3l0079]] 水東日記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葉盛
+:SOURCE:   四庫全書 文淵閣版, V1041.1, p1
+:EXTENT: 38 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 葉盛
+**** responsible:
+***** 葉盛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1420 - 1474
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0080.org][ZB3l0080]] 菽園雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0080
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1041.2, p231
+:EXTENT: 15 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 陸容
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1436 - 1474
+      :END:
+
 :DYNASTY: 明
 :RESP: 陸容
 :END:
