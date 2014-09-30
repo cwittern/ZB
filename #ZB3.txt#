@@ -14938,43 +14938,70 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0071.org][ZB3l0071]] 癸辛雜識前集
+*** [[mandoku:ZB3l0071.org][ZB3l0071]] 癸辛雜識
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周密
+:SOURCE:   四庫全書 文淵閣版, V1040.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 周密
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0072.org][ZB3l0072]] 隨隱漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳世崇
+:SOURCE:   四庫全書 文淵閣版, V1040.2, p165
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳世崇
+**** responsible:
+***** 陳世崇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1263 - 1281
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0073.org][ZB3l0073]] 東南紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1040.3, p199
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0074.org][ZB3l0074]] 歸潛志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0074
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1040.3, p199
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 劉祁
 :END:
