@@ -15432,62 +15432,116 @@
 *** [[mandoku:ZB3l0097.org][ZB3l0097]] 集異記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 薛用弱
+:SOURCE:   四庫全書 文淵閣版, V1042.15, p573
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 薛用弱
+**** responsible:
+***** 薛用弱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** ZB3l0097a 博異記
+:PROPERTIES:
+:CUSTOM_ID:  ZB3l0097a
+:SOURCE:   四庫全書 文淵閣版, V1042.16, p585
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 谷神子
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0098.org][ZB3l0098]] 杜陽雜編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 蘇鶚
+:SOURCE:   四庫全書 文淵閣版, V1042.17, p597
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 蘇鶚
+**** responsible:
+***** 蘇鶚
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    886
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0099.org][ZB3l0099]] 前定錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 鍾輅
+:SOURCE:   四庫全書 文淵閣版, V1042.18, p625
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 鍾輅
+**** responsible:
+***** 鍾輅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0100.org][ZB3l0100]] 桂苑叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 馮翊
+:SOURCE:   四庫全書 文淵閣版, V1042.19, p649
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 馮翊
+**** responsible:
+***** 馮翊子
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0101.org][ZB3l0101]] 劇談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 康駢
+:SOURCE:   四庫全書 文淵閣版, V1042.20, p661
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 康駢
+**** responsible:
+***** 康駢
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    877
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0102.org][ZB3l0102]] 宣室志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0102
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1042.21, p697
+:EXTENT: 10 + 1 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 張讀
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    877
+      :END:
+
 :DYNASTY: 唐
 :RESP: 張讀
 :END:
