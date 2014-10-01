@@ -16652,15 +16652,48 @@
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0033a.org][ZB3n0033a]] 亢倉子注
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0033a
+:SOURCE:   四庫全書 文淵閣版, V1059.5, p527
+:EXTENT: 9 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 何粲
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 黃諫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 音釋
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB3n0034.org][ZB3n0034]] 玄眞子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張志和
+:SOURCE:   四庫全書 文淵閣版, V1059.6, p549
+:EXTENT: 1 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 張志和
+**** responsible:
+***** 張志和
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    8th cent
+      :END:
+
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0035.org][ZB3n0035]] 天隱子
@@ -16677,18 +16710,34 @@
 *** [[mandoku:ZB3n0036.org][ZB3n0036]] 无能子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1059.7, p567
+:EXTENT: 3 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 唐
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0037.org][ZB3n0037]] 續仙傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0037
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1059.8, p583
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 沈汾
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 :DYNASTY: 唐
 :RESP: 沈汾
 :END:
