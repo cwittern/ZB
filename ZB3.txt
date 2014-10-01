@@ -5615,11 +5615,12 @@
 :SOURCE:   四庫全書 文淵閣版, V799 - 801.1, p1
 :EXTENT: 53 卷
 :BOOK:   50
+:DATE:   康熙五十二年
 :END:
 **** responsible:
 ***** 康熙
       :PROPERTIES:
-      :DYNASTY:  清康熙五十二年
+      :DYNASTY:  清
       :FUNCTION: 敕撰
       :DATES:    1654 - 1722
       :END:
@@ -6679,24 +6680,25 @@
 :SOURCE:   四庫全書 文淵閣版, V811.2, p109
 :EXTENT: 36 + 1 卷
 :BOOK:   36
+:DATE:   乾隆四年
 :END:
 **** responsible:
 ***** 允祿
       :PROPERTIES:
-      :DYNASTY:  清乾隆四年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1695 - 1767
       :END:
 
 ***** 梅㲄成
       :PROPERTIES:
-      :DYNASTY:  清乾隆四年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
 ***** 何國宗
       :PROPERTIES:
-      :DYNASTY:  清乾隆四年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -7739,11 +7741,12 @@
 :SOURCE:   四庫全書 文淵閣版, V819 - 823.1, p1
 :EXTENT: 100 + 1 + 1 卷
 :BOOK:   96
+:DATE:   康熙四十七年
 :END:
 **** responsible:
 ***** 孫岳頒
       :PROPERTIES:
-      :DYNASTY:  清康熙四十七年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    b. 1639
       :END:
@@ -7756,11 +7759,12 @@
 :SOURCE:   四庫全書 文淵閣版, V823.1, p443
 :EXTENT: 24 卷
 :BOOK:   8
+:DATE:   乾隆九年
 :END:
 **** responsible:
 ***** 張照
       :PROPERTIES:
-      :DYNASTY:  清乾隆九年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1691 - 1745
       :END:
@@ -7779,18 +7783,19 @@
 :SOURCE:   四庫全書 文淵閣版, V824 - 825.1, p1
 :EXTENT: 44 卷
 :BOOK:   28
+:DATE:   乾隆九年
 :END:
 **** responsible:
 ***** 張照
       :PROPERTIES:
-      :DYNASTY:  清乾隆九年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1691 - 1745
       :END:
 
 ***** 梁詩正
       :PROPERTIES:
-      :DYNASTY:  清乾隆九年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -8231,18 +8236,19 @@
 :SOURCE:   四庫全書 文淵閣版, V841 - 842.1, p1
 :EXTENT: 40 卷
 :BOOK:   28
+:DATE:   乾隆十四年
 :END:
 **** responsible:
 ***** 梁詩正
       :PROPERTIES:
-      :DYNASTY:  清乾隆十四年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1697 - 1763
       :END:
 
 ***** 蔣溥
       :PROPERTIES:
-      :DYNASTY:  清乾隆十四年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -8396,18 +8402,19 @@
 :SOURCE:   四庫全書 文淵閣版, V843.8, p133
 :EXTENT: 24 + 1 卷
 :BOOK:   12
+:DATE:   乾隆四十三年
 :END:
 **** responsible:
 ***** 于敏中
       :PROPERTIES:
-      :DYNASTY:  清乾隆四十三年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1714 - 1779
       :END:
 
 ***** 梁國治
       :PROPERTIES:
-      :DYNASTY:  清乾隆四十三年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -8485,18 +8492,19 @@
 :SOURCE:   四庫全書 文淵閣版, V844.1, p1
 :EXTENT: 16 卷
 :BOOK:   6
+:DATE:   乾隆十五年
 :END:
 **** responsible:
 ***** 梁詩正
       :PROPERTIES:
-      :DYNASTY:  清乾隆十五年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1697 - 1763
       :END:
 
 ***** 蔣溥
       :PROPERTIES:
-      :DYNASTY:  清乾隆十五年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -13516,17 +13524,18 @@
 :SOURCE:   四庫全書 文淵閣版, V994 - 1004.1, p1
 :EXTENT: 240 + 4 卷
 :BOOK:   210
+:DATE:   康熙五十八年
 :END:
 **** responsible:
 ***** 吳士玉
       :PROPERTIES:
-      :DYNASTY:  清康熙五十八年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
 ***** 沈宗敬
       :PROPERTIES:
-      :DYNASTY:  清康熙五十八年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -13538,18 +13547,19 @@
 :SOURCE:   四庫全書 文淵閣版, V1005 - 1007.1, p1
 :EXTENT: 64 + 1 卷
 :BOOK:   60
+:DATE:   康熙六十一年
 :END:
 **** responsible:
 ***** 何焯
       :PROPERTIES:
-      :DYNASTY:  清康熙六十一年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1661 - 1722
       :END:
 
 ***** 陳鵬年
       :PROPERTIES:
-      :DYNASTY:  清康熙六十一年
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
@@ -13618,11 +13628,12 @@
 :SOURCE:   四庫全書 文淵閣版, V1029 - 1030.1, p1
 :EXTENT: 112 卷
 :BOOK:   38
+:DATE:   康熙五十五年
 :END:
 **** responsible:
 ***** 康熙
       :PROPERTIES:
-      :DYNASTY:  清康熙五十五年
+      :DYNASTY:  清
       :FUNCTION: 御定
       :DATES:    1654 - 1722
       :END:
@@ -15096,7 +15107,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB3l0077a 樂郊私語
+*** no id 樂郊私語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0077a
 :SOURCE:   四庫全書 文淵閣版, V1040.8, p397
@@ -15328,7 +15339,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0089a.org][ZB3l0089a]] 漢武故事
+# *** [[mandoku:ZB3l0089a.org][ZB3l0089a]] 漢武故事
 *** [[mandoku:ZB3l0089a.org][ZB3l0089a]] 漢武帝內傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0089a
@@ -15358,6 +15369,7 @@
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
+# ?
       :DATES:    1014 - 1080
       :END:
 
@@ -15486,7 +15498,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB3l0097a 博異記
+*** no id 博異記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0097a
 :SOURCE:   四庫全書 文淵閣版, V1042.16, p585
