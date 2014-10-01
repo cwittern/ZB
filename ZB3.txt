@@ -16345,62 +16345,110 @@
 *** [[mandoku:ZB3n0016.org][ZB3n0016]] 莊子注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 郭象
+:SOURCE:   四庫全書 文淵閣版, V1056.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 晉
-**** responsible: 郭象
+**** responsible:
+***** 郭象
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    d. 319
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0017.org][ZB3n0017]] 南華眞經眞傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王雱
+:SOURCE:   四庫全書 文淵閣版, V1056.2, p169
+:EXTENT: 19 + 1 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 王雱
+**** responsible:
+***** 王雱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1076
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0018.org][ZB3n0018]] 莊子口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林希逸
+:SOURCE:   四庫全書 文淵閣版, V1056.3, p355
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 林希逸
+**** responsible:
+***** 林希逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0019.org][ZB3n0019]] 南華眞經義海纂微
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 褚伯秀
+:SOURCE:   四庫全書 文淵閣版, V1057.1, p1
+:EXTENT: 106 卷
+:BOOK:   32
 :END:
-**** dynasty: 宋
-**** responsible: 褚伯秀
+**** responsible:
+***** 褚伯秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0020.org][ZB3n0020]] 莊子翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 焦竑
+:SOURCE:   四庫全書 文淵閣版, V1058.1, p1
+:EXTENT: 8 + 1 + 1 + 1 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 焦竑
+**** responsible:
+***** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :FUNCTION: 輯
+      :DATES:    1541 - 1620
+      :END:
+
+***** 陳景元
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0021.org][ZB3n0021]] 文子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0021
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1058.2, p305
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :FUNCTION: 輯
+      :DATES:    1541 - 1620
+      :END:
+
 :DYNASTY: 
 :RESP: 
 :END:
