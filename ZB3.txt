@@ -47,7 +47,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0003
 :SOURCE:   四庫全書 文淵閣版, V695.3, p307
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -61,6 +61,8 @@
 **** textual witnesses
 ***** WYG
 **** (附)連叢子
+:EXTENT: (1) 卷
+:BOOK:   (2)
 ***** responsible:
 ****** 孔藏
        :PROPERTIES:
@@ -210,7 +212,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0010
 :SOURCE:   四庫全書 文淵閣版, V696.4, p355
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -223,6 +225,19 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)後漢書王符傳
+      :PROPERTIES:
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 王符
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    76 - 157
+      :END:
+
 *** [[mandoku:ZB3a0011.org][ZB3a0011]] 申鑒
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0011
@@ -418,6 +433,17 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022
@@ -473,7 +499,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0024
 :SOURCE:   四庫全書 文淵閣版, V697.4, p75
-:EXTENT: 14 + 1 卷
+:EXTENT: 14 卷
 :BOOK:   10
 :END:
 **** responsible:
@@ -486,6 +512,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT:   1 卷
+:BOOK:   (10)
+:END:
+***** responsible:
+****** 張戴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
@@ -523,7 +561,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0027
 :SOURCE:   四庫全書 文淵閣版, V698.1, p1
-:EXTENT: 25 + 1 卷
+:EXTENT: 25 卷
 :BOOK:   10
 :END:
 **** responsible:
@@ -548,6 +586,30 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (10)
+:END:
+***** responsible:
+****** 程顥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+****** 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+****** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0028
@@ -739,7 +801,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0037
 :SOURCE:   四庫全書 文淵閣版, V698.11, p643
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -752,6 +814,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+***** responsible:
+****** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 *** [[mandoku:ZB3a0038.org][ZB3a0038]] 近思錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0038
@@ -785,7 +859,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0039
 :SOURCE:   四庫全書 文淵閣版, V699.2, p127
-:EXTENT: 14 + 1 卷
+:EXTENT: 14 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -798,6 +872,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附說
+:EXTENT: 1 卷
+:BOOK:   (6)
+:END:
+***** responsible:
+****** 茅星來
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1678 - 1748
+      :END:
+
 *** [[mandoku:ZB3a0040.org][ZB3a0040]] 近思錄集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0040
@@ -819,7 +905,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0041
 :SOURCE:   四庫全書 文淵閣版, V699.4, p489
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -832,6 +918,18 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)記疑
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+***** responsible:
+****** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 *** [[mandoku:ZB3a0042.org][ZB3a0042]] 御定小學集駐
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0042
@@ -893,7 +991,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0045
 :SOURCE:   四庫全書 文淵閣版, V703.2, p109
-:EXTENT: 6 + 1 卷
+:EXTENT: 6 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -905,6 +1003,17 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (2)
+:END:
+***** responsible:
+****** 胡宏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3a0046.org][ZB3a0046]] 明本釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0046
@@ -1057,8 +1166,21 @@
 
 **** textual witnesses
 ***** WYG
-# *** ZB3a0053a 經濟文衡__後集
-# *** ZB3a0053b 經濟文衡__續集
+*** 前集
+:EXTENT: (25) 卷
+:BOOK:   (6)
+:END:
+
+*** ZB3a0053a 後集
+:EXTENT: (25) 卷
+:BOOK:   (6)
+:END:
+
+*** ZB3a0053b 續集
+:EXTENT: (22) 卷
+:BOOK:   (8)
+:END:
+<!--- here 2014-10-01 --->
 *** [[mandoku:ZB3a0054.org][ZB3a0054]] 大學衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0054
