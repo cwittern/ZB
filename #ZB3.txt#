@@ -16305,39 +16305,58 @@
 :BOOK:   3
 :END:
 **** responsible:
-***** 尹喜
+***** 列禦寇
       :PROPERTIES:
       :DYNASTY:  周
       :FUNCTION: 撰
+      :DATES:    -4th cent
       :END:
 
-:DYNASTY: 晉
-:RESP: 張湛
-:END:
-**** dynasty: 晉
-**** responsible: 張湛
+***** 張湛
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 註
+      :END:
+
+***** 殷敬愼
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 釋文
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0015.org][ZB3n0015]] 沖虛至德眞經解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 江遹
+:SOURCE:   四庫全書 文淵閣版, V1055.16, p651
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 江遹
+**** responsible:
+***** 江遹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0016.org][ZB3n0016]] 莊子注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 郭象
+:SOURCE:   四庫全書 文淵閣版, V1056.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 晉
-**** responsible: 郭象
+**** responsible:
+***** 郭象
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    d. 319
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0017.org][ZB3n0017]] 南華眞經眞傳
