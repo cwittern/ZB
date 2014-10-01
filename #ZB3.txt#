@@ -15657,55 +15657,72 @@
       :DATES:    925 - 996
       :END:
 
-:DYNASTY: 宋
-:RESP: 李昉
-:END:
-**** dynasty: 宋
-**** responsible: 李昉
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0110.org][ZB3l0110]] 分門古今類事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1047.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0111.org][ZB3l0111]] 陶朱新錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 馬純
+:SOURCE:   四庫全書 文淵閣版, V1047.2, p197
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 馬純
+**** responsible:
+***** 馬純
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1159 - 1163
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0112.org][ZB3l0112]] 睽車志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0112
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭彖
+:SOURCE:   四庫全書 文淵閣版, V1047.3, p221
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 郭彖
+**** responsible:
+***** 郭彖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0113.org][ZB3l0113]] 夷堅志甲
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0113
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪邁
+:SOURCE:   四庫全書 文淵閣版, V1047.4, p265
+:EXTENT: 50 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 洪邁
+**** responsible:
+***** 洪邁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1202
+      :END:
+here
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3l0113a.org][ZB3l0113a]] 夷堅志__甲
