@@ -1057,8 +1057,8 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3a0053.org][ZB3a0053a]] 經濟文衡__後集
-*** [[mandoku:ZB3a0053b.org][ZB3a0053b] 	經濟文衡__續集
+# *** ZB3a0053a 經濟文衡__後集
+# *** ZB3a0053b 經濟文衡__續集
 *** [[mandoku:ZB3a0054.org][ZB3a0054]] 大學衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0054
@@ -1182,7 +1182,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0061
 :SOURCE:   四庫全書 文淵閣版, V709.1, p1
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -1201,7 +1201,12 @@
 
 **** textual witnesses
 ***** WYG
-**** [[mandoku:ZB3a0061a.org][ZB3a0061a	北溪字義__嚴陵講義
+# **** ZB3a0061a (附)嚴陵講義
+      :PROPERTIES:
+      :TYPE:     appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
 
 *** [[mandoku:ZB3a0062.org][ZB3a0062]] 準齋雜說
 :PROPERTIES:
@@ -1434,7 +1439,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0075
 :SOURCE:   四庫全書 文淵閣版, V711.1, p541
-:EXTENT: 11 + 12 卷
+:EXTENT: 11 卷
 :BOOK:   12
 :END:
 **** responsible:
@@ -1447,6 +1452,13 @@
 
 **** textual witnesses
 ***** WYG
+# **** ZB3a0075a 讀書錄__續錄
+      :PROPERTIES:
+      :TYPE:     appendix
+      :EXTENT: 12 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB3a0076.org][ZB3a0076]] 大學衍義補
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0076
@@ -1738,7 +1750,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0093
 :SOURCE:   四庫全書 文淵閣版, V717.4, p175
-:EXTENT: 1 + 2 卷
+:EXTENT: 1 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -1751,6 +1763,13 @@
 
 **** textual witnesses
 ***** WYG
+# **** ZB3a0093a 人譜類記
+      :PROPERTIES:
+      :TYPE:     appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3a0094.org][ZB3a0094]] 榕壇問業
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0094
@@ -1793,7 +1812,7 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 世祖福臨
+***** 世祖
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
@@ -1806,20 +1825,22 @@
       :FUNCTION: 纂
       :END:
 
-***** 蔣赫德
-      :PROPERTIES:
-      :DYNASTY:  清
-      :FUNCTION: 撰
-      :END:
-
-***** 傅以漸
-      :PROPERTIES:
-      :DYNASTY:  清
-      :FUNCTION: 撰
-      :END:
-
 **** textual witnesses
 ***** WYG
+**** 後序
+***** responsible:
+****** 蔣赫德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+****** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3a0097.org][ZB3a0097]] 聖論廣訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0097
