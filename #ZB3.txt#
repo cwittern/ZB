@@ -230,6 +230,7 @@
       :EXTENT: 1 卷
       :BOOK:   (3)
       :END:
+***** responsible:
 ****** 王符
       :PROPERTIES:
       :DYNASTY:  漢
@@ -432,6 +433,17 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0022
@@ -487,7 +499,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0024
 :SOURCE:   四庫全書 文淵閣版, V697.4, p75
-:EXTENT: 14 + 1 卷
+:EXTENT: 14 卷
 :BOOK:   10
 :END:
 **** responsible:
@@ -500,6 +512,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT:   1 卷
+:BOOK:   (10)
+:END:
+***** responsible:
+****** 張戴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
