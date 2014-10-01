@@ -60,6 +60,14 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)連叢子
+***** responsible:
+****** 孔藏
+       :PROPERTIES:
+       :DYNASTY:  漢
+       :FUNCTION: 撰
+       :END:
+
 *** [[mandoku:ZB3a0004.org][ZB3a0004]] 新語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0004
@@ -13240,6 +13248,8 @@
       :DATES:    1556
       :END:
 
+**** textual witnesses
+***** WYG
 **** [[mandoku:ZB3k0044a.org][ZB3k0044a]] (附)氏族博攷
       :PROPERTIES:
       :TYPE:     appendix
@@ -13247,8 +13257,6 @@
       :BOOK:   4
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3k0045.org][ZB3k0045]] 喻林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0045
@@ -13303,14 +13311,16 @@
       :DATES:    1519 - 1595
       :END:
 
-***** 周應賓
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 補
-      :END:
-
 **** textual witnesses
 ***** WYG
+**** 錄補
+***** responsible:
+****** 周應賓
+       :PROPERTIES:
+       :DYNASTY:  明
+       :FUNCTION: 撰
+       :END:
+
 *** [[mandoku:ZB3k0048.org][ZB3k0048]] 說畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0048
