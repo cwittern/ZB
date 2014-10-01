@@ -16102,53 +16102,76 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    f 1200
+      :DATES:    fl. 1224
       :END:
 
-:DYNASTY: 宋
-:RESP: 夏元鼎
-:END:
-**** dynasty: 宋
-**** responsible: 夏元鼎
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0003.org][ZB3n0003]] 老子道德經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 河上公
+:SOURCE:   四庫全書 文淵閣版, V1055.4, p45
+:EXTENT: 2 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 河上公
+**** responsible:
+***** 河上公
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0004.org][ZB3n0004]] 道德指歸論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 嚴遵
+:SOURCE:   四庫全書 文淵閣版, V1055.5, p75
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 嚴遵
+**** responsible:
+***** 嚴遵
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -1st cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0005.org][ZB3n0005]] 老子道德經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王弼
+:SOURCE:   四庫全書 文淵閣版, V1055.6, p137
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 魏
-**** responsible: 王弼
+**** responsible:
+***** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 注
+      :DATES:    226 - 249
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0006.org][ZB3n0006]] 老子解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0006
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1055.7, p187
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 
+      :DATES:    226 - 249
+      :END:
+
 :DYNASTY: 宋
 :RESP: 蘇轍
 :END:
