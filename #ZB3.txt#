@@ -16554,78 +16554,101 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0028
 :SOURCE:   四庫全書 文淵閣版, V1058.9, p749
-:EXTENT: 3 + 1 卷
-:BOOK:   4
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
 **** responsible:
-***** 俞琰
+***** 陳致虛
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1258 - 1314
       :END:
 
-:DYNASTY: 元
-:RESP: 陳致虛
-:END:
-**** dynasty: 元
-**** responsible: 陳致虛
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0029.org][ZB3n0029]] 古文參同契集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 蔣一彪
+:SOURCE:   四庫全書 文淵閣版, V1058.10, p811
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 蔣一彪
+**** responsible:
+***** 蔣一彪
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1614
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0030.org][ZB3n0030]] 抱朴子內篇
+*** [[mandoku:ZB3n0030.org][ZB3n0030]] 抱朴子內外篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 葛洪
+:SOURCE:   四庫全書 文淵閣版, V1059.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 晉
-**** responsible: 葛洪
+**** responsible:
+***** 葛洪
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    ca. 250 - ca. 330
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0030a.org][ZB3n0030a]] 抱朴子內外篇__外篇
 *** [[mandoku:ZB3n0031.org][ZB3n0031]] 神仙傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 葛洪
+:SOURCE:   四庫全書 文淵閣版, V1059.2, p253
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 晉
-**** responsible: 葛洪
+**** responsible:
+***** 葛洪
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    ca. 250 - ca. 330
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0032.org][ZB3n0032]] 眞誥
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 陶弘景
+:SOURCE:   四庫全書 文淵閣版, V1059.3, p313
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 梁
-**** responsible: 陶弘景
+**** responsible:
+***** 陶弘景
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    456 - 536
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0033.org][ZB3n0033]] 亢倉子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王士元
+:SOURCE:   四庫全書 文淵閣版, V1059.4, p509
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 王士元
+**** responsible:
+***** 王士源
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0033a.org][ZB3n0033a]] 亢倉子注
