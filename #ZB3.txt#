@@ -16168,96 +16168,149 @@
 ***** 蘇轍
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 
-      :DATES:    226 - 249
+      :FUNCTION: 撰
+      :DATES:    1039 - 1113
       :END:
 
-:DYNASTY: 宋
-:RESP: 蘇轍
-:END:
-**** dynasty: 宋
-**** responsible: 蘇轍
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0007.org][ZB3n0007]] 道德寶章
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛長庚
+:SOURCE:   四庫全書 文淵閣版, V1055.8, p239
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葛長庚
+**** responsible:
+***** 葛長庚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0008.org][ZB3n0008]] 道德眞經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V1055.9, p257
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0009.org][ZB3n0009]] 老子翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 焦竑
+:SOURCE:   四庫全書 文淵閣版, V1055.10, p323
+:EXTENT: 3 + 1 + 1 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 焦竑
+**** responsible:
+***** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1541 - 1620
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0010.org][ZB3n0010]] 御定道德經註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 成克鞏
+:SOURCE:   四庫全書 文淵閣版, V1055.11, p445
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 成克鞏
+**** responsible:
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :DATES:    1638 - 1661
+      :END:
+
+***** 成克鞏
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0011.org][ZB3n0011]] 老子說畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張爾岐
+:SOURCE:   四庫全書 文淵閣版, V1055.12, p481
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 張爾岐
+**** responsible:
+***** 張爾岐
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1612 - 1678
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0012.org][ZB3n0012]] 道德經註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 徐大椿
+:SOURCE:   四庫全書 文淵閣版, V1055.13, p519
+:EXTENT: 2 + 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 徐大椿
+**** responsible:
+***** 徐大椿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1693 - 1771
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0013.org][ZB3n0013]] 關尹子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1055.14, p551
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
+**** responsible:
+***** 尹喜
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0014.org][ZB3n0014]] 列子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0014
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1055.15, p573
+:EXTENT: 8 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 尹喜
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 晉
 :RESP: 張湛
 :END:
