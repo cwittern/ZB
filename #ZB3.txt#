@@ -561,7 +561,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0027
 :SOURCE:   四庫全書 文淵閣版, V698.1, p1
-:EXTENT: 25 + 1 卷
+:EXTENT: 25 卷
 :BOOK:   10
 :END:
 **** responsible:
@@ -586,6 +586,30 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (10)
+:END:
+***** responsible:
+****** 程顥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1085
+      :END:
+
+****** 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+****** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0028
@@ -777,7 +801,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0037
 :SOURCE:   四庫全書 文淵閣版, V698.11, p643
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -790,6 +814,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+***** responsible:
+****** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 *** [[mandoku:ZB3a0038.org][ZB3a0038]] 近思錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0038
