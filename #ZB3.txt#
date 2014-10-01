@@ -16059,34 +16059,52 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 釋念常
+***** 黃帝
       :PROPERTIES:
-      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1282 - 1341
       :END:
 
-:DYNASTY: □
-:RESP: 闕名
-:END:
-**** dynasty: □
-**** responsible: 闕名
+***** 李筌
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經解
 *** [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0001a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1055.2, p11
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB3n0002.org][ZB3n0002]] 陰符經講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0002
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1055.3, p19
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 夏元鼎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    f 1200
+      :END:
+
 :DYNASTY: 宋
 :RESP: 夏元鼎
 :END:
