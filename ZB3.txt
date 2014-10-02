@@ -2725,6 +2725,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (6)
+      :END:
+
+**** ZB3b0016a 後集
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0017
@@ -2762,7 +2774,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0019
 :SOURCE:   四庫全書 文淵閣版, V728.2, p487
-:EXTENT: 18 + 1 卷
+:EXTENT: 18 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -2775,12 +2787,19 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0020
 :SOURCE:   四庫全書 文淵閣版, V728.3, p687
-:EXTENT: 9 + 6 卷
-:BOOK:   4 + 4
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
 **** responsible:
 ***** 戚繼光
@@ -2792,6 +2811,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3b0020a 練兵雜紀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   4
+      :END:
+
 ** ZB3c 法家類
 *** [[mandoku:ZB3c0001.org][ZB3c0001]] 管子
 :PROPERTIES:
@@ -2890,11 +2916,11 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3c0006.org][ZB3c0006]] 疑嶽集
+*** [[mandoku:ZB3c0006.org][ZB3c0006]] 疑獄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0006
 :SOURCE:   四庫全書 文淵閣版, V729.6, p795
-:EXTENT: 4 + 6 卷
+:EXTENT: 4 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -2910,15 +2936,22 @@
       :FUNCTION: 撰
       :END:
 
-***** 張景
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 補
-      :END:
-
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3c0007.org][ZB3c0007]] 折嶽龜鑑
+**** 補疑獄集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 張景
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+*** [[mandoku:ZB3c0007.org][ZB3c0007]] 折獄龜鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0007
 :SOURCE:   四庫全書 文淵閣版, V729.7, p861
@@ -2939,7 +2972,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0008
 :SOURCE:   四庫全書 文淵閣版, V729.8, p969
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -2958,11 +2991,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3c0009.org][ZB3c0009]] 齊民要術
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0009
 :SOURCE:   四庫全書 文淵閣版, V730.1, p1
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -2975,6 +3015,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)雜說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 ** ZB3d 農家類
 *** [[mandoku:ZB3d0001.org][ZB3d0001]] 農書
 :PROPERTIES:
