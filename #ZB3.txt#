@@ -2622,8 +2622,17 @@
 **** textual witnesses
 ***** WYG
 **** 前集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (14)
+      :END:
 
-ZB3b0012a	武經總要__後集
+**** ZB3b0012a 後集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0013
@@ -2673,14 +2682,32 @@ ZB3b0012a	武經總要__後集
       :DATES:    1071 - 1141
       :END:
 
-***** 湯璹
+**** textual witnesses
+***** WYG
+**** 靖康朝野僉言後序
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 守城機要
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 建炎德安守禦錄
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 湯璹
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0016
@@ -2698,6 +2725,18 @@ ZB3b0012a	武經總要__後集
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (6)
+      :END:
+
+**** ZB3b0016a 後集
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0017
@@ -2735,7 +2774,7 @@ ZB3b0012a	武經總要__後集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0019
 :SOURCE:   四庫全書 文淵閣版, V728.2, p487
-:EXTENT: 18 + 1 卷
+:EXTENT: 18 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -2748,6 +2787,7 @@ ZB3b0012a	武經總要__後集
 
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0020

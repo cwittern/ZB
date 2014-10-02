@@ -61,8 +61,11 @@
 **** textual witnesses
 ***** WYG
 **** (附)連叢子
-:EXTENT: (1) 卷
-:BOOK:   (2)
+      :PROPERTIES:
+      :TYPE:     appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (2)
+      :END:
 ***** responsible:
 ****** 孔藏
        :PROPERTIES:
@@ -227,6 +230,7 @@
 ***** WYG
 **** (附)後漢書王符傳
       :PROPERTIES:
+      :TYPE:   appendix
       :EXTENT: 1 卷
       :BOOK:   (3)
       :END:
@@ -414,7 +418,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0021
 :SOURCE:   四庫全書 文淵閣版, V696.15, p781
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -427,9 +431,11 @@
 **** textual witnesses
 ***** WYG
 **** 附錄
-:EXTENT: 1 卷
-:BOOK:   (1)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
 
 *** [[mandoku:ZB3a0022.org][ZB3a0022]] 太極圖說述解
 :PROPERTIES:
@@ -500,9 +506,11 @@
 **** textual witnesses
 ***** WYG
 **** 附錄
-:EXTENT:   1 卷
-:BOOK:   (10)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
 
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
@@ -567,9 +575,11 @@
 **** textual witnesses
 ***** WYG
 **** 附錄
-:EXTENT: 1 卷
-:BOOK:   (10)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
 
 *** [[mandoku:ZB3a0028.org][ZB3a0028]] 二程外書
 :PROPERTIES:
@@ -776,9 +786,11 @@
 **** textual witnesses
 ***** WYG
 **** 附錄
-:EXTENT: 1 卷
-:BOOK:   (1)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
 
 *** [[mandoku:ZB3a0038.org][ZB3a0038]] 近思錄
 :PROPERTIES:
@@ -827,9 +839,11 @@
 **** textual witnesses
 ***** WYG
 **** 附說
-:EXTENT: 1 卷
-:BOOK:   (6)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
 
 *** [[mandoku:ZB3a0040.org][ZB3a0040]] 近思錄集註
 :PROPERTIES:
@@ -866,9 +880,11 @@
 **** textual witnesses
 ***** WYG
 **** (附)記疑
-:EXTENT: 1 卷
-:BOOK:   (1)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
 
 *** [[mandoku:ZB3a0042.org][ZB3a0042]] 御定小學集駐
 :PROPERTIES:
@@ -944,9 +960,11 @@
 **** textual witnesses
 ***** WYG
 **** 附錄
-:EXTENT: 1 卷
-:BOOK:   (2)
-:END:
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
 
 *** [[mandoku:ZB3a0046.org][ZB3a0046]] 明本釋
 :PROPERTIES:
@@ -1101,19 +1119,22 @@
 **** textual witnesses
 ***** WYG
 *** 前集
-:EXTENT: (25) 卷
-:BOOK:   (6)
-:END:
+      :PROPERTIES:
+      :EXTENT: (25) 卷
+      :BOOK:   (6)
+      :END:
 
 *** ZB3a0053a 後集
-:EXTENT: (25) 卷
-:BOOK:   (6)
-:END:
+      :PROPERTIES:
+      :EXTENT: (25) 卷
+      :BOOK:   (6)
+      :END:
 
 *** ZB3a0053b 續集
-:EXTENT: (22) 卷
-:BOOK:   (8)
-:END:
+      :PROPERTIES:
+      :EXTENT: (22) 卷
+      :BOOK:   (8)
+      :END:
 
 *** [[mandoku:ZB3a0054.org][ZB3a0054]] 大學衍義
 :PROPERTIES:
@@ -1187,7 +1208,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0058
 :SOURCE:   四庫全書 文淵閣版, V706.3, p471
-:EXTENT: 10 + 2 卷
+:EXTENT: 10 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -1200,6 +1221,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3a0059.org][ZB3a0059]] 先聖大訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0059
@@ -1257,9 +1285,9 @@
 
 **** textual witnesses
 ***** WYG
-# **** ZB3a0061a (附)嚴陵講義
+**** ZB3a0061a (附)嚴陵講義
       :PROPERTIES:
-      :TYPE:     appendix
+      :TYPE:   appendix
       :EXTENT: 1 卷
       :BOOK:   (2)
       :END:
@@ -1379,7 +1407,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0068
 :SOURCE:   四庫全書 文淵閣版, V709.8, p457
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -1392,11 +1420,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3a0069.org][ZB3a0069]] 辨惑編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0069
 :SOURCE:   四庫全書 文淵閣版, V709.9, p535
-:EXTENT: 4 + 1 卷
+:EXTENT: 4 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -1409,6 +1444,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3a0070.org][ZB3a0070]] 治世龜鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0070
@@ -1508,9 +1550,9 @@
 
 **** textual witnesses
 ***** WYG
-# **** ZB3a0075a 讀書錄__續錄
+**** ZB3a0075a 續錄
       :PROPERTIES:
-      :TYPE:     appendix
+      :TYPE:   appendix
       :EXTENT: 12 卷
       :BOOK:   (12)
       :END:
@@ -1519,7 +1561,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0076
 :SOURCE:   四庫全書 文淵閣版, V712 - 713.1, p1
-:EXTENT: 160 + 1 卷
+:EXTENT: 160 卷
 :BOOK:   64
 :END:
 **** responsible:
@@ -1532,6 +1574,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (64)
+      :END:
+
 *** [[mandoku:ZB3a0077.org][ZB3a0077]] 居業錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0077
@@ -1553,7 +1602,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0078
 :SOURCE:   四庫全書 文淵閣版, V714.2, p111
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -1566,6 +1615,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)行實
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3a0079.org][ZB3a0079]] 東溪日談錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0079
@@ -1586,7 +1642,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0080
 :SOURCE:   四庫全書 文淵閣版, V714.4, p275
-:EXTENT: 2 + 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -1599,6 +1655,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3a0081.org][ZB3a0081]] 讀書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0081
@@ -1654,7 +1724,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0084
 :SOURCE:   四庫全書 文淵閣版, V715.1, p1
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -1667,6 +1737,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3a0085.org][ZB3a0085]] 張子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0085
@@ -1738,7 +1815,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0089
 :SOURCE:   四庫全書 文淵閣版, V716.1, p1
-:EXTENT: 100 + 1 卷
+:EXTENT: 100 卷
 :BOOK:   34
 :END:
 **** responsible:
@@ -1751,6 +1828,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (34)
+      :END:
+
 *** [[mandoku:ZB3a0090.org][ZB3a0090]] 世緯
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0090
@@ -1802,6 +1886,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 聖學宗要
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 學言
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3a0093.org][ZB3a0093]] 人譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0093
@@ -1819,7 +1915,7 @@
 
 **** textual witnesses
 ***** WYG
-# **** ZB3a0093a 人譜類記
+**** ZB3a0093a 人譜類記
       :PROPERTIES:
       :TYPE:     appendix
       :EXTENT: 2 卷
@@ -1864,7 +1960,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0096
 :SOURCE:   四庫全書 文淵閣版, V717.7, p531
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -1883,7 +1979,13 @@
 
 **** textual witnesses
 ***** WYG
-**** 後序
+**** (附)後序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 ***** responsible:
 ****** 蔣赫德
       :PROPERTIES:
@@ -1957,7 +2059,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0100
 :SOURCE:   四庫全書 文淵閣版, V718 - 719.1, p1
-:EXTENT: 100 + 1 + 2 卷
+:EXTENT: 100 卷
 :BOOK:   50
 :END:
 **** responsible:
@@ -1982,6 +2084,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (50)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (50)
+      :END:
+
 *** [[mandoku:ZB3a0101.org][ZB3a0101]] 御定內則衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0101
@@ -2078,7 +2194,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0105
 :SOURCE:   四庫全書 文淵閣版, V722 - 723.2, p125
-:EXTENT: 30 + 2 + 1 卷
+:EXTENT: 30 卷
 :BOOK:   32
 :END:
 **** responsible:
@@ -2097,6 +2213,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (32)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (32)
+      :END:
+
 *** [[mandoku:ZB3a0106.org][ZB3a0106]] 思辨錄輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0106
@@ -2491,6 +2621,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (14)
+      :END:
+
+**** ZB3b0012a 後集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0013
@@ -2540,14 +2682,32 @@
       :DATES:    1071 - 1141
       :END:
 
-***** 湯璹
+**** textual witnesses
+***** WYG
+**** 靖康朝野僉言後序
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 守城機要
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 建炎德安守禦錄
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 湯璹
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0016
