@@ -10831,7 +10831,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0035
 :SOURCE:   四庫全書 文淵閣版, V850.13, p853
-:EXTENT: 4 + 1 + 1 卷
+:EXTENT: 4 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -10844,6 +10844,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3j0036.org][ZB3j0036]] 西溪叢語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0036
