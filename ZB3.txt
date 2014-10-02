@@ -14335,14 +14335,62 @@
       :DATES:    fl. 1246
       :END:
 
-***** 富大用
+**** textual witnesses
+***** WYG
+**** ZB3k0024a 前集
+      :PROPERTIES:
+      :EXTENT: (60) 卷
+      :BOOK:   (35)
+      :END:
+
+**** ZB3k0024b 後集
+      :PROPERTIES:
+      :EXTENT: (50) 卷
+      :BOOK:   (28)
+      :END:
+
+**** ZB3k0024c 續集
+      :PROPERTIES:
+      :EXTENT: (28) 卷
+      :BOOK:   (18)
+      :END:
+
+**** ZB3k0024d 别集
+      :PROPERTIES:
+      :EXTENT: (32) 卷
+      :BOOK:   (17)
+      :END:
+
+**** ZB3k0024f (附)古今事文類聚新集
+      :PROPERTIES:
+      :EXTENT: (36) 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 富大用
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
+**** ZB3k0024e 外集
+      :PROPERTIES:
+      :EXTENT: (15) 卷
+      :BOOK:   (11)
+      :END:
+
+**** ZB3k0024g 古今事文類聚遺集
+      :PROPERTIES:
+      :EXTENT: (15) 卷
+      :BOOK:   (11)
+      :END:
+***** responsible:
+****** 祝淵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3k0025.org][ZB3k0025]] 記纂淵海
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0025
@@ -14363,7 +14411,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0026
 :SOURCE:   四庫全書 文淵閣版, V933.1, p1
-:EXTENT: 60 + 1 卷
+:EXTENT: 60 卷
 :BOOK:   22
 :END:
 **** responsible:
@@ -14376,6 +14424,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB3k0027.org][ZB3k0027]] 羣書會元截江網
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0027
@@ -14408,6 +14463,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (27) 卷
+      :BOOK:   (10)
+      :END:
+
+**** ZB3k0028a 後集
+      :PROPERTIES:
+      :EXTENT: (31) 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB3k0029.org][ZB3k0029]] 羣書考索
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0029
@@ -14424,6 +14491,30 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (66) 卷
+      :BOOK:   (32)
+      :END:
+
+**** ZB3k0029a 後集
+      :PROPERTIES:
+      :EXTENT: (65) 卷
+      :BOOK:   (33)
+      :END:
+
+**** ZB3k0029b 續集
+      :PROPERTIES:
+      :EXTENT: (56) 卷
+      :BOOK:   (24)
+      :END:
+
+**** ZB3k0029c 别集
+      :PROPERTIES:
+      :EXTENT: (25) 卷
+      :BOOK:   (13)
+      :END:
+
 *** [[mandoku:ZB3k0030.org][ZB3k0030]] 古今合璧事類備要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0030
@@ -14441,6 +14532,36 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3k0030a 前集
+      :PROPERTIES:
+      :EXTENT: (69) 卷
+      :BOOK:   (41)
+      :END:
+
+**** ZB3k0030b 後集
+      :PROPERTIES:
+      :EXTENT: (存80) 卷
+      :BOOK:   (  )
+      :END:
+
+**** ZB3k0030c 續集
+      :PROPERTIES:
+      :EXTENT: (56) 卷
+      :BOOK:   (10)
+      :END:
+
+**** ZB3k0030d 别集
+      :PROPERTIES:
+      :EXTENT: (94) 卷
+      :BOOK:   (18)
+      :END:
+
+**** ZB3k0030e 外集
+      :PROPERTIES:
+      :EXTENT: (66) 卷
+      :BOOK:   (11)
+      :END:
+
 *** [[mandoku:ZB3k0031.org][ZB3k0031]] 古今源流至論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0031
