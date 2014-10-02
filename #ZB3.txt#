@@ -6645,8 +6645,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0010
 :SOURCE:   四庫全書 文淵閣版, V805.1, p1
-:EXTENT: 5 + 3 卷
-:BOOK:   5 + 1
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
 **** responsible:
 ***** 祝泌
@@ -6658,11 +6658,18 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)皇極經世解起數訣
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3g0011.org][ZB3g0011]] 皇極經世書解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0011
 :SOURCE:   四庫全書 文淵閣版, V805.2, p245
-:EXTENT: 14 + 2 卷
+:EXTENT: 14 卷
 :BOOK:   16
 :END:
 **** responsible:
@@ -6674,6 +6681,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB3g0012.org][ZB3g0012]] 易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0012
@@ -6711,7 +6725,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0014
 :SOURCE:   四庫全書 文淵閣版, V806.1, p1
-:EXTENT: 5 + 1 + 1 卷
+:EXTENT: 5 卷
 :BOOK:   12
 :END:
 **** responsible:
@@ -6725,11 +6739,30 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 辨正
-      :FUNCTION: 撰
       :END:
 
 **** textual witnesses
 ***** WYG
+**** (附)各類圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** 問答節要
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 鮑寧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3g0015.org][ZB3g0015]] 大衍索隱
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0015
@@ -6750,8 +6783,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0016
 :SOURCE:   四庫全書 文淵閣版, V806.3, p371
-:EXTENT: 3 + 3 卷
-:BOOK:   1 + 1
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
 **** responsible:
 ***** 張理
@@ -6762,6 +6795,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 內篇
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 外篇
+      :PROPERTIES:
+      :EXTENT:  卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3g0017.org][ZB3g0017]] 三易洞璣
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0017
