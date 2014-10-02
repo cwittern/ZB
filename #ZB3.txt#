@@ -13391,7 +13391,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0168
 :SOURCE:   四庫全書 文淵閣版, V871.3, p45
-:EXTENT: 4 + 1 卷
+:EXTENT: 4 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -13402,14 +13402,21 @@
       :DATES:    1232 - 1308
       :END:
 
-***** 湯允謨
+**** textual witnesses
+***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 湯允謨
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3j0169.org][ZB3j0169]] 格古要論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0169
@@ -13614,7 +13621,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0181
 :SOURCE:   四庫全書 文淵閣版, V875.1, p1
-:EXTENT: 40 + 1 卷
+:EXTENT: 40 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -13626,6 +13633,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首:書目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3j0182.org][ZB3j0182]] 自警編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0182
@@ -13818,7 +13832,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0002
 :SOURCE:   四庫全書 文淵閣版, V887.2, p37
-:EXTENT: 2 + 2 + 2 卷
+:EXTENT: 2 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -13829,14 +13843,34 @@
       :DATES:    fl. 611
       :END:
 
-***** 高士奇
+**** textual witnesses
+***** WYG
+**** (附)補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 高士奇
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
+**** ZB3k0002a 續編珠
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3k0003.org][ZB3k0003]] 藝文類聚
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0003
@@ -13904,7 +13938,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0006
 :SOURCE:   四庫全書 文淵閣版, V890.1, p1
-:EXTENT: 30 + 1 卷
+:EXTENT: 30 卷
 :BOOK:   16
 :END:
 **** responsible:
@@ -13917,11 +13951,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB3k0007.org][ZB3k0007]] 元和姓纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0007
 :SOURCE:   四庫全書 文淵閣版, V890.2, p499
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -13934,6 +13975,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB3k0008.org][ZB3k0008]] 白孔六帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0008
@@ -14017,7 +14065,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0012
 :SOURCE:   四庫全書 文淵閣版, V893 - 901.1, p1
-:EXTENT: 1000 + 1 + 10 卷
+:EXTENT: 1000 卷
 :BOOK:   180
 :END:
 **** responsible:
@@ -14030,11 +14078,25 @@
 
 **** textual witnesses
 ***** WYG
+**** 經史圖書綱目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (180)
+      :END:
+
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (180)
+      :END:
+
 *** [[mandoku:ZB3k0013.org][ZB3k0013]] 册府元龜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0013
 :SOURCE:   四庫全書 文淵閣版, V902 - 919.1, p1
-:EXTENT: 1000 + 10 卷
+:EXTENT: 1000 +  卷
 :BOOK:   336
 :END:
 **** responsible:
