@@ -14096,7 +14096,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0013
 :SOURCE:   四庫全書 文淵閣版, V902 - 919.1, p1
-:EXTENT: 1000 +  卷
+:EXTENT: 1000 卷
 :BOOK:   336
 :END:
 **** responsible:
@@ -14115,6 +14115,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (336)
+      :END:
+
 *** [[mandoku:ZB3k0014.org][ZB3k0014]] 事物紀原
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0014
@@ -14185,7 +14192,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0018
 :SOURCE:   四庫全書 文淵閣版, V922.1, p1
-:EXTENT: 40 + 2 卷
+:EXTENT: 40 卷
 :BOOK:   16
 :END:
 **** responsible:
@@ -14204,6 +14211,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB3k0019.org][ZB3k0019]] 帝王經世圖譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0019
@@ -14288,6 +14302,24 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (40) 卷
+      :BOOK:   (12)
+      :END:
+
+**** ZB3k0023a 後集
+      :PROPERTIES:
+      :EXTENT: (40) 卷
+      :BOOK:   (9)
+      :END:
+
+**** ZB3k0023b 續集
+      :PROPERTIES:
+      :EXTENT: (40) 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB3k0024.org][ZB3k0024]] 古今事文類聚
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0024
@@ -14303,14 +14335,52 @@
       :DATES:    fl. 1246
       :END:
 
-***** 富大用
+**** textual witnesses
+***** WYG
+**** ZB3k0024a 前集
+      :PROPERTIES:
+      :EXTENT: (60) 卷
+      :BOOK:   (35)
+      :END:
+
+**** ZB3k0024b 後集
+      :PROPERTIES:
+      :EXTENT: (50) 卷
+      :BOOK:   (28)
+      :END:
+
+**** ZB3k0024c 續集
+      :PROPERTIES:
+      :EXTENT: (28) 卷
+      :BOOK:   (18)
+      :END:
+
+**** ZB3k0024d 别集
+      :PROPERTIES:
+      :EXTENT: (32) 卷
+      :BOOK:   (17)
+      :END:
+
+**** ZB3k0024f (附)古今事文類聚新集
+      :PROPERTIES:
+      :EXTENT: (36) 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 富大用
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
+**** ZB3k0024e 外集
+      :PROPERTIES:
+      :EXTENT: (15) 卷
+      :BOOK:   (11)
+      :END:
+
+**** ZB3k0024g 古今事文類聚遺集
+
 *** [[mandoku:ZB3k0025.org][ZB3k0025]] 記纂淵海
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0025
