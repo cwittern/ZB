@@ -14612,7 +14612,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0032
 :SOURCE:   四庫全書 文淵閣版, V943 - 948.1, p1
-:EXTENT: 200 + 1 + 4 卷
+:EXTENT: 200 卷
 :BOOK:   164
 :END:
 **** responsible:
@@ -14625,6 +14625,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (164)
+      :END:
+
+**** (附)辭學指南
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (164)
+      :END:
+
 *** [[mandoku:ZB3k0033.org][ZB3k0033]] 小學紺珠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0033
