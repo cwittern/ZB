@@ -8468,11 +8468,11 @@
       :BOOK:   (2)
       :END:
 
-**** 附錄
+**** 金石林緒論
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (2)
       :END:
 
 *** [[mandoku:ZB3h0051.org][ZB3h0051]] 書法離鈎
@@ -8512,7 +8512,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0053
 :SOURCE:   四庫全書 文淵閣版, V816.9, p587
-:EXTENT: 12 + 12 卷
+:EXTENT: 12 卷
 :BOOK:   14
 :END:
 **** responsible:
@@ -8524,6 +8524,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3h0053a 續題跋記
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB3h0054.org][ZB3h0054]] 清河書畫舫
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0054
@@ -8596,7 +8603,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0057
 :SOURCE:   四庫全書 文淵閣版, V817.5, p619
-:EXTENT: 2 + 1 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -8609,6 +8616,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 法書表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 名畫表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3h0058.org][ZB3h0058]] 珊瑚網
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0058
@@ -8630,7 +8651,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0059
 :SOURCE:   四庫全書 文淵閣版, V819 - 823.1, p1
-:EXTENT: 100 + 1 + 1 卷
+:EXTENT: 100 卷
 :BOOK:   96
 :DATE:   康熙四十七年
 :END:
@@ -8644,6 +8665,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (96)
+      :END:
+
+**** 纂輯書籍
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (96)
+      :END:
+
 *** [[mandoku:ZB3h0060.org][ZB3h0060]] 祕殿珠林
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0060
@@ -8796,7 +8831,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0068
 :SOURCE:   四庫全書 文淵閣版, V830 - 838.1, p1
-:EXTENT: 406 + 14  卷
+:EXTENT: 406 卷
 :BOOK:   167
 :END:
 **** responsible:
@@ -8809,6 +8844,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3h0068a 續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 14 卷
+      :BOOK:   (167)
+      :END:
+
 *** [[mandoku:ZB3h0069.org][ZB3h0069]] 小山畫譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0069
@@ -8880,7 +8922,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0073
 :SOURCE:   四庫全書 文淵閣版, V839.3, p139
-:EXTENT: 2 + 1 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   (1)
 :END:
 **** responsible:
@@ -8892,6 +8934,7 @@
 
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB3h0074.org][ZB3h0074]] 琴譜合璧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3h0074
