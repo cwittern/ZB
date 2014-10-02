@@ -6612,7 +6612,7 @@
 :CUSTOM_ID:  ZB3g0008
 :SOURCE:   四庫全書 文淵閣版, V804.2, p37
 :EXTENT: 9 卷
-:BOOK:   48
+:BOOK:   8
 :END:
 **** responsible:
 ***** 張行成
@@ -6803,7 +6803,7 @@
 
 **** 外篇
       :PROPERTIES:
-      :EXTENT:  卷
+      :EXTENT: (3) 卷
       :BOOK:   (1)
       :END:
 
@@ -6811,7 +6811,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0017
 :SOURCE:   四庫全書 文淵閣版, V806.4, p435
-:EXTENT: 16 + 1 卷
+:EXTENT: 16 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -6824,6 +6824,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 略例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3g0018.org][ZB3g0018]] 靈臺祕苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0018
@@ -6906,7 +6913,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0022
 :SOURCE:   四庫全書 文淵閣版, V808.3, p39
-:EXTENT: 1 + 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -6919,6 +6926,9 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3g0022a	撼龍經__疑龍經
+**** ZB3g0022b	撼龍經__葬法倒杖
+
 *** [[mandoku:ZB3g0023.org][ZB3g0023]] 青囊序
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0023
