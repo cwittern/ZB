@@ -4128,7 +4128,12 @@
 
 **** textual witnesses
 ***** WYG
-**** ZB3e0041a	仁齋仁齋傷寒類書
+**** ZB3e0041a (附)仁齋傷寒類書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 7 卷
+      :BOOK:   4
+      :END:
 
 *** [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
 :PROPERTIES:
@@ -4183,7 +4188,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0045
 :SOURCE:   四庫全書 文淵閣版, V744.5, p847
-:EXTENT: 3 + 2 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -4212,6 +4217,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0045a 傷寒標本心法類萃
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3e0047.org][ZB3e0047]] 儒門事親
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0047
