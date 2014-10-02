@@ -3027,7 +3027,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0001
 :SOURCE:   四庫全書 文淵閣版, V730.2, p169
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -3038,14 +3038,21 @@
       :DATES:    1076 - 1154
       :END:
 
-***** 秦觀
+**** textual witnesses
+***** WYG
+**** ZB3d0002 (附)蠶書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 秦觀
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3d0003.org][ZB3d0003]] 農桑輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3d0003
@@ -3222,6 +3229,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)釋文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT:   卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB3e0002.org][ZB3e0002]] 靈樞經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0002
@@ -3249,7 +3263,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0003
 :SOURCE:   四庫全書 文淵閣版, V733.3, p429
-:EXTENT: 2 + 1 + 1 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -3267,6 +3281,27 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)彙考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 闕誤總類
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3e0004.org][ZB3e0004]] 鍼灸甲乙經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0004
@@ -3323,8 +3358,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0006
 :SOURCE:   四庫全書 文淵閣版, V734.2, p201
-:EXTENT: 10 + 3 + 1 卷
-:BOOK:   4 + 2
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
 **** responsible:
 ***** 張機
@@ -3348,6 +3383,32 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0006a (附)傷寒明理論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   2
+      :END:
+***** responsible:
+****** 成無己
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
+**** ZB3e0006b 傷寒論方
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 成無己
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3e0007.org][ZB3e0007]] 肘後備急方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0007
@@ -3459,7 +3520,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0012
 :SOURCE:   四庫全書 文淵閣版, V736 - 737.1, p1
-:EXTENT: 40 + 2 卷
+:EXTENT: 40 卷
 :BOOK:   40
 :END:
 **** responsible:
@@ -3484,6 +3545,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (40)
+      :END:
+
 *** [[mandoku:ZB3e0013.org][ZB3e0013]] 顱顖經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0013
