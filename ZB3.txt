@@ -9234,7 +9234,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0001
 :SOURCE:   四庫全書 文淵閣版, V842.1, p407
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -9249,12 +9249,25 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 譯
-      :FUNCTION: 撰
       :DATES:    1571 - 1644
       :END:
 
 **** textual witnesses
 ***** WYG
+**** ZB3i0001a 諸器圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 王徴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1571 - 1644
+      :END:
+
 *** [[mandoku:ZB3i0002.org][ZB3i0002]] 文房四譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0002
@@ -9310,7 +9323,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0005
 :SOURCE:   四庫全書 文淵閣版, V843.4, p79
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   (1)
 :END:
 **** responsible:
@@ -9322,6 +9335,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3i0005a 辨歙石說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3i0006.org][ZB3i0006]] 端溪硯譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0006
@@ -9375,7 +9395,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0009
 :SOURCE:   四庫全書 文淵閣版, V843.8, p133
-:EXTENT: 24 + 1 卷
+:EXTENT: 24 卷
 :BOOK:   12
 :DATE:   乾隆四十三年
 :END:
@@ -9395,6 +9415,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB3i0010.org][ZB3i0010]] 墨譜法式
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0010
@@ -9606,7 +9633,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0022
 :SOURCE:   四庫全書 文淵閣版, V844.9, p635
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -9622,14 +9649,21 @@
       :FUNCTION: 繪圖
       :END:
 
-***** 趙汝礪
+**** textual witnesses
+***** WYG
+**** ZB3i0022a (附)北苑別錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 趙汝礪
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3i0023.org][ZB3i0023]] 東溪試茶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0023
@@ -9650,7 +9684,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0024
 :SOURCE:   四庫全書 文淵閣版, V844.11, p661
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -9662,6 +9696,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3i0025.org][ZB3i0025]] 煎茶水記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0025
@@ -9796,7 +9837,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3i0032.org][ZB3i0032]] 苑村梅譜
+*** [[mandoku:ZB3i0032.org][ZB3i0032]] 范村梅譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0032
 :SOURCE:   四庫全書 文淵閣版, V845.5, p33
@@ -9834,7 +9875,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0033
 :SOURCE:   四庫全書 文淵閣版, V845.7, p41
-:EXTENT: 6 + 1 + 1 卷
+:EXTENT: 6 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -9847,6 +9888,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首:諸菊品目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3i0034.org][ZB3i0034]] 金漳蘭譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0034
@@ -9970,16 +10025,10 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0042
 :SOURCE:   四庫全書 文淵閣版, V845 - 847.15, p207
-:EXTENT: 100 + 2 卷
+:EXTENT: 100 卷
 :BOOK:   54
 :END:
 **** responsible:
-***** 王象晉
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 原本
-      :END:
-
 ***** 汪灝
       :PROPERTIES:
       :DYNASTY:  清
@@ -9994,6 +10043,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (54)
+      :END:
+
 *** [[mandoku:ZB3i0043.org][ZB3i0043]] 禽經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0043
