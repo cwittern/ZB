@@ -4770,7 +4770,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0075
 :SOURCE:   四庫全書 文淵閣版, V772 - 774.1, p1
-:EXTENT: 52 + 9 卷
+:EXTENT: 52 卷
 :BOOK:   64
 :END:
 **** responsible:
@@ -4783,6 +4783,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 9 卷
+      :BOOK:   (64)
+      :END:
+
 *** [[mandoku:ZB3e0076.org][ZB3e0076]] 奇經八脉攷
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0076
@@ -4821,7 +4828,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0078
 :SOURCE:   四庫全書 文淵閣版, V775.1, p1
-:EXTENT: 8 + 1 + 1 + 1 卷
+:EXTENT: 8 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -4833,6 +4840,27 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)本草鈔
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 或問
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 痙書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3e0079.org][ZB3e0079]] 先醒齋廣筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0079
@@ -4871,7 +4899,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0081
 :SOURCE:   四庫全書 文淵閣版, V776.1, p1
-:EXTENT: 32 + 11 + 4 卷
+:EXTENT: 32 卷
 :BOOK:   40
 :END:
 **** responsible:
@@ -4883,7 +4911,21 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0082.org][ZB3e0082]] 景嶽全書
+**** ZB3e0081a (附)類經圖翼
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 11 卷
+      :BOOK:   (40)
+      :END:
+
+**** ZB3e0081b 類經附翼
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (40)
+      :END:
+
+*** [[mandoku:ZB3e0082.org][ZB3e0082]] 景岳全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0082
 :SOURCE:   四庫全書 文淵閣版, V777 - 778.1, p1
@@ -4903,7 +4945,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0083
 :SOURCE:   四庫全書 文淵閣版, V779.1, p1
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -4915,6 +4957,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3e0084.org][ZB3e0084]] 痎瘧論疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0084
@@ -4951,7 +5000,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0086
 :SOURCE:   四庫全書 文淵閣版, V780 - 782.1, p1
-:EXTENT: 90 + 1 卷
+:EXTENT: 90 卷
 :BOOK:   80
 :END:
 **** responsible:
@@ -4969,11 +5018,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 首卷
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (80)
+      :END:
+
 *** [[mandoku:ZB3e0087.org][ZB3e0087]] 尚論篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0087
 :SOURCE:   四庫全書 文淵閣版, V783.1, p1
-:EXTENT: 4 + 1 + 4 卷
+:EXTENT: 4 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -4986,11 +5042,25 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** ZB3e0087a 後篇
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB3e0088.org][ZB3e0088]] 醫門法律
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0088
 :SOURCE:   四庫全書 文淵閣版, V783.2, p271
-:EXTENT: 12 + 4 卷
+:EXTENT: 12 卷
 :BOOK:   16
 :END:
 **** responsible:
@@ -5003,6 +5073,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0088a (附)寓意草
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB3e0089.org][ZB3e0089]] 傷寒舌鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0089
