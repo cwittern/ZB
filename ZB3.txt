@@ -3882,8 +3882,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0029
 :SOURCE:   四庫全書 文淵閣版, V741.4, p469
-:EXTENT: 10 + 3 卷
-:BOOK:   8 + 2
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
 **** responsible:
 ***** 陳師文
@@ -3894,6 +3894,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0029a 指南總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB3e0030.org][ZB3e0030]] 傳信適用方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0030
@@ -3930,7 +3937,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0032
 :SOURCE:   四庫全書 文淵閣版, V742.1, p1
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -3942,6 +3949,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3e0033.org][ZB3e0033]] 鍼灸資生經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0033
@@ -3962,7 +3976,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0034
 :SOURCE:   四庫全書 文淵閣版, V742.3, p435
-:EXTENT: 24 + 2 + 1 卷
+:EXTENT: 24 卷
 :BOOK:   14
 :END:
 **** responsible:
@@ -3974,6 +3988,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (14)
+      :END:
+
+**** 辨識修製藥物法度
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB3e0035.org][ZB3e0035]] 太醫局諸科程文格
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0035
@@ -4082,8 +4110,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0041
 :SOURCE:   四庫全書 文淵閣版, V744.1, p1
-:EXTENT: 26 + 7 卷
-:BOOK:   20 + 4
+:EXTENT: 26 卷
+:BOOK:   20
 :END:
 **** responsible:
 ***** 楊士瀛
@@ -4100,6 +4128,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0041a (附)仁齋傷寒類書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 7 卷
+      :BOOK:   4
+      :END:
+
 *** [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0042
@@ -4153,7 +4188,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0045
 :SOURCE:   四庫全書 文淵閣版, V744.5, p847
-:EXTENT: 3 + 2 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -4182,6 +4217,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0045a 傷寒標本心法類萃
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3e0047.org][ZB3e0047]] 儒門事親
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0047
@@ -4422,11 +4464,11 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3e0061.org][ZB3e0061]] 脉訣刊誤急解
+*** [[mandoku:ZB3e0061.org][ZB3e0061]] 脉訣刊誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0061
 :SOURCE:   四庫全書 文淵閣版, V746.8, p863
-:EXTENT: 2 + 1 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -4437,14 +4479,34 @@
       :DATES:    14th cent
       :END:
 
-***** 汪機
+**** textual witnesses
+***** WYG
+**** (附)脉書要語
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 汪機
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
+**** 矯世惑脉論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 汪機
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3e0062.org][ZB3e0062]] 醫經溯洄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0062
@@ -4466,7 +4528,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0063
 :SOURCE:   四庫全書 文淵閣版, V747 - 761.1, p1
-:EXTENT: 426 + 1 卷
+:EXTENT: 426 卷
 :BOOK:   300
 :END:
 **** responsible:
@@ -4479,6 +4541,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)直音畧
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (300)
+      :END:
+
 *** [[mandoku:ZB3e0064.org][ZB3e0064]] 玉機微義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0064
@@ -4577,7 +4646,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0069
 :SOURCE:   四庫全書 文淵閣版, V765.3, p111
-:EXTENT: 7 + 1 卷
+:EXTENT: 7 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -4590,11 +4659,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 附方
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3e0070.org][ZB3e0070]] 石山醫案
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0070
 :SOURCE:   四庫全書 文淵閣版, V765.4, p325
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -4606,6 +4682,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3e0071.org][ZB3e0071]] 名醫類案
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0071
