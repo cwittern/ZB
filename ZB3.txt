@@ -10831,7 +10831,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0035
 :SOURCE:   四庫全書 文淵閣版, V850.13, p853
-:EXTENT: 4 + 1 + 1 卷
+:EXTENT: 4 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -10844,6 +10844,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首:書帖識語
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 卷末:奏狀題跋
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3j0036.org][ZB3j0036]] 西溪叢語
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0036
@@ -10882,7 +10896,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0038
 :SOURCE:   四庫全書 文淵閣版, V851.2, p265
-:EXTENT: 16 + 16 + 16 + 16 + 10 卷
+:EXTENT: 16 卷
 :BOOK:   22
 :END:
 **** responsible:
@@ -10895,6 +10909,34 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3j0038a 續筆
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 16 卷
+      :BOOK:   (22)
+      :END:
+
+**** ZB3j0038b 三筆
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 16 卷
+      :BOOK:   (22)
+      :END:
+
+**** ZB3j0038c 四筆
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 16 卷
+      :BOOK:   (22)
+      :END:
+
+**** ZB3j0038d 五筆
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB3j0039.org][ZB3j0039]] 攷古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0039
@@ -10916,7 +10958,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0040
 :SOURCE:   四庫全書 文淵閣版, V852.2, p67
-:EXTENT: 16 + 6 卷
+:EXTENT: 16 卷
 :BOOK:   7
 :END:
 **** responsible:
@@ -10929,6 +10971,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3j0040a 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB3j0041.org][ZB3j0041]] 緯略
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0041
@@ -11001,7 +11050,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0045
 :SOURCE:   四庫全書 文淵閣版, V852.7, p547
-:EXTENT: 30 + 1 卷
+:EXTENT: 30 卷
 :BOOK:   14
 :END:
 **** responsible:
@@ -11014,6 +11063,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)野老紀聞
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB3j0046.org][ZB3j0046]] 坦齋通編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0046
@@ -11068,7 +11124,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0049
 :SOURCE:   四庫全書 文淵閣版, V853.4, p107
-:EXTENT: 1 + 37 卷
+:EXTENT: 1 卷
 :BOOK:   24
 :END:
 **** responsible:
@@ -11079,14 +11135,21 @@
       :DATES:    1178 - 1237
       :END:
 
-***** 方回
-      :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: 補續
-      :END:
-
 **** textual witnesses
 ***** WYG
+**** ZB3j0049a 續古今攷
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 37 卷
+      :BOOK:   (24)
+      :END:
+***** responsible:
+****** 方回
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補
+      :END:
+
 *** [[mandoku:ZB3j0050.org][ZB3j0050]] 潁川語小
 :PROPERTIES:
 :CUSTOM_ID:  ZB3j0050
