@@ -6210,6 +6210,18 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3f0047a 前編
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** ZB3f0047b 通編
+      :PROPERTIES:
+      :EXTENT: (8) 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3f0048.org][ZB3f0048]] 幾何原本
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0048
@@ -6255,11 +6267,29 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3f0049a 上編
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (4)
+      :END:
+
+**** ZB3f0049b 下編
+      :PROPERTIES:
+      :EXTENT: (40) 卷
+      :BOOK:   (27)
+      :END:
+
+**** ZB3f0049c 表
+      :PROPERTIES:
+      :EXTENT: (8) 卷
+      :BOOK:   (19)
+      :END:
+
 *** [[mandoku:ZB3f0050.org][ZB3f0050]] 幾何論約
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0050
 :SOURCE:   四庫全書 文淵閣版, V802.1, p1
-:EXTENT: 6 + 1 卷
+:EXTENT: 6 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -6271,6 +6301,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3f0051.org][ZB3f0051]] 數學鑰
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0051
@@ -6291,7 +6328,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0052
 :SOURCE:   四庫全書 文淵閣版, V802.3, p233
-:EXTENT: 23 + 2 + 1 卷
+:EXTENT: 23 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -6304,6 +6341,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (8)
+      :END:
+
+**** (附)幾何約
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB3f0053.org][ZB3f0053]] 句股引蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0053
@@ -6392,7 +6443,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0001
 :SOURCE:   四庫全書 文淵閣版, V803.1, p1
-:EXTENT: 10 + 1 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -6411,11 +6462,25 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** 釋音
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3g0002.org][ZB3g0002]] 太玄本旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0002
 :SOURCE:   四庫全書 文淵閣版, V803.2, p107
-:EXTENT: 9 + 1 卷
+:EXTENT: 9 卷
 :BOOK:   5
 :END:
 **** responsible:
@@ -6427,12 +6492,19 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB3g0003.org][ZB3g0003]] 元包經傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0003
 :SOURCE:   四庫全書 文淵閣版, V803.3, p217
-:EXTENT: 5 + 2 卷
-:BOOK:   1 + 1
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
 **** responsible:
 ***** 衞元嵩
@@ -6454,14 +6526,22 @@
       :FUNCTION: 注
       :END:
 
-***** 張行成
+**** textual witnesses
+***** WYG
+**** ZB3g0004 (附)元包數總義
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 張行成
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1132
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3g0005.org][ZB3g0005]] 潛虛
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0005
