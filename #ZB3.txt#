@@ -1615,7 +1615,7 @@
 
 **** textual witnesses
 ***** WYG
-**** 附錄
+**** (附)行實
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
@@ -1642,7 +1642,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0080
 :SOURCE:   四庫全書 文淵閣版, V714.4, p275
-:EXTENT: 2 + 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -1655,6 +1655,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3a0081.org][ZB3a0081]] 讀書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0081
@@ -1710,7 +1724,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0084
 :SOURCE:   四庫全書 文淵閣版, V715.1, p1
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -1723,6 +1737,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3a0085.org][ZB3a0085]] 張子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0085
@@ -1794,7 +1815,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0089
 :SOURCE:   四庫全書 文淵閣版, V716.1, p1
-:EXTENT: 100 + 1 卷
+:EXTENT: 100 卷
 :BOOK:   34
 :END:
 **** responsible:
@@ -1807,6 +1828,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (34)
+      :END:
+
 *** [[mandoku:ZB3a0090.org][ZB3a0090]] 世緯
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0090
@@ -1858,6 +1886,18 @@
 
 **** textual witnesses
 ***** WYG
+**** 聖學宗要
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 學言
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3a0093.org][ZB3a0093]] 人譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0093
@@ -1875,7 +1915,7 @@
 
 **** textual witnesses
 ***** WYG
-# **** ZB3a0093a 人譜類記
+**** ZB3a0093a 人譜類記
       :PROPERTIES:
       :TYPE:     appendix
       :EXTENT: 2 卷
@@ -1920,7 +1960,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0096
 :SOURCE:   四庫全書 文淵閣版, V717.7, p531
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -1939,7 +1979,13 @@
 
 **** textual witnesses
 ***** WYG
-**** 後序
+**** (附)後序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 ***** responsible:
 ****** 蔣赫德
       :PROPERTIES:
@@ -2013,7 +2059,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0100
 :SOURCE:   四庫全書 文淵閣版, V718 - 719.1, p1
-:EXTENT: 100 + 1 + 2 卷
+:EXTENT: 100 卷
 :BOOK:   50
 :END:
 **** responsible:
@@ -2038,6 +2084,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (50)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (50)
+      :END:
+
 *** [[mandoku:ZB3a0101.org][ZB3a0101]] 御定內則衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0101
