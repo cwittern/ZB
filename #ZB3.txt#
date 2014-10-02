@@ -3882,8 +3882,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0029
 :SOURCE:   四庫全書 文淵閣版, V741.4, p469
-:EXTENT: 10 + 3 卷
-:BOOK:   8 + 2
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
 **** responsible:
 ***** 陳師文
@@ -3894,6 +3894,13 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0029a 指南總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB3e0030.org][ZB3e0030]] 傳信適用方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0030
@@ -3930,7 +3937,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0032
 :SOURCE:   四庫全書 文淵閣版, V742.1, p1
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -3942,6 +3949,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB3e0033.org][ZB3e0033]] 鍼灸資生經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0033
@@ -3962,7 +3976,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0034
 :SOURCE:   四庫全書 文淵閣版, V742.3, p435
-:EXTENT: 24 + 2 + 1 卷
+:EXTENT: 24 卷
 :BOOK:   14
 :END:
 **** responsible:
@@ -3974,6 +3988,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (14)
+      :END:
+
+**** 辨識修製藥物法度
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB3e0035.org][ZB3e0035]] 太醫局諸科程文格
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0035
@@ -4082,8 +4110,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0041
 :SOURCE:   四庫全書 文淵閣版, V744.1, p1
-:EXTENT: 26 + 7 卷
-:BOOK:   20 + 4
+:EXTENT: 26 卷
+:BOOK:   20
 :END:
 **** responsible:
 ***** 楊士瀛
@@ -4100,6 +4128,8 @@
 
 **** textual witnesses
 ***** WYG
+**** ZB3e0041a	仁齋仁齋傷寒類書
+
 *** [[mandoku:ZB3e0042.org][ZB3e0042]] 急救仙方
 :PROPERTIES:
 :CUSTOM_ID:  ZB3e0042
