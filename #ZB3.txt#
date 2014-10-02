@@ -2194,7 +2194,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0105
 :SOURCE:   四庫全書 文淵閣版, V722 - 723.2, p125
-:EXTENT: 30 + 2 + 1 卷
+:EXTENT: 30 卷
 :BOOK:   32
 :END:
 **** responsible:
@@ -2213,6 +2213,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (32)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (32)
+      :END:
+
 *** [[mandoku:ZB3a0106.org][ZB3a0106]] 思辨錄輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0106
@@ -2607,6 +2621,9 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+
+ZB3b0012a	武經總要__後集
 *** [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0013
