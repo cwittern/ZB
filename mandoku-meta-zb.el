@@ -7,7 +7,7 @@
 
 ;(ignore-errors
 ;;;###autoload
-(defconst mandoku-meta-zb-url '("ZB" . "http://www.kanripo.org/api/v1.0")
+(defconst mandoku-meta-zb-url '("ZB"  "http://www.kanripo.org/api/v1.0")
     "url for zb")
 
 
