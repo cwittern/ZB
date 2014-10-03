@@ -1,4 +1,4 @@
-;;; mandoku-meta-zb.el  Metadata for the ZB repository to be used by Mandoku
+;;; mandoku-meta-zb.el --- Metadata for the ZB repository to be used by Mandoku
 ;;
 ;; Copyright (c) 2013-2014 Christian Wittern
 ;;
