@@ -1,4 +1,4 @@
-;;; mandoku-meta-zb.el
+;;; mandoku-meta-zb.el  Metadata for the ZB repository to be used by Mandoku
 ;;
 ;; Copyright (c) 2013-2014 Christian Wittern
 ;;
@@ -6,6 +6,7 @@
 ;; URL: http://www.mandoku.org
 ;; Version: 0.05
 ;; Keywords: convenience
+;; Package-Requires: ((org "8") (mandoku "0.05"))
 ;; This file is not part of GNU Emacs.
 
 ;;; Commentary:
@@ -55,4 +56,4 @@
 
 
 (provide 'mandoku-meta-zb)
-;; mandoku-meta-zb ends here
+;;; mandoku-meta-zb.el ends here
