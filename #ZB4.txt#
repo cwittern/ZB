@@ -890,29 +890,41 @@
       :BOOK:   (26)
       :END:
 
-**** 附錄
+**** 年譜辨疑
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (26)
       :END:
 
-**** 附錄
+**** 集注杜詩姓氏
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (26)
       :END:
 
 *** [[mandoku:ZB4b0032.org][ZB4b0032]] 集千家註杜工部詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 杜甫
+:SOURCE:   四庫全書 文淵閣版, V1069.2, p663
+:EXTENT: 20 卷
+:BOOK:   16
 :END:
-**** dynasty: 唐
-**** responsible: 杜甫
+**** responsible:
+***** 杜甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    712 - 770
+      :END:
+
+***** 高楚芳
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0033.org][ZB4b0033]] 杜詩攟
