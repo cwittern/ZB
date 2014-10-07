@@ -14883,22 +14883,22 @@
 
 **** textual witnesses
 ***** WYG
-**** 附錄
+**** 目錄
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (44)
       :END:
-**** 附錄
+**** 卷首
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: 6 卷
+      :BOOK:   (44)
       :END:
 
 **** [[mandoku:ZB3k0044a.org][ZB3k0044a]] (附)氏族博攷
       :PROPERTIES:
-      :TYPE:     appendix
+      :TYPE:   appendix
       :EXTENT: 14 卷
       :BOOK:   4
       :END:
@@ -14946,7 +14946,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0047
 :SOURCE:   四庫全書 文淵閣版, V964.1, p1
-:EXTENT: 12 + 1 + 1 卷
+:EXTENT: 12 卷
 :BOOK:   12
 :END:
 **** responsible:
@@ -14959,13 +14959,25 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 **** 錄補
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
 ***** responsible:
 ****** 周應賓
-       :PROPERTIES:
-       :DYNASTY:  明
-       :FUNCTION: 撰
-       :END:
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
 
 *** [[mandoku:ZB3k0048.org][ZB3k0048]] 說畧
 :PROPERTIES:
@@ -14988,7 +15000,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0049
 :SOURCE:   四庫全書 文淵閣版, V965 - 967.1, p1
-:EXTENT: 60 + 1 卷
+:EXTENT: 60 卷
 :BOOK:   60
 :END:
 **** responsible:
@@ -14999,19 +15011,26 @@
       :DATES:    1550
       :END:
 
-***** 張衡
+**** textual witnesses
+***** WYG
+**** (附)週天大象賦
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (60)
+      :END:
+***** responsible:
+****** 張衡
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3k0050.org][ZB3k0050]] 圖書編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0050
 :SOURCE:   四庫全書 文淵閣版, V968 - 972.1, p1
-:EXTENT: 127 + 1 卷
+:EXTENT: 127 卷
 :BOOK:   72
 :END:
 **** responsible:
@@ -15030,6 +15049,7 @@
 
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB3k0051.org][ZB3k0051]] 駢志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0051
