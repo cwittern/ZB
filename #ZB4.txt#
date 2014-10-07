@@ -1477,8 +1477,7 @@
 ***** 張洽
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 傳
-      :DATES:    1130 - 1200
+      :FUNCTION: 校補
       :END:
 
 **** textual witnesses
@@ -1486,30 +1485,108 @@
 *** [[mandoku:ZB4b0055.org][ZB4b0055]] 別本韓文考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V1073.3, p261
+:EXTENT: 40 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 韓愈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 考異
+      :DATES:    1130 - 1200
+      :END:
+
+***** 王伯大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0055a.org][ZB4b0055a]] 別本韓文考異__外集
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** [[mandoku:ZB4b0055a.org][ZB4b0055a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (20)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0056.org][ZB4b0056]] 五百家注昌黎文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韓愈
+:SOURCE:   四庫全書 文淵閣版, V1074.1, p1
+:EXTENT: 40 卷
+:BOOK:   20
 :END:
-**** dynasty: 唐
-**** responsible: 韓愈
+**** responsible:
+***** 韓愈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 魏仲擧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 評論詁訓音釋諸儒名氏
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0057.org][ZB4b0057]] 東雅堂昌黎集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0057
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1075.1, p1
+:EXTENT: 40 卷
+:BOOK:   20
+:END:
+**** responsible:
+***** 韓愈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 李漢
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
+***** 廖
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 闕名
 :END:
