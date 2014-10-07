@@ -366,47 +366,96 @@
 *** [[mandoku:ZB4b0012.org][ZB4b0012]] 何水部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 何遜
+:SOURCE:   四庫全書 文淵閣版, V1063.12, p691
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 何遜
+**** responsible:
+***** 何遜
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0013.org][ZB4b0013]] 江文通集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 江淹
+:SOURCE:   四庫全書 文淵閣版, V1063.13, p713
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 梁
-**** responsible: 江淹
+**** responsible:
+***** 江淹
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    444 - 505
+      :END:
+
+***** 梁賓
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0014.org][ZB4b0014]] 庾開府集箋註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳兆宜
+:SOURCE:   四庫全書 文淵閣版, V1064.1, p1
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 吳兆宜
+**** responsible:
+***** 庾信
+      :PROPERTIES:
+      :DYNASTY:  北周
+      :FUNCTION: 撰
+      :DATES:    513 - 581
+      :END:
+
+***** 吳兆宜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0015.org][ZB4b0015]] 庾子山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 北周
-:RESP: 庾信
+:SOURCE:   四庫全書 文淵閣版, V1064.2, p279
+:EXTENT: 16 卷
+:BOOK:   14
 :END:
-**** dynasty: 北周
-**** responsible: 庾信
+**** responsible:
+***** 庾信
+      :PROPERTIES:
+      :DYNASTY:  北周
+      :FUNCTION: 撰
+      :DATES:    513 - 581
+      :END:
+
+***** 倪璠
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂註
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (14)
+      :END:
+
+
 *** [[mandoku:ZB4b0016.org][ZB4b0016]] 徐考穆集箋注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0016
