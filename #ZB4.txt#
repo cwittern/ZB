@@ -1245,25 +1245,56 @@
 *** [[mandoku:ZB4b0045.org][ZB4b0045]] 韋蘇州集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韋應物
+:SOURCE:   四庫全書 文淵閣版, V1072.2, p77
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 韋應物
+**** responsible:
+***** 韋應物
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    b. 737
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0046.org][ZB4b0046]] 毗陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 獨孤及
+:SOURCE:   四庫全書 文淵閣版, V1072.3, p159
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 獨孤及
+**** responsible:
+***** 獨孤及
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    715 - 767
+      :END:
+
+***** 梁肅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)獨孤公神道銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 崔祐祐甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0047.org][ZB4b0047]] 蕭茂挺文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0047
