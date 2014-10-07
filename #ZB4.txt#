@@ -347,42 +347,76 @@
 *** [[mandoku:ZB4b0011.org][ZB4b0011]] 昭明太子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 蕭統
+:SOURCE:   四庫全書 文淵閣版, V1063.11, p647
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 梁
-**** responsible: 蕭統
+**** responsible:
+***** 蕭統
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    501 - 531
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0011a.org][ZB4b0011a]] 漢至五代
-*** [[mandoku:ZB4b0011b.org][ZB4b0011b]] 昭明太子集
+# *** [[mandoku:ZB4b0011a.org][ZB4b0011a]] 漢至五代
+# *** [[mandoku:ZB4b0011b.org][ZB4b0011b]] 昭明太子集
 *** [[mandoku:ZB4b0012.org][ZB4b0012]] 何水部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 何遜
+:SOURCE:   四庫全書 文淵閣版, V1063.12, p691
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 何遜
+**** responsible:
+***** 何遜
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0013.org][ZB4b0013]] 江文通集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 江淹
+:SOURCE:   四庫全書 文淵閣版, V1063.13, p713
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 梁
-**** responsible: 江淹
+**** responsible:
+***** 江淹
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    444 - 505
+      :END:
+
+***** 梁賓
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0014.org][ZB4b0014]] 庾開府集箋註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0014
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1064.1, p1
+:EXTENT: 16 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 江淹
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    444 - 505
+      :END:
+
 :DYNASTY: 清
 :RESP: 吳兆宜
 :END:
