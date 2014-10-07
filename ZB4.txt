@@ -456,17 +456,55 @@
       :END:
 
 
-*** [[mandoku:ZB4b0016.org][ZB4b0016]] 徐考穆集箋注
+*** [[mandoku:ZB4b0016.org][ZB4b0016]] 徐孝穆集箋注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳兆宜
+:SOURCE:   四庫全書 文淵閣版, V1064.3, p791
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 吳兆宜
+**** responsible:
+***** 徐陵
+      :PROPERTIES:
+      :DYNASTY:  陳
+      :FUNCTION: 撰
+      :DATES:    507 - 583
+      :END:
+
+***** 吳兆宜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)陳書本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 姚思廉
+       :PROPERTIES:
+       :DYNASTY:  唐
+       :FUNCTION: 撰
+       :END:
+
+**** 徐孝穆集箋注卷六備考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 徐文炳
+       :PROPERTIES:
+       :DYNASTY:  清
+       :FUNCTION: 注
+       :END:
+
 *** [[mandoku:ZB4b0017.org][ZB4b0017]] 東臯子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0017
