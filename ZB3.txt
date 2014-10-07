@@ -15106,8 +15106,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3k0053
 :SOURCE:   四庫全書 文淵閣版, V979.1, p1
-:EXTENT: 228 + 12 卷
-:BOOK:   126
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
 **** responsible:
 ***** 王志慶
@@ -16156,7 +16156,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0039a
 :SOURCE:   四庫全書 文淵閣版, V1037.8, p211
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   (1)
 :END:
 **** responsible:
@@ -18529,7 +18529,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0027
 :SOURCE:   四庫全書 文淵閣版, V1058.8, p625
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -18542,6 +18542,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 釋疑
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3n0028.org][ZB3n0028]] 周易參同契分章註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0028
@@ -18592,7 +18599,18 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0030a.org][ZB3n0030a]] 抱朴子內外篇__外篇
+**** 內篇
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB3n0030a.org][ZB3n0030a]] 外篇
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3n0031.org][ZB3n0031]] 神仙傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0031
@@ -18669,7 +18687,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0034
 :SOURCE:   四庫全書 文淵閣版, V1059.6, p549
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -18680,25 +18698,15 @@
       :DATES:    8th cent
       :END:
 
-***** 闕名
+**** textual witnesses
+***** WYG
+**** [[mandoku:ZB3n0035.org][ZB3n0035]] (附)天隱子
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 撰
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
       :END:
 
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3n0035.org][ZB3n0035]] 天隱子
-:PROPERTIES:
-:CUSTOM_ID:  ZB3n0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 司馬承禎
-:END:
-**** dynasty: 唐
-**** responsible: 司馬承禎
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB3n0036.org][ZB3n0036]] 无能子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0036
@@ -18753,7 +18761,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0039
 :SOURCE:   四庫全書 文淵閣版, V1061.1, p429
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -18778,7 +18786,19 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0039a.org][ZB3n0039a]] 悟真篇註疏__直指詳說
+**** [[mandoku:ZB3n0039a.org][ZB3n0039a]] (附)直指詳說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 翁葆光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB3n0040.org][ZB3n0040]] 古文龍虎經註疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0040
