@@ -16775,9 +16775,9 @@
       :BOOK:   (1)
       :END:
 
-**** here集
+**** 别集
       :PROPERTIES:
-      :EXTENT: (1) 卷
+      :EXTENT: (2) 卷
       :BOOK:   (1)
       :END:
 
@@ -17309,7 +17309,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0099
 :SOURCE:   四庫全書 文淵閣版, V1042.18, p625
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -17321,6 +17321,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0100.org][ZB3l0100]] 桂苑叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0100
@@ -17358,7 +17365,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0102
 :SOURCE:   四庫全書 文淵閣版, V1042.21, p697
-:EXTENT: 10 + 1 卷
+:EXTENT: 10 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -17370,6 +17377,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3l0103.org][ZB3l0103]] 唐闕史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0103
@@ -17390,7 +17404,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0104
 :SOURCE:   四庫全書 文淵閣版, V1042.23, p823
-:EXTENT: 1 + 1 卷
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -17402,6 +17416,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0105.org][ZB3l0105]] 開天傳信記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0105
