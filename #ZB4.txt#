@@ -1663,22 +1663,68 @@
 **** responsible:
 ***** 柳宗元
       :PROPERTIES:
-      :DYNASTY:  清
+      :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    1670 - 1747
+      :DATES:    733 - 819
       :END:
 
-:DYNASTY: 唐
-:RESP: 柳宗元
-:END:
-**** dynasty: 唐
-**** responsible: 柳宗元
+***** 韓醇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 詁訓
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (20)
+      :END:
+
+**** 新編外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0060.org][ZB4b0060]] 柳河東集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0060
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1076.2, p469
+:EXTENT: 43 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 柳宗元
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    733 - 819
+      :END:
+
+***** 童宗說
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注釋
+      :END:
+
+***** 柳宗元
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    733 - 819
+      :END:
+
+***** 柳宗元
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    733 - 819
+      :END:
+
 :DYNASTY: 宋
 :RESP: 童宗說
 :END:
