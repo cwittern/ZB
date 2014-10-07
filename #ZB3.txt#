@@ -16132,6 +16132,8 @@
 
 **** textual witnesses
 ***** WYG
+# *** ZB3l0039a	甲申雜記
+# *** ZB3l0039a 聞見近錄
 *** [[mandoku:ZB3l0039c.org][ZB3l0039c]] 聞見近錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0039c
@@ -16167,12 +16169,19 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0039b.org][ZB3l0039b]] 甲申聞見二錄補遺
+# *** ZB3l0039a	隨手雜錄
+**** [[mandoku:ZB3l0039b.org][ZB3l0039b]] (附)甲申聞見二錄補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0040.org][ZB3l0040]] 湘山野綠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0040
 :SOURCE:   四庫全書 文淵閣版, V1037.9, p225
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -16185,6 +16194,7 @@
 
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB3l0041.org][ZB3l0041]] 王壺野史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0041
