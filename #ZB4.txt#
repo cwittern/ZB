@@ -576,49 +576,94 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0019
 :SOURCE:   四庫全書 文淵閣版, V1065.3, p61
-:EXTENT: 1 卷
-:BOOK:   1
+:EXTENT: 16 卷
+:BOOK:   5
 :END:
 **** responsible:
-***** 釋寒山
+***** 王勃
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
+      :DATES:    648 - 675
       :END:
 
-:DYNASTY: 唐
-:RESP: 王勃
-:END:
-**** dynasty: 唐
-**** responsible: 王勃
+***** 張燮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB4b0020.org][ZB4b0020]] 盈川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 楊炯
+:SOURCE:   四庫全書 文淵閣版, V1065.4, p187
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 楊炯
+**** responsible:
+***** 楊炯
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 692
+      :END:
+
+***** 童佩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0021.org][ZB4b0021]] 盧昇之集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 盧照鄰
+:SOURCE:   四庫全書 文淵閣版, V1065.5, p293
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 盧照鄰
+**** responsible:
+***** 盧照鄰
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    ca. 641 - ca. 680
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0022.org][ZB4b0022]] 駱丞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0022
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1065.6, p341
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 駱賓王
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 641 - ca. 680
+      :END:
+
 :DYNASTY: 唐
 :RESP: 駱賓王
 :END:

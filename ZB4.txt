@@ -508,36 +508,100 @@
 *** [[mandoku:ZB4b0017.org][ZB4b0017]] 東臯子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王績
+:SOURCE:   四庫全書 文淵閣版, V1065.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 王績
+**** responsible:
+***** 王績
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 644
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)東臯子集傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4b0018.org][ZB4b0018]] 寒山詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 釋寒山
+:SOURCE:   四庫全書 文淵閣版, V1065.2, p29
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 釋寒山
+**** responsible:
+***** 釋寒山
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)豐干拾得詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 釋豐干
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** responsible:
+****** 釋拾得
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0019.org][ZB4b0019]] 王子安集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王勃
+:SOURCE:   四庫全書 文淵閣版, V1065.3, p61
+:EXTENT: 16 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 王勃
+**** responsible:
+***** 王勃
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    648 - 675
+      :END:
+
+***** 張燮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB4b0020.org][ZB4b0020]] 盈川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0020
