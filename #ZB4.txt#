@@ -88,72 +88,123 @@
 *** [[mandoku:ZB4a0005.org][ZB4a0005]] 欽定補繪蕭雲從離騷全圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0005
-:SOURCE:   四庫全書 文淵閣版, V1062.5, p455
-:EXTENT: 4 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1062.5, p495
+:EXTENT: 3 卷
+:BOOK:   3
+:DATE:   乾隆四十七年
 :END:
 **** responsible:
-***** 吳仁傑
+***** 蕭雲從
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    b. 1137
+      :DYNASTY:  清
+      :FUNCTION: 原圖
       :END:
 
-:DYNASTY: 清
-:RESP: 蕭雲從
-:END:
-**** dynasty: 清
-**** responsible: 蕭雲從
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4a0006.org][ZB4a0006]] 山帶閣註楚辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣驥
+:SOURCE:   四庫全書 文淵閣版, V1062.6, p601
+:EXTENT: 6 卷
+:BOOK:   7
 :END:
-**** dynasty: 清
-**** responsible: 蔣驥
+**** responsible:
+***** 蔣驥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1707 - 1727
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4a0006a.org][ZB4a0006a]] 山帶閣註楚辭__楚辭說韻
-*** [[mandoku:ZB4a0006b.org][ZB4a0006b]] 山帶閣註楚辭__楚辭餘論
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
+**** [[mandoku:ZB4a0006b.org][ZB4a0006b]] 楚辭餘論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (7)
+      :END:
+
+**** [[mandoku:ZB4a0006a.org][ZB4a0006a]] 楚辭說韻
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
 ** ZB4b 別集類
 *** [[mandoku:ZB4b0001.org][ZB4b0001]] 揚子雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 揚雄
+:SOURCE:   四庫全書 文淵閣版, V1063.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 揚雄
+**** responsible:
+***** 揚雄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -53 - 18
+      :END:
+
+***** 鄭樸
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0002.org][ZB4b0002]] 蔡中郎集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 蔡邕
+:SOURCE:   四庫全書 文淵閣版, V1063.2, p137
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 漢
-**** responsible: 蔡邕
+**** responsible:
+***** 蔡邕
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    133 - 192
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0003.org][ZB4b0003]] 孔北海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 孔融
+:SOURCE:   四庫全書 文淵閣版, V1063.3, p231
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 孔融
+**** responsible:
+***** 孔融
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    153 - 208
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0004.org][ZB4b0004]] 曹子建集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0004
