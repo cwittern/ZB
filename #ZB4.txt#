@@ -1581,35 +1581,93 @@
       :FUNCTION: 編
       :END:
 
-***** 廖
+***** 廖瑩中
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 撰
+      :DYNASTY:  宋
+      :FUNCTION: 集註
       :END:
 
-:DYNASTY: 宋
-:RESP: 闕名
-:END:
-**** dynasty: 宋
-**** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0057a.org][ZB4b0057a]] 東雅堂昌黎集註__外集註
+**** 遺文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 朱子校昌黎集傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** [[mandoku:ZB4b0057a.org][ZB4b0057a]] 外集註
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0058.org][ZB4b0058]] 韓集點勘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳景雲
+:SOURCE:   四庫全書 文淵閣版, V1075.2, p533
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 陳景雲
+**** responsible:
+***** 陳景雲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1747
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)文道先生墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 王峻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+**** 文道先生傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 沈廷芳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0059.org][ZB4b0059]] 柳河東集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0059
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1076.1, p1
+:EXTENT: 45 卷
+:BOOK:   20
+:END:
+**** responsible:
+***** 柳宗元
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1747
+      :END:
+
 :DYNASTY: 唐
 :RESP: 柳宗元
 :END:
