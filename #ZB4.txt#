@@ -810,36 +810,100 @@
 *** [[mandoku:ZB4b0029.org][ZB4b0029]] 李太白集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王琦
+:SOURCE:   四庫全書 文淵閣版, V1067.1, p1
+:EXTENT: 36 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 王琦
+**** responsible:
+***** 李白
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    705 - 762
+      :END:
+
+***** 王琦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 注
+      :DATES:    fl. 1760
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0030.org][ZB4b0030]] 九家集注杜詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭知達
+:SOURCE:   四庫全書 文淵閣版, V1068.1, p1
+:EXTENT: 36 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 郭知達
+**** responsible:
+***** 杜甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    712 - 770
+      :END:
+
+***** 郭知達
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 集注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0031.org][ZB4b0031]] 補注杜詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 杜甫
+:SOURCE:   四庫全書 文淵閣版, V1069.1, p1
+:EXTENT: 36 卷
+:BOOK:   26
 :END:
-**** dynasty: 唐
-**** responsible: 杜甫
+**** responsible:
+***** 杜甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    712 - 770
+      :END:
+
+***** 黃希
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 原注
+      :END:
+
+***** 黃鶴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 補注
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 傳序碑銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (26)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0032.org][ZB4b0032]] 集千家註杜工部詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0032
