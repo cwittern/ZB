@@ -16194,6 +16194,12 @@
 
 **** textual witnesses
 ***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
 
 *** [[mandoku:ZB3l0041.org][ZB3l0041]] 王壺野史
 :PROPERTIES:
@@ -16476,10 +16482,30 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0057a.org][ZB3l0057a]] 揮麈錄__前録
-*** [[mandoku:ZB3l0057b.org][ZB3l0057b]] 揮麈錄__後録
-*** [[mandoku:ZB3l0057c.org][ZB3l0057c]] 揮麈錄__三録
-*** [[mandoku:ZB3l0057d.org][ZB3l0057d]] 揮麈錄
+**** [[mandoku:ZB3l0057a.org][ZB3l0057a]] 前錄
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB3l0057b.org][ZB3l0057b]] 後錄
+      :PROPERTIES:
+      :EXTENT: (11) 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB3l0057c.org][ZB3l0057c]] 三錄
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB3l0057d.org][ZB3l0057d]] 餘話
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3l0058.org][ZB3l0058]] 玉照新志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0058
@@ -16552,7 +16578,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0062
 :SOURCE:   四庫全書 文淵閣版, V1039.1, p1
-:EXTENT: 12 + 3 卷
+:EXTENT: 12 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -16565,7 +16591,13 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0062a.org][ZB3l0062a]] 清波雜志__別志
+**** [[mandoku:ZB3l0062a.org][ZB3l0062a]] 別志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3l0063.org][ZB3l0063]] 雞肋編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0063
@@ -16688,7 +16720,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0070
 :SOURCE:   四庫全書 文淵閣版, V1039.9, p637
-:EXTENT: 5 + 1 卷
+:EXTENT: 5 卷
 :BOOK:   5
 :END:
 **** responsible:
@@ -16701,6 +16733,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB3l0071.org][ZB3l0071]] 癸辛雜識
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0071
@@ -16718,6 +16757,30 @@
 
 **** textual witnesses
 ***** WYG
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 後集
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 續集
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** here集
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0072.org][ZB3l0072]] 隨隱漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0072

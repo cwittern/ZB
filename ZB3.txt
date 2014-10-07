@@ -15776,7 +15776,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0020
 :SOURCE:   四庫全書 文淵閣版, V1035.22, p927
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -15789,6 +15789,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)鄭仲賢遺集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0021.org][ZB3l0021]] 北夢瑣言
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0021
@@ -15823,7 +15830,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0023.org][ZB3l0023]] 洛陽搢紳舊聞
+*** [[mandoku:ZB3l0023.org][ZB3l0023]] 洛陽搢紳舊聞記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0023
 :SOURCE:   四庫全書 文淵閣版, V1036.3, p133
@@ -15840,8 +15847,8 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0023a.org][ZB3l0023a]] 雜事之屬
-*** [[mandoku:ZB3l0023b.org][ZB3l0023b]] 洛陽搢紳舊聞記
+# *** [[mandoku:ZB3l0023a.org][ZB3l0023a]] 雜事之屬
+# *** [[mandoku:ZB3l0023b.org][ZB3l0023b]] 洛陽搢紳舊聞記
 *** [[mandoku:ZB3l0024.org][ZB3l0024]] 南部新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0024
@@ -16015,8 +16022,8 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0034
 :SOURCE:   四庫全書 文淵閣版, V1037.1, p1
-:EXTENT: 10 + 2 卷
-:BOOK:   2 + 1
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
 **** responsible:
 ***** 蘇轍
@@ -16028,7 +16035,13 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0034a.org][ZB3l0034a]] 龍川略志__別志
+**** [[mandoku:ZB3l0034a.org][ZB3l0034a]] 別志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+
 *** [[mandoku:ZB3l0035.org][ZB3l0035]] 後山談叢
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0035
@@ -16119,6 +16132,8 @@
 
 **** textual witnesses
 ***** WYG
+# *** ZB3l0039a	甲申雜記
+# *** ZB3l0039a 聞見近錄
 *** [[mandoku:ZB3l0039c.org][ZB3l0039c]] 聞見近錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0039c
@@ -16154,12 +16169,19 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0039b.org][ZB3l0039b]] 甲申聞見二錄補遺
+# *** ZB3l0039a	隨手雜錄
+**** [[mandoku:ZB3l0039b.org][ZB3l0039b]] (附)甲申聞見二錄補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3l0040.org][ZB3l0040]] 湘山野綠
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0040
 :SOURCE:   四庫全書 文淵閣版, V1037.9, p225
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -16172,6 +16194,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3l0041.org][ZB3l0041]] 王壺野史
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0041
@@ -16453,10 +16482,30 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3l0057a.org][ZB3l0057a]] 揮麈錄__前録
-*** [[mandoku:ZB3l0057b.org][ZB3l0057b]] 揮麈錄__後録
-*** [[mandoku:ZB3l0057c.org][ZB3l0057c]] 揮麈錄__三録
-*** [[mandoku:ZB3l0057d.org][ZB3l0057d]] 揮麈錄
+**** [[mandoku:ZB3l0057a.org][ZB3l0057a]] 前錄
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB3l0057b.org][ZB3l0057b]] 後錄
+      :PROPERTIES:
+      :EXTENT: (11) 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB3l0057c.org][ZB3l0057c]] 三錄
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB3l0057d.org][ZB3l0057d]] 餘話
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3l0058.org][ZB3l0058]] 玉照新志
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0058
