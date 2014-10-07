@@ -18334,6 +18334,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB3n0018.org][ZB3n0018]] 莊子口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0018
@@ -18371,7 +18378,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0020
 :SOURCE:   四庫全書 文淵閣版, V1058.1, p1
-:EXTENT: 8 + 1 + 1 + 1 卷
+:EXTENT: 8 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -18379,18 +18386,45 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :FUNCTION: 輯
       :DATES:    1541 - 1620
       :END:
 
-***** 陳景元
+**** textual witnesses
+***** WYG
+**** 采摭書目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** (附)莊子闕誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 陳景元
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :DATES:    1541 - 1620
+      :END:
+
 *** [[mandoku:ZB3n0021.org][ZB3n0021]] 文子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0021
@@ -18495,7 +18529,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0027
 :SOURCE:   四庫全書 文淵閣版, V1058.8, p625
-:EXTENT: 3 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   4
 :END:
 **** responsible:
@@ -18508,6 +18542,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 釋疑
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3n0028.org][ZB3n0028]] 周易參同契分章註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0028
@@ -18558,7 +18599,18 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0030a.org][ZB3n0030a]] 抱朴子內外篇__外篇
+**** 內篇
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB3n0030a.org][ZB3n0030a]] 外篇
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB3n0031.org][ZB3n0031]] 神仙傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0031

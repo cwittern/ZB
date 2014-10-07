@@ -17849,7 +17849,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0008
 :SOURCE:   四庫全書 文淵閣版, V1052.4, p639
-:EXTENT: 30 + 1 + 1 卷
+:EXTENT: 30 卷
 :BOOK:   6
 :END:
 **** responsible:
@@ -17860,21 +17860,40 @@
       :DATES:    1071 - 1128
       :END:
 
-***** 釋慶老
+**** textual witnesses
+***** WYG
+**** [[mandoku:ZB3m0008b.org][ZB3m0008b]] (附)補禪林僧寶傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 釋慶老
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB3m0008a.org][ZB3m0008a]] 禪林僧寶傳__臨濟宗旨
-*** [[mandoku:ZB3m0008b.org][ZB3m0008b]] 禪林僧寶傳__補禪林僧寶傳
+**** [[mandoku:ZB3m0008a.org][ZB3m0008a]] 臨濟宗旨
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 釋惠洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1071 - 1128
+      :END:
+
 *** [[mandoku:ZB3m0009.org][ZB3m0009]] 林間錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0009
 :SOURCE:   四庫全書 文淵閣版, V1052.5, p791
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   2
 :END:
 **** responsible:
@@ -17887,6 +17906,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 後集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB3m0010.org][ZB3m0010]] 羅湖野錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0010
@@ -17976,7 +18002,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經解
+# *** [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經解
 *** [[mandoku:ZB3n0001a.org][ZB3n0001a]] 陰符經考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0001a
@@ -18015,7 +18041,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0003
 :SOURCE:   四庫全書 文淵閣版, V1055.4, p45
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -18027,6 +18053,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 篇目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3n0004.org][ZB3n0004]] 道德指歸論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0004
@@ -18115,7 +18148,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0009
 :SOURCE:   四庫全書 文淵閣版, V1055.10, p323
-:EXTENT: 3 + 1 + 1 卷
+:EXTENT: 3 卷
 :BOOK:   3
 :END:
 **** responsible:
@@ -18128,6 +18161,20 @@
 
 **** textual witnesses
 ***** WYG
+**** 采摭書目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 考異
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB3n0010.org][ZB3n0010]] 御定道德經註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0010
@@ -18172,7 +18219,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0012
 :SOURCE:   四庫全書 文淵閣版, V1055.13, p519
-:EXTENT: 2 + 1 卷
+:EXTENT: 2 卷
 :BOOK:   1
 :END:
 **** responsible:
@@ -18185,6 +18232,13 @@
 
 **** textual witnesses
 ***** WYG
+**** (附)陰符經註
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB3n0013.org][ZB3n0013]] 關尹子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0013
@@ -18267,7 +18321,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0017
 :SOURCE:   四庫全書 文淵閣版, V1056.2, p169
-:EXTENT: 19 + 1 卷
+:EXTENT: 19 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -18280,6 +18334,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB3n0018.org][ZB3n0018]] 莊子口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0018
@@ -18317,7 +18378,7 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0020
 :SOURCE:   四庫全書 文淵閣版, V1058.1, p1
-:EXTENT: 8 + 1 + 1 + 1 卷
+:EXTENT: 8 卷
 :BOOK:   8
 :END:
 **** responsible:
@@ -18325,18 +18386,45 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :FUNCTION: 輯
       :DATES:    1541 - 1620
       :END:
 
-***** 陳景元
+**** textual witnesses
+***** WYG
+**** 采摭書目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** (附)莊子闕誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 陳景元
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :DATES:    1541 - 1620
+      :END:
+
 *** [[mandoku:ZB3n0021.org][ZB3n0021]] 文子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0021
