@@ -3721,61 +3721,127 @@
 ***** 陳紹夫
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    1017 - 1080
+      :FUNCTION: 編
       :END:
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0145.org][ZB4b0145]] 傳家集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0145
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V1094.1, p1
+:EXTENT: 80 卷
+:BOOK:   28
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0146.org][ZB4b0146]] 清獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0146
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙抃
+:SOURCE:   四庫全書 文淵閣版, V1094.2, p739
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 趙抃
+**** responsible:
+***** 趙抃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1008 - 1084
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0147.org][ZB4b0147]] 盱江集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0147
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李覯
+:SOURCE:   四庫全書 文淵閣版, V1095.1, p1
+:EXTENT: 37 卷
+:BOOK:   16
 :END:
-**** dynasty: 宋
-**** responsible: 李覯
+**** responsible:
+***** 李覯
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1009 - 1059
+      :END:
+
+***** 左贊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0147a.org][ZB4b0147a]] 旴江集__外集
+**** 李直講年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+***** responsible:
+****** 魏峙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** [[mandoku:ZB4b0147a.org][ZB4b0147a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0148.org][ZB4b0148]] 金氏文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0148
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 金君卿
+:SOURCE:   四庫全書 文淵閣版, V1095.2, p351
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 金君卿
+**** responsible:
+***** 金君卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1042
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0149.org][ZB4b0149]] 公是集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0149
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1095.3, p401
+:EXTENT: 54 卷
+:BOOK:   10
+:END:
+**** responsible:
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1042
+      :END:
+
 :DYNASTY: 宋
 :RESP: 劉敞
 :END:
