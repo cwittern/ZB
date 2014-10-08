@@ -3534,111 +3534,197 @@
 *** [[mandoku:ZB4b0135.org][ZB4b0135]] 徂徠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0135
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 石介
+:SOURCE:   四庫全書 文淵閣版, V1090.3, p181
+:EXTENT: 20 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 石介
+**** responsible:
+***** 石介
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1005 - 1045
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB4b0136.org][ZB4b0136]] 端明集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0136
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡襄
+:SOURCE:   四庫全書 文淵閣版, V1090.4, p337
+:EXTENT: 40 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 蔡襄
+**** responsible:
+***** 蔡襄
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1012 - 1067
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0137.org][ZB4b0137]] 祠部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0137
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 強至
+:SOURCE:   四庫全書 文淵閣版, V1091.1, p1
+:EXTENT: 35 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 強至
+**** responsible:
+***** 強至
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1046
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0138.org][ZB4b0138]] 鐔津集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0138
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋契嵩
+:SOURCE:   四庫全書 文淵閣版, V1091.2, p397
+:EXTENT: 22 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 釋契嵩
+**** responsible:
+***** 釋契嵩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0139.org][ZB4b0139]] 祖英集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0139
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋重顯
+:SOURCE:   四庫全書 文淵閣版, V1091.3, p641
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋重顯
+**** responsible:
+***** 釋重顯
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    980 - 1052
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0140.org][ZB4b0140]] 蘇學士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0140
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇舜欽
+:SOURCE:   四庫全書 文淵閣版, V1092.1, p1
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 蘇舜欽
+**** responsible:
+***** 蘇舜欽
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1008 - 1048
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0141.org][ZB4b0141]] 蘇魏公文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0141
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇頌
+:SOURCE:   四庫全書 文淵閣版, V1092.2, p127
+:EXTENT: 72 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 蘇頌
+**** responsible:
+***** 蘇頌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1121
+      :END:
+
+***** 蘇携
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0142.org][ZB4b0142]] 伐檀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0142
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃庶
+:SOURCE:   四庫全書 文淵閣版, V1092.3, p761
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 黃庶
+**** responsible:
+***** 黃庶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0143.org][ZB4b0143]] 華陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0143
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王珪
+:SOURCE:   四庫全書 文淵閣版, V1093.1, p1
+:EXTENT: 60 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 王珪
+**** responsible:
+***** 王珪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1085
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4b0144.org][ZB4b0144]] 古靈集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0144
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳襄
+:SOURCE:   四庫全書 文淵閣版, V1093.2, p497
+:EXTENT: 25 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 陳襄
+**** responsible:
+***** 陳襄
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1017 - 1080
+      :END:
+
+***** 陳紹夫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1017 - 1080
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0145.org][ZB4b0145]] 傳家集
