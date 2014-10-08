@@ -3023,46 +3023,92 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0112
 :SOURCE:   四庫全書 文淵閣版, V1085.1, p1
-:EXTENT: 3 卷
-:BOOK:   4
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 杜光庭
+***** 徐鉉
       :PROPERTIES:
-      :DYNASTY:  後蜀
+      :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    850 - 933
+      :DATES:    916 - 991
       :END:
 
-:DYNASTY: 宋
-:RESP: 徐鉉
-:END:
-**** dynasty: 宋
-**** responsible: 徐鉉
+***** 吳淑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0113.org][ZB4b0113]] 河東集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0113
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 柳開
+:SOURCE:   四庫全書 文淵閣版, V1085.2, p237
+:EXTENT: 15 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 柳開
+**** responsible:
+***** 柳開
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 995
+      :END:
+
+***** 張景
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0114.org][ZB4b0114]] 咸平集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0114
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 田錫
+:SOURCE:   四庫全書 文淵閣版, V1085.3, p353
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 田錫
+**** responsible:
+***** 田錫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    940 - 1003
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)田司徒墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 田司徒神道碑陰
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0115.org][ZB4b0115]] 逍遙集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0115
