@@ -2140,138 +2140,309 @@
 *** [[mandoku:ZB4b0074.org][ZB4b0074]] 王司馬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王建
+:SOURCE:   四庫全書 文淵閣版, V1078.11, p577
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 王建
+**** responsible:
+***** 王建
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    775
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0075.org][ZB4b0075]] 沈下賢集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 沈亞之
+:SOURCE:   四庫全書 文淵閣版, V1079.1, p1
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 沈亞之
+**** responsible:
+***** 沈亞之
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    815
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0076.org][ZB4b0076]] 追昔遊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李紳
+:SOURCE:   四庫全書 文淵閣版, V1079.2, p79
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李紳
+**** responsible:
+***** 李紳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 846
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0077.org][ZB4b0077]] 會昌一品集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李德裕
+:SOURCE:   四庫全書 文淵閣版, V1079.3, p107
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 唐
-**** responsible: 李德裕
+**** responsible:
+***** 李德裕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    787 - 849
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0077a.org][ZB4b0077a]] 會昌一品集__别集
-*** [[mandoku:ZB4b0077b.org][ZB4b0077b]] 會昌一品集__外集
+**** [[mandoku:ZB4b0077a.org][ZB4b0077a]] 李衞公别集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (10)
+      :END:
+
+**** [[mandoku:ZB4b0077b.org][ZB4b0077b]] 李衞公外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (10)
+      :END:
+
+**** (附)李衞公本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0078.org][ZB4b0078]] 元氏長慶集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 元禛
+:SOURCE:   四庫全書 文淵閣版, V1079.4, p347
+:EXTENT: 60 卷
+:BOOK:   14
 :END:
-**** dynasty: 唐
-**** responsible: 元禛
+**** responsible:
+***** 元禛
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    779 - 831
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0078a.org][ZB4b0078a]] 元氏長慶集__補遺
+**** [[mandoku:ZB4b0078a.org][ZB4b0078a]] 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (14)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0079.org][ZB4b0079]] 白氏長慶集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 白居易
+:SOURCE:   四庫全書 文淵閣版, V1080.1, p1
+:EXTENT: 71 卷
+:BOOK:   28
 :END:
-**** dynasty: 唐
-**** responsible: 白居易
+**** responsible:
+***** 白居易
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    772 - 846
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0080.org][ZB4b0080]] 白香山詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 白居易
+:SOURCE:   四庫全書 文淵閣版, V1081.1, p1
+:EXTENT: 40 卷
+:BOOK:   20
 :END:
-**** dynasty: 唐
-**** responsible: 白居易
+**** responsible:
+***** 白居易
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    772 - 846
+      :END:
+
+***** 汪立名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編注
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)舊唐書白居易本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 白香山年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 汪立名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+**** 舊本白文公年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 陳振孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0081.org][ZB4b0081]] 鮑溶詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 鮑溶
+:SOURCE:   四庫全書 文淵閣版, V1081.2, p531
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 鮑溶
+**** responsible:
+***** 鮑溶
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    809
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 集外詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0082.org][ZB4b0082]] 樊川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 杜牧
+:SOURCE:   四庫全書 文淵閣版, V1081.3, p561
+:EXTENT: 17 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 杜牧
+**** responsible:
+***** 杜牧
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    803 - 852
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0083.org][ZB4b0083]] 姚少監詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 姚合
+:SOURCE:   四庫全書 文淵閣版, V1081.4, p695
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 姚合
+**** responsible:
+***** 姚合
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    816
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0084.org][ZB4b0084]] 李義山詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李商隱
+:SOURCE:   四庫全書 文淵閣版, V1082.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 李商隱
+**** responsible:
+***** 李商隱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    813 - 858
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0085.org][ZB4b0085]] 李義山詩注
+*** [[mandoku:ZB4b0085.org][ZB4b0085]] 李義山詩集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 朱鶴齡
+:SOURCE:   四庫全書 文淵閣版, V1082.2, p79
+:EXTENT: 3 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 朱鶴齡
+**** responsible:
+***** 李商隱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    813 - 858
+      :END:
+
+***** 朱鶴齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 注
+      :DATES:    1606 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 李義山詩譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0086.org][ZB4b0086]] 李義山文集箋註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0086
