@@ -2481,93 +2481,146 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 溫庭
+***** 溫庭筠
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    813 - 858
+      :DATES:    fl. 859 - 866
       :END:
 
-***** 徐樹穀
+***** 曾益
       :PROPERTIES:
-      :DYNASTY:  清
-      :FUNCTION: 箋
-      :DATES:    1685
-      :END:
-
-***** 徐炯
-      :PROPERTIES:
-      :DYNASTY:  清
+      :DYNASTY:  明
       :FUNCTION: 註
       :END:
 
-:DYNASTY: 明
-:RESP: 曾益
-:END:
-**** dynasty: 明
-**** responsible: 曾益
+***** 顧予咸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補注
+      :END:
+
+***** 顧嗣立
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 重訂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0088.org][ZB4b0088]] 丁卯詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 許渾
+:SOURCE:   四庫全書 文淵閣版, V1082.5, p555
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 許渾
+**** responsible:
+***** 許渾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    832
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0089.org][ZB4b0089]] 文泉子
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB4b0089.org][ZB4b0089]] 文泉子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 劉蜕
+:SOURCE:   四庫全書 文淵閣版, V1082.6, p619
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 劉蜕
+**** responsible:
+***** 劉蜕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    850
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0090.org][ZB4b0090]] 李羣玉詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李羣玉
+:SOURCE:   四庫全書 文淵閣版, V1083.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 李羣玉
+**** responsible:
+***** 李羣玉
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 847
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0090a.org][ZB4b0090a]] 李群玉詩集__後集
+**** [[mandoku:ZB4b0090a.org][ZB4b0090a]] 後集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0091.org][ZB4b0091]] 黎嶽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李頻
+:SOURCE:   四庫全書 文淵閣版, V1083.2, p39
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李頻
+**** responsible:
+***** 李頻
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0092.org][ZB4b0092]] 孫可之集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 孫樵
+:SOURCE:   四庫全書 文淵閣版, V1083.3, p63
+:EXTENT: 10 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 孫樵
+**** responsible:
+***** 孫樵
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    855
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0093.org][ZB4b0093]] 麟角集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0093
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1083.4, p95
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 孫樵
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    855
+      :END:
+
 :DYNASTY: 唐
 :RESP: 王棨
 :END:

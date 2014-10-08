@@ -2446,45 +2446,107 @@
 *** [[mandoku:ZB4b0086.org][ZB4b0086]] 李義山文集箋註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 徐樹穀
+:SOURCE:   四庫全書 文淵閣版, V1082.3, p237
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 徐樹穀
+**** responsible:
+***** 李商隱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    813 - 858
+      :END:
+
+***** 徐樹穀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 箋
+      :DATES:    1685
+      :END:
+
+***** 徐炯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0087.org][ZB4b0087]] 溫飛卿詩集箋注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 曾益
+:SOURCE:   四庫全書 文淵閣版, V1082.4, p447
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 曾益
+**** responsible:
+***** 溫庭筠
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 859 - 866
+      :END:
+
+***** 曾益
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 註
+      :END:
+
+***** 顧予咸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補注
+      :END:
+
+***** 顧嗣立
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 重訂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0088.org][ZB4b0088]] 丁卯詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 許渾
+:SOURCE:   四庫全書 文淵閣版, V1082.5, p555
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 許渾
+**** responsible:
+***** 許渾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    832
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0089.org][ZB4b0089]] 文泉子
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB4b0089.org][ZB4b0089]] 文泉子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 劉蜕
+:SOURCE:   四庫全書 文淵閣版, V1082.6, p619
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 劉蜕
+**** responsible:
+***** 劉蜕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    850
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0090.org][ZB4b0090]] 李羣玉詩集
