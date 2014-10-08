@@ -3181,78 +3181,133 @@
 *** [[mandoku:ZB4b0118.org][ZB4b0118]] 小畜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0118
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王禹偁
+:SOURCE:   四庫全書 文淵閣版, V1086.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 王禹偁
+**** responsible:
+***** 王禹偁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    954 - 1001
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0119.org][ZB4b0119]] 南陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0119
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙湘
+:SOURCE:   四庫全書 文淵閣版, V1086.2, p303
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙湘
+**** responsible:
+***** 趙湘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    992
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0120.org][ZB4b0120]] 武夷新集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0120
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊億
+:SOURCE:   四庫全書 文淵閣版, V1086.3, p351
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 楊億
+**** responsible:
+***** 楊億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    974 - 1020
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0121.org][ZB4b0121]] 林和靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0121
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林逋
+:SOURCE:   四庫全書 文淵閣版, V1086.4, p615
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 林逋
+**** responsible:
+***** 林逋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    967 - 1028
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0122.org][ZB4b0122]] 穆參軍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0122
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 穆修
+:SOURCE:   四庫全書 文淵閣版, V1087.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 穆修
+**** responsible:
+***** 穆修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    979 - 1032
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄遺事
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0123.org][ZB4b0123]] 元獻遺文
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0123
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晏殊
+:SOURCE:   四庫全書 文淵閣版, V1087.2, p31
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晏殊
+**** responsible:
+***** 晏殊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    991 - 1055
+      :END:
+
+***** 胡亦堂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0124.org][ZB4b0124]] 文莊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0124
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 夏竦
+:SOURCE:   四庫全書 文淵閣版, V1087.3, p45
+:EXTENT: 36 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 夏竦
+**** responsible:
+***** 夏竦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    984 - 1050
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0125.org][ZB4b0125]] 春卿遺稿
