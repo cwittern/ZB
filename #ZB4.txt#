@@ -2614,24 +2614,48 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 孫樵
+***** 王棨
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    855
+      :DATES:    861
       :END:
 
-:DYNASTY: 唐
-:RESP: 王棨
-:END:
-**** dynasty: 唐
-**** responsible: 王棨
+***** 王蘋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯錄
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)省題詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0094.org][ZB4b0094]] 曹祠部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0094
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1083.5, p127
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 曹鄴
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 蔣
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 唐
 :RESP: 曹鄴
 :END:
