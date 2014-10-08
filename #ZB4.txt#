@@ -2229,52 +2229,122 @@
 *** [[mandoku:ZB4b0078.org][ZB4b0078]] 元氏長慶集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0078
-:SOURCE:   四庫全書 文淵閣版, V1079.4, p107
-:EXTENT: 20 卷
-:BOOK:   10
+:SOURCE:   四庫全書 文淵閣版, V1079.4, p347
+:EXTENT: 60 卷
+:BOOK:   14
 :END:
 **** responsible:
-***** 李德裕
+***** 元禛
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    787 - 849
+      :DATES:    779 - 831
       :END:
 
-:DYNASTY: 唐
-:RESP: 元禛
-:END:
-**** dynasty: 唐
-**** responsible: 元禛
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0078a.org][ZB4b0078a]] 元氏長慶集__補遺
+**** [[mandoku:ZB4b0078a.org][ZB4b0078a]] 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (14)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0079.org][ZB4b0079]] 白氏長慶集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 白居易
+:SOURCE:   四庫全書 文淵閣版, V1080.1, p1
+:EXTENT: 71 卷
+:BOOK:   28
 :END:
-**** dynasty: 唐
-**** responsible: 白居易
+**** responsible:
+***** 白居易
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    772 - 846
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0080.org][ZB4b0080]] 白香山詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 白居易
+:SOURCE:   四庫全書 文淵閣版, V1081.1, p1
+:EXTENT: 40 卷
+:BOOK:   20
 :END:
-**** dynasty: 唐
-**** responsible: 白居易
+**** responsible:
+***** 白居易
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    772 - 846
+      :END:
+
+***** 汪立名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編注
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)舊唐書白居易本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 白香山年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 汪立名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+**** 舊本白文公年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 陳振孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0081.org][ZB4b0081]] 鮑溶詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0081
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1081.2, p531
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 白居易
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    772 - 846
+      :END:
+
 :DYNASTY: 唐
 :RESP: 鮑溶
 :END:
