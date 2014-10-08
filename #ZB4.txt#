@@ -3096,7 +3096,7 @@
       :BOOK:   (8)
       :END:
 ***** responsible:
-****** 王開祖
+****** 范仲淹
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
@@ -3108,77 +3108,142 @@
       :EXTENT: 1 卷
       :BOOK:   (8)
       :END:
+***** responsible:
+****** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
 
 *** [[mandoku:ZB4b0115.org][ZB4b0115]] 逍遙集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0115
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 潘閬
+:SOURCE:   四庫全書 文淵閣版, V1085.4, p565
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 潘閬
+**** responsible:
+***** 潘閬
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0116.org][ZB4b0116]] 乖崔集
+*** [[mandoku:ZB4b0116.org][ZB4b0116]] 乖崖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0116
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張詠
+:SOURCE:   四庫全書 文淵閣版, V1085.5, p575
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 張詠
+**** responsible:
+***** 張詠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    946 - 1015
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0117.org][ZB4b0117]] 忠愍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0117
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 寇準
+:SOURCE:   四庫全書 文淵閣版, V1085.6, p667
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 寇準
+**** responsible:
+***** 寇準
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    961 - 1023
+      :END:
+
+***** 范雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0118.org][ZB4b0118]] 小畜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0118
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王禹偁
+:SOURCE:   四庫全書 文淵閣版, V1086.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 王禹偁
+**** responsible:
+***** 王禹偁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    954 - 1001
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0119.org][ZB4b0119]] 南陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0119
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙湘
+:SOURCE:   四庫全書 文淵閣版, V1086.2, p303
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙湘
+**** responsible:
+***** 趙湘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    992
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0120.org][ZB4b0120]] 武夷新集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0120
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊億
+:SOURCE:   四庫全書 文淵閣版, V1086.3, p351
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 楊億
+**** responsible:
+***** 楊億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    974 - 1020
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0121.org][ZB4b0121]] 林和靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0121
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1086.4, p615
+:EXTENT: 20 卷
+:BOOK:   10
+:END:
+**** responsible:
+***** 楊億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    974 - 1020
+      :END:
+
 :DYNASTY: 宋
 :RESP: 林逋
 :END:
