@@ -1990,41 +1990,68 @@
       :DATES:    766 - 794
       :END:
 
-***** 陸希聲
+***** 宋敏求
       :PROPERTIES:
-      :DYNASTY:  唐
+      :DYNASTY:  宋
       :FUNCTION: 編
       :END:
 
-:DYNASTY: 唐
-:RESP: 孟郊
-:END:
-**** dynasty: 唐
-**** responsible: 孟郊
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0070.org][ZB4b0070]] 長江集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 賈島
+:SOURCE:   四庫全書 文淵閣版, V1078.7, p389
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 賈島
+**** responsible:
+***** 賈島
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    788 - 843
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0071.org][ZB4b0071]] 昌谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李賀
+:SOURCE:   四庫全書 文淵閣版, V1078.8, p437
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 李賀
+**** responsible:
+***** 李賀
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    790 - 816
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** (附)李長吉小傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 李商隱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0072.org][ZB4b0072]] 箋註評點李長吉歌詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0072
