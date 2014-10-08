@@ -3342,56 +3342,93 @@
 *** [[mandoku:ZB4b0126.org][ZB4b0126]] 東觀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0126
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏野
+:SOURCE:   四庫全書 文淵閣版, V1087.5, p349
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 魏野
+**** responsible:
+***** 魏野
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    960 - 1019
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0127.org][ZB4b0127]] 元憲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0127
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋庠
+:SOURCE:   四庫全書 文淵閣版, V1087.6, p401
+:EXTENT: 36 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 宋庠
+**** responsible:
+***** 宋庠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    996 - 1066
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0128.org][ZB4b0128]] 景文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0128
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋祁
+:SOURCE:   四庫全書 文淵閣版, V1088.1, p1
+:EXTENT: 62 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 宋祁
+**** responsible:
+***** 宋祁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    998 - 1061
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0129.org][ZB4b0129]] 文恭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0129
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡宿
+:SOURCE:   四庫全書 文淵閣版, V1088.2, p609
+:EXTENT: 40 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 胡宿
+**** responsible:
+***** 胡宿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    996 - 1067
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0130.org][ZB4b0130]] 武溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0130
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 餘靖
+:SOURCE:   四庫全書 文淵閣版, V1089.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 餘靖
+**** responsible:
+***** 余靖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1000 - 1064
+      :END:
+
+***** 余仲荀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1000 - 1064
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0131.org][ZB4b0131]] 安陽集
