@@ -2814,18 +2814,35 @@
 *** [[mandoku:ZB4b0102.org][ZB4b0102]] 唐風集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0102
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 杜荀鶴
+:SOURCE:   四庫全書 文淵閣版, V1083.13, p583
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 杜荀鶴
+**** responsible:
+***** 杜荀鶴
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    846 - 904
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0103.org][ZB4b0103]] 唐英歌詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0103
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1084.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 吳融
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    846 - 904
+      :END:
+
 :DYNASTY: 唐
 :RESP: 吳融
 :END:
