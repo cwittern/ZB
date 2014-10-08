@@ -2055,25 +2055,88 @@
 *** [[mandoku:ZB4b0072.org][ZB4b0072]] 箋註評點李長吉歌詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李賀
+:SOURCE:   四庫全書 文淵閣版, V1078.9, p481
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 李賀
+**** responsible:
+***** 李賀
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    790 - 816
+      :END:
+
+***** 吳正子
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 箋註
+      :END:
+
+***** 劉辰翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 評點
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0073.org][ZB4b0073]] 絳守居園池記
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 樊宗師
+:SOURCE:   四庫全書 文淵閣版, V1078.10, p555
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 樊宗師
+**** responsible:
+***** 樊宗師
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 820
+      :END:
+
+***** 趙仁擧
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
+***** 吳師道
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補正
+      :END:
+
+***** 許謙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補正
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補注
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0074.org][ZB4b0074]] 王司馬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0074

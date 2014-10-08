@@ -2085,51 +2085,107 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (4)
       :END:
 
 *** [[mandoku:ZB4b0073.org][ZB4b0073]] 絳守居園池記
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 樊宗師
+:SOURCE:   四庫全書 文淵閣版, V1078.10, p555
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 樊宗師
+**** responsible:
+***** 樊宗師
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 820
+      :END:
+
+***** 趙仁擧
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
+***** 吳師道
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補正
+      :END:
+
+***** 許謙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補正
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補注
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0074.org][ZB4b0074]] 王司馬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王建
+:SOURCE:   四庫全書 文淵閣版, V1078.11, p577
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 王建
+**** responsible:
+***** 王建
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    775
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0075.org][ZB4b0075]] 沈下賢集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 沈亞之
+:SOURCE:   四庫全書 文淵閣版, V1079.1, p1
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 沈亞之
+**** responsible:
+***** 沈亞之
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    815
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0076.org][ZB4b0076]] 追昔遊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李紳
+:SOURCE:   四庫全書 文淵閣版, V1079.2, p79
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李紳
+**** responsible:
+***** 李紳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 846
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0077.org][ZB4b0077]] 會昌一品集
