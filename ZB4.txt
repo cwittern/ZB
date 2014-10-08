@@ -2656,56 +2656,101 @@
       :FUNCTION: 輯
       :END:
 
-:DYNASTY: 唐
-:RESP: 曹鄴
-:END:
-**** dynasty: 唐
-**** responsible: 曹鄴
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0094a.org][ZB4b0094a]] 曹祠部集__附録曹唐詩
+**** [[mandoku:ZB4b0094a.org][ZB4b0094a]] (附)曹唐詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 曹唐
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0095.org][ZB4b0095]] 文藪
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 皮日休
+:SOURCE:   四庫全書 文淵閣版, V1083.6, p153
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 皮日休
+**** responsible:
+***** 皮日休
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 880
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0096.org][ZB4b0096]] 笠澤叢書
+*** [[mandoku:ZB4b0096.org][ZB4b0096]] 笠澤藂書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸龜蒙
+:SOURCE:   四庫全書 文淵閣版, V1083.7, p229
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 陸龜蒙
+**** responsible:
+***** 陸龜蒙
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 881
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0097.org][ZB4b0097]] 甫里集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸龜蒙
+:SOURCE:   四庫全書 文淵閣版, V1083.8, p279
+:EXTENT: 19 卷
+:BOOK:   6
 :END:
-**** dynasty: 唐
-**** responsible: 陸龜蒙
+**** responsible:
+***** 陸龜蒙
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 881
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0098.org][ZB4b0098]] 咏史詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 胡曾
+:SOURCE:   四庫全書 文淵閣版, V1083.9, p417
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 胡曾
+**** responsible:
+***** 胡曾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    9th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0099.org][ZB4b0099]] 雲臺編
