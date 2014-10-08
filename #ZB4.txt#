@@ -1962,11 +1962,40 @@
 
 **** textual witnesses
 ***** WYG
-**** [[mandoku:ZB4b0068a.org][ZB4b0068a]] 李元賓文編__外編
+**** [[mandoku:ZB4b0068a.org][ZB4b0068a]] 外編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 趙昂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB4b0069.org][ZB4b0069]] 孟東野詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0069
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1078.6, p311
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 孟郊
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    766 - 794
+      :END:
+
+***** 陸希聲
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 :DYNASTY: 唐
 :RESP: 孟郊
 :END:
