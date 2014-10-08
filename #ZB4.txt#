@@ -2843,105 +2843,197 @@
       :DATES:    846 - 904
       :END:
 
-:DYNASTY: 唐
-:RESP: 吳融
-:END:
-**** dynasty: 唐
-**** responsible: 吳融
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0104.org][ZB4b0104]] 玄英集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0104
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 方干
+:SOURCE:   四庫全書 文淵閣版, V1084.2, p43
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 方干
+**** responsible:
+***** 方干
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0105.org][ZB4b0105]] 黃御史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0105
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 黃滔
+:SOURCE:   四庫全書 文淵閣版, V1084.3, p87
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 黃滔
+**** responsible:
+***** 黃滔
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    895
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0106.org][ZB4b0106]] 羅昭諫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 羅隱
+:SOURCE:   四庫全書 文淵閣版, V1084.4, p191
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 羅隱
+**** responsible:
+***** 羅隱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    833 - 909
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0107.org][ZB4b0107]] 徐正字詩賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 徐寅
+:SOURCE:   四庫全書 文淵閣版, V1084.5, p287
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 徐寅
+**** responsible:
+***** 徐寅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0108.org][ZB4b0108]] 白蓮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0108
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 釋齊己
+:SOURCE:   四庫全書 文淵閣版, V1084.6, p327
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 釋齊己
+**** responsible:
+***** 釋齊己
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0109.org][ZB4b0109]] 禪月集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0109
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 釋貫休
+:SOURCE:   四庫全書 文淵閣版, V1084.7, p423
+:EXTENT: 25 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 釋貫休
+**** responsible:
+***** 釋貫休
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 832 - 912
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0110.org][ZB4b0110]] 浣花集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韋莊
+:SOURCE:   四庫全書 文淵閣版, V1084.8, p531
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 韋莊
+**** responsible:
+***** 韋莊
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    836 - 910
+      :END:
+
+***** 韋藹
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0111.org][ZB4b0111]] 廣成集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後蜀
-:RESP: 杜光庭
+:SOURCE:   四庫全書 文淵閣版, V1084.9, p585
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 後蜀
-**** responsible: 杜光庭
+**** responsible:
+***** 杜光庭
+      :PROPERTIES:
+      :DYNASTY:  後蜀
+      :FUNCTION: 撰
+      :DATES:    850 - 933
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0112.org][ZB4b0112]] 騎省集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0112
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1085.1, p1
+:EXTENT: 3 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 杜光庭
+      :PROPERTIES:
+      :DYNASTY:  後蜀
+      :FUNCTION: 撰
+      :DATES:    850 - 933
+      :END:
+
 :DYNASTY: 宋
 :RESP: 徐鉉
 :END:
