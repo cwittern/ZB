@@ -6193,6 +6193,7 @@
 
 **** textual witnesses
 ***** WYG
+# *** ZB3f0046a	算書之屬
 *** [[mandoku:ZB3f0047.org][ZB3f0047]] 同文算指
 :PROPERTIES:
 :CUSTOM_ID:  ZB3f0047
@@ -6641,6 +6642,7 @@
 
 **** textual witnesses
 ***** WYG
+# *** ZB3g0009a	數學之屬
 *** [[mandoku:ZB3g0010.org][ZB3g0010]] 觀物篇解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3g0010
@@ -9663,7 +9665,7 @@
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
-
+# *** ZB3i0022b	飮饌之屬
 *** [[mandoku:ZB3i0023.org][ZB3i0023]] 東溪試茶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3i0023
@@ -11627,6 +11629,8 @@
       :EXTENT: (1) 卷
       :BOOK:   (1)
       :END:
+
+# *** ZB3j0071f	蘆浦筆記
 
 *** [[mandoku:ZB3j0072.org][ZB3j0072]] 潛邱劄記
 :PROPERTIES:
@@ -14541,7 +14545,7 @@
 **** ZB3k0030b 後集
       :PROPERTIES:
       :EXTENT: (存80) 卷
-      :BOOK:   (  )
+      :BOOK:   (#)
       :END:
 
 **** ZB3k0030c 續集
@@ -15739,6 +15743,7 @@
 
 **** textual witnesses
 ***** WYG
+# *** ZB3l0017a	金華子雜編
 *** [[mandoku:ZB3l0018.org][ZB3l0018]] 開元天寶遺事
 :PROPERTIES:
 :CUSTOM_ID:  ZB3l0018
