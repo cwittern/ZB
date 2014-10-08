@@ -3425,8 +3425,7 @@
 ***** 余仲荀
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    1000 - 1064
+      :FUNCTION: 編
       :END:
 
 **** textual witnesses
@@ -3434,47 +3433,102 @@
 *** [[mandoku:ZB4b0131.org][ZB4b0131]] 安陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 韓琦
+:SOURCE:   四庫全書 文淵閣版, V1089.2, p215
+:EXTENT: 50 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 韓琦
+**** responsible:
+***** 韓琦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1008 - 1075
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0132.org][ZB4b0132]] 范文正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0132
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范仲淹
+:SOURCE:   四庫全書 文淵閣版, V1089.3, p551
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 范仲淹
+**** responsible:
+***** 范仲淹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    989 - 1052
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0132a.org][ZB4b0132a]] 范文正集__别集
-*** [[mandoku:ZB4b0132b.org][ZB4b0132b]] 范文正集__補編
+**** [[mandoku:ZB4b0132a.org][ZB4b0132a]] 别集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 綦煥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
+**** [[mandoku:ZB4b0132b.org][ZB4b0132b]] 補編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 范能濬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
 *** [[mandoku:ZB4b0133.org][ZB4b0133]] 河南集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0133
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 尹洙
+:SOURCE:   四庫全書 文淵閣版, V1090.1, p1
+:EXTENT: 27 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 尹洙
+**** responsible:
+***** 尹洙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1001 - 1046
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0134.org][ZB4b0134]] 孫明復小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0134
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孫復
+:SOURCE:   四庫全書 文淵閣版, V1090.2, p157
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 孫復
+**** responsible:
+***** 孫復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    992 - 1057
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0135.org][ZB4b0135]] 徂徠集
