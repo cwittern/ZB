@@ -4495,25 +4495,44 @@
 *** [[mandoku:ZB4b0178.org][ZB4b0178]] 臨川文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0178
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王安石
+:SOURCE:   四庫全書 文淵閣版, V1105.1, p1
+:EXTENT: 100 卷
+:BOOK:   30
 :END:
-**** dynasty: 宋
-**** responsible: 王安石
+**** responsible:
+***** 王安石
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1021 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0179.org][ZB4b0179]] 王荊公詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0179
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李壁
+:SOURCE:   四庫全書 文淵閣版, V1106.1, p1
+:EXTENT: 50 卷
+:BOOK:   16
 :END:
-**** dynasty: 宋
-**** responsible: 李壁
+**** responsible:
+***** 李壁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1159 - 1222
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0180.org][ZB4b0180]] 廣陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0180
