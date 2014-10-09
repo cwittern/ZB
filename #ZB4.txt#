@@ -4892,13 +4892,45 @@
       :FUNCTION: 編
       :END:
 
-*** [[mandoku:ZB4b0186c.org][ZB4b0186c]] 山谷集__山谷年譜__别集
-*** [[mandoku:ZB4b0186d.org][ZB4b0186d]] 山谷集__山谷簡尺__别集
-*** [[mandoku:ZB4b0186e.org][ZB4b0186e]] 山谷集__山谷詞__别集
-*** [[mandoku:ZB4b0187.org][ZB4b0187]] 山谷詩注
+**** [[mandoku:ZB4b0186e.org][ZB4b0186e]] 詞
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4b0186d.org][ZB4b0186d]] 簡尺
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0186c.org][ZB4b0186c]] 年譜
+      :PROPERTIES:
+      :EXTENT: (30) 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 黃㽦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+*** [[mandoku:ZB4b0187.org][ZB4b0187]] 山谷內集詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0187
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1113.1, p1
+:EXTENT: 97 卷
+:BOOK:   32
+:END:
+**** responsible:
+***** 黃庭堅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1045 - 1103
+      :END:
+
 :DYNASTY: 宋
 :RESP: 任淵
 :END:
