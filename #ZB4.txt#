@@ -5104,18 +5104,35 @@
 *** [[mandoku:ZB4b0194.org][ZB4b0194]] 寶晉英光集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0194
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 米芾
+:SOURCE:   四庫全書 文淵閣版, V1116.2, p91
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 米芾
+**** responsible:
+***** 米芾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1051 - 1107
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0195.org][ZB4b0195]] 石門文字禪
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0195
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1116.3, p143
+:EXTENT: 30 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 釋惠洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1051 - 1107
+      :END:
+
 :DYNASTY: 宋
 :RESP: 釋惠洪
 :END:
