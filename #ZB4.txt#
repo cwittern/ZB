@@ -4187,58 +4187,114 @@
 *** [[mandoku:ZB4b0167.org][ZB4b0167]] 擊壤集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0167
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 邵雍
+:SOURCE:   四庫全書 文淵閣版, V1101.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 邵雍
+**** responsible:
+***** 邵雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1011 - 1077
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0168.org][ZB4b0168]] 鄱陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0168
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 彭汝礪
+:SOURCE:   四庫全書 文淵閣版, V1101.2, p173
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 彭汝礪
+**** responsible:
+***** 彭汝礪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1042 - 1095
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0169.org][ZB4b0169]] 曲阜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0169
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾鞏
+:SOURCE:   四庫全書 文淵閣版, V1101.3, p325
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 曾鞏
+**** responsible:
+***** 曾肇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1047 - 1107
+      :END:
+
+***** 曾儼
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0170.org][ZB4b0170]] 周元公集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0170
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周敦頤
+:SOURCE:   四庫全書 文淵閣版, V1101.4, p415
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 周敦頤
+**** responsible:
+***** 周敦頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1017 - 1073
+      :END:
+
+***** 周沈珂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0171.org][ZB4b0171]] 南陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0171
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 韓維
+:SOURCE:   四庫全書 文淵閣版, V1101.5, p503
+:EXTENT: 存29 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 韓維
+**** responsible:
+***** 韓維
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1017 - 1098
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** 行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0172.org][ZB4b0172]] 節孝集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0172
