@@ -4983,68 +4983,122 @@
 *** [[mandoku:ZB4b0188.org][ZB4b0188]] 後山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0188
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳師道
+:SOURCE:   四庫全書 文淵閣版, V1114.2, p511
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 陳師道
+**** responsible:
+***** 陳師道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0189.org][ZB4b0189]] 后山詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0189
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 任淵
+:SOURCE:   四庫全書 文淵閣版, V1114.3, p741
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 任淵
+**** responsible:
+***** 陳師道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1101
+      :END:
+
+***** 任淵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0190.org][ZB4b0190]] 柯山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0190
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張耒
+:SOURCE:   四庫全書 文淵閣版, V1115.1, p1
+:EXTENT: 50 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 張耒
+**** responsible:
+***** 張耒
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1052 - 1112
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0191.org][ZB4b0191]] 淮海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0191
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 秦觀
+:SOURCE:   四庫全書 文淵閣版, V1115.2, p427
+:EXTENT: 40 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 秦觀
+**** responsible:
+***** 秦觀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1049 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0191a.org][ZB4b0191a]] 淮海集__後集
+**** [[mandoku:ZB4b0191a.org][ZB4b0191a]] 後集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (12)
+      :END:
+
+**** 長短句
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4b0192.org][ZB4b0192]] 濟南集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0192
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李廌
+:SOURCE:   四庫全書 文淵閣版, V1115.3, p701
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 李廌
+**** responsible:
+***** 李廌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1059 - 1109
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0193.org][ZB4b0193]] 參寥子詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0193
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋道潛
+:SOURCE:   四庫全書 文淵閣版, V1116.1, p1
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 釋道潛
+**** responsible:
+***** 釋道潛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0194.org][ZB4b0194]] 寶晉英光集
