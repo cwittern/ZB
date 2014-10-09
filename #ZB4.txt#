@@ -6143,51 +6143,82 @@
 *** [[mandoku:ZB4b0244.org][ZB4b0244]] 浮溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0244
-:SOURCE:   四庫全書 文淵閣版, V1127.6, p669
-:EXTENT: 15 卷
-:BOOK:   6
+:SOURCE:   四庫全書 文淵閣版, V1128.1, p1
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 張守
+***** 汪藻
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1102
+      :DATES:    1079 - 1154
       :END:
 
-:DYNASTY: 宋
-:RESP: 汪藻
-:END:
-**** dynasty: 宋
-**** responsible: 汪藻
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0245.org][ZB4b0245]] 浮溪文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0245
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪藻
+:SOURCE:   四庫全書 文淵閣版, V1128.2, p335
+:EXTENT: 15 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 汪藻
+**** responsible:
+***** 汪藻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1079 - 1154
+      :END:
+
+***** 胡堯臣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 刊
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0246.org][ZB4b0246]] 莊簡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0246
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李光
+:SOURCE:   四庫全書 文淵閣版, V1128.3, p429
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 李光
+**** responsible:
+***** 李光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1155
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0247.org][ZB4b0247]] 忠正德文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0247
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1128.3, p429
+:EXTENT: 18 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 李光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1155
+      :END:
+
 :DYNASTY: 宋
 :RESP: 趙鼎
 :END:
