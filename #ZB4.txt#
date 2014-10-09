@@ -5295,46 +5295,103 @@
 :BOOK:   20
 :END:
 **** responsible:
-***** 沈遼
+***** 晁說之
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    d. 1085
+      :DATES:    1082
       :END:
 
-:DYNASTY: 宋
-:RESP: 晁補之
-:END:
-**** dynasty: 宋
-**** responsible: 晁補之
+***** 晁子健
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0205.org][ZB4b0205]] 雞肋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0205
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁補之
+:SOURCE:   四庫全書 文淵閣版, V1118.2, p407
+:EXTENT: 70 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 晁補之
+**** responsible:
+***** 晁補之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1110
+      :END:
+
+***** 晁謙之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0206.org][ZB4b0206]] 樂圃餘藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0206
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱長文
+:SOURCE:   四庫全書 文淵閣版, V1119.1, p1
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 朱長文
+**** responsible:
+***** 朱長文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1041 - 1100
+      :END:
+
+***** 朱思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0207.org][ZB4b0207]] 龍雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0207
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1119.2, p63
+:EXTENT: 32 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 劉弇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1048 - 1102
+      :END:
+
+***** 羅良弼
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1048 - 1102
+      :END:
+
 :DYNASTY: 宋
 :RESP: 劉弇
 :END:
