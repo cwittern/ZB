@@ -5940,29 +5940,64 @@
 *** [[mandoku:ZB4b0235.org][ZB4b0235]] 宗忠簡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0235
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宗澤
+:SOURCE:   四庫全書 文淵閣版, V1125.1, p1
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 宗澤
+**** responsible:
+***** 宗澤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1059 - 1128
+      :END:
+
+***** 樓昉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 王庭曾
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 重編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0236.org][ZB4b0236]] 龜山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0236
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊時
+:SOURCE:   四庫全書 文淵閣版, V1125.2, p101
+:EXTENT: 42 卷
+:BOOK:   16
 :END:
-**** dynasty: 宋
-**** responsible: 楊時
+**** responsible:
+***** 楊時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1135
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0237.org][ZB4b0237]] 梁谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0237
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1125.2, p101
+:EXTENT: 42 卷
+:BOOK:   16
+:END:
+**** responsible:
+***** 楊時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1135
+      :END:
+
 :DYNASTY: 宋
 :RESP: 李綱
 :END:
