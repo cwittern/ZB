@@ -5473,55 +5473,94 @@
 ***** WYG
 # *** [[mandoku:ZB4b0210a.org][ZB4b0210a]] 姑溪居士前集__前集
 **** [[mandoku:ZB4b0210b.org][ZB4b0210b]] 後集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 20 卷
+      :BOOK:   (12)
+      :END:
 
 *** [[mandoku:ZB4b0211.org][ZB4b0211]] 潏水集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0211
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李復
+:SOURCE:   四庫全書 文淵閣版, V1121.1, p1
+:EXTENT: 16 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 李復
+**** responsible:
+***** 李復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0212.org][ZB4b0212]] 道鄉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0212
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄒浩
+:SOURCE:   四庫全書 文淵閣版, V1121.2, p161
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 鄒浩
+**** responsible:
+***** 鄒浩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1060 - 1111
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0213.org][ZB4b0213]] 學易集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0213
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉跂
+:SOURCE:   四庫全書 文淵閣版, V1121.3, p533
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 劉跂
+**** responsible:
+***** 劉跂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0214.org][ZB4b0214]] 游廌山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0214
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 游酢
+:SOURCE:   四庫全書 文淵閣版, V1121.4, p627
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 游酢
+**** responsible:
+***** 游酢
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1045 - 1115
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0215.org][ZB4b0215]] 西臺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0215
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1122.4, p627
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 游酢
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1045 - 1115
+      :END:
+
 :DYNASTY: 宋
 :RESP: 畢仲游
 :END:
