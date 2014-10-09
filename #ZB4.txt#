@@ -3886,7 +3886,7 @@
 :BOOK:   6
 :END:
 **** responsible:
-***** 陳舜俞
+***** 陳舜兪
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
@@ -3898,34 +3898,65 @@
 *** [[mandoku:ZB4b0153.org][ZB4b0153]] 丹淵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0153
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 文同
+:SOURCE:   四庫全書 文淵閣版, V1096.4, p553
+:EXTENT: 40 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 文同
+**** responsible:
+***** 文同
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1018 - 1079
+      :END:
+
+***** 家誠之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0154.org][ZB4b0154]] 西溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0154
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈遘
+:SOURCE:   四庫全書 文淵閣版, V1097.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 沈遘
+**** responsible:
+***** 沈遘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1025 - 1067
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0155.org][ZB4b0155]] 鄖溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0155
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭獬
+:SOURCE:   四庫全書 文淵閣版, V1097.2, p109
+:EXTENT: 28 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 鄭獬
+**** responsible:
+***** 鄭獬
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1022 - 1072
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0156.org][ZB4b0156]] 錢塘集
