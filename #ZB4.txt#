@@ -5388,53 +5388,92 @@
 ***** 羅良弼
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    1048 - 1102
+      :FUNCTION: 編
       :END:
 
-:DYNASTY: 宋
-:RESP: 劉弇
-:END:
-**** dynasty: 宋
-**** responsible: 劉弇
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0207a.org][ZB4b0207a]] 南宋建炎至德祐
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+# *** [[mandoku:ZB4b0207a.org][ZB4b0207a]] 南宋建炎至德祐
 *** [[mandoku:ZB4b0208.org][ZB4b0208]] 雲溪居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0208
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 華鎭
+:SOURCE:   四庫全書 文淵閣版, V1119.3, p339
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 華鎭
+**** responsible:
+***** 華鎭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0209.org][ZB4b0209]] 演山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0209
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃裳
+:SOURCE:   四庫全書 文淵閣版, V1120.1, p1
+:EXTENT: 60 卷
+:BOOK:   16
 :END:
-**** dynasty: 宋
-**** responsible: 黃裳
+**** responsible:
+***** 黃裳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1043 - 1129
+      :END:
+
+***** 黃玠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0210.org][ZB4b0210]] 姑溪居士前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0210
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李之儀
+:SOURCE:   四庫全書 文淵閣版, V1120.2, p391
+:EXTENT: 50 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 李之儀
+**** responsible:
+***** 李之儀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1085 - 1102
+      :END:
+
+***** 吳芾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0210a.org][ZB4b0210a]] 姑溪居士前集__前集
-*** [[mandoku:ZB4b0210b.org][ZB4b0210b]] 姑溪居士前集__後集
+# *** [[mandoku:ZB4b0210a.org][ZB4b0210a]] 姑溪居士前集__前集
+**** [[mandoku:ZB4b0210b.org][ZB4b0210b]] 後集
+
 *** [[mandoku:ZB4b0211.org][ZB4b0211]] 潏水集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0211
