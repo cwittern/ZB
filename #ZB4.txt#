@@ -5881,40 +5881,60 @@
 :BOOK:   8
 :END:
 **** responsible:
-***** 洪朋
+***** 李新
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1095
+      :DATES:    1090
       :END:
 
-:DYNASTY: 宋
-:RESP: 李新
-:END:
-**** dynasty: 宋
-**** responsible: 李新
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0233.org][ZB4b0233]] 忠愍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0233
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李若水
+:SOURCE:   四庫全書 文淵閣版, V1124.7, p657
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 李若水
+**** responsible:
+***** 李若水
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1092 - 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0234.org][ZB4b0234]] 忠肅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0234
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 傅察
+:SOURCE:   四庫全書 文淵閣版, V1124.8, p695
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 傅察
+**** responsible:
+***** 傅察
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1089 - 1126
+      :END:
+
+***** 傅伯壽
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0235.org][ZB4b0235]] 宗忠簡集
