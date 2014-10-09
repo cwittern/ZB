@@ -5549,51 +5549,68 @@
 *** [[mandoku:ZB4b0215.org][ZB4b0215]] 西臺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0215
-:SOURCE:   四庫全書 文淵閣版, V1122.4, p627
-:EXTENT: 4 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1122.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 游酢
+***** 畢仲游
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1045 - 1115
+      :DATES:    d. 1121
       :END:
 
-:DYNASTY: 宋
-:RESP: 畢仲游
-:END:
-**** dynasty: 宋
-**** responsible: 畢仲游
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0216.org][ZB4b0216]] 樂靜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0216
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李昭玘
+:SOURCE:   四庫全書 文淵閣版, V1122.2, p257
+:EXTENT: 30 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 李昭玘
+**** responsible:
+***** 李昭玘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1093 - 1131
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0217.org][ZB4b0217]] 北湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0217
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳則禮
+:SOURCE:   四庫全書 文淵閣版, V1122.3, p415
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 吳則禮
+**** responsible:
+***** 吳則禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0218.org][ZB4b0218]] 溪堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0218
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1122.4, p473
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 謝逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 謝逸
 :END:
