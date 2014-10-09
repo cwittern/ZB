@@ -4359,29 +4359,80 @@
 *** [[mandoku:ZB4b0174.org][ZB4b0174]] 歐陽文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0174
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽脩
+:SOURCE:   四庫全書 文淵閣版, V1103.1, p643
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽脩
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
+***** 陳亮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1143 - 1194 ,ed
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0175.org][ZB4b0175]] 樂全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0175
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張方平
+:SOURCE:   四庫全書 文淵閣版, V1104.1, p1
+:EXTENT: 40 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 張方平
+**** responsible:
+***** 張方平
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1091
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB4b0176.org][ZB4b0176]] 范忠宣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0176
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1104.2, p541
+:EXTENT: 18 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 范純仁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1027 - 1101
+      :END:
+
+***** 范能
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1027 - 1101
+      :END:
+
 :DYNASTY: 宋
 :RESP: 范純仁
 :END:
