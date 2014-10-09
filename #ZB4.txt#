@@ -4856,9 +4856,42 @@
 
 **** textual witnesses
 ***** WYG
-***
-*** [[mandoku:ZB4b0186a.org][ZB4b0186a]] 山谷集__外集
-*** [[mandoku:ZB4b0186b.org][ZB4b0186b]] 山谷集__别集
+**** 內集
+      :PROPERTIES:
+      :EXTENT: (30) 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 洪炎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+**** [[mandoku:ZB4b0186a.org][ZB4b0186a]] 外集
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (7)
+      :END:
+***** responsible:
+****** 李彤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+**** [[mandoku:ZB4b0186b.org][ZB4b0186b]] 别集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 黃㽦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB4b0186c.org][ZB4b0186c]] 山谷集__山谷年譜__别集
 *** [[mandoku:ZB4b0186d.org][ZB4b0186d]] 山谷集__山谷簡尺__别集
 *** [[mandoku:ZB4b0186e.org][ZB4b0186e]] 山谷集__山谷詞__别集
