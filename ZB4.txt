@@ -3993,50 +3993,108 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0158.org][ZB4b0158]] 安嶽集
+*** [[mandoku:ZB4b0158.org][ZB4b0158]] 安岳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0158
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 馮山
+:SOURCE:   四庫全書 文淵閣版, V1098.2, p289
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 馮山
+**** responsible:
+***** 馮山
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1031 - 1094
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0159.org][ZB4b0159]] 元豐類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0159
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾鞏
+:SOURCE:   四庫全書 文淵閣版, V1098.3, p345
+:EXTENT: 50 卷
+:BOOK:   16
 :END:
-**** dynasty: 宋
-**** responsible: 曾鞏
+**** responsible:
+***** 曾鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1083
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0160.org][ZB4b0160]] 龍學文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0160
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 祖無擇
+:SOURCE:   四庫全書 文淵閣版, V1098.4, p791
+:EXTENT: 16 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 祖無擇
+**** responsible:
+***** 祖無擇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1006 - 1085
+      :END:
+
+***** 祖行
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)源流始末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0161.org][ZB4b0161]] 宛陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0161
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 梅堯臣
+:SOURCE:   四庫全書 文淵閣版, V1099.1, p1
+:EXTENT: 60 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 梅堯臣
+**** responsible:
+***** 梅堯臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1002 - 1060
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0162.org][ZB4b0162]] 忠肅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0162
