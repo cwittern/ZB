@@ -4919,9 +4919,9 @@
 *** [[mandoku:ZB4b0187.org][ZB4b0187]] 山谷內集詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0187
-:SOURCE:   四庫全書 文淵閣版, V1113.1, p1
-:EXTENT: 97 卷
-:BOOK:   32
+:SOURCE:   四庫全書 文淵閣版, V1114.1, p1
+:EXTENT: 20 卷
+:BOOK:   5
 :END:
 **** responsible:
 ***** 黃庭堅
@@ -4931,15 +4931,55 @@
       :DATES:    1045 - 1103
       :END:
 
-:DYNASTY: 宋
-:RESP: 任淵
-:END:
-**** dynasty: 宋
-**** responsible: 任淵
+***** 任淵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :DATES:    d. 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0187a.org][ZB4b0187a]] 山谷別集詩注
-*** [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
+**** 原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 17 卷
+      :BOOK:   6
+      :END:
+***** responsible:
+****** 史容
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
+**** 原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** [[mandoku:ZB4b0187a.org][ZB4b0187a]] 山谷別集詩注
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 史季溫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 *** [[mandoku:ZB4b0188.org][ZB4b0188]] 後山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0188
