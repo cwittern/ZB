@@ -5768,81 +5768,126 @@
 :BOOK:   5
 :END:
 **** responsible:
-***** 周行己
+***** 毛滂
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1091
       :END:
 
-:DYNASTY: 宋
-:RESP: 毛滂
-:END:
-**** dynasty: 宋
-**** responsible: 毛滂
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0227.org][ZB4b0227]] 給事集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0227
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉安上
+:SOURCE:   四庫全書 文淵閣版, V1124.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 劉安上
+**** responsible:
+***** 劉安上
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1069 - 1128
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0228.org][ZB4b0228]] 劉左史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0228
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉安節
+:SOURCE:   四庫全書 文淵閣版, V1124.2, p57
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 劉安節
+**** responsible:
+***** 劉安節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1068 - 1116
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0229.org][ZB4b0229]] 竹隱畸士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0229
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙鼎臣
+:SOURCE:   四庫全書 文淵閣版, V1124.3, p113
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 趙鼎臣
+**** responsible:
+***** 趙鼎臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1093 - 1119
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0230.org][ZB4b0230]] 眉山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0230
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 唐庚
+:SOURCE:   四庫全書 文淵閣版, V1124.4, p271
+:EXTENT: 22 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 唐庚
+**** responsible:
+***** 唐庚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1071 - 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0230a.org][ZB4b0230a]] 眉山集__眉山文集
-*** [[mandoku:ZB4b0230b.org][ZB4b0230b]] 眉山集__眉山詩集
+**** [[mandoku:ZB4b0230b.org][ZB4b0230b]] 眉山詩集
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0230a.org][ZB4b0230a]] 眉山文集
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0231.org][ZB4b0231]] 洪龜父集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0231
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪朋
+:SOURCE:   四庫全書 文淵閣版, V1124.5, p395
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 洪朋
+**** responsible:
+***** 洪朋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1095
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0232.org][ZB4b0232]] 跨鼇集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0232
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1124.6, p421
+:EXTENT: 30 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 洪朋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1095
+      :END:
+
 :DYNASTY: 宋
 :RESP: 李新
 :END:
