@@ -4581,28 +4581,92 @@
       :BOOK:   (56)
       :END:
 
+**** 東坡先生墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (56)
+      :END:
+***** responsible:
+****** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 東坡先生年譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (56)
+      :END:
+***** responsible:
+****** 王宗稷
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0182.org][ZB4b0182]] 東坡詩集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0182
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王十朋
+:SOURCE:   四庫全書 文淵閣版, V1109.1, p1
+:EXTENT: 32 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 王十朋
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
+***** 王十朋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :DATES:    1112 - 1171
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0183.org][ZB4b0183]] 施註蘇詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0183
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V1110.1, p1
+:EXTENT: 42 卷
+:BOOK:   26
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
+***** 施元之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 原註
+      :END:
+
+***** 邵長蘅
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪補
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (26)
+      :END:
+
 *** [[mandoku:ZB4b0184.org][ZB4b0184]] 蘇詩補註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0184
