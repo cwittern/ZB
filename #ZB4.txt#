@@ -4560,14 +4560,27 @@
 *** [[mandoku:ZB4b0181.org][ZB4b0181]] 東坡全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0181
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V1107 - 1108.1, p1
+:EXTENT: 115 卷
+:BOOK:   56
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)宋史本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (56)
+      :END:
+
 *** [[mandoku:ZB4b0182.org][ZB4b0182]] 東坡詩集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0182
