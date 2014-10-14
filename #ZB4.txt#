@@ -7969,29 +7969,85 @@
 *** [[mandoku:ZB4b0331.org][ZB4b0331]] 格齋四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0331
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王子俊
+:SOURCE:   四庫全書 文淵閣版, V1151.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王子俊
+**** responsible:
+***** 王子俊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0332.org][ZB4b0332]] 梅溪集廷試策
+*** [[mandoku:ZB4b0332d.org][ZB4b0332d]] 梅溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0332
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王十朋
+:SOURCE:   四庫全書 文淵閣版, V1151.1, p1
+:EXTENT: 54 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 王十朋
+**** responsible:
+***** 王十朋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1112 - 1171
+      :END:
+
+***** 王聞詩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 王聞禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0332a.org][ZB4b0332a]] 梅溪集奏議
-*** [[mandoku:ZB4b0332b.org][ZB4b0332b]] 梅溪集前集
-*** [[mandoku:ZB4b0332c.org][ZB4b0332c]] 梅溪集後集
-*** [[mandoku:ZB4b0332d.org][ZB4b0332d]] 梅溪集
+**** [[mandoku:ZB4b0332.org][ZB4b0332]] 廷試策
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0332a.org][ZB4b0332a]] 奏議
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (#)
+      :END:
+
+**** [[mandoku:ZB4b0332b.org][ZB4b0332b]] 梅溪前集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (6)
+      :END:
+
+**** [[mandoku:ZB4b0332c.org][ZB4b0332c]] 梅溪集後集
+      :PROPERTIES:
+      :EXTENT: (29) 卷
+      :BOOK:   (10)
+      :END:
+
+**** (附)有宋龍圖閣學士王公墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0333.org][ZB4b0333]] 香山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0333
