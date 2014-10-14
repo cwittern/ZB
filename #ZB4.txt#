@@ -9224,50 +9224,125 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 高翥
-:END:
-**** dynasty: 宋
-**** responsible: 高翥
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)林湖遺稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 高鵬飛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 江邨遺稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 高選
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+****** 高邁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 踈寮小集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 高似孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0390.org][ZB4b0390]] 性善堂稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0390
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 度正
+:SOURCE:   四庫全書 文淵閣版, V1170.4, p151
+:EXTENT: 15 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 度正
+**** responsible:
+***** 度正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1190
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0391.org][ZB4b0391]] 漫塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0391
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉宰
+:SOURCE:   四庫全書 文淵閣版, V1170.5, p275
+:EXTENT: 36 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 劉宰
+**** responsible:
+***** 劉宰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1166 - 1239
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0392.org][ZB4b0392]] 克齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0392
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳文蔚
+:SOURCE:   四庫全書 文淵閣版, V1171.1, p1
+:EXTENT: 17 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 陳文蔚
+**** responsible:
+***** 陳文蔚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1235 - 1258
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0393.org][ZB4b0393]] 芳蘭軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0393
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1171.1, p1
+:EXTENT: 17 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 陳文蔚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1235 - 1258
+      :END:
+
 :DYNASTY: 宋
 :RESP: 徐照
 :END:
