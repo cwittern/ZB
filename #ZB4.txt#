@@ -8690,27 +8690,72 @@
 *** [[mandoku:ZB4b0365.org][ZB4b0365]] 渭南文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0365
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸游
+:SOURCE:   四庫全書 文淵閣版, V1163.1, p307
+:EXTENT: 50 卷
+:BOOK:   13
 :END:
-**** dynasty: 宋
-**** responsible: 陸游
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0365a.org][ZB4b0365a]] 渭南文集__放翁逸稿
-*** [[mandoku:ZB4b0366.org][ZB4b0366]] 放翁詩選前集
+**** [[mandoku:ZB4b0365a.org][ZB4b0365a]] 放翁逸稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 毛晉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
+*** [[mandoku:ZB4b0366.org][ZB4b0366]] 放翁詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0366
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸游
+:SOURCE:   四庫全書 文淵閣版, V1163.2, p727
+:EXTENT: 19 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 陸游
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0366a.org][ZB4b0366a]] 放翁詩選__後集
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 羅椅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 選
+
+**** [[mandoku:ZB4b0366a.org][ZB4b0366a]] 後集
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 羅椅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 選
+
 *** [[mandoku:ZB4b0367.org][ZB4b0367]] 金陸百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0367
