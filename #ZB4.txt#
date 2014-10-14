@@ -7722,47 +7722,128 @@
       :DATES:    1114 - 1178
       :END:
 
+***** 鄭岳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0323.org][ZB4b0323]] 晦菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0323
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V1143 - 1146.1, p1
+:EXTENT: 100 卷
+:BOOK:   100
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0323a.org][ZB4b0323a]] 晦庵集__續集
-*** [[mandoku:ZB4b0323b.org][ZB4b0323b]] 晦庵集__别集
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (100)
+      :END:
+
+**** [[mandoku:ZB4b0323a.org][ZB4b0323a]] 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (100)
+      :END:
+
+**** [[mandoku:ZB4b0323b.org][ZB4b0323b]] 别集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 7 卷
+      :BOOK:   (100)
+      :END:
+
 *** [[mandoku:ZB4b0324.org][ZB4b0324]] 文忠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0324
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周必大
+:SOURCE:   四庫全書 文淵閣版, V1147 - 1149.1, p1
+:EXTENT: 200 卷
+:BOOK:   78
 :END:
-**** dynasty: 宋
-**** responsible: 周必大
+**** responsible:
+***** 周必大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1126 - 1206
+      :END:
+
+***** 周綸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (78)
+      :END:
+
 *** [[mandoku:ZB4b0325.org][ZB4b0325]] 雲山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0325
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王質
+:SOURCE:   四庫全書 文淵閣版, V1149.1, p343
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王質
+**** responsible:
+***** 王質
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1127 - 1189
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0326.org][ZB4b0326]] 梁谿遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0326
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1149.2, p509
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王質
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1127 - 1189
+      :END:
+
 :DYNASTY: 宋
 :RESP: 尤袤
 :END:
