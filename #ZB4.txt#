@@ -8106,40 +8106,57 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 崔敦禮
+***** 倪朴
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    d. 1181
+      :DATES:    fl. 1162 - 1174
       :END:
 
-:DYNASTY: 宋
-:RESP: 倪朴
-:END:
-**** dynasty: 宋
-**** responsible: 倪朴
+***** 毛鳳韶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0337.org][ZB4b0337]] 樂軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0337
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳藻
+:SOURCE:   四庫全書 文淵閣版, V1152.2, p27
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陳藻
+**** responsible:
+***** 陳藻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 林希逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0338.org][ZB4b0338]] 定庵類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0338
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 衞博
+:SOURCE:   四庫全書 文淵閣版, V1152.3, p119
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 衞博
+**** responsible:
+***** 衞博
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0339.org][ZB4b0339]] 澹軒集
