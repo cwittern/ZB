@@ -6224,73 +6224,109 @@
 *** [[mandoku:ZB4b0248.org][ZB4b0248]] 東窻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0248
-:SOURCE:   四庫全書 文淵閣版, V1128.4, p635
-:EXTENT: 10 卷
-:BOOK:   6
+:SOURCE:   四庫全書 文淵閣版, V1129.1, p1
+:EXTENT: 16 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 趙鼎
+***** 張擴
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1085 - 1147
       :END:
 
-:DYNASTY: 宋
-:RESP: 張擴
-:END:
-**** dynasty: 宋
-**** responsible: 張擴
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0249.org][ZB4b0249]] 忠惠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0249
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 翟汝文
+:SOURCE:   四庫全書 文淵閣版, V1129.2, p181
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 翟汝文
+**** responsible:
+***** 翟汝文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1076 - 1141
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0250.org][ZB4b0250]] 松隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0250
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曹勛
+:SOURCE:   四庫全書 文淵閣版, V1129.3, p319
+:EXTENT: 存39 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 曹勛
+**** responsible:
+***** 曹勛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1098 - 1174
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0251.org][ZB4b0251]] 建康集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0251
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V1129.4, p587
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0252.org][ZB4b0252]] 簡齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0252
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳與義
+:SOURCE:   四庫全書 文淵閣版, V1129.5, p663
+:EXTENT: 16 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陳與義
+**** responsible:
+***** 陳與義
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0253.org][ZB4b0253]] 北山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0253
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1129.5, p663
+:EXTENT: 16 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 陳與義
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1138
+      :END:
+
 :DYNASTY: 宋
 :RESP: 程俱
 :END:
