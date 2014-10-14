@@ -6207,29 +6207,35 @@
 *** [[mandoku:ZB4b0247.org][ZB4b0247]] 忠正德文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0247
-:SOURCE:   四庫全書 文淵閣版, V1128.3, p429
-:EXTENT: 18 卷
-:BOOK:   8
+:SOURCE:   四庫全書 文淵閣版, V1128.4, p635
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 李光
+***** 趙鼎
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    d. 1155
+      :DATES:    1085 - 1147
       :END:
 
-:DYNASTY: 宋
-:RESP: 趙鼎
-:END:
-**** dynasty: 宋
-**** responsible: 趙鼎
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0248.org][ZB4b0248]] 東窻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0248
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1128.4, p635
+:EXTENT: 10 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 趙鼎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1085 - 1147
+      :END:
+
 :DYNASTY: 宋
 :RESP: 張擴
 :END:
