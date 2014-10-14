@@ -9331,51 +9331,69 @@
 *** [[mandoku:ZB4b0393.org][ZB4b0393]] 芳蘭軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0393
-:SOURCE:   四庫全書 文淵閣版, V1171.1, p1
-:EXTENT: 17 卷
-:BOOK:   6
+:SOURCE:   四庫全書 文淵閣版, V1171.2, p145
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 陳文蔚
+***** 徐照
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1235 - 1258
+      :DATES:    d. 1231
       :END:
 
-:DYNASTY: 宋
-:RESP: 徐照
-:END:
-**** dynasty: 宋
-**** responsible: 徐照
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0393a.org][ZB4b0393a]] 芳蘭軒集
+# *** [[mandoku:ZB4b0393a.org][ZB4b0393a]] 芳蘭軒集
 *** [[mandoku:ZB4b0393a.org][ZB4b0393a]] 二薇亭詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0393a
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1171.3, p159
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
+**** responsible:
+***** 徐璣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1162 - 1214
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0394.org][ZB4b0394]] 西巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0394
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 翁卷
+:SOURCE:   四庫全書 文淵閣版, V1171.4, p171
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 翁卷
+**** responsible:
+***** 翁卷
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0394a.org][ZB4b0394a]] 西巖集
+# *** [[mandoku:ZB4b0394a.org][ZB4b0394a]] 西巖集
 *** [[mandoku:ZB4b0394a.org][ZB4b0394a]] 清苑齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0394a
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1171.5, p189
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 翁卷
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 翁卷
 :END:
