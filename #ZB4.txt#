@@ -8604,55 +8604,87 @@
 *** [[mandoku:ZB4b0361.org][ZB4b0361]] 浪語集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0361
-:SOURCE:   四庫全書 文淵閣版, V1159.3, p69
-:EXTENT: 6 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V1159.3, p143
+:EXTENT: 35 卷
+:BOOK:   16
 :END:
 **** responsible:
-***** 李洪
+***** 薛季宣
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1134 - 1173
       :END:
 
-:DYNASTY: 宋
-:RESP: 薛季宣
-:END:
-**** dynasty: 宋
-**** responsible: 薛季宣
+***** 薛旦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0362.org][ZB4b0362]] 石湖詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0362
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范成大
+:SOURCE:   四庫全書 文淵閣版, V1159.4, p593
+:EXTENT: 34 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 范成大
+**** responsible:
+***** 范成大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1126 - 1193
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0363.org][ZB4b0363]] 誠齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0363
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊萬里
+:SOURCE:   四庫全書 文淵閣版, V1160 - 1161.1, p1
+:EXTENT: 133 卷
+:BOOK:   38
 :END:
-**** dynasty: 宋
-**** responsible: 楊萬里
+**** responsible:
+***** 楊萬里
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1124 - 1206
+      :END:
+
+***** 楊長孺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0364.org][ZB4b0364]] 劎南詩槀
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0364
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸游
+:SOURCE:   四庫全書 文淵閣版, V1162 - 1163.1, p1
+:EXTENT: 85 卷
+:BOOK:   44
 :END:
-**** dynasty: 宋
-**** responsible: 陸游
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
+***** 陸子虛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0365.org][ZB4b0365]] 渭南文集
