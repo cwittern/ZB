@@ -7985,7 +7985,7 @@
 *** [[mandoku:ZB4b0332d.org][ZB4b0332d]] 梅溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0332
-:SOURCE:   四庫全書 文淵閣版, V1151.1, p1
+:SOURCE:   四庫全書 文淵閣版, V1151.2, p45
 :EXTENT: 54 卷
 :BOOK:   18
 :END:
@@ -8039,10 +8039,10 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (#)
       :END:
 ***** responsible:
-****** 王開祖
+****** 汪應辰
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
@@ -8051,40 +8051,68 @@
 *** [[mandoku:ZB4b0333.org][ZB4b0333]] 香山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0333
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 喻良能
+:SOURCE:   四庫全書 文淵閣版, V1151.3, p639
+:EXTENT: 16 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 喻良能
+**** responsible:
+***** 喻良能
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0334.org][ZB4b0334]] 蒙隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0334
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳棣
+:SOURCE:   四庫全書 文淵閣版, V1151.4, p751
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳棣
+**** responsible:
+***** 陳棣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0335.org][ZB4b0335]] 宮教集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0335
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 崔敦禮
+:SOURCE:   四庫全書 文淵閣版, V1151.5, p779
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 崔敦禮
+**** responsible:
+***** 崔敦禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1181
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0336.org][ZB4b0336]] 倪石陵書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0336
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1152.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 崔敦禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1181
+      :END:
+
 :DYNASTY: 宋
 :RESP: 倪朴
 :END:
