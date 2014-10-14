@@ -8507,72 +8507,114 @@
 *** [[mandoku:ZB4b0356.org][ZB4b0356]] 九華集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0356
-:SOURCE:   四庫全書 文淵閣版, V1158.4, p563
-:EXTENT: 20 卷
+:SOURCE:   四庫全書 文淵閣版, V1158.1, p1
+:EXTENT: 25 卷
 :BOOK:   8
 :END:
 **** responsible:
-***** 蔡戡
+***** 員興宗
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    d. 1170
       :END:
 
-:DYNASTY: 宋
-:RESP: 員興宗
-:END:
-**** dynasty: 宋
-**** responsible: 員興宗
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0357.org][ZB4b0357]] 野處類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0357
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪邁
+:SOURCE:   四庫全書 文淵閣版, V1158.2, p223
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 洪邁
+**** responsible:
+***** 洪邁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1202
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0358.org][ZB4b0358]] 盤洲文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0358
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪适
+:SOURCE:   四庫全書 文淵閣版, V1158.3, p243
+:EXTENT: 80 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 洪适
+**** responsible:
+***** 洪适
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1117 - 1184
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0359.org][ZB4b0359]] 應齋雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0359
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙善括
+:SOURCE:   四庫全書 文淵閣版, V1159.1, p1
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 趙善括
+**** responsible:
+***** 趙善括
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0360.org][ZB4b0360]] 藝庵類藁
+*** [[mandoku:ZB4b0360.org][ZB4b0360]] 芸庵類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0360
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李洪
+:SOURCE:   四庫全書 文淵閣版, V1159.2, p69
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 李洪
+**** responsible:
+***** 李洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0361.org][ZB4b0361]] 浪語集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0361
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1159.3, p69
+:EXTENT: 6 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 李洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 薛季宣
 :END:
