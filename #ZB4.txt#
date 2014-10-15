@@ -11160,40 +11160,94 @@
 
 **** textual witnesses
 ***** WYG
-**** (附錄
+**** (附)家傳
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (7)
       :END:
 
-*** [[mandoku:ZB4b0484a.org][ZB4b0484a]] 潛齋集__鐵牛翁遺稿
+**** [[mandoku:ZB4b0484a.org][ZB4b0484a]] 鐵牛翁遺稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 何景福
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0485.org][ZB4b0485]] 梅巖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0485
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡次焱
+:SOURCE:   四庫全書 文淵閣版, V1188.5, p531
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡次焱
+**** responsible:
+***** 胡次焱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1268
+      :END:
+
+***** 胡璉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯編
+      :END:
+
+***** 潘滋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0486.org][ZB4b0486]] 四如集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0486
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃仲元
+:SOURCE:   四庫全書 文淵閣版, V1188.6, p591
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 黃仲元
+**** responsible:
+***** 黃仲元
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1231 - 1312
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0487.org][ZB4b0487]] 霽山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0487
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1188.7, p687
+:EXTENT: 5 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 林景熙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1242 - 1312
+      :END:
+
 :DYNASTY: 宋
 :RESP: 林景熙
 :END:
