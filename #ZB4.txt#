@@ -9451,64 +9451,102 @@
 *** [[mandoku:ZB4b0398.org][ZB4b0398]] 龍洲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0398
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉過
+:SOURCE:   四庫全書 文淵閣版, V1172.1, p1
+:EXTENT: 15 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 劉過
+**** responsible:
+***** 劉過
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1154 - 1206
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0399.org][ZB4b0399]] 鶴山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0399
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏了翁
+:SOURCE:   四庫全書 文淵閣版, V1172 - 1173.2, p75
+:EXTENT: 109 卷
+:BOOK:   48
 :END:
-**** dynasty: 宋
-**** responsible: 魏了翁
+**** responsible:
+***** 魏了翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1237
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0399a.org][ZB4b0399a]] 南宋建炎至德祐
-*** [[mandoku:ZB4b0399b.org][ZB4b0399b]] 鶴山集
+# *** [[mandoku:ZB4b0399a.org][ZB4b0399a]] 南宋建炎至德祐
+# *** [[mandoku:ZB4b0399b.org][ZB4b0399b]] 鶴山集
 *** [[mandoku:ZB4b0400.org][ZB4b0400]] 西山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0400
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V1174.1, p1
+:EXTENT: 存54 卷
+:BOOK:   30
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible:
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0401.org][ZB4b0401]] 方泉詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0401
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周文璞
+:SOURCE:   四庫全書 文淵閣版, V1175.1, p1
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 周文璞
+**** responsible:
+***** 周文璞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0402.org][ZB4b0402]] 東山詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0402
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛紹體
+:SOURCE:   四庫全書 文淵閣版, V1175.2, p39
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葛紹體
+**** responsible:
+***** 葛紹體
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0403.org][ZB4b0403]] 白石道人詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0403
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1175.3, p63
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 葛紹體
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 姜蘷
 :END:
