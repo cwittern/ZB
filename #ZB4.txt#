@@ -9754,73 +9754,122 @@
 *** [[mandoku:ZB4b0414.org][ZB4b0414]] 漁墅類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0414
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳元晉
+:SOURCE:   四庫全書 文淵閣版, V1176.6, p769
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陳元晉
+**** responsible:
+***** 陳元晉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0415.org][ZB4b0415]] 安晚堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0415
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭清之
+:SOURCE:   四庫全書 文淵閣版, V1176.7, p845
+:EXTENT: 存7 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 鄭清之
+**** responsible:
+***** 鄭清之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1176 - 1251
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0416.org][ZB4b0416]] 滄洲塵罐編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0416
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程公許
+:SOURCE:   四庫全書 文淵閣版, V1176.8, p889
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 程公許
+**** responsible:
+***** 程公許
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1211
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0417.org][ZB4b0417]] 四六標準
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0417
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李劉
+:SOURCE:   四庫全書 文淵閣版, V1177.1, p1
+:EXTENT: 40 卷
+:BOOK:   30
 :END:
-**** dynasty: 宋
-**** responsible: 李劉
+**** responsible:
+***** 李劉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 孫雲翼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 箋注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0418.org][ZB4b0418]] 篔窗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0418
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳耆卿
+:SOURCE:   四庫全書 文淵閣版, V1178.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陳耆卿
+**** responsible:
+***** 陳耆卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1214
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0419.org][ZB4b0419]] 友林乙稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0419
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 史彌寧
+:SOURCE:   四庫全書 文淵閣版, V1178.2, p89
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 史彌寧
+**** responsible:
+***** 史彌寧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0420.org][ZB4b0420]] 方壺存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0420
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1178.2, p89
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 史彌寧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 汪華
 :END:
