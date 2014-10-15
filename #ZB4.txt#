@@ -11362,73 +11362,124 @@
 *** [[mandoku:ZB4b0493.org][ZB4b0493]] 則堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0493
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 家鉉翁
+:SOURCE:   四庫全書 文淵閣版, V1189.4, p273
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 家鉉翁
+**** responsible:
+***** 家鉉翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1295
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0494.org][ZB4b0494]] 富山遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0494
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方蘷
+:SOURCE:   四庫全書 文淵閣版, V1189.5, p365
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 方蘷
+**** responsible:
+***** 方夔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0495.org][ZB4b0495]] 眞山民集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0495
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞山民
+:SOURCE:   四庫全書 文淵閣版, V1189.6, p447
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 眞山民
+**** responsible:
+***** 眞桂芳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0496.org][ZB4b0496]] 百正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0496
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 連文鳳
+:SOURCE:   四庫全書 文淵閣版, V1189.7, p463
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 連文鳳
+**** responsible:
+***** 連文鳳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1300
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0497.org][ZB4b0497]] 月洞吟
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0497
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王鎡
+:SOURCE:   四庫全書 文淵閣版, V1189.8, p489
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王鎡
+**** responsible:
+***** 王鎡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0498.org][ZB4b0498]] 伯牙琴
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0498
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄧牧
+:SOURCE:   四庫全書 文淵閣版, V1189.9, p501
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 鄧牧
+**** responsible:
+***** 鄧牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1247 - 1306
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0499.org][ZB4b0499]] 存雅堂遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0499
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1189.10, p525
+:EXTENT: 5 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 方鳳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1247 - 1306
+      :END:
+
 :DYNASTY: 宋
 :RESP: 方鳳
 :END:
