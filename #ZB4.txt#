@@ -12463,102 +12463,182 @@
 *** [[mandoku:ZB4b0549.org][ZB4b0549]] 存悔齋稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0549
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 龔璛
+:SOURCE:   四庫全書 文淵閣版, V1199.2, p323
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 龔璛
+**** responsible:
+***** 龔璛
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1266 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 *** [[mandoku:ZB4b0550.org][ZB4b0550]] 雙溪醉隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0550
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 耶律鑄
+:SOURCE:   四庫全書 文淵閣版, V1199.3, p355
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 耶律鑄
+**** responsible:
+***** 耶律鑄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0551.org][ZB4b0551]] 東庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0551
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 滕安上
+:SOURCE:   四庫全書 文淵閣版, V1199.4, p493
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 滕安上
+**** responsible:
+***** 滕安上
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1242 - 1295
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0552.org][ZB4b0552]] 白雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0552
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 許謙
+:SOURCE:   四庫全書 文淵閣版, V1199.5, p529
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 許謙
+**** responsible:
+***** 許謙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1270 - 1337
+      :END:
+
+***** 李伸
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0553.org][ZB4b0553]] 畏齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0553
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 程端禮
+:SOURCE:   四庫全書 文淵閣版, V1199.6, p609
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 程端禮
+**** responsible:
+***** 程端禮
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1271 - 1345
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0554.org][ZB4b0554]] 默庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0554
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 安熙
+:SOURCE:   四庫全書 文淵閣版, V1199.7, p707
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 安熙
+**** responsible:
+***** 安熙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1268 - 1311
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0555.org][ZB4b0555]] 雲峯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0555
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡炳文
+:SOURCE:   四庫全書 文淵閣版, V1199.8, p735
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 胡炳文
+**** responsible:
+***** 胡炳文
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1250 - 1333
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0556.org][ZB4b0556]] 秋澗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0556
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王惲
+:SOURCE:   四庫全書 文淵閣版, V1200 - 1201.1, p1
+:EXTENT: 100 卷
+:BOOK:   40
 :END:
-**** dynasty: 元
-**** responsible: 王惲
+**** responsible:
+***** 王惲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1227 - 1304
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0557.org][ZB4b0557]] 牧庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0557
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 姚燧
+:SOURCE:   四庫全書 文淵閣版, V1201.1, p401
+:EXTENT: 36 卷
+:BOOK:   10
 :END:
-**** dynasty: 元
-**** responsible: 姚燧
+**** responsible:
+***** 姚燧
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1238 - 1314
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB4b0558.org][ZB4b0558]] 雪樓集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0558
