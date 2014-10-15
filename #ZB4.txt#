@@ -10946,38 +10946,100 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1212 - 1
+      :DATES:    1212 - 1280
       :END:
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0479.org][ZB4b0479]] 蛟峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0479
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方逢辰
+:SOURCE:   四庫全書 文淵閣版, V1187.7, p495
+:EXTENT: 7 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 方逢辰
+**** responsible:
+***** 方逢辰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1221 - 1291
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0479a.org][ZB4b0479a]] 蛟峯文集__外集
+**** (附)山房遺文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+***** responsible:
+****** 方逢振
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** [[mandoku:ZB4b0479a.org][ZB4b0479a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (5)
+      :END:
+
+**** 山房外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+***** responsible:
+****** 方中
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 續輯
+      :END:
+
 *** [[mandoku:ZB4b0480.org][ZB4b0480]] 秋聲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0480
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 衞宗武
+:SOURCE:   四庫全書 文淵閣版, V1187.8, p627
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 衞宗武
+**** responsible:
+***** 衞宗武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1289
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0481.org][ZB4b0481]] 陸陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0481
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1188.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 衞宗武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1289
+      :END:
+
 :DYNASTY: 元
 :RESP: 牟巘
 :END:
