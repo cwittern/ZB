@@ -11025,44 +11025,69 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0481.org][ZB4b0481]] 陸陽集
+*** [[mandoku:ZB4b0481.org][ZB4b0481]] 牟氏陵陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0481
 :SOURCE:   四庫全書 文淵閣版, V1188.1, p1
-:EXTENT: 6 卷
-:BOOK:   4
+:EXTENT: 24 卷
+:BOOK:   7
 :END:
 **** responsible:
-***** 衞宗武
+***** 牟巘
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    d. 1289
+      :DATES:    1227 - 1311
       :END:
 
-:DYNASTY: 元
-:RESP: 牟巘
-:END:
-**** dynasty: 元
-**** responsible: 牟巘
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0482.org][ZB4b0482]] 湖山類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0482
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪元量
+:SOURCE:   四庫全書 文淵閣版, V1188.2, p221
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 汪元量
+**** responsible:
+***** 汪元量
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0482a.org][ZB4b0482a]] 湖山類稿__水雲集
+**** [[mandoku:ZB4b0482a.org][ZB4b0482a]] 水雲集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0483.org][ZB4b0483]] 晞髮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0483
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1188.3, p281
+:EXTENT: 5 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 汪元量
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1279
+      :END:
+
 :DYNASTY: 宋
 :RESP: 謝翱
 :END:
