@@ -10512,16 +10512,27 @@
 
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
 
 *** [[mandoku:ZB4b0455.org][ZB4b0455]] 勿齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0455
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊至質
+:SOURCE:   四庫全書 文淵閣版, V1183.6, p473
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊至質
+**** responsible:
+***** 楊至質
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0456.org][ZB4b0456]] 選齋文集
