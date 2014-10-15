@@ -9920,69 +9920,114 @@
       :DATES:    fl. 1195 - 1234
       :END:
 
-:DYNASTY: 宋
-:RESP: 游九言
-:END:
-**** dynasty: 宋
-**** responsible: 游九言
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0424.org][ZB4b0424]] 履齋遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0424
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳潛
+:SOURCE:   四庫全書 文淵閣版, V1178.7, p389
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳潛
+**** responsible:
+***** 吳潛
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1262
+      :END:
+
+***** 梅鼎祚
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)宋史本傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0425.org][ZB4b0425]] 臞軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0425
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王邁
+:SOURCE:   四庫全書 文淵閣版, V1178.8, p441
+:EXTENT: 16 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 王邁
+**** responsible:
+***** 王邁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1184 - 1248
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0426.org][ZB4b0426]] 東野農歌集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0426
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 戴昺
+:SOURCE:   四庫全書 文淵閣版, V1178.9, p683
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 戴昺
+**** responsible:
+***** 戴昺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1219
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0427.org][ZB4b0427]] 敝帚藁畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0427
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 包恢
+:SOURCE:   四庫全書 文淵閣版, V1178.10, p703
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 包恢
+**** responsible:
+***** 包恢
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1182 - 1268
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0428.org][ZB4b0428]] 清正存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0428
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐鹿卿
+:SOURCE:   四庫全書 文淵閣版, V1178.11, p805
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 徐鹿卿
+**** responsible:
+***** 徐鹿卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1189 - 1250
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0429.org][ZB4b0429]] 清正存稿年譜
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+# *** [[mandoku:ZB4b0429.org][ZB4b0429]] 清正存稿年譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0429
 :SOURCE:   四庫全書 文淵閣版
