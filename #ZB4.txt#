@@ -10841,78 +10841,114 @@
 *** [[mandoku:ZB4b0473.org][ZB4b0473]] 碧梧玩芳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0473
-:SOURCE:   四庫全書 文淵閣版, V1186.9, p783
-:EXTENT: 4 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1187.1, p1
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 釋道璨
+***** 馬廷鸞
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1248
+      :DATES:    1223 - 1289
       :END:
 
-:DYNASTY: 宋
-:RESP: 馬廷鸞
-:END:
-**** dynasty: 宋
-**** responsible: 馬廷鸞
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0474.org][ZB4b0474]] 四明文獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0474
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V1187.2, p181
+:EXTENT: 5 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
+***** 鄭眞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輔輯
+      :END:
+
+***** 陳朝
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輔輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0475.org][ZB4b0475]] 覆瓿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0475
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙必&
+:SOURCE:   四庫全書 文淵閣版, V1187.3, p275
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙必&
+**** responsible:
+***** 趙必𤩪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1245 - 1294
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0476.org][ZB4b0476]] 閬風集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0476
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 舒嶽祥
+:SOURCE:   四庫全書 文淵閣版, V1187.4, p323
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 舒嶽祥
+**** responsible:
+***** 舒岳祥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1219 - 1298
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0477.org][ZB4b0477]] 北遊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0477
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪夢斗
+:SOURCE:   四庫全書 文淵閣版, V1187.5, p449
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 汪夢斗
+**** responsible:
+***** 汪夢斗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0478.org][ZB4b0478]] 秋堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0478
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 柴望
+:SOURCE:   四庫全書 文淵閣版, V1187.6, p475
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 柴望
+**** responsible:
+***** 柴望
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1212 - 1
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0479.org][ZB4b0479]] 蛟峯文集
