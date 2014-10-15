@@ -10628,262 +10628,522 @@
 *** [[mandoku:ZB4b0461.org][ZB4b0461]] 本堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0461
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳著
+:SOURCE:   四庫全書 文淵閣版, V1185.1, p1
+:EXTENT: 94 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 陳著
+**** responsible:
+***** 陳著
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1226 - 1289
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0462.org][ZB4b0462]] 端平詩雋
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0462
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周弼
+:SOURCE:   四庫全書 文淵閣版, V1185.2, p525
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周弼
+**** responsible:
+***** 周弼
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1228
+      :END:
+
+***** 李龏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0463.org][ZB4b0463]] 竹溪鬳齋十一藁續集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0463
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林希逸
+:SOURCE:   四庫全書 文淵閣版, V1185.3, p553
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 林希逸
+**** responsible:
+***** 林希逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1235
+      :END:
+
+***** 林式之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0464.org][ZB4b0464]] 魯齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0464
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王柏
+:SOURCE:   四庫全書 文淵閣版, V1186.1, p1
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 王柏
+**** responsible:
+***** 王柏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1197 - 1274
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0465.org][ZB4b0465]] 潛山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0465
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋文珦
+:SOURCE:   四庫全書 文淵閣版, V1186.2, p293
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 釋文珦
+**** responsible:
+***** 釋文珦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1210
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0466.org][ZB4b0466]] 須溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0466
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉辰翁
+:SOURCE:   四庫全書 文淵閣版, V1186.3, p401
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 劉辰翁
+**** responsible:
+***** 劉辰翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1234 - 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0467.org][ZB4b0467]] 須溪四景詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0467
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉辰翁
+:SOURCE:   四庫全書 文淵閣版, V1186.4, p637
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉辰翁
+**** responsible:
+***** 劉辰翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1234 - 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0468.org][ZB4b0468]] 葦航漫游稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0468
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡仲弓
+:SOURCE:   四庫全書 文淵閣版, V1186.5, p663
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡仲弓
+**** responsible:
+***** 胡仲弓
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0469.org][ZB4b0469]] 蘭臯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0469
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳錫疇
+:SOURCE:   四庫全書 文淵閣版, V1186.6, p719
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳錫疇
+**** responsible:
+***** 吳錫疇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1215 - 1276
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0470.org][ZB4b0470]] 雲泉詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0470
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 薛嵎
+:SOURCE:   四庫全書 文淵閣版, V1186.7, p737
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 薛嵎
+**** responsible:
+***** 薛嵎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0471.org][ZB4b0471]] 嘉禾百咏
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0471
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張堯同
+:SOURCE:   四庫全書 文淵閣版, V1186.8, p765
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張堯同
+**** responsible:
+***** 張堯同
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0472.org][ZB4b0472]] 柳塘外集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0472
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 釋道璨
+:SOURCE:   四庫全書 文淵閣版, V1186.9, p783
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 釋道璨
+**** responsible:
+***** 釋道璨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1248
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0473.org][ZB4b0473]] 碧梧玩芳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0473
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 馬廷鸞
+:SOURCE:   四庫全書 文淵閣版, V1187.1, p1
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 馬廷鸞
+**** responsible:
+***** 馬廷鸞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1289
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0474.org][ZB4b0474]] 四明文獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0474
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V1187.2, p181
+:EXTENT: 5 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
+***** 鄭眞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輔輯
+      :END:
+
+***** 陳朝
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輔輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0475.org][ZB4b0475]] 覆瓿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0475
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙必&
+:SOURCE:   四庫全書 文淵閣版, V1187.3, p275
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙必&
+**** responsible:
+***** 趙必𤩪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1245 - 1294
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0476.org][ZB4b0476]] 閬風集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0476
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 舒嶽祥
+:SOURCE:   四庫全書 文淵閣版, V1187.4, p323
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 舒嶽祥
+**** responsible:
+***** 舒岳祥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1219 - 1298
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0477.org][ZB4b0477]] 北遊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0477
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪夢斗
+:SOURCE:   四庫全書 文淵閣版, V1187.5, p449
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 汪夢斗
+**** responsible:
+***** 汪夢斗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0478.org][ZB4b0478]] 秋堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0478
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 柴望
+:SOURCE:   四庫全書 文淵閣版, V1187.6, p475
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 柴望
+**** responsible:
+***** 柴望
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1212 - 1280
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0479.org][ZB4b0479]] 蛟峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0479
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方逢辰
+:SOURCE:   四庫全書 文淵閣版, V1187.7, p495
+:EXTENT: 7 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 方逢辰
+**** responsible:
+***** 方逢辰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1221 - 1291
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0479a.org][ZB4b0479a]] 蛟峯文集__外集
+**** (附)山房遺文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+***** responsible:
+****** 方逢振
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** [[mandoku:ZB4b0479a.org][ZB4b0479a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (5)
+      :END:
+
+**** 山房外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+***** responsible:
+****** 方中
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 續輯
+      :END:
+
 *** [[mandoku:ZB4b0480.org][ZB4b0480]] 秋聲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0480
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 衞宗武
+:SOURCE:   四庫全書 文淵閣版, V1187.8, p627
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 衞宗武
+**** responsible:
+***** 衞宗武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1289
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0481.org][ZB4b0481]] 陸陽集
+*** [[mandoku:ZB4b0481.org][ZB4b0481]] 牟氏陵陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0481
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 牟巘
+:SOURCE:   四庫全書 文淵閣版, V1188.1, p1
+:EXTENT: 24 卷
+:BOOK:   7
 :END:
-**** dynasty: 元
-**** responsible: 牟巘
+**** responsible:
+***** 牟巘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1227 - 1311
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0482.org][ZB4b0482]] 湖山類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0482
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 汪元量
+:SOURCE:   四庫全書 文淵閣版, V1188.2, p221
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 汪元量
+**** responsible:
+***** 汪元量
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0482a.org][ZB4b0482a]] 湖山類稿__水雲集
+**** [[mandoku:ZB4b0482a.org][ZB4b0482a]] 水雲集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0483.org][ZB4b0483]] 晞髮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0483
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 謝翱
+:SOURCE:   四庫全書 文淵閣版, V1188.3, p281
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 謝翱
+**** responsible:
+***** 謝翱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1249 - 1295
+      :END:
+
+***** 陸大業
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0483a.org][ZB4b0483a]] 晞髮集__冬青樹引註
-*** [[mandoku:ZB4b0483b.org][ZB4b0483b]] 晞髮集__天地間集
-*** [[mandoku:ZB4b0483c.org][ZB4b0483c]] 晞髮集__晞髮遺集
-*** [[mandoku:ZB4b0483d.org][ZB4b0483d]] 晞髮集__西臺慟哭記註
+**** [[mandoku:ZB4b0483c.org][ZB4b0483c]] 晞髮遺集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
+**** 遺集補
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0483b.org][ZB4b0483b]] (附)天地間集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 謝翱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 錄
+      :DATES:    1249 - 1295
+      :END:
+
+**** [[mandoku:ZB4b0483d.org][ZB4b0483d]] 西臺慟哭記註
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 張丁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 註
+      :END:
+
+**** [[mandoku:ZB4b0483a.org][ZB4b0483a]] 冬青樹引註
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0484.org][ZB4b0484]] 潛齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0484
