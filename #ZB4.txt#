@@ -12941,7 +12941,7 @@
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:
+      :DATES:    1282 - 1366
       :END:
 
 ***** 洪巖虎
@@ -12950,39 +12950,61 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 洪希文
-:END:
-**** dynasty: 元
-**** responsible: 洪希文
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0573.org][ZB4b0573]] 定宇集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0573
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳櫟
+:SOURCE:   四庫全書 文淵閣版, V1205.3, p151
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 陳櫟
+**** responsible:
+***** 陳櫟
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1252 - 1334
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0574.org][ZB4b0574]] 年表
-:PROPERTIES:
-:CUSTOM_ID:  ZB4b0574
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳嘉基
-:END:
-**** dynasty: 元
-**** responsible: 陳嘉基
-**** textual witnesses
-***** WYG
+**** [[mandoku:ZB4b0574.org][ZB4b0574]] 年表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** 別集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4b0575.org][ZB4b0575]] 艮齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0575
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1205.4, p451
+:EXTENT: 14 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 陳櫟
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1252 - 1334
+      :END:
+
 :DYNASTY: 元
 :RESP: 侯克中
 :END:
