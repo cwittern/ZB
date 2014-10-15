@@ -11245,70 +11245,118 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1242 - 1312
+      :DATES:    1242 - 1310
       :END:
 
-:DYNASTY: 宋
-:RESP: 林景熙
-:END:
-**** dynasty: 宋
-**** responsible: 林景熙
+***** 章祖程
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0488.org][ZB4b0488]] 勿軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0488
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 能禾
+:SOURCE:   四庫全書 文淵閣版, V1188.8, p761
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 能禾
+**** responsible:
+***** 熊禾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1247 - 1312
+      :END:
+
+***** 熊孟秉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0489.org][ZB4b0489]] 古梅遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0489
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳龍翰
+:SOURCE:   四庫全書 文淵閣版, V1188.9, p841
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳龍翰
+**** responsible:
+***** 吳龍翰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1268 - 1336
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0490.org][ZB4b0490]] 佩韋齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0490
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞德鄰
+:SOURCE:   四庫全書 文淵閣版, V1189.1, p1
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 俞德鄰
+**** responsible:
+***** 兪德鄰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0491.org][ZB4b0491]] 廬山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0491
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董嗣杲
+:SOURCE:   四庫全書 文淵閣版, V1189.2, p167
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 董嗣杲
+**** responsible:
+***** 董嗣杲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1274
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0491a.org][ZB4b0491a]] 廬山集__英溪集
+**** [[mandoku:ZB4b0491a.org][ZB4b0491a]] 英溪集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4b0492.org][ZB4b0492]] 西湖百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0492
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董嗣杲
+:SOURCE:   四庫全書 文淵閣版, V1189.3, p233
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 董嗣杲
+**** responsible:
+***** 董嗣杲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1274
+      :END:
+
+***** 陳贄和
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 韻
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0493.org][ZB4b0493]] 則堂集
