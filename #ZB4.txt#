@@ -15516,57 +15516,84 @@
 :BOOK:   5
 :END:
 **** responsible:
-***** 危素
+***** 唐桂芳
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1295 - 1372
       :END:
 
-:DYNASTY: 明
-:RESP: 唐桂芳
-:END:
-**** dynasty: 明
-**** responsible: 唐桂芳
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0695.org][ZB4b0695]] 林登州集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0695
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 林弼
+:SOURCE:   四庫全書 文淵閣版, V1227.1, p1
+:EXTENT: 23 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 林弼
+**** responsible:
+***** 林弼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0696.org][ZB4b0696]] 槎翁詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0696
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉嵩
+:SOURCE:   四庫全書 文淵閣版, V1227.2, p205
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 劉嵩
+**** responsible:
+***** 劉嵩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1321 - 1382
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0697.org][ZB4b0697]] 東臯錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0697
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 釋妙聲
+:SOURCE:   四庫全書 文淵閣版, V1227.3, p563
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 釋妙聲
+**** responsible:
+***** 釋妙聲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0698.org][ZB4b0698]] 覆部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0698
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1227.4, p563
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 釋妙聲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 朱同
 :END:
