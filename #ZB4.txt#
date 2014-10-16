@@ -14843,53 +14843,78 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0663.org][ZB4b0663]] 佩王齋類藁
+*** [[mandoku:ZB4b0663.org][ZB4b0663]] 佩玉齋類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0663
-:SOURCE:   四庫全書 文淵閣版, V1220.1, p1
-:EXTENT: 2 卷
+:SOURCE:   四庫全書 文淵閣版, V1220.2, p49
+:EXTENT: 10 卷
 :BOOK:   2
 :END:
 **** responsible:
-***** 貢性之
+***** 楊翮
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
+      :DATES:    fl. 1346
       :END:
 
-:DYNASTY: 元
-:RESP: 楊翮
-:END:
-**** dynasty: 元
-**** responsible: 楊翮
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0664.org][ZB4b0664]] 玉山璞稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0664
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 顧瑛
+:SOURCE:   四庫全書 文淵閣版, V1220.3, p127
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 顧瑛
+**** responsible:
+***** 顧瑛
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1310 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0665.org][ZB4b0665]] 清閟閣全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0665
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 倪瓚
+:SOURCE:   四庫全書 文淵閣版, V1220.4, p151
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 倪瓚
+**** responsible:
+***** 倪瓚
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1301 - 1374
+      :END:
+
+***** 曹培廉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0666.org][ZB4b0666]] 麟原前後
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0666
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1220.5, p357
+:EXTENT: 12 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 倪瓚
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1301 - 1374
+      :END:
+
 :DYNASTY: 元
 :RESP: 王禮
 :END:
