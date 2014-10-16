@@ -15930,381 +15930,712 @@
 *** [[mandoku:ZB4b0715.org][ZB4b0715]] 大全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0715
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高啟
+:SOURCE:   四庫全書 文淵閣版, V1230.1, p1
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 高啟
+**** responsible:
+***** 高啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1336 - 1374
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0716.org][ZB4b0716]] 鳧藻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0716
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高啟
+:SOURCE:   四庫全書 文淵閣版, V1230.2, p253
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 高啟
+**** responsible:
+***** 高啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1336 - 1374
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0717.org][ZB4b0717]] 眉菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0717
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊基
+:SOURCE:   四庫全書 文淵閣版, V1230.3, p329
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 楊基
+**** responsible:
+***** 楊基
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+# ?
+      :DATES:    ca. 1334 - 1883
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0718.org][ZB4b0718]] 靜菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0718
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張羽
+:SOURCE:   四庫全書 文淵閣版, V1230.4, p489
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 張羽
+**** responsible:
+***** 張羽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1333 - 1385
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0719.org][ZB4b0719]] 北郭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0719
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐賁
+:SOURCE:   四庫全書 文淵閣版, V1230.5, p547
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 徐賁
+**** responsible:
+***** 徐賁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1335 - 1380
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0720.org][ZB4b0720]] 鳴盛集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0720
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 林鴻
+:SOURCE:   四庫全書 文淵閣版, V1231.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 林鴻
+**** responsible:
+***** 林鴻
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
+***** 邵銅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0721.org][ZB4b0721]] 白雲樵唱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0721
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王恭
+:SOURCE:   四庫全書 文淵閣版, V1231.2, p83
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 王恭
+**** responsible:
+***** 王恭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0722.org][ZB4b0722]] 草澤狂歌
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0722
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王恭
+:SOURCE:   四庫全書 文淵閣版, V1231.3, p209
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 王恭
+**** responsible:
+***** 王恭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0723.org][ZB4b0723]] 半軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0723
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王行
+:SOURCE:   四庫全書 文淵閣版, V1231.4, p279
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 王行
+**** responsible:
+***** 王行
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1331 - 1395
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 半軒集補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 方外補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** (附)王半軒傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 杜瓊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0724.org][ZB4b0724]] 西菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0724
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫蕡
+:SOURCE:   四庫全書 文淵閣版, V1231.5, p471
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 孫蕡
+**** responsible:
+***** 孫蕡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1334 - 1389
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0725.org][ZB4b0725]] 南邨詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0725
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陶宗儀
+:SOURCE:   四庫全書 文淵閣版, V1231.6, p575
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 陶宗儀
+**** responsible:
+***** 陶宗儀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1360 - 1368
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0726.org][ZB4b0726]] 望雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0726
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 郭奎
+:SOURCE:   四庫全書 文淵閣版, V1231.7, p637
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 郭奎
+**** responsible:
+***** 郭奎
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0727.org][ZB4b0727]] 蚓竅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0727
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 管時敏
+:SOURCE:   四庫全書 文淵閣版, V1231.8, p673
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 管時敏
+**** responsible:
+***** 管時敏
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0728.org][ZB4b0728]] 西郊笑端集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0728
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 董紀
+:SOURCE:   四庫全書 文淵閣版, V1231.9, p721
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 董紀
+**** responsible:
+***** 董紀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0729.org][ZB4b0729]] 草閣詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0729
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李昱
+:SOURCE:   四庫全書 文淵閣版, V1232.1, p1
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 李昱
+**** responsible:
+***** 李曄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0729a.org][ZB4b0729a]] 草閣詩集__筠谷詩集
-*** [[mandoku:ZB4b0729b.org][ZB4b0729b]] 草閣詩集__草閣文集
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** [[mandoku:ZB4b0729b.org][ZB4b0729b]] 文集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** [[mandoku:ZB4b0729a.org][ZB4b0729a]] (附)筠谷詩集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 李轅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0730.org][ZB4b0730]] 樗菴類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0730
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭潛
+:SOURCE:   四庫全書 文淵閣版, V1232.2, p93
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 鄭潛
+**** responsible:
+***** 鄭潛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1377
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0731.org][ZB4b0731]] 春草齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0731
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 烏斯道
+:SOURCE:   四庫全書 文淵閣版, V1232.3, p123
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 烏斯道
+**** responsible:
+***** 烏斯道
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0731a.org][ZB4b0731a]] 春草齋集__［文集］
-*** [[mandoku:ZB4b0731b.org][ZB4b0731b]] 春草齋集__［詩集］
+**** [[mandoku:ZB4b0731b.org][ZB4b0731b]] 詩集
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0731a.org][ZB4b0731a]] 文集
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4b0732.org][ZB4b0732]] 耕學齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0732
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁華
+:SOURCE:   四庫全書 文淵閣版, V1232.4, p259
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 袁華
+**** responsible:
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1316
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0733.org][ZB4b0733]] 何傳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0733
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁華
+:SOURCE:   四庫全書 文淵閣版, V1232.5, p361
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 袁華
+**** responsible:
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1316
+      :END:
+
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0734.org][ZB4b0734]] 強齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0734
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 殷奎
+:SOURCE:   四庫全書 文淵閣版, V1232.6, p383
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 殷奎
+**** responsible:
+***** 殷奎
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 余熂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0735.org][ZB4b0735]] 海桑集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0735
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳謨
+:SOURCE:   四庫全書 文淵閣版, V1232.7, p523
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 陳謨
+**** responsible:
+***** 陳謨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1305 - 1400
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0736.org][ZB4b0736]] 畦樂詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0736
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 梁蘭
+:SOURCE:   四庫全書 文淵閣版, V1232.8, p711
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 梁蘭
+**** responsible:
+***** 梁蘭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0737.org][ZB4b0737]] 竹齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0737
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王冕
+:SOURCE:   四庫全書 文淵閣版, V1233.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 王冕
+**** responsible:
+***** 王冕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1335 - 1407
+      :END:
+
+***** 王周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 駱居安
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB4b0738.org][ZB4b0738]] 獨醉亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0738
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 史謹
+:SOURCE:   四庫全書 文淵閣版, V1233.2, p107
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 史謹
+**** responsible:
+***** 史謹
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0739.org][ZB4b0739]] 海叟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0739
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁凱
+:SOURCE:   四庫全書 文淵閣版, V1233.3, p161
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 袁凱
+**** responsible:
+***** 袁凱
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1349 - 1370
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0740.org][ZB4b0740]] 榮進集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0740
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳伯宗
+:SOURCE:   四庫全書 文淵閣版, V1233.4, p217
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 吳伯宗
+**** responsible:
+***** 吳伯宗
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0741.org][ZB4b0741]] 梁園寓稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0741
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王翰
+:SOURCE:   四庫全書 文淵閣版, V1233.5, p273
+:EXTENT: 9 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王翰
+**** responsible:
+***** 王翰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1333 - 1379
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0742.org][ZB4b0742]] 自怡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0742
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉璉
+:SOURCE:   四庫全書 文淵閣版, V1233.6, p335
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 劉璉
+**** responsible:
+***** 劉璉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0743.org][ZB4b0743]] 斗南老人集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0743
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡奎
+:SOURCE:   四庫全書 文淵閣版, V1233.7, p353
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 胡奎
+**** responsible:
+***** 胡奎
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0744.org][ZB4b0744]] 希澹園詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0744
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 虞堪
+:SOURCE:   四庫全書 文淵閣版, V1233.8, p581
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 虞堪
+**** responsible:
+***** 虞堪
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0745.org][ZB4b0745]] 鵞湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0745
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 龔斆
+:SOURCE:   四庫全書 文淵閣版, V1233.9, p629
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 龔斆
+**** responsible:
+***** 龔斆
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0746.org][ZB4b0746]] 榮陽外史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0746
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭眞
+:SOURCE:   四庫全書 文淵閣版, V1234.1, p1
+:EXTENT: 存63 卷
+:BOOK:   19
 :END:
-**** dynasty: 明
-**** responsible: 鄭眞
+**** responsible:
+***** 鄭眞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1371
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0747.org][ZB4b0747]] 繼志齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0747
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王紳
+:SOURCE:   四庫全書 文淵閣版, V1234.2, p651
+:EXTENT: 9 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 王紳
+**** responsible:
+***** 王紳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1360 - 1400
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0748.org][ZB4b0748]] 全室外集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0748
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 釋宗泐
+:SOURCE:   四庫全書 文淵閣版, V1234.3, p785
+:EXTENT: 9 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 釋宗泐
+**** responsible:
+***** 釋宗泐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1318 - 1391
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 續篇
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+<!--- here 2014-10-16 --->
 *** [[mandoku:ZB4b0749.org][ZB4b0749]] 中丞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0749
