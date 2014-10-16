@@ -15826,34 +15826,51 @@
 *** [[mandoku:ZB4b0709.org][ZB4b0709]] 臨安集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0709
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 錢宰
+:SOURCE:   四庫全書 文淵閣版, V1229.5, p513
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 錢宰
+**** responsible:
+***** 錢宰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1299 - 1394
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0710.org][ZB4b0710]] 苘絅齋集
+*** [[mandoku:ZB4b0710.org][ZB4b0710]] 尙絅齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0710
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 童冀
+:SOURCE:   四庫全書 文淵閣版, V1229.6, p563
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 童冀
+**** responsible:
+***** 童冀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1376
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0711.org][ZB4b0711]] 趙考古文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0711
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙撝謙
+:SOURCE:   四庫全書 文淵閣版, V1229.7, p653
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 趙撝謙
+**** responsible:
+***** 趙撝謙
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0712.org][ZB4b0712]] 劉彥昺集
