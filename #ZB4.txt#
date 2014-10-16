@@ -14229,61 +14229,126 @@
 *** [[mandoku:ZB4b0634.org][ZB4b0634]] 句曲外史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0634
-:SOURCE:   四庫全書 文淵閣版, V1216.4, p277
-:EXTENT: 4 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1216.4, p351
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
 **** responsible:
-***** 成廷珪
+***** 張雨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1277 - 1348
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (3)
+      :END:
+
+**** 附
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+*** [[mandoku:ZB4b0635.org][ZB4b0635]] 僑吳集
+:PROPERTIES:
+:CUSTOM_ID:  ZB4b0635
+:SOURCE:   四庫全書 文淵閣版, V1216.5, p421
+:EXTENT: 12 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 鄭元祐
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1292 - 1364
+      :END:
+
+***** 張習
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 重編
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+*** [[mandoku:ZB4b0636.org][ZB4b0636]] 詠物詩
+:PROPERTIES:
+:CUSTOM_ID:  ZB4b0636
+:SOURCE:   四庫全書 文淵閣版, V1216.6, p619
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 謝宗可
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 張雨
-:END:
-**** dynasty: 元
-**** responsible: 張雨
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB4b0635.org][ZB4b0635]] 僑吳集
-:PROPERTIES:
-:CUSTOM_ID:  ZB4b0635
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 鄭元祐
-:END:
-**** dynasty: 元
-**** responsible: 鄭元祐
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB4b0636.org][ZB4b0636]] 詠物詩
-:PROPERTIES:
-:CUSTOM_ID:  ZB4b0636
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 謝宗可
-:END:
-**** dynasty: 元
-**** responsible: 謝宗可
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0637.org][ZB4b0637]] 鹿皮子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0637
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳樵
+:SOURCE:   四庫全書 文淵閣版, V1216.7, p635
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 陳樵
+**** responsible:
+***** 陳樵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1278 - 1365
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0638.org][ZB4b0638]] 林外野言
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0638
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1216.8, p699
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 陳樵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1278 - 1365
+      :END:
+
 :DYNASTY: 元
 :RESP: 郭翼
 :END:
