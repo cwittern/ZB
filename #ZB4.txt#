@@ -13702,10 +13702,10 @@
       :FUNCTION: 撰
       :END:
 
-***** 陳
+***** 陳籲
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: 撰
+      :FUNCTION: 編
       :END:
 
 **** textual witnesses
@@ -13713,63 +13713,141 @@
 *** [[mandoku:ZB4b0609.org][ZB4b0609]] 傅與礪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0609
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 傅若金
+:SOURCE:   四庫全書 文淵閣版, V1213.2, p181
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 傅若金
+**** responsible:
+***** 傅若金
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1304 - 1343
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 詩集
+      :PROPERTIES:
+      :EXTENT: (8) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4b0612a.org][ZB4b0612a]] 文集
+      :PROPERTIES:
+      :EXTENT: (11) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (#)
+      :END:
+
 *** [[mandoku:ZB4b0610.org][ZB4b0610]] 瓢泉吟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0610
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱晞顏
+:SOURCE:   四庫全書 文淵閣版, V1213.3, p373
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 朱晞顏
+**** responsible:
+***** 朱晞顏
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1221 - 1279
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0611.org][ZB4b0611]] 筠軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0611
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 唐元
+:SOURCE:   四庫全書 文淵閣版, V1213.4, p427
+:EXTENT: 13 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 唐元
+**** responsible:
+***** 唐元
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0612.org][ZB4b0612]] 俟菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0612
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李存
+:SOURCE:   四庫全書 文淵閣版, V1213.5, p597
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 李存
+**** responsible:
+***** 李存
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1281 - 1354
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0612a.org][ZB4b0612a]] 傅與礪詩文集__文集
+**** 墓志銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0613.org][ZB4b0613]] 滋溪文稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0613
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 蘇天爵
+:SOURCE:   四庫全書 文淵閣版, V1214.1, p1
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 元
-**** responsible: 蘇天爵
+**** responsible:
+***** 蘇天爵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1294 - 1352
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0614.org][ZB4b0614]] 青陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0614
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1214.2, p361
+:EXTENT: 30 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 蘇天爵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1294 - 1352
+      :END:
+
 :DYNASTY: 元
 :RESP: 餘闕
 :END:
