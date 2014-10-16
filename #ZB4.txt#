@@ -14029,57 +14029,86 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 釋大
+***** 納延
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 納延
-:END:
-**** dynasty: 元
-**** responsible: 納延
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0625.org][ZB4b0625]] 子淵詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0625
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 張仲深
+:SOURCE:   四庫全書 文淵閣版, V1215.6, p307
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 張仲深
+**** responsible:
+***** 張仲深
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0626.org][ZB4b0626]] 午溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0626
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳鎰
+:SOURCE:   四庫全書 文淵閣版, V1215.7, p355
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 陳鎰
+**** responsible:
+***** 陳鎰
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0627.org][ZB4b0627]] 葯房樵唱
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0627
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳景奎
+:SOURCE:   四庫全書 文淵閣版, V1215.8, p419
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 吳景奎
+**** responsible:
+***** 吳景奎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1292 - 1355
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0627a.org][ZB4b0627a]] 金至元
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+# *** [[mandoku:ZB4b0627a.org][ZB4b0627a]] 金至元
 *** [[mandoku:ZB4b0628.org][ZB4b0628]] 栲栳山人詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0628
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1215., p419
+:EXTENT: 3 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 吳景奎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1292 - 1355
+      :END:
+
 :DYNASTY: 元
 :RESP: 岑安卿
 :END:
