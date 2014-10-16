@@ -15876,56 +15876,89 @@
 *** [[mandoku:ZB4b0712.org][ZB4b0712]] 劉彥昺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0712
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉炳
+:SOURCE:   四庫全書 文淵閣版, V1229.8, p713
+:EXTENT: 9 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 劉炳
+**** responsible:
+***** 劉炳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 評
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0713.org][ZB4b0713]] 藍山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0713
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 藍仁
+:SOURCE:   四庫全書 文淵閣版, V1229.9, p771
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 藍仁
+**** responsible:
+***** 藍仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0714.org][ZB4b0714]] 藍澗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0714
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 藍智
+:SOURCE:   四庫全書 文淵閣版, V1229.10, p833
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 藍智
+**** responsible:
+***** 藍智
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0715.org][ZB4b0715]] 大全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0715
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高啟
+:SOURCE:   四庫全書 文淵閣版, V1230.1, p1
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 高啟
+**** responsible:
+***** 高啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1336 - 1374
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0716.org][ZB4b0716]] 鳧藻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0716
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高啟
+:SOURCE:   四庫全書 文淵閣版, V1230.2, p253
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 高啟
+**** responsible:
+***** 高啟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1336 - 1374
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0717.org][ZB4b0717]] 眉菴集
