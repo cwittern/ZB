@@ -14097,84 +14097,149 @@
 *** [[mandoku:ZB4b0628.org][ZB4b0628]] 栲栳山人詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0628
-:SOURCE:   四庫全書 文淵閣版, V1215., p419
+:SOURCE:   四庫全書 文淵閣版, V1215.9, p459
 :EXTENT: 3 卷
-:BOOK:   2
+:BOOK:   1
 :END:
 **** responsible:
-***** 吳景奎
+***** 岑安卿
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1292 - 1355
+      :DATES:    1286 - 1355
       :END:
 
-:DYNASTY: 元
-:RESP: 岑安卿
-:END:
-**** dynasty: 元
-**** responsible: 岑安卿
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0629.org][ZB4b0629]] 梅花道人遺墨
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0629
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳鎭
+:SOURCE:   四庫全書 文淵閣版, V1215.10, p491
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 吳鎭
+**** responsible:
+***** 吳鎭
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1280 - 1354
+      :END:
+
+***** 錢棻
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0630.org][ZB4b0630]] 玩齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0630
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 貢師泰
+:SOURCE:   四庫全書 文淵閣版, V1215.11, p509
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 貢師泰
+**** responsible:
+***** 貢師泰
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1298 - 1362
+      :END:
+
+***** 沈性
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0631.org][ZB4b0631]] 羽庭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0631
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉仁本
+:SOURCE:   四庫全書 文淵閣版, V1216.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 劉仁本
+**** responsible:
+***** 劉仁本
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0632.org][ZB4b0632]] 不繫舟漁集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0632
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳高
+:SOURCE:   四庫全書 文淵閣版, V1216.2, p121
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 陳高
+**** responsible:
+***** 陳高
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0633.org][ZB4b0633]] 居竹軒詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0633
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 成廷珪
+:SOURCE:   四庫全書 文淵閣版, V1216.3, p277
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 成廷珪
+**** responsible:
+***** 成廷珪
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0634.org][ZB4b0634]] 句曲外史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0634
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1216.4, p277
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 成廷珪
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 張雨
 :END:
