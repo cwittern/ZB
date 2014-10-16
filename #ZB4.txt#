@@ -13683,25 +13683,31 @@
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    b. 1308
+      :DATES:    b. 1262
       :END:
 
-:DYNASTY: 元
-:RESP: 洪焱祖
-:END:
-**** dynasty: 元
-**** responsible: 洪焱祖
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0608.org][ZB4b0608]] 安雅堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0608
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳旅
+:SOURCE:   四庫全書 文淵閣版, V1213.1, p1
+:EXTENT: 13 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 陳旅
+**** responsible:
+***** 陳旅
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+***** 陳
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0609.org][ZB4b0609]] 傅與礪集
