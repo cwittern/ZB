@@ -16245,57 +16245,119 @@
       :BOOK:   (3)
       :END:
 
-**** [[mandoku:ZB4b0729a.org][ZB4b0729a]] 草閣詩集__筠谷詩集
+**** [[mandoku:ZB4b0729a.org][ZB4b0729a]] (附)筠谷詩集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 李轅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0730.org][ZB4b0730]] 樗菴類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0730
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭潛
+:SOURCE:   四庫全書 文淵閣版, V1232.2, p93
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 鄭潛
+**** responsible:
+***** 鄭潛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1377
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0731.org][ZB4b0731]] 春草齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0731
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 烏斯道
+:SOURCE:   四庫全書 文淵閣版, V1232.3, p123
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 烏斯道
+**** responsible:
+***** 烏斯道
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0731a.org][ZB4b0731a]] 春草齋集__［文集］
-*** [[mandoku:ZB4b0731b.org][ZB4b0731b]] 春草齋集__［詩集］
+**** [[mandoku:ZB4b0731b.org][ZB4b0731b]] 詩集
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0731a.org][ZB4b0731a]] 文集
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4b0732.org][ZB4b0732]] 耕學齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0732
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁華
+:SOURCE:   四庫全書 文淵閣版, V1232.4, p259
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 袁華
+**** responsible:
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1316
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0733.org][ZB4b0733]] 何傳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0733
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁華
+:SOURCE:   四庫全書 文淵閣版, V1232.5, p361
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 袁華
+**** responsible:
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1316
+      :END:
+
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0734.org][ZB4b0734]] 強齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0734
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1232.6, p383
+:EXTENT: 10 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1316
+      :END:
+
 :DYNASTY: 明
 :RESP: 殷奎
 :END:
