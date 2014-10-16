@@ -14830,147 +14830,284 @@
 *** [[mandoku:ZB4b0662.org][ZB4b0662]] 南湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0662
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 貢性之
+:SOURCE:   四庫全書 文淵閣版, V1220.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 貢性之
+**** responsible:
+***** 貢性之
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0663.org][ZB4b0663]] 佩王齋類藁
+*** [[mandoku:ZB4b0663.org][ZB4b0663]] 佩玉齋類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0663
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊翮
+:SOURCE:   四庫全書 文淵閣版, V1220.2, p49
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 楊翮
+**** responsible:
+***** 楊翮
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1346
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0664.org][ZB4b0664]] 玉山璞稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0664
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 顧瑛
+:SOURCE:   四庫全書 文淵閣版, V1220.3, p127
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 顧瑛
+**** responsible:
+***** 顧瑛
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1310 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0665.org][ZB4b0665]] 清閟閣全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0665
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 倪瓚
+:SOURCE:   四庫全書 文淵閣版, V1220.4, p151
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 倪瓚
+**** responsible:
+***** 倪瓚
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1301 - 1374
+      :END:
+
+***** 曹培廉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0666.org][ZB4b0666]] 麟原前後
+*** [[mandoku:ZB4b0666.org][ZB4b0666]] 麟原文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0666
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王禮
+:SOURCE:   四庫全書 文淵閣版, V1220.5, p357
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 王禮
+**** responsible:
+***** 王禮
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1314 - 1389
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0666a.org][ZB4b0666a]] 麟原文集__後集
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4b0666a.org][ZB4b0666a]] 後集
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (#)
+      :END:
+
 *** [[mandoku:ZB4b0667.org][ZB4b0667]] 來鶴亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0667
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 呂誠
+:SOURCE:   四庫全書 文淵閣版, V1220.6, p569
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 呂誠
+**** responsible:
+***** 呂誠
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0668.org][ZB4b0668]] 雲松巢集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0668
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱希晦
+:SOURCE:   四庫全書 文淵閣版, V1220.7, p621
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 朱希晦
+**** responsible:
+***** 朱希晦
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0669.org][ZB4b0669]] 環谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0669
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 汪克寬
+:SOURCE:   四庫全書 文淵閣版, V1220.8, p649
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 汪克寬
+**** responsible:
+***** 汪克寬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1304 - 1372
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0670.org][ZB4b0670]] 性情集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0670
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 周巽
+:SOURCE:   四庫全書 文淵閣版, V1221.1, p1
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 周巽
+**** responsible:
+***** 周巽
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1376
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0671.org][ZB4b0671]] 花谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0671
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 沈夢麟
+:SOURCE:   四庫全書 文淵閣版, V1221.2, p43
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 沈夢麟
+**** responsible:
+***** 沈夢麟
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+***** 沈清
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0672.org][ZB4b0672]] 樗隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0672
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡行簡
+:SOURCE:   四庫全書 文淵閣版, V1221.3, p111
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 胡行簡
+**** responsible:
+***** 胡行簡
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0673.org][ZB4b0673]] 東山存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0673
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V1221.4, p159
+:EXTENT: 7 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)東山趙先生汸行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+***** responsible:
+****** 詹烜
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0674.org][ZB4b0674]] 東維子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0674
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊維楨
+:SOURCE:   四庫全書 文淵閣版, V1221.5, p373
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 元
-**** responsible: 楊維楨
+**** responsible:
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1296 - 1370
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0675.org][ZB4b0675]] 鐵崖古樂府
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0675
