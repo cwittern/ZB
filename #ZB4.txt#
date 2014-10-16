@@ -15580,76 +15580,118 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0698.org][ZB4b0698]] 覆部集
+*** [[mandoku:ZB4b0698.org][ZB4b0698]] 覆瓿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0698
-:SOURCE:   四庫全書 文淵閣版, V1227.4, p563
-:EXTENT: 3 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V1227.4, p649
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
 **** responsible:
-***** 釋妙聲
+***** 朱同
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1380
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+*** [[mandoku:ZB4b0699.org][ZB4b0699]] 柘軒集
+:PROPERTIES:
+:CUSTOM_ID:  ZB4b0699
+:SOURCE:   四庫全書 文淵閣版, V1227.5, p733
+:EXTENT: 5 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 凌雲翰
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 明
-:RESP: 朱同
-:END:
-**** dynasty: 明
-**** responsible: 朱同
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB4b0699.org][ZB4b0699]] 柘軒集
-:PROPERTIES:
-:CUSTOM_ID:  ZB4b0699
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 凌雲翰
-:END:
-**** dynasty: 明
-**** responsible: 凌雲翰
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0700.org][ZB4b0700]] 白雲稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0700
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱右
+:SOURCE:   四庫全書 文淵閣版, V1228.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 朱右
+**** responsible:
+***** 朱右
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1314 - 1376
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0701.org][ZB4b0701]] 密庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0701
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 謝肅
+:SOURCE:   四庫全書 文淵閣版, V1228.2, p77
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 謝肅
+**** responsible:
+***** 謝肅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0702.org][ZB4b0702]] 清江詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0702
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 貝瓊
+:SOURCE:   四庫全書 文淵閣版, V1228.3, p179
+:EXTENT: 10 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 貝瓊
+**** responsible:
+***** 貝瓊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1379
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0702a.org][ZB4b0702a]] 清江詩集__清江文集
+**** [[mandoku:ZB4b0702a.org][ZB4b0702a]] 文集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 30 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0703.org][ZB4b0703]] 蘇平仲文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0703
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1228.4, p509
+:EXTENT: 16 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 蘇伯衡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1377 - 1388
+      :END:
+
 :DYNASTY: 明
 :RESP: 蘇伯衡
 :END:
