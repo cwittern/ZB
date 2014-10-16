@@ -15111,111 +15111,221 @@
 *** [[mandoku:ZB4b0675.org][ZB4b0675]] 鐵崖古樂府
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0675
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊維楨
+:SOURCE:   四庫全書 文淵閣版, V1222.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 楊維楨
+**** responsible:
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1296 - 1370
+      :END:
+
+***** 吳復
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 樂府補
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0676.org][ZB4b0676]] 復古詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0676
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊維楨
+:SOURCE:   四庫全書 文淵閣版, V1222.2, p123
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 楊維楨
+**** responsible:
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1296 - 1370
+      :END:
+
+***** 章琬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0677.org][ZB4b0677]] 麗則遺音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0677
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊維楨
+:SOURCE:   四庫全書 文淵閣版, V1222.3, p145
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 楊維楨
+**** responsible:
+***** 楊維楨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1296 - 1370
+      :END:
+
+***** 陳存禮
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0678.org][ZB4b0678]] 夷白齋稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0678
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳基
+:SOURCE:   四庫全書 文淵閣版, V1222.4, p181
+:EXTENT: 35 卷
+:BOOK:   7
 :END:
-**** dynasty: 元
-**** responsible: 陳基
+**** responsible:
+***** 陳基
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1314 - 1370
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB4b0679.org][ZB4b0679]] 庸菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0679
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 宋禧
+:SOURCE:   四庫全書 文淵閣版, V1222.5, p395
+:EXTENT: 14 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 宋禧
+**** responsible:
+***** 宋禧
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0680.org][ZB4b0680]] 可閒老人集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0680
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張昱
+:SOURCE:   四庫全書 文淵閣版, V1222.6, p499
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 張昱
+**** responsible:
+***** 張昱
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1289 - 1371
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0681.org][ZB4b0681]] 石門集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0681
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 梁寅
+:SOURCE:   四庫全書 文淵閣版, V1222.7, p619
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 梁寅
+**** responsible:
+***** 梁寅
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1303 - 1389
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0682.org][ZB4b0682]] 玉笥集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0682
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄧雅
+:SOURCE:   四庫全書 文淵閣版, V1222.8, p667
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 鄧雅
+**** responsible:
+***** 鄧雅
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1382
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0683.org][ZB4b0683]] 明太祖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0683
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 太祖朱元璋
+:SOURCE:   四庫全書 文淵閣版, V1223.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 太祖朱元璋
+**** responsible:
+***** 太祖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1328 - 1398
+      :END:
+
+***** 姚士觀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編校
+      :END:
+
+***** 沈鉄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編校
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0684.org][ZB4b0684]] 文憲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0684
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 宋濂
+:SOURCE:   四庫全書 文淵閣版, V1223 - 1224.2, p235
+:EXTENT: 32 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 宋濂
+**** responsible:
+***** 宋濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1310 - 1381
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0685.org][ZB4b0685]] 宋景濂未刻集

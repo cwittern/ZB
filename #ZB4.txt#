@@ -15273,57 +15273,99 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 梁寅
+***** 鄧雅
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1303 - 1389
+      :DATES:    fl. 1382
       :END:
 
-:DYNASTY: 明
-:RESP: 鄧雅
-:END:
-**** dynasty: 明
-**** responsible: 鄧雅
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0683.org][ZB4b0683]] 明太祖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0683
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 太祖朱元璋
+:SOURCE:   四庫全書 文淵閣版, V1223.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 太祖朱元璋
+**** responsible:
+***** 太祖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1328 - 1398
+      :END:
+
+***** 姚士觀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編校
+      :END:
+
+***** 沈鉄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編校
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0684.org][ZB4b0684]] 文憲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0684
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 宋濂
+:SOURCE:   四庫全書 文淵閣版, V1223 - 1224.2, p235
+:EXTENT: 32 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 宋濂
+**** responsible:
+***** 宋濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1310 - 1381
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0685.org][ZB4b0685]] 宋景濂未刻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0685
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 宋濂
+:SOURCE:   四庫全書 文淵閣版, V1224.1, p563
+:EXTENT: 2 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 宋濂
+**** responsible:
+***** 宋濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1310 - 1381
+      :END:
+
+***** 蔣超
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0686.org][ZB4b0686]] 誠意伯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0686
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1225.1, p1
+:EXTENT: 2 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 宋濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1310 - 1381
+      :END:
+
 :DYNASTY: 明
 :RESP: 劉基
 :END:
