@@ -14342,81 +14342,139 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 陳樵
+***** 郭翼
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1278 - 1365
+      :DATES:    1305 - 1364
       :END:
 
-:DYNASTY: 元
-:RESP: 郭翼
-:END:
-**** dynasty: 元
-**** responsible: 郭翼
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0639.org][ZB4b0639]] 傲軒吟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0639
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡乘龍
+:SOURCE:   四庫全書 文淵閣版, V1216.9, p725
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 胡乘龍
+**** responsible:
+***** 胡天游
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0640.org][ZB4b0640]] 師山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0640
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 鄭玉
+:SOURCE:   四庫全書 文淵閣版, V1217.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 鄭玉
+**** responsible:
+***** 鄭玉
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1298 - 1358
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0640a.org][ZB4b0640a]] 金至元
-*** [[mandoku:ZB4b0640b.org][ZB4b0640b]] 師山集
+# *** [[mandoku:ZB4b0640a.org][ZB4b0640a]] 金至元
+**** [[mandoku:ZB4b0640b.org][ZB4b0640b]] 師山遺文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0641.org][ZB4b0641]] 友石山人遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0641
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王翰
+:SOURCE:   四庫全書 文淵閣版, V1217.2, p129
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 王翰
+**** responsible:
+***** 王翰
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1333 - 1378
+      :END:
+
+***** 王偁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0642.org][ZB4b0642]] 聞過齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0642
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳海
+:SOURCE:   四庫全書 文淵閣版, V1217.3, p143
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 吳海
+**** responsible:
+***** 吳海
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1367
+      :END:
+
+***** 王偁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0643.org][ZB4b0643]] 學言稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0643
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳當
+:SOURCE:   四庫全書 文淵閣版, V1217.4, p253
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 吳當
+**** responsible:
+***** 吳當
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0644.org][ZB4b0644]] 北郭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0644
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1217.4, p253
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 吳當
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 許恕
 :END:
