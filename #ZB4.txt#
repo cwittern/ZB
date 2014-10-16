@@ -15692,66 +15692,135 @@
       :DATES:    fl. 1377 - 1388
       :END:
 
-:DYNASTY: 明
-:RESP: 蘇伯衡
-:END:
-**** dynasty: 明
-**** responsible: 蘇伯衡
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4b0704.org][ZB4b0704]] 胡仲子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0704
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡翰
+:SOURCE:   四庫全書 文淵閣版, V1229.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 胡翰
+**** responsible:
+***** 胡翰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1307 - 1381
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0705.org][ZB4b0705]] 始豐稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0705
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐一蘷
+:SOURCE:   四庫全書 文淵閣版, V1229.2, p139
+:EXTENT: 14 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 徐一蘷
+**** responsible:
+***** 徐一夔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1318 - ca. 1400
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0706.org][ZB4b0706]] 王常宗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0706
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王彝
+:SOURCE:   四庫全書 文淵閣版, V1229.3, p385
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王彝
+**** responsible:
+***** 王彝
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 都穆
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 續補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 劉廷璋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+****** 浦杲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB4b0707.org][ZB4b0707]] 白石山房逸藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0707
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張孟兼
+:SOURCE:   四庫全書 文淵閣版, V1229.4, p445
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 張孟兼
+**** responsible:
+***** 張丁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0708.org][ZB4b0708]] 滄螺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0708
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫作
+:SOURCE:   四庫全書 文淵閣版, V1229.4, p475
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 孫作
+**** responsible:
+***** 孫作
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1321?
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0709.org][ZB4b0709]] 臨安集
