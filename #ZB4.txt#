@@ -19440,107 +19440,171 @@
 *** [[mandoku:ZB4b0877.org][ZB4b0877]] 弇州四部稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0877
-:SOURCE:   四庫全書 文淵閣版, V1278.4, p611
-:EXTENT: 3 卷
-:BOOK:   4
+:SOURCE:   四庫全書 文淵閣版, V1279 - 1284.1, p1
+:EXTENT: 174 卷
+:BOOK:   84
 :END:
 **** responsible:
-***** 楊繼盛
+***** 王世貞
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1516 - 1555
+      :DATES:    1526 - 1590
       :END:
 
-:DYNASTY: 明
-:RESP: 王世貞
-:END:
-**** dynasty: 明
-**** responsible: 王世貞
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0877a.org][ZB4b0877a]] 弇州四部稿__續稿
+**** [[mandoku:ZB4b0877a.org][ZB4b0877a]] 弇州續稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 207 卷
+      :BOOK:   104
+      :END:
+
 *** [[mandoku:ZB4b0878.org][ZB4b0878]] 讀書後
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0878
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王世貞
+:SOURCE:   四庫全書 文淵閣版, V1285.1, p1
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 王世貞
+**** responsible:
+***** 王世貞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1526 - 1590
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0879.org][ZB4b0879]] 方麓集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0879
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王樵
+:SOURCE:   四庫全書 文淵閣版, V1285.2, p97
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 王樵
+**** responsible:
+***** 王樵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1599
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0880.org][ZB4b0880]] 存家詩稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0880
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊巍
+:SOURCE:   四庫全書 文淵閣版, V1285.3, p477
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 楊巍
+**** responsible:
+***** 楊巍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0881.org][ZB4b0881]] 海壑吟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0881
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙完璧
+:SOURCE:   四庫全書 文淵閣版, V1285.4, p543
+:EXTENT: 11 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 趙完璧
+**** responsible:
+***** 趙完璧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0882.org][ZB4b0882]] 伐檀齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0882
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張元凱
+:SOURCE:   四庫全書 文淵閣版, V1285.5, p665
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 張元凱
+**** responsible:
+***** 張元凱
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0883.org][ZB4b0883]] 備忘錄
+**** (附)諸名家贈答詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+*** [[mandoku:ZB4b0883.org][ZB4b0883]] 備忘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0883
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 海瑞
+:SOURCE:   四庫全書 文淵閣版, V1286.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 海瑞
+**** responsible:
+***** 海瑞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1514 - 1587
+      :END:
+
+***** 海廷芳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0884.org][ZB4b0884]] 石洞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0884
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葉春及
+:SOURCE:   四庫全書 文淵閣版, V1286.2, p229
+:EXTENT: 18 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 葉春及
+**** responsible:
+***** 葉春及
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1532 - 1595
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0885.org][ZB4b0885]] 宗子相集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0885
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1287.1, p1
+:EXTENT: 18 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 葉春及
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1532 - 1595
+      :END:
+
 :DYNASTY: 明
 :RESP: 宗臣
 :END:
