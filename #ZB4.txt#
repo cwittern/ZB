@@ -17687,59 +17687,80 @@
 *** [[mandoku:ZB4b0796.org][ZB4b0796]] 懷麓堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0796
-:SOURCE:   四庫全書 文淵閣版, V1250.1, p729
-:EXTENT: 13 卷
-:BOOK:   5
+:SOURCE:   四庫全書 文淵閣版, V1250.1, p1
+:EXTENT: 100 卷
+:BOOK:   30
 :END:
 **** responsible:
-***** 鄭紀
+***** 李東陽
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
+      :DATES:    1447 - 1516
       :END:
 
-:DYNASTY: 明
-:RESP: 李東陽
-:END:
-**** dynasty: 明
-**** responsible: 李東陽
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0797.org][ZB4b0797]] 青谿漫稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0797
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 倪嶽
+:SOURCE:   四庫全書 文淵閣版, V1251.1, p1
+:EXTENT: 24 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 倪嶽
+**** responsible:
+***** 倪岳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444 - 1501
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0798.org][ZB4b0798]] 康齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0798
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳與弼
+:SOURCE:   四庫全書 文淵閣版, V1251.2, p357
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 吳與弼
+**** responsible:
+***** 吳與弼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1391 - 1469
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0799.org][ZB4b0799]] 樓居雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0799
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱存理
+:SOURCE:   四庫全書 文淵閣版, V1251.3, p597
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 朱存理
+**** responsible:
+***** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444 - 1513
+      :END:
+
+***** 朱觀潛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0799a.org][ZB4b0799a]] 樓居雜著__野航文稿
 *** [[mandoku:ZB4b0799b.org][ZB4b0799b]] 樓居雜著__野航詩稿
+
+*** [[mandoku:ZB4b0799a.org][ZB4b0799a]] 樓居雜著__野航文稿
 *** [[mandoku:ZB4b0800.org][ZB4b0800]] 一峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0800
