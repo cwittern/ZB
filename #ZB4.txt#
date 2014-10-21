@@ -17553,73 +17553,151 @@
 *** [[mandoku:ZB4b0790.org][ZB4b0790]] 方洲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0790
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張寧
+:SOURCE:   四庫全書 文淵閣版, V1247.3, p179
+:EXTENT: 26 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 張寧
+**** responsible:
+***** 張寧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1454
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)讀史錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4b0791.org][ZB4b0791]] 重編瓊臺藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0791
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 邱濬
+:SOURCE:   四庫全書 文淵閣版, V1248.1, p1
+:EXTENT: 24 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 邱濬
+**** responsible:
+***** 丘濬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1419? - 1495
+      :END:
+
+***** 丘爾穀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0792.org][ZB4b0792]] 謙齋文錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0792
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐溥
+:SOURCE:   四庫全書 文淵閣版, V1248.2, p521
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 徐溥
+**** responsible:
+***** 徐溥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1428 - 1499
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0793.org][ZB4b0793]] 椒邱文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0793
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何喬新
+:SOURCE:   四庫全書 文淵閣版, V1249.1, p1
+:EXTENT: 34 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 何喬新
+**** responsible:
+***** 何喬新
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1427 - 1502
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0794.org][ZB4b0794]] 石田詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0794
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 沈周
+:SOURCE:   四庫全書 文淵閣版, V1249.2, p559
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 沈周
+**** responsible:
+***** 沈周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1427 - 1509
+      :END:
+
+***** 華汝德
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0795.org][ZB4b0795]] 東園文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0795
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭紀
+:SOURCE:   四庫全書 文淵閣版, V1249.3, p729
+:EXTENT: 13 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 鄭紀
+**** responsible:
+***** 鄭紀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB4b0796.org][ZB4b0796]] 懷麓堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0796
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1250.1, p729
+:EXTENT: 13 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 鄭紀
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 李東陽
 :END:
