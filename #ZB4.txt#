@@ -18353,7 +18353,7 @@
       :BOOK:   (22)
       :END:
 ***** responsible:
-****** 王
+****** 王鏊
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 著
@@ -18362,42 +18362,87 @@
 *** [[mandoku:ZB4b0826.org][ZB4b0826]] 空同集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0826
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李夢陽
+:SOURCE:   四庫全書 文淵閣版, V1262.1, p1
+:EXTENT: 66 卷
+:BOOK:   26
 :END:
-**** dynasty: 明
-**** responsible: 李夢陽
+**** responsible:
+***** 李夢陽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1472 - 1529
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0827.org][ZB4b0827]] 山齋文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0827
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭嶽
+:SOURCE:   四庫全書 文淵閣版, V1263.1, p1
+:EXTENT: 24 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 鄭嶽
+**** responsible:
+***** 鄭岳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1468 - 1539
+      :END:
+
+***** 鄭炫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0828.org][ZB4b0828]] 顧華玉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0828
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 顧璘
+:SOURCE:   四庫全書 文淵閣版, V1263.2, p135
+:EXTENT: 45 卷
+:BOOK:   16
 :END:
-**** dynasty: 明
-**** responsible: 顧璘
+**** responsible:
+***** 顧璘
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1476 - 1545
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0828a.org][ZB4b0828a]] 顧華玉集__山中集
+**** [[mandoku:ZB4b0828f.org][ZB4b0828f]] 浮湘藁
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4b0828a.org][ZB4b0828a]] 山中集
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0828d.org][ZB4b0828d]] 憑几集
+      :PROPERTIES:
+      :EXTENT: (5) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4b0828e.org][ZB4b0828e]] 憑几集續編
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4b0828c.org][ZB4b0828c]] 顧華玉集__息園存稿詩
+
 *** [[mandoku:ZB4b0828b.org][ZB4b0828b]] 顧華玉集__息園存稿文
-*** [[mandoku:ZB4b0828c.org][ZB4b0828c]] 顧華玉集__息園存稿詩
-*** [[mandoku:ZB4b0828d.org][ZB4b0828d]] 顧華玉集__憑几集
-*** [[mandoku:ZB4b0828e.org][ZB4b0828e]] 顧華玉集__憑几集續編
-*** [[mandoku:ZB4b0828f.org][ZB4b0828f]] 顧華玉集__浮湘藁
 *** [[mandoku:ZB4b0828g.org][ZB4b0828g]] 顧華玉集__緩慟集
 *** [[mandoku:ZB4b0829.org][ZB4b0829]] 華泉集
 :PROPERTIES:
