@@ -17787,68 +17787,124 @@
 :BOOK:   6
 :END:
 **** responsible:
-***** 朱存理
+***** 羅倫
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1444 - 1513
+      :DATES:    1431 - 1478
       :END:
 
-:DYNASTY: 明
-:RESP: 羅倫
-:END:
-**** dynasty: 明
-**** responsible: 羅倫
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0801.org][ZB4b0801]] 篁墩文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0801
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 程敏正
+:SOURCE:   四庫全書 文淵閣版, V1252 - 1253.1, p1
+:EXTENT: 93 卷
+:BOOK:   56
 :END:
-**** dynasty: 明
-**** responsible: 程敏正
+**** responsible:
+***** 程敏政
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1445 - 1499?
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (56)
+      :END:
+
 *** [[mandoku:ZB4b0802.org][ZB4b0802]] 楓山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0802
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 章懋
+:SOURCE:   四庫全書 文淵閣版, V1254.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 章懋
+**** responsible:
+***** 章懋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1436 - 1521
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0803.org][ZB4b0803]] 定山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0803
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 莊&
+:SOURCE:   四庫全書 文淵閣版, V1254.2, p145
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 莊&
+**** responsible:
+***** 莊㫤
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0804.org][ZB4b0804]] 未軒文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0804
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃潛
+:SOURCE:   四庫全書 文淵閣版, V1254.3, p367
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 黃潛
+**** responsible:
+***** 黃仲昭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0805.org][ZB4b0805]] 醫閭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0805
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1254.4, p625
+:EXTENT: 9 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 賀欽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATE
+      :END:
+
 :DYNASTY: 明
 :RESP: 賀欽
 :END:
