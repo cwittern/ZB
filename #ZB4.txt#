@@ -17902,28 +17902,54 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATE
+      :DATES:    1437 - 1510
       :END:
 
-:DYNASTY: 明
-:RESP: 賀欽
-:END:
-**** dynasty: 明
-**** responsible: 賀欽
+***** 賀士諮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0806.org][ZB4b0806]] 翠渠摘稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0806
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周瑛
+:SOURCE:   四庫全書 文淵閣版, V1254.5, p721
+:EXTENT: 7 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 周瑛
+**** responsible:
+***** 周瑛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1430 - 1518
+      :END:
+
+***** 林近龍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0807.org][ZB4b0807]] 家藏集
+**** 續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 周維鑣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+*** [[mandoku:ZB4b0807.org][ZB4b0807]] 家藏集here
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0807
 :SOURCE:   四庫全書 文淵閣版
