@@ -18558,57 +18558,95 @@
       :FUNCTION: 彙集
       :END:
 
-:DYNASTY: 明
-:RESP: 王守仁
-:END:
-**** dynasty: 明
-**** responsible: 王守仁
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0834.org][ZB4b0834]] 雙溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0834
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 杭淮
+:SOURCE:   四庫全書 文淵閣版, V1266.1, p251
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 杭淮
+**** responsible:
+***** 杭淮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0835.org][ZB4b0835]] 對山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0835
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 康海
+:SOURCE:   四庫全書 文淵閣版, V1266.2, p317
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 康海
+**** responsible:
+***** 康海
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1475 - 1540
+      :END:
+
+***** 孫景烈
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0836.org][ZB4b0836]] 柏齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0836
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何瑭
+:SOURCE:   四庫全書 文淵閣版, V1266.3, p465
+:EXTENT: 11 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 何瑭
+**** responsible:
+***** 何瑭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1474 - 1543
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0837.org][ZB4b0837]] 竹澗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0837
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘希曾
+:SOURCE:   四庫全書 文淵閣版, V1266.4, p645
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 潘希曾
+**** responsible:
+***** 潘希曾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1476 - 1532
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 奏議
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (8)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0838.org][ZB4b0838]] 大復集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0838
