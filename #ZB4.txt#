@@ -19926,106 +19926,165 @@
 *** [[mandoku:ZB4b0901.org][ZB4b0901]] 高子遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0901
-:SOURCE:   四庫全書 文淵閣版, V1292.2, p253
-:EXTENT: 8 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V1292.3, p329
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 顧允成
+***** 高攀龍
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1554 - 1607
+      :DATES:    1562 - 1626
       :END:
 
-:DYNASTY: 明
-:RESP: 高攀龍
-:END:
-**** dynasty: 明
-**** responsible: 高攀龍
+***** 陳龍正
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0902.org][ZB4b0902]] 少墟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0902
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮從吾
+:SOURCE:   四庫全書 文淵閣版, V1293.1, p1
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 馮從吾
+**** responsible:
+***** 馮從吾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1556 - 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0903.org][ZB4b0903]] 石隱園藏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0903
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 畢自嚴
+:SOURCE:   四庫全書 文淵閣版, V1293.2, p377
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 畢自嚴
+**** responsible:
+***** 畢自嚴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0904.org][ZB4b0904]] 仰節堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0904
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 曹于汴
+:SOURCE:   四庫全書 文淵閣版, V1293.3, p669
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 曹于汴
+**** responsible:
+***** 曹于汴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1558 - 1634
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0905.org][ZB4b0905]] 願學集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0905
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄒元標
+:SOURCE:   四庫全書 文淵閣版, V1294.1, p1
+:EXTENT: 8 卷
+:BOOK:   9
 :END:
-**** dynasty: 明
-**** responsible: 鄒元標
+**** responsible:
+***** 鄒元標
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1551 - 1624
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0906.org][ZB4b0906]] 劉蕺山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0906
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉宗周
+:SOURCE:   四庫全書 文淵閣版, V1294.2, p301
+:EXTENT: 17 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 劉宗周
+**** responsible:
+***** 劉宗周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1578 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0907.org][ZB4b0907]] 學古緒言
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0907
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 婁堅
+:SOURCE:   四庫全書 文淵閣版, V1295.1, p1
+:EXTENT: 25 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 婁堅
+**** responsible:
+***** 婁堅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1567 - 1631
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0908.org][ZB4b0908]] 檀園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0908
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李流芳
+:SOURCE:   四庫全書 文淵閣版, V1295.2, p293
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 李流芳
+**** responsible:
+***** 李流芳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1575 - 1629
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0909.org][ZB4b0909]] 忠介燼餘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0909
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1295.3, p411
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 周順昌
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1584 - 1626
+      :END:
+
+***** 周靖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 :DYNASTY: 明
 :RESP: 周順昌
 :END:
