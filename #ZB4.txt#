@@ -17437,61 +17437,119 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1418 - 1500
+      :DATES:    1418 - 1472
       :END:
 
-:DYNASTY: 明
-:RESP: 嶽正
-:END:
-**** dynasty: 明
-**** responsible: 嶽正
+***** 李東陽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0786.org][ZB4b0786]] 竹巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0786
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 柯潛
+:SOURCE:   四庫全書 文淵閣版, V1246.3, p467
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 柯潛
+**** responsible:
+***** 柯潛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1423 - 1473
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0787.org][ZB4b0787]] 平橋藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0787
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭文康
+:SOURCE:   四庫全書 文淵閣版, V1246.4, p521
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 鄭文康
+**** responsible:
+***** 鄭文康
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1413 - 1465
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0788.org][ZB4b0788]] 彭惠安集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0788
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 彭韶
+:SOURCE:   四庫全書 文淵閣版, V1247.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 彭韶
+**** responsible:
+***** 彭韶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1430 - 1495
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0789.org][ZB4b0789]] 清風亭稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0789
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 童軒
+:SOURCE:   四庫全書 文淵閣版, V1247.2, p101
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 童軒
+**** responsible:
+***** 童軒
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 李澄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0789a.org][ZB4b0789a]] 明洪武至崇禎
+# *** [[mandoku:ZB4b0789a.org][ZB4b0789a]] 明洪武至崇禎
 *** [[mandoku:ZB4b0790.org][ZB4b0790]] 方洲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0790
