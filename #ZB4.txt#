@@ -18338,20 +18338,27 @@
 :BOOK:   22
 :END:
 **** responsible:
-***** 羅欽順
+***** 顧清
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1465 - 1547
       :END:
 
-:DYNASTY: 明
-:RESP: 顧清
-:END:
-**** dynasty: 明
-**** responsible: 顧清
 **** textual witnesses
 ***** WYG
+**** (附)風聞言事論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 王
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB4b0826.org][ZB4b0826]] 空同集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0826
