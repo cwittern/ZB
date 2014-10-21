@@ -18440,58 +18440,124 @@
       :BOOK:   (1)
       :END:
 
-**** [[mandoku:ZB4b0828c.org][ZB4b0828c]] 顧華玉集__息園存稿詩
+**** [[mandoku:ZB4b0828c.org][ZB4b0828c]] 息園存稿詩
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (4)
+      :END:
 
-*** [[mandoku:ZB4b0828b.org][ZB4b0828b]] 顧華玉集__息園存稿文
-*** [[mandoku:ZB4b0828g.org][ZB4b0828g]] 顧華玉集__緩慟集
+**** [[mandoku:ZB4b0828b.org][ZB4b0828b]] 息園存稿文
+      :PROPERTIES:
+      :EXTENT: (9) 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB4b0828g.org][ZB4b0828g]] 緩慟集
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0829.org][ZB4b0829]] 華泉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0829
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 邊貢
+:SOURCE:   四庫全書 文淵閣版, V1264.1, p1
+:EXTENT: 14 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 邊貢
+**** responsible:
+***** 邊貢
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1476 - 1532
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0830.org][ZB4b0830]] 東田遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0830
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張羽
+:SOURCE:   四庫全書 文淵閣版, V1264.2, p245
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 張羽
+**** responsible:
+***** 張羽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1333 - 1385
+      :END:
+
+***** 張楨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0831.org][ZB4b0831]] 清惠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0831
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉麟
+:SOURCE:   四庫全書 文淵閣版, V1264.3, p315
+:EXTENT: 12 卷
+:BOOK:   7
 :END:
-**** dynasty: 明
-**** responsible: 劉麟
+**** responsible:
+***** 劉麟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1474 - 1561
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0832.org][ZB4b0832]] 沙溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0832
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫緒
+:SOURCE:   四庫全書 文淵閣版, V1264.4, p483
+:EXTENT: 23 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 孫緒
+**** responsible:
+***** 孫緒
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0833.org][ZB4b0833]] 王文成全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0833
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1265 - 1266.1, p1
+:EXTENT: 38 卷
+:BOOK:   34
+:END:
+**** responsible:
+***** 王守仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1472 - 1528
+      :END:
+
+***** 錢德洪原
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 謝廷傑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 彙集
+      :END:
+
 :DYNASTY: 明
 :RESP: 王守仁
 :END:
