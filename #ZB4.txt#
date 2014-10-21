@@ -18650,85 +18650,158 @@
 *** [[mandoku:ZB4b0838.org][ZB4b0838]] 大復集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0838
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何景明
+:SOURCE:   四庫全書 文淵閣版, V1267.1, p1
+:EXTENT: 38 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 何景明
+**** responsible:
+***** 何景明
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1483 - 1521
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4b0839.org][ZB4b0839]] 洹詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0839
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 崔銑
+:SOURCE:   四庫全書 文淵閣版, V1267.2, p369
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 崔銑
+**** responsible:
+***** 崔銑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1478 - 1541
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0840.org][ZB4b0840]] 莊渠遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0840
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 魏校
+:SOURCE:   四庫全書 文淵閣版, V1267.3, p673
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 魏校
+**** responsible:
+***** 魏校
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1483 - 1543
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0841.org][ZB4b0841]] 儼山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0841
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陸深
+:SOURCE:   四庫全書 文淵閣版, V1268.1, p1
+:EXTENT: 100 卷
+:BOOK:   28
 :END:
-**** dynasty: 明
-**** responsible: 陸深
+**** responsible:
+***** 陸深
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1477 - 1544
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0841a.org][ZB4b0841a]] 儼山集__續集
+**** [[mandoku:ZB4b0841a.org][ZB4b0841a]] 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (28)
+      :END:
+
 *** [[mandoku:ZB4b0842.org][ZB4b0842]] 迪功集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0842
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐禎卿
+:SOURCE:   四庫全書 文淵閣版, V1268.2, p733
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 徐禎卿
+**** responsible:
+***** 徐禎卿
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1511
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)談藝錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0843.org][ZB4b0843]] 太白山人漫藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0843
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫一元
+:SOURCE:   四庫全書 文淵閣版, V1268.3, p783
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 孫一元
+**** responsible:
+***** 孫一元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1484 - 1520
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0844.org][ZB4b0844]] 少谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0844
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭善夫
+:SOURCE:   四庫全書 文淵閣版, V1269.1, p1
+:EXTENT: 25 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 鄭善夫
+**** responsible:
+***** 鄭善夫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1485 - 1523
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0845.org][ZB4b0845]] 范洛集
+*** [[mandoku:ZB4b0845.org][ZB4b0845]] 苑洛集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0845
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1269.2, p
+:EXTENT: 25 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 鄭善夫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1485 - 1523
+      :END:
+
 :DYNASTY: 明
 :RESP: 韓邦奇
 :END:
