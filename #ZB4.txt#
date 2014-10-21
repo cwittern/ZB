@@ -17758,13 +17758,42 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0799b.org][ZB4b0799b]] 樓居雜著__野航詩稿
+**** [[mandoku:ZB4b0799b.org][ZB4b0799b]] 野航詩稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
 
-*** [[mandoku:ZB4b0799a.org][ZB4b0799a]] 樓居雜著__野航文稿
+**** [[mandoku:ZB4b0799a.org][ZB4b0799a]] 野航文稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 野航附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0800.org][ZB4b0800]] 一峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0800
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1251.4, p629
+:EXTENT: 14 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 朱存理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1444 - 1513
+      :END:
+
 :DYNASTY: 明
 :RESP: 羅倫
 :END:
