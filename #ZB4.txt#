@@ -18853,84 +18853,125 @@
 *** [[mandoku:ZB4b0848.org][ZB4b0848]] 東巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0848
-:SOURCE:   四庫全書 文淵閣版, V1270.1, p1
-:EXTENT: 81 卷
-:BOOK:   34
+:SOURCE:   四庫全書 文淵閣版, V1271.1, p1
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 楊愼
+***** 夏尙樸
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1488 - 1559
       :END:
 
-:DYNASTY: 明
-:RESP: 夏尚樸
-:END:
-**** dynasty: 明
-**** responsible: 夏尚樸
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0849.org][ZB4b0849]] 文簡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0849
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫承恩
+:SOURCE:   四庫全書 文淵閣版, V1271.2, p55
+:EXTENT: 58 卷
+:BOOK:   23
 :END:
-**** dynasty: 明
-**** responsible: 孫承恩
+**** responsible:
+***** 孫承恩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1485 - 1565
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0850.org][ZB4b0850]] 方齋存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0850
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 林文俊
+:SOURCE:   四庫全書 文淵閣版, V1271.3, p673
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 林文俊
+**** responsible:
+***** 林文俊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0851.org][ZB4b0851]] 考功集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0851
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 薛蕙
+:SOURCE:   四庫全書 文淵閣版, V1272.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 薛蕙
+**** responsible:
+***** 薛蕙
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1489 - 1541
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0852.org][ZB4b0852]] 雲村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0852
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 許相卿
+:SOURCE:   四庫全書 文淵閣版, V1272.2, p131
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 許相卿
+**** responsible:
+***** 許相卿
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1557
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0853.org][ZB4b0853]] 小山類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0853
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張嶽
+:SOURCE:   四庫全書 文淵閣版, V1272.3, p285
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 張嶽
+**** responsible:
+***** 張岳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1492 - 1552
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0854.org][ZB4b0854]] 夢澤集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0854
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1272.4, p531
+:EXTENT: 20 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 張岳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1492 - 1552
+      :END:
+
 :DYNASTY: 明
 :RESP: 王廷陳
 :END:
