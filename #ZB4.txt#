@@ -19594,51 +19594,73 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0885
 :SOURCE:   四庫全書 文淵閣版, V1287.1, p1
-:EXTENT: 18 卷
-:BOOK:   12
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 葉春及
+***** 宗臣
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1532 - 1595
+      :DATES:    1525 - 1560
       :END:
 
-:DYNASTY: 明
-:RESP: 宗臣
-:END:
-**** dynasty: 明
-**** responsible: 宗臣
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0886.org][ZB4b0886]] 衡廬精舍藏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0886
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡直
+:SOURCE:   四庫全書 文淵閣版, V1287.2, p225
+:EXTENT: 30 卷
+:BOOK:   20
 :END:
-**** dynasty: 明
-**** responsible: 胡直
+**** responsible:
+***** 胡直
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1517 - 1585
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0886a.org][ZB4b0886a]] 衡廬精舍藏稿__續稿
+**** [[mandoku:ZB4b0886a.org][ZB4b0886a]] 衡廬續稿
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 11 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB4b0887.org][ZB4b0887]] 薛荔園詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0887
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 餘翔
+:SOURCE:   四庫全書 文淵閣版, V1288.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 餘翔
+**** responsible:
+***** 佘翔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0888.org][ZB4b0888]] 鯤溟詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0888
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1288.2, p137
+:EXTENT: 4 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 郭諫臣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 郭諫臣
 :END:
