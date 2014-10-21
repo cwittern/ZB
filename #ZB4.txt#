@@ -19141,78 +19141,155 @@
 *** [[mandoku:ZB4b0864.org][ZB4b0864]] 皇甫司勳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0864
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 皇甫汸
+:SOURCE:   四庫全書 文淵閣版, V1275.2, p523
+:EXTENT: 60 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 皇甫汸
+**** responsible:
+***** 皇甫汸
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1498 - 1582
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0865.org][ZB4b0865]] 楊忠介集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0865
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊爵
+:SOURCE:   四庫全書 文淵閣版, V1276.1, p1
+:EXTENT: 13 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 楊爵
+**** responsible:
+***** 楊爵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1493 - 1549
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0866.org][ZB4b0866]] 荊川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0866
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 唐順之
+:SOURCE:   四庫全書 文淵閣版, V1276.2, p183
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 唐順之
+**** responsible:
+***** 唐順之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1507 - 1560
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0867.org][ZB4b0867]] 皇甫少玄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0867
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 皇甫涍
+:SOURCE:   四庫全書 文淵閣版, V1276.3, p491
+:EXTENT: 26 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 皇甫涍
+**** responsible:
+***** 皇甫涍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1497 - 1546
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0867a.org][ZB4b0867a]] 皇甫少玄集__外集
+**** [[mandoku:ZB4b0867a.org][ZB4b0867a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0868.org][ZB4b0868]] 瑤石山人稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0868
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黎民表
+:SOURCE:   四庫全書 文淵閣版, V1277.1, p1
+:EXTENT: 16 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 黎民表
+**** responsible:
+***** 黎民表
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0869.org][ZB4b0869]] 南行集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0869
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 丘雲霄
+:SOURCE:   四庫全書 文淵閣版, V1277.2, p205
+:EXTENT: 20 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 丘雲霄
+**** responsible:
+***** 丘雲霄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0869a.org][ZB4b0869a]] 止山集__北觀集
-*** [[mandoku:ZB4b0869b.org][ZB4b0869b]] 止山集__南行集
-*** [[mandoku:ZB4b0869c.org][ZB4b0869c]] 止山集__山中集
-*** [[mandoku:ZB4b0869d.org][ZB4b0869d]] 止山集__東遊集
+**** [[mandoku:ZB4b0869b.org][ZB4b0869b]] 南行集
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4b0869d.org][ZB4b0869d]] 東遊集
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (#)
+      :END:
+
+**** [[mandoku:ZB4b0869a.org][ZB4b0869a]] 北觀集
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4b0869c.org][ZB4b0869c]] 山中集
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4b0870.org][ZB4b0870]] 張莊僖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0870
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1277.3, p305
+:EXTENT: 5 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 丘雲霄
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 張永明
 :END:
