@@ -20085,100 +20085,179 @@
       :FUNCTION: 編
       :END:
 
-:DYNASTY: 明
-:RESP: 周順昌
-:END:
-**** dynasty: 明
-**** responsible: 周順昌
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0910.org][ZB4b0910]] 文忠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0910
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 范景文
+:SOURCE:   四庫全書 文淵閣版, V1295.4, p439
+:EXTENT: 12 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 范景文
+**** responsible:
+***** 范景文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1587 - 1644
+      :END:
+
+***** 范毓秀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
+***** 王孫錫
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0911.org][ZB4b0911]] 幔亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0911
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐熥
+:SOURCE:   四庫全書 文淵閣版, V1296.1, p1
+:EXTENT: 15 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 徐熥
+**** responsible:
+***** 徐熥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0912.org][ZB4b0912]] 白谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0912
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫傳庭
+:SOURCE:   四庫全書 文淵閣版, V1296.2, p197
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 孫傳庭
+**** responsible:
+***** 孫傳庭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1593 - 1634
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0913.org][ZB4b0913]] 集玉山房稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0913
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葛昕
+:SOURCE:   四庫全書 文淵閣版, V1296.3, p379
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 葛昕
+**** responsible:
+***** 葛昕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0914.org][ZB4b0914]] 宋布衣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0914
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 宋登春
+:SOURCE:   四庫全書 文淵閣版, V1296.4, p543
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 宋登春
+**** responsible:
+***** 宋登春
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0915.org][ZB4b0915]] 忠肅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0915
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 盧象昇
+:SOURCE:   四庫全書 文淵閣版, V1296.5, p589
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 盧象昇
+**** responsible:
+***** 盧象昇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1600 - 1638
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0916.org][ZB4b0916]] 倪文貞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0916
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 倪元璐
+:SOURCE:   四庫全書 文淵閣版, V1297.1, p1
+:EXTENT: 17 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 倪元璐
+**** responsible:
+***** 倪元璐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0916a.org][ZB4b0916a]] 倪文貞集__講編
+**** 續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
+**** 奏疏
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (10)
+      :END:
+
+**** [[mandoku:ZB4b0916a.org][ZB4b0916a]] 講編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (10)
+      :END:
+
+**** 詩集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0917.org][ZB4b0917]] 凌忠介公集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0917
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 凌義渠
+:SOURCE:   四庫全書 文淵閣版, V1297.2, p379
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 凌義渠
+**** responsible:
+***** 凌義渠
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1593 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0918.org][ZB4b0918]] 申忠愍詩集
