@@ -22284,16 +22284,33 @@
 
 **** textual witnesses
 ***** WYG
+**** 七言
+      :PROPERTIES:
+      :EXTENT: (存70) 卷
+      :BOOK:   (21)
+      :END:
+
+**** 五言
+      :PROPERTIES:
+      :EXTENT: (存21) 卷
+      :BOOK:   (3)
+      :END:
 
 *** [[mandoku:ZB4c0037.org][ZB4c0037]] 聲畫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孫紹遠
+:SOURCE:   四庫全書 文淵閣版, V1349.2, p805
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 孫紹遠
+**** responsible:
+***** 孫紹遠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    d. 1128 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0038.org][ZB4c0038]] 古文關鍵
