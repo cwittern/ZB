@@ -22036,29 +22036,52 @@
 *** [[mandoku:ZB4c0025.org][ZB4c0025]] 唐百家詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王安石
+:SOURCE:   四庫全書 文淵閣版, V1344.3, p563
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 王安石
+**** responsible:
+***** 王安石
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1021 - 1086 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0026.org][ZB4c0026]] 會稽掇英總集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孔延之
+:SOURCE:   四庫全書 文淵閣版, V1345.1, p1
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 孔延之
+**** responsible:
+***** 孔延之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1021 - 1086 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0027.org][ZB4c0027]] 清江三孔集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0027
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1345.2, p177
+:EXTENT: 30 卷
+:BOOK:   15
+:END:
+**** responsible:
+***** 孔文仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1021 - 1086 ,comp
+      :END:
+
 :DYNASTY: 宋
 :RESP: 孔文仲
 :END:
