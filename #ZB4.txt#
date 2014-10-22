@@ -21234,40 +21234,59 @@
 **** (附)黔書
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT:  卷
-      :BOOK:   (1)
+      :EXTENT: 2 卷
+      :BOOK:   (16)
       :END:
 
 **** 長河志籍考
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: 10 卷
+      :BOOK:   (16)
       :END:
 
 *** [[mandoku:ZB4b0950.org][ZB4b0950]] 榕村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0950
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V1324.2, p525
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0951.org][ZB4b0951]] 三魚堂文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0951
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V1325.1, p1
+:EXTENT: 12 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible:
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
+***** 侯銓
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0951a.org][ZB4b0951a]] 三魚堂文集__外集
+**** [[mandoku:ZB4b0951a.org][ZB4b0951a]] 外集
+
 *** [[mandoku:ZB4b0952.org][ZB4b0952]] 因園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0952

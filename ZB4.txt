@@ -21217,23 +21217,49 @@
 *** [[mandoku:ZB4b0949.org][ZB4b0949]] 古歡堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0949
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 田雯
+:SOURCE:   四庫全書 文淵閣版, V1324.1, p1
+:EXTENT: 37 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 田雯
+**** responsible:
+***** 田雯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1635 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)黔書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (16)
+      :END:
+
+**** 長河志籍考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB4b0950.org][ZB4b0950]] 榕村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0950
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V1324.2, p525
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0951.org][ZB4b0951]] 三魚堂文集
