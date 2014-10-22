@@ -22725,54 +22725,86 @@
       :BOOK:   (10)
       :END:
 
-*** [[mandoku:ZB4c0054.org][ZB4c0054]] 古文集成
+*** [[mandoku:ZB4c0054.org][ZB4c0054]] 古文集成前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王霆震
+:SOURCE:   四庫全書 文淵閣版, V1359.1, p1
+:EXTENT: 78 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 王霆震
+**** responsible:
+***** 王霆震
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0055.org][ZB4c0055]] 文章軌範
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 謝枋得
+:SOURCE:   四庫全書 文淵閣版, V1359.2, p541
+:EXTENT: 7 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 謝枋得
+**** responsible:
+***** 謝枋得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1225 - 1289 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0056.org][ZB4c0056]] 月泉吟社詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳渭
+:SOURCE:   四庫全書 文淵閣版, V1359.3, p617
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳渭
+**** responsible:
+***** 吳渭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1226 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0057.org][ZB4c0057]] 文選補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳仁子
+:SOURCE:   四庫全書 文淵閣版, V1360.1, p1
+:EXTENT: 40 卷
+:BOOK:   26
 :END:
-**** dynasty: 宋
-**** responsible: 陳仁子
+**** responsible:
+***** 陳仁子
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0058.org][ZB4c0058]] 蘇門六君子文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0058
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1361.1, p1
+:EXTENT: 70 卷
+:BOOK:   20
+:END:
+**** responsible:
+***** 張丰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 :DYNASTY: 宋
 :RESP: 闕名
 :END:
