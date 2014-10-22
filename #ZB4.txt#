@@ -20589,17 +20589,11 @@
 ***** WYG
 **** [[mandoku:ZB4b0925a.org][ZB4b0925a]] 初集
       :PROPERTIES:
-      :EXTENT: (2) 卷
-      :BOOK:   (1)
+      :EXTENT: (44) 卷
+      :BOOK:   (24)
       :END:
 ***** responsible:
-****** 彭元瑞
-      :PROPERTIES:
-      :DYNASTY:  清
-      :FUNCTION: 奉敕編
-      :END:
-
-****** 崔衢亭
+****** 蔣溥
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 奉敕編
@@ -20608,32 +20602,133 @@
 **** 　目錄
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
+      :EXTENT: 4 卷
       :BOOK:   (#)
       :END:
 
 **** [[mandoku:ZB4b0925b.org][ZB4b0925b]] 二集
+      :PROPERTIES:
+      :EXTENT: (90) 卷
+      :BOOK:   (52)
+      :END:
+***** responsible:
+****** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+**** 　目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (#)
+      :END:
+
 **** [[mandoku:ZB4b0925c.org][ZB4b0925c]] 三集
+      :PROPERTIES:
+      :EXTENT: (100) 卷
+      :BOOK:   (62)
+      :END:
+***** responsible:
+****** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+**** 　目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (#)
+      :END:
+
 # *** [[mandoku:ZB4b0925d.org][ZB4b0925d]] 御製詩集
 # *** [[mandoku:ZB4b0925e.org][ZB4b0925e]] 御製詩集__三集
 **** [[mandoku:ZB4b0925f.org][ZB4b0925f]] 四集
+      :PROPERTIES:
+      :EXTENT: (100) 卷
+      :BOOK:   (38)
+      :END:
+***** responsible:
+****** 董誥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+**** 　目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (#)
+      :END:
+
 **** [[mandoku:ZB4b0925g.org][ZB4b0925g]] 五集
+      :PROPERTIES:
+      :EXTENT: (100) 卷
+      :BOOK:   (102)
+      :END:
+***** responsible:
+****** 王杰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+**** 　目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (#)
+      :END:
+
 **** [[mandoku:ZB4b0925h.org][ZB4b0925h]] 餘集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (12)
+      :END:
+
+**** 　目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (#)
+      :END:
+
 *** [[mandoku:ZB4b0926.org][ZB4b0926]] 梅村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0926
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳偉業
+:SOURCE:   四庫全書 文淵閣版, V1312.1, p1
+:EXTENT: 40 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 吳偉業
+**** responsible:
+***** 吳偉業
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1609 - 1672
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0927.org][ZB4b0927]] 湯子遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0927
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1312.2, p421
+:EXTENT: 10 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 湯斌
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1627 - 1687
+      :END:
+
 :DYNASTY: 清
 :RESP: 湯斌
 :END:
