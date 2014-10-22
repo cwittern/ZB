@@ -20904,50 +20904,89 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0936
 :SOURCE:   四庫全書 文淵閣版, V1317.1, p1
-:EXTENT: 4 卷
-:BOOK:   4
+:EXTENT: 37 卷
+:BOOK:   10
 :END:
 **** responsible:
-***** 葉方藹
+***** 彭孫遹
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1629 - 1682
+      :DATES:    1631 - 1700
       :END:
 
-:DYNASTY: 清
-:RESP: 彭孫遹
-:END:
-**** dynasty: 清
-**** responsible: 彭孫遹
 **** textual witnesses
 ***** WYG
+**** 延露詞
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
+**** 南𣶂集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0937.org][ZB4b0937]] 曝書亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0937
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱彝尊
+:SOURCE:   四庫全書 文淵閣版, V1317 - 1318.2, p389
+:EXTENT: 80 卷
+:BOOK:   26
 :END:
-**** dynasty: 清
-**** responsible: 朱彝尊
+**** responsible:
+***** 朱彝尊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1629 - 1709
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)葉兒樂府
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (26)
+      :END:
+
 *** [[mandoku:ZB4b0938.org][ZB4b0938]] 于清端政書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0938
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 于成龍
+:SOURCE:   四庫全書 文淵閣版, V1318.1, p541
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 于成龍
+**** responsible:
+***** 于成龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1700
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0939.org][ZB4b0939]] 愚菴小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0939
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1319.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 于成龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1700
+      :END:
+
 :DYNASTY: 清
 :RESP: 朱鶴齡
 :END:
