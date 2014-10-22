@@ -21566,7 +21566,7 @@
       :PROPERTIES:
       :DYNASTY:  梁
       :FUNCTION: 編
-      :DATES:    501 - 531 ed
+      :DATES:    501 - 531 ,ed
       :END:
 
 ***** 李善
@@ -21611,46 +21611,77 @@
 *** [[mandoku:ZB4c0003.org][ZB4c0003]] 文選顏鮑謝詩評
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 方囘
+:SOURCE:   四庫全書 文淵閣版, V1331.1, p573
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 方囘
+**** responsible:
+***** 方回
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    b. 1227
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0004.org][ZB4c0004]] 玉臺新詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 徐陵
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1331.2, p631
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 徐陵
+**** responsible:
+***** 徐陵
+      :PROPERTIES:
+      :DYNASTY:  陳
+      :FUNCTION: 編
+      :DATES:    507 - 583 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0005.org][ZB4c0005]] 玉臺新詠考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 紀容舒
+:SOURCE:   四庫全書 文淵閣版, V1331.3, p725
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 紀容舒
+**** responsible:
+***** 紀容舒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1686 - 1764
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0006.org][ZB4c0006]] 高氏三宴詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 高正臣
+:SOURCE:   四庫全書 文淵閣版, V1332.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 高正臣
+**** responsible:
+***** 高正臣
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)香山九老詩
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4c0007.org][ZB4c0007]] 篋中集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0007
