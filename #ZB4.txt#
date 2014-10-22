@@ -21911,18 +21911,34 @@
 *** [[mandoku:ZB4c0019.org][ZB4c0019]] 搜玉小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1332.14, p561
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0020.org][ZB4c0020]] 古文苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0020
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1332.15, p573
+:EXTENT: 21 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 章樵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :DATES:    1208
+      :END:
+
 :DYNASTY: □
 :RESP: 闕名
 :END:
