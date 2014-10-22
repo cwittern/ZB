@@ -21286,104 +21286,184 @@
 **** textual witnesses
 ***** WYG
 **** [[mandoku:ZB4b0951a.org][ZB4b0951a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (14)
+      :END:
+
+**** 外集附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
 
 *** [[mandoku:ZB4b0952.org][ZB4b0952]] 因園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0952
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 趙執信
+:SOURCE:   四庫全書 文淵閣版, V1325.2, p301
+:EXTENT: 13 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 趙執信
+**** responsible:
+***** 趙執信
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1662 - 1744
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0953.org][ZB4b0953]] 懷清堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0953
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 湯右曾
+:SOURCE:   四庫全書 文淵閣版, V1325.3, p433
+:EXTENT: 20 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 湯右曾
+**** responsible:
+***** 湯右曾
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1656 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0954.org][ZB4b0954]] 二希堂文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0954
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔡世遠
+:SOURCE:   四庫全書 文淵閣版, V1325.4, p633
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 蔡世遠
+**** responsible:
+***** 蔡世遠
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1683 - 1734
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0955.org][ZB4b0955]] 敬業堂詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0955
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 查愼行
+:SOURCE:   四庫全書 文淵閣版, V1326.1, p1
+:EXTENT: 50 卷
+:BOOK:   28
 :END:
-**** dynasty: 清
-**** responsible: 查愼行
+**** responsible:
+***** 查愼行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1650 - 1727
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0956.org][ZB4b0956]] 望溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0956
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 方苞
+:SOURCE:   四庫全書 文淵閣版, V1326.2, p713
+:EXTENT: 8 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 方苞
+**** responsible:
+***** 方苞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1749
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0957.org][ZB4b0957]] 存研樓文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0957
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 儲大文
+:SOURCE:   四庫全書 文淵閣版, V1327.1, p1
+:EXTENT: 16 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 儲大文
+**** responsible:
+***** 儲大文
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1665 - 1743
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0958.org][ZB4b0958]] 香屑集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0958
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃之雋
+:SOURCE:   四庫全書 文淵閣版, V1327.2, p375
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 黃之雋
+**** responsible:
+***** 黃之雋
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1748
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0959.org][ZB4b0959]] 鹿洲初集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0959
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 藍鼎元
+:SOURCE:   四庫全書 文淵閣版, V1327.3, p567
+:EXTENT: 20 卷
+:BOOK:   20
 :END:
-**** dynasty: 清
-**** responsible: 藍鼎元
+**** responsible:
+***** 藍鼎元
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1680 - 1733
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0960.org][ZB4b0960]] 樊謝山房集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0960
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 厲鶚
+:SOURCE:   四庫全書 文淵閣版, V1328.1, p1
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 厲鶚
+**** responsible:
+***** 厲鶚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0960a.org][ZB4b0960a]] 樊榭山房集__續集
