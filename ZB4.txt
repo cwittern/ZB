@@ -21531,26 +21531,81 @@
 **** textual witnesses
 ***** WYG
 ** ZB4c 總集類
-*** [[mandoku:ZB4c0001.org][ZB4c0001]] 文選
+*** [[mandoku:ZB4c0001.org][ZB4c0001]] 文選註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 蕭統
+:SOURCE:   四庫全書 文淵閣版, V1329.1, p1
+:EXTENT: 60 卷
+:BOOK:   22
 :END:
-**** dynasty: 梁
-**** responsible: 蕭統
+**** responsible:
+***** 蕭統
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 編
+      :DATES:    501 - 531 ed
+      :END:
+
+***** 李善
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0002.org][ZB4c0002]] (六臣注)文選
+*** [[mandoku:ZB4c0002.org][ZB4c0002]] 六臣註文選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 蕭統
+:SOURCE:   四庫全書 文淵閣版, V1330 - 1331.1, p1
+:EXTENT: 60 卷
+:BOOK:   22
 :END:
-**** dynasty: 梁
-**** responsible: 蕭統
+**** responsible:
+***** 蕭統
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 編
+      :DATES:    501 - 531 ed
+      :END:
+
+***** 李善
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :DATES:    d. 689
+      :END:
+
+***** 呂延濟
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
+***** 劉良
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
+***** 張銑
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
+***** 呂向
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
+***** 李周翰
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0003.org][ZB4c0003]] 文選顏鮑謝詩評
