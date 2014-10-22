@@ -22179,68 +22179,112 @@
       :FUNCTION: 編
       :END:
 
-:DYNASTY: 宋
-:RESP: 邵浩
-:END:
-**** dynasty: 宋
-**** responsible: 邵浩
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0032.org][ZB4c0032]] 樂府詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭茂倩
+:SOURCE:   四庫全書 文淵閣版, V1347 - 1348.1, p1
+:EXTENT: 100 卷
+:BOOK:   32
 :END:
-**** dynasty: 宋
-**** responsible: 郭茂倩
+**** responsible:
+***** 郭茂倩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1264 - 1269 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0033.org][ZB4c0033]] 歲時雜詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蒲積中
+:SOURCE:   四庫全書 文淵閣版, V1348.1, p207
+:EXTENT: 46 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 蒲積中
+**** responsible:
+***** 蒲積中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0034.org][ZB4c0034]] 嚴陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董弅
+:SOURCE:   四庫全書 文淵閣版, V1348.2, p523
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 董弅
+**** responsible:
+***** 董弅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1133 - 1162 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0035.org][ZB4c0035]] 南嶽倡酬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V1348.3, p607
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 張栻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 林用中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0036.org][ZB4c0036]] 萬首唐人絕句七言
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+*** [[mandoku:ZB4c0036.org][ZB4c0036]] 萬首唐人絕句
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪邁
+:SOURCE:   四庫全書 文淵閣版, V1349.1, p1
+:EXTENT: 存91 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 洪邁
+**** responsible:
+***** 洪邁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1123 - 1202 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB4c0037.org][ZB4c0037]] 聲畫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0037
