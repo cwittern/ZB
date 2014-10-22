@@ -22472,51 +22472,115 @@
 
 *** [[mandoku:ZB4c0043a.org][ZB4c0043a]] 續文章正宗
 :PROPERTIES:
-:CUSTOM_ID:  ZB4c0043
-:SOURCE:   四庫全書 文淵閣版, V1355.1, p1
-:EXTENT: 24 卷
-:BOOK:   24
+:CUSTOM_ID:  ZB4c0043a
+:SOURCE:   四庫全書 文淵閣版, V1356.1, p1
+:EXTENT: 20 卷
+:BOOK:   16
 :END:
 **** responsible:
 ***** 眞德秀
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 編
+      :FUNCTION: 原本
       :DATES:    1178 - 1235 ,comp
+      :END:
+
+***** 倪澄
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重編
+      :END:
+
+***** 胡松
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增訂
       :END:
 
 **** textual witnesses
 ***** WYG
 
-*** [[mandoku:ZB4c0044.org][ZB4c0044]] 天台集
+*** [[mandoku:ZB4c0044.org][ZB4c0044]] 天台前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李庚
+:SOURCE:   四庫全書 文淵閣版, V1356.2, p409
+:EXTENT: 3 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 李庚
+**** responsible:
+***** 李庚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 原本
+      :END:
+
+***** 林師藏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增修
+      :END:
+
+***** 林表民
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增修
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0044a.org][ZB4c0044a]] 天台前集__天台續集
-*** [[mandoku:ZB4c0044b.org][ZB4c0044b]] 天台前集__别編
-*** [[mandoku:ZB4c0044c.org][ZB4c0044c]] 天台前集__天台續集__别編
+**** [[mandoku:ZB4c0044b.org][ZB4c0044b]] 前集别編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
+**** [[mandoku:ZB4c0044a.org][ZB4c0044a]] 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (8)
+      :END:
+
+**** [[mandoku:ZB4c0044c.org][ZB4c0044c]] 續集别編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4c0045.org][ZB4c0045]] 赤城集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林表民
+:SOURCE:   四庫全書 文淵閣版, V1356.3, p615
+:EXTENT: 18 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 林表民
+**** responsible:
+***** 林表民
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1248 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0046.org][ZB4c0046]] 妙絕古今
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0046
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1356.3, p615
+:EXTENT: 18 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 林表民
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1248 ,comp
+      :END:
+
 :DYNASTY: 宋
 :RESP: 湯漢
 :END:
