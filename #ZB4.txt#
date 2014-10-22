@@ -22313,32 +22313,78 @@
 
 **** textual witnesses
 ***** WYG
+*** no id 宋文鑑
+:PROPERTIES:
+:SOURCE:   四庫全書 文淵閣版, V1350 - 1351.1, p1
+:EXTENT: 150 卷
+:BOOK:   68
+:END:
+**** responsible:
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕編
+      :DATES:    1137 - 1181 ,comp
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB4c0038.org][ZB4c0038]] 古文關鍵
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂祖謙
+:SOURCE:   四庫全書 文淵閣版, V1351.1, p715
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
+**** responsible:
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1137 - 1181 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0039.org][ZB4c0039]] 囘文類聚
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 桑世昌
+:SOURCE:   四庫全書 文淵閣版, V1351.2, p793
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 桑世昌
+**** responsible:
+***** 桑世昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1208 ,comp
+      :END:
+
+***** 朱存孝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯補
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB4c0040.org][ZB4c0040]] 五百家播芳大全文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0040
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1352 - 1353.1, p1
+:EXTENT: 110 卷
+:BOOK:   66
+:END:
+**** responsible:
+***** 桑世昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1208 ,comp
+      :END:
+
 :DYNASTY: 宋
 :RESP: 魏齊賢
 :END:
