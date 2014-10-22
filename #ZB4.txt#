@@ -20788,80 +20788,133 @@
 **** [[mandoku:ZB4b0929a.org][ZB4b0929a]] 外集
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 50 卷
+      :EXTENT: 2 卷
       :BOOK:   (22)
       :END:
 
 *** [[mandoku:ZB4b0930.org][ZB4b0930]] 范忠貞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0930
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 范承謨
+:SOURCE:   四庫全書 文淵閣版, V1314.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 范承謨
+**** responsible:
+***** 范承謨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1624 - 1676
+      :END:
+
+***** 劉可書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0931.org][ZB4b0931]] 林蕙堂全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0931
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳綺
+:SOURCE:   四庫全書 文淵閣版, V1314.2, p195
+:EXTENT: 26 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 吳綺
+**** responsible:
+***** 吳綺
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1619 - 1694
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0932.org][ZB4b0932]] 精華錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0932
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王禛
+:SOURCE:   四庫全書 文淵閣版, V1315.1, p1
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 王禛
+**** responsible:
+***** 王士禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1634 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0933.org][ZB4b0933]] 堯峯文鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0933
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪琬
+:SOURCE:   四庫全書 文淵閣版, V1315.2, p203
+:EXTENT: 50 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 汪琬
+**** responsible:
+***** 汪琬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1624 - 1690
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0934.org][ZB4b0934]] 午亭文編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0934
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳廷敬
+:SOURCE:   四庫全書 文淵閣版, V1316.1, p1
+:EXTENT: 50 卷
+:BOOK:   22
 :END:
-**** dynasty: 清
-**** responsible: 陳廷敬
+**** responsible:
+***** 陳廷敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1639 - 1712
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0935.org][ZB4b0935]] 讀書齋偶存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0935
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 葉方藹
+:SOURCE:   四庫全書 文淵閣版, V1316.2, p745
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 葉方藹
+**** responsible:
+***** 葉方藹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1629 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0936.org][ZB4b0936]] 松桂堂全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0936
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1317.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 葉方藹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1629 - 1682
+      :END:
+
 :DYNASTY: 清
 :RESP: 彭孫遹
 :END:
