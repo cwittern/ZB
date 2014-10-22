@@ -21990,40 +21990,47 @@
 :BOOK:   48
 :END:
 **** responsible:
-***** 彭叔夏
+***** 姚鉉
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
-      :DATES:    1192
+      :FUNCTION: 編
+      :DATES:    968 - 1020 ,comp
       :END:
 
-:DYNASTY: 宋
-:RESP: 姚鉉
-:END:
-**** dynasty: 宋
-**** responsible: 姚鉉
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0023.org][ZB4c0023]] 西崑詶唱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊億
+:SOURCE:   四庫全書 文淵閣版, V1344.1, p487
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊億
+**** responsible:
+***** 楊億
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    974 - 1020 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0024.org][ZB4c0024]] 同文館唱和詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄧忠臣
+:SOURCE:   四庫全書 文淵閣版, V1344.2, p523
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 鄧忠臣
+**** responsible:
+***** 鄧忠臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1069
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0025.org][ZB4c0025]] 唐百家詩選
