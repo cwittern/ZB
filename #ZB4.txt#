@@ -21543,7 +21543,7 @@
       :PROPERTIES:
       :DYNASTY:  梁
       :FUNCTION: 編
-      :DATES:    501 - 531 ed
+      :DATES:    501 - 531 ,ed
       :END:
 
 ***** 李善
@@ -21566,7 +21566,7 @@
       :PROPERTIES:
       :DYNASTY:  梁
       :FUNCTION: 編
-      :DATES:    501 - 531
+      :DATES:    501 - 531 ,ed
       :END:
 
 ***** 李善
@@ -21637,7 +21637,7 @@
       :PROPERTIES:
       :DYNASTY:  陳
       :FUNCTION: 編
-      :DATES:    507 - 583
+      :DATES:    507 - 583 ,comp
       :END:
 
 **** textual witnesses
@@ -21694,7 +21694,7 @@
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 編
-      :DATES:    723 - 772
+      :DATES:    723 - 772 ,comp
       :END:
 
 **** textual witnesses
@@ -21727,7 +21727,7 @@
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 編
-      :DATES:    fl. 744
+      :DATES:    fl. 744 ,comp
       :END:
 
 **** textual witnesses
@@ -21744,7 +21744,7 @@
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 編
-      :DATES:    765 - 836
+      :DATES:    765 - 836 ,comp
       :END:
 
 **** textual witnesses
@@ -21777,7 +21777,7 @@
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 編
-      :DATES:    816
+      :DATES:    816 ,comp
       :END:
 
 **** textual witnesses
@@ -21903,7 +21903,7 @@
       :PROPERTIES:
       :DYNASTY:  蜀
       :FUNCTION: 編
-      :DATES:    10th cent
+      :DATES:    10th cent ,comp
       :END:
 
 **** textual witnesses
@@ -21939,29 +21939,64 @@
       :DATES:    1208
       :END:
 
-:DYNASTY: □
-:RESP: 闕名
-:END:
-**** dynasty: □
-**** responsible: 闕名
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0021.org][ZB4c0021]] 文苑英華
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李昉
+:SOURCE:   四庫全書 文淵閣版, V1333 - 1342.1, p1
+:EXTENT: 存999 卷
+:BOOK:   292
 :END:
-**** dynasty: 宋
-**** responsible: 李昉
+**** responsible:
+***** 李昉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕編
+      :DATES:    925 - 996 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (292)
+      :END:
+
 *** [[mandoku:ZB4c0021a.org][ZB4c0021a]] 文苑英華辨證
+:PROPERTIES:
+:CUSTOM_ID:  ZB4c0021a
+:SOURCE:   四庫全書 文淵閣版, V1342.1, p733
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 彭叔夏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1192
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB4c0022.org][ZB4c0022]] 唐文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0022
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1343 - 1344.1, p1
+:EXTENT: 100 卷
+:BOOK:   48
+:END:
+**** responsible:
+***** 彭叔夏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1192
+      :END:
+
 :DYNASTY: 宋
 :RESP: 姚鉉
 :END:

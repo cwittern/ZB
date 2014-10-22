@@ -21543,7 +21543,7 @@
       :PROPERTIES:
       :DYNASTY:  梁
       :FUNCTION: 編
-      :DATES:    501 - 531 ed
+      :DATES:    501 - 531 ,ed
       :END:
 
 ***** 李善
@@ -21685,150 +21685,260 @@
 *** [[mandoku:ZB4c0007.org][ZB4c0007]] 篋中集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 元結
+:SOURCE:   四庫全書 文淵閣版, V1332.2, p11
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 元結
+**** responsible:
+***** 元結
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :DATES:    723 - 772 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0008.org][ZB4c0008]] 河嶽英靈集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 殷璠
+:SOURCE:   四庫全書 文淵閣版, V1332.3, p19
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 殷璠
+**** responsible:
+***** 殷璠
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0009.org][ZB4c0009]] 國秀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 芮挺章
+:SOURCE:   四庫全書 文淵閣版, V1332.4, p63
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 芮挺章
+**** responsible:
+***** 芮挺章
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :DATES:    fl. 744 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0010.org][ZB4c0010]] 御覽詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 令狐楚
+:SOURCE:   四庫全書 文淵閣版, V1332.5, p95
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 令狐楚
+**** responsible:
+***** 令狐楚
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :DATES:    765 - 836 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0011.org][ZB4c0011]] 中興閒氣集
+*** [[mandoku:ZB4c0011.org][ZB4c0011]] 中興間氣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 高仲武
+:SOURCE:   四庫全書 文淵閣版, V1332.6, p125
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 高仲武
+**** responsible:
+***** 高仲武
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0012.org][ZB4c0012]] 極玄集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 姚合
+:SOURCE:   四庫全書 文淵閣版, V1332.7, p149
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 姚合
+**** responsible:
+***** 姚合
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :DATES:    816 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0013.org][ZB4c0013]] 松陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 皮日休
+:SOURCE:   四庫全書 文淵閣版, V1332.8, p163
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 皮日休
+**** responsible:
+***** 皮日休
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    d. 880
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0014.org][ZB4c0014]] 二皇甫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 皇甫冉
+:SOURCE:   四庫全書 文淵閣版, V1332.9, p281
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 皇甫冉
+**** responsible:
+***** 皇甫冉
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    714 - 767
+      :END:
+
+***** 皇甫曾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 劉潤之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0015.org][ZB4c0015]] 唐四僧詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1332.10, p321
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 釋靈澈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    746 - 816
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0016.org][ZB4c0016]] 薛濤詩
+*** [[mandoku:ZB4c0016.org][ZB4c0016]] 薛濤李冶詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 薛濤
+:SOURCE:   四庫全書 文淵閣版, V1332.11, p341
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 薛濤
+**** responsible:
+***** 薛濤
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    766 - 831
+      :END:
+
+***** 李冶
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0017.org][ZB4c0017]] 竇氏聯珠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 竇常
+:SOURCE:   四庫全書 文淵閣版, V1332.12, p357
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 竇常
+**** responsible:
+***** 竇常
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    749 - 825
+      :END:
+
+***** 褚藏言
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0018.org][ZB4c0018]] 才調集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韋穀
+:SOURCE:   四庫全書 文淵閣版, V1332.13, p381
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 韋穀
+**** responsible:
+***** 韋縠
+      :PROPERTIES:
+      :DYNASTY:  蜀
+      :FUNCTION: 編
+      :DATES:    10th cent ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0019.org][ZB4c0019]] 搜玉小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1332.14, p561
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0020.org][ZB4c0020]] 古文苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0020
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1332.15, p573
+:EXTENT: 21 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 章樵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :DATES:    1208
+      :END:
+
 :DYNASTY: □
 :RESP: 闕名
 :END:
