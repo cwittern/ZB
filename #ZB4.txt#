@@ -21064,22 +21064,29 @@
       :DATES:    1623 - 1716
       :END:
 
-:DYNASTY: 清
-:RESP: 毛奇齡
-:END:
-**** dynasty: 清
-**** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0943.org][ZB4b0943]] 陳檢討四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0943
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳維松
+:SOURCE:   四庫全書 文淵閣版, V1322.1, p1
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 陳維松
+**** responsible:
+***** 陳維崧
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1625 - 1682
+      :END:
+
+***** 程師恭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0944.org][ZB4b0944]] 蓮洋詩鈔
