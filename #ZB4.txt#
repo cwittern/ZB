@@ -20384,33 +20384,96 @@
       :FUNCTION: 奉敕編
       :END:
 
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (#)
+      :END:
 
-*** [[mandoku:ZB4b0922.org][ZB4b0922]] 世宗憲皇帝御文集
+*** [[mandoku:ZB4b0922.org][ZB4b0922]] 世宗憲皇帝御製文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0922
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V1300.1, p1
+:EXTENT: 30 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible:
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御製
+      :DATES:    1678 - 1735
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0923.org][ZB4b0923]] 御製樂善堂全集定本
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0923
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高宗弘曆
+:SOURCE:   四庫全書 文淵閣版, V1300.2, p233
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御製
+      :DATES:    1708 - 1761
+      :END:
+
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕重編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0924.org][ZB4b0924]] 御製文初集
+**** 序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** 跋
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+*** [[mandoku:ZB4b0924.org][ZB4b0924]] 御製文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0924
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1300.2, p233
+:EXTENT: 30 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御製
+      :DATES:    1708 - 1761
+      :END:
+
 :DYNASTY: 清
 :RESP: 高宗弘曆
 :END:
