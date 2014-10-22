@@ -20339,7 +20339,7 @@
       :FUNCTION: 奉敕編
       :END:
 
-**** 總目
+**** 　總目
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 5 卷
@@ -20352,7 +20352,7 @@
       :BOOK:   (18)
       :END:
 
-**** 總目
+**** 　總目
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 6 卷
@@ -20365,7 +20365,7 @@
       :BOOK:   (16)
       :END:
 
-**** 總目
+**** 　總目
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 6 卷
@@ -20384,7 +20384,7 @@
       :FUNCTION: 奉敕編
       :END:
 
-**** 總目
+**** 　總目
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 4 卷
@@ -20462,28 +20462,35 @@
 *** [[mandoku:ZB4b0924.org][ZB4b0924]] 御製文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0924
-:SOURCE:   四庫全書 文淵閣版, V1300.2, p233
-:EXTENT: 30 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V1301.1, p1
+:EXTENT: 92 卷
+:BOOK:   26
 :END:
 **** responsible:
 ***** 高宗弘曆
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 御製
-      :DATES:    1708 - 1761
+      :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清
-:RESP: 高宗弘曆
-:END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0924a.org][ZB4b0924a]] 御製文集__二集
-*** [[mandoku:ZB4b0924b.org][ZB4b0924b]] 御製文集__三集
-*** [[mandoku:ZB4b0924c.org][ZB4b0924c]] 御製文集__餘集
+**** 初集
+      :PROPERTIES:
+      :EXTENT: (30) 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** [[mandoku:ZB4b0924a.org][ZB4b0924a]] 二集
+**** [[mandoku:ZB4b0924b.org][ZB4b0924b]] 三集
+**** [[mandoku:ZB4b0924c.org][ZB4b0924c]] 餘集
 *** [[mandoku:ZB4b0925.org][ZB4b0925]] 御製詩初集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0925
