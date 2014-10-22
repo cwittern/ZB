@@ -21802,56 +21802,110 @@
 *** [[mandoku:ZB4c0014.org][ZB4c0014]] 二皇甫集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 皇甫冉
+:SOURCE:   四庫全書 文淵閣版, V1332.9, p281
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 皇甫冉
+**** responsible:
+***** 皇甫冉
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    714 - 767
+      :END:
+
+***** 皇甫曾
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 劉潤之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0015.org][ZB4c0015]] 唐四僧詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1332.10, p321
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 釋靈澈
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    746 - 816
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0016.org][ZB4c0016]] 薛濤詩
+*** [[mandoku:ZB4c0016.org][ZB4c0016]] 薛濤李冶詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 薛濤
+:SOURCE:   四庫全書 文淵閣版, V1332.11, p341
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 薛濤
+**** responsible:
+***** 薛濤
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    766 - 831
+      :END:
+
+***** 李冶
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0017.org][ZB4c0017]] 竇氏聯珠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 竇常
+:SOURCE:   四庫全書 文淵閣版, V1332.12, p357
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 竇常
+**** responsible:
+***** 竇常
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    749 - 825
+      :END:
+
+***** 褚藏言
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0018.org][ZB4c0018]] 才調集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 韋穀
+:SOURCE:   四庫全書 文淵閣版, V1332.13, p381
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 韋穀
+**** responsible:
+***** 韋縠
+      :PROPERTIES:
+      :DYNASTY:  蜀
+      :FUNCTION: 編
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0019.org][ZB4c0019]] 搜玉小集
