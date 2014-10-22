@@ -21052,45 +21052,89 @@
 *** [[mandoku:ZB4b0942.org][ZB4b0942]] 西河集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0942
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V1320 - 1321.1, p1
+:EXTENT: 存189 卷
+:BOOK:   70
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0943.org][ZB4b0943]] 陳檢討四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0943
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳維松
+:SOURCE:   四庫全書 文淵閣版, V1322.1, p1
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 陳維松
+**** responsible:
+***** 陳維崧
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1625 - 1682
+      :END:
+
+***** 程師恭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0944.org][ZB4b0944]] 蓮洋詩鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0944
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳雯
+:SOURCE:   四庫全書 文淵閣版, V1322.2, p275
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 吳雯
+**** responsible:
+***** 吳雯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1644 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0945.org][ZB4b0945]] 張文眞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0945
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張玉書
+:SOURCE:   四庫全書 文淵閣版, V1322.3, p389
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 張玉書
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0946.org][ZB4b0946]] 西陂類稿

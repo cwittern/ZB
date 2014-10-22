@@ -21092,48 +21092,105 @@
 *** [[mandoku:ZB4b0944.org][ZB4b0944]] 蓮洋詩鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0944
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳雯
+:SOURCE:   四庫全書 文淵閣版, V1322.2, p275
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 吳雯
+**** responsible:
+***** 吳雯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1644 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 墓誌銘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0945.org][ZB4b0945]] 張文眞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0945
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張玉書
+:SOURCE:   四庫全書 文淵閣版, V1322.3, p389
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 張玉書
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0946.org][ZB4b0946]] 西陂類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0946
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 宋榮
+:SOURCE:   四庫全書 文淵閣版, V1323.1, p1
+:EXTENT: 39 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 宋榮
+**** responsible:
+***** 宋犖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1634 - 1713
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0947.org][ZB4b0947]] 鐵廬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0947
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 潘天成
+:SOURCE:   四庫全書 文淵閣版, V1323.2, p521
+:EXTENT: 3 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 潘天成
+**** responsible:
+***** 潘天成
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1654 - 1727
+      :END:
+
+***** 許重炎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0947a.org][ZB4b0947a]] 鐵廬集__外集
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4b0947a.org][ZB4b0947a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0948.org][ZB4b0948]] 湛園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0948
