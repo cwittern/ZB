@@ -21449,7 +21449,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0960.org][ZB4b0960]] 樊謝山房集
+*** [[mandoku:ZB4b0960.org][ZB4b0960]] 樊榭山房集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0960
 :SOURCE:   四庫全書 文淵閣版, V1328.1, p1
@@ -21466,31 +21466,59 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0960a.org][ZB4b0960a]] 樊榭山房集__續集
+**** [[mandoku:ZB4b0960a.org][ZB4b0960a]] 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4b0961.org][ZB4b0961]] 果堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0961
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈彤
+:SOURCE:   四庫全書 文淵閣版, V1328.2, p287
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 沈彤
+**** responsible:
+***** 沈彤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1688 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0962.org][ZB4b0962]] 松泉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0962
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪由敦
+:SOURCE:   四庫全書 文淵閣版, V1328.3, p381
+:EXTENT: 46 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 汪由敦
+**** responsible:
+***** 汪由敦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1758
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0962a.org][ZB4b0962a]] 松泉集__［文集］
-*** [[mandoku:ZB4b0962b.org][ZB4b0962b]] 松泉集__［詩集］
+**** [[mandoku:ZB4b0962b.org][ZB4b0962b]] 詩集
+      :PROPERTIES:
+      :EXTENT: (26) 卷
+      :BOOK:   (6)
+      :END:
+
+**** [[mandoku:ZB4b0962a.org][ZB4b0962a]] 文集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0963.org][ZB4b0963]] 宋文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0963
