@@ -21194,25 +21194,57 @@
 *** [[mandoku:ZB4b0948.org][ZB4b0948]] 湛園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0948
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姜宸英
+:SOURCE:   四庫全書 文淵閣版, V1323.3, p593
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 姜宸英
+**** responsible:
+***** 姜宸英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628 - 1699
+      :END:
+
+***** 黃叔琳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0949.org][ZB4b0949]] 古歡堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0949
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 田雯
+:SOURCE:   四庫全書 文淵閣版, V1324.1, p1
+:EXTENT: 37 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 田雯
+**** responsible:
+***** 田雯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1635 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)黔書
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT:  卷
+      :BOOK:   (1)
+      :END:
+
+**** 長河志籍考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4b0950.org][ZB4b0950]] 榕村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0950

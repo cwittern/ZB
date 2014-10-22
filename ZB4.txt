@@ -21140,35 +21140,78 @@
 *** [[mandoku:ZB4b0946.org][ZB4b0946]] 西陂類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0946
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 宋榮
+:SOURCE:   四庫全書 文淵閣版, V1323.1, p1
+:EXTENT: 39 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 宋榮
+**** responsible:
+***** 宋犖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1634 - 1713
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0947.org][ZB4b0947]] 鐵廬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0947
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 潘天成
+:SOURCE:   四庫全書 文淵閣版, V1323.2, p521
+:EXTENT: 3 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 潘天成
+**** responsible:
+***** 潘天成
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1654 - 1727
+      :END:
+
+***** 許重炎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0947a.org][ZB4b0947a]] 鐵廬集__外集
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4b0947a.org][ZB4b0947a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4b0948.org][ZB4b0948]] 湛園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0948
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姜宸英
+:SOURCE:   四庫全書 文淵閣版, V1323.3, p593
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 姜宸英
+**** responsible:
+***** 姜宸英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628 - 1699
+      :END:
+
+***** 黃叔琳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0949.org][ZB4b0949]] 古歡堂集
