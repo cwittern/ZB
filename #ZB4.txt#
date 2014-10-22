@@ -20729,37 +20729,69 @@
       :DATES:    1627 - 1687
       :END:
 
-:DYNASTY: 清
-:RESP: 湯斌
-:END:
-**** dynasty: 清
-**** responsible: 湯斌
+***** 王廷燦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4b0928.org][ZB4b0928]] 兼濟堂文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0928
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 魏裔介
+:SOURCE:   四庫全書 文淵閣版, V1312.3, p645
+:EXTENT: 20 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 魏裔介
+**** responsible:
+***** 魏裔介
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1616 - 1686
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0929.org][ZB4b0929]] 學餘堂文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0929
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 施閏章
+:SOURCE:   四庫全書 文淵閣版, V1313.1, p1
+:EXTENT: 28 卷
+:BOOK:   22
 :END:
-**** dynasty: 清
-**** responsible: 施閏章
+**** responsible:
+***** 施閏章
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1618 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0929a.org][ZB4b0929a]] 學餘堂文集__外集
-*** [[mandoku:ZB4b0929b.org][ZB4b0929b]] 學餘堂文集__詩集
+**** [[mandoku:ZB4b0929b.org][ZB4b0929b]] 詩集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 50 卷
+      :BOOK:   (22)
+      :END:
+
+**** [[mandoku:ZB4b0929a.org][ZB4b0929a]] 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 50 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB4b0930.org][ZB4b0930]] 范忠貞集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0930
