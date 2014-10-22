@@ -20976,50 +20976,94 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0939
 :SOURCE:   四庫全書 文淵閣版, V1319.1, p1
-:EXTENT: 8 卷
-:BOOK:   6
+:EXTENT: 15 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 于成龍
+***** 朱鶴齡
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1638 - 1700
+      :DATES:    1606 - 1683
       :END:
 
-:DYNASTY: 清
-:RESP: 朱鶴齡
-:END:
-**** dynasty: 清
-**** responsible: 朱鶴齡
 **** textual witnesses
 ***** WYG
+**** (附)傳家質言
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4b0940.org][ZB4b0940]] 抱犢山房集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0940
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 嵇永仁
+:SOURCE:   四庫全書 文淵閣版, V1319.2, p199
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 嵇永仁
+**** responsible:
+***** 嵇永仁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1637 - 1676
+      :END:
+
+***** 嵇曾筠
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)嵇留山先生傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 姜垐
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4b0941.org][ZB4b0941]] 文端集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0941
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張英
+:SOURCE:   四庫全書 文淵閣版, V1319.3, p275
+:EXTENT: 46 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 張英
+**** responsible:
+***** 張英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1637 - 1708
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4b0942.org][ZB4b0942]] 西河集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0942
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1320 - 1321.1, p1
+:EXTENT: 存189 卷
+:BOOK:   70
+:END:
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 :DYNASTY: 清
 :RESP: 毛奇齡
 :END:
