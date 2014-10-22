@@ -22569,102 +22569,162 @@
 *** [[mandoku:ZB4c0046.org][ZB4c0046]] 妙絕古今
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0046
-:SOURCE:   四庫全書 文淵閣版, V1356.3, p615
-:EXTENT: 18 卷
-:BOOK:   8
+:SOURCE:   四庫全書 文淵閣版, V1356.4, p783
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
 **** responsible:
-***** 林表民
+***** 湯漢
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 編
-      :DATES:    fl. 1248 ,comp
+      :DATES:    fl. 1252 - 1257 ,comp
       :END:
 
-:DYNASTY: 宋
-:RESP: 湯漢
-:END:
-**** dynasty: 宋
-**** responsible: 湯漢
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0047.org][ZB4c0047]] 唐僧弘秀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李龏
+:SOURCE:   四庫全書 文淵閣版, V1356.5, p861
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 李龏
+**** responsible:
+***** 李龏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0048.org][ZB4c0048]] 眾妙集
+*** [[mandoku:ZB4c0048.org][ZB4c0048]] 衆妙集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙師秀
+:SOURCE:   四庫全書 文淵閣版, V1356.6, p925
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 趙師秀
+**** responsible:
+***** 趙師秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1190 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0049.org][ZB4c0049]] 江湖小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳起
+:SOURCE:   四庫全書 文淵閣版, V1357.1, p1
+:EXTENT: 95 卷
+:BOOK:   28
 :END:
-**** dynasty: 宋
-**** responsible: 陳起
+**** responsible:
+***** 陳起
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1225 - 1233 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0050.org][ZB4c0050]] 江湖後集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳起
+:SOURCE:   四庫全書 文淵閣版, V1357.2, p719
+:EXTENT: 24 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 陳起
+**** responsible:
+***** 陳起
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1225 - 1233 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0051.org][ZB4c0051]] 三體唐詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周弼
+:SOURCE:   四庫全書 文淵閣版, V1358.1, p1
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 周弼
+**** responsible:
+***** 周弼
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1228 ,comp
+      :END:
+
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0052.org][ZB4c0052]] 論學繩尺
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏天應
+:SOURCE:   四庫全書 文淵閣版, V1358.2, p71
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 魏天應
+**** responsible:
+***** 魏天應
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 林子長
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 箋解
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 論訣
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4c0053.org][ZB4c0053]] 吳都文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭虎臣
+:SOURCE:   四庫全書 文淵閣版, V1358.3, p589
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 鄭虎臣
+**** responsible:
+***** 鄭虎臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4c0054.org][ZB4c0054]] 古文集成
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0054
