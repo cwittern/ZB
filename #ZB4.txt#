@@ -22946,35 +22946,77 @@
 *** [[mandoku:ZB4c0065.org][ZB4c0065]] 中州集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 元好問
+:SOURCE:   四庫全書 文淵閣版, V1365.1, p1
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 金
-**** responsible: 元好問
+**** responsible:
+***** 元好問
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 編
+      :DATES:    1190 - 1257? ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0065a.org][ZB4c0065a]] 中州集__中州樂府
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
+**** [[mandoku:ZB4c0065a.org][ZB4c0065a]] (附)中州樂府
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4c0066.org][ZB4c0066]] 唐詩鼓吹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 元好問
+:SOURCE:   四庫全書 文淵閣版, V1365.2, p379
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 金
-**** responsible: 元好問
+**** responsible:
+***** 元好問
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 編
+      :DATES:    1190 - 1257? ,comp
+      :END:
+
+***** 郝天挺
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0067.org][ZB4c0067]] 二妙集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 段克己
+:SOURCE:   四庫全書 文淵閣版, V1365.3, p523
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 金
-**** responsible: 段克己
+**** responsible:
+***** 段克己
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
+***** 段成己
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0068.org][ZB4c0068]] 谷音

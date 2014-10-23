@@ -22905,33 +22905,59 @@
       :DATES:    fl. 1259 ,comp
       :END:
 
-:DYNASTY: 宋
-:RESP: 陳思
-:END:
-**** dynasty: 宋
-**** responsible: 陳思
+***** 陳世隆
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (76)
+      :END:
+
 *** [[mandoku:ZB4c0064.org][ZB4c0064]] 柴氏四隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 柴望
+:SOURCE:   四庫全書 文淵閣版, V1364.1, p871
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 柴望
+**** responsible:
+***** 柴望
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1212 - 1280
+      :END:
+
+***** 柴復貞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0065.org][ZB4c0065]] 中州集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 元好問
+:SOURCE:   四庫全書 文淵閣版, V1365.1, p1
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 金
-**** responsible: 元好問
+**** responsible:
+***** 元好問
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 編
+      :DATES:    1190 - 1257? ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0065a.org][ZB4c0065a]] 中州集__中州樂府
