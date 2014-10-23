@@ -24400,14 +24400,53 @@
 
 **** textual witnesses
 ***** WYG
+**** 正集
+      :PROPERTIES:
+      :EXTENT: (140) 卷
+      :BOOK:   (94)
+      :END:
 
-*** [[mandoku:ZB4c0135a.org][ZB4c0135a]] 御定歷代賦彙__外集
-*** [[mandoku:ZB4c0135b.org][ZB4c0135b]] 御定歷代賦彙__逸句
-*** [[mandoku:ZB4c0135c.org][ZB4c0135c]] 御定歷代賦彙__補遺
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (#2) 卷
+      :BOOK:   (#)
+      :END:
+
+**** [[mandoku:ZB4c0135a.org][ZB4c0135a]] 外集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (15)
+      :END:
+
+**** [[mandoku:ZB4c0135b.org][ZB4c0135b]] 逸句
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4c0135c.org][ZB4c0135c]] 補遺
+      :PROPERTIES:
+      :EXTENT: (22) 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB4c0136.org][ZB4c0136]] 御定全唐詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0136
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1423.1, p1 - V1431.1
+:EXTENT: 900 卷
+:BOOK:   254
+:DATE:   康熙四十二年
+:END:
+**** responsible:
+***** 陳元龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1652 - 1736
+      :END:
+
 :DYNASTY: 清
 :RESP: 聖祖玄燁
 :END:
