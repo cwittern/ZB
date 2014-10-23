@@ -23022,67 +23022,114 @@
 *** [[mandoku:ZB4c0068.org][ZB4c0068]] 谷音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 杜本
+:SOURCE:   四庫全書 文淵閣版, V1365.4, p593
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 杜本
+**** responsible:
+***** 杜本
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 輯
+      :DATES:    1276 - 1350 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0069.org][ZB4c0069]] 河汾諸老詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 房祺
+:SOURCE:   四庫全書 文淵閣版, V1365.5, p613
+:EXTENT: 8 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 房祺
+**** responsible:
+***** 房祺
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :DATES:    fl. 1301 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0070.org][ZB4c0070]] 瀛奎律隨
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 方囘
+:SOURCE:   四庫全書 文淵閣版, V1366.1, p1
+:EXTENT: 49 卷
+:BOOK:   20
 :END:
-**** dynasty: 元
-**** responsible: 方囘
+**** responsible:
+***** 方回
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :DATES:    b. 1227 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0071.org][ZB4c0071]] 梅花百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 馮子振
+:SOURCE:   四庫全書 文淵閣版, V1366.2, p559
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 馮子振
+**** responsible:
+***** 馮子振
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    b. 1257
+      :END:
+
+***** 釋明本
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4c0072.org][ZB4c0072]] 天下同文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 周南瑞
+:SOURCE:   四庫全書 文淵閣版, V1366.3, p591
+:EXTENT: 存43 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 周南瑞
+**** responsible:
+***** 周南瑞
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0073.org][ZB4c0073]] 古賦辯體
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 祝堯
+:SOURCE:   四庫全書 文淵閣版, V1366.4, p711
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 祝堯
+**** responsible:
+***** 祝堯
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0074.org][ZB4c0074]] 圭塘欵乃集
