@@ -23509,14 +23509,14 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (26)
       :END:
 
-**** 附錄
+**** 姓氏爵里詳節
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (26)
       :END:
 
 **** [[mandoku:ZB4c0091a.org][ZB4c0091a]] (附)唐詩拾遺
@@ -23529,40 +23529,108 @@
 *** [[mandoku:ZB4c0092.org][ZB4c0092]] 廣州四先生詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃哲
+:SOURCE:   四庫全書 文淵閣版, V1372.1, p1
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 黃哲
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0093.org][ZB4c0093]] 三華集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 錢公善
+:SOURCE:   四庫全書 文淵閣版, V1372.2, p33
+:EXTENT: 18 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 錢公善
+**** responsible:
+***** 錢公善
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 錄苔軒集
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 錢子正
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1368
+      :END:
+
+**** 種菊庵集
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (#)
+      :END:
+***** responsible:
+****** 錢子義
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+**** 錦樹集
+      :PROPERTIES:
+      :EXTENT: (8) 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 錢仲益
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB4c0094.org][ZB4c0094]] 閩中十子詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁表
+:SOURCE:   四庫全書 文淵閣版, V1372.3, p183
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 袁表
+**** responsible:
+***** 袁表
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 馬熒
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0095.org][ZB4c0095]] 滄海遺珠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0095
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1372.4, p441
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 袁表
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 :DYNASTY: 明
 :RESP: 沐昂
 :END:
