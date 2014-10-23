@@ -23412,7 +23412,7 @@
 
 ***** 馬治
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  明
       :FUNCTION: 撰
       :END:
 
@@ -23435,47 +23435,97 @@
 **** responsible:
 ***** 偶桓
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  明
       :FUNCTION: 編
       :END:
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
 
 *** [[mandoku:ZB4c0089.org][ZB4c0089]] 元音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫原理
+:SOURCE:   四庫全書 文淵閣版, V1370.4, p403
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 孫原理
+**** responsible:
+***** 孫原理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    fl. 1384 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0090.org][ZB4c0090]] 雅頌正音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉仔肩
+:SOURCE:   四庫全書 文淵閣版, V1370.5, p583
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 劉仔肩
+**** responsible:
+***** 劉仔肩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0091.org][ZB4c0091]] 唐詩品彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高棅
+:SOURCE:   四庫全書 文淵閣版, V1371.1, p1
+:EXTENT: 90 卷
+:BOOK:   26
 :END:
-**** dynasty: 明
-**** responsible: 高棅
+**** responsible:
+***** 高棅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1350 - 1423 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0091a.org][ZB4c0091a]] 唐詩品彙__唐詩拾遺
+**** 叙目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (26)
+      :END:
+
+**** 歷代叙論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB4c0091a.org][ZB4c0091a]] (附)唐詩拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (26)
+      :END:
+
 *** [[mandoku:ZB4c0092.org][ZB4c0092]] 廣州四先生詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0092

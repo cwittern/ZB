@@ -23287,122 +23287,215 @@
 *** [[mandoku:ZB4c0081.org][ZB4c0081]] 玉山名勝集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 顧英
+:SOURCE:   四庫全書 文淵閣版, V1369.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 顧英
+**** responsible:
+***** 顧英
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :DATES:    1310 - 1369 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 外集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4c0082.org][ZB4c0082]] 草堂雅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 顧瑛
+:SOURCE:   四庫全書 文淵閣版, V1369.2, p175
+:EXTENT: 14 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 顧瑛
+**** responsible:
+***** 顧英
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :DATES:    1310 - 1369 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0083.org][ZB4c0083]] 玉山紀遊
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 袁華
+:SOURCE:   四庫全書 文淵閣版, V1369.3, p481
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 袁華
+**** responsible:
+***** 顧英
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1310 - 1369
+      :END:
+
+***** 袁華
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0084.org][ZB4c0084]] 大雅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 賴良
+:SOURCE:   四庫全書 文淵閣版, V1369.4, p511
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 賴良
+**** responsible:
+***** 賴良
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0085.org][ZB4c0085]] 元音遺響
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡布
+:SOURCE:   四庫全書 文淵閣版, V1369.5, p579
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 胡布
+**** responsible:
+***** 胡布
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0086.org][ZB4c0086]] 風雅翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉履
+:SOURCE:   四庫全書 文淵閣版, V1370.1, p1
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 劉履
+**** responsible:
+***** 劉履
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0087.org][ZB4c0087]] 荊南倡和詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 周砥
+:SOURCE:   四庫全書 文淵閣版, V1370.2, p229
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 周砥
+**** responsible:
+***** 周砥
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+***** 馬治
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0088.org][ZB4c0088]] 乾坤清氣集
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+*** [[mandoku:ZB4c0088.org][ZB4c0088]] 乾坤清氣
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 偶桓
+:SOURCE:   四庫全書 文淵閣版, V1370.3, p259
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 偶桓
+**** responsible:
+***** 偶桓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB4c0089.org][ZB4c0089]] 元音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 孫原理
+:SOURCE:   四庫全書 文淵閣版, V1370.4, p403
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 孫原理
+**** responsible:
+***** 孫原理
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    fl. 1384 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0090.org][ZB4c0090]] 雅頌正音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉仔肩
+:SOURCE:   四庫全書 文淵閣版, V1370.5, p583
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 劉仔肩
+**** responsible:
+***** 劉仔肩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0091.org][ZB4c0091]] 唐詩品彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高棅
+:SOURCE:   四庫全書 文淵閣版, V1371.1, p1
+:EXTENT: 90 卷
+:BOOK:   26
 :END:
-**** dynasty: 明
-**** responsible: 高棅
+**** responsible:
+***** 高棅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1350 - 1423 ,comp
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0091a.org][ZB4c0091a]] 唐詩品彙__唐詩拾遺
