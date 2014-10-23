@@ -24440,46 +24440,92 @@
 :DATE:   康熙四十二年
 :END:
 **** responsible:
-***** 陳元龍
+***** 聖祖玄燁
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 奉敕編
-      :DATES:    1652 - 1736
+      :FUNCTION: 御定
+      :DATES:    1654 - 1722
       :END:
 
-:DYNASTY: 清
-:RESP: 聖祖玄燁
-:END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (254)
+      :END:
+
 *** [[mandoku:ZB4c0137.org][ZB4c0137]] 御定佩文齋詠物詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0137
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1432.1, p1 - V1434.1
+:EXTENT: 486 卷
+:BOOK:   70
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1642 - 1711
+      :END:
+
+***** 汪霦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (70)
+      :END:
+
 *** [[mandoku:ZB4c0138.org][ZB4c0138]] 御定歷代題畫詩類
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0138
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1435.1, p1 - V1436.1
+:EXTENT: 120 卷
+:BOOK:   38
+:DATE:   康熙四十六年
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 陳邦彥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1678 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (38)
+      :END:
+
 *** [[mandoku:ZB4c0139.org][ZB4c0139]] 御選宋金元明四朝詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0139
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1437.1, p1 - V1444.1
+:EXTENT: 317 卷
+:BOOK:   232
+:END:
+**** responsible:
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    167 - 1752
+      :END:
+
 :DYNASTY: 清
 :RESP: 聖祖玄燁
 :END:
