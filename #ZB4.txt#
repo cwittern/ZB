@@ -24375,17 +24375,32 @@
 
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (54)
+      :END:
+
 *** [[mandoku:ZB4c0135.org][ZB4c0135]] 御定歷代賦彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0135
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1419.1, p1 - V1422.1
+:EXTENT: 184 卷
+:BOOK:   122
+:DATE:   康熙四十五年
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 陳元龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1652 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB4c0135a.org][ZB4c0135a]] 御定歷代賦彙__外集
 *** [[mandoku:ZB4c0135b.org][ZB4c0135b]] 御定歷代賦彙__逸句
 *** [[mandoku:ZB4c0135c.org][ZB4c0135c]] 御定歷代賦彙__補遺
