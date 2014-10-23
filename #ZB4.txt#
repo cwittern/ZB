@@ -24601,7 +24601,7 @@
       :FUNCTION: 原編
       :END:
 
-***** 聖祖玄燁
+# ***** 聖祖玄燁
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 敕補
@@ -24635,13 +24635,16 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 御定
+      :DATES:    1654 - 1722
       :END:
 
-:DYNASTY: 清
-:RESP: 聖祖玄燁
-:END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+***** 陳廷敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    1654 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0142.org][ZB4c0142]] 御定千叟宴詩
