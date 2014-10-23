@@ -24282,34 +24282,40 @@
 *** [[mandoku:ZB4c0130.org][ZB4c0130]] 漢魏六朝百三家集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0130
-:SOURCE:   四庫全書 文淵閣版, V1411.1, p1
-:EXTENT: 36 卷
-:BOOK:   24
+:SOURCE:   四庫全書 文淵閣版, V1412.1, p1 - V1416.1
+:EXTENT: 118 卷
+:BOOK:   90
 :END:
 **** responsible:
-***** 陸時雍
+***** 張溥
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 編
-      :DATES:    1089 - 1155
+      :FUNCTION: 輯
+      :DATES:    1602 - 1641
       :END:
 
-:DYNASTY: 明
-:RESP: 張溥
-:END:
-**** dynasty: 明
-**** responsible: 張溥
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0131.org][ZB4c0131]] 古今禪藻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 釋正勉
+:SOURCE:   四庫全書 文淵閣版, V1416.2, p291
+:EXTENT: 28 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 釋正勉
+**** responsible:
+***** 釋正勉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 釋性𣻢
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0132.org][ZB4c0132]] 三家宮詞

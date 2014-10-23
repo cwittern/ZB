@@ -24299,45 +24299,80 @@
 *** [[mandoku:ZB4c0131.org][ZB4c0131]] 古今禪藻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 釋正勉
+:SOURCE:   四庫全書 文淵閣版, V1416.2, p291
+:EXTENT: 28 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 釋正勉
+**** responsible:
+***** 釋正勉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 釋性𣻢
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0132.org][ZB4c0132]] 三家宮詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0132
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 毛晉
+:SOURCE:   四庫全書 文淵閣版, V1416.3, p665
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 毛晉
+**** responsible:
+***** 毛晉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1599 - 1659
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0133.org][ZB4c0133]] 二家宮詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0133
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 毛晉
+:SOURCE:   四庫全書 文淵閣版, V1416.4, p689
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 毛晉
+**** responsible:
+***** 毛晉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1599 - 1659
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0134.org][ZB4c0134]] 御選古文淵鑒
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0134
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V1417.1, p1 - V1418.1
+:EXTENT: 64 卷
+:BOOK:   54
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御選
+      :DATES:    1631 - 1694
+      :END:
+
+***** 徐乾學
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0135.org][ZB4c0135]] 御定歷代賦彙
