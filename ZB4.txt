@@ -22839,35 +22839,72 @@
       :END:
 
 **** textual witnesses
-***** WYG<!--- here 2014-10-22 --->
+***** WYG
 *** [[mandoku:ZB4c0061.org][ZB4c0061]] 詩家鼎臠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1362.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0062.org][ZB4c0062]] 十先生奧論註前集
+*** [[mandoku:ZB4c0062.org][ZB4c0062]] 十先生奧論註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1362.2, p27
+:EXTENT: 存40 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0062a.org][ZB4c0062a]] 十先生奧論註__後集
-*** [[mandoku:ZB4c0062b.org][ZB4c0062b]] 十先生奧論註__續集
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (15) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4c0062a.org][ZB4c0062a]] 後集
+      :PROPERTIES:
+      :EXTENT: (15) 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB4c0062b.org][ZB4c0062b]] 續集
+      :PROPERTIES:
+      :EXTENT: (存10) 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4c0063.org][ZB4c0063]] 兩宋名賢小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0063
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1362 - 1364.3, p327
+:EXTENT: 380 卷
+:BOOK:   76
+:END:
+**** responsible:
+***** 陳思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1259 ,comp
+      :END:
+
 :DYNASTY: 宋
 :RESP: 陳思
 :END:
