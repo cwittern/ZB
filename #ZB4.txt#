@@ -23625,28 +23625,35 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 袁表
+***** 沐昂
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 編
       :END:
 
-:DYNASTY: 明
-:RESP: 沐昂
-:END:
-**** dynasty: 明
-**** responsible: 沐昂
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4c0096.org][ZB4c0096]] 元詩體要
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 宋緖
+:SOURCE:   四庫全書 文淵閣版, V1372.5, p491
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 宋緖
+**** responsible:
+***** 宋公傳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0097.org][ZB4c0097]] 中州名賢文表
