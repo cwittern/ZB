@@ -24251,34 +24251,49 @@
 *** [[mandoku:ZB4c0129.org][ZB4c0129]] 古詩鏡
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0129
-:SOURCE:   四庫全書 文淵閣版, V1402.V1410.1
-:EXTENT: 存779 卷
-:BOOK:   254
+:SOURCE:   四庫全書 文淵閣版, V1411.1, p1
+:EXTENT: 36 卷
+:BOOK:   24
 :END:
 **** responsible:
-***** 賀復徵
+***** 陸時雍
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 編
+      :DATES:    1089 - 1155
       :END:
 
-:DYNASTY: 明
-:RESP: 陸時雍
-:END:
-**** dynasty: 明
-**** responsible: 陸時雍
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0129a.org][ZB4c0129a]] 古詩鏡__唐詩鏡
+**** 詩鏡總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
+**** [[mandoku:ZB4c0129a.org][ZB4c0129a]] 唐詩鏡
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 54 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB4c0130.org][ZB4c0130]] 漢魏六朝百三家集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0130
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張溥
+:SOURCE:   四庫全書 文淵閣版, V1412.1, p1 - V1416.1
+:EXTENT: 118 卷
+:BOOK:   90
 :END:
-**** dynasty: 明
-**** responsible: 張溥
+**** responsible:
+***** 張溥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :DATES:    1602 - 1641
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0131.org][ZB4c0131]] 古今禪藻集
