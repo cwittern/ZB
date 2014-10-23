@@ -1028,13 +1028,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1071.3, p425
 :EXTENT: 3 卷
 :BOOK:   1
+:DATE:   727
 :END:
 **** responsible:
 ***** 常建
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    727
       :END:
 
 **** textual witnesses
@@ -1231,13 +1231,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1072.1, p1
 :EXTENT: 11 卷
 :BOOK:   4
+:DATE:   733
 :END:
 **** responsible:
 ***** 劉長卿
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    733
       :END:
 
 **** textual witnesses
@@ -1350,13 +1350,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1072.7, p503
 :EXTENT: 3 卷
 :BOOK:   3
+:DATE:   757
 :END:
 **** responsible:
 ***** 顧況
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    757
       :END:
 
 ***** 顧名端
@@ -1887,13 +1887,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1078.2, p63
 :EXTENT: 6 卷
 :BOOK:   1
+:DATE:   806
 :END:
 **** responsible:
 ***** 皇甫湜
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    806
       :END:
 
 **** textual witnesses
@@ -1904,13 +1904,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1078.3, p101
 :EXTENT: 18 卷
 :BOOK:   3
+:DATE:   798
 :END:
 **** responsible:
 ***** 李翱
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    798
       :END:
 
 **** textual witnesses
@@ -1921,13 +1921,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1078.4, p195
 :EXTENT: 10 卷
 :BOOK:   2
+:DATE:   792
 :END:
 **** responsible:
 ***** 歐陽詹
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    792
       :END:
 
 **** textual witnesses
@@ -2143,13 +2143,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1078.11, p577
 :EXTENT: 8 卷
 :BOOK:   3
+:DATE:   775
 :END:
 **** responsible:
 ***** 王建
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    775
       :END:
 
 **** textual witnesses
@@ -2160,13 +2160,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1079.1, p1
 :EXTENT: 12 卷
 :BOOK:   3
+:DATE:   815
 :END:
 **** responsible:
 ***** 沈亞之
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    815
       :END:
 
 **** textual witnesses
@@ -2336,13 +2336,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1081.2, p531
 :EXTENT: 6 卷
 :BOOK:   2
+:DATE:   809
 :END:
 **** responsible:
 ***** 鮑溶
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    809
       :END:
 
 **** textual witnesses
@@ -2377,13 +2377,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1081.4, p695
 :EXTENT: 10 卷
 :BOOK:   2
+:DATE:   816
 :END:
 **** responsible:
 ***** 姚合
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    816
       :END:
 
 **** textual witnesses
@@ -2462,7 +2462,7 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 箋
-      :DATES:    1685
+#      :DATE:    1685
       :END:
 
 ***** 徐炯
@@ -2514,13 +2514,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1082.5, p555
 :EXTENT: 2 卷
 :BOOK:   2
+:DATE:   832
 :END:
 **** responsible:
 ***** 許渾
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    832
       :END:
 
 **** textual witnesses
@@ -2538,13 +2538,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1082.6, p619
 :EXTENT: 6 卷
 :BOOK:   1
+:DATE:   850
 :END:
 **** responsible:
 ***** 劉蜕
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    850
       :END:
 
 **** textual witnesses
@@ -2595,13 +2595,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1083.3, p63
 :EXTENT: 10 卷
 :BOOK:   1
+:DATE:   855
 :END:
 **** responsible:
 ***** 孫樵
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    855
       :END:
 
 **** textual witnesses
@@ -2612,13 +2612,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1083.4, p95
 :EXTENT: 1 卷
 :BOOK:   1
+:DATE:   861
 :END:
 **** responsible:
 ***** 王棨
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    861
       :END:
 
 ***** 王蘋
@@ -2874,13 +2874,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1084.3, p87
 :EXTENT: 8 卷
 :BOOK:   4
+:DATE:   895
 :END:
 **** responsible:
 ***** 黃滔
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    895
       :END:
 
 **** textual witnesses
@@ -3201,13 +3201,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1086.2, p303
 :EXTENT: 5 卷
 :BOOK:   2
+:DATE:   992
 :END:
 **** responsible:
 ***** 趙湘
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    992
       :END:
 
 **** textual witnesses
@@ -3578,13 +3578,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1091.1, p1
 :EXTENT: 35 卷
 :BOOK:   12
+:DATE:   1046
 :END:
 **** responsible:
 ***** 強至
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1046
       :END:
 
 **** textual witnesses
@@ -3816,13 +3816,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1095.2, p351
 :EXTENT: 2 卷
 :BOOK:   2
+:DATE:   1042
 :END:
 **** responsible:
 ***** 金君卿
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1042
       :END:
 
 **** textual witnesses
@@ -5293,13 +5293,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1118.1, p1
 :EXTENT: 20 卷
 :BOOK:   20
+:DATE:   1082
 :END:
 **** responsible:
 ***** 晁說之
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1082
       :END:
 
 ***** 晁子健
@@ -5407,13 +5407,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1119.3, p339
 :EXTENT: 30 卷
 :BOOK:   14
+:DATE:   1079
 :END:
 **** responsible:
 ***** 華鎭
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1079
       :END:
 
 **** textual witnesses
@@ -5518,13 +5518,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1121.3, p533
 :EXTENT: 8 卷
 :BOOK:   4
+:DATE:   1079
 :END:
 **** responsible:
 ***** 劉跂
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1079
       :END:
 
 **** textual witnesses
@@ -5749,13 +5749,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1123.5, p599
 :EXTENT: 9 卷
 :BOOK:   4
+:DATE:   1091
 :END:
 **** responsible:
 ***** 周行己
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1091
       :END:
 
 **** textual witnesses
@@ -5879,13 +5879,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1124.6, p421
 :EXTENT: 30 卷
 :BOOK:   8
+:DATE:   1090
 :END:
 **** responsible:
 ***** 李新
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1090
       :END:
 
 **** textual witnesses
@@ -6129,13 +6129,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1127.6, p669
 :EXTENT: 15 卷
 :BOOK:   6
+:DATE:   1102
 :END:
 **** responsible:
 ***** 張守
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1102
       :END:
 
 **** textual witnesses
@@ -6484,13 +6484,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1132.4, p757
 :EXTENT: 4 卷
 :BOOK:   2
+:DATE:   1118
 :END:
 **** responsible:
 ***** 黃彥平
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1118
       :END:
 
 **** textual witnesses
@@ -7119,13 +7119,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1136.12, p679
 :EXTENT: 20 卷
 :BOOK:   5
+:DATE:   1136
 :END:
 **** responsible:
 ***** 呂本中
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1136
       :END:
 
 **** textual witnesses
@@ -7215,13 +7215,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1137.5, p785
 :EXTENT: 10 卷
 :BOOK:   4
+:DATE:   1132
 :END:
 **** responsible:
 ***** 仲幷
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1132
       :END:
 
 **** textual witnesses
@@ -8921,13 +8921,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1165.5, p661
 :EXTENT: 10 卷
 :BOOK:   5
+:DATE:   1157
 :END:
 **** responsible:
 ***** 史堯弼
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1157
       :END:
 
 **** textual witnesses
@@ -9143,13 +9143,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1169.3, p423
 :EXTENT: 3 卷
 :BOOK:   1
+:DATE:   1187
 :END:
 **** responsible:
 ***** 裘萬頃
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1187
       :END:
 
 **** textual witnesses
@@ -9283,13 +9283,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1170.4, p151
 :EXTENT: 15 卷
 :BOOK:   5
+:DATE:   1190
 :END:
 **** responsible:
 ***** 度正
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1190
       :END:
 
 **** textual witnesses
@@ -9386,13 +9386,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1171.5, p189
 :EXTENT: 1 卷
 :BOOK:   (1)
+:DATE:   1190
 :END:
 **** responsible:
 ***** 趙師秀
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1190
       :END:
 
 **** textual witnesses
@@ -9603,13 +9603,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1175.6, p331
 :EXTENT: 20 卷
 :BOOK:   12
+:DATE:   1214
 :END:
 **** responsible:
 ***** 袁甫
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1214
       :END:
 
 **** textual witnesses
@@ -9675,13 +9675,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1176.1, p1
 :EXTENT: 40 卷
 :BOOK:   20
+:DATE:   1209
 :END:
 **** responsible:
 ***** 吳泳
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1209
       :END:
 
 **** textual witnesses
@@ -9790,13 +9790,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1176.8, p889
 :EXTENT: 14 卷
 :BOOK:   6
+:DATE:   1211
 :END:
 **** responsible:
 ***** 程公許
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1211
       :END:
 
 **** textual witnesses
@@ -9829,13 +9829,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1178.1, p1
 :EXTENT: 10 卷
 :BOOK:   4
+:DATE:   1214
 :END:
 **** responsible:
 ***** 陳耆卿
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1214
       :END:
 
 **** textual witnesses
@@ -9975,13 +9975,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1178.9, p683
 :EXTENT: 5 卷
 :BOOK:   1
+:DATE:   1219
 :END:
 **** responsible:
 ***** 戴昺
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1219
       :END:
 
 **** textual witnesses
@@ -10338,13 +10338,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1182.1, p1
 :EXTENT: 8 卷
 :BOOK:   6
+:DATE:   1229
 :END:
 **** responsible:
 ***** 高斯得
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1229
       :END:
 
 **** textual witnesses
@@ -10671,13 +10671,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1185.3, p553
 :EXTENT: 30 卷
 :BOOK:   12
+:DATE:   1235
 :END:
 **** responsible:
 ***** 林希逸
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1235
       :END:
 
 ***** 林式之
@@ -11186,13 +11186,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1188.5, p531
 :EXTENT: 10 卷
 :BOOK:   2
+:DATE:   1268
 :END:
 **** responsible:
 ***** 胡次焱
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1268
       :END:
 
 ***** 胡璉
@@ -11510,13 +11510,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1189.12, p629
 :EXTENT: 1 卷
 :BOOK:   1
+:DATE:   1265
 :END:
 **** responsible:
 ***** 黃公紹
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1265
       :END:
 
 **** textual witnesses
@@ -11653,13 +11653,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1190.1, p1
 :EXTENT: 6 卷
 :BOOK:   2
+:DATE:   1151
 :END:
 **** responsible:
 ***** 王寂
       :PROPERTIES:
       :DYNASTY:  金
       :FUNCTION: 撰
-      :DATES:    1151
       :END:
 
 **** textual witnesses
@@ -13480,13 +13480,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1210.3, p543
 :EXTENT: 1 卷
 :BOOK:   1
+:DATE:   1315
 :END:
 **** responsible:
 ***** 陳泰
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1315
       :END:
 
 **** textual witnesses
@@ -17556,13 +17556,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1247.3, p179
 :EXTENT: 26 卷
 :BOOK:   12
+:DATE:   1454
 :END:
 **** responsible:
 ***** 張寧
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1454
       :END:
 
 **** textual witnesses
@@ -21771,13 +21771,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1332.7, p149
 :EXTENT: 2 卷
 :BOOK:   1
+:DATE:   816
 :END:
 **** responsible:
 ***** 姚合
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 編
-      :DATES:    816
       :END:
 
 **** textual witnesses
@@ -21930,13 +21930,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1332.15, p573
 :EXTENT: 21 卷
 :BOOK:   6
+:DATE:   1208
 :END:
 **** responsible:
 ***** 章樵
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 註
-      :DATES:    1208
       :END:
 
 **** textual witnesses
@@ -21971,13 +21971,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1342.1, p733
 :EXTENT: 10 卷
 :BOOK:   4
+:DATE:   1192
 :END:
 **** responsible:
 ***** 彭叔夏
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1192
       :END:
 
 **** textual witnesses
@@ -22022,13 +22022,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1344.2, p523
 :EXTENT: 10 卷
 :BOOK:   2
+:DATE:   1069
 :END:
 **** responsible:
 ***** 鄧忠臣
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1069
       :END:
 
 **** textual witnesses
@@ -22605,13 +22605,13 @@
 :SOURCE:   四庫全書 文淵閣版, V1356.6, p925
 :EXTENT: 1 卷
 :BOOK:   1
+:DATE:   1190
 :END:
 **** responsible:
 ***** 趙師秀
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 編
-      :DATES:    1190
       :END:
 
 **** textual witnesses
