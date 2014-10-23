@@ -23132,21 +23132,38 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0074.org][ZB4c0074]] 圭塘欵乃集
+*** [[mandoku:ZB4c0074.org][ZB4c0074]] 圭塘欸乃集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 許有壬
+:SOURCE:   四庫全書 文淵閣版, V1366.5, p863
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 許有壬
+**** responsible:
+***** 許有壬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1287 - 1364
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0075.org][ZB4c0075]] 忠義集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0075
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1366.6, p913
+:EXTENT: 7 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 許有壬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1287 - 1364
+      :END:
+
 :DYNASTY: 元
 :RESP: 趙景良
 :END:
