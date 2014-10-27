@@ -27493,7 +27493,7 @@
 *** [[mandoku:ZB4e0067.org][ZB4e0067]] 花草稡編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0067
-:SOURCE:   四庫全書 文淵閣版, V1409.3, p113
+:SOURCE:   四庫全書 文淵閣版, V1490.3, p113
 :EXTENT: 24 卷
 :BOOK:   22
 :DATE:   1550
@@ -27510,51 +27510,88 @@
 *** [[mandoku:ZB4e0068.org][ZB4e0068]] 御選歷代詩餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0068
-:SOURCE:   四庫全書 文淵閣版, V1410.3, p113
-:EXTENT: 24 卷
-:BOOK:   22
-:DATE:   1550
+:SOURCE:   四庫全書 文淵閣版, V1491.1, p1 - V1493.1
+:EXTENT: 120 卷
+:BOOK:   86
+:DATE:   1685
 :END:
 **** responsible:
-***** 陳耀文
+***** 聖祖玄燁
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 編
+      :DYNASTY:  清
+      :FUNCTION: 御定
       :END:
 
-:DYNASTY: 清
-:RESP: 玄燁
-:END:
-**** dynasty: 清
-**** responsible: 玄燁
+***** 沈辰垣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+***** 王奕清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (86)
+      :END:
+
 *** [[mandoku:ZB4e0069.org][ZB4e0069]] 詞綜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱彝尊
+:SOURCE:   四庫全書 文淵閣版, V1493.2, p427
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 朱彝尊
+**** responsible:
+***** 朱彝尊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1629 - 1709
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0070.org][ZB4e0070]] 十五家詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫默
+:SOURCE:   四庫全書 文淵閣版, V1494.1, p1
+:EXTENT: 37 卷
+:BOOK:   13
 :END:
-**** dynasty: 清
-**** responsible: 孫默
+**** responsible:
+***** 孫默
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1613 - 1678
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0071.org][ZB4e0071]] 碧鷄漫志
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0071
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1494.1, p1
+:EXTENT: 37 卷
+:BOOK:   13
+:END:
+**** responsible:
+***** 孫默
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1613 - 1678
+      :END:
+
 :DYNASTY: 宋
 :RESP: 王灼
 :END:
