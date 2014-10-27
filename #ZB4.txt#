@@ -24717,58 +24717,138 @@
 **** 目錄
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (30)
+      :EXTENT: 2 卷
+      :BOOK:   (28)
       :END:
 
-:DYNASTY: 清
-:RESP: 高宗弘曆
-:END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0145.org][ZB4c0145]] 皇清文頴
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0145
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張廷玉
+:SOURCE:   四庫全書 文淵閣版, V1449.1, p1 - V1450.1
+:EXTENT: 100 卷
+:BOOK:   68
+:DATE:   乾隆十五年
 :END:
-**** dynasty: 清
-**** responsible: 張廷玉
+**** responsible:
+***** 陳廷敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1639 - 1712
+      :END:
+
+***** 張廷玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕續編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (68)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 24 卷
+      :BOOK:   (68)
+      :END:
+
 *** [[mandoku:ZB4c0146.org][ZB4c0146]] 欽定四書文
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0146
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 方苞
+:SOURCE:   四庫全書 文淵閣版, V1451.1, p1
+:EXTENT: 41 卷
+:BOOK:   32
 :END:
-**** dynasty: 清
-**** responsible: 方苞
+**** responsible:
+***** 方苞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1668 - 1749
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0146a.org][ZB4c0146a]] 欽定四書文__化治四書文
-*** [[mandoku:ZB4c0146b.org][ZB4c0146b]] 欽定四書文__正嘉四書文
-*** [[mandoku:ZB4c0146c.org][ZB4c0146c]] 欽定四書文__隆萬四書文
-*** [[mandoku:ZB4c0146d.org][ZB4c0146d]] 欽定四書文__啟禎四書文
-*** [[mandoku:ZB4c0146e.org][ZB4c0146e]] 欽定四書文__本朝四書文
+**** [[mandoku:ZB4c0146a.org][ZB4c0146a]] 化治四書文
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB4c0146b.org][ZB4c0146b]] 正嘉四書文
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4c0146c.org][ZB4c0146c]] 隆萬四書文
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB4c0146d.org][ZB4c0146d]] 啟禎四書文
+      :PROPERTIES:
+      :EXTENT: (9) 卷
+      :BOOK:   (8)
+      :END:
+
+**** [[mandoku:ZB4c0146e.org][ZB4c0146e]] 本朝四書文
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4c0147.org][ZB4c0147]] 欽定千叟宴詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0147
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆五十年
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V1452.1, p1
+:EXTENT: 34 卷
+:BOOK:   35
+:DATE:   清乾隆五十年
 :END:
-**** dynasty: 清乾隆五十年
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4c0148.org][ZB4c0148]] 明文海
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0148
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1452.1, p1
+:EXTENT: 34 卷
+:BOOK:   35
+:DATE:   清乾隆五十年
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1711 - 1799
+      :END:
+
 :DYNASTY: 清
 :RESP: 黃宗羲
 :END:
