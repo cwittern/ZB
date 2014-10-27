@@ -25673,166 +25673,261 @@
 *** [[mandoku:ZB4d0029.org][ZB4d0029]] 竹坡詩詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周紫芝
+:SOURCE:   四庫全書 文淵閣版, V1480.5, p665
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周紫芝
+**** responsible:
+***** 周紫芝
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0030.org][ZB4d0030]] 文則
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳騤
+:SOURCE:   四庫全書 文淵閣版, V1480.6, p683
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳騤
+**** responsible:
+***** 陳騤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1128 - 1203
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0031.org][ZB4d0031]] 二老堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周必大
+:SOURCE:   四庫全書 文淵閣版, V1480.7, p709
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周必大
+**** responsible:
+***** 周必大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1126 - 1204
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0032.org][ZB4d0032]] 誠齋詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊萬里
+:SOURCE:   四庫全書 文淵閣版, V1480.8, p725
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊萬里
+**** responsible:
+***** 楊萬里
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1124 - 1206
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0033.org][ZB4d0033]] 餘師錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王正德
+:SOURCE:   四庫全書 文淵閣版, V1480.9, p747
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 王正德
+**** responsible:
+***** 王正德
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1193
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0034.org][ZB4d0034]] 滄浪詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嚴羽
+:SOURCE:   四庫全書 文淵閣版, V1480.10, p809
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 嚴羽
+**** responsible:
+***** 嚴羽
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0035.org][ZB4d0035]] 詩人玉屑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏慶之
+:SOURCE:   四庫全書 文淵閣版, V1481.1, p1
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 魏慶之
+**** responsible:
+***** 魏慶之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1240 - 1244
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB4d0036.org][ZB4d0036]] 後村詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉克莊
+:SOURCE:   四庫全書 文淵閣版, V1481.2, p301
+:EXTENT: 14 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 劉克莊
+**** responsible:
+***** 劉克莊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1187 - 1269
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0037.org][ZB4d0037]] 娛書堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙與虤
+:SOURCE:   四庫全書 文淵閣版, V1481.3, p461
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 趙與虤
+**** responsible:
+***** 趙與虤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1231
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0038.org][ZB4d0038]] 荊溪林下偶談
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳子良
+:SOURCE:   四庫全書 文淵閣版, V1481.4, p485
+:EXTENT: 4 卷
+:BOOK:   1
+:DATE:   1226
 :END:
-**** dynasty: 宋
-**** responsible: 吳子良
+**** responsible:
+***** 吳子良
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0039.org][ZB4d0039]] 草堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡夢弼
+:SOURCE:   四庫全書 文淵閣版, V1481.5, p519
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蔡夢弼
+**** responsible:
+***** 蔡夢弼
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1204
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0040.org][ZB4d0040]] 竹莊詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1481.6, p549
+:EXTENT: 24 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 何谿汶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0041.org][ZB4d0041]] 文章精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李耆卿
+:SOURCE:   四庫全書 文淵閣版, V1481.7, p803
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李耆卿
+**** responsible:
+***** 李耆卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0042.org][ZB4d0042]] 浩然齋雅談
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周密
+:SOURCE:   四庫全書 文淵閣版, V1481.8, p813
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周密
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0043.org][ZB4d0043]] 對床夜語
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范晞文
+:SOURCE:   四庫全書 文淵閣版, V1481.9, p853
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 范晞文
+**** responsible:
+***** 范晞文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1266
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0044.org][ZB4d0044]] 詩林廣記
