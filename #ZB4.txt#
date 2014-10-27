@@ -26011,73 +26011,103 @@
 *** [[mandoku:ZB4d0048.org][ZB4d0048]] 作義要訣
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0048
-:SOURCE:   四庫全書 文淵閣版, V1482.4, p289
-:EXTENT: 10 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1482.5, p371
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 潘昴霄
+***** 倪士毅
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    fl. 1315
+      :DATES:    fl. 1341
       :END:
 
-:DYNASTY: 元
-:RESP: 倪士毅
-:END:
-**** dynasty: 元
-**** responsible: 倪士毅
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0049.org][ZB4d0049]] 墓銘舉例
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王行
+:SOURCE:   四庫全書 文淵閣版, V1482.6, p379
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王行
+**** responsible:
+***** 王行
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1331 - 1395
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0050.org][ZB4d0050]] 懷麓堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李東陽
+:SOURCE:   四庫全書 文淵閣版, V1482.7, p435
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 李東陽
+**** responsible:
+***** 李東陽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1447 - 1516
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0051.org][ZB4d0051]] 頣山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 安磐
+:SOURCE:   四庫全書 文淵閣版, V1482.8, p459
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1505
 :END:
-**** dynasty: 明
-**** responsible: 安磐
+**** responsible:
+***** 安磐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0052.org][ZB4d0052]] 詩話補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V1482.9, p473
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1448 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0053.org][ZB4d0053]] 秇圃擷餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0053
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1482.10, p5009
+:EXTENT: 3 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1448 - 1559
+      :END:
+
 :DYNASTY: 明
 :RESP: 王世懋
 :END:
