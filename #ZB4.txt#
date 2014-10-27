@@ -24665,39 +24665,62 @@
 ***** 聖祖玄燁
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 御定
+      :FUNCTION: 敕編
       :DATES:    1654 - 1722
       :END:
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0143.org][ZB4c0143]] 御選唐宋文&
+*** [[mandoku:ZB4c0143.org][ZB4c0143]] 御選唐宋文醇
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0143
-:SOURCE:   四庫全書 文淵閣版, V1447.1, p1
-:EXTENT: 4 卷
-:BOOK:   3
-:DATE:   康熙六十一年
+:SOURCE:   四庫全書 文淵閣版, V1447.2, p99
+:EXTENT: 58 卷
+:BOOK:   30
+:DATE:   乾隆三年
 :END:
 **** responsible:
-***** 聖祖玄燁
+***** 高宗弘曆
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 御定
-      :DATES:    1654 - 1722
+      :FUNCTION: 敕編
+      :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清
-:RESP: 高宗弘曆
-:END:
-**** dynasty: 清
-**** responsible: 高宗弘曆
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0144.org][ZB4c0144]] 御選唐宋詩&
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (30)
+      :END:
+
+*** [[mandoku:ZB4c0144.org][ZB4c0144]] 御選唐宋詩醇
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0144
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1448.1, p1
+:EXTENT: 47 卷
+:BOOK:   28
+:DATE:   乾隆十五年
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1711 - 1799
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (30)
+      :END:
+
 :DYNASTY: 清
 :RESP: 高宗弘曆
 :END:
