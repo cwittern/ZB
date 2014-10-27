@@ -11,44 +11,88 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 孔鮒
+***** 卜商
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -507 - -400
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成註
+:PROPERTIES:
+:CUSTOM_ID:  ZB1a0002
+:SOURCE:   四庫全書 文淵閣版, V7.2, p129
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 鄭玄
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    fl. -221 - -207
+      :DATES:    127 - 200
       :END:
 
-:DYNASTY: 
-:RESP: 
-:END:
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成注
-:PROPERTIES:
-:CUSTOM_ID:  ZB1a0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
-:END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V7.3, p147
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    127 - 200
+      :END:
+
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
+***** 惠棟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0004
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V7.4, p147
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    127 - 200
+      :END:
+
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 :DYNASTY: 吳
 :RESP: 陸績
 :END:
