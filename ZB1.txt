@@ -6,79 +6,213 @@
 *** [[mandoku:ZB1a0001.org][ZB1a0001]] 子夏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V7.1, p1
+:EXTENT: 11 卷
+:BOOK:   4
 :END:
+**** responsible:
+***** 卜商
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -507 - -400
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成注
+*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V7.2, p129
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    127 - 200
+      :END:
+
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V7.3, p147
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    127 - 200
+      :END:
+
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
+***** 惠棟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 吳
-:RESP: 陸績
+:SOURCE:   四庫全書 文淵閣版, V7.4, p185
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 吳
-**** responsible: 陸績
+**** responsible:
+***** 陸績
+      :PROPERTIES:
+      :DYNASTY:  吳
+      :FUNCTION: 撰
+      :END:
+
+***** 姚士粦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0005.org][ZB1a0005]] 周易註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王弼
+:SOURCE:   四庫全書 文淵閣版, V7.5, p201
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 魏
-**** responsible: 王弼
+**** responsible:
+***** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 註
+      :DATES:    226 - 249
+      :END:
+
+***** 韓康伯
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易注疏
+*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易註疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王弼
+:SOURCE:   四庫全書 文淵閣版, V7.6, p283
+:EXTENT: 13 卷
+:BOOK:   12
 :END:
-**** dynasty: 魏
-**** responsible: 王弼
+**** responsible:
+***** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 注
+      :DATES:    226 - 249
+      :END:
+
+***** 韓康伯
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0006a.org][ZB1a0006a]] 周易註疏__周易略例
+**** [[mandoku:ZB1a0006a.org][ZB1a0006a]] (附)周易略例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 著
+      :DATES:    226 - 249
+      :END:
+
+****** 邢璹
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 朱良裘
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 李清植
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB1a0007.org][ZB1a0007]] 周易集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李鼎祚
+:SOURCE:   四庫全書 文淵閣版, V7.7, p603
+:EXTENT: 17 卷
+:BOOK:   8
 :END:
-**** dynasty: 唐
-**** responsible: 李鼎祚
+**** responsible:
+***** 李鼎祚
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
-***** WYG
+***** WYG<!--- here 2014-10-27 --->
 *** [[mandoku:ZB1a0008.org][ZB1a0008]] 周易口訣義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0008
