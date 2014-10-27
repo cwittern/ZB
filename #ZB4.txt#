@@ -26792,61 +26792,82 @@
 *** [[mandoku:ZB4e0029.org][ZB4e0029]] 逃禪詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0029
-:SOURCE:   四庫全書 文淵閣版, V1487.29, p623
+:SOURCE:   四庫全書 文淵閣版, V1487.30, p637
 :EXTENT: 1 卷
-:BOOK:   (1)
+:BOOK:   1
 :END:
 **** responsible:
-***** 侯寘
+***** 楊无咎
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 楊元咎
-:END:
-**** dynasty: 宋
-**** responsible: 楊元咎
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0030.org][ZB4e0030]] 于湖詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張孝洋
+:SOURCE:   四庫全書 文淵閣版, V1488.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張孝洋
+**** responsible:
+***** 張孝洋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1170
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0031.org][ZB4e0031]] 海野詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾覿
+:SOURCE:   四庫全書 文淵閣版, V1488.2, p31
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 曾覿
+**** responsible:
+***** 曾覿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0032.org][ZB4e0032]] 審齋詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王千秋
+:SOURCE:   四庫全書 文淵閣版, V1488.3, p49
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 王千秋
+**** responsible:
+***** 王千秋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0033.org][ZB4e0033]] 介菴詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0033
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1488.3, p49
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 王千秋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 趙彥端
 :END:
