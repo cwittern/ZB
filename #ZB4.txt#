@@ -24896,6 +24896,7 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 原本
+      :END:
 
 ***** 王士禛
       :PROPERTIES:
@@ -24909,62 +24910,100 @@
 *** [[mandoku:ZB4c0152.org][ZB4c0152]] 明詩綜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0152
-:SOURCE:   四庫全書 文淵閣版, V1459.3, p85
-:EXTENT: 7 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V1459.4, p173 - V1460.1
+:EXTENT: 100 卷
+:BOOK:   50
 :END:
 **** responsible:
-***** 洪遂
+***** 朱彝尊
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 原本
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1629 - 1709
+      :END:
 
-:DYNASTY: 清
-:RESP: 朱彝尊
-:END:
-**** dynasty: 清
-**** responsible: 朱彝尊
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0153.org][ZB4c0153]] 宋詩鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0153
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳之振
+:SOURCE:   四庫全書 文淵閣版, V1461.1, p1 - V1462.1
+:EXTENT: 106 卷
+:BOOK:   50
 :END:
-**** dynasty: 清
-**** responsible: 吳之振
+**** responsible:
+***** 吳之振
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1640 - 1717
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0154.org][ZB4c0154]] 宋元詩會
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0154
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳焯
+:SOURCE:   四庫全書 文淵閣版, V1463.1, p1 - V1464.1
+:EXTENT: 100 卷
+:BOOK:   50
 :END:
-**** dynasty: 清
-**** responsible: 陳焯
+**** responsible:
+***** 陳焯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    b. 1733
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0155.org][ZB4c0155]] 粵西詩載
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0155
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪森
+:SOURCE:   四庫全書 文淵閣版, V1465.1, p1 - V1467.1
+:EXTENT: 25 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 汪森
+**** responsible:
+***** 汪森
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1653 - 1726
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0155a.org][ZB4c0155a]] 粵西詩載__粵西文載
-*** [[mandoku:ZB4c0155b.org][ZB4c0155b]] 粵西詩載__粵西叢載
-*** [[mandoku:ZB4c0156.org][ZB4c0156]] 元詩選初集
+**** [[mandoku:ZB4c0155a.org][ZB4c0155a]] 粵西文載
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 75 卷
+      :BOOK:   54
+      :END:
+
+**** [[mandoku:ZB4c0155b.org][ZB4c0155b]] 粵西叢載
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 30 卷
+      :BOOK:   14
+      :END:
+
+*** [[mandoku:ZB4c0156.org][ZB4c0156]] 元詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0156
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V146.1, p1 - V1467.1
+:EXTENT: 25 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 汪森
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1653 - 1726
+      :END:
+
 :DYNASTY: 清
 :RESP: 顧嗣立
 :END:
