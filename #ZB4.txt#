@@ -24839,7 +24839,6 @@
 :SOURCE:   四庫全書 文淵閣版, V1453.1, p1 - V1458.1
 :EXTENT: 480 卷
 :BOOK:   202
-:DATE:   清乾隆五十年
 :END:
 **** responsible:
 ***** 黃宗羲
@@ -24854,40 +24853,72 @@
 *** [[mandoku:ZB4c0149.org][ZB4c0149]] 唐賢三昧集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0149
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王士禛
+:SOURCE:   四庫全書 文淵閣版, V1459.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 王士禛
+**** responsible:
+***** 王士禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1634 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0150.org][ZB4c0150]] 二家詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0150
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王士禛
+:SOURCE:   四庫全書 文淵閣版, V1459.2, p61
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 王士禛
+**** responsible:
+***** 王士禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1634 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0151.org][ZB4c0151]] 唐人萬首絕句選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0151
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王士禛
+:SOURCE:   四庫全書 文淵閣版, V1459.3, p85
+:EXTENT: 7 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 王士禛
+**** responsible:
+***** 洪遂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 原本
+
+***** 王士禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編選
+      :DATES:    1634 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0152.org][ZB4c0152]] 明詩綜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0152
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1459.3, p85
+:EXTENT: 7 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 洪遂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 原本
+
 :DYNASTY: 清
 :RESP: 朱彝尊
 :END:
