@@ -25043,31 +25043,47 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 編
-      :DATES:    1669 - 1722
       :END:
 
-:DYNASTY: 清
-:RESP: 聖祖玄燁
-:END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (54)
+      :END:
+
 *** [[mandoku:ZB4c0158.org][ZB4c0158]] 甬上耆舊詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0158
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡文學
+:SOURCE:   四庫全書 文淵閣版, V1474.1, p1
+:EXTENT: 30 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 胡文學
+**** responsible:
+***** 胡文學
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4c0159.org][ZB4c0159]] 檇李詩繫
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0159
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1474.1, p1
+:EXTENT: 30 卷
+:BOOK:   18
+:END:
+**** responsible:
+***** 胡文學
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 :DYNASTY: 清
 :RESP: 沈季友
 :END:
