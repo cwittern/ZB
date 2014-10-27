@@ -27014,84 +27014,130 @@
 *** [[mandoku:ZB4e0042.org][ZB4e0042]] 蒲江詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0042
-:SOURCE:   四庫全書 文淵閣版, V1488.13, p245
+:SOURCE:   四庫全書 文淵閣版, V1488.13, p253
 :EXTENT: 1 卷
-:BOOK:   1
+:BOOK:   (1)
 :END:
 **** responsible:
-***** 黃公度
+***** 廬祖皐
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1109 - 1156
       :END:
 
-:DYNASTY: 宋
-:RESP: 廬祖皐
-:END:
-**** dynasty: 宋
-**** responsible: 廬祖皐
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0043.org][ZB4e0043]] 平齋詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪咨夔
+:SOURCE:   四庫全書 文淵閣版, V1488.14, p259
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 洪咨夔
+**** responsible:
+***** 洪咨夔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0044.org][ZB4e0044]] 白石道人歌曲
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 姜夔
+:SOURCE:   四庫全書 文淵閣版, V1488.15, p269
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 姜夔
+**** responsible:
+***** 姜夔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    ca. 1155 - ca. 1235
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4e0045.org][ZB4e0045]] 夢窗甲稿
+**** 別集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB4e0045.org][ZB4e0045]] 夢窗稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳文英
+:SOURCE:   四庫全書 文淵閣版, V1488.16, p305
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 吳文英
+**** responsible:
+***** 吳文英
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB4e0046.org][ZB4e0046]] 惜香樂府
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙長卿
+:SOURCE:   四庫全書 文淵閣版, V1488.17, p375
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 趙長卿
+**** responsible:
+***** 趙長卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0047.org][ZB4e0047]] 龍洲詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉過
+:SOURCE:   四庫全書 文淵閣版, V1488.18, p433
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉過
+**** responsible:
+***** 劉過
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1154 - 1206
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0048.org][ZB4e0048]] 竹屋癡語
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0048
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1488.19, p445
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 劉過
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1154 - 1206
+      :END:
+
 :DYNASTY: 宋
 :RESP: 高觀國
 :END:
