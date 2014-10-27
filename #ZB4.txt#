@@ -24992,31 +24992,60 @@
 *** [[mandoku:ZB4c0156.org][ZB4c0156]] 元詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0156
-:SOURCE:   四庫全書 文淵閣版, V146.1, p1 - V1467.1
-:EXTENT: 25 卷
-:BOOK:   14
+:SOURCE:   四庫全書 文淵閣版, V1468.1, p1 - V1471.1
+:EXTENT: 111 卷
+:BOOK:   86
 :END:
 **** responsible:
-***** 汪森
+***** 顧嗣立
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 編
-      :DATES:    1653 - 1726
+      :DATES:    1669 - 1722
       :END:
 
-:DYNASTY: 清
-:RESP: 顧嗣立
-:END:
-**** dynasty: 清
-**** responsible: 顧嗣立
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4c0156a.org][ZB4c0156a]] 元詩選__二集
-*** [[mandoku:ZB4c0156b.org][ZB4c0156b]] 元詩選__三集
+**** 初集
+      :PROPERTIES:
+      :EXTENT: (68) 卷
+      :BOOK:   (47)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#)
+      :END:
+
+**** [[mandoku:ZB4c0156a.org][ZB4c0156a]] 二集
+      :PROPERTIES:
+      :EXTENT: (26) 卷
+      :BOOK:   (25)
+      :END:
+
+**** [[mandoku:ZB4c0156b.org][ZB4c0156b]] 三集
+      :PROPERTIES:
+      :EXTENT: (16) 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB4c0157.org][ZB4c0157]] 御定全唐詩錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4c0157
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1472.1, p1 - V1473.1
+:EXTENT: 100 卷
+:BOOK:   54
+:END:
+**** responsible:
+***** 徐倬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    1669 - 1722
+      :END:
+
 :DYNASTY: 清
 :RESP: 聖祖玄燁
 :END:
