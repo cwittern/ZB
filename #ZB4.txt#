@@ -27277,98 +27277,150 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4e0056.org][ZB4e0056]] 元籟集
+*** [[mandoku:ZB4e0056.org][ZB4e0056]] 天籟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0056
-:SOURCE:   四庫全書 文淵閣版, V1488.27, p623
-:EXTENT: 1 卷
-:BOOK:   (1)
+:SOURCE:   四庫全書 文淵閣版, V1488.27, p629
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 朱淑眞
+***** 白樸
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    fl. 1095 - 1131
       :END:
 
-:DYNASTY: 元
-:RESP: 白樸
-:END:
-**** dynasty: 元
-**** responsible: 白樸
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0057.org][ZB4e0057]] 蛻巖詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 張翥
+:SOURCE:   四庫全書 文淵閣版, V1488.28, p657
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 張翥
+**** responsible:
+***** 張翥
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1287 - 1368
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0058.org][ZB4e0058]] 珂雪詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 曹貞吉
+:SOURCE:   四庫全書 文淵閣版, V1488.29, p685
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 曹貞吉
+**** responsible:
+***** 曹貞吉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1634 - 1698
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0059.org][ZB4e0059]] 花間集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後蜀
-:RESP: 趙榮祚
+:SOURCE:   四庫全書 文淵閣版, V1489.1, p1
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 後蜀
-**** responsible: 趙榮祚
+**** responsible:
+***** 趙崇祚
+      :PROPERTIES:
+      :DYNASTY:  後蜀
+      :FUNCTION: 編
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB4e0060.org][ZB4e0060]] 尊前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1489.2, p67
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0061.org][ZB4e0061]] 梅苑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃大與
+:SOURCE:   四庫全書 文淵閣版, V1489.3, p97
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 黃大與
+**** responsible:
+***** 黃大與
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0062.org][ZB4e0062]] 樂府雅詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾慥
+:SOURCE:   四庫全書 文淵閣版, V1489.4, p167
+:EXTENT: 3 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 曾慥
+**** responsible:
+***** 曾慥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1148 - 1154
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB4e0063.org][ZB4e0063]] 花菴詞選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0063
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1489.5, p305
+:EXTENT: 3 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 曾慥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    fl. 1148 - 1154
+      :END:
+
 :DYNASTY: 宋
 :RESP: 黃昇
 :END:
