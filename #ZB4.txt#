@@ -26857,116 +26857,175 @@
 *** [[mandoku:ZB4e0033.org][ZB4e0033]] 介菴詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0033
-:SOURCE:   四庫全書 文淵閣版, V1488.3, p49
+:SOURCE:   四庫全書 文淵閣版, V1488.4, p61
 :EXTENT: 1 卷
-:BOOK:   (1)
+:BOOK:   1
 :END:
 **** responsible:
-***** 王千秋
+***** 趙彥端
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    d. 1175
       :END:
 
-:DYNASTY: 宋
-:RESP: 趙彥端
-:END:
-**** dynasty: 宋
-**** responsible: 趙彥端
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0034.org][ZB4e0034]] 歸愚詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛立方
+:SOURCE:   四庫全書 文淵閣版, V1488.5, p85
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葛立方
+**** responsible:
+***** 葛立方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1164
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0035.org][ZB4e0035]] 克齋詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈端節
+:SOURCE:   四庫全書 文淵閣版, V1488.6, p95
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 沈端節
+**** responsible:
+***** 沈端節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0036.org][ZB4e0036]] 龍川詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳亮
+:SOURCE:   四庫全書 文淵閣版, V1488.7, p103
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 陳亮
+**** responsible:
+***** 陳亮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1143 - 1194
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4e0037.org][ZB4e0037]] 稼軒詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 辛棄疾
+:SOURCE:   四庫全書 文淵閣版, V1488.8, p111
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 辛棄疾
+**** responsible:
+***** 辛棄疾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1140 - 1207
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0038.org][ZB4e0038]] 西樵語業
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊炎正
+:SOURCE:   四庫全書 文淵閣版, V1488.9, p203
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊炎正
+**** responsible:
+***** 楊炎正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0039.org][ZB4e0039]] 樵隱詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 毛幵
+:SOURCE:   四庫全書 文淵閣版, V1488.10, p213
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 毛幵
+**** responsible:
+***** 毛幵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0040.org][ZB4e0040]] 放翁詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸游
+:SOURCE:   四庫全書 文淵閣版, V1488.11, p223
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陸游
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0041.org][ZB4e0041]] 知稼翁詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃公度
+:SOURCE:   四庫全書 文淵閣版, V1488.12, p245
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 黃公度
+**** responsible:
+***** 黃公度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1109 - 1156
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0042.org][ZB4e0042]] 蒲江詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0042
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1488.13, p245
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 黃公度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1109 - 1156
+      :END:
+
 :DYNASTY: 宋
 :RESP: 廬祖皐
 :END:

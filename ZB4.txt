@@ -26302,399 +26302,632 @@
 *** [[mandoku:ZB4e0001.org][ZB4e0001]] 珠玉詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晏殊
+:SOURCE:   四庫全書 文淵閣版, V1487.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晏殊
+**** responsible:
+***** 晏殊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    991 - 1055
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0002.org][ZB4e0002]] 六一詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽修
+:SOURCE:   四庫全書 文淵閣版, V1487.2, p21
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽修
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0003.org][ZB4e0003]] 樂章集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 柳永
+:SOURCE:   四庫全書 文淵閣版, V1487.3, p43
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1034
 :END:
-**** dynasty: 宋
-**** responsible: 柳永
+**** responsible:
+***** 柳永
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0004.org][ZB4e0004]] 安陸集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張先
+:SOURCE:   四庫全書 文淵閣版, V1487.4, p79
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張先
+**** responsible:
+***** 張先
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    990 - 1078
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0005.org][ZB4e0005]] 東坡詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V1487.5, p101
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0006.org][ZB4e0006]] 山谷詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃庭堅
+:SOURCE:   四庫全書 文淵閣版, V1487.6, p151
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 黃庭堅
+**** responsible:
+***** 黃庭堅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1045 - 1105
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0007.org][ZB4e0007]] 淮海詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 秦觀
+:SOURCE:   四庫全書 文淵閣版, V1487.7, p179
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 秦觀
+**** responsible:
+***** 秦觀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1049 - 1109
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0008.org][ZB4e0008]] 書舟詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程垓
+:SOURCE:   四庫全書 文淵閣版, V1487.8, p195
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 程垓
+**** responsible:
+***** 程垓
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0009.org][ZB4e0009]] 小山詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晏幾道
+:SOURCE:   四庫全書 文淵閣版, V1487.9, p219
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晏幾道
+**** responsible:
+***** 晏幾道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    ca. 1030 - 1106
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0010.org][ZB4e0010]] 晁无咎詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁補之
+:SOURCE:   四庫全書 文淵閣版, V1487.10, p253
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晁補之
+**** responsible:
+***** 晁補之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0011.org][ZB4e0011]] 姑溪詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李之儀
+:SOURCE:   四庫全書 文淵閣版, V1487.11, p281
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李之儀
+**** responsible:
+***** 李之儀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1085 - 1102
+      :END:
+
+**** textual witnesses
+***** WYG
+*** no id 溪堂詞
+:PROPERTIES:
+:SOURCE:   四庫全書 文淵閣版, V1487.12, p297
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 謝逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0012.org][ZB4e0012]] 東堂詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 毛滂
+:SOURCE:   四庫全書 文淵閣版, V1487.13, p307
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 毛滂
+**** responsible:
+***** 毛滂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0013.org][ZB4e0013]] 片玉詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周邦彥
+:SOURCE:   四庫全書 文淵閣版, V1487.14, p337
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周邦彥
+**** responsible:
+***** 周邦彥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1057 - 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4e0014.org][ZB4e0014]] 初寮詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王安中
+:SOURCE:   四庫全書 文淵閣版, V1487.15, p373
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王安中
+**** responsible:
+***** 王安中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0015.org][ZB4e0015]] 聖求詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吕濱老
+:SOURCE:   四庫全書 文淵閣版, V1487.16, p383
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 吕濱老
+**** responsible:
+***** 呂濱老
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0016.org][ZB4e0016]] 友古詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡伸
+:SOURCE:   四庫全書 文淵閣版, V1487.17, p405
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 蔡伸
+**** responsible:
+***** 蔡伸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1156
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0017.org][ZB4e0017]] 和清眞詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方千里
+:SOURCE:   四庫全書 文淵閣版, V1487.18, p431
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 方千里
+**** responsible:
+***** 方千里
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0018.org][ZB4e0018]] 石林詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V1487.19, p449
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0019.org][ZB4e0019]] 丹陽詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛勝仲
+:SOURCE:   四庫全書 文淵閣版, V1487.20, p467
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 葛勝仲
+**** responsible:
+***** 葛勝仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1072 - 1144
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0020.org][ZB4e0020]] 筠谿樂府
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李彌遜
+:SOURCE:   四庫全書 文淵閣版, V1487.21, p479
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李彌遜
+**** responsible:
+***** 李彌遜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1153
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0021.org][ZB4e0021]] 坦菴詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙師使
+:SOURCE:   四庫全書 文淵閣版, V1487.22, p499
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 趙師使
+**** responsible:
+***** 趙師使
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0022.org][ZB4e0022]] 酒邊詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 向子諲
+:SOURCE:   四庫全書 文淵閣版, V1487.23, p523
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 向子諲
+**** responsible:
+***** 向子諲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1086 - 1153
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0023.org][ZB4e0023]] 無住詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳與義
+:SOURCE:   四庫全書 文淵閣版, V1487.24, p549
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳與義
+**** responsible:
+***** 陳與義
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0024.org][ZB4e0024]] 漱玉詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李清照
+:SOURCE:   四庫全書 文淵閣版, V1487.25, p555
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 李清照
+**** responsible:
+***** 李清照
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1081 - ca. 1141
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0025.org][ZB4e0025]] 竹坡詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周紫芝
+:SOURCE:   四庫全書 文淵閣版, V1487.26, p561
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周紫芝
+**** responsible:
+***** 周紫芝
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0026.org][ZB4e0026]] 蘆川詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張元幹
+:SOURCE:   四庫全書 文淵閣版, V1487.27, p585
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張元幹
+**** responsible:
+***** 張元幹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1067 - 1143
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0027.org][ZB4e0027]] 東浦詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 韓玉
+:SOURCE:   四庫全書 文淵閣版, V1487.28, p615
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 金
-**** responsible: 韓玉
+**** responsible:
+***** 韓玉
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0028.org][ZB4e0028]] 孏窟詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 侯寘
+:SOURCE:   四庫全書 文淵閣版, V1487.29, p623
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 侯寘
+**** responsible:
+***** 侯寘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0029.org][ZB4e0029]] 逃禪詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊元咎
+:SOURCE:   四庫全書 文淵閣版, V1487.30, p637
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊元咎
+**** responsible:
+***** 楊无咎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0030.org][ZB4e0030]] 于湖詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張孝洋
+:SOURCE:   四庫全書 文淵閣版, V1488.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張孝洋
+**** responsible:
+***** 張孝洋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1170
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0031.org][ZB4e0031]] 海野詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曾覿
+:SOURCE:   四庫全書 文淵閣版, V1488.2, p31
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 曾覿
+**** responsible:
+***** 曾覿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0032.org][ZB4e0032]] 審齋詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王千秋
+:SOURCE:   四庫全書 文淵閣版, V1488.3, p49
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 王千秋
+**** responsible:
+***** 王千秋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0033.org][ZB4e0033]] 介菴詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙彥端
+:SOURCE:   四庫全書 文淵閣版, V1488.4, p61
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 趙彥端
+**** responsible:
+***** 趙彥端
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1175
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0034.org][ZB4e0034]] 歸愚詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛立方
+:SOURCE:   四庫全書 文淵閣版, V1488.5, p85
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 葛立方
+**** responsible:
+***** 葛立方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1164
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0035.org][ZB4e0035]] 克齋詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈端節
+:SOURCE:   四庫全書 文淵閣版, V1488.6, p95
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 沈端節
+**** responsible:
+***** 沈端節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0036.org][ZB4e0036]] 龍川詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳亮
+:SOURCE:   四庫全書 文淵閣版, V1488.7, p103
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 陳亮
+**** responsible:
+***** 陳亮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1143 - 1194
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB4e0037.org][ZB4e0037]] 稼軒詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0037
