@@ -75,54 +75,103 @@
 *** [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0004
-:SOURCE:   四庫全書 文淵閣版, V7.4, p147
-:EXTENT: 3 卷
+:SOURCE:   四庫全書 文淵閣版, V7.4, p185
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
-***** 鄭玄
+***** 陸績
       :PROPERTIES:
-      :DYNASTY:  漢
+      :DYNASTY:  吳
       :FUNCTION: 撰
-      :DATES:    127 - 200
       :END:
 
-***** 王應麟
+***** 姚士粦
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  明
       :FUNCTION: 輯
       :END:
 
-:DYNASTY: 吳
-:RESP: 陸績
-:END:
-**** dynasty: 吳
-**** responsible: 陸績
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0005.org][ZB1a0005]] 周易註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王弼
+:SOURCE:   四庫全書 文淵閣版, V7.5, p201
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 魏
-**** responsible: 王弼
+**** responsible:
+***** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 註
+      :DATES:    226 - 249
+      :END:
+
+***** 韓康伯
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易注疏
+*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易註疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 王弼
+:SOURCE:   四庫全書 文淵閣版, V7.6, p283
+:EXTENT: 13 卷
+:BOOK:   12
 :END:
-**** dynasty: 魏
-**** responsible: 王弼
+**** responsible:
+***** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 注
+      :DATES:    226 - 249
+      :END:
+
+***** 韓康伯
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0006a.org][ZB1a0006a]] 周易註疏__周易略例
+**** [[mandoku:ZB1a0006a.org][ZB1a0006a]] (附)周易略例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 王弼
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 著
+      :DATES:    226 - 249
+      :END:
+
+****** 邢璹
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0007.org][ZB1a0007]] 周易集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0007
