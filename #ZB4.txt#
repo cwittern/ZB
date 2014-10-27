@@ -26437,68 +26437,103 @@
 *** [[mandoku:ZB4e0009.org][ZB4e0009]] 小山詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0009
-:SOURCE:   四庫全書 文淵閣版, V1487.9, p19
+:SOURCE:   四庫全書 文淵閣版, V1487.9, p219
 :EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
-***** 程垓
+***** 晏幾道
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    ca. 1030 - 1106
       :END:
 
-:DYNASTY: 宋
-:RESP: 晏幾道
-:END:
-**** dynasty: 宋
-**** responsible: 晏幾道
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0010.org][ZB4e0010]] 晁无咎詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁補之
+:SOURCE:   四庫全書 文淵閣版, V1487.10, p253
+:EXTENT: 6 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 晁補之
+**** responsible:
+***** 晁補之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0011.org][ZB4e0011]] 姑溪詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李之儀
+:SOURCE:   四庫全書 文淵閣版, V1487.11, p281
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李之儀
+**** responsible:
+***** 李之儀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1085 - 1102
+      :END:
+
+**** textual witnesses
+***** WYG
+*** no id 溪堂詞
+:PROPERTIES:
+:SOURCE:   四庫全書 文淵閣版, V1487.12, p297
+:EXTENT: 1 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 謝逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0012.org][ZB4e0012]] 東堂詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 毛滂
+:SOURCE:   四庫全書 文淵閣版, V1487.13, p307
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 毛滂
+**** responsible:
+***** 毛滂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0013.org][ZB4e0013]] 片玉詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周邦彥
+:SOURCE:   四庫全書 文淵閣版, V1487.14, p337
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周邦彥
+**** responsible:
+***** 周邦彥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1057 - 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB4e0014.org][ZB4e0014]] 初寮詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0014
