@@ -26096,85 +26096,148 @@
 *** [[mandoku:ZB4d0053.org][ZB4d0053]] 秇圃擷餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0053
-:SOURCE:   四庫全書 文淵閣版, V1482.10, p5009
-:EXTENT: 3 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V1482.10, p509
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 楊愼
+***** 王世懋
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1448 - 1559
+      :DATES:    1536 - 1588
       :END:
 
-:DYNASTY: 明
-:RESP: 王世懋
-:END:
-**** dynasty: 明
-**** responsible: 王世懋
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0054.org][ZB4d0054]] 唐音癸籤
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡震亨
+:SOURCE:   四庫全書 文淵閣版, V1482.11, p519
+:EXTENT: 33 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 胡震亨
+**** responsible:
+***** 胡震亨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1569 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0055.org][ZB4d0055]] 歷代詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳景旭
+:SOURCE:   四庫全書 文淵閣版, V1483.1, p1
+:EXTENT: 80 卷
+:BOOK:   36
 :END:
-**** dynasty: 清
-**** responsible: 吳景旭
+**** responsible:
+***** 吳景旭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0056.org][ZB4d0056]] 金石要例
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃宗羲
+:SOURCE:   四庫全書 文淵閣版, V1483.2, p819
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 黃宗羲
+**** responsible:
+***** 黃宗羲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1610 - 1695
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0057.org][ZB4d0057]] 漁洋詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王士禎
+:SOURCE:   四庫全書 文淵閣版, V1483.3, p831
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 王士禎
+**** responsible:
+***** 王士禎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1634 - 1711
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0057a.org][ZB4d0057a]] 師友詩傳錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB4d0057a
+:SOURCE:   四庫全書 文淵閣版, V1483.4, p881
+:EXTENT: 1 卷
+:BOOK:   (3)
+:END:
+**** responsible:
+***** 郎廷槐
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 師友詩傳續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 劉大勤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB4d0058.org][ZB4d0058]] 聲調譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 趙執信
+:SOURCE:   四庫全書 文淵閣版, V1483.5, p903
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 趙執信
+**** responsible:
+***** 趙執信
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1662 - 1744
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0059.org][ZB4d0059]] 談龍錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0059
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1483.6, p913
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 趙執信
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1662 - 1744
+      :END:
+
 :DYNASTY: 清
 :RESP: 趙執信
 :END:
