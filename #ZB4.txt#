@@ -25208,84 +25208,149 @@
 *** [[mandoku:ZB4d0004.org][ZB4d0004]] 文章緣起
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 任昉
+:SOURCE:   四庫全書 文淵閣版, V1478.4, p203
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 任昉
+**** responsible:
+***** 任昉
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    460 - 508
+      :END:
+
+***** 陳懋仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 注
+      :END:
+
+***** 方熊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0005.org][ZB4d0005]] 本事詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 孟棨
+:SOURCE:   四庫全書 文淵閣版, V1478.5, p231
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 孟棨
+**** responsible:
+***** 孟棨
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 886
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0006.org][ZB4d0006]] 六一詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽修
+:SOURCE:   四庫全書 文淵閣版, V1478.6, p247
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽修
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0007.org][ZB4d0007]] 續詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V1478.7, p257
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0008.org][ZB4d0008]] 中山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉攽
+:SOURCE:   四庫全書 文淵閣版, V1478.8, p265
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉攽
+**** responsible:
+***** 劉攽
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1022 - 1088
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0009.org][ZB4d0009]] 後山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋陳師道
+:SOURCE:   四庫全書 文淵閣版, V1478.9, p279
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋陳師道
+**** responsible:
+***** 陳師道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0010.org][ZB4d0010]] 臨漢隱居詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏泰
+:SOURCE:   四庫全書 文淵閣版, V1478.10, p291
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 魏泰
+**** responsible:
+***** 魏泰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1082
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0011.org][ZB4d0011]] 優古堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1478.11, p299
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 魏泰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1082
+      :END:
+
 :DYNASTY: 宋
 :RESP: 吳幵
 :END:
