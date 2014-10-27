@@ -25344,36 +25344,59 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 魏泰
+***** 吳幵
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1082
+      :DATES:    fl. 1097 - 1132
       :END:
 
-:DYNASTY: 宋
-:RESP: 吳幵
-:END:
-**** dynasty: 宋
-**** responsible: 吳幵
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4d0012.org][ZB4d0012]] 詩話總龜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 阮閱
+:SOURCE:   四庫全書 文淵閣版, V1478.12, p329
+:EXTENT: 98 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 阮閱
+**** responsible:
+***** 阮閱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0012a.org][ZB4d0012a]] 詩話總龜__後集
+**** 前集
+      :PROPERTIES:
+      :EXTENT: (48) 卷
+      :BOOK:   (11)
+      :END:
+
+**** [[mandoku:ZB4d0012a.org][ZB4d0012a]] 後集
+      :PROPERTIES:
+      :EXTENT: (50) 卷
+      :BOOK:   (13)
+      :END:
+
 *** [[mandoku:ZB4d0013.org][ZB4d0013]] 彥周詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0013
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1478.13, p907
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 阮閱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1126
+      :END:
+
 :DYNASTY: 宋
 :RESP: 許顗
 :END:
