@@ -27410,73 +27410,118 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0063
 :SOURCE:   四庫全書 文淵閣版, V1489.5, p305
-:EXTENT: 3 卷
-:BOOK:   4
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 曾慥
+***** 黃昇
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 編
-      :DATES:    fl. 1148 - 1154
+      :DATES:    fl. 1240 - 1249
       :END:
 
-:DYNASTY: 宋
-:RESP: 黃昇
-:END:
-**** dynasty: 宋
-**** responsible: 黃昇
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4e0063a.org][ZB4e0063a]] 花菴詞選__續集
+**** [[mandoku:ZB4e0063a.org][ZB4e0063a]] 續集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB4e0064.org][ZB4e0064]] 草堂詞餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1489.6, p531
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0065.org][ZB4e0065]] 絕妙好詞箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 查爲仁
+:SOURCE:   四庫全書 文淵閣版, V1490.1, p1
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 查爲仁
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1232 - 1308
+      :END:
+
+***** 查爲仁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 箋
+      :END:
+
+***** 厲鶚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 箋
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0066.org][ZB4e0066]] 樂府補題
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V1490.2, p101
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 陳恕可
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0067.org][ZB4e0067]] 花草稡編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳耀文
+:SOURCE:   四庫全書 文淵閣版, V1409.3, p113
+:EXTENT: 24 卷
+:BOOK:   22
+:DATE:   1550
 :END:
-**** dynasty: 明
-**** responsible: 陳耀文
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB4e0068.org][ZB4e0068]] 御選歷代詩餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0068
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V1410.3, p113
+:EXTENT: 24 卷
+:BOOK:   22
+:DATE:   1550
+:END:
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 :DYNASTY: 清
 :RESP: 玄燁
 :END:
