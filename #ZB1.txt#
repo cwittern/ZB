@@ -2442,68 +2442,98 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0122
 :SOURCE:   四庫全書 文淵閣版, V40.1, p1
-:EXTENT: 10 卷
-:BOOK:   10
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 錢澄之
+***** 黃宗羲
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1612 - 1693
+      :DATES:    1610 - 1695
       :END:
 
-:DYNASTY: 清
-:RESP: 黃宗羲
-:END:
-**** dynasty: 清
-**** responsible: 黃宗羲
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0123.org][ZB1a0123]] 周易象辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0123
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃宗炎
+:SOURCE:   四庫全書 文淵閣版, V40.2, p155
+:EXTENT: 22 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 黃宗炎
+**** responsible:
+***** 黃宗炎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1616 - 1686
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0123a.org][ZB1a0123a]] 周易象辭__周易尋門餘論
-*** [[mandoku:ZB1a0123b.org][ZB1a0123b]] 周易象辭__圖學辯惑
+**** [[mandoku:ZB1a0123a.org][ZB1a0123a]] (附)周易尋門餘論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
+**** [[mandoku:ZB1a0123b.org][ZB1a0123b]] 圖學辯惑
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB1a0124.org][ZB1a0124]] 周易筮述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0124
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王弘撰
+:SOURCE:   四庫全書 文淵閣版, V41.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 王弘撰
+**** responsible:
+***** 王弘撰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0125.org][ZB1a0125]] 仲氏易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0125
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V41.2, p183
+:EXTENT: 30 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0126.org][ZB1a0126]] 推易始末
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0126
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V41.3, p479
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0127.org][ZB1a0127]] 春秋占筮書
