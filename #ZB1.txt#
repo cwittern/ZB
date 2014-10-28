@@ -295,102 +295,188 @@
 **** 繫辭
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: 2 卷
+      :BOOK:   (12)
       :END:
 
-*** [[mandoku:ZB1a0012.org][ZB1a0012]] 易說
+**** 卷末　說卦　序卦　雜卦
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+*** [[mandoku:ZB1a0012.org][ZB1a0012]] 溫公易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V8.5, p565
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0013.org][ZB1a0013]] 橫渠易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張載
+:SOURCE:   四庫全書 文淵閣版, V8.6, p659
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張載
+**** responsible:
+***** 張載
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)橫渠先生行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 呂大臨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0014.org][ZB1a0014]] 東坡易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V9.1, p1
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0015.org][ZB1a0015]] 伊川易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程頤
+:SOURCE:   四庫全書 文淵閣版, V9.2, p155
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程頤
+**** responsible:
+***** 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1033 - 1107
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0016.org][ZB1a0016]] 易學辨惑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 邵伯溫
+:SOURCE:   四庫全書 文淵閣版, V9.3, p401
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 邵伯溫
+**** responsible:
+***** 邵伯溫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1057 - 1134
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0017.org][ZB1a0017]] 了齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳瓘
+:SOURCE:   四庫全書 文淵閣版, V9.4, p413
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳瓘
+**** responsible:
+***** 陳瓘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1062 - 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0018.org][ZB1a0018]] 吳園周易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張根
+:SOURCE:   四庫全書 文淵閣版, V9.5, p459
+:EXTENT: 9 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張根
+**** responsible:
+***** 張根
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1061 - 1120
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB1a0019.org][ZB1a0019]] 周易新講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 耿南仲
+:SOURCE:   四庫全書 文淵閣版, V9.6, p577
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 耿南仲
+**** responsible:
+***** 耿南仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1112 - 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0020.org][ZB1a0020]] 紫巖易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0020
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V10.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 張浚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1112 - 16
+      :END:
+
 :DYNASTY: 宋
 :RESP: 張浚
 :END:
