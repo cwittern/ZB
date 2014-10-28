@@ -2299,72 +2299,136 @@
       :FUNCTION: 奉敕撰
       :END:
 
-:DYNASTY: 清
-:RESP: 牛鈕
-:END:
-**** dynasty: 清
-**** responsible: 牛鈕
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0116.org][ZB1a0116]] 御纂周易折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0116
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V38.1, p1
+:EXTENT: 22 卷
+:BOOK:   20
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB1a0117.org][ZB1a0117]] 御纂周易述義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0117
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅恆
+:SOURCE:   四庫全書 文淵閣版, V38.2, p595
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 傅恆
+**** responsible:
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0118.org][ZB1a0118]] 讀易大旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0118
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫奇逢
+:SOURCE:   四庫全書 文淵閣版, V39.1, p1
+:EXTENT: 5 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 孫奇逢
+**** responsible:
+***** 孫奇逢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1584 - 1675
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB1a0119.org][ZB1a0119]] 周易稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0119
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王夫之
+:SOURCE:   四庫全書 文淵閣版, V39.2, p133
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 王夫之
+**** responsible:
+***** 王夫之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1619 - 1692
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考異
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1a0120.org][ZB1a0120]] 易酌
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0120
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 刁包
+:SOURCE:   四庫全書 文淵閣版, V39.3, p165
+:EXTENT: 14 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 刁包
+**** responsible:
+***** 刁包
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1603 - 1669
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0121.org][ZB1a0121]] 田閒易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0121
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V39.3, p165
+:EXTENT: 14 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 刁包
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1603 - 1669
+      :END:
+
 :DYNASTY: 明
 :RESP: 錢澄之
 :END:
