@@ -1625,81 +1625,139 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0081.org][ZB1a0081]] 周易集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 龍仁夫
+:SOURCE:   四庫全書 文淵閣版, V25.3, p417
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 龍仁夫
+**** responsible:
+***** 龍仁夫
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1321
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0082.org][ZB1a0082]] 讀易考原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 蕭漢中
+:SOURCE:   四庫全書 文淵閣版, V25.4, p509
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 蕭漢中
+**** responsible:
+***** 蕭漢中
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0083.org][ZB1a0083]] 易精蘊大義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 解蒙
+:SOURCE:   四庫全書 文淵閣版, V25.5, p537
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 解蒙
+**** responsible:
+***** 解蒙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0084.org][ZB1a0084]] 易學變通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 曾貫
+:SOURCE:   四庫全書 文淵閣版, V26.1, p1
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 曾貫
+**** responsible:
+***** 曾貫
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0085.org][ZB1a0085]] 周易會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 董眞卿
+:SOURCE:   四庫全書 文淵閣版, V26.2, p69
+:EXTENT: 14 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 董眞卿
+**** responsible:
+***** 董眞卿
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0086.org][ZB1a0086]] 周易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 錢義方
+:SOURCE:   四庫全書 文淵閣版, V26.3, p617
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 錢義方
+**** responsible:
+***** 錢義方
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1346
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0087.org][ZB1a0087]] 周易爻變易縕
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳應潤
+:SOURCE:   四庫全書 文淵閣版, V27.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 陳應潤
+**** responsible:
+***** 陳應潤
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0088.org][ZB1a0088]] 周易參義
