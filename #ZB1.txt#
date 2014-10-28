@@ -634,27 +634,39 @@
 :SOURCE:   四庫全書 文淵閣版, V12.3, p599
 :EXTENT: 1 卷
 :BOOK:   1
+:DATE:   1163
 :END:
 **** responsible:
 ***** 程迥
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1123 - 1195
       :END:
 
-:DYNASTY: 宋
-:RESP: 程迥
-:END:
-**** dynasty: 宋
-**** responsible: 程迥
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0029a.org][ZB1a0029a]] 周易章句外編
+**** [[mandoku:ZB1a0029a.org][ZB1a0029a]] 周易章句外編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB1a0030.org][ZB1a0030]] 原本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0030
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V12.4, p625
+:EXTENT: 12 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+:DATE:   1163
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱熹
 :END:
