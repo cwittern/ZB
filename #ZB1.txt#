@@ -1258,45 +1258,67 @@
 *** [[mandoku:ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡方平
+:SOURCE:   四庫全書 文淵閣版, V20.2, p653
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡方平
+**** responsible:
+***** 胡方平
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0062.org][ZB1a0062]] 三易備遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱元昇
+:SOURCE:   四庫全書 文淵閣版, V20.3, p741
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 朱元昇
+**** responsible:
+***** 朱元昇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0063.org][ZB1a0063]] 周易集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞琰
+:SOURCE:   四庫全書 文淵閣版, V21.1, p1
+:EXTENT: 40 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 俞琰
+**** responsible:
+***** 兪琰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1258 - 1314
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0064.org][ZB1a0064]] 讀易擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞琰
+:SOURCE:   四庫全書 文淵閣版, V21.2, p395
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 俞琰
+**** responsible:
+***** 兪琰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1258 - 1314
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0065.org][ZB1a0065]] 易象義
