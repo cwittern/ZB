@@ -664,53 +664,90 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-:DATE:   1163
+      :DATES:    1130 - 1200
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱熹
-:END:
-**** dynasty: 宋
-**** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0031.org][ZB1a0031]] 周易本義
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB1a0031.org][ZB1a0031]] 別本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V12.5, p705
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 成矩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭雍
+:SOURCE:   四庫全書 文淵閣版, V13.1, p1
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 郭雍
+**** responsible:
+***** 郭雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1104
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0033.org][ZB1a0033]] 周易義海撮要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李衡
+:SOURCE:   四庫全書 文淵閣版, V13.2, p275
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 李衡
+**** responsible:
+***** 李衡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1100 - 1178
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0034.org][ZB1a0034]] 南軒易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0034
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V13.2, p275
+:EXTENT: 12 卷
+:BOOK:   10
+:END:
+**** responsible:
+***** 李衡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1100 - 1178
+      :END:
+
 :DYNASTY: 宋
 :RESP: 張栻
 :END:
