@@ -3215,127 +3215,201 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0159
 :SOURCE:   四庫全書 文淵閣版, V53.3, p671
-:EXTENT: 24 卷
-:BOOK:   6
-:DATE:   1741
+:EXTENT: 12 卷
+:BOOK:   5
+:DATE:   1765
 :END:
 **** responsible:
-***** 趙繼序
+***** 翟圴廉
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 清
-:RESP: 翟圴廉
-:END:
-**** dynasty: 清
-**** responsible: 翟圴廉
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0160.org][ZB1a0160]] 乾坤鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0160
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.4, p821
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0161.org][ZB1a0161]] 易緯稽覽圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0161
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.5, p840
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0162.org][ZB1a0162]] 易緯辨終備
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0162
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.6, p864
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0163.org][ZB1a0163]] 周易乾鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0163
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.7, p866
+:EXTENT: 2 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0164.org][ZB1a0164]] 易緯通卦驗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0164
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.8, p884
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0165.org][ZB1a0165]] 易緯乾元序制記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0165
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.9, p899
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0166.org][ZB1a0166]] 易緯是類謀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0166
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.10, p903
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0167.org][ZB1a0167]] 易緯坤靈圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0167
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V53.11, p909
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 孔安國
+:SOURCE:   四庫全書 文淵閣版, V54.1, p1
+:EXTENT: 19 卷
+:BOOK:   12
 :END:
-**** dynasty: 漢
-**** responsible: 孔安國
+**** responsible:
+***** 孔安國
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 傳
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考證
+      :END:
+
+***** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考證
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0169.org][ZB1a0169]] 洪範口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0169
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V54.2, p451
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 孔安國
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 傳
+      :END:
+
 :DYNASTY: 宋
 :RESP: 胡瑗
 :END:
