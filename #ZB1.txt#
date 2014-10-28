@@ -2235,40 +2235,70 @@
 *** [[mandoku:ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0113
-:SOURCE:   四庫全書 文淵閣版, V36.1, p1
-:EXTENT: 16 卷
-:BOOK:   10
-:DATE:   1625
+:SOURCE:   四庫全書 文淵閣版, V36.2, p383
+:EXTENT: 15 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 何楷
+***** 張次仲
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
+      :DATES:    1589 - 1676
       :END:
 
-:DYNASTY: 清
-:RESP: 張次仲
-:END:
-**** dynasty: 清
-**** responsible: 張次仲
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0114.org][ZB1a0114]] 易經通注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0114
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 曹本榮
+:SOURCE:   四庫全書 文淵閣版, V37.1, p1
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 曹本榮
+**** responsible:
+***** 傅以漸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1609 - 1665
+      :END:
+
+***** 曹本榮
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0115.org][ZB1a0115]] 日講易經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0115
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V37.2, p201
+:EXTENT: 18 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 牛鈕
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 孫在豐
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 牛鈕
 :END:
