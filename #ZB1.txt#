@@ -2414,32 +2414,45 @@
       :BOOK:   (12)
       :END:
 
-*** [[mandoku:ZB1a0121.org][ZB1a0121]] 田閒易學
+*** [[mandoku:ZB1a0121.org][ZB1a0121]] 田間易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0121
-:SOURCE:   四庫全書 文淵閣版, V39.3, p165
-:EXTENT: 14 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V39.4, p597
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
 **** responsible:
-***** 刁包
+***** 錢澄之
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1603 - 1669
+      :DATES:    1612 - 1693
       :END:
 
-:DYNASTY: 明
-:RESP: 錢澄之
-:END:
-**** dynasty: 明
-**** responsible: 錢澄之
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0122.org][ZB1a0122]] 易學象數論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0122
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V40.1, p1
+:EXTENT: 10 卷
+:BOOK:   10
+:END:
+**** responsible:
+***** 錢澄之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1612 - 1693
+      :END:
+
 :DYNASTY: 清
 :RESP: 黃宗羲
 :END:
