@@ -1324,93 +1324,163 @@
 *** [[mandoku:ZB1a0065.org][ZB1a0065]] 易象義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 丁易東
+:SOURCE:   四庫全書 文淵閣版, V21.3, p473
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 丁易東
+**** responsible:
+***** 丁易東
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:易統論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0066.org][ZB1a0066]] 易圖通變
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 雷思齊
+:SOURCE:   四庫全書 文淵閣版, V21.4, p789
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 雷思齊
+**** responsible:
+***** 雷思齊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1230 - 1301
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0066a.org][ZB1a0066a]] 易圖通變__易筮通變
+**** [[mandoku:ZB1a0066a.org][ZB1a0066a]] 易筮通變
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   1
+      :END:
+
 *** [[mandoku:ZB1a0067.org][ZB1a0067]] 讀易私言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 許衡
+:SOURCE:   四庫全書 文淵閣版, V22.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 許衡
+**** responsible:
+***** 許衡
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1209 - 1281
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0068.org][ZB1a0068]] 易附錄纂註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡一桂
+:SOURCE:   四庫全書 文淵閣版, V22.2, p9
+:EXTENT: 15 卷
+:BOOK:   5
 :END:
-**** dynasty: 元
-**** responsible: 胡一桂
+**** responsible:
+***** 胡一桂
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0069.org][ZB1a0069]] 周易啟蒙翼傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡一桂
+:SOURCE:   四庫全書 文淵閣版, V22.3, p199
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 胡一桂
+**** responsible:
+***** 胡一桂
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0070.org][ZB1a0070]] 易纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V22.4, p399
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1a0071.org][ZB1a0071]] 易纂言外翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V22.5, p595
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0072.org][ZB1a0072]] 易源奧義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 保巴
+:SOURCE:   四庫全書 文淵閣版, V22.6, p697
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 保巴
+**** responsible:
+***** 保巴
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0072a.org][ZB1a0072a]] 易源奧義__周易原旨
+**** [[mandoku:ZB1a0072a.org][ZB1a0072a]] 周易原旨
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   4
+      :END:
+
 *** [[mandoku:ZB1a0073.org][ZB1a0073]] 周易程朱傳義折衷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0073
