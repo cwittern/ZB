@@ -1228,14 +1228,33 @@
 *** [[mandoku:ZB1a0060.org][ZB1a0060]] 周易傳義附錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董楷
+:SOURCE:   四庫全書 文淵閣版, V20.1, p1
+:EXTENT: 14 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 董楷
+**** responsible:
+***** 董楷
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0061
