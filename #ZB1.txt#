@@ -2539,73 +2539,127 @@
 *** [[mandoku:ZB1a0127.org][ZB1a0127]] 春秋占筮書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0127
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V41.4, p519
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0128.org][ZB1a0128]] 易小帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0128
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V41.5, p549
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0129.org][ZB1a0129]] 易俟
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0129
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 喬萊
+:SOURCE:   四庫全書 文淵閣版, V42.1, p1
+:EXTENT: 18 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 喬萊
+**** responsible:
+***** 喬萊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1694
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:易俟圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0130.org][ZB1a0130]] 讀易日鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0130
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張烈
+:SOURCE:   四庫全書 文淵閣版, V42.2, p261
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 張烈
+**** responsible:
+***** 張烈
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1622 - 1685
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0131.org][ZB1a0131]] 周易通論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V42.3, p535
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0132.org][ZB1a0132]] 周易觀彖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0132
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V42.4, p611
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0133.org][ZB1a0133]] 周易淺述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0133
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V43.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
+:END:
+**** responsible:
+***** 陳夢雷
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    d.1642 1718
+      :END:
+
 :DYNASTY: 清
 :RESP: 陳夢雷
 :END:
