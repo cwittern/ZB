@@ -3359,147 +3359,264 @@
 *** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 孔安國
+:SOURCE:   四庫全書 文淵閣版, V54.1, p1
+:EXTENT: 19 卷
+:BOOK:   12
 :END:
-**** dynasty: 漢
-**** responsible: 孔安國
+**** responsible:
+***** 孔安國
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 傳
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考證
+      :END:
+
+***** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 考證
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0169.org][ZB1a0169]] 洪範口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0169
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡瑗
+:SOURCE:   四庫全書 文淵閣版, V54.2, p451
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 胡瑗
+**** responsible:
+***** 胡瑗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    993 - 1059
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB1b 書類
 *** [[mandoku:ZB1b0001.org][ZB1b0001]] 書傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V54.3, p485
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1b0002.org][ZB1b0002]] 尚書
+*** [[mandoku:ZB1b0002.org][ZB1b0002]] 尚書全解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林之奇
+:SOURCE:   四庫全書 文淵閣版, V55.1, p1
+:EXTENT: 40 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 林之奇
+**** responsible:
+***** 林之奇
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1176
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0003.org][ZB1b0003]] 禹貢指南
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 毛晃
+:SOURCE:   四庫全書 文淵閣版, V56.1, p1
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 毛晃
+**** responsible:
+***** 毛晃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1162
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0004.org][ZB1b0004]] 禹貢論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程大昌
+:SOURCE:   四庫全書 文淵閣版, V56.2, p53
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 程大昌
+**** responsible:
+***** 程大昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1b0004a.org][ZB1b0004a]] 禹貢論__禹貢後論
-*** [[mandoku:ZB1b0004b.org][ZB1b0004b]] 禹貢論__禹貢山川地理圖
+**** [[mandoku:ZB1b0004a.org][ZB1b0004a]] 禹貢後論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+**** [[mandoku:ZB1b0004b.org][ZB1b0004b]] 禹貢山川地理圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB1b0005.org][ZB1b0005]] 尚書講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 史浩
+:SOURCE:   四庫全書 文淵閣版, V56.3, p169
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 史浩
+**** responsible:
+***** 史浩
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1106 - 1194
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1b0006.org][ZB1b0006]] 尚書詳解
+*** [[mandoku:ZB1b0006.org][ZB1b0006]] 夏氏尚書詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 夏僎
+:SOURCE:   四庫全書 文淵閣版, V56.4, p393
+:EXTENT: 26 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 夏僎
+**** responsible:
+***** 夏僎
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0007.org][ZB1b0007]] 禹貢說斷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 傅寅
+:SOURCE:   四庫全書 文淵閣版, V57.1, p1
+:EXTENT: 26 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 傅寅
+**** responsible:
+***** 傅寅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0008.org][ZB1b0008]] 增修東萊書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂祖謙
+:SOURCE:   四庫全書 文淵閣版, V57.2, p127
+:EXTENT: 35 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
+**** responsible:
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1181
+      :END:
+
+***** 時瀾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增修
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0009.org][ZB1b0009]] 尚書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃度
+:SOURCE:   四庫全書 文淵閣版, V57.3, p467
+:EXTENT: 7 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 黃度
+**** responsible:
+***** 黃度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1138 - 1213
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0010.org][ZB1b0010]] 五誥解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊簡
+:SOURCE:   四庫全書 文淵閣版, V57.4, p601
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊簡
+**** responsible:
+***** 楊簡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1140 - 1225
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0011.org][ZB1b0011]] 絜齋家塾書鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 袁燮
+:SOURCE:   四庫全書 文淵閣版, V57.5, p627
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 袁燮
+**** responsible:
+***** 袁燮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1144 - 1224
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0012.org][ZB1b0012]] 書經集傳
