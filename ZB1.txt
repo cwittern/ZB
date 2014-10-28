@@ -212,391 +212,683 @@
       :END:
 
 **** textual witnesses
-***** WYG<!--- here 2014-10-27 --->
+***** WYG
 *** [[mandoku:ZB1a0008.org][ZB1a0008]] 周易口訣義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 史徵
+:SOURCE:   四庫全書 文淵閣版, V8.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 史徵
+**** responsible:
+***** 史徵
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0009.org][ZB1a0009]] 周易擧正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 郭京
+:SOURCE:   四庫全書 文淵閣版, V8.2, p105
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 郭京
+**** responsible:
+***** 郭京
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0010.org][ZB1a0010]] 易數鈎隱圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉牧
+:SOURCE:   四庫全書 文淵閣版, V8.3, p125
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 劉牧
+**** responsible:
+***** 劉牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1011 - 1064
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)遺論九事
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1a0011.org][ZB1a0011]] 周易口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡瑗
+:SOURCE:   四庫全書 文淵閣版, V8.4, p169
+:EXTENT: 10 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 胡瑗
+**** responsible:
+***** 胡瑗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    993 - 1059
+      :END:
+
+***** 倪天隱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 述
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0012.org][ZB1a0012]] 易說
+**** 繫辭
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
+**** 卷末　說卦　序卦　雜卦
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+*** [[mandoku:ZB1a0012.org][ZB1a0012]] 溫公易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V8.5, p565
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0013.org][ZB1a0013]] 橫渠易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張載
+:SOURCE:   四庫全書 文淵閣版, V8.6, p659
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張載
+**** responsible:
+***** 張載
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1020 - 1077
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)橫渠先生行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 呂大臨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0014.org][ZB1a0014]] 東坡易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇軾
+:SOURCE:   四庫全書 文淵閣版, V9.1, p1
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 蘇軾
+**** responsible:
+***** 蘇軾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1036 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0015.org][ZB1a0015]] 伊川易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程頤
+:SOURCE:   四庫全書 文淵閣版, V9.2, p155
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程頤
+**** responsible:
+***** 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1033 - 1107
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0016.org][ZB1a0016]] 易學辨惑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 邵伯溫
+:SOURCE:   四庫全書 文淵閣版, V9.3, p401
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 邵伯溫
+**** responsible:
+***** 邵伯溫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1057 - 1134
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0017.org][ZB1a0017]] 了齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳瓘
+:SOURCE:   四庫全書 文淵閣版, V9.4, p413
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳瓘
+**** responsible:
+***** 陳瓘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1062 - 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0018.org][ZB1a0018]] 吳園周易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張根
+:SOURCE:   四庫全書 文淵閣版, V9.5, p459
+:EXTENT: 9 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張根
+**** responsible:
+***** 張根
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1061 - 1120
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB1a0019.org][ZB1a0019]] 周易新講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 耿南仲
+:SOURCE:   四庫全書 文淵閣版, V9.6, p577
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 耿南仲
+**** responsible:
+***** 耿南仲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1112 - 1126
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0020.org][ZB1a0020]] 紫巖易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張浚
+:SOURCE:   四庫全書 文淵閣版, V10.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 張浚
+**** responsible:
+***** 張浚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1164
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0021.org][ZB1a0021]] 讀易詳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李光
+:SOURCE:   四庫全書 文淵閣版, V10.2, p263
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 李光
+**** responsible:
+***** 李光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1155
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0022.org][ZB1a0022]] 易小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈該
+:SOURCE:   四庫全書 文淵閣版, V10.3, p459
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 沈該
+**** responsible:
+***** 沈該
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0023.org][ZB1a0023]] 漢上易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱震
+:SOURCE:   四庫全書 文淵閣版, V11.1, p1
+:EXTENT: 11 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 朱震
+**** responsible:
+***** 朱震
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1072 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卦圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
+**** 叢說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0024.org][ZB1a0024]] 周易窺餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭剛中
+:SOURCE:   四庫全書 文淵閣版, V11.2, p395
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 鄭剛中
+**** responsible:
+***** 鄭剛中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1088 - 1154
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0025.org][ZB1a0025]] 易璇璣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳沆
+:SOURCE:   四庫全書 文淵閣版, V11.3, p597
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳沆
+**** responsible:
+***** 吳沆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1146
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0026.org][ZB1a0026]] 易變體義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 都絜
+:SOURCE:   四庫全書 文淵閣版, V11.4, p627
+:EXTENT: 12 卷
+:BOOK:   5
+:DATE:   1124
 :END:
-**** dynasty: 宋
-**** responsible: 都絜
+**** responsible:
+***** 都絜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0027.org][ZB1a0027]] 周易經傳集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林栗
+:SOURCE:   四庫全書 文淵閣版, V12.1, p1
+:EXTENT: 36 卷
+:BOOK:   14
+:DATE:   1142
 :END:
-**** dynasty: 宋
-**** responsible: 林栗
+**** responsible:
+***** 林栗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0028.org][ZB1a0028]] 易原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程大昌
+:SOURCE:   四庫全書 文淵閣版, V12.2, p505
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程大昌
+**** responsible:
+***** 程大昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0029.org][ZB1a0029]] 周易古占法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程迥
+:SOURCE:   四庫全書 文淵閣版, V12.3, p599
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1163
 :END:
-**** dynasty: 宋
-**** responsible: 程迥
+**** responsible:
+***** 程迥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0029a.org][ZB1a0029a]] 周易章句外編
+**** [[mandoku:ZB1a0029a.org][ZB1a0029a]] 周易章句外編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB1a0030.org][ZB1a0030]] 原本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V12.4, p625
+:EXTENT: 12 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0031.org][ZB1a0031]] 周易本義
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB1a0031.org][ZB1a0031]] 別本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V12.5, p705
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 成矩
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭雍
+:SOURCE:   四庫全書 文淵閣版, V13.1, p1
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 郭雍
+**** responsible:
+***** 郭雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1104
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0033.org][ZB1a0033]] 周易義海撮要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李衡
+:SOURCE:   四庫全書 文淵閣版, V13.2, p275
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 李衡
+**** responsible:
+***** 李衡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1100 - 1178
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0034.org][ZB1a0034]] 南軒易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張栻
+:SOURCE:   四庫全書 文淵閣版, V13.3, p625
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張栻
+**** responsible:
+***** 張栻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1180
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0035.org][ZB1a0035]] 復齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙彥肅
+:SOURCE:   四庫全書 文淵閣版, V13.4, p681
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙彥肅
+**** responsible:
+***** 趙彥肅
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0036.org][ZB1a0036]] 楊氏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊簡
+:SOURCE:   四庫全書 文淵閣版, V14.1, p1
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 楊簡
+**** responsible:
+***** 楊簡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1140 - 1225
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0037.org][ZB1a0037]] 周易玩辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 項安世
+:SOURCE:   四庫全書 文淵閣版, V14.2, p215
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 項安世
+**** responsible:
+***** 項安世
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 述
+      :DATES:    1146 - 1208
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0038.org][ZB1a0038]] 易說
+*** [[mandoku:ZB1a0038.org][ZB1a0038]] 趙氏易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙善譽
+:SOURCE:   四庫全書 文淵閣版, V14.3, p449
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 趙善譽
+**** responsible:
+***** 趙善譽
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1143 - 1189
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0039.org][ZB1a0039]] 誠齋易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊萬里
+:SOURCE:   四庫全書 文淵閣版, V14.4, p513
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 楊萬里
+**** responsible:
+***** 楊萬里
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1124 - 1206
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0040.org][ZB1a0040]] 大易粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 方聞一
+:SOURCE:   四庫全書 文淵閣版, V15.1, p1
+:EXTENT: 73 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 方聞一
+**** responsible:
+***** 方聞一
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB1a0041.org][ZB1a0041]] 易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳仁傑
+:SOURCE:   四庫全書 文淵閣版, V15.2, p753
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳仁傑
+**** responsible:
+***** 吳仁傑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1137
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0042.org][ZB1a0042]] 古周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂祖謙
+:SOURCE:   四庫全書 文淵閣版, V15.3, p779
+:EXTENT: 1 卷
+:BOOK:   (1)
 :END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
+**** responsible:
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1137 - 1181
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0043.org][ZB1a0043]] 易傳燈
