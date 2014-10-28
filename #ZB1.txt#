@@ -2917,15 +2917,38 @@
       :BOOK:   7
       :END:
 
+***** 易學須知
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (7)
+      :END:
+
+***** 易解辨異
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (7)
+      :END:
+
+***** 篝燈約旨
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB1a0145.org][ZB1a0145]] 易箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0145
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳法
+:SOURCE:   四庫全書 文淵閣版, V49.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 陳法
+**** responsible:
+***** 陳法
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0146.org][ZB1a0146]] 學易初津
