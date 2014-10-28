@@ -3811,73 +3811,108 @@
 *** [[mandoku:ZB1b0023.org][ZB1b0023]] 讀書叢說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0023
-:SOURCE:   四庫全書 文淵閣版, V61.3, p49
+:SOURCE:   四庫全書 文淵閣版, V61.3, p449
 :EXTENT: 6 卷
-:BOOK:   6
+:BOOK:   3
 :END:
 **** responsible:
-***** 陳櫟
+***** 許謙
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1252 - 1334
+      :DATES:    1270 - 1337
       :END:
 
-:DYNASTY: 元
-:RESP: 許謙
-:END:
-**** dynasty: 元
-**** responsible: 許謙
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0024.org][ZB1b0024]] 書傳輯錄纂註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 董鼎
+:SOURCE:   四庫全書 文淵閣版, V61.4, p531
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 董鼎
+**** responsible:
+***** 董鼎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1b0025.org][ZB1b0025]] 尚書通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 黃鎭成
+:SOURCE:   四庫全書 文淵閣版, V62.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 黃鎭成
+**** responsible:
+***** 黃鎭成
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1288 - 1362
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0026.org][ZB1b0026]] 書蔡氏傳旁通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳師凱
+:SOURCE:   四庫全書 文淵閣版, V62.2, p209
+:EXTENT: 6 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 陳師凱
+**** responsible:
+***** 陳師凱
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0027.org][ZB1b0027]] 讀書管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王充耘
+:SOURCE:   四庫全書 文淵閣版, V62.3, p443
+:EXTENT: 2 卷
+:BOOK:   2
+:DATE:   1333
 :END:
-**** dynasty: 元
-**** responsible: 王充耘
+**** responsible:
+***** 王充耘
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0028.org][ZB1b0028]] 書義斷法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0028
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V62.4, p511
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 王充耘
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 陳悅道
 :END:
