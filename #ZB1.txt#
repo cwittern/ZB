@@ -2657,64 +2657,127 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    d.1642 1718
+      :DATES:    d. 1741
       :END:
 
-:DYNASTY: 清
-:RESP: 陳夢雷
-:END:
-**** dynasty: 清
-**** responsible: 陳夢雷
 **** textual witnesses
 ***** WYG
+**** 周易淺述圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+***** responsible:
+****** 楊道聲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0134.org][ZB1a0134]] 易原就正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0134
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 包儀
+:SOURCE:   四庫全書 文淵閣版, V43.2, p349
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 包儀
+**** responsible:
+***** 包儀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 首卷
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0135.org][ZB1a0135]] 大易通解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0135
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 魏荔彤
+:SOURCE:   四庫全書 文淵閣版, V44.1, p1
+:EXTENT: 15 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 魏荔彤
+**** responsible:
+***** 魏荔彤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1724
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
+**** 附錄:讀啟蒙雜說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0136.org][ZB1a0136]] 易經衷論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0136
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張英
+:SOURCE:   四庫全書 文淵閣版, V44.2, p581
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 張英
+**** responsible:
+***** 張英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1637 - 1708
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0137.org][ZB1a0137]] 易圖明辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0137
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡渭
+:SOURCE:   四庫全書 文淵閣版, V44.3, p639
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 胡渭
+**** responsible:
+***** 胡渭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1714
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0138.org][ZB1a0138]] 合訂刪補大易集義粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0138
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V45.1, p1 - V46.1
+:EXTENT: 80 卷
+:BOOK:   36
+:END:
+**** responsible:
+***** 納喇性德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :DATES:    163 - 1714
+      :END:
+
 :DYNASTY: 清
 :RESP: 納喇性德
 :END:
