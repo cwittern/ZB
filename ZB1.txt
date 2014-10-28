@@ -1951,136 +1951,246 @@
 *** [[mandoku:ZB1a0099.org][ZB1a0099]] 周易集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 來知德
+:SOURCE:   四庫全書 文淵閣版, V32.1, p1
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 來知德
+**** responsible:
+***** 來知德
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1525 - 1604
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1a0100.org][ZB1a0100]] 讀易紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張獻翼
+:SOURCE:   四庫全書 文淵閣版, V32.2, p429
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 張獻翼
+**** responsible:
+***** 張獻翼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0101.org][ZB1a0101]] 葉八白易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葉山
+:SOURCE:   四庫全書 文淵閣版, V32.3, p585
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 葉山
+**** responsible:
+***** 葉山
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0102.org][ZB1a0102]] 讀易述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0102
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘士藻
+:SOURCE:   四庫全書 文淵閣版, V33.1, p1
+:EXTENT: 17 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 潘士藻
+**** responsible:
+***** 潘士藻
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1537 - 1600
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0103.org][ZB1a0103]] 像象管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0103
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 錢一本
+:SOURCE:   四庫全書 文淵閣版, V33.2, p559
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 錢一本
+**** responsible:
+***** 錢一本
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1539 - 1610
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0104.org][ZB1a0104]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0104
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 逯中立
+:SOURCE:   四庫全書 文淵閣版, V34.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
+:DATE:   1589
 :END:
-**** dynasty: 明
-**** responsible: 逯中立
+**** responsible:
+***** 逯中立
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:易學啟蒙集略
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1a0105.org][ZB1a0105]] 周易易簡說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0105
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高攀龍
+:SOURCE:   四庫全書 文淵閣版, V34.2, p67
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 高攀龍
+**** responsible:
+***** 高攀龍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1562 - 1626
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0106.org][ZB1a0106]] 易義古象通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 魏濬
+:SOURCE:   四庫全書 文淵閣版, V34.3, p171
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 魏濬
+**** responsible:
+***** 魏濬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1612
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1a0107.org][ZB1a0107]] 周易像象述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳桂森
+:SOURCE:   四庫全書 文淵閣版, V34.4, p369
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 吳桂森
+**** responsible:
+***** 吳桂森
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1625
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:像象述金針
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0108.org][ZB1a0108]] 易用
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0108
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳祖念
+:SOURCE:   四庫全書 文淵閣版, V35.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 陳祖念
+**** responsible:
+***** 陳祖念
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0109.org][ZB1a0109]] 易象正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0109
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V35.2, p101
+:EXTENT: 16 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀
+*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀以
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 倪元璐
+:SOURCE:   四庫全書 文淵閣版, V35.3, p457
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 倪元璐
+**** responsible:
+***** 倪元璐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0110a.org][ZB1a0110a]] 兒易內儀以__兒易外儀
+**** [[mandoku:ZB1a0110a.org][ZB1a0110a]] 兒易外儀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 15 卷
+      :BOOK:   3
+      :END:
+
+**** 卷首:義例八明
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0111

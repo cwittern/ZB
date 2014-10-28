@@ -2155,54 +2155,98 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-  
+      :DATES:    1585 - 1646
       :END:
 
-:DYNASTY: 明
-:RESP: 黃道周
-:END:
-**** dynasty: 明
-**** responsible: 黃道周
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀
+*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀以
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 倪元璐
+:SOURCE:   四庫全書 文淵閣版, V35.3, p457
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 倪元璐
+**** responsible:
+***** 倪元璐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0110a.org][ZB1a0110a]] 兒易內儀以__兒易外儀
-*** [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考畧
+**** [[mandoku:ZB1a0110a.org][ZB1a0110a]] 兒易外儀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 15 卷
+      :BOOK:   3
+      :END:
+
+**** 卷首:義例八明
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+*** [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 董守諭
+:SOURCE:   四庫全書 文淵閣版, V35.4, p651
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 董守諭
+**** responsible:
+***** 董守諭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1596 - 1664
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0112.org][ZB1a0112]] 古周易訂詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0112
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何楷
+:SOURCE:   四庫全書 文淵閣版, V36.1, p1
+:EXTENT: 16 卷
+:BOOK:   10
+:DATE:   1625
 :END:
-**** dynasty: 明
-**** responsible: 何楷
+**** responsible:
+***** 何楷
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)解經處答客問
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0113
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V36.1, p1
+:EXTENT: 16 卷
+:BOOK:   10
+:DATE:   1625
+:END:
+**** responsible:
+***** 何楷
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 張次仲
 :END:
