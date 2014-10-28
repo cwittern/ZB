@@ -2775,85 +2775,148 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 編
-      :DATES:    163 - 1714
+      :DATES:    1655 - 1685
       :END:
 
-:DYNASTY: 清
-:RESP: 納喇性德
-:END:
-**** dynasty: 清
-**** responsible: 納喇性德
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0139.org][ZB1a0139]] 周易傳註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0139
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李塨
+:SOURCE:   四庫全書 文淵閣版, V47.1, p1
+:EXTENT: 7 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 李塨
+**** responsible:
+***** 李塨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1659 - 1733
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0139a.org][ZB1a0139a]] 周易傳註__周易筮考
+**** [[mandoku:ZB1a0139a.org][ZB1a0139a]] (附)周易筮考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1a0140.org][ZB1a0140]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0140
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 楊名時
+:SOURCE:   四庫全書 文淵閣版, V47.2, p209
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 楊名時
+**** responsible:
+***** 楊名時
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0141.org][ZB1a0141]] 周易傳義合訂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0141
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱軾
+:SOURCE:   四庫全書 文淵閣版, V47.3, p249
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 朱軾
+**** responsible:
+***** 朱軾
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1664 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0142.org][ZB1a0142]] 周易玩辭集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0142
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 查愼行
+:SOURCE:   四庫全書 文淵閣版, V47.4, p427
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 查愼行
+**** responsible:
+***** 查愼行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1650 - 1727
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0143.org][ZB1a0143]] 易說
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+*** [[mandoku:ZB1a0143.org][ZB1a0143]] 惠氏易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0143
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 惠士奇
+:SOURCE:   四庫全書 文淵閣版, V47.5, p675
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 惠士奇
+**** responsible:
+***** 惠士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0144.org][ZB1a0144]] 周易函書約存
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0144
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡煦
+:SOURCE:   四庫全書 文淵閣版, V48.1, p1
+:EXTENT: 15 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 胡煦
+**** responsible:
+***** 胡煦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1655 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0144a.org][ZB1a0144a]] 周易函書約存__周易函書約註
-*** [[mandoku:ZB1a0144b.org][ZB1a0144b]] 周易函書約存__周易函書別集
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
+**** [[mandoku:ZB1a0144a.org][ZB1a0144a]] 周易函書約註
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 18 卷
+      :BOOK:   11
+      :END:
+
+**** [[mandoku:ZB1a0144b.org][ZB1a0144b]] 周易函書別集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 16 卷
+      :BOOK:   7
+      :END:
+
 *** [[mandoku:ZB1a0145.org][ZB1a0145]] 易箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0145
