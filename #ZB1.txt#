@@ -474,108 +474,175 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    d. 1112 - 16
+      :DATES:    d. 1164
       :END:
 
-:DYNASTY: 宋
-:RESP: 張浚
-:END:
-**** dynasty: 宋
-**** responsible: 張浚
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0021.org][ZB1a0021]] 讀易詳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李光
+:SOURCE:   四庫全書 文淵閣版, V10.2, p263
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 李光
+**** responsible:
+***** 李光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1155
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0022.org][ZB1a0022]] 易小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 沈該
+:SOURCE:   四庫全書 文淵閣版, V10.3, p459
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 沈該
+**** responsible:
+***** 沈該
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0023.org][ZB1a0023]] 漢上易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱震
+:SOURCE:   四庫全書 文淵閣版, V11.1, p1
+:EXTENT: 11 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 朱震
+**** responsible:
+***** 朱震
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1072 - 1138
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卦圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+
+**** 叢說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1a0024.org][ZB1a0024]] 周易窺餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭剛中
+:SOURCE:   四庫全書 文淵閣版, V11.2, p395
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 鄭剛中
+**** responsible:
+***** 鄭剛中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1088 - 1154
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0025.org][ZB1a0025]] 易璇璣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳沆
+:SOURCE:   四庫全書 文淵閣版, V11.3, p597
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳沆
+**** responsible:
+***** 吳沆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1146
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0026.org][ZB1a0026]] 易變體義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 都絜
+:SOURCE:   四庫全書 文淵閣版, V11.4, p627
+:EXTENT: 12 卷
+:BOOK:   5
+:DATE:   1124
 :END:
-**** dynasty: 宋
-**** responsible: 都絜
+**** responsible:
+***** 都絜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0027.org][ZB1a0027]] 周易經傳集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林栗
+:SOURCE:   四庫全書 文淵閣版, V12.1, p1
+:EXTENT: 36 卷
+:BOOK:   14
+:DATE:   1142
 :END:
-**** dynasty: 宋
-**** responsible: 林栗
+**** responsible:
+***** 林栗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0028.org][ZB1a0028]] 易原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程大昌
+:SOURCE:   四庫全書 文淵閣版, V12.2, p505
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程大昌
+**** responsible:
+***** 程大昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0029.org][ZB1a0029]] 周易古占法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0029
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V12.3, p599
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 程迥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 :DYNASTY: 宋
 :RESP: 程迥
 :END:
