@@ -2954,31 +2954,79 @@
 *** [[mandoku:ZB1a0146.org][ZB1a0146]] 學易初津
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0146
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 晏斯盛
+:SOURCE:   四庫全書 文淵閣版, V49.2, p239
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 晏斯盛
+**** responsible:
+***** 晏斯盛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0146a.org][ZB1a0146a]] 易翼宗
+:PROPERTIES:
+:CUSTOM_ID:  ZB1a0146a
+:SOURCE:   四庫全書 文淵閣版, V49.3, p287
+:EXTENT: 6 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 晏斯盛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0146b.org][ZB1a0146b]] 易翼說
+:PROPERTIES:
+:CUSTOM_ID:  ZB1a0146b
+:SOURCE:   四庫全書 文淵閣版, V49.4, p471
+:EXTENT: 8 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 晏斯盛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1a0147.org][ZB1a0147]] 周易孔義集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0147
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈起元
+:SOURCE:   四庫全書 文淵閣版, V50.1, p1
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 沈起元
+**** responsible:
+***** 沈起元
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1685 - 1763
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1a0148.org][ZB1a0148]] 易翼述信
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0148
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V50.2, p525
+:EXTENT: 12 卷
+:BOOK:   10
+:END:
+**** responsible:
+***** 王又樸
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1685 - 1763
+      :END:
+
 :DYNASTY: 清
 :RESP: 王又樸
 :END:
