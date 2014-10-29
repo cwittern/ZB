@@ -4136,18 +4136,39 @@
 *** [[mandoku:ZB1b0040.org][ZB1b0040]] 日講書經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 庫勒納
+:SOURCE:   四庫全書 文淵閣版, V65.1, p1
+:EXTENT: 13 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 庫勒納
+**** responsible:
+***** 庫勒納
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+***** 葉方藹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0041.org][ZB1b0041]] 欽定書經傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0041
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V65.2, p1
+:EXTENT: 13 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 庫勒納
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 :DYNASTY: 清
 :RESP: 王頊齡
 :END:
