@@ -3994,15 +3994,28 @@
 
 **** textual witnesses
 ***** WYG
+**** 圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (11)
+      :END:
+
 *** [[mandoku:ZB1b0033.org][ZB1b0033]] 尚書考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 梅鷟
+:SOURCE:   四庫全書 文淵閣版, V64.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
+:DATE:   1513
 :END:
-**** dynasty: 明
-**** responsible: 梅鷟
+**** responsible:
+***** 梅鷟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0034.org][ZB1b0034]] 尚書疑義
