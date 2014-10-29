@@ -4332,62 +4332,117 @@
 *** [[mandoku:ZB1b0048.org][ZB1b0048]] 禹貢錐指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡渭
+:SOURCE:   四庫全書 文淵閣版, V67.2, p211
+:EXTENT: 20 卷
+:BOOK:   20
 :END:
-**** dynasty: 清
-**** responsible: 胡渭
+**** responsible:
+***** 胡渭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1714
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首　略例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB1b0049.org][ZB1b0049]] 洪範正論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡渭
+:SOURCE:   四庫全書 文淵閣版, V68.1, p1
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 胡渭
+**** responsible:
+***** 胡渭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1714
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0050.org][ZB1b0050]] 尚書七篇解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V68.2, p99
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0051.org][ZB1b0051]] 書經衷論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張英
+:SOURCE:   四庫全書 文淵閣版, V68.3, p143
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 張英
+**** responsible:
+***** 張英
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1637 - 1708
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0052.org][ZB1b0052]] 尚書地理今釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣廷錫
+:SOURCE:   四庫全書 文淵閣版, V68.4, p217
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 蔣廷錫
+**** responsible:
+***** 蔣廷錫
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1669 - 1732
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0053.org][ZB1b0053]] 禹貢會箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0053
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V68.5, p249
+:EXTENT: 12 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 蔣廷錫
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1669 - 1732
+      :END:
+
 :DYNASTY: 清
 :RESP: 徐文靖
 :END:
