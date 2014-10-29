@@ -5421,7 +5421,7 @@
 **** responsible:
 ***** 王鴻緖
       :PROPERTIES:
-      :DYNASTY:  明
+      :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :DATES:    1645 - 1723
       :END:
@@ -5445,107 +5445,195 @@
 *** [[mandoku:ZB1c0039.org][ZB1c0039]] 御纂詩義折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅恆
+:SOURCE:   四庫全書 文淵閣版, V84.1, p1
+:EXTENT: 20 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 傅恆
+**** responsible:
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0040.org][ZB1c0040]] 田間詩學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 錢澄之
+:SOURCE:   四庫全書 文淵閣版, V84.2, p395
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 錢澄之
+**** responsible:
+***** 錢澄之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1612 - 1693
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1c0041.org][ZB1c0041]] 詩經稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王夫之
+:SOURCE:   四庫全書 文淵閣版, V84.3, p769
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 王夫之
+**** responsible:
+***** 王夫之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1619 - 1692
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0042.org][ZB1c0042]] 詩經通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱鶴齡
+:SOURCE:   四庫全書 文淵閣版, V85.1, p1
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 朱鶴齡
+**** responsible:
+***** 朱鶴齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1606 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0043.org][ZB1c0043]] 毛詩稽古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳啟源
+:SOURCE:   四庫全書 文淵閣版, V85.2, p327
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 陳啟源
+**** responsible:
+***** 陳啟源
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    d. 1689
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0044.org][ZB1c0044]] 詩所
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V86.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0045.org][ZB1c0045]] 毛詩寫官記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V86.2, p171
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0045a.org][ZB1c0045a]] 詩札
+:PROPERTIES:
+:CUSTOM_ID:  ZB1c0045a
+:SOURCE:   四庫全書 文淵閣版, V86.3, p213
+:EXTENT: 2 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB1c0046.org][ZB1c0046]] 詩傳詩說駁義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V86.4, p233
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0047.org][ZB1c0047]] 續詩傳鳥名卷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V86.5, p275
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0048.org][ZB1c0048]] 詩識名解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0048
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V86.6, p307
+:EXTENT: 15 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 :DYNASTY: 清
 :RESP: 姚炳
 :END:
