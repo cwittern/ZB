@@ -5624,133 +5624,208 @@
 :CUSTOM_ID:  ZB1c0048
 :SOURCE:   四庫全書 文淵閣版, V86.6, p307
 :EXTENT: 15 卷
-:BOOK:   1
+:BOOK:   6
 :END:
 **** responsible:
-***** 毛奇齡
+***** 姚炳
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1623 - 1716
       :END:
 
-:DYNASTY: 清
-:RESP: 姚炳
-:END:
-**** dynasty: 清
-**** responsible: 姚炳
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0049.org][ZB1c0049]] 詩傳名物集覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳大章
+:SOURCE:   四庫全書 文淵閣版, V86.7, p543
+:EXTENT: 12 卷
+:BOOK:   10
+:DATE:   1688
 :END:
-**** dynasty: 清
-**** responsible: 陳大章
+**** responsible:
+***** 陳大章
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0050.org][ZB1c0050]] 詩說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 惠周惕
+:SOURCE:   四庫全書 文淵閣版, V87.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
+:DATE:   1691
 :END:
-**** dynasty: 清
-**** responsible: 惠周惕
+**** responsible:
+***** 惠周惕
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0051.org][ZB1c0051]] 詩經劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 楊名時
+:SOURCE:   四庫全書 文淵閣版, V87.2, p33
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 楊名時
+**** responsible:
+***** 楊名時
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0052.org][ZB1c0052]] 讀詩質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 嚴虞惇
+:SOURCE:   四庫全書 文淵閣版, V87.3, p49
+:EXTENT: 31 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 嚴虞惇
+**** responsible:
+***** 嚴虞惇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1650 - 1713
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 15 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB1c0053.org][ZB1c0053]] 毛詩類釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧棟高
+:SOURCE:   四庫全書 文淵閣版, V88.1, p1
+:EXTENT: 21 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 顧棟高
+**** responsible:
+***** 顧棟高
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1679 - 1759
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1c0054.org][ZB1c0054]] 詩欵辨證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃中松
+:SOURCE:   四庫全書 文淵閣版, V88.2, p211
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 黃中松
+**** responsible:
+***** 黃中松
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0055.org][ZB1c0055]] 三家詩拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 范家相
+:SOURCE:   四庫全書 文淵閣版, V88.3, p499
+:EXTENT: 10 卷
+:BOOK:   2
+:DATE:   1759
 :END:
-**** dynasty: 清
-**** responsible: 范家相
+**** responsible:
+***** 范家相
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0056.org][ZB1c0056]] 詩瀋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 范家相
+:SOURCE:   四庫全書 文淵閣版, V88.4, p593
+:EXTENT: 20 卷
+:BOOK:   4
+:DATE:   1759
 :END:
-**** dynasty: 清
-**** responsible: 范家相
+**** responsible:
+***** 范家相
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0057.org][ZB1c0057]] 詩序補義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姜炳璋
+:SOURCE:   四庫全書 文淵閣版, V89.1, p1
+:EXTENT: 24 卷
+:BOOK:   14
+:DATE:   1754
 :END:
-**** dynasty: 清
-**** responsible: 姜炳璋
+**** responsible:
+***** 姜炳璋
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB1c0058.org][ZB1c0058]] 虞東學詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧鎭
+:SOURCE:   四庫全書 文淵閣版, V89.2, p371
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 顧鎭
+**** responsible:
+***** 顧鎭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1718 - 1792
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB1c0059.org][ZB1c0059]] 詩外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0059
