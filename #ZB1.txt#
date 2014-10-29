@@ -6555,99 +6555,163 @@
       :DATES:    1612 - 1678
       :END:
 
-:DYNASTY: 清
-:RESP: 張爾岐
-:END:
-**** dynasty: 清
-**** responsible: 張爾岐
 **** textual witnesses
 ***** WYG
+**** (附)儀禮監本正誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 儀禮石本誤字
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1d0034.org][ZB1d0034]] 儀禮商
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯大
+:SOURCE:   四庫全書 文淵閣版, V108.2, p253
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 萬斯大
+**** responsible:
+***** 萬斯大
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB1d0035.org][ZB1d0035]] 儀禮述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光坡
+:SOURCE:   四庫全書 文淵閣版, V108.3, p295
+:EXTENT: 17 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 李光坡
+**** responsible:
+***** 李光坡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1651 - 1723
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0036.org][ZB1d0036]] 儀禮析疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 方苞
+:SOURCE:   四庫全書 文淵閣版, V109.1, p1
+:EXTENT: 17 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 方苞
+**** responsible:
+***** 方苞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1749
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0037.org][ZB1d0037]] 儀禮章句
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳廷華
+:SOURCE:   四庫全書 文淵閣版, V109.2, p289
+:EXTENT: 17 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 吳廷華
+**** responsible:
+***** 吳廷華
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1682 - 1755
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0038.org][ZB1d0038]] 補饗禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 諸錦
+:SOURCE:   四庫全書 文淵閣版, V109.3, p489
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 諸錦
+**** responsible:
+***** 諸錦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :DATES:    1686 - 1769
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0039.org][ZB1d0039]] 禮經本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔡德晉
+:SOURCE:   四庫全書 文淵閣版, V109.4, p499
+:EXTENT: 17 卷
+:BOOK:   10
+:DATE:   1726
 :END:
-**** dynasty: 清
-**** responsible: 蔡德晉
+**** responsible:
+***** 蔡德晉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0040.org][ZB1d0040]] 宮室考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 任啟運
+:SOURCE:   四庫全書 文淵閣版, V109.5, p801
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 任啟運
+**** responsible:
+***** 任啟運
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1744
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0041.org][ZB1d0041]] 天子肆獻祼饋食禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 任啟運
+:SOURCE:   四庫全書 文淵閣版, V109.6, p827
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 任啟運
+**** responsible:
+***** 任啟運
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1744
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0042.org][ZB1d0042]] 儀禮釋宮增注
