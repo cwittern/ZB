@@ -5936,84 +5936,111 @@
 :BOOK:   12
 :END:
 **** responsible:
-***** 王安石
+***** 王昭禹
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1021 - 1086
       :END:
 
-:DYNASTY: 宋
-:RESP: 王昭禹
-:END:
-**** dynasty: 宋
-**** responsible: 王昭禹
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0004.org][ZB1d0004]] 周禮復古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞庭椿
+:SOURCE:   四庫全書 文淵閣版, V91.3, p603
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 俞庭椿
+**** responsible:
+***** 兪庭椿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0005.org][ZB1d0005]] 禮經會元
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉時
+:SOURCE:   四庫全書 文淵閣版, V92.1, p1
+:EXTENT: 4 卷
+:BOOK:   6
+:DATE:   1184
 :END:
-**** dynasty: 宋
-**** responsible: 葉時
+**** responsible:
+***** 葉時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0006.org][ZB1d0006]] 太平經國書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭伯謙
+:SOURCE:   四庫全書 文淵閣版, V92.2, p185
+:EXTENT: 11 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 鄭伯謙
+**** responsible:
+***** 鄭伯謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0007.org][ZB1d0007]] 周官總義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 易祓
+:SOURCE:   四庫全書 文淵閣版, V92.3, p261
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 易祓
+**** responsible:
+***** 易祓
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0008.org][ZB1d0008]] 周禮訂義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王與之
+:SOURCE:   四庫全書 文淵閣版, V93.1, p1 - V94.1
+:EXTENT: 80 卷
+:BOOK:   36
 :END:
-**** dynasty: 宋
-**** responsible: 王與之
+**** responsible:
+***** 王與之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1d0009.org][ZB1d0009]] 考工記解
+*** [[mandoku:ZB1d0009.org][ZB1d0009]] 鬳齋考工記解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林希逸
+:SOURCE:   四庫全書 文淵閣版, V95.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
+:DATE:   1235
 :END:
-**** dynasty: 宋
-**** responsible: 林希逸
+**** responsible:
+***** 林希逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0010.org][ZB1d0010]] 周禮句解
