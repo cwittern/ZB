@@ -3907,45 +3907,73 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 王充耘
+***** 陳悅道
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 陳悅道
-:END:
-**** dynasty: 元
-**** responsible: 陳悅道
 **** textual witnesses
 ***** WYG
+**** (附)作義要訣
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 倪士毅
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 輯
+      :END:
+
 *** [[mandoku:ZB1b0029.org][ZB1b0029]] 尚書纂傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王夫與
+:SOURCE:   四庫全書 文淵閣版, V62.5, p587
+:EXTENT: 46 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 王夫與
+**** responsible:
+***** 王天與
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0030.org][ZB1b0030]] 尚書句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱祖義
+:SOURCE:   四庫全書 文淵閣版, V62.6, p885
+:EXTENT: 13 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 朱祖義
+**** responsible:
+***** 朱祖義
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0031.org][ZB1b0031]] 書傳會選
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0031
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V63.1, p1
+:EXTENT: 13 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 朱祖義
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 劉三吾
 :END:
