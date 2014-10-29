@@ -4986,102 +4986,171 @@
 *** [[mandoku:ZB1c0018.org][ZB1c0018]] 詩傳遺說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0018
-:SOURCE:   四庫全書 文淵閣版, V75.2, p1
-:EXTENT: 36 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V75.2, p499
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
 **** responsible:
-***** 嚴粲
+***** 朱鑑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1190 - 1258
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB1c0019.org][ZB1c0019]] 詩考
+:PROPERTIES:
+:CUSTOM_ID:  ZB1c0019
+:SOURCE:   四庫全書 文淵閣版, V75.3, p597
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王應麟
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1248
+      :DATES:    1223 - 1296
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱鑑
-:END:
-**** dynasty: 宋
-**** responsible: 朱鑑
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1c0019.org][ZB1c0019]] 詩攷
-:PROPERTIES:
-:CUSTOM_ID:  ZB1c0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
-:END:
-**** dynasty: 宋
-**** responsible: 王應麟
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB1c0020.org][ZB1c0020]] 詩地理攷
+*** [[mandoku:ZB1c0020.org][ZB1c0020]] 詩地理考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V75.4, p633
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0021.org][ZB1c0021]] 詩集傳名物鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 許謙
+:SOURCE:   四庫全書 文淵閣版, V76.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 許謙
+**** responsible:
+***** 許謙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1270 - 1337
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0022.org][ZB1c0022]] 詩傳通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉瑾
+:SOURCE:   四庫全書 文淵閣版, V76.2, p261
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 劉瑾
+**** responsible:
+***** 劉瑾
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    d. 1510
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1c0023.org][ZB1c0023]] 詩傳旁通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 梁益
+:SOURCE:   四庫全書 文淵閣版, V76.3, p789
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 梁益
+**** responsible:
+***** 梁益
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0024.org][ZB1c0024]] 詩經疏義會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱公遷
+:SOURCE:   四庫全書 文淵閣版, V77.1, p1
+:EXTENT: 20 卷
+:BOOK:   20
 :END:
-**** dynasty: 元
-**** responsible: 朱公遷
+**** responsible:
+***** 朱公遷
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (20)
+      :END:
+
+**** 圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB1c0025.org][ZB1c0025]] 詩經欵問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 朱倬
+:SOURCE:   四庫全書 文淵閣版, V77.2, p531
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 朱倬
+**** responsible:
+***** 朱倬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1093 - 1163
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)詩辨
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1c0026.org][ZB1c0026]] 詩纘緖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0026
