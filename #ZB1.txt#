@@ -6046,50 +6046,94 @@
 *** [[mandoku:ZB1d0010.org][ZB1d0010]] 周禮句解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱申
+:SOURCE:   四庫全書 文淵閣版, V95.2, p105
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 朱申
+**** responsible:
+***** 朱申
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0011.org][ZB1d0011]] 周禮集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V95.3, p251
+:EXTENT: 10 卷
+:BOOK:   12
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
+***** 陳友仁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增修
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1d0012.org][ZB1d0012]] 周官集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 毛應龍
+:SOURCE:   四庫全書 文淵閣版, V95.4, p761
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 毛應龍
+**** responsible:
+***** 毛應龍
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0013.org][ZB1d0013]] 周禮傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王應電
+:SOURCE:   四庫全書 文淵閣版, V96.1, p1
+:EXTENT: 10 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 王應電
+**** responsible:
+***** 王應電
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1d0013a.org][ZB1d0013a]] 周禮傳__周禮圖說
-*** [[mandoku:ZB1d0013b.org][ZB1d0013b]] 周禮傳__周禮翼傳
-*** [[mandoku:ZB1d0013c.org][ZB1d0013c]] 周禮之屬
+**** [[mandoku:ZB1d0013a.org][ZB1d0013a]] 周禮圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
+**** [[mandoku:ZB1d0013b.org][ZB1d0013b]] 周禮翼傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
+# *** [[mandoku:ZB1d0013c.org][ZB1d0013c]] 周禮之屬
 *** [[mandoku:ZB1d0014.org][ZB1d0014]] 周禮全經釋原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0014
