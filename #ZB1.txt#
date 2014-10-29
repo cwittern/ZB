@@ -5345,7 +5345,6 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1543 - 1627
       :END:
 
 **** textual witnesses
@@ -5367,36 +5366,82 @@
 *** [[mandoku:ZB1c0036.org][ZB1c0036]] 待軒詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張次仲
+:SOURCE:   四庫全書 文淵閣版, V82.1, p1
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 張次仲
+**** responsible:
+***** 張次仲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1589 - 1676
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1c0037.org][ZB1c0037]] 讀詩畧記
+**** 卷首:學詩小箋總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+*** [[mandoku:ZB1c0037.org][ZB1c0037]] 讀詩略記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱朝瑛
+:SOURCE:   四庫全書 文淵閣版, V82.2, p37
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 朱朝瑛
+**** responsible:
+***** 朱朝瑛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1605 - 1670
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:論小序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1c0038.org][ZB1c0038]] 欽定詩經傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王鴻緖
+:SOURCE:   四庫全書 文淵閣版, V83.1, p1
+:EXTENT: 21 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 王鴻緖
+**** responsible:
+***** 王鴻緖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1645 - 1723
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (24)
+      :END:
+
+**** 朱子詩序辨說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB1c0039.org][ZB1c0039]] 御纂詩義折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0039
