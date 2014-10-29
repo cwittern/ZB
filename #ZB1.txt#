@@ -5825,23 +5825,46 @@
 
 **** textual witnesses
 ***** WYG
+**** 詩說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
 
-*** [[mandoku:ZB1c0059.org][ZB1c0059]] 詩外傳
+*** [[mandoku:ZB1c0059.org][ZB1c0059]] 詩外外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 韓嬰
+:SOURCE:   四庫全書 文淵閣版, V89.3, p775
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 韓嬰
+**** responsible:
+***** 韓嬰
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -166
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB1d 禮類
 *** [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0001
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V90.1, p1
+:EXTENT: 42 卷
+:BOOK:   24
+:END:
+**** responsible:
+***** 韓嬰
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -166
+      :END:
+
 :DYNASTY: 漢
 :RESP: 鄭玄
 :END:
