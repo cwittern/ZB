@@ -5255,58 +5255,115 @@
 *** [[mandoku:ZB1c0031.org][ZB1c0031]] 讀詩私記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李先芳
+:SOURCE:   四庫全書 文淵閣版, V79.2, p505
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 李先芳
+**** responsible:
+***** 李先芳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0032.org][ZB1c0032]] 詩故
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱謀&
+:SOURCE:   四庫全書 文淵閣版, V79.3, p549
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 朱謀&
+**** responsible:
+***** 朱謀㙔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1624
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0033.org][ZB1c0033]] 六家詩名物疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮復京
+:SOURCE:   四庫全書 文淵閣版, V80.1, p1
+:EXTENT: 55 卷
+:BOOK:   24
 :END:
-**** dynasty: 明
-**** responsible: 馮復京
+**** responsible:
+***** 馮復京
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 引用書目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
+**** 提要
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB1c0034.org][ZB1c0034]] 重訂詩經疑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 姚舜牧
+:SOURCE:   四庫全書 文淵閣版, V80.2, p579
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 姚舜牧
+**** responsible:
+***** 姚舜牧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1543 - 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0035.org][ZB1c0035]] 詩經世本古義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何楷
+:SOURCE:   四庫全書 文淵閣版, V81.1, p1
+:EXTENT: 28 卷
+:BOOK:   18
+:DATE:   1625
 :END:
-**** dynasty: 明
-**** responsible: 何楷
+**** responsible:
+***** 何楷
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1543 - 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
+**** 卷後
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB1c0036.org][ZB1c0036]] 待軒詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0036
