@@ -4021,69 +4021,118 @@
 *** [[mandoku:ZB1b0034.org][ZB1b0034]] 尚書疑義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馬明衡
+:SOURCE:   四庫全書 文淵閣版, V64.2, p99
+:EXTENT: 6 卷
+:BOOK:   3
+:DATE:   1517
 :END:
-**** dynasty: 明
-**** responsible: 馬明衡
+**** responsible:
+***** 馬明衡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0035.org][ZB1b0035]] 尚書日記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王樵
+:SOURCE:   四庫全書 文淵閣版, V64.3, p221
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 王樵
+**** responsible:
+***** 王樵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1599
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0036.org][ZB1b0036]] 尚書砭蔡編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁仁
+:SOURCE:   四庫全書 文淵閣版, V64.4, p679
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 袁仁
+**** responsible:
+***** 袁仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0037.org][ZB1b0037]] 尚書注考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳泰交
+:SOURCE:   四庫全書 文淵閣版, V64.5, p703
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 陳泰交
+**** responsible:
+***** 陳泰交
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    16th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0038.org][ZB1b0038]] 尚書疏衍
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳第
+:SOURCE:   四庫全書 文淵閣版, V64.6, p725
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 陳第
+**** responsible:
+***** 陳第
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1541 - 1617
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0039.org][ZB1b0039]] 洪範明義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V64.7, p797
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB1b0040.org][ZB1b0040]] 日講書經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0040
