@@ -4233,50 +4233,102 @@
       :FUNCTION: 輯
       :END:
 
-*** [[mandoku:ZB1b0044.org][ZB1b0044]] 古文尚書詞
+*** [[mandoku:ZB1b0044.org][ZB1b0044]] 古文尚書寃詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V66.3, p543
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0045.org][ZB1b0045]] 尚書廣聽錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V66.4, p631
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0046.org][ZB1b0046]] 尚書埤傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱鶴齡
+:SOURCE:   四庫全書 文淵閣版, V66.5, p687
+:EXTENT: 15 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 朱鶴齡
+**** responsible:
+***** 朱鶴齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1606 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)書經考異
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
+**** 卷末:古文尚書逸篇
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1b0047.org][ZB1b0047]] 禹貢長箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 朱鶴齡
+:SOURCE:   四庫全書 文淵閣版, V67.1, p1
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 朱鶴齡
+**** responsible:
+***** 朱鶴齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1606 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首　圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB1b0048.org][ZB1b0048]] 禹貢錐指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0048
