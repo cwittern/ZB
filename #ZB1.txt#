@@ -3968,28 +3968,30 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 朱祖義
+***** 劉三吾
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: 撰
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1312 - 1399
       :END:
 
-:DYNASTY: 明
-:RESP: 劉三吾
-:END:
-**** dynasty: 明
-**** responsible: 劉三吾
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0032.org][ZB1b0032]] 書經大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡廣
+:SOURCE:   四庫全書 文淵閣版, V63.2, p185
+:EXTENT: 10 卷
+:BOOK:   11
 :END:
-**** dynasty: 明
-**** responsible: 胡廣
+**** responsible:
+***** 胡廣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1370 - 1418
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0033.org][ZB1b0033]] 尚書考異
