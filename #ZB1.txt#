@@ -6312,58 +6312,135 @@
 *** [[mandoku:ZB1d0023.org][ZB1d0023]] 儀禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V102.1, p1
+:EXTENT: 17 卷
+:BOOK:   14
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :DATES:    127 - 200
+      :END:
+
+***** 賈公彥
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (14)
+      :END:
+***** responsible:
+****** 周學健
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 李清植
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0024.org][ZB1d0024]] 儀禮識誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張淳
+:SOURCE:   四庫全書 文淵閣版, V103.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 張淳
+**** responsible:
+***** 張淳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1172
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0025.org][ZB1d0025]] 儀禮集釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李如圭
+:SOURCE:   四庫全書 文淵閣版, V103.2, p31
+:EXTENT: 30 卷
+:BOOK:   16
+:DATE:   1193
 :END:
-**** dynasty: 宋
-**** responsible: 李如圭
+**** responsible:
+***** 李如圭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0026.org][ZB1d0026]] 儀禮釋宮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李如圭
+:SOURCE:   四庫全書 文淵閣版, V103.3, p521
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1193
 :END:
-**** dynasty: 宋
-**** responsible: 李如圭
+**** responsible:
+***** 李如圭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0027.org][ZB1d0027]] 儀禮圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊復
+:SOURCE:   四庫全書 文淵閣版, V104.1, p1
+:EXTENT: 17 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 楊復
+**** responsible:
+***** 楊復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1228
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 儀禮旁通圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1d0028.org][ZB1d0028]] 儀禮要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0028
