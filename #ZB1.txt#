@@ -6270,36 +6270,43 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    166 - 1749
+      :DATES:    1670 - 1741
       :END:
 
-:DYNASTY: 清
-:RESP: 惠士奇
-:END:
-**** dynasty: 清
-**** responsible: 惠士奇
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0021.org][ZB1d0021]] 周官祿田考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈彤
+:SOURCE:   四庫全書 文淵閣版, V101.3, p665
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 沈彤
+**** responsible:
+***** 沈彤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1688 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0022.org][ZB1d0022]] 周禮疑義擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V101.4, p715
+:EXTENT: 7 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0023.org][ZB1d0023]] 儀禮注疏
