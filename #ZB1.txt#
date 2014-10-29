@@ -4436,46 +4436,97 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 蔣廷錫
+***** 徐文靖
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1669 - 1732
+      :DATES:    1667 - 1756
       :END:
 
-:DYNASTY: 清
-:RESP: 徐文靖
-:END:
-**** dynasty: 清
-**** responsible: 徐文靖
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** 圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB1b0054.org][ZB1b0054]] 尚書大傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 伏勝
+:SOURCE:   四庫全書 文淵閣版, V68.6, p385
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 伏勝
+**** responsible:
+***** 伏勝
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :END:
+
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 註
+      :END:
+
+***** 孫之騄
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0055.org][ZB1b0055]] 書義矜式
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王充耘
+:SOURCE:   四庫全書 文淵閣版, V68.7, p425
+:EXTENT: 6 卷
+:BOOK:   4
+:DATE:   1333
 :END:
-**** dynasty: 元
-**** responsible: 王充耘
+**** responsible:
+***** 王充耘
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0056.org][ZB1b0056]] 詩序
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0056
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V69.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王充耘
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱熹
 :END:
