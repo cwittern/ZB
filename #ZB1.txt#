@@ -4830,107 +4830,174 @@
 *** [[mandoku:ZB1c0010.org][ZB1c0010]] 慈湖詩傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0010
-:SOURCE:   四庫全書 文淵閣版, V73.1, p74
-:EXTENT: 8 卷
-:BOOK:   4
+:SOURCE:   四庫全書 文淵閣版, V73.1, p1
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 朱熹
+***** 楊簡
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1130 - 1200
+      :DATES:    1140 - 1225
       :END:
 
-:DYNASTY: 宋
-:RESP: 楊簡
-:END:
-**** dynasty: 宋
-**** responsible: 楊簡
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0011.org][ZB1c0011]] 呂氏家塾讀詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP:  呂祖謙
+:SOURCE:   四庫全書 文淵閣版, V73.2, p321
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible:  呂祖謙
+**** responsible:
+***** 呂祖謙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1181
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0012.org][ZB1c0012]] 續呂氏家塾讀詩記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 戴溪
+:SOURCE:   四庫全書 文淵閣版, V73.3, p799
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 戴溪
+**** responsible:
+***** 戴溪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1178 - 1215
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1c0012a.org][ZB1c0012a]] 絜齋毛詩經筵講義
+# *** [[mandoku:ZB1c0012a.org][ZB1c0012a]] 絜齋毛詩經筵講義
 *** [[mandoku:ZB1c0013.org][ZB1c0013]] 絜齋毛詩經筵講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 袁燮
+:SOURCE:   四庫全書 文淵閣版, V74.1, p1
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 袁燮
+**** responsible:
+***** 袁燮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1144 - 1224
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0014.org][ZB1c0014]] 毛詩講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 林岊
+:SOURCE:   四庫全書 文淵閣版, V74.2, p43
+:EXTENT: 12 卷
+:BOOK:   6
+:DATE:   1187
 :END:
-**** dynasty: 宋
-**** responsible: 林岊
+**** responsible:
+***** 林岊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1c0015.org][ZB1c0015]] 童子問
+*** [[mandoku:ZB1c0015.org][ZB1c0015]] 詩童子問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 輔廣
+:SOURCE:   四庫全書 文淵閣版, V74.3, p271
+:EXTENT: 8 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 輔廣
+**** responsible:
+***** 輔廣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1c0016.org][ZB1c0016]] 毛詩集解
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+**** 卷末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+*** [[mandoku:ZB1c0016.org][ZB1c0016]] 段氏毛詩集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 段昌武
+:SOURCE:   四庫全書 文淵閣版, V74.4, p421
+:EXTENT: 存25 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 段昌武
+**** responsible:
+***** 段昌武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首　學詩總說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1c0017.org][ZB1c0017]] 詩緝
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嚴粲
+:SOURCE:   四庫全書 文淵閣版, V75.1, p1
+:EXTENT: 36 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 嚴粲
+**** responsible:
+***** 嚴粲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1248
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0018.org][ZB1c0018]] 詩傳遺說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0018
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V75.2, p1
+:EXTENT: 36 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 嚴粲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1248
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱鑑
 :END:
