@@ -4604,15 +4604,39 @@
       :FUNCTION: 錄
       :END:
 
+**** 考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 張照
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 勵宗萬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB1b0058.org][ZB1b0058]] 毛詩草木鳥獸蟲魚疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 吳
-:RESP: 陸璣
+:SOURCE:   四庫全書 文淵閣版, V70.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 吳
-**** responsible: 陸璣
+**** responsible:
+***** 陸璣
+      :PROPERTIES:
+      :DYNASTY:  吳
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB1c 詩類
