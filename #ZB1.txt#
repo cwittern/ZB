@@ -4521,30 +4521,89 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 王充耘
+***** 卜商
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  周
       :FUNCTION: 撰
+      :DATES:    -507 - -400
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱熹
-:END:
-**** dynasty: 宋
-**** responsible: 朱熹
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 辨說
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V69.2, p43
+:EXTENT: 30 卷
+:BOOK:   22
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 毛亨
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 傳
+      :DATES:    -2nd cent
+      :END:
+
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 箋
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:毛詩譜附考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :END:
+
+**** 附:毛詩注疏原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 毛詩注解傳述人
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 錄
+      :END:
+
 *** [[mandoku:ZB1b0058.org][ZB1b0058]] 毛詩草木鳥獸蟲魚疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0058
