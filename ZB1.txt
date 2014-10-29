@@ -4516,63 +4516,183 @@
 *** [[mandoku:ZB1b0056.org][ZB1b0056]] 詩序
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V69.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 卜商
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -507 - -400
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 辨說
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V69.2, p43
+:EXTENT: 30 卷
+:BOOK:   22
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 毛亨
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 傳
+      :DATES:    -2nd cent
+      :END:
+
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 箋
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:毛詩譜附考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :END:
+
+**** 附:毛詩注疏原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 毛詩注解傳述人
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 錄
+      :END:
+
+**** 考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (22)
+      :END:
+***** responsible:
+****** 張照
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 勵宗萬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB1b0058.org][ZB1b0058]] 毛詩草木鳥獸蟲魚疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 吳
-:RESP: 陸璣
+:SOURCE:   四庫全書 文淵閣版, V70.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 吳
-**** responsible: 陸璣
+**** responsible:
+***** 陸璣
+      :PROPERTIES:
+      :DYNASTY:  吳
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB1c 詩類
 *** [[mandoku:ZB1c0001.org][ZB1c0001]] 陸氏詩疏廣要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 毛晉
+:SOURCE:   四庫全書 文淵閣版, V70.2, p23
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 毛晉
+**** responsible:
+***** 陸璣
+      :PROPERTIES:
+      :DYNASTY:  吳
+      :FUNCTION: 撰
+      :END:
+
+***** 毛晉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 廣要
+      :DATES:    1599 - 1659
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0002.org][ZB1c0002]] 毛詩指說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 成伯璵
+:SOURCE:   四庫全書 文淵閣版, V70.3, p169
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 成伯璵
+**** responsible:
+***** 成伯璵
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1c0003.org][ZB1c0003]] 詩本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0003
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V70.4, p181
+:EXTENT: 15 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 歐陽修
 :END:
