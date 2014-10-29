@@ -5858,35 +5858,91 @@
 :BOOK:   24
 :END:
 **** responsible:
-***** 韓嬰
+***** 鄭玄
       :PROPERTIES:
       :DYNASTY:  漢
-      :FUNCTION: 撰
-      :DATES:    fl. -166
+      :FUNCTION: 注
+      :DATES:    127 - 200
       :END:
 
-:DYNASTY: 漢
-:RESP: 鄭玄
-:END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+***** 賈公彥
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (24)
+      :END:
+***** responsible:
+****** 吳紱
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB1d0002.org][ZB1d0002]] 周官新義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王安石
+:SOURCE:   四庫全書 文淵閣版, V91.1, p1
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王安石
+**** responsible:
+***** 王安石
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1021 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考工記解
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 王安石
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+****** 鄭宗顏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 *** [[mandoku:ZB1d0003.org][ZB1d0003]] 周禮詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0003
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V91.2, p197
+:EXTENT: 40 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 王安石
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1021 - 1086
+      :END:
+
 :DYNASTY: 宋
 :RESP: 王昭禹
 :END:
