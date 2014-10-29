@@ -4158,47 +4158,82 @@
 *** [[mandoku:ZB1b0041.org][ZB1b0041]] 欽定書經傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0041
-:SOURCE:   四庫全書 文淵閣版, V65.2, p1
-:EXTENT: 13 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V65.2, p375
+:EXTENT: 21 卷
+:BOOK:   20
 :END:
 **** responsible:
-***** 庫勒納
+***** 王頊齡
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 奉敕編
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1725
       :END:
 
-:DYNASTY: 清
-:RESP: 王頊齡
-:END:
-**** dynasty: 清
-**** responsible: 王頊齡
 **** textual witnesses
 ***** WYG
+**** 書序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (20)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (20)
+      :END:
+
 *** [[mandoku:ZB1b0042.org][ZB1b0042]] 尚書稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王夫之
+:SOURCE:   四庫全書 文淵閣版, V66.1, p1
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 王夫之
+**** responsible:
+***** 王夫之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1619 - 1692
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1b0043.org][ZB1b0043]] 尚書古文疏證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 閻若璩
+:SOURCE:   四庫全書 文淵閣版, V66.2, p127
+:EXTENT: 8 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 閻若璩
+**** responsible:
+***** 閻若璩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1636 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1b0044.org][ZB1b0044]] 古文尚書&詞
+**** 附錄:朱子古文書疑
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 閻詠
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
+*** [[mandoku:ZB1b0044.org][ZB1b0044]] 古文尚書詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0044
 :SOURCE:   四庫全書 文淵閣版
