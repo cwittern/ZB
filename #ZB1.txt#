@@ -6444,62 +6444,117 @@
 *** [[mandoku:ZB1d0028.org][ZB1d0028]] 儀禮要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏了翁
+:SOURCE:   四庫全書 文淵閣版, V104.2, p341
+:EXTENT: 50 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 魏了翁
+**** responsible:
+***** 魏了翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1237
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0029.org][ZB1d0029]] 儀禮逸經
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V105.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0030.org][ZB1d0030]] 儀禮集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 敖繼公
+:SOURCE:   四庫全書 文淵閣版, V105.2, p33
+:EXTENT: 17 卷
+:BOOK:   16
 :END:
-**** dynasty: 元
-**** responsible: 敖繼公
+**** responsible:
+***** 敖繼公
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0031.org][ZB1d0031]] 經禮補逸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 汪克寬
+:SOURCE:   四庫全書 文淵閣版, V105.3, p635
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 汪克寬
+**** responsible:
+***** 汪克寬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1304 - 1372
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB1d0032.org][ZB1d0032]] 欽定儀禮義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V106.1, p1 - V107.1
+:EXTENT: 48 卷
+:BOOK:   50
+:DATE:   乾隆十三年
 :END:
-**** dynasty: 清乾隆十二年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (50)
+      :END:
+
 *** [[mandoku:ZB1d0033.org][ZB1d0033]] 儀禮鄭註句讀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0033
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V108.1, p1
+:EXTENT: 17 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 張爾岐
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1612 - 1678
+      :END:
+
 :DYNASTY: 清
 :RESP: 張爾岐
 :END:
