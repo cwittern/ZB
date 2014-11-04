@@ -7003,39 +7003,55 @@
       :BOOK:   (2)
       :END:
 
-:DYNASTY: 明
-:RESP: 黃道周
-:END:
-**** dynasty: 明
-**** responsible: 黃道周
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB1d0056.org][ZB1d0056]] 緇衣集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.5, p1013
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0057.org][ZB1d0057]] 儒行集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.6, p1119
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0058.org][ZB1d0058]] 日講禮記解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0058
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V123.1, p1
+:EXTENT: 64 卷
+:BOOK:   30
+:END:
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 :DYNASTY: 清康熙中
 :RESP: 
 :END:

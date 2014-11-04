@@ -6807,124 +6807,236 @@
 *** [[mandoku:ZB1d0047.org][ZB1d0047]] 禮記注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V115.1, p1 - V116.1
+:EXTENT: 63 卷
+:BOOK:   32
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :DATES:    127 - 200
+      :END:
+
+***** 孔穎達
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (32)
+      :END:
+***** responsible:
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0048.org][ZB1d0048]] 月令解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張虙
+:SOURCE:   四庫全書 文淵閣版, V116.2, p537
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張虙
+**** responsible:
+***** 張虙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0049.org][ZB1d0049]] 禮記集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 衞湜
+:SOURCE:   四庫全書 文淵閣版, V117.1, p1 - V120.1
+:EXTENT: 160 卷
+:BOOK:   84
 :END:
-**** dynasty: 宋
-**** responsible: 衞湜
+**** responsible:
+***** 衞湜
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0050.org][ZB1d0050]] 禮記纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V121.1, p1
+:EXTENT: 36 卷
+:BOOK:   26
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0051.org][ZB1d0051]] 禮記集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳澔
+:SOURCE:   四庫全書 文淵閣版, V121.2, p679
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 元
-**** responsible: 陳澔
+**** responsible:
+***** 陳澔
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1261 - 1341
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0052.org][ZB1d0052]] 禮記大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡廣
+:SOURCE:   四庫全書 文淵閣版, V122.1, p1
+:EXTENT: 30 卷
+:BOOK:   18
 :END:
-**** dynasty: 明
-**** responsible: 胡廣
+**** responsible:
+***** 胡廣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1370 - 1418
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0053.org][ZB1d0053]] 月令明義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.2, p783
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1d0054.org][ZB1d0054]] 表記集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.3, p833
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)春秋表記問業
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1d0055.org][ZB1d0055]] 坊記集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.4, p927
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)坊記春秋問業
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1d0056.org][ZB1d0056]] 緇衣集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.5, p1013
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0057.org][ZB1d0057]] 儒行集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V122.6, p1119
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
-***** WYG
+***** WYG<!--- here 2014-10-29 --->
 *** [[mandoku:ZB1d0058.org][ZB1d0058]] 日講禮記解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0058
