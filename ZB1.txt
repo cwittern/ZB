@@ -7915,191 +7915,309 @@
 *** [[mandoku:ZB1e0012.org][ZB1e0012]] 春秋皇綱論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王晳
+:SOURCE:   四庫全書 文淵閣版, V147.2, p127
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王晳
+**** responsible:
+***** 王晳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0013.org][ZB1e0013]] 春秋通義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V147.3, p159
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0014.org][ZB1e0014]] 春秋權衡
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V147.4, p171
+:EXTENT: 17 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible:
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0015.org][ZB1e0015]] 春秋傳
+*** [[mandoku:ZB1e0015.org][ZB1e0015]] 劉氏春秋傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V147.5, p363
+:EXTENT: 15 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible:
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0016.org][ZB1e0016]] 劉氏春秋意林
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V147.6, p485
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible:
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0017.org][ZB1e0017]] 春秋傳說例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉敞
+:SOURCE:   四庫全書 文淵閣版, V147.7, p541
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉敞
+**** responsible:
+***** 劉敞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0018.org][ZB1e0018]] 春秋經解
+*** [[mandoku:ZB1e0018.org][ZB1e0018]] 孫氏春秋經解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孫覺
+:SOURCE:   四庫全書 文淵閣版, V147.8, p551
+:EXTENT: 13 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 孫覺
+**** responsible:
+***** 孫覺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1028 - 1090
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0019.org][ZB1e0019]] 春秋集解
+*** [[mandoku:ZB1e0019.org][ZB1e0019]] 蘇氏春秋集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇轍
+:SOURCE:   四庫全書 文淵閣版, V148.1, p1
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 蘇轍
+**** responsible:
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1039 - 1112
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0020.org][ZB1e0020]] 春秋辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蕭楚
+:SOURCE:   四庫全書 文淵閣版, V148.2, p107
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 蕭楚
+**** responsible:
+***** 蕭楚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1064 - 1130
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0021.org][ZB1e0021]] 春秋經解
+*** [[mandoku:ZB1e0021.org][ZB1e0021]] 崔氏春秋經解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 崔子方
+:SOURCE:   四庫全書 文淵閣版, V148.3, p173
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 崔子方
+**** responsible:
+***** 崔子方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)春秋例要
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB1e0022.org][ZB1e0022]] 春秋本例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 崔子方
+:SOURCE:   四庫全書 文淵閣版, V148.4, p345
+:EXTENT: 20 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 崔子方
+**** responsible:
+***** 崔子方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0023.org][ZB1e0023]] 春秋五禮例宗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張大亨
+:SOURCE:   四庫全書 文淵閣版, V148.5, p459
+:EXTENT: 存7 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張大亨
+**** responsible:
+***** 張大亨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0024.org][ZB1e0024]] 春秋通訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張大亨
+:SOURCE:   四庫全書 文淵閣版, V148.6, p535
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張大亨
+**** responsible:
+***** 張大亨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0025.org][ZB1e0025]] 葉氏春秋傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V149.1, p1
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0026.org][ZB1e0026]] 春秋考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V149.2, p247
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0027.org][ZB1e0027]] 春秋左傳讞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葉夢得
+:SOURCE:   四庫全書 文淵閣版, V149.3, p495
+:EXTENT: 22 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 葉夢得
+**** responsible:
+***** 葉夢得
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1077 - 1148
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0027a.org][ZB1e0027a]] 春秋三傳讞__春秋左傳讞
-*** [[mandoku:ZB1e0027b.org][ZB1e0027b]] 春秋三傳讞__春秋公羊傳讞
-*** [[mandoku:ZB1e0027c.org][ZB1e0027c]] 春秋三傳讞__春秋穀梁傳讞
-*** [[mandoku:ZB1e0028.org][ZB1e0028]] 春秋集解
+**** [[mandoku:ZB1e0027a.org][ZB1e0027a]] 春秋左傳讞
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB1e0027b.org][ZB1e0027b]] 春秋公羊傳讞
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (3)
+      :END:
+
+**** [[mandoku:ZB1e0027c.org][ZB1e0027c]] 春秋穀梁傳讞
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (3)
+      :END:
+
+*** [[mandoku:ZB1e0028.org][ZB1e0028]] 呂氏春秋集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂本中
+:SOURCE:   四庫全書 文淵閣版, V150.1, p1
+:EXTENT: 30 卷
+:BOOK:   14
+:DATE:   1136
 :END:
-**** dynasty: 宋
-**** responsible: 呂本中
+**** responsible:
+***** 呂本中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0029.org][ZB1e0029]] 春秋傳
