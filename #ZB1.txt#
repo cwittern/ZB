@@ -9247,95 +9247,165 @@
 *** [[mandoku:ZB1e0076.org][ZB1e0076]] 春秋左傳屬事
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 傅遜
+:SOURCE:   四庫全書 文淵閣版, V169.3, p491
+:EXTENT: 20 卷
+:BOOK:   18
 :END:
-**** dynasty: 明
-**** responsible: 傅遜
+**** responsible:
+***** 傅遜
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0077.org][ZB1e0077]] 春秋胡傳考誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 袁仁
+:SOURCE:   四庫全書 文淵閣版, V169.4, p937
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 袁仁
+**** responsible:
+***** 袁仁
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0078.org][ZB1e0078]] 左氏釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮時可
+:SOURCE:   四庫全書 文淵閣版, V169.5, p953
+:EXTENT: 2 卷
+:BOOK:   1
+:DATE:   1571
 :END:
-**** dynasty: 明
-**** responsible: 馮時可
+**** responsible:
+***** 馮時可
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0079.org][ZB1e0079]] 春秋質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊于庭
+:SOURCE:   四庫全書 文淵閣版, V169.6, p979
+:EXTENT: 12 卷
+:BOOK:   2
+:DATE:   1580
 :END:
-**** dynasty: 明
-**** responsible: 楊于庭
+**** responsible:
+***** 楊于庭
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0080.org][ZB1e0080]] 春秋孔義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高攀龍
+:SOURCE:   四庫全書 文淵閣版, V170.1, p1
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 高攀龍
+**** responsible:
+***** 高攀龍
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1562 - 1626
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0081.org][ZB1e0081]] 春秋辯義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 卓爾康
+:SOURCE:   四庫全書 文淵閣版, V170.2, p155
+:EXTENT: 30 卷
+:BOOK:   30
 :END:
-**** dynasty: 明
-**** responsible: 卓爾康
+**** responsible:
+***** 卓爾康
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1570 - 1644
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0082.org][ZB1e0082]] 讀春秋畧記
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   (30)
+      :END:
+
+*** [[mandoku:ZB1e0082.org][ZB1e0082]] 讀春秋略記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱朝瑛
+:SOURCE:   四庫全書 文淵閣版, V171.1, p1
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 朱朝瑛
+**** responsible:
+***** 朱朝瑛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+# ?
+      :DATES:    1605 - 1570
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:總論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB1e0083.org][ZB1e0083]] 春秋四傳質
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王介之
+:SOURCE:   四庫全書 文淵閣版, V171.2, p227
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 王介之
+**** responsible:
+***** 王介之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0084.org][ZB1e0084]] 左傳杜林合注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0084
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V171.3, p323
+:EXTENT:  卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 王介之
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 王道焜
 :END:
