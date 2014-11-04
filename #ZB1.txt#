@@ -7045,67 +7045,118 @@
 :BOOK:   30
 :END:
 **** responsible:
-***** 黃道周
+***** 張廷玉
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
-      :DATES:    1585 - 1646
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1672 - 1755
       :END:
 
-:DYNASTY: 清康熙中
-:RESP: 
-:END:
-**** dynasty: 清康熙中
+***** 鄂爾泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
+***** 汪由敦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0059.org][ZB1d0059]] 欽定禮記義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十三年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V124.1, p1 - V126.1
+:EXTENT: 82 卷
+:BOOK:   62
+:DATE:   乾隆十三年
 :END:
-**** dynasty: 清乾隆十三年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (62)
+      :END:
+
 *** [[mandoku:ZB1d0060.org][ZB1d0060]] 深衣考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃宗義
+:SOURCE:   四庫全書 文淵閣版, V127.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 黃宗義
+**** responsible:
+***** 黃宗義
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1610 - 1695
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0061.org][ZB1d0061]] 陳氏禮記集說補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 納喇性德
+:SOURCE:   四庫全書 文淵閣版, V127.2, p15
+:EXTENT: 38 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 納喇性德
+**** responsible:
+***** 納喇性德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1655 - 1685
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0062.org][ZB1d0062]] 禮記述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光坡
+:SOURCE:   四庫全書 文淵閣版, V127.3, p279
+:EXTENT: 28 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 李光坡
+**** responsible:
+***** 李光坡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1651 - 1723
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0063.org][ZB1d0063]] 禮記析疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0063
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V128.1, p1
+:EXTENT: 48 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1651 - 1723
+      :END:
+
 :DYNASTY: 清
 :RESP: 方苞
 :END:
