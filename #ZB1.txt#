@@ -7710,86 +7710,189 @@
 *** [[mandoku:ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 范甯
+:SOURCE:   四庫全書 文淵閣版, V145.2, p535
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 晉
-**** responsible: 范甯
+**** responsible:
+***** 穀梁赤
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 范寧
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 集解
+      :END:
+
+***** 楊士勛
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0004.org][ZB1e0004]] 箴膏肓
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 鄭玄
+:SOURCE:   四庫全書 文淵閣版, V145.3, p863
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 鄭玄
+**** responsible:
+***** 鄭玄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    127 - 200
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0004a.org][ZB1e0004a]] 起廢疾
-*** [[mandoku:ZB1e0004b.org][ZB1e0004b]] 發墨守
+**** [[mandoku:ZB1e0004a.org][ZB1e0004a]] 起廢疾
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB1e0004b.org][ZB1e0004b]] 發墨守
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB1e0005.org][ZB1e0005]] 春秋釋例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 杜預
+:SOURCE:   四庫全書 文淵閣版, V146.1, p1
+:EXTENT: 15 卷
+:BOOK:   10
 :END:
-**** dynasty: 晉
-**** responsible: 杜預
+**** responsible:
+***** 杜預
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    222 - 284
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0006.org][ZB1e0006]] 春秋集傳纂例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸淳
+:SOURCE:   四庫全書 文淵閣版, V146.2, p375
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 陸淳
+**** responsible:
+***** 陸淳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0007.org][ZB1e0007]] 春秋集傳微旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸淳
+:SOURCE:   四庫全書 文淵閣版, V146.3, p537
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 唐
-**** responsible: 陸淳
+**** responsible:
+***** 陸淳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0008.org][ZB1e0008]] 春秋集傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 陸淳
+:SOURCE:   四庫全書 文淵閣版, V146.4, p595
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 唐
-**** responsible: 陸淳
+**** responsible:
+***** 陸淳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0009.org][ZB1e0009]] 春秋名號歸一圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後蜀
-:RESP: 馮繼先
+:SOURCE:   四庫全書 文淵閣版, V146.5, p685
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 後蜀
-**** responsible: 馮繼先
+**** responsible:
+***** 馮繼先
+      :PROPERTIES:
+      :DYNASTY:  後蜀
+      :FUNCTION: 撰
+      :END:
+
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0010.org][ZB1e0010]] 春秋年表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V146.6, p719
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: □
 :RESP: 闕名
 :END:
