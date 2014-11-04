@@ -8606,38 +8606,77 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    fl. 1295
+      :DATES:    fl. 1279 - 1328
       :END:
 
-:DYNASTY: 宋
-:RESP: 陳深
-:END:
-**** dynasty: 宋
-**** responsible: 陳深
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0048.org][ZB1e0048]] 春秋集傳釋義大成
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 俞皋
+:SOURCE:   四庫全書 文淵閣版, V159.1, p1
+:EXTENT: 12 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 俞皋
+**** responsible:
+***** 兪皋
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 諸家傳序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
+**** 綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
+**** 春秋世次圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (10)
+      :END:
+
 *** [[mandoku:ZB1e0049.org][ZB1e0049]] 春秋纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V159.2, p335
+:EXTENT: 19 卷
+:BOOK:   10
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總例
+      :PROPERTIES:
+      :EXTENT: (7) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 春秋纂言
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB1e0050.org][ZB1e0050]] 春秋提綱
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0050
