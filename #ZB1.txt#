@@ -7422,44 +7422,121 @@
 
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (38)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (38)
+      :END:
+
+**** (附)論律呂
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (38)
+      :END:
+
+**** 深衣考誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (38)
+      :END:
 
 *** [[mandoku:ZB1d0078.org][ZB1d0078]] 五禮通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 泰蕙田
+:SOURCE:   四庫全書 文淵閣版, V135.1, p1 - V142.1
+:EXTENT: 262 卷
+:BOOK:   228
 :END:
-**** dynasty: 清
-**** responsible: 泰蕙田
+**** responsible:
+***** 泰蕙田
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1702 - 1764
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (228)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (228)
+      :END:
+
 *** [[mandoku:ZB1d0079.org][ZB1d0079]] 書儀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V142.2, p457
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0080.org][ZB1d0080]] 家禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V142.3, p527
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1d0081.org][ZB1d0081]] 泰泉鄉禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0081
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V142.4, p591
+:EXTENT: 7 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 :DYNASTY: 明
 :RESP: 黃佐
 :END:
