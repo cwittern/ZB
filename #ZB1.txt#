@@ -10552,68 +10552,96 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 熊明來
+***** 何異孫
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1246 - 1323
       :END:
 
-:DYNASTY: 元
-:RESP: 何異
-:END:
-**** dynasty: 元
-**** responsible: 何異
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0015.org][ZB1g0015]] 五經蠡測
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 蔣悌生
+:SOURCE:   四庫全書 文淵閣版, V184.5, p433
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 蔣悌生
+**** responsible:
+***** 蔣悌生
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0016.org][ZB1g0016]] 簡端錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 邵寶
+:SOURCE:   四庫全書 文淵閣版, V184.6, p539
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 邵寶
+**** responsible:
+***** 邵寶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1460 - 1527
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0017.org][ZB1g0017]] 五經稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱睦&
+:SOURCE:   四庫全書 文淵閣版, V184.7, p679
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 朱睦&
+**** responsible:
+***** 朱睦㮮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1517 - 1586
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0018.org][ZB1g0018]] 經典稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳耀文
+:SOURCE:   四庫全書 文淵閣版, V184.8, p779
+:EXTENT: 2 卷
+:BOOK:   2
+:DATE:   1550
 :END:
-**** dynasty: 明
-**** responsible: 陳耀文
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1g0019 御製繙譯易經
+*** ZB1g0019 御製繙譯五經四書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V185.1, p1 - V189.1
+:EXTENT: 131 卷
+:BOOK:   128
+:DATE:   1550
+:END:
+**** responsible:
+***** 陳耀文
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清乾隆中
 :RESP: 
 :END:
