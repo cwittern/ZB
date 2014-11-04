@@ -10132,12 +10132,31 @@
 *** [[mandoku:ZB1f0003.org][ZB1f0003]] 孝經指解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V182.3, p85
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 玄宗
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 御注
+      :DATES:    597 - 649
+      :END:
+
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 指解
+      :DATES:    1019 - 1086
+      :END:
+
+***** 范祖禹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 說
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刊誤
