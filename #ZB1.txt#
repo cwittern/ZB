@@ -8859,102 +8859,211 @@
 *** [[mandoku:ZB1e0058.org][ZB1e0058]] 春秋集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V164.1, p1
+:EXTENT: 15 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0059.org][ZB1e0059]] 春秋師說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V164.2, p253
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB1e0060.org][ZB1e0060]] 春秋左氏傳補註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V164.3, p327
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0061.org][ZB1e0061]] 春秋金鎖匙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V164.4, p413
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0062.org][ZB1e0062]] 春秋屬辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 趙汸
+:SOURCE:   四庫全書 文淵閣版, V164.5, p441
+:EXTENT: 15 卷
+:BOOK:   8
 :END:
-**** dynasty: 元
-**** responsible: 趙汸
+**** responsible:
+***** 趙汸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1319 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB1e0063.org][ZB1e0063]] 春秋胡傳附錄纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 汪克寬
+:SOURCE:   四庫全書 文淵閣版, V165.1, p1
+:EXTENT: 30 卷
+:BOOK:   28
 :END:
-**** dynasty: 元
-**** responsible: 汪克寬
+**** responsible:
+***** 汪克寬
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1304 - 1372
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (28)
+      :END:
+
 *** [[mandoku:ZB1e0064.org][ZB1e0064]] 春秋春王正月考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張以寧
+:SOURCE:   四庫全書 文淵閣版, V165.2, p753
+:EXTENT: 1 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 張以寧
+**** responsible:
+***** 張以寧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1301 - 1370
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0065.org][ZB1e0065]] 春秋書法鈎元
+**** 辨疑
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB1e0065.org][ZB1e0065]] 春秋書法鉤元
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 石光霽
+:SOURCE:   四庫全書 文淵閣版, V165.3, p807
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 石光霽
+**** responsible:
+***** 石光霽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0066.org][ZB1e0066]] 春秋大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡廣
+:SOURCE:   四庫全書 文淵閣版, V166.1, p1
+:EXTENT: 37 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 胡廣
+**** responsible:
+***** 胡廣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1370 - 1418
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 序論
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 諸國興廢說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 列國圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 二十國年表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB1e0067.org][ZB1e0067]] 春秋經傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0067
