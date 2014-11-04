@@ -10159,70 +10159,111 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刊誤
+*** [[mandoku:ZB1f0004.org][ZB1f0004]] 孝經刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V182.4, p103
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0005.org][ZB1f0005]] 孝經大義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 董鼎
+:SOURCE:   四庫全書 文淵閣版, V182.5, p111
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 董鼎
+**** responsible:
+***** 董鼎
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0006.org][ZB1f0006]] 孝經定本
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吳澄
+:SOURCE:   四庫全書 文淵閣版, V182.6, p127
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 吳澄
+**** responsible:
+***** 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0007.org][ZB1f0007]] 孝經述註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 項霦
+:SOURCE:   四庫全書 文淵閣版, V182.7, p141
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 項霦
+**** responsible:
+***** 項霦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0008.org][ZB1f0008]] 孝經集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 黃道周
+:SOURCE:   四庫全書 文淵閣版, V182.8, p155
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 黃道周
+**** responsible:
+***** 黃道周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1585 - 1646
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0009.org][ZB1f0009]] 御定孝經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 蔣赫德
+:SOURCE:   四庫全書 文淵閣版, V182.9, p255
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 蔣赫德
+**** responsible:
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    1678 - 1735
+      :END:
+
+***** 蔣赫德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1f0010.org][ZB1f0010]] 御纂孝經集註
