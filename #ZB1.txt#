@@ -7291,67 +7291,98 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 劉績
+***** 萬斯大
       :PROPERTIES:
-      :DYNASTY:  明
+      :DYNASTY:  清
       :FUNCTION: 撰
+      :DATES:    1633 - 1683
       :END:
 
-:DYNASTY: 清
-:RESP: 萬斯大
-:END:
-**** dynasty: 清
-**** responsible: 萬斯大
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0072.org][ZB1d0072]] 讀禮志疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V129.4, p475
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible:
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0073.org][ZB1d0073]] 郊社禘祫問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V129.5, p569
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0074.org][ZB1d0074]] 參讀禮志疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪紱
+:SOURCE:   四庫全書 文淵閣版, V129.6, p585
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 汪紱
+**** responsible:
+***** 汪紱
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1759
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0075.org][ZB1d0075]] 禮書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳祥道
+:SOURCE:   四庫全書 文淵閣版, V130.1, p1
+:EXTENT: 150 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 陳祥道
+**** responsible:
+***** 陳祥道
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1053 - 1093
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1d0076.org][ZB1d0076]] 儀禮經傳通解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0076
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V131.1, p1 - V132.1
+:EXTENT: 37 卷
+:BOOK:   22
+:END:
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 12
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱熹
 :END:
