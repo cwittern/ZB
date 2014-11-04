@@ -7608,18 +7608,105 @@
 
 **** textual witnesses
 ***** WYG
+**** 諸家序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (36)
+      :END:
+
+**** (附)原目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (36)
+      :END:
+
+**** 春秋三傳注解傳述人
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (36)
+      :END:
+***** responsible:
+****** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+**** 考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (36)
+      :END:
+***** responsible:
+****** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
 
 *** [[mandoku:ZB1e0002.org][ZB1e0002]] 春秋公羊傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 何休
+:SOURCE:   四庫全書 文淵閣版, V145.1, p1
+:EXTENT: 28 卷
+:BOOK:   18
 :END:
-**** dynasty: 漢
-**** responsible: 何休
+**** responsible:
+***** 公羊高
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :END:
+
+***** 何休
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 解詁
+      :END:
+
+***** 徐彥
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 疏
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (18)
+      :END:
+***** responsible:
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0003
