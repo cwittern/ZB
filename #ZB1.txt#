@@ -9396,38 +9396,93 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0084
 :SOURCE:   四庫全書 文淵閣版, V171.3, p323
-:EXTENT:  卷
-:BOOK:   2
+:EXTENT: 50 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 王介之
+***** 杜預
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    222 - 284
       :END:
 
-:DYNASTY: 明
-:RESP: 王道焜
-:END:
-**** dynasty: 明
-**** responsible: 王道焜
+***** 林堯叟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
+***** 王道焜
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 趙如源
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 春秋提要
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB1e0085.org][ZB1e0085]] 日講春秋解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 庫勒納
+:SOURCE:   四庫全書 文淵閣版, V172.1, p1
+:EXTENT: 64 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 庫勒納
+**** responsible:
+***** 庫勒納
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB1e0086.org][ZB1e0086]] 欽定春秋傳說彙纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0086
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V173.1, p1
+:EXTENT: 38 卷
+:BOOK:   24
+:END:
+**** responsible:
+***** 王掞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 王掞
 :END:
