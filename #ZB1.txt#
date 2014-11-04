@@ -10627,27 +10627,57 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0019 御製繙譯五經四書
+*** ZB1g0019 欽定繙譯五經四書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0019
 :SOURCE:   四庫全書 文淵閣版, V185.1, p1 - V189.1
 :EXTENT: 131 卷
 :BOOK:   128
-:DATE:   1550
 :END:
 **** responsible:
-***** 陳耀文
+***** 高宗弘曆
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
+      :DYNASTY:  清
+      :FUNCTION: 欽定
+      :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清乾隆中
-:RESP: 
-:END:
-**** dynasty: 清乾隆中
 **** textual witnesses
 ***** WYG
+**** 御製繙譯易經
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (5)
+      :END:
+
+**** 周易圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#5)
+      :END:
+
+**** 筮儀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#5)
+      :END:
+
+**** 周易上下篇義
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#5)
+      :END:
+
+**** 御製繙譯書經
+      :PROPERTIES:
+      :EXTENT: (4) 卷
+      :BOOK:   (5)
+      :END:
+
+
 *** ZB1g0020 七經孟子考文補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0020
