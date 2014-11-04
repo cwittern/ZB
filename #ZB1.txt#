@@ -10374,123 +10374,191 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 陸德明
+***** 劉敞
       :PROPERTIES:
-      :DYNASTY:  唐
+      :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    556 - 627
+      :DATES:    1009 - 1068
       :END:
 
-:DYNASTY: 宋
-:RESP: 劉敞
-:END:
-**** dynasty: 宋
-**** responsible: 劉敞
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0005.org][ZB1g0005]] 程氏經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程頤
+:SOURCE:   四庫全書 文淵閣版, V183.2, p45
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 程頤
+**** responsible:
+***** 程頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1033 - 1107
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0006.org][ZB1g0006]] 六經圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊甲
+:SOURCE:   四庫全書 文淵閣版, V183.3, p137
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 宋
-**** responsible: 楊甲
+**** responsible:
+***** 楊甲
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 毛邦翰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0007.org][ZB1g0007]] 六經正誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 毛居正
+:SOURCE:   四庫全書 文淵閣版, V183.4, p455
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 毛居正
+**** responsible:
+***** 毛居正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嶽珂
+:SOURCE:   四庫全書 文淵閣版, V183.5, p559
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 嶽珂
+**** responsible:
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1173? - ca. 1240
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0009.org][ZB1g0009]] 融堂四書管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 錢時
+:SOURCE:   四庫全書 文淵閣版, V183.6, p579
+:EXTENT: 13 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 錢時
+**** responsible:
+***** 錢時
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0010.org][ZB1g0010]] 四如講稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黃仲元
+:SOURCE:   四庫全書 文淵閣版, V183.7, p737
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 黃仲元
+**** responsible:
+***** 黃仲元
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1231 - 1312
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0011.org][ZB1g0011]] 六經奧論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭樵
+:SOURCE:   四庫全書 文淵閣版, V184.1, p1
+:EXTENT: 6 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 鄭樵
+**** responsible:
+***** 鄭樵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1104 - 1162
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB1g0012.org][ZB1g0012]] 明本排字九經直音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V184.2, p123
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0013.org][ZB1g0013]] 經說
+*** [[mandoku:ZB1g0013.org][ZB1g0013]] 五經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 熊明來
+:SOURCE:   四庫全書 文淵閣版, V184.3, p245
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 熊明來
+**** responsible:
+***** 熊明來
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1246 - 1323
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1g0014.org][ZB1g0014]] 十一經問對
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0014
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V184.4, p343
+:EXTENT: 5 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 熊明來
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1246 - 1323
+      :END:
+
 :DYNASTY: 元
 :RESP: 何異
 :END:
