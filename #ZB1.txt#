@@ -7380,28 +7380,49 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1130 - 12
+      :DATES:    1130 - 1200
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱熹
-:END:
-**** dynasty: 宋
-**** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1d0076a.org][ZB1d0076a]] 儀禮經傳通解__儀禮經傳通解續
+**** [[mandoku:ZB1d0076a.org][ZB1d0076a]] 儀禮經傳通解續
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 29 卷
+      :BOOK:   30
+      :END:
+***** responsible:
+****** 黃榦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1152 - 1221
+      :END:
+
+****** 楊復
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB1d0077.org][ZB1d0077]] 禮書綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V133.1, p1 - V134.1
+:EXTENT: 85 卷
+:BOOK:   38
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB1d0078.org][ZB1d0078]] 五禮通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0078
