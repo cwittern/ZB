@@ -9067,100 +9067,181 @@
 *** [[mandoku:ZB1e0067.org][ZB1e0067]] 春秋經傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 童品
+:SOURCE:   四庫全書 文淵閣版, V167.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 童品
+**** responsible:
+***** 童品
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0068.org][ZB1e0068]] 春秋正傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 湛若水
+:SOURCE:   四庫全書 文淵閣版, V167.2, p37
+:EXTENT: 37 卷
+:BOOK:   18
 :END:
-**** dynasty: 明
-**** responsible: 湛若水
+**** responsible:
+***** 湛若水
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1466 - 1570
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB1e0069.org][ZB1e0069]] 左傳附注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陸粲
+:SOURCE:   四庫全書 文淵閣版, V167.3, p683
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 陸粲
+**** responsible:
+***** 陸粲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1494 - 1551
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 後錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** [[mandoku:ZB1e0070.org][ZB1e0070]] 春秋胡氏傳辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陸粲
+:SOURCE:   四庫全書 文淵閣版, V167.4, p753
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 陸粲
+**** responsible:
+***** 陸粲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1494 - 1551
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0071.org][ZB1e0071]] 春秋明志錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 熊過
+:SOURCE:   四庫全書 文淵閣版, V168.1, p1
+:EXTENT: 12 卷
+:BOOK:   10
+:DATE:   1529
 :END:
-**** dynasty: 明
-**** responsible: 熊過
+**** responsible:
+***** 熊過
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0072.org][ZB1e0072]] 春秋正旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高拱
+:SOURCE:   四庫全書 文淵閣版, V168.2, p323
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 高拱
+**** responsible:
+***** 高拱
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1512 - 1578
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0073.org][ZB1e0073]] 春秋輯傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王樵
+:SOURCE:   四庫全書 文淵閣版, V168.3, p335
+:EXTENT: 13 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 王樵
+**** responsible:
+***** 王樵
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1599
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 宗旨
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** 春秋凡例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB1e0074.org][ZB1e0074]] 春秋億
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐學謨
+:SOURCE:   四庫全書 文淵閣版, V169.1, p1
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 徐學謨
+**** responsible:
+***** 徐學謨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1522 - 1593
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0075.org][ZB1e0075]] 春秋事義全考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 姜寶
+:SOURCE:   四庫全書 文淵閣版, V169.2, p83
+:EXTENT: 16 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 姜寶
+**** responsible:
+***** 姜寶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    b. 1514
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0076.org][ZB1e0076]] 春秋左傳屬事
