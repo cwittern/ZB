@@ -9633,93 +9633,169 @@
 :BOOK:   18
 :END:
 **** responsible:
-***** 馬驌
+***** 毛奇齡
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1620 - 1673
+      :DATES:    1623 - 1716
       :END:
 
-:DYNASTY: 清
-:RESP: 毛奇齡
-:END:
-**** dynasty: 清
-**** responsible: 毛奇齡
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0095.org][ZB1e0095]] 春秋簡書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V176.2, p409
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0096.org][ZB1e0096]] 春秋屬辭比事記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V176.3, p441
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0097.org][ZB1e0097]] 春秋地名攷畧
+*** [[mandoku:ZB1e0097.org][ZB1e0097]] 春秋地名考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高士奇
+:SOURCE:   四庫全書 文淵閣版, V176.4, p479
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 高士奇
+**** responsible:
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0098.org][ZB1e0098]] 春秋管窺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 徐廷垣
+:SOURCE:   四庫全書 文淵閣版, V176.5, p681
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 徐廷垣
+**** responsible:
+***** 徐庭垣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0099.org][ZB1e0099]] 左傳折諸
+*** [[mandoku:ZB1e0099.org][ZB1e0099]] 三傳折諸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張尚瑗 ;;S1n0587
+:SOURCE:   四庫全書 文淵閣版, V177.1, p1
+:EXTENT: 44 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 張尚瑗 ;;S1n0587
+**** responsible:
+***** 張尚瑗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1e0099a.org][ZB1e0099a]] 三傳折諸__左傳折諸
-*** [[mandoku:ZB1e0099b.org][ZB1e0099b]] 三傳折諸__公羊折諸
-*** [[mandoku:ZB1e0099c.org][ZB1e0099c]] 三傳折諸__穀梁折諸
+**** [[mandoku:ZB1e0099a.org][ZB1e0099a]] 左傳折諸
+      :PROPERTIES:
+      :EXTENT: (28) 卷
+      :BOOK:   (14)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (2) 卷
+      :BOOK:   (#14)
+      :END:
+
+**** [[mandoku:ZB1e0099b.org][ZB1e0099b]] 公羊折諸
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#2)
+      :END:
+
+**** [[mandoku:ZB1e0099c.org][ZB1e0099c]] 穀梁折諸
+      :PROPERTIES:
+      :EXTENT: (6) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#2)
+      :END:
+
 *** [[mandoku:ZB1e0100.org][ZB1e0100]] 春秋闕如編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 焦袁熹
+:SOURCE:   四庫全書 文淵閣版, V177.2, p739
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 焦袁熹
+**** responsible:
+***** 焦袁熹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB1e0101.org][ZB1e0101]] 春秋宗朱辨義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0101
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V178.1, p739
+:EXTENT: 8 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 焦袁熹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1725
+      :END:
+
 :DYNASTY: 清
 :RESP: 張自超
 :END:
