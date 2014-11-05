@@ -12637,19 +12637,19 @@
 
 **** textual witnesses
 ***** WYG
-**** 上編　正律審音
+**** 上編 正律審音
       :PROPERTIES:
       :EXTENT: (2) 卷
       :BOOK:   (2)
       :END:
 
-**** 下編　和聲定樂
+**** 下編 和聲定樂
       :PROPERTIES:
       :EXTENT: (2) 卷
       :BOOK:   (2)
       :END:
 
-**** 續編　協均度曲
+**** 續編 協均度曲
       :PROPERTIES:
       :EXTENT: (1) 卷
       :BOOK:   (1)
@@ -12759,91 +12759,145 @@
 *** ZB1i0015 聖諭樂本解說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V220.3, p197
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0016 皇言定聲錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V220.4, p219
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0017 竟山樂錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V220.5, p291
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0018 李氏學樂錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李塨
+:SOURCE:   四庫全書 文淵閣版, V220.6, p339
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 李塨
+**** responsible:
+***** 李塨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1659 - 1733
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0019 樂律表微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 胡彥昇
+:SOURCE:   四庫全書 文淵閣版, V220.7, p369
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 胡彥昇
+**** responsible:
+***** 胡彥昇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0020 律呂新論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V220.8, p511
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0021 律呂闡微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V220.9, p547
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:皇言定聲
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** ZB1i0022 琴旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王坦
+:SOURCE:   四庫全書 文淵閣版, V220.10, p687
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 王坦
+**** responsible:
+***** 王坦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 ** ZB1j 小學類
 *** ZB1j0001 爾雅注疏
 :PROPERTIES:
