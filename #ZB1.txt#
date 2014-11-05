@@ -12934,39 +12934,74 @@
 
 **** textual witnesses
 ***** WYG
-**** (附)
+**** (附)考證
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: # 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 張照
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
       :END:
 
-*** ZB1j0002 爾雅注
+*** ZB1j0002 爾雅註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭樵
+:SOURCE:   四庫全書 文淵閣版, V221.2, p237
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 鄭樵
+**** responsible:
+***** 鄭樵
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1104 - 1162
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0003 輶軒使者絕代語釋別國方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 楊雄
+:SOURCE:   四庫全書 文淵閣版, V221.3, p281
+:EXTENT: 13 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 楊雄
+**** responsible:
+***** 揚雄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -53 - 18
+      :END:
+
+***** 郭璞
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0004 釋名
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0004
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V221.4, p383
+:EXTENT: 8 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 揚雄
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -53 - 18
+      :END:
+
 :DYNASTY: 漢
 :RESP: 劉熙
 :END:
