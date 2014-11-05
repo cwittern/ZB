@@ -12325,67 +12325,123 @@
 
 **** textual witnesses
 ***** WYG
-**** 附錄
+**** 補
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: 2 卷
+      :BOOK:   (3)
       :END:
 ***** responsible:
-****** 王開祖
+****** 毛遠宗
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 撰
+      :DYNASTY:  清
+      :FUNCTION: 編
       :END:
 
 *** ZB1h0057 大學證文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V210.4, p277
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0058 四書釋地
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 閻若璩
+:SOURCE:   四庫全書 文淵閣版, V210.5, p315
+:EXTENT: 1 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 閻若璩
+**** responsible:
+***** 閻若璩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1636 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 四書釋地續
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+**** 四書釋地又續
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (5)
+      :END:
+
+**** 四書釋地三續
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (5)
+      :END:
+
 *** ZB1h0059 四書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 楊名時
+:SOURCE:   四庫全書 文淵閣版, V210.6, p483
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 楊名時
+**** responsible:
+***** 楊名時
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1736
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0060 此木軒四書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 焦袁熹
+:SOURCE:   四庫全書 文淵閣版, V210.7, p521
+:EXTENT: 9 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 焦袁熹
+**** responsible:
+***** 焦袁熹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0061 四書逸箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0061
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V210.8, p657
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 焦袁熹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1660 - 1725
+      :END:
+
 :DYNASTY: 清
 :RESP: 程大中
 :END:
