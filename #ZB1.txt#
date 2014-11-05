@@ -12205,71 +12205,139 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1610 - 1695
+      :DATES:    1633 - 1714
       :END:
 
-:DYNASTY: 清
-:RESP: 胡渭
-:END:
-**** dynasty: 清
-**** responsible: 胡渭
 **** textual witnesses
 ***** WYG
 *** ZB1h0052 四書講義困勉錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V209.1, p1
+:EXTENT: 37 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible:
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0053 松陽講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陸隴其
+:SOURCE:   四庫全書 文淵閣版, V209.2, p839
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 陸隴其
+**** responsible:
+***** 陸隴其
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1630 - 1693
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0054 大學古本說
+*** ZB1h0054 榕村四書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V210.1, p1
+:EXTENT: 7 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 大學古本說
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸章段
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (#1)
+      :END:
+
+**** 中庸餘論
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (#1)
+      :END:
+
+**** 讀論語劄記
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 讀孟子劄記
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
 *** ZB1h0055 論語稽求篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V210.2, p133
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0056 四書賸言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V210.3, p207
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** ZB1h0057 大學證文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0057
