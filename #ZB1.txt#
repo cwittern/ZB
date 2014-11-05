@@ -12897,19 +12897,50 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首:御製文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
 
 ** ZB1j 小學類
 *** ZB1j0001 爾雅注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 郭璞
+:SOURCE:   四庫全書 文淵閣版, V221.1, p1
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 晉
-**** responsible: 郭璞
+**** responsible:
+***** 郭璞
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :DATES:    276 - 324
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 邢昺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 疏
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** ZB1j0002 爾雅注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0002
