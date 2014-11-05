@@ -12433,49 +12433,73 @@
 :SOURCE:   四庫全書 文淵閣版, V210.8, p657
 :EXTENT: 6 卷
 :BOOK:   2
+:DATE:   1757
 :END:
 **** responsible:
-***** 焦袁熹
+***** 程大中
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1660 - 1725
       :END:
 
-:DYNASTY: 清
-:RESP: 程大中
-:END:
-**** dynasty: 清
-**** responsible: 程大中
 **** textual witnesses
 ***** WYG
 *** ZB1h0062 鄉黨圖考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V210.9, p713
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB1i 樂類
 *** ZB1i0001 皇祐新樂圖記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 阮逸
+:SOURCE:   四庫全書 文淵閣版, V211.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
+:DATE:   1027
 :END:
-**** dynasty: 宋
-**** responsible: 阮逸
+**** responsible:
+***** 阮逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 胡瑗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0002 樂書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0002
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V211.2, p1
+:EXTENT: 3 卷
+:BOOK:   1
+:DATE:   1027
+:END:
+**** responsible:
+***** 阮逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 陳晹
 :END:
