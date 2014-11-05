@@ -10853,18 +10853,35 @@
 *** ZB1g0026 十三經注疏正字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈廷芳
+:SOURCE:   四庫全書 文淵閣版, V192.1, p1
+:EXTENT: 81 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 沈廷芳
+**** responsible:
+***** 沈廷芳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1702 - 1772
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1g0027 朱子五經語類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0027
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V193.1, p1
+:EXTENT: 80 卷
+:BOOK:   20
+:END:
+**** responsible:
+***** 沈廷芳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1702 - 1772
+      :END:
+
 :DYNASTY: 清
 :RESP: 程川
 :END:
