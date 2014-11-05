@@ -11007,20 +11007,35 @@
 :BOOK:   10
 :END:
 **** responsible:
-***** 孫瑴
+***** 趙岐
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 編
-      :DATES:    17th cent
+      :DYNASTY:  漢
+      :FUNCTION: 注
+      :DATES:    d. 201
       :END:
 
-:DYNASTY: 漢
-:RESP: 趙岐
-:END:
-**** dynasty: 漢
-**** responsible: 趙岐
+***** 孫奭
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 疏
+      :FUNCTION: 音義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 陸宗楷
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** ZB1h0002 論語集解義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0002
