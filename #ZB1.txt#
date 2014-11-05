@@ -11039,29 +11039,95 @@
 *** ZB1h0002 論語集解義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 何晏
+:SOURCE:   四庫全書 文淵閣版, V195.2, p333
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 魏
-**** responsible: 何晏
+**** responsible:
+***** 何晏
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 集解
+      :DATES:    d. 249
+      :END:
+
+***** 皇侃
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 義疏
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0003 論語注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 何晏
+:SOURCE:   四庫全書 文淵閣版, V195.3, p525
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 魏
-**** responsible: 何晏
+**** responsible:
+***** 何晏
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 集解
+      :DATES:    d. 249
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
+***** 邢昺
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 疏
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 陸宗楷
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+****** 呂熾
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** ZB1h0004 論語筆解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0004
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V196.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 韓愈
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 集解
+      :DATES:    d. 249
+      :END:
+
+***** 陸德明
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 音義
+      :END:
+
 :DYNASTY: 唐
 :RESP: 韓愈
 :END:
