@@ -12557,76 +12557,119 @@
 :CUSTOM_ID:  ZB1i0006
 :SOURCE:   四庫全書 文淵閣版, V212.4, p115
 :EXTENT: 2 卷
-:BOOK:   1
+:BOOK:   2
 :END:
 **** responsible:
-***** 余載
+***** 劉瑾
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    fl. 1328 - 1329
+      :DATES:    d. 1510
       :END:
 
-:DYNASTY: 元
-:RESP: 劉墐
-:END:
-**** dynasty: 元
-**** responsible: 劉墐
 **** textual witnesses
 ***** WYG
 *** ZB1i0007 苑洛志樂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 韓邦奇
+:SOURCE:   四庫全書 文淵閣版, V212.5, p189
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 韓邦奇
+**** responsible:
+***** 韓邦奇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1555
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0008 鐘律通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 倪復
+:SOURCE:   四庫全書 文淵閣版, V212.6, p643
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 倪復
+**** responsible:
+***** 倪復
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0009 樂律全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱載堉
+:SOURCE:   四庫全書 文淵閣版, V213.1, p1 - V214.1
+:EXTENT: 42 卷
+:BOOK:   32
 :END:
-**** dynasty: 明
-**** responsible: 朱載堉
+**** responsible:
+***** 朱載堉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1536 - 1611
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1i0010 御製律呂正義上編
+*** ZB1i0010 御製律呂正義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 聖祖玄燁
+:SOURCE:   四庫全書 文淵閣版, V215.1, p1
+:EXTENT: 5 卷
+:BOOK:   5
+:DATE:   康熙五十二年
 :END:
-**** dynasty: 清
-**** responsible: 聖祖玄燁
+**** responsible:
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 御定
+      :DATES:    1654 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 上編　正律審音
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 下編　和聲定樂
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 續編　協均度曲
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
 *** ZB1i0011 御製律呂正義後編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 允祿
+:SOURCE:   四庫全書 文淵閣版, V215.2, p223 - V218.1
+:EXTENT: 128 卷
+:BOOK:   60
 :END:
-**** dynasty: 清
-**** responsible: 允祿
+**** responsible:
+***** 允祿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :DATES:    1695 - 1767
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0012 欽定詩經樂譜全書
