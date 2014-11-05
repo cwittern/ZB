@@ -12048,114 +12048,166 @@
 :SOURCE:   四庫全書 文淵閣版, V207.2, p97
 :EXTENT: 20 卷
 :BOOK:   6
+:DATE:   1544
 :END:
 **** responsible:
 ***** 陳士元
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1512 - 1578
       :END:
 
-:DYNASTY: 明
-:RESP: 陳士元
-:END:
-**** dynasty: 明
-**** responsible: 陳士元
 **** textual witnesses
 ***** WYG
 *** ZB1h0043 孟子雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳士元
+:SOURCE:   四庫全書 文淵閣版, V207.3, p289
+:EXTENT: 4 卷
+:BOOK:   2
+:DATE:   1544
 :END:
-**** dynasty: 明
-**** responsible: 陳士元
+**** responsible:
+***** 陳士元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0044 學庸正說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙南星
+:SOURCE:   四庫全書 文淵閣版, V207.4, p357
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 趙南星
+**** responsible:
+***** 趙南星
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1550 - 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0045 論語商
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周宗建
+:SOURCE:   四庫全書 文淵閣版, V207.5, p431
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 周宗建
+**** responsible:
+***** 周宗建
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1582 - 1626
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0046 論語學案
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 劉宗周
+:SOURCE:   四庫全書 文淵閣版, V207.6, p505
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 劉宗周
+**** responsible:
+***** 劉宗周
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1578 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0047 四書留書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 章世純
+:SOURCE:   四庫全書 文淵閣版, V207.7, p709
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 章世純
+**** responsible:
+***** 章世純
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0048 日講四書解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 庫勒納
+:SOURCE:   四庫全書 文淵閣版, V208.1, p1
+:EXTENT: 26 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 庫勒納
+**** responsible:
+***** 喇沙里
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0049 四書近指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫奇逢
+:SOURCE:   四庫全書 文淵閣版, V208.2, p649
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 孫奇逢
+**** responsible:
+***** 孫奇逢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1584 - 1675
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0050 孟子師說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 黃宗義
+:SOURCE:   四庫全書 文淵閣版, V208.3, p831
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 黃宗義
+**** responsible:
+***** 黃宗義
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1610 - 1695
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0051 大學翼眞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0051
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V208.4, p905
+:EXTENT: 7 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 胡渭
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1610 - 1695
+      :END:
+
 :DYNASTY: 清
 :RESP: 胡渭
 :END:
