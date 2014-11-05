@@ -10765,58 +10765,89 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    d. 1728
+      :DATES:    1613 - 1682
       :END:
 
-:DYNASTY: 清
-:RESP: 顧炎武
-:END:
-**** dynasty: 清
-**** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
 *** ZB1g0022 經問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V191.2, p7
+:EXTENT: 18 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 經問補
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (10)
+      :END:
+***** responsible:
+****** 毛遠宗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 輯
+      :END:
+
 *** ZB1g0023 十三經義疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳浩
+:SOURCE:   四庫全書 文淵閣版, V191.3, p251
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 吳浩
+**** responsible:
+***** 吳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1g0024 九經古義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 惠棟
+:SOURCE:   四庫全書 文淵閣版, V191.4, p359
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 惠棟
+**** responsible:
+***** 惠棟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1697 - 1758
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1g0025 經稗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄭方坤
+:SOURCE:   四庫全書 文淵閣版, V191.5, p503
+:EXTENT: 12 卷
+:BOOK:   12
+:DATE:   1723
 :END:
-**** dynasty: 清
-**** responsible: 鄭方坤
+**** responsible:
+***** 鄭方坤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1g0026 十三經注疏正字
