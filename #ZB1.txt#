@@ -12992,93 +12992,148 @@
 :CUSTOM_ID:  ZB1j0004
 :SOURCE:   四庫全書 文淵閣版, V221.4, p383
 :EXTENT: 8 卷
-:BOOK:   4
+:BOOK:   1
 :END:
 **** responsible:
-***** 揚雄
+***** 劉熙
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    -53 - 18
+      :DATES:    fl. 200
       :END:
 
-:DYNASTY: 漢
-:RESP: 劉熙
-:END:
-**** dynasty: 漢
-**** responsible: 劉熙
 **** textual witnesses
 ***** WYG
 *** ZB1j0005 廣雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 魏
-:RESP: 張揖
+:SOURCE:   四庫全書 文淵閣版, V221.5, p425
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 魏
-**** responsible: 張揖
+**** responsible:
+***** 張揖
+      :PROPERTIES:
+      :DYNASTY:  魏
+      :FUNCTION: 撰
+      :DATES:    fl. 230
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0006 匡謬正俗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 顏師古
+:SOURCE:   四庫全書 文淵閣版, V221.6, p471
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 顏師古
+**** responsible:
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    581 - 645
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0007 羣經音辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 賈昌朝
+:SOURCE:   四庫全書 文淵閣版, V222.1, p1
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 賈昌朝
+**** responsible:
+***** 賈昌朝
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    998 - 1068
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0008 埤雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸佃
+:SOURCE:   四庫全書 文淵閣版, V222.2, p59
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 陸佃
+**** responsible:
+***** 陸佃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1042 - 1102
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)音釋
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (6)
+      :END:
+
 *** ZB1j0009 爾雅翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 羅願
+:SOURCE:   四庫全書 文淵閣版, V222.3, p239
+:EXTENT: 32 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 羅願
+**** responsible:
+***** 羅願
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1136 - 1184
+      :END:
+
+***** 洪焱祖
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 音釋
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0010 駢雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱謀㙔
+:SOURCE:   四庫全書 文淵閣版, V222.4, p515
+:EXTENT: 7 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 朱謀㙔
+**** responsible:
+***** 朱謀㙔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1624
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0011 字詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V222.5, p549
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 朱謀㙔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1624
+      :END:
+
 :DYNASTY: 清
 :RESP: 黃生
 :END:
