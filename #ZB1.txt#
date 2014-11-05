@@ -11673,73 +11673,155 @@
 *** ZB1h0028 四書辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0028
-:SOURCE:   四庫全書 文淵閣版, V202.3, p149
-:EXTENT: 28 卷
+:SOURCE:   四庫全書 文淵閣版, V202.4, p331
+:EXTENT: 15 卷
 :BOOK:   6
 :END:
 **** responsible:
-***** 劉因
+***** 陳天祥
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1249 - 1293
+      :DATES:    1230 - 1316
       :END:
 
-:DYNASTY: 元
-:RESP: 陳天祥
-:END:
-**** dynasty: 元
-**** responsible: 陳天祥
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** ZB1h0029 讀四書叢說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 許謙
+:SOURCE:   四庫全書 文淵閣版, V202.5, p529
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 許謙
+**** responsible:
+***** 許謙
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1270 - 1337
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0030 大學通
+*** ZB1h0030 四書通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡炳文
+:SOURCE:   四庫全書 文淵閣版, V203.1, p1
+:EXTENT: 28 卷
+:BOOK:   18
 :END:
-**** dynasty: 元
-**** responsible: 胡炳文
+**** responsible:
+***** 胡炳文
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1250 - 1333
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0031 大學章句或問通證
+**** 大學通
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸通
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (3)
+      :END:
+
+**** 論語通
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (8)
+      :END:
+
+**** 孟子通
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (6)
+      :END:
+
+*** ZB1h0031 四書通證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 張存中
+:SOURCE:   四庫全書 文淵閣版, V203.2, p637
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 張存中
+**** responsible:
+***** 張存中
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 大學章句或問通證
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 論語集註通證
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (#2)
+      :END:
+
+**** 孟子集註通證
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸章句或問通證
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (#1)
+      :END:
+
 *** ZB1h0032 四書疑節
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 袁俊翁
+:SOURCE:   四庫全書 文淵閣版, V203.3, p745
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 袁俊翁
+**** responsible:
+***** 袁俊翁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0033 四書經疑貫通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0033
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V203.4, p891
+:EXTENT: 8 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 袁俊翁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 王充耘
 :END:
