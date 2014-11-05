@@ -13127,51 +13127,76 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 朱謀㙔
+***** 黃生
       :PROPERTIES:
-      :DYNASTY:  明
+      :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    d. 1624
+      :DATES:    b. 1622
       :END:
 
-:DYNASTY: 清
-:RESP: 黃生
-:END:
-**** dynasty: 清
-**** responsible: 黃生
 **** textual witnesses
 ***** WYG
 *** ZB1j0012 續方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 杭世駿
+:SOURCE:   四庫全書 文淵閣版, V222.6, p585
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 杭世駿
+**** responsible:
+***** 杭世駿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1696 - 1773
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0013 別雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳玉搢
+:SOURCE:   四庫全書 文淵閣版, V222.7, p607
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 吳玉搢
+**** responsible:
+***** 吳玉搢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1698 - 1773
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0014 急就篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 史游
+:SOURCE:   四庫全書 文淵閣版, V223.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 史游
+**** responsible:
+***** 史游
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -48 - -33
+      :END:
+
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0015 說文解字
