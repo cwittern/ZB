@@ -11879,83 +11879,184 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 朱公遷
-:END:
-**** dynasty: 元
-**** responsible: 朱公遷
 **** textual witnesses
 ***** WYG
 *** ZB1h0036 四書管窺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 史伯璿
+:SOURCE:   四庫全書 文淵閣版, V204.3, p675
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 史伯璿
+**** responsible:
+***** 史伯璿
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0037 大學集說啟蒙
+*** ZB1h0037 大學中庸集說啟蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 景星
+:SOURCE:   四庫全書 文淵閣版, V204.4, p961
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 景星
+**** responsible:
+***** 景星
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0038 大學章句大全
+**** 大學集說啟蒙
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸集說啟蒙
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+*** ZB1h0038 四書大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡廣
+:SOURCE:   四庫全書 文淵閣版, V205.1, p1
+:EXTENT: 40 卷
+:BOOK:   30
 :END:
-**** dynasty: 明
-**** responsible: 胡廣
+**** responsible:
+***** 胡廣
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1370 - 1418
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 大學章句大全
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 大學或問
+      :PROPERTIES:
+      :EXTENT: (1) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 論語集註大全
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (13)
+      :END:
+
+**** 孟子集註大全
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (11)
+      :END:
+
+**** 中庸章句大全
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 中庸或問
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
 *** ZB1h0039 四書蒙引
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 蔡清
+:SOURCE:   四庫全書 文淵閣版, V206.1, p1
+:EXTENT: 15 卷
+:BOOK:   15
 :END:
-**** dynasty: 明
-**** responsible: 蔡清
+**** responsible:
+***** 蔡清
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1453 - 1508
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 四書蒙引別錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 莊煦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 *** ZB1h0040 四書因問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂柟
+:SOURCE:   四庫全書 文淵閣版, V206.2, p753
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 呂柟
+**** responsible:
+***** 呂柟
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1479 - 1542
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0041 問辨錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 高拱
+:SOURCE:   四庫全書 文淵閣版, V207.1, p1
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 高拱
+**** responsible:
+***** 高拱
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1512 - 1578
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0042 論語類考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0042
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V207.2, p97
+:EXTENT: 20 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 陳士元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1512 - 1578
+      :END:
+
 :DYNASTY: 明
 :RESP: 陳士元
 :END:
