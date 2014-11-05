@@ -11384,40 +11384,69 @@
 *** ZB1h0016 論語意原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭汝諧
+:SOURCE:   四庫全書 文淵閣版, V199.2, p111
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 鄭汝諧
+**** responsible:
+***** 鄭汝諧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1194
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0017 論語解
+*** ZB1h0017 癸巳論語解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張栻
+:SOURCE:   四庫全書 文淵閣版, V199.3, p189
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 張栻
+**** responsible:
+***** 張栻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1180
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0018 孟子說
+*** ZB1h0018 癸巳孟子說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張栻
+:SOURCE:   四庫全書 文淵閣版, V199.4, p321
+:EXTENT: 7 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 張栻
+**** responsible:
+***** 張栻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 著
+      :DATES:    1133 - 1180
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0019 蒙齋中庸講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V199.5, p553
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 張栻
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 著
+      :DATES:    1133 - 1180
+      :END:
+
 :DYNASTY: 宋
 :RESP: 袁甫
 :END:
