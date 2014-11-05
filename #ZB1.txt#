@@ -11814,36 +11814,71 @@
 :SOURCE:   四庫全書 文淵閣版, V203.4, p891
 :EXTENT: 8 卷
 :BOOK:   3
+:DATE:   1333
 :END:
 **** responsible:
-***** 袁俊翁
+***** 王充耘
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 元
-:RESP: 王充耘
-:END:
-**** dynasty: 元
-**** responsible: 王充耘
 **** textual witnesses
 ***** WYG
-*** ZB1h0034 大學纂箋
+*** ZB1h0034 四書纂箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 詹道傳
+:SOURCE:   四庫全書 文淵閣版, V204.1, p1
+:EXTENT: 28 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 詹道傳
+**** responsible:
+***** 詹道傳
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 大學纂箋
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸纂箋
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (2)
+      :END:
+
+**** 論語纂箋
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (4)
+      :END:
+
+**** 孟子纂箋
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (5)
+      :END:
+
 *** ZB1h0035 四書通旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0035
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V204.2, p507
+:EXTENT: 6 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 朱公遷
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 朱公遷
 :END:
