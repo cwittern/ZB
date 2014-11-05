@@ -12670,39 +12670,90 @@
       :DATES:    1695 - 1767
       :END:
 
+***** 張照
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (60)
+      :END:
+
 *** ZB1i0012 欽定詩經樂譜全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 永瑢
+:SOURCE:   四庫全書 文淵閣版, V219.1, p1
+:EXTENT: 30 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 永瑢
+**** responsible:
+***** 永瑢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :DATES:    1744 - 1790
+      :END:
+
+***** 鄒奕孝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
+**** (附)欽定樂律正俗
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
 *** ZB1i0013 古樂經傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光地
+:SOURCE:   四庫全書 文淵閣版, V220.1, p1
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 李光地
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1642 - 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0014 古樂書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1i0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 應撝謙
+:SOURCE:   四庫全書 文淵閣版, V220.2, p97
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 應撝謙
+**** responsible:
+***** 應撝謙
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1615 - 1683
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1i0015 聖諭樂本解說
