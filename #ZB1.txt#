@@ -13273,28 +13273,34 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0018
 :SOURCE:   四庫全書 文淵閣版, V223.5, p849
-:EXTENT: 4 卷
-:BOOK:   2
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
 **** responsible:
-***** 汪憲
+***** 徐鍇
       :PROPERTIES:
-      :DYNASTY:  清
+      :DYNASTY:  南唐
       :FUNCTION: 撰
-      :DATES:    1721 - 1771
+      :DATES:    920 - 974
       :END:
-
-:DYNASTY: 南唐
-:RESP: 徐鍇
-:END:
-**** dynasty: 南唐
-**** responsible: 徐鍇
+here
 **** textual witnesses
 ***** WYG
 *** ZB1j0019 玉篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V223.5, p849
+:EXTENT: 5 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 徐鍇
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    920 - 974
+      :END:
+
 :DYNASTY: 梁
 :RESP: 顧野王
 :END:
