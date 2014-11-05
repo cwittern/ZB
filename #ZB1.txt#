@@ -13191,10 +13191,10 @@
       :FUNCTION: 注
       :END:
 
-***** 顏師古
+***** 王應麟
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 注
+      :DYNASTY:  宋
+      :FUNCTION: 補注
       :END:
 
 **** textual witnesses
@@ -13202,40 +13202,88 @@
 *** ZB1j0015 說文解字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 許愼
+:SOURCE:   四庫全書 文淵閣版, V223.2, p63
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 漢
-**** responsible: 許愼
+**** responsible:
+***** 許愼
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    d. 120
+      :END:
+
+***** 徐鉉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增釋
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0016 說文繫傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 徐鍇
+:SOURCE:   四庫全書 文淵閣版, V223.3, p385
+:EXTENT: 40 卷
+:BOOK:   10
 :END:
-**** dynasty: 南唐
-**** responsible: 徐鍇
+**** responsible:
+***** 徐鍇
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    920 - 974
+      :END:
+
+***** 朱翺
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 反切
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0017 說文繫傳考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪憲
+:SOURCE:   四庫全書 文淵閣版, V223.4, p791
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 汪憲
+**** responsible:
+***** 汪憲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1721 - 1771
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** ZB1j0018 說文解字篆韻譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0018
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V223.5, p849
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 汪憲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1721 - 1771
+      :END:
+
 :DYNASTY: 南唐
 :RESP: 徐鍇
 :END:
