@@ -11320,33 +11320,65 @@
       :DATES:    1130 - 1200
       :END:
 
-:DYNASTY: 宋
-:RESP: 朱熹
-:END:
-**** dynasty: 宋
-**** responsible: 朱熹
 **** textual witnesses
 ***** WYG
-*** ZB1h0014 中庸輯畧
+**** 綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (#1) 卷
+      :BOOK:   (#12)
+      :END:
+
+**** 論語精義
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (9)
+      :END:
+
+**** 孟子精義
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (3)
+      :END:
+
+*** ZB1h0014 中庸輯略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V198.2, p555
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 石𡼖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 刪定
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0015 石鼓論語答問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 戴溪
+:SOURCE:   四庫全書 文淵閣版, V199.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 戴溪
+**** responsible:
+***** 戴溪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1178 - 1215
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0016 論語意原
