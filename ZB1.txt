@@ -11449,51 +11449,125 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0020 大學集編
+*** ZB1h0020 四書集編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 眞德秀
+:SOURCE:   四庫全書 文淵閣版, V200.1, p1
+:EXTENT: 29 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 眞德秀
+**** responsible:
+***** 眞德秀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1178 - 1235
+      :END:
+
+***** 劉承
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 輯
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 大學集編
+      :PROPERTIES:
+      :EXTENT: (2) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 中庸集編
+      :PROPERTIES:
+      :EXTENT: (3) 卷
+      :BOOK:   (1)
+      :END:
+
+**** 論語集編
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (4)
+      :END:
+
+**** 孟子集編
+      :PROPERTIES:
+      :EXTENT: (14) 卷
+      :BOOK:   (4)
+      :END:
+
 *** ZB1h0021 孟子集疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡模
+:SOURCE:   四庫全書 文淵閣版, V200.2, p383
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 蔡模
+**** responsible:
+***** 蔡模
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1188 - 1246
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0022 論語集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蔡節
+:SOURCE:   四庫全書 文淵閣版, V200.3, p557
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 蔡節
+**** responsible:
+***** 蔡節
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1h0023 中庸指歸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 黎立武
+:SOURCE:   四庫全書 文淵閣版, V200.4, p713
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 黎立武
+**** responsible:
+***** 黎立武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1276 - 1343
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1h0024 大學纂疏
+**** 中庸分章
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 大學發微
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 大學本旨
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+*** ZB1h0024 四書纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0024
 :SOURCE:   四庫全書 文淵閣版
