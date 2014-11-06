@@ -240,46 +240,94 @@
 :BOOK:   42
 :END:
 **** responsible:
-***** 倪思
+***** 范曄
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1147 - 1220
+      :DATES:    398 - 445
       :END:
 
-:DYNASTY: 劉
-:RESP: 宋范煜
-:END:
-**** dynasty: 劉
-**** responsible: 宋范煜
+***** 司馬彪
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰志
+      :END:
+
+***** 李賢
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
+***** 劉昭
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 注志
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (42)
+      :END:
+***** responsible:
+****** 陳浩
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB2a0010.org][ZB2a0010]] 補後漢書年表
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 熊方
+:SOURCE:   四庫全書 文淵閣版, V253.2, p735
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 熊方
+**** responsible:
+***** 熊方
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0011.org][ZB2a0011]] 兩漢刊誤補遺
+*** [[mandoku:ZB2a0011.org][ZB2a0011]] 兩漢刋誤補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳仁傑
+:SOURCE:   四庫全書 文淵閣版, V253.3, p821
+:EXTENT: 10 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 吳仁傑
+**** responsible:
+***** 吳仁傑
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    b. 1137
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0012.org][ZB2a0012]] 三國志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0012
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V254.1, p1
+:EXTENT: 65 卷
+:BOOK:   24
+:END:
+**** responsible:
+***** 陳壽
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    237
+      :END:
+
 :DYNASTY: 晉
 :RESP: 陳壽
 :END:
