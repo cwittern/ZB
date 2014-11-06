@@ -14463,132 +14463,217 @@
 *** ZB1j0072 欽定音韻述微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆三十年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V240.4, p853
+:EXTENT: 30 卷
+:BOOK:   12
+:DATE:   乾隆三十年
 :END:
-**** dynasty: 清乾隆三十年
-**** responsible: 敕撰
+**** responsible:
+***** 梁國治
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1723 - 1786
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0073 音論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0074 詩本音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.2, p33
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0075 易音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.3, p143
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0076 唐韻正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.4, p167
+:EXTENT: 20 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0077 古音表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.5, p521
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0078 韻補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V241.6, p535
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0079 古今通韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V242.1, p1
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0080 易韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V242.2, p297
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0081 孫氏唐韻考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 紀容舒
+:SOURCE:   四庫全書 文淵閣版, V242.3, p337
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 紀容舒
+**** responsible:
+***** 紀容舒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1686 - 1764
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0082 古韻標準
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 江永
+:SOURCE:   四庫全書 文淵閣版, V242.4, p438
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 江永
+**** responsible:
+***** 江永
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1681 - 1762
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:詩韻擧例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** ZB1j0083 六藝綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 舒天民
+:SOURCE:   四庫全書 文淵閣版, V242.5, p581
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 舒天民
+**** responsible:
+***** 舒天民
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+***** 舒恭
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
