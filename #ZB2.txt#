@@ -509,8 +509,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0018.org][ZB2a0018]] 梁書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0018
@@ -541,8 +539,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0019.org][ZB2a0019]] 陳書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0019
@@ -573,8 +569,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0020.org][ZB2a0020]] 魏書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0020
@@ -605,8 +599,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0021.org][ZB2a0021]] 北齊書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0021
@@ -643,8 +635,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0022.org][ZB2a0022]] 周書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0022
@@ -675,8 +665,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0023.org][ZB2a0023]] 隋書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0023
@@ -707,8 +695,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0024.org][ZB2a0024]] 南史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0024
@@ -739,8 +725,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0025.org][ZB2a0025]] 北史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0025
@@ -771,8 +755,6 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0026.org][ZB2a0026]] 舊唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0026
@@ -803,21 +785,25 @@
       :FUNCTION: 撰
       :END:
 
-**** textual witnesses
-***** WYG
 *** [[mandoku:ZB2a0027.org][ZB2a0027]] 新唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0027
-:SOURCE:   四庫全書 文淵閣版, V268.1, p1 - V271.1
-:EXTENT: 200 卷
-:BOOK:   88
+:SOURCE:   四庫全書 文淵閣版, V272.1, p1 - V276.1
+:EXTENT: 225 卷
+:BOOK:   89
 :END:
 **** responsible:
-***** 劉昫
+***** 歐陽修
       :PROPERTIES:
-      :DYNASTY:  後晉
+      :DYNASTY:  宋
       :FUNCTION: 奉敕撰
-      :DATES:    887 - 946
+      :DATES:    1007 - 1072
+      :END:
+
+***** 宋祁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
       :END:
 
 **** textual witnesses
@@ -826,7 +812,7 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: # 卷
-      :BOOK:   (88)
+      :BOOK:   (89)
       :END:
 ***** responsible:
 ****** 沈德潛
@@ -835,18 +821,40 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 歐陽修
-:END:
-**** dynasty: 宋
-**** responsible: 歐陽修
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB2a0027a.org][ZB2a0027a]] 新唐書__䆁音
+****** 葉酉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+**** [[mandoku:ZB2a0027a.org][ZB2a0027a]] 唐書䆁音
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 25 卷
+      :BOOK:   3
+      :END:
+***** responsible:
+****** 董衝進
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2a0028.org][ZB2a0028]] 新唐書糾謬
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0028
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V272.1, p1 - V276.1
+:EXTENT: 225 卷
+:BOOK:   89
+:END:
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    1007 - 1072
+      :END:
+
 :DYNASTY: 宋
 :RESP: 吳縝
 :END:
