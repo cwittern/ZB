@@ -3356,6 +3356,7 @@
 
 **** textual witnesses
 ***** WYG
+** ZB1b 書類
 *** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
@@ -3413,7 +3414,6 @@
 
 **** textual witnesses
 ***** WYG
-** ZB1b 書類
 *** [[mandoku:ZB1b0001.org][ZB1b0001]] 書傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0001
@@ -4513,6 +4513,7 @@
 
 **** textual witnesses
 ***** WYG
+** ZB1c 詩類
 *** [[mandoku:ZB1b0056.org][ZB1b0056]] 詩序
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0056
@@ -4639,7 +4640,6 @@
 
 **** textual witnesses
 ***** WYG
-** ZB1c 詩類
 *** [[mandoku:ZB1c0001.org][ZB1c0001]] 陸氏詩疏廣要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0001
@@ -10073,8 +10073,9 @@
       :FUNCTION: 傳
       :END:
 
-***** 日本太宰純
+***** 太宰純
       :PROPERTIES:
+      :DYNASTY:  日本
       :FUNCTION: 音
       :END:
 
@@ -10740,8 +10741,9 @@
 :BOOK:   30
 :END:
 **** responsible:
-***** 日本山井鼎
+***** 山井鼎
       :PROPERTIES:
+      :DYNASTY:  日本
       :FUNCTION: 撰
       :DATES:    d. 1728
       :END:
