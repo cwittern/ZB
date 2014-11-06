@@ -224,23 +224,29 @@
       :DATES:    1147 - 1220
       :END:
 
-***** 顏師古
+***** 劉辰翁
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 注
+      :DYNASTY:  宋
+      :FUNCTION: 評
       :END:
 
-:DYNASTY: 宋
-:RESP: 倪思
-:END:
-**** dynasty: 宋
-**** responsible: 倪思
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0009.org][ZB2a0009]] 後漢書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0009
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V252.1, p1 - V253.1
+:EXTENT: 120 卷
+:BOOK:   42
+:END:
+**** responsible:
+***** 倪思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1147 - 1220
+      :END:
+
 :DYNASTY: 劉
 :RESP: 宋范煜
 :END:
