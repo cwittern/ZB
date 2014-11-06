@@ -14169,62 +14169,118 @@
 *** ZB1j0058 九經補韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 楊伯喦
+:SOURCE:   四庫全書 文淵閣版, V237.6, p767
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 楊伯喦
+**** responsible:
+***** 楊伯嵒
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0059 五音集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 韓道昭
+:SOURCE:   四庫全書 文淵閣版, V238.1, p1
+:EXTENT: 15 卷
+:BOOK:   12
 :END:
-**** dynasty: 金
-**** responsible: 韓道昭
+**** responsible:
+***** 韓道昭
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :DATES:    fl. 1208
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0060 古今韻會擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 黃公紹
+:SOURCE:   四庫全書 文淵閣版, V238.2, p357
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 元
-**** responsible: 黃公紹
+**** responsible:
+***** 黃公紹
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 原編
+      :END:
+
+***** 熊忠
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 擧要
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 韻母
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (12)
+      :END:
+
 *** ZB1j0061 四聲全形等子
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: □
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V238.3, p837
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: □
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0062 經史正音切韻指南
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉鑑
+:SOURCE:   四庫全書 文淵閣版, V238.4, p853
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1535
 :END:
-**** dynasty: 元
-**** responsible: 劉鑑
+**** responsible:
+***** 劉鑑
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0063 洪武正韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0063
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V239.1, p1
+:EXTENT: 16 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 樂韶鳳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    fl. 1355 - 13
+      :END:
+
+***** 樂韶鳳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 宋濂
 :END:
