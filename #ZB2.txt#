@@ -95,54 +95,83 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0003.org][ZB2a0003]] 史記索引
+*** [[mandoku:ZB2a0003.org][ZB2a0003]] 史記索隱
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0003
 :SOURCE:   四庫全書 文淵閣版, V246.2, p447
-:EXTENT: 130 卷
-:BOOK:   28
+:EXTENT: 30 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 裴駰
+***** 司馬貞
       :PROPERTIES:
-      :DYNASTY:  南朝宋
+      :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    fl. 438
       :END:
 
-:DYNASTY: 唐
-:RESP: 司馬貞
-:END:
-**** dynasty: 唐
-**** responsible: 司馬貞
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0004.org][ZB2a0004]] 史記正義
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張守節
+:SOURCE:   四庫全書 文淵閣版, V247.1, p1 - V248.1
+:EXTENT: 130 卷
+:BOOK:   30
 :END:
-**** dynasty: 唐
-**** responsible: 張守節
+**** responsible:
+***** 張守節
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)史記正義論例諡法解
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (30)
+      :END:
+
 *** [[mandoku:ZB2a0005.org][ZB2a0005]] 讀史記十表
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪越
+:SOURCE:   四庫全書 文淵閣版, V248.2, p421
+:EXTENT: 10 卷
+:BOOK:   5
+:DATE:   1705
 :END:
-**** dynasty: 清
-**** responsible: 汪越
+**** responsible:
+***** 汪越
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+***** 徐克范
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0006.org][ZB2a0006]] 史記疑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0006
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V248.2, p421
+:EXTENT: 10 卷
+:BOOK:   5
+:DATE:   1705
+:END:
+**** responsible:
+***** 汪越
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 邵泰衢
 :END:
