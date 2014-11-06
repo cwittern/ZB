@@ -13875,74 +13875,127 @@
 *** ZB1j0045 御製增訂清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0045
-:SOURCE:   四庫全書 文淵閣版, V229.1, p1 - V231.1
-:EXTENT: 36 卷
-:BOOK:   40
-:DATE:   康熙五十五年
+:SOURCE:   四庫全書 文淵閣版, V232.1, p1 - V233.1
+:EXTENT: 32 卷
+:BOOK:   41
+:DATE:   乾隆三十六年
 :END:
 **** responsible:
-***** 張玉書
+***** 傅恒
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 奉敕纂
-      :DATES:    1642 - 1711
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
       :END:
 
-:DYNASTY: 清乾隆三十六年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆三十六年
-**** responsible: 敕撰
 **** textual witnesses
 ***** WYG
+**** 補編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (41)
+      :END:
+
+**** 總綱
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   (41)
+      :END:
+
+**** 補編總綱
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (41)
+      :END:
+
 *** ZB1j0046 御製滿珠蒙古漢字三合切音清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十四年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V234.1, p1
+:EXTENT: 31 卷
+:BOOK:   33
+:DATE:   乾隆四十四年
 :END:
-**** dynasty: 清乾隆四十四年
-**** responsible: 敕撰
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1717 - 1797
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0047 欽定西域同文志
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆二十八年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V235.1, p1
+:EXTENT: 24 卷
+:BOOK:   10
+:DATE:   乾隆二十八年
 :END:
-**** dynasty: 清乾隆二十八年
-**** responsible: 敕撰
+**** responsible:
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0048 隸辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧藹
+:SOURCE:   四庫全書 文淵閣版, V235.2, p431
+:EXTENT: 8 卷
+:BOOK:   8
 :END:
-**** dynasty: 清
-**** responsible: 顧藹
+**** responsible:
+***** 顧藹吉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1718
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1j0049 篆隸攷異
+*** ZB1j0049 篆隸考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 周靖
+:SOURCE:   四庫全書 文淵閣版, V235.3, p845
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 周靖
+**** responsible:
+***** 周靖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1710
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0050 原本廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0050
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V235.3, p845
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 周靖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1710
+      :END:
+
 :DYNASTY: □
 :RESP: 闕名
 :END:
