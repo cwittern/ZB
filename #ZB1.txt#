@@ -13552,83 +13552,146 @@
 
 **** textual witnesses
 ***** WYG
-**** 附錄
+**** 卷首:六書通釋
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (12)
       :END:
 
 *** ZB1j0032 字通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李從周
+:SOURCE:   四庫全書 文淵閣版, V226.2, p2
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李從周
+**** responsible:
+***** 李從周
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0033 龍龕手鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 遼
-:RESP: 釋行均
+:SOURCE:   四庫全書 文淵閣版, V226.3, p647
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 遼
-**** responsible: 釋行均
+**** responsible:
+***** 釋行均
+      :PROPERTIES:
+      :DYNASTY:  遼
+      :FUNCTION: 撰
+      :DATES:    10th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0034 六書統
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 楊桓
+:SOURCE:   四庫全書 文淵閣版, V227.1, p1
+:EXTENT: 20 卷
+:BOOK:   14
 :END:
-**** dynasty: 元
-**** responsible: 楊桓
+**** responsible:
+***** 楊桓
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0035 周秦刻石釋音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 吾丘衍
+:SOURCE:   四庫全書 文淵閣版, V228.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 吾丘衍
+**** responsible:
+***** 吾丘衍
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    d. 1311
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0036 字鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李文仲
+:SOURCE:   四庫全書 文淵閣版, V228.2, p17
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 李文仲
+**** responsible:
+***** 李文仲
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0037 說文字原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 周伯琦
+:SOURCE:   四庫全書 文淵閣版, V228.3, p75
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 周伯琦
+**** responsible:
+***** 周伯琦
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1298 - 1369
+      :END:
+
 **** textual witnesses
 ***** WYG
+*** ZB1j0037 說文字原
+:PROPERTIES:
+:CUSTOM_ID:  ZB1j0037
+:SOURCE:   四庫全書 文淵閣版, V228.3, p75
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 周伯琦
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1298 - 1369
+      :END:
+
+**** textual witnesses
+***** WYG
+
 *** ZB1j0038 漢隸分韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0038
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V228.4, p183
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 周伯琦
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1298 - 1369
+      :END:
+
 :DYNASTY: □
 :RESP: 闕名
 :END:
