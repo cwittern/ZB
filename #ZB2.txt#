@@ -6,7 +6,7 @@
 *** [[mandoku:ZB2a0001.org][ZB2a0001]] 史記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0001
-:SOURCE:   四庫全書 文淵閣版, V242.1, p1 - V244.1
+:SOURCE:   四庫全書 文淵閣版, V243.1, p1 - V244.1
 :EXTENT: 130 卷
 :BOOK:   42
 :END:
@@ -18,13 +18,66 @@
       :DATES:    ca. -145 - ca. -86
       :END:
 
-:DYNASTY: 漢
-:RESP: 司馬遷
-:END:
-**** dynasty: 漢
-**** responsible: 司馬遷
+***** 宋裴駰
+      :PROPERTIES:
+      :DYNASTY:  南朝宋
+      :FUNCTION: 集解
+      :END:
+
+***** 司馬貞
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 索隱
+      :END:
+
+***** 張守節
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 正義
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (42)
+      :END:
+***** responsible:
+****** 張照
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
+**** 補史記三皇本紀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (42)
+      :END:
+***** responsible:
+****** 司馬貞
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :FUNCTION: 注
+      :END:
+
+**** 史記正義論例諡法解列國分野
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (42)
+      :END:
+***** responsible:
+****** 張守節
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2a0002.org][ZB2a0002]] 史記集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0002
