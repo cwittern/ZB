@@ -13659,12 +13659,11 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0037 說文字原
+*** no id 六書正譌
 :PROPERTIES:
-:CUSTOM_ID:  ZB1j0037
-:SOURCE:   四庫全書 文淵閣版, V228.3, p75
-:EXTENT: 1 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V228.4, p106
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
 **** responsible:
 ***** 周伯琦
@@ -13676,62 +13675,98 @@
 
 **** textual witnesses
 ***** WYG
-
 *** ZB1j0038 漢隸分韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0038
-:SOURCE:   四庫全書 文淵閣版, V228.4, p183
-:EXTENT: 1 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V228.5, p183
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
 **** responsible:
-***** 周伯琦
+***** 闕名
       :PROPERTIES:
-      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES:    1298 - 1369
       :END:
 
-:DYNASTY: □
-:RESP: 闕名
-:END:
-**** dynasty: □
-**** responsible: 闕名
 **** textual witnesses
 ***** WYG
 *** ZB1j0039 六書本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 趙撝謙
+:SOURCE:   四庫全書 文淵閣版, V228.6, p285
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 趙撝謙
+**** responsible:
+***** 趙撝謙
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 綱領
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+**** 圖考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** ZB1j0040 奇字韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V228.7, p375
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0041 古音駢字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊愼
+:SOURCE:   四庫全書 文淵閣版, V228.8, p399
+:EXTENT: 2 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 楊愼
+**** responsible:
+***** 楊愼
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1559
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 古音駢字續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 王開祖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** ZB1j0042 俗書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0042
