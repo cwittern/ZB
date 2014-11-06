@@ -14440,12 +14440,24 @@
 *** ZB1j0071 欽定叶韻彙輯
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 弘晝
+:SOURCE:   四庫全書 文淵閣版, V240.3, p449
+:EXTENT: 58 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 弘晝
+**** responsible:
+***** 梁詩正
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1697 - 1763
+      :END:
+
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0072 欽定音韻述微
