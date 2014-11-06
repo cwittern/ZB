@@ -13834,13 +13834,60 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (40)
+      :END:
+
+**** 檢字
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (40)
+      :END:
+
+**** 辨似
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (40)
+      :END:
+
+**** 等韻
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (40)
+      :END:
+
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (40)
+      :END:
+
+**** 備考
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (40)
       :END:
 
 *** ZB1j0045 御製增訂清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0045
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V229.1, p1 - V231.1
+:EXTENT: 36 卷
+:BOOK:   40
+:DATE:   康熙五十五年
+:END:
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :DATES:    1642 - 1711
+      :END:
+
 :DYNASTY: 清乾隆三十六年
 :RESP: 敕撰
 :END:
