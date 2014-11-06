@@ -452,14 +452,33 @@
 *** [[mandoku:ZB2a0016.org][ZB2a0016]] 宋書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 沈約
+:SOURCE:   四庫全書 文淵閣版, V257.1, p1 - V258.1
+:EXTENT: 100 卷
+:BOOK:   36
 :END:
-**** dynasty: 梁
-**** responsible: 沈約
+**** responsible:
+***** 沈約
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    441 - 513
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (36)
+      :END:
+***** responsible:
+****** 萬承蒼
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB2a0017.org][ZB2a0017]] 南齊書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0017
