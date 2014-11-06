@@ -680,16 +680,16 @@
 *** [[mandoku:ZB2a0023.org][ZB2a0023]] 隋書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0023
-:SOURCE:   四庫全書 文淵閣版, V263.2, p391
-:EXTENT: 50 卷
-:BOOK:   12
+:SOURCE:   四庫全書 文淵閣版, V264.1, p1
+:EXTENT: 85 卷
+:BOOK:   30
 :END:
 **** responsible:
-***** 令狐德棻
+***** 魏徵
       :PROPERTIES:
       :DYNASTY:  唐
       :FUNCTION: 奉敕撰
-      :DATES:    583 - 666
+      :DATES:    580 - 643
       :END:
 
 **** textual witnesses
@@ -698,59 +698,143 @@
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: # 卷
-      :BOOK:   (12)
+      :BOOK:   (30)
       :END:
 ***** responsible:
-****** 金文淳
+****** 張映斗
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 唐
-:RESP: 魏徵
-:END:
-**** dynasty: 唐
-**** responsible: 魏徵
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0024.org][ZB2a0024]] 南史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李延壽
+:SOURCE:   四庫全書 文淵閣版, V265.1, p1
+:EXTENT: 80 卷
+:BOOK:   32
 :END:
-**** dynasty: 唐
-**** responsible: 李延壽
+**** responsible:
+***** 李延壽
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 618 - 676
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (32)
+      :END:
+***** responsible:
+****** 萬承蒼
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0025.org][ZB2a0025]] 北史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李延壽
+:SOURCE:   四庫全書 文淵閣版, V266.1, p1 - V267.1
+:EXTENT: 100 卷
+:BOOK:   50
 :END:
-**** dynasty: 唐
-**** responsible: 李延壽
+**** responsible:
+***** 李延壽
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 618 - 676
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (50)
+      :END:
+***** responsible:
+****** 孫人龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0026.org][ZB2a0026]] 舊唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後晉
-:RESP: 劉昫
+:SOURCE:   四庫全書 文淵閣版, V268.1, p1 - V271.1
+:EXTENT: 200 卷
+:BOOK:   88
 :END:
-**** dynasty: 後晉
-**** responsible: 劉昫
+**** responsible:
+***** 劉昫
+      :PROPERTIES:
+      :DYNASTY:  後晉
+      :FUNCTION: 奉敕撰
+      :DATES:    887 - 946
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0027.org][ZB2a0027]] 唐書
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (88)
+      :END:
+***** responsible:
+****** 沈德潛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB2a0027.org][ZB2a0027]] 新唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0027
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V268.1, p1 - V271.1
+:EXTENT: 200 卷
+:BOOK:   88
+:END:
+**** responsible:
+***** 劉昫
+      :PROPERTIES:
+      :DYNASTY:  後晉
+      :FUNCTION: 奉敕撰
+      :DATES:    887 - 946
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (88)
+      :END:
+***** responsible:
+****** 沈德潛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 歐陽修
 :END:
