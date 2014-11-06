@@ -13173,190 +13173,368 @@
 *** ZB1j0014 急就篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 史游
+:SOURCE:   四庫全書 文淵閣版, V223.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 史游
+**** responsible:
+***** 史游
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. -48 - -33
+      :END:
+
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 補注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0015 說文解字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 許愼
+:SOURCE:   四庫全書 文淵閣版, V223.2, p63
+:EXTENT: 30 卷
+:BOOK:   8
 :END:
-**** dynasty: 漢
-**** responsible: 許愼
+**** responsible:
+***** 許愼
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    d. 120
+      :END:
+
+***** 徐鉉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增釋
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0016 說文繫傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 徐鍇
+:SOURCE:   四庫全書 文淵閣版, V223.3, p385
+:EXTENT: 40 卷
+:BOOK:   10
 :END:
-**** dynasty: 南唐
-**** responsible: 徐鍇
+**** responsible:
+***** 徐鍇
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    920 - 974
+      :END:
+
+***** 朱翺
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 反切
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0017 說文繫傳考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 汪憲
+:SOURCE:   四庫全書 文淵閣版, V223.4, p791
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 汪憲
+**** responsible:
+***** 汪憲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1721 - 1771
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** ZB1j0018 說文解字篆韻譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 南唐
-:RESP: 徐鍇
+:SOURCE:   四庫全書 文淵閣版, V223.5, p849
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 南唐
-**** responsible: 徐鍇
+**** responsible:
+***** 徐鍇
+      :PROPERTIES:
+      :DYNASTY:  南唐
+      :FUNCTION: 撰
+      :DATES:    920 - 974
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1j0019 玉篇
+*** ZB1j0019 重修玉篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 顧野王
+:SOURCE:   四庫全書 文淵閣版, V224.1, p1
+:EXTENT: 30 卷
+:BOOK:   6
 :END:
-**** dynasty: 梁
-**** responsible: 顧野王
+**** responsible:
+***** 顧野王
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    519 - 581
+      :END:
+
+***** 孫強
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 增補
+      :END:
+
+***** 陳彭年
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重修
+      :END:
+
+***** 丘雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重修
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)玉篇反紐圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+***** responsible:
+****** 釋神珙
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+**** 玉篇分毫字樣
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** ZB1j0020 千祿字書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 顏元孫
+:SOURCE:   四庫全書 文淵閣版, V224.2, p243
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 顏元孫
+**** responsible:
+***** 顏元孫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 714
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0021 五經文字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 張參
+:SOURCE:   四庫全書 文淵閣版, V224.3, p251
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 張參
+**** responsible:
+***** 張參
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 776
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0022 九經字樣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 唐玄度
+:SOURCE:   四庫全書 文淵閣版, V224.4, p295
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 唐玄度
+**** responsible:
+***** 唐玄度
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 833 - 837
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0023 汗簡
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭忠恕
+:SOURCE:   四庫全書 文淵閣版, V224.5, p307
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 郭忠恕
+**** responsible:
+***** 郭忠恕
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 977
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄敍略
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+
 *** ZB1j0024 佩觽
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭忠恕
+:SOURCE:   四庫全書 文淵閣版, V224.6, p377
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 郭忠恕
+**** responsible:
+***** 郭忠恕
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 977
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0025 古文四聲韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 夏竦
+:SOURCE:   四庫全書 文淵閣版, V224.7, p413
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 夏竦
+**** responsible:
+***** 夏竦
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1051
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0026 類篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V225.1, p1
+:EXTENT: 45 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0027 歷代鐘鼎彝器款識法帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 薛尚功
+:SOURCE:   四庫全書 文淵閣版, V225.2, p503
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 薛尚功
+**** responsible:
+***** 薛尚功
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0028 復古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張有
+:SOURCE:   四庫全書 文淵閣版, V225.3, p679
+:EXTENT: 11 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 張有
+**** responsible:
+***** 張有
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1054
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0029 班馬字類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 婁機
+:SOURCE:   四庫全書 文淵閣版, V225.4, p749
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 婁機
+**** responsible:
+***** 婁機
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1211
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0030 漢隸字源
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 婁機
+:SOURCE:   四庫全書 文淵閣版, V225.5, p791
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 婁機
+**** responsible:
+***** 婁機
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1133 - 1211
+      :END:
+
 **** textual witnesses
-***** WYG
+***** WYG<!-- here 2014-11-05 -->
 *** ZB1j0031 六書故
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0031
