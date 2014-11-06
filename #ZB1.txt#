@@ -13984,67 +13984,109 @@
 *** ZB1j0050 原本廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0050
-:SOURCE:   四庫全書 文淵閣版, V235.3, p845
-:EXTENT: 4 卷
-:BOOK:   4
+:SOURCE:   四庫全書 文淵閣版, V236.1, p1
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
 **** responsible:
-***** 周靖
+***** 闕名
       :PROPERTIES:
-      :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1645 - 1710
       :END:
 
-:DYNASTY: □
-:RESP: 闕名
-:END:
-**** dynasty: □
-**** responsible: 闕名
 **** textual witnesses
 ***** WYG
-*** ZB1j0051 廣韻
+*** ZB1j0051 重修廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0051
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳彭年
+:SOURCE:   四庫全書 文淵閣版, V236.2, p223
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 陳彭年
+**** responsible:
+***** 陳彭年
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    961 - 1017
+      :END:
+
+***** 丘雍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0052 集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 丁度
+:SOURCE:   四庫全書 文淵閣版, V236.3, p433
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 宋
-**** responsible: 丁度
+**** responsible:
+***** 丁度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕纂
+      :DATES:    990 - 1053
+      :END:
+
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0053 切韻指掌圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V237.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)檢圖之例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (3)
+      :END:
+***** responsible:
+****** 邵光祖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 *** ZB1j0054 韻補
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳棫
+:SOURCE:   四庫全書 文淵閣版, V237.2, p55
+:EXTENT: 5 卷
+:BOOK:   2
+:DATE:   1124
 :END:
-**** dynasty: 宋
-**** responsible: 吳棫
+**** responsible:
+***** 吳棫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0055 附釋文互註禮部韻略
