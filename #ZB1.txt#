@@ -14092,36 +14092,80 @@
 *** ZB1j0055 附釋文互註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 丁度
+:SOURCE:   四庫全書 文淵閣版, V237.3, p133
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 丁度
+**** responsible:
+***** 丁度
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    990 - 1053
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1j0056 增修亙註禮部韻略
+**** (附)貢擧條式
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+
+*** ZB1j0056 增修互註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V237.4, p333
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 毛晃
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增注
+      :DATES:    fl. 1162
+      :END:
+
+***** 毛居正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 重增
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0057 增修校正押韻釋疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽德隆
+:SOURCE:   四庫全書 文淵閣版, V237.5, p587
+:EXTENT: 5 卷
+:BOOK:   5
+:DATE:   1230
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽德隆
+**** responsible:
+***** 歐陽德隆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 郭守正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 增修
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:校正條例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** ZB1j0058 九經補韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0058
