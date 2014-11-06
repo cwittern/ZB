@@ -13761,45 +13761,82 @@
       :BOOK:   (6)
       :END:
 ***** responsible:
-****** 王開祖
+****** 莊履豐
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+****** 莊鼎鉉
+      :PROPERTIES:
+      :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
 *** ZB1j0042 俗書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 焦竑
+:SOURCE:   四庫全書 文淵閣版, V228.9, p539
+:EXTENT: 12 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 焦竑
+**** responsible:
+***** 焦竑
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1541 - 1620
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** ZB1j0043 字&
+*** ZB1j0043 字㝈
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 葉秉敬
+:SOURCE:   四庫全書 文淵閣版, V228.10, p587
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 葉秉敬
+**** responsible:
+***** 葉秉敬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** ZB1j0044 御定康熙字典
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清康熙五十五年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V229.1, p1 - V231.1
+:EXTENT: 36 卷
+:BOOK:   40
+:DATE:   康熙五十五年
 :END:
-**** dynasty: 清康熙五十五年
-**** responsible: 敕撰
+**** responsible:
+***** 張玉書
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :DATES:    1642 - 1711
+      :END:
+
+***** 陳廷敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** ZB1j0045 御製增訂清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0045
