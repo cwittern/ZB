@@ -48,7 +48,7 @@
 ****** 張照
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 **** 補史記三皇本紀
@@ -206,7 +206,7 @@
 ****** 齊召南
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 *** [[mandoku:ZB2a0008.org][ZB2a0008]] 班馬異同
@@ -277,7 +277,7 @@
 ****** 陳浩
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 *** [[mandoku:ZB2a0010.org][ZB2a0010]] 補後漢書年表
@@ -364,7 +364,7 @@
 ****** 李龍官
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 *** [[mandoku:ZB2a0013.org][ZB2a0013]] 三國史辨誤
@@ -433,7 +433,7 @@
 ****** 孫人龍
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 **** [[mandoku:ZB2a0015a.org][ZB2a0015a]] 晉書音義
@@ -476,18 +476,39 @@
 ****** 萬承蒼
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 著
+      :FUNCTION: 撰
       :END:
 
 *** [[mandoku:ZB2a0017.org][ZB2a0017]] 南齊書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 蕭子顯
+:SOURCE:   四庫全書 文淵閣版, V259.1, p1
+:EXTENT: 59 卷
+:BOOK:   18
 :END:
-**** dynasty: 梁
-**** responsible: 蕭子顯
+**** responsible:
+***** 蕭子顯
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    489 - 537
+      :END:
+
+**** textual witnesses
+***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (18)
+      :END:
+***** responsible:
+****** 王祖庚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0018.org][ZB2a0018]] 梁書
