@@ -843,29 +843,34 @@
 *** [[mandoku:ZB2a0028.org][ZB2a0028]] 新唐書糾謬
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0028
-:SOURCE:   四庫全書 文淵閣版, V272.1, p1 - V276.1
-:EXTENT: 225 卷
-:BOOK:   89
+:SOURCE:   四庫全書 文淵閣版, V276.2, p617
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 歐陽修
+***** 吳縝
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 奉敕撰
-      :DATES:    1007 - 1072
+      :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 吳縝
-:END:
-**** dynasty: 宋
-**** responsible: 吳縝
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0029.org][ZB2a0029]] 舊五代史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0029
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V277.1, p1 - V278.1
+:EXTENT: 150 卷
+:BOOK:   30
+:END:
+**** responsible:
+***** 薛居正
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    912 
+      :END:
+
 :DYNASTY: 宋
 :RESP: 薛居正
 :END:
