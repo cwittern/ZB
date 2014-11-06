@@ -160,40 +160,76 @@
 *** [[mandoku:ZB2a0006.org][ZB2a0006]] 史記疑問
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0006
-:SOURCE:   四庫全書 文淵閣版, V248.2, p421
-:EXTENT: 10 卷
-:BOOK:   5
-:DATE:   1705
+:SOURCE:   四庫全書 文淵閣版, V248.3, p673
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 汪越
+***** 邵泰衢
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 清
-:RESP: 邵泰衢
-:END:
-**** dynasty: 清
-**** responsible: 邵泰衢
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0007.org][ZB2a0007]] 前漢書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 班固
+:SOURCE:   四庫全書 文淵閣版, V249.1, p1 - V251.1
+:EXTENT: 120 卷
+:BOOK:   54
 :END:
-**** dynasty: 漢
-**** responsible: 班固
+**** responsible:
+***** 班固
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    32 - 92
+      :END:
+
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (54)
+      :END:
+***** responsible:
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 著
+      :END:
+
 *** [[mandoku:ZB2a0008.org][ZB2a0008]] 班馬異同
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0008
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V251.2, p431
+:EXTENT: 35 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 倪思
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1147 - 1220
+      :END:
+
+***** 顏師古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 :DYNASTY: 宋
 :RESP: 倪思
 :END:
