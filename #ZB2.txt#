@@ -1311,68 +1311,125 @@
 *** [[mandoku:ZB2b0006.org][ZB2b0006]] 唐創業起居注
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 溫大雅
+:SOURCE:   四庫全書 文淵閣版, V303.6, p955
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 溫大雅
+**** responsible:
+***** 溫大雅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0007.org][ZB2b0007]] 資治通鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V304.1, p1 - V310.1
+:EXTENT: 294 卷
+:BOOK:   144
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
+***** 胡三省
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0008.org][ZB2b0008]] 資治通鑑考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V311.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0008a.org][ZB2b0008a]] 資治通鑑釋例
+:PROPERTIES:
+:CUSTOM_ID:  ZB2b0008a
+:SOURCE:   四庫全書 文淵閣版, V311.2, p317
+:EXTENT: 1 卷
+:BOOK:   #
+:END:
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB2b0009.org][ZB2b0009]] 資治通鑑目錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V311.3, p321
+:EXTENT: 30 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0010.org][ZB2b0010]] 通鑑地理通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V312.1, p1
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2b0011.org][ZB2b0011]] 通鑑釋文辯誤
+*** [[mandoku:ZB2b0011.org][ZB2b0011]] 通鑑釋文辨誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡三省
+:SOURCE:   四庫全書 文淵閣版, V312.2, p217
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 胡三省
+**** responsible:
+***** 胡三省
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1230 - 1287
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0012.org][ZB2b0012]] 通鑑胡注擧正
