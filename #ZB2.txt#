@@ -2773,60 +2773,89 @@
 :SOURCE:   四庫全書 文淵閣版, V392.1, p1 - V401.1
 :EXTENT: 640 卷
 :BOOK:   200
+:DATE:   乾隆三十二年
 :END:
 **** responsible:
-***** 嵇
+***** 嵇璜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1711 - 1794
+      :END:
+
+***** 曹仁虎
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 奉敕撰
       :END:
 
-***** 周清原
-      :PROPERTIES:
-      :DYNASTY:  清
-      :FUNCTION: 奉敕撰
-      :END:
-
-:DYNASTY: 清乾隆三十二年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆三十二年
-**** responsible: 敕撰
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0018.org][ZB2d0018]] 補歷代史表
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯同
+:SOURCE:   四庫全書 文淵閣版, V402.1, p1
+:EXTENT: 53 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 萬斯同
+**** responsible:
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0019.org][ZB2d0019]] 後漢書補逸
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 姚之駰
+:SOURCE:   四庫全書 文淵閣版, V402.2, p325
+:EXTENT: 21 卷
+:BOOK:   12
+:DATE:   1721
 :END:
-**** dynasty: 清
-**** responsible: 姚之駰
+**** responsible:
+***** 姚之駰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0020.org][ZB2d0020]] 春秋戰國異辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳厚耀
+:SOURCE:   四庫全書 文淵閣版, V403.1, p1
+:EXTENT: 54 卷
+:BOOK:   28
 :END:
-**** dynasty: 清
-**** responsible: 陳厚耀
+**** responsible:
+***** 陳厚耀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1648 - 1722
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 春秋戰國通表
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (28)
+      :END:
+
+**** 摭遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (28)
+      :END:
+
 *** [[mandoku:ZB2d0021.org][ZB2d0021]] 尚史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0021
