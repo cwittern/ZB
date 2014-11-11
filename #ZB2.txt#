@@ -1006,7 +1006,7 @@
       :FUNCTION: 撰
       :END:
 
-****** 齊召南
+****** 楊開鼎
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
@@ -1015,40 +1015,82 @@
 *** [[mandoku:ZB2a0033.org][ZB2a0033]] 遼史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 托克托
+:SOURCE:   四庫全書 文淵閣版, V289.1, p1
+:EXTENT: 115 卷
+:BOOK:   20
 :END:
-**** dynasty: 元
-**** responsible: 托克托
+**** responsible:
+***** 托克托
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 奉敕撰
+      :DATES:    1313 - 1355
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (20)
+      :END:
+***** responsible:
+****** 周長發
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2a0034.org][ZB2a0034]] 遼史拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 厲鶚
+:SOURCE:   四庫全書 文淵閣版, V289.2, p737
+:EXTENT: 24 卷
+:BOOK:   14
 :END:
-**** dynasty: 清
-**** responsible: 厲鶚
+**** responsible:
+***** 厲鶚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0035.org][ZB2a0035]] 金史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 托克托
+:SOURCE:   四庫全書 文淵閣版, V290.1, p1 - V291.1
+:EXTENT: 135 卷
+:BOOK:   48
 :END:
-**** dynasty: 元
-**** responsible: 托克托
+**** responsible:
+***** 托克托
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 奉敕撰
+      :DATES:    1313 - 1355
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0036.org][ZB2a0036]] 元史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0036
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V292.1, p1 - V291.1
+:EXTENT: 135 卷
+:BOOK:   48
+:END:
+**** responsible:
+***** 托克托
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 奉敕撰
+      :DATES:    1313 - 1355
+      :END:
+
 :DYNASTY: 明
 :RESP: 宋濂
 :END:
