@@ -1248,44 +1248,64 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0003
 :SOURCE:   四庫全書 文淵閣版, V303.3, p203
-:EXTENT: 12 卷
-:BOOK:   5
+:EXTENT: 30 卷
+:BOOK:   6
 :END:
 **** responsible:
-***** 徐文靖
+***** 荀悅
       :PROPERTIES:
-      :DYNASTY:  清
+      :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    1667 - 1756
+      :DATES:    148 - 209
       :END:
 
-:DYNASTY: 漢
-:RESP: 荀悅
-:END:
-**** dynasty: 漢
-**** responsible: 荀悅
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0004.org][ZB2b0004]] 後漢紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 袁宏
+:SOURCE:   四庫全書 文淵閣版, V303.4, p491
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 晉
-**** responsible: 袁宏
+**** responsible:
+***** 袁宏
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    328 - 376
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0005.org][ZB2b0005]] 元經
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 隋
-:RESP: 王通
+:SOURCE:   四庫全書 文淵閣版, V303.5, p829
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 隋
-**** responsible: 王通
+**** responsible:
+***** 王通
+      :PROPERTIES:
+      :DYNASTY:  隋
+      :FUNCTION: 撰
+      :DATES:    584 - 618
+      :END:
+
+***** 薛收
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 續
+      :FUNCTION: 傳
+      :END:
+
+***** 阮逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0006.org][ZB2b0006]] 唐創業起居注
