@@ -1079,43 +1079,91 @@
 *** [[mandoku:ZB2a0036.org][ZB2a0036]] 元史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0036
-:SOURCE:   四庫全書 文淵閣版, V292.1, p1 - V291.1
-:EXTENT: 135 卷
-:BOOK:   48
+:SOURCE:   四庫全書 文淵閣版, V292.1, p1 - V295.1
+:EXTENT: 210 卷
+:BOOK:   69
 :END:
 **** responsible:
-***** 托克托
+***** 宋濂
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  明
       :FUNCTION: 奉敕撰
-      :DATES:    1313 - 1355
+      :DATES:    1310 - 1381
       :END:
 
-:DYNASTY: 明
-:RESP: 宋濂
-:END:
-**** dynasty: 明
-**** responsible: 宋濂
+***** 王禕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0037.org][ZB2a0037]] 欽定遼史語解
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (69)
+      :END:
+***** responsible:
+****** 王祖庚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+*** [[mandoku:ZB2a0037.org][ZB2a0037]] 欽定遼金元三史國語解
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十六年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V296.1, p1
+:EXTENT: 46 卷
+:BOOK:   21
+:DATE:   乾隆四十七年
 :END:
-**** dynasty: 清乾隆四十六年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0037a.org][ZB2a0037a]] 欽定遼金元三史國語解__欽定遼史語解
-*** [[mandoku:ZB2a0037b.org][ZB2a0037b]] 欽定遼金元三史國語解__欽定金史語解
-*** [[mandoku:ZB2a0037c.org][ZB2a0037c]] 欽定遼金元三史國語解__欽定元史語解
+**** [[mandoku:ZB2a0037a.org][ZB2a0037a]] 欽定遼史語解
+      :PROPERTIES:
+      :EXTENT: (10) 卷
+      :BOOK:   (4)
+      :END:
+
+**** [[mandoku:ZB2a0037b.org][ZB2a0037b]] 欽定金史語解
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB2a0037c.org][ZB2a0037c]] 欽定元史語解
+      :PROPERTIES:
+      :EXTENT: (24) 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB2a0038.org][ZB2a0038]] 明史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0038
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V297.1, p1 - V302.1
+:EXTENT: 332 卷
+:BOOK:   145
+:DATE:   乾隆四十七年
+:END:
+**** responsible:
+***** 張廷玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    167 - 1799
+      :END:
+
 :DYNASTY: 清
 :RESP: 張廷玉
 :END:
