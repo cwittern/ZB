@@ -2220,49 +2220,93 @@
 
 **** textual witnesses
 ***** WYG
-**** 附
+**** 卷首:天章
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   (54)
+      :END:
+
+**** [[mandoku:ZB2c0012a.org][ZB2c0012a]] 藝文
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   (54)
+      :END:
+
+# *** [[mandoku:ZB2c0012b.org][ZB2c0012b]] 平定兩金川方略__藝文一
+*** [[mandoku:ZB2c0013.org][ZB2c0013]] 欽定剿捕臨清逆匪紀略
+:PROPERTIES:
+:CUSTOM_ID:  ZB2c0013
+:SOURCE:   四庫全書 文淵閣版, V362.1, p1
+:EXTENT: 16 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 舒赫德
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB2c0014.org][ZB2c0014]] 欽定蘭州紀略
+:PROPERTIES:
+:CUSTOM_ID:  ZB2c0014
+:SOURCE:   四庫全書 文淵閣版, V362.2, p233
+:EXTENT: 20 卷
+:BOOK:   7
+:DATE:   乾隆四十六年
+:END:
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1717 - 1797
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 卷首:天章
       :PROPERTIES:
       :TYPE:   appendix
       :EXTENT: 1 卷
-      :BOOK:   (1)
+      :BOOK:   (7)
       :END:
 
-**** [[mandoku:ZB2c0012a.org][ZB2c0012a]] 平定兩金川方略__藝文一
-
-# *** [[mandoku:ZB2c0012b.org][ZB2c0012b]] 平定兩金川方略__藝文一
-*** [[mandoku:ZB2c0013.org][ZB2c0013]] 欽定&捕臨清逆匪紀略
-:PROPERTIES:
-:CUSTOM_ID:  ZB2c0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 于敏中
-:END:
-**** dynasty: 清
-**** responsible: 于敏中
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB2c0014.org][ZB2c0014]] 欽定蘭州紀畧
-:PROPERTIES:
-:CUSTOM_ID:  ZB2c0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十六年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆四十六年
-**** responsible: 敕撰
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB2c0015.org][ZB2c0015]] 欽定石峯堡紀畧
+*** [[mandoku:ZB2c0015.org][ZB2c0015]] 欽定石峯堡紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V362.3, p487
+:EXTENT: 20 卷
+:BOOK:   8
+:DATE:   乾隆四十九年
 :END:
-**** dynasty: 清乾隆四十九年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:天章
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** [[mandoku:ZB2c0016.org][ZB2c0016]] 欽定平定臺灣紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0016
