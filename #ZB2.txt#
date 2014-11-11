@@ -2438,78 +2438,129 @@
 
 **** textual witnesses
 ***** WYG
-** ZB2d 別史類
-*** [[mandoku:ZB2d0001.org][ZB2d0001]] 平臺紀畧
+*** [[mandoku:ZB2d0001.org][ZB2d0001]] 平臺紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 藍鼎元
+:SOURCE:   四庫全書 文淵閣版, V369.2, p557
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 藍鼎元
+**** responsible:
+***** 藍鼎元
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1680 - 1733
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0001a.org][ZB2d0001a]] 平臺紀略__東征集
+**** [[mandoku:ZB2d0001a.org][ZB2d0001a]] (附)東征集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   2
+      :END:
+
+** ZB2d 別史類
 *** [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 孔晁
+:SOURCE:   四庫全書 文淵閣版, V370.1, p1
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 晉
-**** responsible: 孔晁
+**** responsible:
+***** 孔晁
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0003.org][ZB2d0003]] 東觀漢記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 劉珍
+:SOURCE:   四庫全書 文淵閣版, V370.2, p65
+:EXTENT: 24 卷
+:BOOK:   4
 :END:
-**** dynasty: 漢
-**** responsible: 劉珍
+**** responsible:
+***** 劉珍
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    fl. 120 - 125
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0004.org][ZB2d0004]] 建康實錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 許嵩
+:SOURCE:   四庫全書 文淵閣版, V370.3, p225
+:EXTENT: 20 卷
+:BOOK:   12
 :END:
-**** dynasty: 唐
-**** responsible: 許嵩
+**** responsible:
+***** 許嵩
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
+*** [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魯鞏
+:SOURCE:   四庫全書 文淵閣版, V371.1, p1
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 魯鞏
+**** responsible:
+***** 曾鞏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1083
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0006.org][ZB2d0006]] 古史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 蘇轍
+:SOURCE:   四庫全書 文淵閣版, V371.2, p205
+:EXTENT: 60 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 蘇轍
+**** responsible:
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1039 - 1112
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0007
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V371.2, p205
+:EXTENT: 60 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 蘇轍
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1039 - 1112
+      :END:
+
 :DYNASTY: 宋
 :RESP: 鄭樵
 :END:
