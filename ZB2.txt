@@ -1206,206 +1206,397 @@
 *** [[mandoku:ZB2b0001.org][ZB2b0001]] 竹書紀年
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 沈約
+:SOURCE:   四庫全書 文淵閣版, V303.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 沈約
+**** responsible:
+***** 沈約
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 註
+      :DATES:    441 - 513
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0002.org][ZB2b0002]] 竹書統箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 徐文靖
+:SOURCE:   四庫全書 文淵閣版, V303.2, p43
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 徐文靖
+**** responsible:
+***** 徐文靖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1667 - 1756
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB2b0003.org][ZB2b0003]] 前漢紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 荀悅
+:SOURCE:   四庫全書 文淵閣版, V303.3, p203
+:EXTENT: 30 卷
+:BOOK:   6
 :END:
-**** dynasty: 漢
-**** responsible: 荀悅
+**** responsible:
+***** 荀悅
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    148 - 209
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0004.org][ZB2b0004]] 後漢紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 袁宏
+:SOURCE:   四庫全書 文淵閣版, V303.4, p491
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 晉
-**** responsible: 袁宏
+**** responsible:
+***** 袁宏
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    328 - 376
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0005.org][ZB2b0005]] 元經
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 隋
-:RESP: 王通
+:SOURCE:   四庫全書 文淵閣版, V303.5, p829
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 隋
-**** responsible: 王通
+**** responsible:
+***** 王通
+      :PROPERTIES:
+      :DYNASTY:  隋
+      :FUNCTION: 撰
+      :DATES:    584 - 618
+      :END:
+
+***** 薛收
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 續
+      :FUNCTION: 傳
+      :END:
+
+***** 阮逸
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0006.org][ZB2b0006]] 唐創業起居注
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 溫大雅
+:SOURCE:   四庫全書 文淵閣版, V303.6, p955
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 溫大雅
+**** responsible:
+***** 溫大雅
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0007.org][ZB2b0007]] 資治通鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V304.1, p1 - V310.1
+:EXTENT: 294 卷
+:BOOK:   144
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
+***** 胡三省
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0008.org][ZB2b0008]] 資治通鑑考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V311.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0008a.org][ZB2b0008a]] 資治通鑑釋例
+:PROPERTIES:
+:CUSTOM_ID:  ZB2b0008a
+:SOURCE:   四庫全書 文淵閣版, V311.2, p317
+:EXTENT: 1 卷
+:BOOK:   #
+:END:
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB2b0009.org][ZB2b0009]] 資治通鑑目錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V311.3, p321
+:EXTENT: 30 卷
+:BOOK:   20
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0010.org][ZB2b0010]] 通鑑地理通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V312.1, p1
+:EXTENT: 14 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2b0011.org][ZB2b0011]] 通鑑釋文辯誤
+*** [[mandoku:ZB2b0011.org][ZB2b0011]] 通鑑釋文辨誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡三省
+:SOURCE:   四庫全書 文淵閣版, V312.2, p217
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 胡三省
+**** responsible:
+***** 胡三省
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1230 - 1287
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0012.org][ZB2b0012]] 通鑑胡注擧正
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳景雲
+:SOURCE:   四庫全書 文淵閣版, V312.3, p381
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 陳景雲
+**** responsible:
+***** 陳景雲
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1747
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0013.org][ZB2b0013]] 稽古錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 司馬光
+:SOURCE:   四庫全書 文淵閣版, V312.4, p391
+:EXTENT: 20 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 司馬光
+**** responsible:
+***** 司馬光
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0014.org][ZB2b0014]] 資治通鑑外紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉恕
+:SOURCE:   四庫全書 文淵閣版, V312.5, p527
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 劉恕
+**** responsible:
+***** 劉恕
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1032 - 1078
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 資治通鑑外紀目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB2b0015.org][ZB2b0015]] 皇王大紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡宏
+:SOURCE:   四庫全書 文淵閣版, V313.1, p1
+:EXTENT: 80 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 胡宏
+**** responsible:
+***** 胡宏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0016.org][ZB2b0016]] 中興小紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 熊克
+:SOURCE:   四庫全書 文淵閣版, V313.2, p779
+:EXTENT: 40 卷
+:BOOK:   14
 :END:
-**** dynasty: 宋
-**** responsible: 熊克
+**** responsible:
+***** 熊克
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0017.org][ZB2b0017]] 續資治通鑑長編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李燾
+:SOURCE:   四庫全書 文淵閣版, V314.1, p1 - V322.1
+:EXTENT: 520 卷
+:BOOK:   192
 :END:
-**** dynasty: 宋
-**** responsible: 李燾
+**** responsible:
+***** 李燾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1114 - 1183
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (192)
+      :END:
+
 *** [[mandoku:ZB2b0018.org][ZB2b0018]] 綱目續麟
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張自勳
+:SOURCE:   四庫全書 文淵閣版, V323.1, p1
+:EXTENT: 20 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 張自勳
+**** responsible:
+***** 張自勳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 綱目續麟凡例
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** 綱目續麟附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** 綱目續麟彙覽
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB2b0019.org][ZB2b0019]] 綱目分註拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V323.1, p1
+:EXTENT: 20 卷
+:BOOK:   14
+:END:
+**** responsible:
+***** 張自勳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 芮長恤
 :END:
