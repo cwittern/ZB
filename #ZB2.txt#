@@ -2980,46 +2980,74 @@
 :BOOK:   6
 :END:
 **** responsible:
-***** 吳師道
+***** 吳兢
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  唐
       :FUNCTION: 撰
-      :DATES:    1283 - 1344
+      :DATES:    670 - 749
       :END:
 
-:DYNASTY: 唐
-:RESP: 吳兢
-:END:
-**** dynasty: 唐
-**** responsible: 吳兢
+***** 戈直
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 集論
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2e0007.org][ZB2e0007]] 渚宮舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2e0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 餘知古
+:SOURCE:   四庫全書 文淵閣版, V407.3, p555
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 餘知古
+**** responsible:
+***** 余知古
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB2e0008.org][ZB2e0008]] 東觀奏記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2e0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 斐庭裕
+:SOURCE:   四庫全書 文淵閣版, V407.4, p609
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 斐庭裕
+**** responsible:
+***** 斐庭裕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2e0009.org][ZB2e0009]] 五代史闕文
 :PROPERTIES:
 :CUSTOM_ID:  ZB2e0009
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V407.5, p631
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王禹偁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 王禹偁
 :END:
