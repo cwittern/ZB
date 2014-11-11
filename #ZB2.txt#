@@ -3434,36 +3434,85 @@
 *** [[mandoku:ZB2f0008.org][ZB2f0008]] 世宗憲皇帝硃批諭旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 世宗胤禛
+:SOURCE:   四庫全書 文淵閣版, V416.1, p1 - V425.1
+:EXTENT: 360 卷
+:BOOK:   226
+:DATE:   雍正十年
+# 乾隆三年告成
 :END:
-**** dynasty: 清
-**** responsible: 世宗胤禛
+**** responsible:
+***** 世宗胤禛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1678 - 1735
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0009.org][ZB2f0009]] 唐大詔令集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋敏求
+:SOURCE:   四庫全書 文淵閣版, V426.1, p1
+:EXTENT: 存107 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 宋敏求
+**** responsible:
+***** 宋敏求
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    1019 - 1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0010.org][ZB2f0010]] 兩漢詔令
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 西漢
-:RESP: 詔令宋林虙
+:SOURCE:   四庫全書 文淵閣版, V426.2, p971
+:EXTENT: 23 卷
+:BOOK:   6
 :END:
-**** dynasty: 西漢
-**** responsible: 詔令宋林虙
+**** responsible:
+***** 林虙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+***** 樓昉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 西漢詔令
+      :PROPERTIES:
+      :EXTENT: (12) 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 林虙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+**** 東漢詔令
+      :PROPERTIES:
+      :EXTENT: (11) 卷
+      :BOOK:   (2)
+      :END:
+***** responsible:
+****** 樓昉
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB2f0011.org][ZB2f0011]] 范文正奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0011
