@@ -1907,101 +1907,171 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0036
 :SOURCE:   四庫全書 文淵閣版, V341.1, p1
-:EXTENT: 4 卷
-:BOOK:   18
-:DATE:   乾隆四十年
+:EXTENT: 32 卷
+:BOOK:   14
+:DATE:   乾隆五十一年
 :END:
 **** responsible:
-***** 張廷玉
+***** 阿桂
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 奉敕撰
-      :DATES:    1672 - 1755
+      :DATES:    1717 - 1797
       :END:
 
-:DYNASTY: 清乾隆五十一年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆五十一年
-**** responsible: 敕撰
+***** 梁國治
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 御製開國方略聯句
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
+**** 卷首:發祥世紀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (14)
+      :END:
+
 *** [[mandoku:ZB2b0037.org][ZB2b0037]] 資治通鑑後編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 徐乾學
+:SOURCE:   四庫全書 文淵閣版, V342.1, p1 - V345.1
+:EXTENT: 184 卷
+:BOOK:   66
 :END:
-**** dynasty: 清
-**** responsible: 徐乾學
+**** responsible:
+***** 徐乾學
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1631 - 1694
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB2c 紀事本末類
 *** [[mandoku:ZB2c0001.org][ZB2c0001]] 通鑑紀事本末
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 袁樞
+:SOURCE:   四庫全書 文淵閣版, V346.1, p1 - V349.1
+:EXTENT: 42 卷
+:BOOK:   66
 :END:
-**** dynasty: 宋
-**** responsible: 袁樞
+**** responsible:
+***** 袁樞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1131 - 1203
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2c0002.org][ZB2c0002]] 春秋左傳事類始末
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 章沖
+:SOURCE:   四庫全書 文淵閣版, V349.2, p445
+:EXTENT: 5 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 章沖
+**** responsible:
+***** 章沖
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB2c0003.org][ZB2c0003]] 三朝北盟會編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐夢莘
+:SOURCE:   四庫全書 文淵閣版, V350.1, p1 - V352.1
+:EXTENT: 250 卷
+:BOOK:   44
 :END:
-**** dynasty: 宋
-**** responsible: 徐夢莘
+**** responsible:
+***** 徐夢莘
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1124 - 1205
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2c0004.org][ZB2c0004]] 蜀鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 郭允蹈
+:SOURCE:   四庫全書 文淵閣版, V352.2, p481
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 郭允蹈
+**** responsible:
+***** 郭允蹈
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1236
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2c0005.org][ZB2c0005]] 炎徼紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 田汝成
+:SOURCE:   四庫全書 文淵閣版, V352.3, p603
+:EXTENT: 4 卷
+:BOOK:   2
+:DATE:   1526
 :END:
-**** dynasty: 明
-**** responsible: 田汝成
+**** responsible:
+***** 田汝成
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2c0006.org][ZB2c0006]] 宋史紀事本末
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮琦原
+:SOURCE:   四庫全書 文淵閣版, V353.1, p1
+:EXTENT: 28 卷
+:BOOK:   18
 :END:
-**** dynasty: 明
-**** responsible: 馮琦原
+**** responsible:
+***** 馮琦原
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1558 - 1603
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2c0007.org][ZB2c0007]] 元史紀事本末
