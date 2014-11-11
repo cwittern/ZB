@@ -1841,40 +1841,84 @@
 *** [[mandoku:ZB2b0033.org][ZB2b0033]] 元史續編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡粹中
+:SOURCE:   四庫全書 文淵閣版, V334.2, p449
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 胡粹中
+**** responsible:
+***** 胡粹中
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0034.org][ZB2b0034]] 御批歷代通鑑輯覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆三十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V335.1, p1 - V339.1
+:EXTENT: 116 卷
+:BOOK:   102
+:DATE:   乾隆三十二年
 :END:
-**** dynasty: 清乾隆三十二年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 批
+      :DATES:    1711 - 1799
+      :END:
+
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)明唐桂二王本末
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (102)
+      :END:
+
 *** [[mandoku:ZB2b0035.org][ZB2b0035]] 御定資治通鑑綱目三編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V340.1, p1
+:EXTENT: 40 卷
+:BOOK:   18
+:DATE:   乾隆四十年
 :END:
-**** dynasty: 清乾隆四十年
-**** responsible: 敕撰
+**** responsible:
+***** 張廷玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1672 - 1755
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0036.org][ZB2b0036]] 皇清開國方略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0036
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V341.1, p1
+:EXTENT: 4 卷
+:BOOK:   18
+:DATE:   乾隆四十年
+:END:
+**** responsible:
+***** 張廷玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1672 - 1755
+      :END:
+
 :DYNASTY: 清乾隆五十一年
 :RESP: 敕撰
 :END:
