@@ -1672,40 +1672,66 @@
 *** [[mandoku:ZB2b0023.org][ZB2b0023]] 九朝編年備要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳均
+:SOURCE:   四庫全書 文淵閣版, V328.1, p1
+:EXTENT: 30 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 陳均
+**** responsible:
+***** 陳均
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1209 - 1234
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0024.org][ZB2b0024]] 續宋編年資治通鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉時擧
+:SOURCE:   四庫全書 文淵閣版, V328.2, p873
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 劉時擧
+**** responsible:
+***** 劉時擧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0025.org][ZB2b0025]] 西漢年紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王益之
+:SOURCE:   四庫全書 文淵閣版, V329.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 王益之
+**** responsible:
+***** 王益之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2b0026.org][ZB2b0026]] 靖康要錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2b0026
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V329.2, p407
+:EXTENT: 12 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 王益之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 闕名
 :END:
