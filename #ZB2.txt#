@@ -2162,35 +2162,74 @@
 :BOOK:   48
 :END:
 **** responsible:
-***** 來保
+***** 傅恒
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
       :END:
 
-:DYNASTY: 清
-:RESP: 傅桓
-:END:
-**** dynasty: 清
-**** responsible: 傅桓
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2c0011a.org][ZB2c0011a]] 平定準噶爾方略__前編
-*** [[mandoku:ZB2c0011b.org][ZB2c0011b]] 平定準噶爾方略__正編
-*** [[mandoku:ZB2c0011c.org][ZB2c0011c]] 平定準噶爾方略__續編
-*** [[mandoku:ZB2c0012.org][ZB2c0012]] 平定兩金川方畧
+**** [[mandoku:ZB2c0011a.org][ZB2c0011a]] 前編
+      :PROPERTIES:
+      :EXTENT: (54) 卷
+      :BOOK:   (15)
+      :END:
+
+**** 總目
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (#)
+      :END:
+
+**** [[mandoku:ZB2c0011b.org][ZB2c0011b]] 正編
+      :PROPERTIES:
+      :EXTENT: (85) 卷
+      :BOOK:   (24)
+      :END:
+
+**** [[mandoku:ZB2c0011c.org][ZB2c0011c]] 續編
+      :PROPERTIES:
+      :EXTENT: (32) 卷
+      :BOOK:   (9)
+      :END:
+
+*** [[mandoku:ZB2c0012.org][ZB2c0012]] 平定兩金川方略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 阿桂
+:SOURCE:   四庫全書 文淵閣版, V360.1, p1 - V361.1
+:EXTENT: 136 卷
+:BOOK:   54
 :END:
-**** dynasty: 清
-**** responsible: 阿桂
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1717 - 1797
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2c0012a.org][ZB2c0012a]] 平定兩金川方略__藝文一
-*** [[mandoku:ZB2c0012b.org][ZB2c0012b]] 平定兩金川方略__藝文一
+**** 附
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB2c0012a.org][ZB2c0012a]] 平定兩金川方略__藝文一
+
+# *** [[mandoku:ZB2c0012b.org][ZB2c0012b]] 平定兩金川方略__藝文一
 *** [[mandoku:ZB2c0013.org][ZB2c0013]] 欽定&捕臨清逆匪紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2c0013
