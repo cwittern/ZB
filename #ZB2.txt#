@@ -2549,51 +2549,69 @@
 *** [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0007
-:SOURCE:   四庫全書 文淵閣版, V371.2, p205
-:EXTENT: 60 卷
-:BOOK:   14
+:SOURCE:   四庫全書 文淵閣版, V372.1, p1 - V381.1
+:EXTENT: 200 卷
+:BOOK:   194
 :END:
 **** responsible:
-***** 蘇轍
+***** 鄭樵
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1039 - 1112
+      :DATES:    1104 - 1162
       :END:
 
-:DYNASTY: 宋
-:RESP: 鄭樵
-:END:
-**** dynasty: 宋
-**** responsible: 鄭樵
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0008.org][ZB2d0008]] 東都東略
+*** [[mandoku:ZB2d0008.org][ZB2d0008]] 東都事略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王稱
+:SOURCE:   四庫全書 文淵閣版, V382.1, p1
+:EXTENT: 130 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 王稱
+**** responsible:
+***** 王稱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0009.org][ZB2d0009]] 路史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 羅泌
+:SOURCE:   四庫全書 文淵閣版, V383.1, p1
+:EXTENT: 47 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 羅泌
+**** responsible:
+***** 羅泌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2d0010.org][ZB2d0010]] 欽定書訂契丹國志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V383.2, p655
+:EXTENT: 28 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 羅泌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    12th cent
+      :END:
+
 :DYNASTY: 宋
 :RESP: 葉隆禮
 :END:
