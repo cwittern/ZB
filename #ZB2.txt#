@@ -3283,7 +3283,7 @@
 :DATE:   康熙二十五年
 :END:
 **** responsible:
-***** 太祖
+***** 聖祖玄燁
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 敕編
@@ -3292,20 +3292,53 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0002.org][ZB2f0002]] 大清太宗應天興國弘德彰武寬溫仁聖睿孝敬敏昭定隆道顯功文皇帝聖訓
+*** [[mandoku:ZB2f0002.org][ZB2f0002]] 太宗文皇帝聖訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清康熙二十六年
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V411.2, p39
+:EXTENT: 6 卷
+:BOOK:   2
+:DATE:   康熙二十六年
 :END:
-**** dynasty: 清康熙二十六年
+**** responsible:
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1638 - 1661
+      :END:
+
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 續編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0003.org][ZB2f0003]] 大清世祖體天隆運定統建極英睿欽文顯武大德弘功至仁純孝章皇帝聖訓
+*** [[mandoku:ZB2f0003.org][ZB2f0003]] 世祖章皇帝聖訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0003
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V411.3, p97
+:EXTENT: 6 卷
+:BOOK:   2
+:DATE:   康熙二十六年
+:END:
+**** responsible:
+***** 聖祖玄燁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1654 - 1722
+      :END:
+
+***** 世祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1638 - 1661
+      :END:
+
 :DYNASTY: 清康熙二十六年
 :RESP: 
 :END:
