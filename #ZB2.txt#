@@ -905,39 +905,113 @@
       :FUNCTION: 撰
       :END:
 
-*** [[mandoku:ZB2a0030.org][ZB2a0030]] 五代史
+*** [[mandoku:ZB2a0030.org][ZB2a0030]] 新五代史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽修
+:SOURCE:   四庫全書 文淵閣版, V279.1, p1
+:EXTENT: 74 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽修
+**** responsible:
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1007 - 1072
+      :END:
+
+***** 徐無黨
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2a0031.org][ZB2a0031]] 五代史記纂誤
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (12)
+      :END:
+***** responsible:
+****** 孫人龍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+****** 王文清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+*** [[mandoku:ZB2a0031.org][ZB2a0031]] 五代史纂誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳縝
+:SOURCE:   四庫全書 文淵閣版, V279.2, p539
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 吳縝
+**** responsible:
+***** 吳縝
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2a0032.org][ZB2a0032]] 宋史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 托克托
+:SOURCE:   四庫全書 文淵閣版, V280.1, p1 - V288.1
+:EXTENT: 496 卷
+:BOOK:   180
 :END:
-**** dynasty: 元
-**** responsible: 托克托
+**** responsible:
+***** 托克托
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 奉敕撰
+      :DATES:    1313 - 1355
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (180)
+      :END:
+
+**** (附)考證
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: # 卷
+      :BOOK:   (180)
+      :END:
+***** responsible:
+****** 林蒲封
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+****** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2a0033.org][ZB2a0033]] 遼史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0033
