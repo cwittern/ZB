@@ -3283,7 +3283,7 @@
 :DATE:   康熙二十五年
 :END:
 **** responsible:
-***** 聖祖玄燁
+***** 聖祖
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 敕編
@@ -3325,71 +3325,113 @@
 :DATE:   康熙二十六年
 :END:
 **** responsible:
-***** 聖祖玄燁
+***** 聖祖
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 敕編
       :DATES:    1654 - 1722
       :END:
 
-***** 世祖
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB2f0004.org][ZB2f0004]] 聖祖仁皇帝聖訓
+:PROPERTIES:
+:CUSTOM_ID:  ZB2f0004
+:SOURCE:   四庫全書 文淵閣版, V411.4, p145
+:EXTENT: 60 卷
+:BOOK:   18
+:DATE:   雍正九年
+:END:
+**** responsible:
+***** 世宗
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 敕編
-      :DATES:    1638 - 1661
+      :DATES:    1678 - 1735
       :END:
 
-:DYNASTY: 清康熙二十六年
-:RESP: 
-:END:
-**** dynasty: 清康熙二十六年
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0004.org][ZB2f0004]] 大清聖祖合天弘運文武睿哲恭儉寬裕孝敬誠信中和功德大成仁皇帝聖訓
-:PROPERTIES:
-:CUSTOM_ID:  ZB2f0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清雍正九年
-:RESP: 
-:END:
-**** dynasty: 清雍正九年
-**** textual witnesses
-***** WYG
-*** [[mandoku:ZB2f0005.org][ZB2f0005]] 大清世宗敬天昌運建中表正文武英明寬仁信毅大孝至誠憲皇帝聖訓
+*** [[mandoku:ZB2f0005.org][ZB2f0005]] 世宗憲皇帝聖訓
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆五年
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V412.1, p1
+:EXTENT: 36 卷
+:BOOK:   12
+:DATE:   乾隆九年
 :END:
-**** dynasty: 清乾隆五年
+**** responsible:
+***** 高宗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕編
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0006.org][ZB2f0006]] 世宗憲皇帝上諭八旗
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 允祿
+:SOURCE:   四庫全書 文淵閣版, V413.1, p1
+:EXTENT: 13 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 允祿
+**** responsible:
+***** 允祿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1695 - 1767
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0006a.org][ZB2f0006a]] 世宗憲皇帝上諭八旗__上諭旗務議覆
-*** [[mandoku:ZB2f0006b.org][ZB2f0006b]] 世宗憲皇帝上諭八旗__諭行旗務奏議
+**** [[mandoku:ZB2f0006a.org][ZB2f0006a]] 上諭旗務議覆
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   5
+      :END:
+
+**** [[mandoku:ZB2f0006b.org][ZB2f0006b]] 諭行旗務奏議
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 13 卷
+      :BOOK:   3
+      :END:
+
 *** [[mandoku:ZB2f0007.org][ZB2f0007]] 世宗憲皇帝上諭內閣
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 允祿
+:SOURCE:   四庫全書 文淵閣版, V414.1, p1 - V415.1
+:EXTENT: 159 卷
+:BOOK:   42
 :END:
-**** dynasty: 清
-**** responsible: 允祿
+**** responsible:
+***** 允祿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕編
+      :DATES:    1695 - 1767
+      :END:
+
+***** 弘晝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 續編
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0008.org][ZB2f0008]] 硃批諭旨
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (42)
+      :END:
+
+*** [[mandoku:ZB2f0008.org][ZB2f0008]] 世宗憲皇帝硃批諭旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0008
 :SOURCE:   四庫全書 文淵閣版
