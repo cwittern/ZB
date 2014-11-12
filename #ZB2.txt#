@@ -3603,105 +3603,178 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 呂午
-:END:
-**** dynasty: 宋
-**** responsible: 呂午
 **** textual witnesses
 ***** WYG
+**** (附)左氏呂公家傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 方回
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** 監簿呂公家傳
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2f0016.org][ZB2f0016]] 商文毅疏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 商輅
+:SOURCE:   四庫全書 文淵閣版, V427.6, p417
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 商輅
+**** responsible:
+***** 商輅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1414 - 1486
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0017.org][ZB2f0017]] 王端毅奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 王恕
+:SOURCE:   四庫全書 文淵閣版, V427.7, p453
+:EXTENT: 15 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 王恕
+**** responsible:
+***** 王恕
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1416 - 1508
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0018.org][ZB2f0018]] 端肅奏議
+*** [[mandoku:ZB2f0018.org][ZB2f0018]] 馬端肅奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馬文升
+:SOURCE:   四庫全書 文淵閣版, V427.8, p705
+:EXTENT: 12 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 馬文升
+**** responsible:
+***** 馬文升
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1426 - 1510
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0019.org][ZB2f0019]] 關中奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊一清
+:SOURCE:   四庫全書 文淵閣版, V428.1, p1
+:EXTENT: 18 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 楊一清
+**** responsible:
+***** 楊一清
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1454 - 1530
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0020.org][ZB2f0020]] 胡端敏夫議
+*** [[mandoku:ZB2f0020.org][ZB2f0020]] 胡端敏奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡世寧
+:SOURCE:   四庫全書 文淵閣版, V428.2, p559
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 胡世寧
+**** responsible:
+***** 胡世寧
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1469 - 1530
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0021.org][ZB2f0021]] 楊文忠三錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊廷和
+:SOURCE:   四庫全書 文淵閣版, V428.3, p749
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 楊廷和
+**** responsible:
+***** 楊廷和
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1459 - 1529
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0022.org][ZB2f0022]] 何文簡疏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何孟春
+:SOURCE:   四庫全書 文淵閣版, V429.1, p1
+:EXTENT: 10 卷
+:BOOK:   8
 :END:
-**** dynasty: 明
-**** responsible: 何孟春
+**** responsible:
+***** 何孟春
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1474 - 1536
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0023.org][ZB2f0023]] 埀光集
+*** [[mandoku:ZB2f0023.org][ZB2f0023]] 垂光集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周璽
+:SOURCE:   四庫全書 文淵閣版, V429.2, p263
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1799
 :END:
-**** dynasty: 明
-**** responsible: 周璽
+**** responsible:
+***** 周璽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0024.org][ZB2f0024]] 孫毅菴奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0024
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V429.3, p289
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 孫懋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 明
 :RESP: 孫懋
 :END:
