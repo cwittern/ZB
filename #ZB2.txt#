@@ -5861,84 +5861,149 @@
 *** [[mandoku:ZB2k0006.org][ZB2k0006]] 輿地廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 歐陽忞
+:SOURCE:   四庫全書 文淵閣版, V471.2, p233
+:EXTENT: 38 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 歐陽忞
+**** responsible:
+***** 歐陽忞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1111 - 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0007.org][ZB2k0007]] 方輿勝覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 祝穆
+:SOURCE:   四庫全書 文淵閣版, V471.3, p521
+:EXTENT: 70 卷
+:BOOK:   22
 :END:
-**** dynasty: 宋
-**** responsible: 祝穆
+**** responsible:
+***** 祝穆
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1246
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+**** 引用文集目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
 *** [[mandoku:ZB2k0008.org][ZB2k0008]] 明一統志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李賢
+:SOURCE:   四庫全書 文淵閣版, V472.1, p1 - V473.1
+:EXTENT: 90 卷
+:BOOK:   48
 :END:
-**** dynasty: 明
-**** responsible: 李賢
+**** responsible:
+***** 李賢
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1408 - 1466
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0009.org][ZB2k0009]] 欽定大清一統志
+*** [[mandoku:ZB2k0009.org][ZB2k0009]] 大清一統志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆二十九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V474.1, p1 - V483.1
+:EXTENT: 424 卷
+:BOOK:   152
+:DATE:   乾隆二十九年
 :END:
-**** dynasty: 清乾隆二十九年
-**** responsible: 敕撰
+**** responsible:
+***** 和珅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0010.org][ZB2k0010]] 吳群圖經續記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱長文
+:SOURCE:   四庫全書 文淵閣版, V484.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 朱長文
+**** responsible:
+***** 朱長文
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1041 - 1100
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0011.org][ZB2k0011]] 乾道臨安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周淙
+:SOURCE:   四庫全書 文淵閣版, V484.2, p53
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 周淙
+**** responsible:
+***** 周淙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1140 - 1170
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0012.org][ZB2k0012]] 淳熙三山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 梁克家
+:SOURCE:   四庫全書 文淵閣版, V484.3, p109
+:EXTENT: 42 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 梁克家
+**** responsible:
+***** 梁克家
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0013.org][ZB2k0013]] 吳郡志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0013
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V485.1, p1
+:EXTENT: 42 卷
+:BOOK:   12
+:END:
+**** responsible:
+***** 梁克家
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 范成大
 :END:
