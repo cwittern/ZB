@@ -5338,112 +5338,153 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 趙
+***** 袁康
       :PROPERTIES:
       :DYNASTY:  漢
       :FUNCTION: 撰
-      :DATES:    fl. 40 - 80
+      :DATES:    fl. 40
       :END:
 
-***** 徐天祐
+***** 吳平
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: 注
+      :DYNASTY:  漢
+      :FUNCTION: 撰
       :END:
 
-:DYNASTY: 漢
-:RESP: 袁康
-:END:
-**** dynasty: 漢
-**** responsible: 袁康
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0003.org][ZB2i0003]] 華陽國志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 常璩
+:SOURCE:   四庫全書 文淵閣版, V463.3, p131
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 晉
-**** responsible: 常璩
+**** responsible:
+***** 常璩
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    fl. 265 - 316
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0004.org][ZB2i0004]] 鄴中記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 陸翽
+:SOURCE:   四庫全書 文淵閣版, V463.4, p305
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 陸翽
+**** responsible:
+***** 陸翽
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    4th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0005.org][ZB2i0005]] 十六國春秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後魏
-:RESP: 崔鴻
+:SOURCE:   四庫全書 文淵閣版, V463.5, p315
+:EXTENT: 100 卷
+:BOOK:   24
 :END:
-**** dynasty: 後魏
-**** responsible: 崔鴻
+**** responsible:
+***** 崔鴻
+      :PROPERTIES:
+      :DYNASTY:  北魏
+      :FUNCTION: 撰
+      :DATES:    fl. 513 - 524
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0006.org][ZB2i0006]] 別本十六國春秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後魏
-:RESP: 崔鴻
+:SOURCE:   四庫全書 文淵閣版, V463.6, p1105
+:EXTENT: 16 卷
+:BOOK:   2
 :END:
-**** dynasty: 後魏
-**** responsible: 崔鴻
+**** responsible:
+***** 崔鴻
+      :PROPERTIES:
+      :DYNASTY:  北魏
+      :FUNCTION: 撰
+      :DATES:    fl. 513 - 524
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0007.org][ZB2i0007]] 蠻書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 樊綽
+:SOURCE:   四庫全書 文淵閣版, V464.1, p1
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 樊綽
+**** responsible:
+***** 樊綽
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    9th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0008.org][ZB2i0008]] 釣磯立談
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V464.2, p43
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0009.org][ZB2i0009]] 江南野史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 龍袞
+:SOURCE:   四庫全書 文淵閣版, V464.3, p69
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 龍袞
+**** responsible:
+***** 龍袞
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0010.org][ZB2i0010]] 江南別錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳彭年
+:SOURCE:   四庫全書 文淵閣版, V464.4, p119
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳彭年
+**** responsible:
+***** 陳彭年
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    961 - 1017
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0011.org][ZB2i0011]] 江表志
