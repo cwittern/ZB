@@ -4449,37 +4449,51 @@
 *** [[mandoku:ZB2g0021.org][ZB2g0021]] 紹興十八年同年小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0021
-:SOURCE:   四庫全書 文淵閣版, V448.6, p283
-:EXTENT: 2 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V448.6, p345
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 費樞
+***** 闕名
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 撰
+      :FUNCTION: 編
       :END:
 
-:DYNASTY: 
-:RESP: 
-:END:
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0022.org][ZB2g0022]] 伊洛淵源錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V448.7, p411
+:EXTENT: 14 卷
+:BOOK:   5
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0023.org][ZB2g0023]] 宋名臣言行錄前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0023
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V449.1, p1
+:EXTENT: 14 卷
+:BOOK:   5
+:END:
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 :DYNASTY: 宋
 :RESP: 朱熹
 :END:
