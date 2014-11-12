@@ -5640,24 +5640,29 @@
 :BOOK:   4
 :END:
 **** responsible:
-***** 陸游
+***** 錢儼
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1125 - 1210
       :END:
 
-:DYNASTY: 宋
-:RESP: 范坰
-:END:
-**** dynasty: 宋
-**** responsible: 范坰
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0020.org][ZB2i0020]] 安南志略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0020
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V464.14, p591
+:EXTENT: 20 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 黎崱
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES: 
+      :END:
+
 :DYNASTY: 元
 :RESP: 安南黎崱
 :END:
