@@ -4218,40 +4218,81 @@
 **** textual witnesses
 ***** WYG
 **** [[mandoku:ZB2g0009a.org][ZB2g0009a]] 金佗續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 30 卷
+      :BOOK:   6
+      :END:
 
 *** [[mandoku:ZB2g0010.org][ZB2g0010]] 象臺首末
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡知柔
+:SOURCE:   四庫全書 文淵閣版, V447.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡知柔
+**** responsible:
+***** 胡知柔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1256
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0011.org][ZB2g0011]] 魏鄭公諫練錄
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB2g0011.org][ZB2g0011]] 魏鄭公諫續錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 翟思忠
+:SOURCE:   四庫全書 文淵閣版, V447.2, p55
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 翟思忠
+**** responsible:
+***** 翟思忠
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0012.org][ZB2g0012]] 忠貞錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李維越
+:SOURCE:   四庫全書 文淵閣版, V447.3, p91
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 李維越
+**** responsible:
+***** 李維樾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 林增志
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2g0013.org][ZB2g0013]] 諸葛忠武書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0013
