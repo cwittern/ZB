@@ -6717,63 +6717,135 @@
 :BOOK:   78
 :END:
 **** responsible:
-***** 郝玉麟
+***** 邁柱
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 監修
-      :DATES:    d. 1745
+      :DATES:    1670 - 1738
       :END:
 
-***** 謝道承
+***** 夏力恕
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 編纂
       :END:
 
-:DYNASTY: 清
-:RESP: 邁柱
-:END:
-**** dynasty: 清
-**** responsible: 邁柱
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
 *** [[mandoku:ZB2k0048.org][ZB2k0048]] 河南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 田文鏡
+:SOURCE:   四庫全書 文淵閣版, V535.1, p1 - V538.1
+:EXTENT: 80 卷
+:BOOK:   64
 :END:
-**** dynasty: 清
-**** responsible: 田文鏡
+**** responsible:
+***** 田文鏡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 王士俊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 孫灝
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
+***** 顧棟高
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0049.org][ZB2k0049]] 山東通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 嶽濬
+:SOURCE:   四庫全書 文淵閣版, V539.1, p1 - V541.1
+:EXTENT: 36 卷
+:BOOK:   58
 :END:
-**** dynasty: 清
-**** responsible: 嶽濬
+**** responsible:
+***** 岳濬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 杜詔
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 輿圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (58)
+      :END:
+
 *** [[mandoku:ZB2k0050.org][ZB2k0050]] 山西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 覺羅石麟
+:SOURCE:   四庫全書 文淵閣版, V542.1, p1 - V550.1
+:EXTENT: 230 卷
+:BOOK:   184
 :END:
-**** dynasty: 清
-**** responsible: 覺羅石麟
+**** responsible:
+***** 覺羅石麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1747
+      :END:
+
+***** 儲大文
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0051.org][ZB2k0051]] 陝西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0051
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V551.1, p1 - V556.1
+:EXTENT: 100 卷
+:BOOK:   100
+:END:
+**** responsible:
+***** 覺羅石麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1747
+      :END:
+
+***** 儲大文
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 :DYNASTY: 清
 :RESP: 劉於義
 :END:
