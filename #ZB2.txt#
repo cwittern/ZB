@@ -4784,76 +4784,140 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 編
-      :DATES:    1526 - 1590
       :END:
 
-:DYNASTY: 明
-:RESP: 徐紘
-:END:
-**** dynasty: 明
-**** responsible: 徐紘
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0037a.org][ZB2g0037a]] 明名臣琬琰續錄
+**** [[mandoku:ZB2g0037a.org][ZB2g0037a]] 明名臣琬琰續錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 22 卷
+      :BOOK:   4
+      :END:
+
 *** [[mandoku:ZB2g0038.org][ZB2g0038]] 今獻備遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 項篤壽
+:SOURCE:   四庫全書 文淵閣版, V453.2, p503
+:EXTENT: 42 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 項篤壽
+**** responsible:
+***** 項篤壽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0039.org][ZB2g0039]] 百越先賢志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 歐大任
+:SOURCE:   四庫全書 文淵閣版, V453.3, p723
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 歐大任
+**** responsible:
+***** 歐大任
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1516 - 1595
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0040.org][ZB2g0040]] 元儒考畧
+*** [[mandoku:ZB2g0040.org][ZB2g0040]] 元儒考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 馮從吾
+:SOURCE:   四庫全書 文淵閣版, V453.4, p763
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 馮從吾
+**** responsible:
+***** 馮從吾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1556 - 1627
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0041.org][ZB2g0041]] 欽定宗室王公幼績表傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十六年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V454.1, p1
+:EXTENT: 12 卷
+:BOOK:   7
+:DATE:   乾隆四十六年
 :END:
-**** dynasty: 清乾隆四十六年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB2g0042.org][ZB2g0042]] 欽定外藩蒙古囘部王公表傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十四年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V454.2, p217
+:EXTENT: 120 卷
+:BOOK:   21
+:DATE:   乾隆四十四年
 :END:
-**** dynasty: 清乾隆四十四年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0043.org][ZB2g0043]] 八旗滿州氏族通譜
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (21)
+      :END:
+
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (21)
+      :END:
+
+*** [[mandoku:ZB2g0043.org][ZB2g0043]] 欽定八旗滿州氏族通譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V455.1, p1 - V456.1
+:EXTENT: 80 卷
+:BOOK:   30
+:DATE:   乾隆九年
+:END:
+**** responsible:
+***** 高宗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 :DYNASTY: 清乾隆九年
 :RESP: 敕撰
 :END:
