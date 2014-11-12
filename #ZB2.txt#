@@ -4296,47 +4296,81 @@
 *** [[mandoku:ZB2g0013.org][ZB2g0013]] 諸葛忠武書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊時偉
+:SOURCE:   四庫全書 文淵閣版, V447.4, p127
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 楊時偉
+**** responsible:
+***** 楊時偉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0014.org][ZB2g0014]] 寧海將軍固山貝子功績錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V447.5, p227
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0015.org][ZB2g0015]] 朱子年譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王懋竑
+:SOURCE:   四庫全書 文淵閣版, V447.6, p245
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 王懋竑
+**** responsible:
+***** 王懋竑
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0015a.org][ZB2g0015a]] 朱子年譜__朱子年譜考異
-*** [[mandoku:ZB2g0015b.org][ZB2g0015b]] 朱子年譜__朱子論學切要語
+**** [[mandoku:ZB2g0015a.org][ZB2g0015a]] 朱子年譜考異
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   1
+      :END:
+
+**** [[mandoku:ZB2g0015b.org][ZB2g0015b]] 朱子論學切要語
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+
 *** [[mandoku:ZB2g0016.org][ZB2g0016]] 古列女傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 劉何
+:SOURCE:   四庫全書 文淵閣版, V448.1, p1
+:EXTENT: 7 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 劉何
+**** responsible:
+***** 劉向
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    -77 - -6
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0017.org][ZB2g0017]] 高士傳

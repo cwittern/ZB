@@ -4061,169 +4061,301 @@
 *** [[mandoku:ZB2g0001.org][ZB2g0001]] 孔子編年
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡仔
+:SOURCE:   四庫全書 文淵閣版, V446.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡仔
+**** responsible:
+***** 胡仔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1147 - 1167
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0002.org][ZB2g0002]] 東家雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孔傳
+:SOURCE:   四庫全書 文淵閣版, V446.2, p57
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 孔傳
+**** responsible:
+***** 孔傳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    f. 1124 - 1134
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0003.org][ZB2g0003]] 晏子春秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V446.3, p95
+:EXTENT: 8 卷
+:BOOK:   3
 :END:
+**** responsible:
+***** 晏嬰
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    d. -500
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0004.org][ZB2g0004]] 魏鄭公諫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 王綝
+:SOURCE:   四庫全書 文淵閣版, V446.4, p161
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 王綝
+**** responsible:
+***** 王方慶
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    7th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0005.org][ZB2g0005]] 李國相論事集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李絳
+:SOURCE:   四庫全書 文淵閣版, V446.5, p209
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 唐
-**** responsible: 李絳
+**** responsible:
+***** 李絳
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    764 - 830
+      :END:
+
+***** 蔣偕
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0006.org][ZB2g0006]] 杜工部年譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙子櫟
+:SOURCE:   四庫全書 文淵閣版, V446.6, p251
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1091
 :END:
-**** dynasty: 宋
-**** responsible: 趙子櫟
+**** responsible:
+***** 趙子櫟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0007.org][ZB2g0007]] 杜工部詩年譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魯訔
+:SOURCE:   四庫全書 文淵閣版, V446.7, p259
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 魯訔
+**** responsible:
+***** 魯訔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1100 - 1176
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0008.org][ZB2g0008]] 紹陶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王質
+:SOURCE:   四庫全書 文淵閣版, V446.8, p273
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王質
+**** responsible:
+***** 王質
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1127 - 1189
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0009.org][ZB2g0009]] 金佗稡編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 嶽珂
+:SOURCE:   四庫全書 文淵閣版, V446.9, p305
+:EXTENT: 28 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 嶽珂
+**** responsible:
+***** 岳珂
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1173? - ca. 1240
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0009a.org][ZB2g0009a]] 金佗稡編__金佗續編
+**** [[mandoku:ZB2g0009a.org][ZB2g0009a]] 金佗續編
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 30 卷
+      :BOOK:   6
+      :END:
+
 *** [[mandoku:ZB2g0010.org][ZB2g0010]] 象臺首末
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 胡知柔
+:SOURCE:   四庫全書 文淵閣版, V447.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 胡知柔
+**** responsible:
+***** 胡知柔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1256
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0011.org][ZB2g0011]] 魏鄭公諫練錄
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
+*** [[mandoku:ZB2g0011.org][ZB2g0011]] 魏鄭公諫續錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 翟思忠
+:SOURCE:   四庫全書 文淵閣版, V447.2, p55
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 翟思忠
+**** responsible:
+***** 翟思忠
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0012.org][ZB2g0012]] 忠貞錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李維越
+:SOURCE:   四庫全書 文淵閣版, V447.3, p91
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 李維越
+**** responsible:
+***** 李維樾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
+***** 林增志
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2g0013.org][ZB2g0013]] 諸葛忠武書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊時偉
+:SOURCE:   四庫全書 文淵閣版, V447.4, p127
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 楊時偉
+**** responsible:
+***** 楊時偉
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0014.org][ZB2g0014]] 寧海將軍固山貝子功績錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V447.5, p227
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0015.org][ZB2g0015]] 朱子年譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王懋竑
+:SOURCE:   四庫全書 文淵閣版, V447.6, p245
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 王懋竑
+**** responsible:
+***** 王懋竑
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0015a.org][ZB2g0015a]] 朱子年譜__朱子年譜考異
-*** [[mandoku:ZB2g0015b.org][ZB2g0015b]] 朱子年譜__朱子論學切要語
+**** [[mandoku:ZB2g0015a.org][ZB2g0015a]] 朱子年譜考異
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   1
+      :END:
+
+**** [[mandoku:ZB2g0015b.org][ZB2g0015b]] 朱子論學切要語
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   1
+      :END:
+
 *** [[mandoku:ZB2g0016.org][ZB2g0016]] 古列女傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0016
