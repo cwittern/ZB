@@ -5159,45 +5159,68 @@
 *** [[mandoku:ZB2g0056.org][ZB2g0056]] 西使記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 劉郁
+:SOURCE:   四庫全書 文淵閣版, V460.6, p923
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 劉郁
+**** responsible:
+***** 劉郁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1259 - 1263
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0057.org][ZB2g0057]] 保越錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V460.7, p929
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2g0058.org][ZB2g0058]] 粵閩巡視紀畧
+*** [[mandoku:ZB2g0058.org][ZB2g0058]] 粵閩巡視紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 杜臻
+:SOURCE:   四庫全書 文淵閣版, V460.8, p943
+:EXTENT: 6 卷
+:BOOK:   4
+:DATE:   1658
 :END:
-**** dynasty: 清
-**** responsible: 杜臻
+**** responsible:
+***** 杜臻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0059.org][ZB2g0059]] 松亭行紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2g0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高士奇
+:SOURCE:   四庫全書 文淵閣版, V460.9, p1125
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 高士奇
+**** responsible:
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2g0060.org][ZB2g0060]] 扈從西巡日錄
