@@ -6311,7 +6311,6 @@
 **** responsible:
 ***** 闕名
       :PROPERTIES:
-      :DYNASTY:  元
       :FUNCTION: 撰
       :END:
 
@@ -6320,99 +6319,150 @@
 *** [[mandoku:ZB2k0031.org][ZB2k0031]] 姑蘇志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0031
-:SOURCE:   四庫全書 文淵閣版, V492.2, p653
-:EXTENT: 4 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V493.1, p1
+:EXTENT: 60 卷
+:BOOK:   30
 :END:
 **** responsible:
-***** 闕名
+***** 王鏊
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  明
       :FUNCTION: 撰
+      :DATES:    1450 - 1524
       :END:
 
-:DYNASTY: 明
-:RESP: 王鏊
-:END:
-**** dynasty: 明
-**** responsible: 王鏊
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0032.org][ZB2k0032]] 武功縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 康海
+:SOURCE:   四庫全書 文淵閣版, V494.1, p1
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 康海
+**** responsible:
+***** 康海
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1475 - 1540
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0033.org][ZB2k0033]] 朝邑縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 韓邦靖
+:SOURCE:   四庫全書 文淵閣版, V494.2, p47
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 韓邦靖
+**** responsible:
+***** 韓邦靖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1523
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0034.org][ZB2k0034]] 嶺海輿圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 姚虞
+:SOURCE:   四庫全書 文淵閣版, V494.3, p61
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1532
 :END:
-**** dynasty: 明
-**** responsible: 姚虞
+**** responsible:
+***** 姚虞
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0035.org][ZB2k0035]] 滇畧
+*** [[mandoku:ZB2k0035.org][ZB2k0035]] 滇略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 謝肇淛
+:SOURCE:   四庫全書 文淵閣版, V494.4, p97
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 謝肇淛
+**** responsible:
+***** 謝肇淛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1567 - 1624
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0036.org][ZB2k0036]] 吳興備志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 董斯張
+:SOURCE:   四庫全書 文淵閣版, V494.5, p251
+:EXTENT: 32 卷
+:BOOK:   14
 :END:
-**** dynasty: 明
-**** responsible: 董斯張
+**** responsible:
+***** 董斯張
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1586 - 1628
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0037.org][ZB2k0037]] 欽定熱河志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十六年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V495.1, p1 - V496.1
+:EXTENT: 120 卷
+:BOOK:   42
+:DATE:   乾隆四十六年
 :END:
-**** dynasty: 清乾隆四十六年
-**** responsible: 敕撰
+**** responsible:
+***** 和珅
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 梁國治
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0038.org][ZB2k0038]] 欽定日下舊聞考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆三十九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V497.1, p1 - V499.1
+:EXTENT: 160 卷
+:BOOK:   64
+:DATE:   乾隆三十九年
 :END:
-**** dynasty: 清乾隆三十九年
-**** responsible: 敕撰
+**** responsible:
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1714 - 1779
+      :END:
+
+***** 英廉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0039.org][ZB2k0039]] 欽定滿洲源流考
