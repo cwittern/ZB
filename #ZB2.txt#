@@ -6157,45 +6157,75 @@
 :BOOK:   2
 :END:
 **** responsible:
-***** 常
+***** 鄭珤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1260 - 1263
+      :END:
+
+***** 方仁榮
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 方仁榮
-:END:
-**** dynasty: 宋
-**** responsible: 方仁榮
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0023.org][ZB2k0023]] 景定建康志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周應合
+:SOURCE:   四庫全書 文淵閣版, V488.1, p1 - V489.1
+:EXTENT: 50 卷
+:BOOK:   28
 :END:
-**** dynasty: 宋
-**** responsible: 周應合
+**** responsible:
+***** 周應合
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1213 - 1280
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (28)
+      :END:
+
 *** [[mandoku:ZB2k0024.org][ZB2k0024]] 咸淳臨安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 潛說友
+:SOURCE:   四庫全書 文淵閣版, V490.1, p1
+:EXTENT: 存93 卷
+:BOOK:   30
 :END:
-**** dynasty: 宋
-**** responsible: 潛說友
+**** responsible:
+***** 潛說友
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0025.org][ZB2k0025]] 至元嘉禾志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0025
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V491.1, p1
+:EXTENT: 32 卷
+:BOOK:   7
+:END:
+**** responsible:
+***** 潛說友
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 元
 :RESP: 徐碩
 :END:
