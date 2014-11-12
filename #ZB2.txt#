@@ -6090,27 +6090,39 @@
 *** [[mandoku:ZB2k0019.org][ZB2k0019]] 寶慶四明志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0019
-:SOURCE:   四庫全書 文淵閣版, V486.2, p567
-:EXTENT: 40 卷
-:BOOK:   12
-:DATE:   1214
+:SOURCE:   四庫全書 文淵閣版, V487.1, p1
+:EXTENT: 21 卷
+:BOOK:   8
 :END:
 **** responsible:
-***** 陳耆卿
+***** 羅濬
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 宋
-:RESP: 羅濬
-:END:
-**** dynasty: 宋
-**** responsible: 羅濬
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0019a.org][ZB2k0019a]] 寶慶四明志__四明續志
-*** [[mandoku:ZB2k0020.org][ZB2k0020]] 四明續志
+**** [[mandoku:ZB2k0019a.org][ZB2k0019a]] 開慶四明續志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   4
+      :END:
+***** responsible:
+****** 梅應發
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+****** 劉錫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+# *** [[mandoku:ZB2k0020.org][ZB2k0020]] 四明續志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0020
 :SOURCE:   四庫全書 文淵閣版
@@ -6121,21 +6133,36 @@
 **** responsible: 梅應發
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0021.org][ZB2k0021]] 海鹽澉水志
+*** [[mandoku:ZB2k0021.org][ZB2k0021]] 海鹽瞰水志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 常棠
+:SOURCE:   四庫全書 文淵閣版, V487.2, p493
+:EXTENT: 8 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 常棠
+**** responsible:
+***** 常棠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0022.org][ZB2k0022]] 景定嚴州續志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0022
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V487.3, p523
+:EXTENT: 10 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 常
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 方仁榮
 :END:
