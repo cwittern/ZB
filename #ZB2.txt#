@@ -5490,95 +5490,163 @@
 *** [[mandoku:ZB2i0011.org][ZB2i0011]] 江表志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0011
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭文寶
+:SOURCE:   四庫全書 文淵閣版, V464.5, p131
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 鄭文寶
+**** responsible:
+***** 鄭文寶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    953 - 1013
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0012.org][ZB2i0012]] 江南餘載
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V464.6, p149
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0013.org][ZB2i0013]] 三楚新錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周羽翀
+:SOURCE:   四庫全書 文淵閣版, V464.7, p163
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 周羽翀
+**** responsible:
+***** 周羽翀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0014.org][ZB2i0014]] 錦里耆舊傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 句延慶
+:SOURCE:   四庫全書 文淵閣版, V464.8, p175
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 句延慶
+**** responsible:
+***** 句延慶
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0015.org][ZB2i0015]] 五國故事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V464.9, p203
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0016.org][ZB2i0016]] 蜀檮杌
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張唐英
+:SOURCE:   四庫全書 文淵閣版, V464.10, p221
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張唐英
+**** responsible:
+***** 張唐英
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1029 - 1071
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2i0017.org][ZB2i0017]] 南唐書
+*** [[mandoku:ZB2i0017.org][ZB2i0017]] 馬氏南唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 馬令
+:SOURCE:   四庫全書 文淵閣版, V464.11, p247
+:EXTENT: 30 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 馬令
+**** responsible:
+***** 馬令
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1105
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2i0018.org][ZB2i0018]] 南唐書
+*** [[mandoku:ZB2i0018.org][ZB2i0018]] 陸氏南唐書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陸游
+:SOURCE:   四庫全書 文淵閣版, V464.12, p383
+:EXTENT: 18 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 陸游
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 南唐書音釋
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+***** responsible:
+****** 戚光
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2i0019.org][ZB2i0019]] 吳越備史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V464.13, p497
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 陸游
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1125 - 1210
+      :END:
+
 :DYNASTY: 宋
 :RESP: 范坰
 :END:
