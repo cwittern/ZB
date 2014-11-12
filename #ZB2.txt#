@@ -6580,67 +6580,156 @@
 *** [[mandoku:ZB2k0043.org][ZB2k0043]] 江南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0043
-:SOURCE:   四庫全書 文淵閣版, V504.1, p1 - V506.1
-:EXTENT: 120 卷
-:BOOK:   72
+:SOURCE:   四庫全書 文淵閣版, V507.1, p1 - V512.1
+:EXTENT: 200 卷
+:BOOK:   140
 :END:
 **** responsible:
-***** 唐執玉
+***** 趙田恩
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 監修
       :END:
 
-***** 李衞
+***** 黃之雋
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 監修
+      :FUNCTION: 編纂
       :END:
 
-:DYNASTY: 清
-:RESP: 伊繼善
-:END:
-**** dynasty: 清
-**** responsible: 伊繼善
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (140)
+      :END:
+
 *** [[mandoku:ZB2k0044.org][ZB2k0044]] 江西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高其倬
+:SOURCE:   四庫全書 文淵閣版, V513.1, p1 - V518.1
+:EXTENT: 162 卷
+:BOOK:   138
 :END:
-**** dynasty: 清
-**** responsible: 高其倬
+**** responsible:
+***** 謝旻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 陶成
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 繪圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (138)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (138)
+      :END:
+
 *** [[mandoku:ZB2k0045.org][ZB2k0045]] 浙江通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李衞
+:SOURCE:   四庫全書 文淵閣版, V519.1, p1 - V526.1
+:EXTENT: 280 卷
+:BOOK:   150
 :END:
-**** dynasty: 清
-**** responsible: 李衞
+**** responsible:
+***** 嵇曾筠
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1671 - 1739
+      :END:
+
+***** 沈翼機
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (150)
+      :END:
+
 *** [[mandoku:ZB2k0046.org][ZB2k0046]] 福建通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 郝玉麟
+:SOURCE:   四庫全書 文淵閣版, V527.1, p1 - V530.1
+:EXTENT: 78 卷
+:BOOK:   68
 :END:
-**** dynasty: 清
-**** responsible: 郝玉麟
+**** responsible:
+***** 郝玉麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1745
+      :END:
+
+***** 謝道承
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (68)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (68)
+      :END:
+
 *** [[mandoku:ZB2k0047.org][ZB2k0047]] 湖廣通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0047
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V531.1, p1 - V534.1
+:EXTENT: 120 卷
+:BOOK:   78
+:END:
+**** responsible:
+***** 郝玉麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1745
+      :END:
+
+***** 謝道承
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 :DYNASTY: 清
 :RESP: 邁柱
 :END:
