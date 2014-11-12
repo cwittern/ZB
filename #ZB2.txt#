@@ -3775,123 +3775,190 @@
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 明
-:RESP: 孫懋
-:END:
-**** dynasty: 明
-**** responsible: 孫懋
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0025.org][ZB2f0025]] 玉坡奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張原
+:SOURCE:   四庫全書 文淵閣版, V429.4, p351
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 張原
+**** responsible:
+***** 張原
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0026.org][ZB2f0026]] 南宮奏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 夏言
+:SOURCE:   四庫全書 文淵閣版, V429.5, p409
+:EXTENT: 5 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 夏言
+**** responsible:
+***** 夏言
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1482 - 1548
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0027.org][ZB2f0027]] 訥谿奏議
+*** [[mandoku:ZB2f0027.org][ZB2f0027]] 訥谿奏疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周怡
+:SOURCE:   四庫全書 文淵閣版, V429.6, p559
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 周怡
+**** responsible:
+***** 周怡
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1505 - 1569
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0028.org][ZB2f0028]] 譚襄敏奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 譚綸
+:SOURCE:   四庫全書 文淵閣版, V429.7, p587
+:EXTENT: 10 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 譚綸
+**** responsible:
+***** 譚綸
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1520 - 1577
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0029.org][ZB2f0029]] 潘司空奏議
+*** [[mandoku:ZB2f0029.org][ZB2f0029]] 潘司空奏疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘季馴
+:SOURCE:   四庫全書 文淵閣版, V430.1, p1
+:EXTENT: 7 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 潘季馴
+**** responsible:
+***** 潘季馴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1595
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0030.org][ZB2f0030]] 兩河經畧
+*** [[mandoku:ZB2f0030.org][ZB2f0030]] 兩河經略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘季馴
+:SOURCE:   四庫全書 文淵閣版, V430.2, p189
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 潘季馴
+**** responsible:
+***** 潘季馴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1595
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2f0031.org][ZB2f0031]] 兩垣奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 逯中立
+:SOURCE:   四庫全書 文淵閣版, V430.3, p249
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1589
 :END:
-**** dynasty: 明
-**** responsible: 逯中立
+**** responsible:
+***** 逯中立
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0032.org][ZB2f0032]] 周忠愍奏疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 周起元
+:SOURCE:   四庫全書 文淵閣版, V430.4, p259
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 周起元
+**** responsible:
+***** 周起元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0033.org][ZB2f0033]] 張襄壯奏疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張勇
+:SOURCE:   四庫全書 文淵閣版, V430.5, p303
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 張勇
+**** responsible:
+***** 張勇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1616 - 1684
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2f0034.org][ZB2f0034]] 文襄奏疏
+*** [[mandoku:ZB2f0034.org][ZB2f0034]] 靳文襄奏疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0034
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 靳輔
+:SOURCE:   四庫全書 文淵閣版, V430.6, p451
+:EXTENT: 9 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 靳輔
+**** responsible:
+***** 靳輔
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1692
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2f0035.org][ZB2f0035]] 華野疏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0035
