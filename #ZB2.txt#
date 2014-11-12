@@ -6468,52 +6468,135 @@
 *** [[mandoku:ZB2k0039.org][ZB2k0039]] 欽定滿洲源流考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十三年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V499.2, p451
+:EXTENT: 20 卷
+:BOOK:   8
+:DATE:   乾隆四十三年
 :END:
-**** dynasty: 清乾隆四十三年
-**** responsible: 敕撰
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1717 - 1797
+      :END:
+
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0040.org][ZB2k0040]] 欽定皇輿西域圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅恆
+:SOURCE:   四庫全書 文淵閣版, V500.1, p1
+:EXTENT: 48 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 傅恆
+**** responsible:
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
+      :END:
+
+***** 劉統勳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:天章
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB2k0041.org][ZB2k0041]] 欽定盛京通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 阿桂
+:SOURCE:   四庫全書 文淵閣版, V501.1, p1 - V503.1
+:EXTENT: 130 卷
+:BOOK:   57
 :END:
-**** dynasty: 清
-**** responsible: 阿桂
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1717 - 1797
+      :END:
+
+***** 劉謹之
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0042.org][ZB2k0042]] 畿輔通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 唐執玉
+:SOURCE:   四庫全書 文淵閣版, V504.1, p1 - V506.1
+:EXTENT: 120 卷
+:BOOK:   72
 :END:
-**** dynasty: 清
-**** responsible: 唐執玉
+**** responsible:
+***** 唐執玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 李衞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 田易
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0042a.org][ZB2k0042a]] 福建通志
+# *** [[mandoku:ZB2k0042a.org][ZB2k0042a]] 福建通志
 *** [[mandoku:ZB2k0043.org][ZB2k0043]] 江南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0043
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V504.1, p1 - V506.1
+:EXTENT: 120 卷
+:BOOK:   72
+:END:
+**** responsible:
+***** 唐執玉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 李衞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
 :DYNASTY: 清
 :RESP: 伊繼善
 :END:
