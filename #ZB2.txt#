@@ -3952,50 +3952,92 @@
 
 **** textual witnesses
 ***** WYG
-**** 附錄
+**** 治河題藁
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (1)
+      :EXTENT: (8) 卷
+      :BOOK:   (6)
+      :END:
+
+**** (附)撫皖題藁
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: (1) 卷
+      :BOOK:   (6)
       :END:
 
 *** [[mandoku:ZB2f0035.org][ZB2f0035]] 華野疏稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0035
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 郭琇
+:SOURCE:   四庫全書 文淵閣版, V430.7, p729
+:EXTENT: 5 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 郭琇
+**** responsible:
+***** 郭琇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1715
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0036.org][ZB2f0036]] 宋名臣奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0036
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙汝愚
+:SOURCE:   四庫全書 文淵閣版, V431.1, p1 - V432.1
+:EXTENT: 150 卷
+:BOOK:   48
 :END:
-**** dynasty: 宋
-**** responsible: 趙汝愚
+**** responsible:
+***** 趙汝愚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :DATES:    d. 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0037.org][ZB2f0037]] 歷代名臣奏議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 永樂中
+:SOURCE:   四庫全書 文淵閣版, V433.1, p1 - V442.1
+:EXTENT: 350 卷
+:BOOK:   222
 :END:
-**** dynasty: 明
-**** responsible: 永樂中
+**** responsible:
+***** 楊士奇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕編
+      :DATES:    1365 - 1444
+      :END:
+
+***** 黃淮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2f0038.org][ZB2f0038]] 名臣經濟錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2f0038
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V443.1, p1 - V444.1
+:EXTENT: 53 卷
+:BOOK:   30
+:END:
+**** responsible:
+***** 黃訓
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕編
+      :DATES:    1365 - 1444
+      :END:
+
 :DYNASTY: 明
 :RESP: 黃訓
 :END:
