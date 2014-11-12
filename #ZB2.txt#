@@ -5994,82 +5994,114 @@
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0013
 :SOURCE:   四庫全書 文淵閣版, V485.1, p1
-:EXTENT: 42 卷
+:EXTENT: 50 卷
 :BOOK:   12
 :END:
 **** responsible:
-***** 梁克家
+***** 范成大
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
+      :DATES:    1126 - 1193
       :END:
 
-:DYNASTY: 宋
-:RESP: 范成大
-:END:
-**** dynasty: 宋
-**** responsible: 范成大
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0014.org][ZB2k0014]] 新安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 羅願
+:SOURCE:   四庫全書 文淵閣版, V485.2, p337
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 羅願
+**** responsible:
+***** 羅願
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1136 - 1184
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0015.org][ZB2k0015]] 剡錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高似孫
+:SOURCE:   四庫全書 文淵閣版, V485.3, p527
+:EXTENT: 10 卷
+:BOOK:   3
+:DATE:   1184
 :END:
-**** dynasty: 宋
-**** responsible: 高似孫
+**** responsible:
+***** 高似孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0016.org][ZB2k0016]] 會稽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 施宿
+:SOURCE:   四庫全書 文淵閣版, V486.1, p1
+:EXTENT: 20 卷
+:BOOK:   18
 :END:
-**** dynasty: 宋
-**** responsible: 施宿
+**** responsible:
+***** 施宿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0017.org][ZB2k0017]] 會稽續志
-:PROPERTIES:
-:CUSTOM_ID:  ZB2k0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張淏
-:END:
-**** dynasty: 宋
-**** responsible: 張淏
-**** textual witnesses
-***** WYG
+**** [[mandoku:ZB2k0017.org][ZB2k0017]] 會稽續志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   4
+      :END:
+***** responsible:
+****** 張淏
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2k0018.org][ZB2k0018]] 赤城志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳耆卿
+:SOURCE:   四庫全書 文淵閣版, V486.2, p567
+:EXTENT: 40 卷
+:BOOK:   12
+:DATE:   1214
 :END:
-**** dynasty: 宋
-**** responsible: 陳耆卿
+**** responsible:
+***** 陳耆卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0019.org][ZB2k0019]] 寶慶四明志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0019
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V486.2, p567
+:EXTENT: 40 卷
+:BOOK:   12
+:DATE:   1214
+:END:
+**** responsible:
+***** 陳耆卿
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 宋
 :RESP: 羅濬
 :END:
