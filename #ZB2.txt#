@@ -5648,6 +5648,13 @@
 
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB2i0020.org][ZB2i0020]] 安南志略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0020
@@ -5658,67 +5665,99 @@
 **** responsible:
 ***** 黎崱
       :PROPERTIES:
-      :DYNASTY:  宋
+      :DYNASTY:  元
       :FUNCTION: 撰
-      :DATES: 
+      :DATES:    fl. 1300 - 1339
       :END:
 
-:DYNASTY: 元
-:RESP: 安南黎崱
-:END:
-**** dynasty: 元
-**** responsible: 安南黎崱
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2i0021.org][ZB2i0021]] 十國春秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳任臣
+:SOURCE:   四庫全書 文淵閣版, V465.1, p1 - V466.1
+:EXTENT: 114 卷
+:BOOK:   24
 :END:
-**** dynasty: 清
-**** responsible: 吳任臣
+**** responsible:
+***** 吳任臣
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628? - 1689?
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB2i0022.org][ZB2i0022]] 朝鮮史略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 朝鮮
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V466.2, p367
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 朝鮮
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2i0023.org][ZB2i0023]] 越史畧
+*** [[mandoku:ZB2i0023.org][ZB2i0023]] 越史略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2i0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 安南闕名
+:SOURCE:   四庫全書 文淵閣版, V466.3, p559
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 安南闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB2j 時令類
 *** [[mandoku:ZB2j0001.org][ZB2j0001]] 歲時廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2j0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳元靚
+:SOURCE:   四庫全書 文淵閣版, V467.1, p1
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳元靚
+**** responsible:
+***** 陳元靚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2j0002.org][ZB2j0002]] 御定月令輯要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2j0002
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V467.2, p39
+:EXTENT: 24 卷
+:BOOK:   18
+:END:
+**** responsible:
+***** 陳元靚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 李光地
 :END:
