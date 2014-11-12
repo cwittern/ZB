@@ -5752,75 +5752,112 @@
 :BOOK:   18
 :END:
 **** responsible:
-***** 陳元靚
+***** 李光地
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 撰
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1718
       :END:
 
-:DYNASTY: 清
-:RESP: 李光地
-:END:
-**** dynasty: 清
-**** responsible: 李光地
 **** textual witnesses
 ***** WYG
+**** 卷首:圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
 ** ZB2k 地理類
 *** [[mandoku:ZB2k0001.org][ZB2k0001]] 三輔黃圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V468.1, p1
+:EXTENT: 6 卷
+:BOOK:   2
 :END:
-**** dynasty: 漢
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0002.org][ZB2k0002]] 禁扁
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王士點
+:SOURCE:   四庫全書 文淵閣版, V468.2, p37
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 王士點
+**** responsible:
+***** 王士點
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0003.org][ZB2k0003]] 元和郡縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李吉甫
+:SOURCE:   四庫全書 文淵閣版, V468.3, p131
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 唐
-**** responsible: 李吉甫
+**** responsible:
+***** 李吉甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    758 - 814
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0004.org][ZB2k0004]] 太平寰宇記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 樂史
+:SOURCE:   四庫全書 文淵閣版, V469.1, p1 - V470.1
+:EXTENT: 存193 卷
+:BOOK:   36
 :END:
-**** dynasty: 宋
-**** responsible: 樂史
+**** responsible:
+***** 樂史
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    930 - 1007
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0005.org][ZB2k0005]] 元豐九域志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王存
+:SOURCE:   四庫全書 文淵閣版, V471.1, p1
+:EXTENT: 10 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 王存
+**** responsible:
+***** 王存
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    1023 - 1101
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB2k0006.org][ZB2k0006]] 輿地廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0006
