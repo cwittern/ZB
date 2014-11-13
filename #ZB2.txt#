@@ -7038,58 +7038,108 @@
 :BOOK:   18
 :END:
 **** responsible:
-***** 顧炎武
+***** 酈道元
       :PROPERTIES:
       :DYNASTY:  後魏
       :FUNCTION: 撰
-      :DATES:    1613 - 1682
+      :DATES:    d. 527
       :END:
 
-:DYNASTY: 後魏
-:RESP: 酈道元
-:END:
-**** dynasty: 後魏
-**** responsible: 酈道元
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB2k0060.org][ZB2k0060]] 水經注集釋訂訛
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈炳巽
+:SOURCE:   四庫全書 文淵閣版, V574.1, p1
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 沈炳巽
+**** responsible:
+***** 沈炳巽
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0061.org][ZB2k0061]] 水經注釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 趙一清 ;;skqs-02/S2-11地理類-0351河渠之屬-水經注釋__水經注箋刊誤.xml
+:SOURCE:   四庫全書 文淵閣版, V575.1, p1
+:EXTENT: 40 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 趙一清 ;;skqs-02/S2-11地理類-0351河渠之屬-水經注釋__水經注箋刊誤.xml
+**** responsible:
+***** 趙一清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1710? - 1764?
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0061a.org][ZB2k0061a]] 水經注釋__水經注箋刊誤
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (16)
+      :END:
+
+**** [[mandoku:ZB2k0061a.org][ZB2k0061a]] 水經注箋刊誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   8
+      :END:
+
 *** [[mandoku:ZB2k0062.org][ZB2k0062]] 吳中水利書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 單鍔
+:SOURCE:   四庫全書 文淵閣版, V576.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 單鍔
+**** responsible:
+***** 單鍔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1031 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0063.org][ZB2k0063]] 四明它山水利備覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0063
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V576.2, p15
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 單鍔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1031 - 1110
+      :END:
+
 :DYNASTY: 宋
 :RESP: 魏峴
 :END:
