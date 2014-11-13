@@ -9346,46 +9346,64 @@
 *** [[mandoku:ZB2m0004.org][ZB2m0004]] 宋朝事實
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0004
-:SOURCE:   四庫全書 文淵閣版, V607.2, p439
-:EXTENT: 30 卷
+:SOURCE:   四庫全書 文淵閣版, V608.1, p1
+:EXTENT: 20 卷
 :BOOK:   6
 :END:
 **** responsible:
-***** 王溥
+***** 李攸
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    922 - 982
+      :DATES:    fl. 1134
       :END:
 
-:DYNASTY: 宋
-:RESP: 李攸
-:END:
-**** dynasty: 宋
-**** responsible: 李攸
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0005.org][ZB2m0005]] 建炎雜記甲集
+*** [[mandoku:ZB2m0005.org][ZB2m0005]] 建炎以來朝野雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李心傳
+:SOURCE:   四庫全書 文淵閣版, V608.2, p239
+:EXTENT: 40 卷
+:BOOK:   13
 :END:
-**** dynasty: 宋
-**** responsible: 李心傳
+**** responsible:
+***** 李心傳
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1166 - 1243
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0005a.org][ZB2m0005a]] 建炎雜記__乙集
+**** 甲集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (8)
+      :END:
+
+**** [[mandoku:ZB2m0005a.org][ZB2m0005a]] 乙集
+      :PROPERTIES:
+      :EXTENT: (20) 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB2m0006.org][ZB2m0006]] 西漢會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐天麟
+:SOURCE:   四庫全書 文淵閣版, V609.1, p1
+:EXTENT: 70 卷
+:BOOK:   12
+:DATE:   1205
 :END:
-**** dynasty: 宋
-**** responsible: 徐天麟
+**** responsible:
+***** 徐天麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0007.org][ZB2m0007]] 東漢會要
