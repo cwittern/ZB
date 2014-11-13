@@ -7817,75 +7817,107 @@
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1019 - 1079
       :END:
 
-:DYNASTY: 宋
-:RESP: 李格非
-:END:
-**** dynasty: 宋
-**** responsible: 李格非
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0095.org][ZB2k0095]] 雍錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程大昌
+:SOURCE:   四庫全書 文淵閣版, V587.5, p249
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程大昌
+**** responsible:
+***** 程大昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0096.org][ZB2k0096]] 洞霄圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄧牧
+:SOURCE:   四庫全書 文淵閣版, V587.6, p405
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 鄧牧
+**** responsible:
+***** 鄧牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1247 - 1306
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0097.org][ZB2k0097]] 長安志圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李好文
+:SOURCE:   四庫全書 文淵閣版, V587.7, p469
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 李好文
+**** responsible:
+***** 李好文
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0098.org][ZB2k0098]] 汴京遺蹟志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李濂
+:SOURCE:   四庫全書 文淵閣版, V587.8, p513
+:EXTENT: 24 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 李濂
+**** responsible:
+***** 李濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1566
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0099.org][ZB2k0099]] 武林梵志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳之鯨
+:SOURCE:   四庫全書 文淵閣版, V588.1, p1
+:EXTENT: 12 卷
+:BOOK:   9
 :END:
-**** dynasty: 明
-**** responsible: 吳之鯨
+**** responsible:
+***** 吳之鯨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0100.org][ZB2k0100]] 江城名蹟
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0100
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V588.2, p287
+:EXTENT: 4 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 吳之鯨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 陳宏緒
 :END:
