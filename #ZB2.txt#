@@ -6910,62 +6910,141 @@
 *** [[mandoku:ZB2k0054.org][ZB2k0054]] 廣東通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 郝玉麟
+:SOURCE:   四庫全書 文淵閣版, V562.1, p1 - V564.1
+:EXTENT: 64 卷
+:BOOK:   56
 :END:
-**** dynasty: 清
-**** responsible: 郝玉麟
+**** responsible:
+***** 郝玉麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1745
+      :END:
+
+***** 魯曾煜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0055.org][ZB2k0055]] 廣西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 金鉷
+:SOURCE:   四庫全書 文淵閣版, V565.1, p1 - V568.1
+:EXTENT: 128 卷
+:BOOK:   78
 :END:
-**** dynasty: 清
-**** responsible: 金鉷
+**** responsible:
+***** 金鉷
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1678 - 1740
+      :END:
+
+***** 錢元昌
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
+**** (附)補纂
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
 *** [[mandoku:ZB2k0056.org][ZB2k0056]] 雲南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 尹繼善
+:SOURCE:   四庫全書 文淵閣版, V569.1, p1 - V570.1
+:EXTENT: 30 卷
+:BOOK:   40
 :END:
-**** dynasty: 清
-**** responsible: 尹繼善
+**** responsible:
+***** 鄂爾泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1677 - 1745
+      :END:
+
+***** 靖道謨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0057.org][ZB2k0057]] 貴州通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄂爾泰
+:SOURCE:   四庫全書 文淵閣版, V571.1, p1 - V572.1
+:EXTENT: 46 卷
+:BOOK:   36
 :END:
-**** dynasty: 清
-**** responsible: 鄂爾泰
+**** responsible:
+***** 鄂爾泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1677 - 1745
+      :END:
+
+***** 靖道謨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0058.org][ZB2k0058]] 歷代帝王宅京記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V572.2, p571
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0059.org][ZB2k0059]] 水經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0059
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V573.1, p1
+:EXTENT: 40 卷
+:BOOK:   18
+:END:
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  後魏
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 :DYNASTY: 後魏
 :RESP: 酈道元
 :END:
