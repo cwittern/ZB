@@ -8400,73 +8400,112 @@
 *** [[mandoku:ZB2k0127.org][ZB2k0127]] 蜀中廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0127
-:SOURCE:   四庫全書 文淵閣版, V590.9, p499
-:EXTENT: 3 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V591.1, p1 - V592.1
+:EXTENT: 108 卷
+:BOOK:   40
 :END:
 **** responsible:
-***** 屠本畯
+***** 曹學佺
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    fl. 1596
+      :DATES:    1574 - 1647
       :END:
 
-:DYNASTY: 明
-:RESP: 曹學佺
-:END:
-**** dynasty: 明
-**** responsible: 曹學佺
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0128.org][ZB2k0128]] 益部談資
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0128
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 何宇度
+:SOURCE:   四庫全書 文淵閣版, V592.2, p735
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 何宇度
+**** responsible:
+***** 何宇度
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0129.org][ZB2k0129]] 顏山雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0129
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫廷銓
+:SOURCE:   四庫全書 文淵閣版, V592.3, p759
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 孫廷銓
+**** responsible:
+***** 孫廷銓
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1674
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0130.org][ZB2k0130]] 嶺南風物志
+*** [[mandoku:ZB2k0130.org][ZB2k0130]] 嶺南風物記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0130
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 吳綺
+:SOURCE:   四庫全書 文淵閣版, V592.4, p827
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 吳綺
+**** responsible:
+***** 吳綺
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1619 - 1694
+      :END:
+
+***** 宋俊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 增補
+      :END:
+
+***** 江闓
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪定
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0131.org][ZB2k0131]] 龍沙紀畧
+*** [[mandoku:ZB2k0131.org][ZB2k0131]] 龍沙紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0131
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 方式濟
+:SOURCE:   四庫全書 文淵閣版, V592.5, p841
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 方式濟
+**** responsible:
+***** 方式濟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0132.org][ZB2k0132]] 臺海使槎錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0132
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V592.6, p841
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 方式濟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 董叔璥
 :END:
