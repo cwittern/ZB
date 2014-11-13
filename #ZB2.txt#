@@ -9595,27 +9595,28 @@
 :BOOK:   80
 :END:
 **** responsible:
-***** 高宗弘曆
+***** 嵇璜
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 敕撰
-      :DATES:    1711 - 1799
+      :FUNCTION: 奉敕撰
+      :DATES:    1711 - 1794
       :END:
 
-:DYNASTY: 清乾隆三十二年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆三十二年
-**** responsible: 敕撰
+***** 曹仁虎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0017.org][ZB2m0017]] 皇朝通典
+*** [[mandoku:ZB2m0017.org][ZB2m0017]] 欽定皇朝通典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0017
-:SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
-:EXTENT: 180 卷
-:BOOK:   126
-:DATE:   乾隆十二年
+:SOURCE:   四庫全書 文淵閣版, V642.1, p1 - V643.1
+:EXTENT: 100 卷
+:BOOK:   35
+:DATE:   乾隆三十二年
 :END:
 **** responsible:
 ***** 高宗弘曆
@@ -9625,20 +9626,15 @@
       :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清乾隆三十二年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆三十二年
-**** responsible: 敕撰
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0018.org][ZB2m0018]] 皇朝通志
+*** [[mandoku:ZB2m0018.org][ZB2m0018]] 欽定皇朝通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0018
-:SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
-:EXTENT: 180 卷
-:BOOK:   126
-:DATE:   乾隆十二年
+:SOURCE:   四庫全書 文淵閣版, V644.1, p1 - V645.1
+:EXTENT: 126 卷
+:BOOK:   30
+:DATE:   乾隆三十二年
 :END:
 **** responsible:
 ***** 高宗弘曆
@@ -9648,50 +9644,88 @@
       :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清乾隆三十二年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆三十二年
-**** responsible: 敕撰
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0019.org][ZB2m0019]] 元朝典故編年考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 孫承澤
+:SOURCE:   四庫全書 文淵閣版, V645.2, p687
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 孫承澤
+**** responsible:
+***** 孫承澤
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1592 - 1676
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0020.org][ZB2m0020]] 漢官舊儀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 漢
-:RESP: 衞宏
+:SOURCE:   四庫全書 文淵閣版, V646.1, p1
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 漢
-**** responsible: 衞宏
+**** responsible:
+***** 衞宏
+      :PROPERTIES:
+      :DYNASTY:  漢
+      :FUNCTION: 撰
+      :DATES:    1st cent
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2m0021.org][ZB2m0021]] 大唐開元禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 蕭嵩
+:SOURCE:   四庫全書 文淵閣版, V646.2, p19
+:EXTENT: 150 卷
+:BOOK:   24
 :END:
-**** dynasty: 唐
-**** responsible: 蕭嵩
+**** responsible:
+***** 蕭嵩
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 749
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB2m0022.org][ZB2m0022]] 謚法
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0022
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V646.3, p897
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 蕭嵩
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 749
+      :END:
+
 :DYNASTY: 宋
 :RESP: 蘇洵
 :END:
