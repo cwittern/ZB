@@ -7551,55 +7551,78 @@
 :BOOK:   6
 :END:
 **** responsible:
-***** 胡宗憲
+***** 鄭若曾
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1511 - 1565
+      :DATES:    fl. 1505 - 1580
       :END:
 
-:DYNASTY: 明
-:RESP: 鄭若曾
-:END:
-**** dynasty: 明
-**** responsible: 鄭若曾
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0084.org][ZB2k0084]] 南嶽小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李冲昭
+:SOURCE:   四庫全書 文淵閣版, V585.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李冲昭
+**** responsible:
+***** 李沖昭
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0085.org][ZB2k0085]] 廬山記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳舜俞 ;; s2n1049
+:SOURCE:   四庫全書 文淵閣版, V585.2, p13
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳舜俞 ;; s2n1049
+**** responsible:
+***** 陳舜兪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1074
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0085a.org][ZB2k0085a]] 廬山記__廬山畧記
+**** [[mandoku:ZB2k0085a.org][ZB2k0085a]] (附)廬山略記
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 釋惠遠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2k0086.org][ZB2k0086]] 赤松山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 倪守約
+:SOURCE:   四庫全書 文淵閣版, V585.3, p45
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 倪守約
+**** responsible:
+***** 倪守約
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0086a.org][ZB2k0086a]] 大清一統志
+# *** [[mandoku:ZB2k0086a.org][ZB2k0086a]] 大清一統志
 *** [[mandoku:ZB2k0087.org][ZB2k0087]] 西湖遊覽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0087
