@@ -8735,42 +8735,73 @@
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    143 - 1502
+      :DATES:    1474 - 1553
       :END:
 
-:DYNASTY: 明
-:RESP: 黃衷
-:END:
-**** dynasty: 明
-**** responsible: 黃衷
+***** 黃學準
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 增注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0146.org][ZB2k0146]] 東西洋考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0146
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張燮
+:SOURCE:   四庫全書 文淵閣版, V594.7, p137
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 張燮
+**** responsible:
+***** 張燮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1618
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0147.org][ZB2k0147]] 職方外紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0147
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 西洋艾儒畧
+:SOURCE:   四庫全書 文淵閣版, V594.8, p279
+:EXTENT: 5 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 西洋艾儒畧
+**** responsible:
+***** 西洋艾儒略
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1582 - 1649
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2k0148.org][ZB2k0148]] 赤雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0148
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V594.9, p337
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 西洋艾儒略
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1582 - 1649
+      :END:
+
 :DYNASTY: 明
 :RESP: 鄺露
 :END:
