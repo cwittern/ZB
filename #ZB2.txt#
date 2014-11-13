@@ -8584,101 +8584,160 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 徐
+***** 釋法顯
       :PROPERTIES:
-      :DYNASTY:  明
+      :DYNASTY:  南朝宋
       :FUNCTION: 撰
-      :DATES:    1586 - 1641
+      :DATES:    fl. 399 - 414
       :END:
 
-:DYNASTY: 宋
-:RESP: 釋法顯
-:END:
-**** dynasty: 宋
-**** responsible: 釋法顯
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0138.org][ZB2k0138]] 大唐西域記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0138
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 釋玄奘
+:SOURCE:   四庫全書 文淵閣版, V593.5, p635
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 唐
-**** responsible: 釋玄奘
+**** responsible:
+***** 釋玄奘
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 譯
+      :DATES:    ca. 596 - 664
+      :END:
+
+***** 釋辯機
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0139.org][ZB2k0139]] 宣和奉使高麗圖經
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0139
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐兢
+:SOURCE:   四庫全書 文淵閣版, V593.6, p811
+:EXTENT: 40 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 徐兢
+**** responsible:
+***** 徐兢
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1093 - 1155
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)宋故尚書刑部員外郎徐公行狀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB2k0140.org][ZB2k0140]] 諸蕃志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0140
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 趙汝适
+:SOURCE:   四庫全書 文淵閣版, V594.1, p1
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 趙汝适
+**** responsible:
+***** 趙汝适
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    13th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0141.org][ZB2k0141]] 溪蠻叢笑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0141
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱輔
+:SOURCE:   四庫全書 文淵閣版, V594.2, p43
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱輔
+**** responsible:
+***** 朱輔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0142.org][ZB2k0142]] 眞臘風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0142
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 周達觀
+:SOURCE:   四庫全書 文淵閣版, V594.3, p53
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 周達觀
+**** responsible:
+***** 周達觀
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1295 - 1297
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0143.org][ZB2k0143]] 島夷誌畧
+*** [[mandoku:ZB2k0143.org][ZB2k0143]] 島夷誌略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0143
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 汪大淵
+:SOURCE:   四庫全書 文淵閣版, V594.4, p71
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 汪大淵
+**** responsible:
+***** 汪大淵
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0144.org][ZB2k0144]] 朝鮮賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0144
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 董越
+:SOURCE:   四庫全書 文淵閣版, V594.5, p105
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 董越
+**** responsible:
+***** 董越
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1431 - 1502
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0145.org][ZB2k0145]] 海語
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0145
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V594.6, p117
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 黃衷
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    143 - 1502
+      :END:
+
 :DYNASTY: 明
 :RESP: 黃衷
 :END:
