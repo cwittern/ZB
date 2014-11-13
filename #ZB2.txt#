@@ -9967,30 +9967,55 @@
 :DATE:   康熙五十二年
 :END:
 **** responsible:
-***** 王
+***** 王掞
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 撰
-      :DATES:    1657 - 1723
+      :FUNCTION: 監修
       :END:
 
-***** 金居敬
+***** 王原祁
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 撰
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1715
       :END:
 
-:DYNASTY: 清
-:RESP: 康熙五十二年
-:END:
-**** dynasty: 清
-**** responsible: 康熙五十二年
+***** 王奕清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0035.org][ZB2m0035]] 欽定大清通禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0035
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V655.1, p1
+:EXTENT: 120 卷
+:BOOK:   42
+:DATE:   康熙五十二年
+:END:
+**** responsible:
+***** 王掞
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :END:
+
+***** 王原祁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1715
+      :END:
+
+***** 王奕清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 :DYNASTY: 清乾隆元年
 :RESP: 敕撰
 :END:
