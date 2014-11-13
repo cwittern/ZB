@@ -8795,102 +8795,156 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 西洋艾儒略
+***** 鄺露
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
-      :DATES:    1582 - 1649
+      :DATES:    1604 - 1650
       :END:
 
-:DYNASTY: 明
-:RESP: 鄺露
-:END:
-**** dynasty: 明
-**** responsible: 鄺露
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0149.org][ZB2k0149]] 朝鮮志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0149
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V594.10, p369
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0150.org][ZB2k0150]] 皇清職貢圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0150
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十六年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V594.11, p395
+:EXTENT: 9 卷
+:BOOK:   8
+:DATE:   乾隆十六年
 :END:
-**** dynasty: 清乾隆十六年
-**** responsible: 敕撰
+**** responsible:
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1770
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0151.org][ZB2k0151]] 坤輿圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0151
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 西洋南懷仁
+:SOURCE:   四庫全書 文淵閣版, V594.12, p729
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 西洋南懷仁
+**** responsible:
+***** 西洋南懷仁
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1688
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0152.org][ZB2k0152]] 異域錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0152
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 圖理琛
+:SOURCE:   四庫全書 文淵閣版, V594.13, p793
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 圖理琛
+**** responsible:
+***** 覺羅圖理琛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1667 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0153.org][ZB2k0153]] 海國聞見錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0153
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳倫炯
+:SOURCE:   四庫全書 文淵閣版, V594.14, p847
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 陳倫炯
+**** responsible:
+***** 陳倫炯
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1721 - 1730
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB2l 職官類
 *** [[mandoku:ZB2l0001.org][ZB2l0001]] 唐六典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2l0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 玄宗李隆基
+:SOURCE:   四庫全書 文淵閣版, V595.1, p1
+:EXTENT: 30 卷
+:BOOK:   12
 :END:
-**** dynasty: 唐
-**** responsible: 玄宗李隆基
+**** responsible:
+***** 張九齡
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    678 - 740
+      :END:
+
+***** 李林甫
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2l0002.org][ZB2l0002]] 翰林志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2l0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李肇
+:SOURCE:   四庫全書 文淵閣版, V595.2, p295
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李肇
+**** responsible:
+***** 李肇
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 819
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2l0003.org][ZB2l0003]] 麟臺故事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2l0003
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V595.3, p303
+:EXTENT: 5 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 程俱
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 819
+      :END:
+
 :DYNASTY: 宋
 :RESP: 程俱
 :END:
