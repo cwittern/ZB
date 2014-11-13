@@ -9875,51 +9875,111 @@
 *** [[mandoku:ZB2m0030.org][ZB2m0030]] 明臣謚考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0030
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鮑應鰲
+:SOURCE:   四庫全書 文淵閣版, V651.2, p417
+:EXTENT: 2 卷
+:BOOK:   1
+:DATE:   1595
 :END:
-**** dynasty: 明
-**** responsible: 鮑應鰲
+**** responsible:
+***** 鮑應鼇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)釋義
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** 訂誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2m0031.org][ZB2m0031]] 明謚紀彙編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0031
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 郭良翰
+:SOURCE:   四庫全書 文淵閣版, V651.3, p463
+:EXTENT: 25 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 郭良翰
+**** responsible:
+***** 郭良翰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0032.org][ZB2m0032]] 明宮史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0032
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 呂毖
+:SOURCE:   四庫全書 文淵閣版, V651.4, p603
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 呂毖
+**** responsible:
+***** 呂毖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 校次
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0033.org][ZB2m0033]] 幸魯盛典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0033
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 弘毓圻
+:SOURCE:   四庫全書 文淵閣版, V652.1, p1
+:EXTENT: 40 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 弘毓圻
+**** responsible:
+***** 弘毓圻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1657 - 1723
+      :END:
+
+***** 金居敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0034.org][ZB2m0034]] 萬壽盛典
+*** [[mandoku:ZB2m0034.org][ZB2m0034]] 萬壽盛典初集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0034
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V653.1, p1 - V654.1
+:EXTENT: 120 卷
+:BOOK:   42
+:DATE:   康熙五十二年
+:END:
+**** responsible:
+***** 王
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1657 - 1723
+      :END:
+
+***** 金居敬
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 :DYNASTY: 清
 :RESP: 康熙五十二年
 :END:
