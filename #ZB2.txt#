@@ -8316,23 +8316,51 @@
 **** textual witnesses
 ***** WYG
 **** [[mandoku:ZB2k0122a.org][ZB2k0122a]] (附)牋紙譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
 
 **** [[mandoku:ZB2k0122b.org][ZB2k0122b]] 蜀錦譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2k0123.org][ZB2k0123]] 吳中舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0123
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陸及仁
+:SOURCE:   四庫全書 文淵閣版, V590.6, p443
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 陸及仁
+**** responsible:
+***** 陸友仁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1330 - 1338
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0124.org][ZB2k0124]] 平江紀事
+*** [[mandoku:ZB2k0124.org][ZB2k0124]] 平江記事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0124
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V590.7, p443
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 陸友仁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1330 - 1338
+      :END:
+
 :DYNASTY: 元
 :RESP: 高德基
 :END:
