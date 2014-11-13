@@ -7386,43 +7386,86 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    168 - 1702
+      :DATES:    1628 - 1680
       :END:
 
-:DYNASTY: 清
-:RESP: 薛鳳祚
-:END:
-**** dynasty: 清
-**** responsible: 薛鳳祚
 **** textual witnesses
 ***** WYG
+**** 圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB2k0076.org][ZB2k0076]] 居濟一得
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張伯行
+:SOURCE:   四庫全書 文淵閣版, V579.4, p485
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 張伯行
+**** responsible:
+***** 張伯行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1652 - 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0077.org][ZB2k0077]] 治河奏績書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 靳甫 ;; s2n0369
+:SOURCE:   四庫全書 文淵閣版, V579.5, p613
+:EXTENT: 4 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 靳甫 ;; s2n0369
+**** responsible:
+***** 靳輔
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1692
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0077a.org][ZB2k0077a]] 治河奏績書__河防述言
+**** [[mandoku:ZB2k0077a.org][ZB2k0077a]] (附)河防述言
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 陳潢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 原論
+      :END:
+
+****** 張靄生
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編述
+      :END:
+
 *** [[mandoku:ZB2k0078.org][ZB2k0078]] 直隸河渠志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0078
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V579.6, p781
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 靳輔
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1692
+      :END:
+
 :DYNASTY: 清
 :RESP: 陳儀
 :END:

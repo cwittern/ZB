@@ -6906,270 +6906,530 @@
       :EXTENT: 1 卷
       :BOOK:   (48)
       :END:
-<!-- here 2014-11-12 -->
+
 *** [[mandoku:ZB2k0054.org][ZB2k0054]] 廣東通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 郝玉麟
+:SOURCE:   四庫全書 文淵閣版, V562.1, p1 - V564.1
+:EXTENT: 64 卷
+:BOOK:   56
 :END:
-**** dynasty: 清
-**** responsible: 郝玉麟
+**** responsible:
+***** 郝玉麟
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    d. 1745
+      :END:
+
+***** 魯曾煜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0055.org][ZB2k0055]] 廣西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 金鉷
+:SOURCE:   四庫全書 文淵閣版, V565.1, p1 - V568.1
+:EXTENT: 128 卷
+:BOOK:   78
 :END:
-**** dynasty: 清
-**** responsible: 金鉷
+**** responsible:
+***** 金鉷
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1678 - 1740
+      :END:
+
+***** 錢元昌
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首:目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
+**** (附)補纂
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (78)
+      :END:
+
 *** [[mandoku:ZB2k0056.org][ZB2k0056]] 雲南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 尹繼善
+:SOURCE:   四庫全書 文淵閣版, V569.1, p1 - V570.1
+:EXTENT: 30 卷
+:BOOK:   40
 :END:
-**** dynasty: 清
-**** responsible: 尹繼善
+**** responsible:
+***** 鄂爾泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1677 - 1745
+      :END:
+
+***** 靖道謨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0057.org][ZB2k0057]] 貴州通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄂爾泰
+:SOURCE:   四庫全書 文淵閣版, V571.1, p1 - V572.1
+:EXTENT: 46 卷
+:BOOK:   36
 :END:
-**** dynasty: 清
-**** responsible: 鄂爾泰
+**** responsible:
+***** 鄂爾泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 監修
+      :DATES:    1677 - 1745
+      :END:
+
+***** 靖道謨
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0058.org][ZB2k0058]] 歷代帝王宅京記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0058
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V572.2, p571
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0059.org][ZB2k0059]] 水經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0059
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後魏
-:RESP: 酈道元
+:SOURCE:   四庫全書 文淵閣版, V573.1, p1
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 後魏
-**** responsible: 酈道元
+**** responsible:
+***** 酈道元
+      :PROPERTIES:
+      :DYNASTY:  後魏
+      :FUNCTION: 撰
+      :DATES:    d. 527
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
 *** [[mandoku:ZB2k0060.org][ZB2k0060]] 水經注集釋訂訛
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0060
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 沈炳巽
+:SOURCE:   四庫全書 文淵閣版, V574.1, p1
+:EXTENT: 40 卷
+:BOOK:   18
 :END:
-**** dynasty: 清
-**** responsible: 沈炳巽
+**** responsible:
+***** 沈炳巽
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0061.org][ZB2k0061]] 水經注釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0061
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 趙一清 ;;skqs-02/S2-11地理類-0351河渠之屬-水經注釋__水經注箋刊誤.xml
+:SOURCE:   四庫全書 文淵閣版, V575.1, p1
+:EXTENT: 40 卷
+:BOOK:   16
 :END:
-**** dynasty: 清
-**** responsible: 趙一清 ;;skqs-02/S2-11地理類-0351河渠之屬-水經注釋__水經注箋刊誤.xml
+**** responsible:
+***** 趙一清
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1710? - 1764?
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0061a.org][ZB2k0061a]] 水經注釋__水經注箋刊誤
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (16)
+      :END:
+
+**** [[mandoku:ZB2k0061a.org][ZB2k0061a]] 水經注箋刊誤
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   8
+      :END:
+
 *** [[mandoku:ZB2k0062.org][ZB2k0062]] 吳中水利書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0062
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 單鍔
+:SOURCE:   四庫全書 文淵閣版, V576.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 單鍔
+**** responsible:
+***** 單鍔
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1031 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0063.org][ZB2k0063]] 四明它山水利備覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0063
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 魏峴
+:SOURCE:   四庫全書 文淵閣版, V576.2, p15
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 魏峴
+**** responsible:
+***** 魏峴
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1208 - 1242
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0064.org][ZB2k0064]] 河防通議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0064
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 沙克什
+:SOURCE:   四庫全書 文淵閣版, V576.3, p43
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 沙克什
+**** responsible:
+***** 沙克什
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1278 - 1351
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0065.org][ZB2k0065]] 治河圖畧
+*** [[mandoku:ZB2k0065.org][ZB2k0065]] 治河圖略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0065
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 王喜
+:SOURCE:   四庫全書 文淵閣版, V576.4, p71
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 王喜
+**** responsible:
+***** 王喜
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0066.org][ZB2k0066]] 浙西水利書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0066
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 姚文灝
+:SOURCE:   四庫全書 文淵閣版, V576.5, p83
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 明
-**** responsible: 姚文灝
+**** responsible:
+***** 姚文灝
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0067.org][ZB2k0067]] 河防一覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0067
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 潘季馴
+:SOURCE:   四庫全書 文淵閣版, V576.6, p137
+:EXTENT: 14 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 潘季馴
+**** responsible:
+***** 潘季馴
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1521 - 1595
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0068.org][ZB2k0068]] 三吳水利錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0068
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 歸有光
+:SOURCE:   四庫全書 文淵閣版, V576.7, p517
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 歸有光
+**** responsible:
+***** 歸有光
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1506 - 1571
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)續增
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2k0069.org][ZB2k0069]] 北河紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0069
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 謝肇淛
+:SOURCE:   四庫全書 文淵閣版, V576.8, p567
+:EXTENT: 8 卷
+:BOOK:   5
 :END:
-**** dynasty: 明
-**** responsible: 謝肇淛
+**** responsible:
+***** 謝肇淛
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1567 - 1624
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0069a.org][ZB2k0069a]] 北河紀__北河紀餘
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
+**** [[mandoku:ZB2k0069a.org][ZB2k0069a]] 北河紀餘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 4 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB2k0070.org][ZB2k0070]] 敬止集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0070
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳應芳
+:SOURCE:   四庫全書 文淵閣版, V577.1, p1
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 明
-**** responsible: 陳應芳
+**** responsible:
+***** 陳應芳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0071.org][ZB2k0071]] 三吳水考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0071
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張內蘊
+:SOURCE:   四庫全書 文淵閣版, V577.2, p87
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 張內蘊
+**** responsible:
+***** 張內蘊
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+***** 周大韶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0072.org][ZB2k0072]] 吳中水利全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張國雄
+:SOURCE:   四庫全書 文淵閣版, V578.1, p1
+:EXTENT: 28 卷
+:BOOK:   22
 :END:
-**** dynasty: 明
-**** responsible: 張國雄
+**** responsible:
+***** 張國維
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0073.org][ZB2k0073]] 河源紀畧
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+*** [[mandoku:ZB2k0073.org][ZB2k0073]] 欽定河源紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0073
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十七年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V579.1, p1
+:EXTENT: 35 卷
+:BOOK:   16
+:DATE:   乾隆四十七年
 :END:
-**** dynasty: 清乾隆四十七年
-**** responsible: 敕撰
+**** responsible:
+***** 紀昀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1724 - 1805
+      :END:
+
+***** 陸錫熊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB2k0074.org][ZB2k0074]] 崑崙河源考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯同
+:SOURCE:   四庫全書 文淵閣版, V579.2, p317
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 萬斯同
+**** responsible:
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0075.org][ZB2k0075]] 兩河清彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0075
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 薛鳳祚
+:SOURCE:   四庫全書 文淵閣版, V579.3, p347
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 薛鳳祚
+**** responsible:
+***** 薛鳳祚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1628 - 1680
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 圖
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
 *** [[mandoku:ZB2k0076.org][ZB2k0076]] 居濟一得
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0076
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 張伯行
+:SOURCE:   四庫全書 文淵閣版, V579.4, p485
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 張伯行
+**** responsible:
+***** 張伯行
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1652 - 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0077.org][ZB2k0077]] 治河奏績書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0077
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 靳甫 ;; s2n0369
+:SOURCE:   四庫全書 文淵閣版, V579.5, p613
+:EXTENT: 4 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
+**** responsible:
+***** 靳輔
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1633 - 1692
+      :END:
+
 **** responsible: 靳甫 ;; s2n0369
 **** textual witnesses
 ***** WYG
