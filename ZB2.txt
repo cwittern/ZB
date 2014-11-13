@@ -7992,144 +7992,238 @@
 *** [[mandoku:ZB2k0105.org][ZB2k0105]] 南方草木狀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0105
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 晉
-:RESP: 嵇含
+:SOURCE:   四庫全書 文淵閣版, V589.1, p1
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 晉
-**** responsible: 嵇含
+**** responsible:
+***** 嵇含
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    263 - 306
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0106.org][ZB2k0106]] 荊楚嵗時記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0106
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 梁
-:RESP: 宗懍
+:SOURCE:   四庫全書 文淵閣版, V589.2, p13
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 梁
-**** responsible: 宗懍
+**** responsible:
+***** 宗懍
+      :PROPERTIES:
+      :DYNASTY:  梁
+      :FUNCTION: 撰
+      :DATES:    ca. 500 - ca. 563
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0107.org][ZB2k0107]] 北戶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0107
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 段公路
+:SOURCE:   四庫全書 文淵閣版, V589.3, p29
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 段公路
+**** responsible:
+***** 段公路
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    9th cent
+      :END:
+
+***** 龜圖
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 註
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0108.org][ZB2k0108]] 桂林風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0108
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 莫休符
+:SOURCE:   四庫全書 文淵閣版, V589.4, p63
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 莫休符
+**** responsible:
+***** 莫休符
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    fl. 899
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0109.org][ZB2k0109]] 嶺表錄異
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0109
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 劉恂
+:SOURCE:   四庫全書 文淵閣版, V589.5, p79
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 劉恂
+**** responsible:
+***** 劉恂
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0110.org][ZB2k0110]] 益部方物畧記
+*** [[mandoku:ZB2k0110.org][ZB2k0110]] 益部方物略記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0110
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋祁
+:SOURCE:   四庫全書 文淵閣版, V589.6, p99
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 宋祁
+**** responsible:
+***** 宋祁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    978 - 1061
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0111.org][ZB2k0111]] 嶽陽風土記
+*** [[mandoku:ZB2k0111.org][ZB2k0111]] 岳陽風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0111
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范致明
+:SOURCE:   四庫全書 文淵閣版, V589.7, p109
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 范致明
+**** responsible:
+***** 范致明
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0112.org][ZB2k0112]] 東京夢華錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0112
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 孟元老
+:SOURCE:   四庫全書 文淵閣版, V589.8, p125
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 孟元老
+**** responsible:
+***** 孟元老
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1136 - 1147
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0113.org][ZB2k0113]] 六朝事迹編類
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0113
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張敦頤
+:SOURCE:   四庫全書 文淵閣版, V589.9, p175
+:EXTENT: 2 卷
+:BOOK:   2
+:DATE:   1138
 :END:
-**** dynasty: 宋
-**** responsible: 張敦頤
+**** responsible:
+***** 張敦頤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0114.org][ZB2k0114]] 會稽三賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0114
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王十朋
+:SOURCE:   四庫全書 文淵閣版, V589.10, p251
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王十朋
+**** responsible:
+***** 王十朋
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1112 - 1171
+      :END:
+
+***** 周世則
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
+***** 史鑄
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 注
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0115.org][ZB2k0115]] 中吳紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0115
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 襲明之
+:SOURCE:   四庫全書 文淵閣版, V589.11, p289
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 襲明之
+**** responsible:
+***** 襲明之
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1090 - 1182
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0116.org][ZB2k0116]] 桂海虞衡志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0116
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 范成大
+:SOURCE:   四庫全書 文淵閣版, V589.12, p365
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 范成大
+**** responsible:
+***** 范成大
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1126 - 1193
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0117.org][ZB2k0117]] 嶺外代答
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0117
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周玄非
+:SOURCE:   四庫全書 文淵閣版, V589.13, p389
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 周玄非
+**** responsible:
+***** 周去非
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1163 - 1178
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0118.org][ZB2k0118]] 都城紀勝
