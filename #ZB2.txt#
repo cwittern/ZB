@@ -7283,39 +7283,64 @@
 *** [[mandoku:ZB2k0071.org][ZB2k0071]] 三吳水考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0071
-:SOURCE:   四庫全書 文淵閣版, V577.1, p1
-:EXTENT: 4 卷
-:BOOK:   3
+:SOURCE:   四庫全書 文淵閣版, V577.2, p87
+:EXTENT: 16 卷
+:BOOK:   12
 :END:
 **** responsible:
-***** 陳應芳
+***** 張內蘊
       :PROPERTIES:
       :DYNASTY:  明
       :FUNCTION: 撰
       :END:
 
-:DYNASTY: 明
-:RESP: 張內蘊
-:END:
-**** dynasty: 明
-**** responsible: 張內蘊
+***** 周大韶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0072.org][ZB2k0072]] 吳中水利全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0072
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張國雄
+:SOURCE:   四庫全書 文淵閣版, V578.1, p1
+:EXTENT: 28 卷
+:BOOK:   22
 :END:
-**** dynasty: 明
-**** responsible: 張國雄
+**** responsible:
+***** 張國維
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1645
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0073.org][ZB2k0073]] 河源紀畧
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (22)
+      :END:
+
+*** [[mandoku:ZB2k0073.org][ZB2k0073]] 欽定河源紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0073
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V578.1, p1
+:EXTENT: 28 卷
+:BOOK:   22
+:END:
+**** responsible:
+***** 張國維
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1594 - 1645
+      :END:
+
 :DYNASTY: 清乾隆四十七年
 :RESP: 敕撰
 :END:
