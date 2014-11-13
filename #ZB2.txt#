@@ -7459,68 +7459,105 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 靳輔
+***** 陳儀
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1633 - 1692
+      :DATES:    1670 - 1742
       :END:
 
-:DYNASTY: 清
-:RESP: 陳儀
-:END:
-**** dynasty: 清
-**** responsible: 陳儀
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0079.org][ZB2k0079]] 行水金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅澤洪
+:SOURCE:   四庫全書 文淵閣版, V580.1, p1 - V582.1
+:EXTENT: 175 卷
+:BOOK:   60
 :END:
-**** dynasty: 清
-**** responsible: 傅澤洪
+**** responsible:
+***** 傅澤洪
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0080.org][ZB2k0080]] 水道提綱
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 齊召南
+:SOURCE:   四庫全書 文淵閣版, V583.1, p1
+:EXTENT: 28 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 齊召南
+**** responsible:
+***** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1703 - 1768
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0081.org][ZB2k0081]] 海塘錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 翟均廉
+:SOURCE:   四庫全書 文淵閣版, V583.2, p317
+:EXTENT: 26 卷
+:BOOK:   12
+:DATE:   1765
 :END:
-**** dynasty: 清
-**** responsible: 翟均廉
+**** responsible:
+***** 翟均廉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB2k0082.org][ZB2k0082]] 籌海圖編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡宗憲
+:SOURCE:   四庫全書 文淵閣版, V584.1, p1
+:EXTENT: 13 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 胡宗憲
+**** responsible:
+***** 胡宗憲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1511 - 1565
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0083.org][ZB2k0083]] 鄭開陽雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0083
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V584.2, p443
+:EXTENT: 11 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 胡宗憲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1511 - 1565
+      :END:
+
 :DYNASTY: 明
 :RESP: 鄭若曾
 :END:
