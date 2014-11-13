@@ -7329,40 +7329,66 @@
 *** [[mandoku:ZB2k0073.org][ZB2k0073]] 欽定河源紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0073
-:SOURCE:   四庫全書 文淵閣版, V578.1, p1
-:EXTENT: 28 卷
-:BOOK:   22
+:SOURCE:   四庫全書 文淵閣版, V579.1, p1
+:EXTENT: 35 卷
+:BOOK:   16
+:DATE:   乾隆四十七年
 :END:
 **** responsible:
-***** 張國維
+***** 紀昀
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: 撰
-      :DATES:    1594 - 1645
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1724 - 1805
       :END:
 
-:DYNASTY: 清乾隆四十七年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆四十七年
-**** responsible: 敕撰
+***** 陸錫熊
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
 *** [[mandoku:ZB2k0074.org][ZB2k0074]] 崑崙河源考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0074
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯同
+:SOURCE:   四庫全書 文淵閣版, V579.2, p317
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 萬斯同
+**** responsible:
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0075.org][ZB2k0075]] 兩河清彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0075
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V579.3, p347
+:EXTENT: 8 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 薛鳳祚
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    168 - 1702
+      :END:
+
 :DYNASTY: 清
 :RESP: 薛鳳祚
 :END:
