@@ -7430,309 +7430,563 @@
       :DATES:    1633 - 1692
       :END:
 
-**** responsible: 靳甫 ;; s2n0369
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0077a.org][ZB2k0077a]] 治河奏績書__河防述言
+**** [[mandoku:ZB2k0077a.org][ZB2k0077a]] (附)河防述言
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
+***** responsible:
+****** 陳潢
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 原論
+      :END:
+
+****** 張靄生
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編述
+      :END:
+
 *** [[mandoku:ZB2k0078.org][ZB2k0078]] 直隸河渠志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0078
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳儀
+:SOURCE:   四庫全書 文淵閣版, V579.6, p781
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 陳儀
+**** responsible:
+***** 陳儀
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1670 - 1742
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0079.org][ZB2k0079]] 行水金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0079
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 傅澤洪
+:SOURCE:   四庫全書 文淵閣版, V580.1, p1 - V582.1
+:EXTENT: 175 卷
+:BOOK:   60
 :END:
-**** dynasty: 清
-**** responsible: 傅澤洪
+**** responsible:
+***** 傅澤洪
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1725
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0080.org][ZB2k0080]] 水道提綱
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0080
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 齊召南
+:SOURCE:   四庫全書 文淵閣版, V583.1, p1
+:EXTENT: 28 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 齊召南
+**** responsible:
+***** 齊召南
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1703 - 1768
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0081.org][ZB2k0081]] 海塘錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0081
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 翟均廉
+:SOURCE:   四庫全書 文淵閣版, V583.2, p317
+:EXTENT: 26 卷
+:BOOK:   12
+:DATE:   1765
 :END:
-**** dynasty: 清
-**** responsible: 翟均廉
+**** responsible:
+***** 翟均廉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (12)
+      :END:
+
 *** [[mandoku:ZB2k0082.org][ZB2k0082]] 籌海圖編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0082
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡宗憲
+:SOURCE:   四庫全書 文淵閣版, V584.1, p1
+:EXTENT: 13 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 胡宗憲
+**** responsible:
+***** 胡宗憲
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1511 - 1565
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0083.org][ZB2k0083]] 鄭開陽雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0083
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 鄭若曾
+:SOURCE:   四庫全書 文淵閣版, V584.2, p443
+:EXTENT: 11 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 鄭若曾
+**** responsible:
+***** 鄭若曾
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1505 - 1580
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0084.org][ZB2k0084]] 南嶽小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0084
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 李冲昭
+:SOURCE:   四庫全書 文淵閣版, V585.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 李冲昭
+**** responsible:
+***** 李沖昭
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0085.org][ZB2k0085]] 廬山記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0085
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳舜俞 ;; s2n1049
+:SOURCE:   四庫全書 文淵閣版, V585.2, p13
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 陳舜俞 ;; s2n1049
+**** responsible:
+***** 陳舜兪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    d. 1074
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0085a.org][ZB2k0085a]] 廬山記__廬山畧記
+**** [[mandoku:ZB2k0085a.org][ZB2k0085a]] (附)廬山略記
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 釋惠遠
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2k0086.org][ZB2k0086]] 赤松山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0086
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 倪守約
+:SOURCE:   四庫全書 文淵閣版, V585.3, p45
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 倪守約
+**** responsible:
+***** 倪守約
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0086a.org][ZB2k0086a]] 大清一統志
+# *** [[mandoku:ZB2k0086a.org][ZB2k0086a]] 大清一統志
 *** [[mandoku:ZB2k0087.org][ZB2k0087]] 西湖遊覽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 田汝咸 ;; s2n1055
+:SOURCE:   四庫全書 文淵閣版, V585.4, p59
+:EXTENT: 24 卷
+:BOOK:   6
+:DATE:   1526
 :END:
-**** dynasty: 明
-**** responsible: 田汝咸 ;; s2n1055
+**** responsible:
+***** 田汝成
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0087a.org][ZB2k0087a]] 西湖遊覽志__西湖遊覽志餘
+**** [[mandoku:ZB2k0087a.org][ZB2k0087a]] 西湖遊覽志餘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 26 卷
+      :BOOK:   12
+      :END:
+
 *** [[mandoku:ZB2k0088.org][ZB2k0088]] 桂勝
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張鳴鳳 ;; s2n1051
+:SOURCE:   四庫全書 文淵閣版, V585.5, p637
+:EXTENT: 4 卷
+:BOOK:   2
+:DATE:   1552
 :END:
-**** dynasty: 明
-**** responsible: 張鳴鳳 ;; s2n1051
+**** responsible:
+***** 張鳴鳳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0088a.org][ZB2k0088a]] 桂勝__桂故
+**** [[mandoku:ZB2k0088a.org][ZB2k0088a]] (附)桂故
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB2k0089.org][ZB2k0089]] 欽定盤山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣溥
+:SOURCE:   四庫全書 文淵閣版, V586.1, p1
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 蔣溥
+**** responsible:
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1708 - 1761
+      :END:
+
+***** 汪由敦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 董邦達
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB2k0090.org][ZB2k0090]] 西湖志纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0090
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 梁詩正
+:SOURCE:   四庫全書 文淵閣版, V586.2, p337
+:EXTENT: 12 卷
+:BOOK:   5
 :END:
-**** dynasty: 清
-**** responsible: 梁詩正
+**** responsible:
+***** 梁詩正
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1697 - 1763
+      :END:
+
+***** 沈德潛
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
+***** 傅王露
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (5)
+      :END:
+
 *** [[mandoku:ZB2k0091.org][ZB2k0091]] 洛陽伽藍記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0091
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 後魏
-:RESP: 楊衒之
+:SOURCE:   四庫全書 文淵閣版, V587.1, p1
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 後魏
-**** responsible: 楊衒之
+**** responsible:
+***** 楊衒之
+      :PROPERTIES:
+      :DYNASTY:  後魏
+      :FUNCTION: 撰
+      :DATES:    6th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0092.org][ZB2k0092]] 吳地記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0092
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 廣微
+:SOURCE:   四庫全書 文淵閣版, V587.2, p53
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 唐
-**** responsible: 廣微
+**** responsible:
+***** 陸廣微
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 吳地記後集
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+***** responsible:
+****** 闕名
+      :PROPERTIES:
+      :FUNCTION: 撰
+      :END:
+
 *** [[mandoku:ZB2k0093.org][ZB2k0093]] 長安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0093
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 宋敏求
+:SOURCE:   四庫全書 文淵閣版, V587.3, p73
+:EXTENT: 20 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 宋敏求
+**** responsible:
+***** 宋敏求
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1019 - 1079
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0094.org][ZB2k0094]] 洛陽名園記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0094
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李格非
+:SOURCE:   四庫全書 文淵閣版, V587.4, p239
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 李格非
+**** responsible:
+***** 李格非
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0095.org][ZB2k0095]] 雍錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0095
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 程大昌
+:SOURCE:   四庫全書 文淵閣版, V587.5, p249
+:EXTENT: 10 卷
+:BOOK:   4
 :END:
-**** dynasty: 宋
-**** responsible: 程大昌
+**** responsible:
+***** 程大昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1123 - 1195
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0096.org][ZB2k0096]] 洞霄圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0096
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄧牧
+:SOURCE:   四庫全書 文淵閣版, V587.6, p405
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 鄧牧
+**** responsible:
+***** 鄧牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1247 - 1306
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0097.org][ZB2k0097]] 長安志圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0097
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 李好文
+:SOURCE:   四庫全書 文淵閣版, V587.7, p469
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 李好文
+**** responsible:
+***** 李好文
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0098.org][ZB2k0098]] 汴京遺蹟志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0098
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李濂
+:SOURCE:   四庫全書 文淵閣版, V587.8, p513
+:EXTENT: 24 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 李濂
+**** responsible:
+***** 李濂
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1488 - 1566
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0099.org][ZB2k0099]] 武林梵志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0099
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 吳之鯨
+:SOURCE:   四庫全書 文淵閣版, V588.1, p1
+:EXTENT: 12 卷
+:BOOK:   9
 :END:
-**** dynasty: 明
-**** responsible: 吳之鯨
+**** responsible:
+***** 吳之鯨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0100.org][ZB2k0100]] 江城名蹟
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0100
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳宏緒
+:SOURCE:   四庫全書 文淵閣版, V588.2, p287
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 陳宏緒
+**** responsible:
+***** 陳弘緒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1597 - 1665
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0101.org][ZB2k0101]] 營平二州地名記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0101
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V588.3, p375
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0102.org][ZB2k0102]] 金鰲退食筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0102
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高士奇
+:SOURCE:   四庫全書 文淵閣版, V588.4, p401
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 高士奇
+**** responsible:
+***** 高士奇
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1645 - 1704
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0103.org][ZB2k0103]] 石柱記箋釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0103
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鄭元慶
+:SOURCE:   四庫全書 文淵閣版, V588.5, p433
+:EXTENT: 5 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 鄭元慶
+**** responsible:
+***** 鄭元慶
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    b. 1660
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0104.org][ZB2k0104]] 關中勝蹟圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0104
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 畢元
+:SOURCE:   四庫全書 文淵閣版, V588.6, p479
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
-**** dynasty: 清
-**** responsible: 畢元
+**** responsible:
+***** 畢沅
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1730 - 1797
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0105.org][ZB2k0105]] 南方草木狀
