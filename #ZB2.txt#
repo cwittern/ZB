@@ -9719,95 +9719,157 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 蕭嵩
+***** 蘇洵
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: 奉敕撰
-      :DATES:    d. 749
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1009 - 1066
       :END:
 
-:DYNASTY: 宋
-:RESP: 蘇洵
-:END:
-**** dynasty: 宋
-**** responsible: 蘇洵
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0023.org][ZB2m0023]] 政和五禮新儀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 鄭居中
+:SOURCE:   四庫全書 文淵閣版, V647.1, p1
+:EXTENT: 存201 卷
+:BOOK:   24
 :END:
-**** dynasty: 宋
-**** responsible: 鄭居中
+**** responsible:
+***** 鄭居中
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 1123
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (24)
+      :END:
+
+**** 政和御製冠禮
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 10 卷
+      :BOOK:   (24)
+      :END:
+
+**** 政和五禮新儀目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 6 卷
+      :BOOK:   (24)
+      :END:
+
 *** [[mandoku:ZB2m0024.org][ZB2m0024]] 紹熙州縣釋奠儀圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V648.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0025.org][ZB2m0025]] 大金集體
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0025
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V648.2, p27
+:EXTENT: 存33 卷
+:BOOK:   10
 :END:
-**** dynasty: 金
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0026.org][ZB2m0026]] 大金德運圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0026
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 金
-:RESP: 貞祐中
+:SOURCE:   四庫全書 文淵閣版, V648.3, p309
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 金
-**** responsible: 貞祐中
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  金
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0027.org][ZB2m0027]] 廟學典禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0027
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 闕名
+:SOURCE:   四庫全書 文淵閣版, V648.4, p323
+:EXTENT: 6 卷
+:BOOK:   3
 :END:
-**** dynasty: 元
-**** responsible: 闕名
+**** responsible:
+***** 闕名
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0028.org][ZB2m0028]] 明集禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0028
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐一夔
+:SOURCE:   四庫全書 文淵閣版, V649.1, p1 - V650.1
+:EXTENT: 53 卷
+:BOOK:   30
 :END:
-**** dynasty: 明
-**** responsible: 徐一夔
+**** responsible:
+***** 徐一夔
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1318 - ca. 1400
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (30)
+      :END:
+
 *** [[mandoku:ZB2m0029.org][ZB2m0029]] 頖宮禮樂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0029
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 李之藻
+:SOURCE:   四庫全書 文淵閣版, V651.1, p1
+:EXTENT: 10 卷
+:BOOK:   10
 :END:
-**** dynasty: 明
-**** responsible: 李之藻
+**** responsible:
+***** 李之藻
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1565 - 1630
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0030.org][ZB2m0030]] 明臣謚考
