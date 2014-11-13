@@ -9271,63 +9271,93 @@
 *** [[mandoku:ZB2l0021.org][ZB2l0021]] 御定人臣儆心錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2l0021
-:SOURCE:   四庫全書 文淵閣版, V602.6, p729
-:EXTENT: 4 卷
+:SOURCE:   四庫全書 文淵閣版, V602.7, p761
+:EXTENT: 1 卷
 :BOOK:   1
 :END:
 **** responsible:
-***** 張養浩
+***** 世祖
       :PROPERTIES:
-      :DYNASTY:  元
+      :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1269 - 1329
+      :DATES:    1638 - 1661
       :END:
 
-:DYNASTY: 清
-:RESP: 王永吉
-:END:
-**** dynasty: 清
-**** responsible: 王永吉
+***** 王永吉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB2m 政書類
 *** [[mandoku:ZB2m0001.org][ZB2m0001]] 通典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 杜佑
+:SOURCE:   四庫全書 文淵閣版, V603.1, p1 - V605.1
+:EXTENT: 200 卷
+:BOOK:   60
 :END:
-**** dynasty: 唐
-**** responsible: 杜佑
+**** responsible:
+***** 杜佑
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :DATES:    735 - 812
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0002.org][ZB2m0002]] 唐會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王溥
+:SOURCE:   四庫全書 文淵閣版, V606.1, p1 - V607.1
+:EXTENT: 100 卷
+:BOOK:   30
 :END:
-**** dynasty: 宋
-**** responsible: 王溥
+**** responsible:
+***** 王溥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    922 - 982
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0003.org][ZB2m0003]] 五代會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王溥
+:SOURCE:   四庫全書 文淵閣版, V607.2, p439
+:EXTENT: 30 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王溥
+**** responsible:
+***** 王溥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    922 - 982
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0004.org][ZB2m0004]] 宋朝事實
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0004
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V607.2, p439
+:EXTENT: 30 卷
+:BOOK:   6
+:END:
+**** responsible:
+***** 王溥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    922 - 982
+      :END:
+
 :DYNASTY: 宋
 :RESP: 李攸
 :END:
