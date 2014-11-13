@@ -9409,51 +9409,107 @@
 *** [[mandoku:ZB2m0007.org][ZB2m0007]] 東漢會要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 徐天麟
+:SOURCE:   四庫全書 文淵閣版, V609.2, p449
+:EXTENT: 40 卷
+:BOOK:   12
+:DATE:   1205
 :END:
-**** dynasty: 宋
-**** responsible: 徐天麟
+**** responsible:
+***** 徐天麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0008.org][ZB2m0008]] 漢制攷
+*** [[mandoku:ZB2m0008.org][ZB2m0008]] 漢制考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V609.3, p779
+:EXTENT: 4 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0009.org][ZB2m0009]] 文獻通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 馬端臨
+:SOURCE:   四庫全書 文淵閣版, V610.1, p1 - V616.1
+:EXTENT: 348 卷
+:BOOK:   168
 :END:
-**** dynasty: 元
-**** responsible: 馬端臨
+**** responsible:
+***** 馬端臨
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1254 - 1322
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 自序
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (168)
+      :END:
+
+**** 總目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (168)
+      :END:
+
 *** [[mandoku:ZB2m0010.org][ZB2m0010]] 明會典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0010
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明弘治十年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V617.1, p1 - V618.1
+:EXTENT: 180 卷
+:BOOK:   42
+:DATE:   弘治十年
 :END:
-**** dynasty: 明弘治十年
-**** responsible: 敕撰
+**** responsible:
+***** 徐溥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1428 - 1499
+      :END:
+
+***** 李東陽
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 重修
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2m0011.org][ZB2m0011]] 七國攷
+*** [[mandoku:ZB2m0011.org][ZB2m0011]] 七國考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0011
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V618.2, p765
+:EXTENT: 14 卷
+:BOOK:   7
+:END:
+**** responsible:
+***** 徐溥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 奉敕撰
+      :DATES:    1428 - 1499
+      :END:
+
 :DYNASTY: 明
 :RESP: 董說
 :END:
