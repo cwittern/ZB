@@ -8495,72 +8495,102 @@
 *** [[mandoku:ZB2k0132.org][ZB2k0132]] 臺海使槎錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0132
-:SOURCE:   四庫全書 文淵閣版, V592.6, p841
-:EXTENT: 1 卷
-:BOOK:   1
+:SOURCE:   四庫全書 文淵閣版, V592.6, p861
+:EXTENT: 8 卷
+:BOOK:   4
 :END:
 **** responsible:
-***** 方式濟
+***** 黃叔璥
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
+      :DATES:    1666 - 1742
       :END:
 
-:DYNASTY: 清
-:RESP: 董叔璥
-:END:
-**** dynasty: 清
-**** responsible: 董叔璥
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0133.org][ZB2k0133]] 東城雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0133
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 厲鄂
+:SOURCE:   四庫全書 文淵閣版, V592.7, p985
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 厲鄂
+**** responsible:
+***** 厲鄂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1692 - 1752
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0134.org][ZB2k0134]] 遊城南記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0134
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 張禮
+:SOURCE:   四庫全書 文淵閣版, V593.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 張禮
+**** responsible:
+***** 張禮
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1086
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0135.org][ZB2k0135]] 河朔訪古記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0135
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 迺賢
+:SOURCE:   四庫全書 文淵閣版, V593.2, p17
+:EXTENT: 3 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 迺賢
+**** responsible:
+***** 納新
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0136.org][ZB2k0136]] 徐霞客遊記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0136
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 徐宏祖
+:SOURCE:   四庫全書 文淵閣版, V593.3, p61
+:EXTENT: 12 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 徐宏祖
+**** responsible:
+***** 徐宏祖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1586 - 1641
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0137.org][ZB2k0137]] 佛國記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0137
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V593.4, p611
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 徐
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1586 - 1641
+      :END:
+
 :DYNASTY: 宋
 :RESP: 釋法顯
 :END:
