@@ -8229,102 +8229,172 @@
 *** [[mandoku:ZB2k0118.org][ZB2k0118]] 都城紀勝
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0118
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 耐得翁
+:SOURCE:   四庫全書 文淵閣版, V590.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 耐得翁
+**** responsible:
+***** 耐得翁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0119.org][ZB2k0119]] 夢梁錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0119
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 吳自牧
+:SOURCE:   四庫全書 文淵閣版, V590.2, p13
+:EXTENT: 20 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 吳自牧
+**** responsible:
+***** 吳自牧
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1670
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0120.org][ZB2k0120]] 武林舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0120
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 周密
+:SOURCE:   四庫全書 文淵閣版, V590.3, p173
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 周密
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0121.org][ZB2k0121]] 增補武林舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0121
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱廷煥
+:SOURCE:   四庫全書 文淵閣版, V590.4, p301
+:EXTENT: 8 卷
+:BOOK:   6
 :END:
-**** dynasty: 明
-**** responsible: 朱廷煥
+**** responsible:
+***** 周密
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1232 - 1308
+      :END:
+
+***** 朱廷煥
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 補
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0122.org][ZB2k0122]] 嵗華紀麗譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0122
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 費著
+:SOURCE:   四庫全書 文淵閣版, V590.5, p433
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 費著
+**** responsible:
+***** 費著
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0122a.org][ZB2k0122a]] 歲華紀麗譜__牋紙譜
-*** [[mandoku:ZB2k0122b.org][ZB2k0122b]] 歲華紀麗譜__蜀錦譜
+**** [[mandoku:ZB2k0122a.org][ZB2k0122a]] (附)牋紙譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
+**** [[mandoku:ZB2k0122b.org][ZB2k0122b]] 蜀錦譜
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 *** [[mandoku:ZB2k0123.org][ZB2k0123]] 吳中舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0123
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陸及仁
+:SOURCE:   四庫全書 文淵閣版, V590.6, p443
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 陸及仁
+**** responsible:
+***** 陸友仁
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1330 - 1338
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0124.org][ZB2k0124]] 平江紀事
+*** [[mandoku:ZB2k0124.org][ZB2k0124]] 平江記事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0124
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 高德基
+:SOURCE:   四庫全書 文淵閣版, V590.7, p459
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 元
-**** responsible: 高德基
+**** responsible:
+***** 高德基
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    14th cent
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0125.org][ZB2k0125]] 江漢叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0125
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 陳士元
+:SOURCE:   四庫全書 文淵閣版, V590.8, p471
+:EXTENT: 2 卷
+:BOOK:   1
+:DATE:   1544
 :END:
-**** dynasty: 明
-**** responsible: 陳士元
+**** responsible:
+***** 陳士元
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0126.org][ZB2k0126]] 閩中海錯疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0126
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 屠本畯
+:SOURCE:   四庫全書 文淵閣版, V590.9, p499
+:EXTENT: 3 卷
+:BOOK:   1
 :END:
-**** dynasty: 明
-**** responsible: 屠本畯
+**** responsible:
+***** 屠本畯
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1596
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2k0127.org][ZB2k0127]] 蜀中廣記
