@@ -9503,67 +9503,105 @@
 :BOOK:   7
 :END:
 **** responsible:
-***** 徐溥
+***** 董說
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: 奉敕撰
-      :DATES:    1428 - 1499
+      :FUNCTION: 撰
+      :DATES:    1620 - 1686
       :END:
 
-:DYNASTY: 明
-:RESP: 董說
-:END:
-**** dynasty: 明
-**** responsible: 董說
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0012.org][ZB2m0012]] 欽定大清會典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0012
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆甲申(二十九年)
-:RESP: 
+:SOURCE:   四庫全書 文淵閣版, V619.1, p1
+:EXTENT: 100 卷
+:BOOK:   24
 :END:
-**** dynasty: 清乾隆甲申(二十九年)
+**** responsible:
+***** 允祹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0013.org][ZB2m0013]] 欽定大清會典則例
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0013
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆二十九年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
+:EXTENT: 180 卷
+:BOOK:   126
+:DATE:   乾隆十二年
 :END:
-**** dynasty: 清乾隆二十九年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0014.org][ZB2m0014]] 欽定續文獻通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0014
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V626.1, p1 - V631.1
+:EXTENT: 250 卷
+:BOOK:   137
 :END:
-**** dynasty: 清乾隆十二年
-**** responsible: 敕撰
+**** responsible:
+***** 嵇璜
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1711 - 1794
+      :END:
+
+***** 曹仁虎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0015.org][ZB2m0015]] 皇朝文獻通考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V632.1, p1 - V638.1
+:EXTENT: 300 卷
+:BOOK:   115
+:DATE:   乾隆十二年
 :END:
-**** dynasty: 清乾隆十二年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0016.org][ZB2m0016]] 欽定續通典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0016
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V639.1, p1 - V641.1
+:EXTENT: 150 卷
+:BOOK:   80
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 :DYNASTY: 清乾隆三十二年
 :RESP: 敕撰
 :END:
@@ -9574,7 +9612,19 @@
 *** [[mandoku:ZB2m0017.org][ZB2m0017]] 皇朝通典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0017
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
+:EXTENT: 180 卷
+:BOOK:   126
+:DATE:   乾隆十二年
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 :DYNASTY: 清乾隆三十二年
 :RESP: 敕撰
 :END:
@@ -9585,7 +9635,19 @@
 *** [[mandoku:ZB2m0018.org][ZB2m0018]] 皇朝通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0018
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V620.1, p1 - V625.1
+:EXTENT: 180 卷
+:BOOK:   126
+:DATE:   乾隆十二年
+:END:
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 :DYNASTY: 清乾隆三十二年
 :RESP: 敕撰
 :END:
