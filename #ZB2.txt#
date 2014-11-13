@@ -7626,38 +7626,87 @@
 *** [[mandoku:ZB2k0087.org][ZB2k0087]] 西湖遊覽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0087
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 田汝咸 ;; s2n1055
+:SOURCE:   四庫全書 文淵閣版, V585.4, p59
+:EXTENT: 24 卷
+:BOOK:   6
+:DATE:   1526
 :END:
-**** dynasty: 明
-**** responsible: 田汝咸 ;; s2n1055
+**** responsible:
+***** 田汝成
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0087a.org][ZB2k0087a]] 西湖遊覽志__西湖遊覽志餘
+**** [[mandoku:ZB2k0087a.org][ZB2k0087a]] 西湖遊覽志餘
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 26 卷
+      :BOOK:   12
+      :END:
+
 *** [[mandoku:ZB2k0088.org][ZB2k0088]] 桂勝
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0088
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 張鳴鳳 ;; s2n1051
+:SOURCE:   四庫全書 文淵閣版, V585.5, p637
+:EXTENT: 4 卷
+:BOOK:   2
+:DATE:   1552
 :END:
-**** dynasty: 明
-**** responsible: 張鳴鳳 ;; s2n1051
+**** responsible:
+***** 張鳴鳳
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0088a.org][ZB2k0088a]] 桂勝__桂故
+**** [[mandoku:ZB2k0088a.org][ZB2k0088a]] (附)桂故
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 8 卷
+      :BOOK:   2
+      :END:
+
 *** [[mandoku:ZB2k0089.org][ZB2k0089]] 欽定盤山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0089
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 蔣溥
+:SOURCE:   四庫全書 文淵閣版, V586.1, p1
+:EXTENT: 16 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 蔣溥
+**** responsible:
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1708 - 1761
+      :END:
+
+***** 汪由敦
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 董邦達
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 5 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB2k0090.org][ZB2k0090]] 西湖志纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0090
