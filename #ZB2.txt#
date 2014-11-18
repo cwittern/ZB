@@ -10801,51 +10801,64 @@
 :BOOK:   1
 :END:
 **** responsible:
-***** 趙明誠
+***** 黃伯思
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1081 - 1129
+      :DATES:    1079 - 1118
       :END:
 
-:DYNASTY: 宋
-:RESP: 黃伯思
-:END:
-**** dynasty: 宋
-**** responsible: 黃伯思
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0015.org][ZB2n0015]] 法帖釋文
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0015
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 劉次莊 ; s2n1278
+:SOURCE:   四庫全書 文淵閣版, V681.4, p395
+:EXTENT: 10 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 劉次莊 ; s2n1278
+**** responsible:
+***** 劉次莊
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1092 - 1102
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0016.org][ZB2n0016]] 籕史
+*** [[mandoku:ZB2n0016.org][ZB2n0016]] 籀史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 翟耆年
+:SOURCE:   四庫全書 文淵閣版, V681.5, p427
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 翟耆年
+**** responsible:
+***** 翟耆年
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1142
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0017.org][ZB2n0017]] 隸釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 洪适
+:SOURCE:   四庫全書 文淵閣版, V681.6, p443
+:EXTENT: 27 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 洪适
+**** responsible:
+***** 洪适
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1117 - 1184
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0018.org][ZB2n0018]] 隸續
