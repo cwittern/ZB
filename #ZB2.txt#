@@ -10188,106 +10188,200 @@
 *** [[mandoku:ZB2m0042.org][ZB2m0042]] 北郊配位尊西向議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 毛奇齡
+:SOURCE:   四庫全書 文淵閣版, V662.2, p155
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 毛奇齡
+**** responsible:
+***** 毛奇齡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1716
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0043.org][ZB2m0043]] 廟制圖考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯同
+:SOURCE:   四庫全書 文淵閣版, V662.3, p167
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 萬斯同
+**** responsible:
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0044.org][ZB2m0044]] 救荒活民書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 董煟
+:SOURCE:   四庫全書 文淵閣版, V662.4, p233
+:EXTENT: 3 卷
+:BOOK:   2
+:DATE:   1184
 :END:
-**** dynasty: 宋
-**** responsible: 董煟
+**** responsible:
+***** 董煟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB2m0045.org][ZB2m0045]] 熬波圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳椿
+:SOURCE:   四庫全書 文淵閣版, V662.5, p311
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 元
-**** responsible: 陳椿
+**** responsible:
+***** 陳椿
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1334
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0046.org][ZB2m0046]] 錢通
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 胡我琨
+:SOURCE:   四庫全書 文淵閣版, V662.6, p365
+:EXTENT: 32 卷
+:BOOK:   12
 :END:
-**** dynasty: 明
-**** responsible: 胡我琨
+**** responsible:
+***** 胡我琨
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0047.org][ZB2m0047]] 捕蝗考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0047
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 陳芳生
+:SOURCE:   四庫全書 文淵閣版, V663.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 陳芳生
+**** responsible:
+***** 陳芳生
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0048.org][ZB2m0048]] 荒政叢書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0048
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 俞森
+:SOURCE:   四庫全書 文淵閣版, V663.2, p13
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 俞森
+**** responsible:
+***** 俞森
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1690
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 附錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (6)
+      :END:
+
 *** [[mandoku:ZB2m0049.org][ZB2m0049]] 欽定康濟錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0049
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 倪國璉
+:SOURCE:   四庫全書 文淵閣版, V663.3, p223
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 倪國璉
+**** responsible:
+***** 陸曾禹
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 原撰
+      :END:
+
+***** 倪國璉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 檢擇
+      :END:
+
+***** 蔣溥
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪潤
+      :END:
+
+***** 梁詩正
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 刪潤
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0050.org][ZB2m0050]] 歷代兵制
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0050
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳傅良
+:SOURCE:   四庫全書 文淵閣版, V663.4, p437
+:EXTENT: 8 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 陳傅良
+**** responsible:
+***** 陳傅良
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1203
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0051.org][ZB2m0051]] 補漢兵志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0051
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V663.5, p437
+:EXTENT: 8 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 陳傅良
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1137 - 1203
+      :END:
+
 :DYNASTY: 宋
 :RESP: 錢文子
 :END:
