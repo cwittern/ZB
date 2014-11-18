@@ -10080,7 +10080,7 @@
 ***** 允祿
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 總辨
+      :FUNCTION: 總辧
       :DATES:    1695 - 1767
       :END:
 
@@ -10141,8 +10141,8 @@
 **** 卷首
       :PROPERTIES:
       :TYPE:   appendix
-      :EXTENT: 1 卷
-      :BOOK:   (61)
+      :EXTENT: 2 卷
+      :BOOK:   (63)
       :END:
 
 *** [[mandoku:ZB2m0040.org][ZB2m0040]] 八旬萬壽盛典
@@ -10162,16 +10162,27 @@
 
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (61)
+      :END:
 
 *** [[mandoku:ZB2m0041.org][ZB2m0041]] 歷代建元考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 鍾淵映
+:SOURCE:   四庫全書 文淵閣版, V662.1, p1
+:EXTENT: 10 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 鍾淵映
+**** responsible:
+***** 鍾淵映
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0042.org][ZB2m0042]] 北郊配位尊西向議
