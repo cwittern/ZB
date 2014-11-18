@@ -10482,48 +10482,98 @@
 *** [[mandoku:ZB2m0056.org][ZB2m0056]] 營造法式
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0056
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 李誡
+:SOURCE:   四庫全書 文淵閣版, V673.2, p399
+:EXTENT: 34 卷
+:BOOK:   7
 :END:
-**** dynasty: 宋
-**** responsible: 李誡
+**** responsible:
+***** 李誡
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    1035 - 1110
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 補遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (7)
+      :END:
+
 *** [[mandoku:ZB2m0057.org][ZB2m0057]] 欽定式英殿聚珍版程式
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0057
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 金簡
+:SOURCE:   四庫全書 文淵閣版, V673.3, p709
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 金簡
+**** responsible:
+***** 金簡
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    d. 1795
+      :END:
+
 **** textual witnesses
 ***** WYG
 ** ZB2n 目錄類
 *** [[mandoku:ZB2n0001.org][ZB2n0001]] 崇文總目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0001
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王堯臣
+:SOURCE:   四庫全書 文淵閣版, V674.1, p1
+:EXTENT: 12 卷
+:BOOK:   6
 :END:
-**** dynasty: 宋
-**** responsible: 王堯臣
+**** responsible:
+***** 王堯臣
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :DATES:    1001 - 1056
+      :END:
+
+***** 王洙
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
+***** 歐陽修
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 奉敕撰
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0002.org][ZB2n0002]] 郡齌讀書志
+*** [[mandoku:ZB2n0002.org][ZB2n0002]] 郡齋讀書志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0002
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 晁公武
+:SOURCE:   四庫全書 文淵閣版, V674.2, p153
+:EXTENT: 4 卷
+:BOOK:   3
 :END:
-**** dynasty: 宋
-**** responsible: 晁公武
+**** responsible:
+***** 晁公武
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1140 - 1171
+      :END:
+
+***** 趙希弁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 續輯
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB2n0002a.org][ZB2n0002a]] 郡齋讀書志__後志
 *** [[mandoku:ZB2n0003.org][ZB2n0003]] 遂初堂書目
 :PROPERTIES:
