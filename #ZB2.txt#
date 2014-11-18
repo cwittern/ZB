@@ -10573,67 +10573,126 @@
 
 **** textual witnesses
 ***** WYG
+**** 附志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   1
+      :END:
 
-*** [[mandoku:ZB2n0002a.org][ZB2n0002a]] 郡齋讀書志__後志
+**** [[mandoku:ZB2n0002a.org][ZB2n0002a]] 後志
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   2
+      :END:
+***** responsible:
+****** 趙希弁
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
 *** [[mandoku:ZB2n0003.org][ZB2n0003]] 遂初堂書目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0003
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 尤袤
+:SOURCE:   四庫全書 文淵閣版, V674.3, p435
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 尤袤
+**** responsible:
+***** 尤袤
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1127 - 1194
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0004.org][ZB2n0004]] 子畧
+*** [[mandoku:ZB2n0004.org][ZB2n0004]] 子略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0004
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 高似孫
+:SOURCE:   四庫全書 文淵閣版, V674.4, p491
+:EXTENT: 4 卷
+:BOOK:   1
+:DATE:   1184
 :END:
-**** dynasty: 宋
-**** responsible: 高似孫
+**** responsible:
+***** 高似孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0005.org][ZB2n0005]] 直齋書錄解題
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0005
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 陳振孫
+:SOURCE:   四庫全書 文淵閣版, V674.5, p525
+:EXTENT: 22 卷
+:BOOK:   12
 :END:
-**** dynasty: 宋
-**** responsible: 陳振孫
+**** responsible:
+***** 陳振孫
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    fl. 1211 - 1249
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0006.org][ZB2n0006]] 漢藝文志考證
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0006
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 王應麟
+:SOURCE:   四庫全書 文淵閣版, V675.1, p1
+:EXTENT: 10 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 王應麟
+**** responsible:
+***** 王應麟
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1223 - 1296
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0007.org][ZB2n0007]] 文淵閣書目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊士奇
+:SOURCE:   四庫全書 文淵閣版, V675.2, p111
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 楊士奇
+**** responsible:
+***** 楊士奇
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1365 - 1444
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0008.org][ZB2n0008]] 授經圖義例
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0008
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V675.3, p231
+:EXTENT: 20 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 朱睦
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 編
+      :DATES:    1365 - 1444
+      :END:
+
 :DYNASTY: 明
 :RESP: 朱睦&
 :END:
