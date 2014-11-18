@@ -10059,53 +10059,110 @@
 # 二十四年增修
 :END:
 **** responsible:
-***** 允祿
+***** 高宗弘曆
       :PROPERTIES:
       :DYNASTY:  清
-      :FUNCTION: 奉敕撰
-      :DATES:    1695 - 1767
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
       :END:
 
-:DYNASTY: 清乾隆二十四年
-:RESP: 敕撰
-:END:
-**** dynasty: 清乾隆二十四年
-**** responsible: 敕撰
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0038.org][ZB2m0038]] 欽定滿洲祭神祭天典禮
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆十二年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V657.2, p619
+:EXTENT: 6 卷
+:BOOK:   6
+:DATE:   乾隆十二年
 :END:
-**** dynasty: 清乾隆十二年
-**** responsible: 敕撰
+**** responsible:
+***** 允祿
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 總辨
+      :DATES:    1695 - 1767
+      :END:
+
+***** 官著
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 承修
+      :END:
+
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 漢譯
+      :END:
+
+***** 于敏中
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 漢譯
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0039.org][ZB2m0039]] 欽定南巡盛典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 高晉等
+:SOURCE:   四庫全書 文淵閣版, V658.1, p1 - V659.1
+:EXTENT: 100 卷
+:BOOK:   63
 :END:
-**** dynasty: 清
-**** responsible: 高晉等
+**** responsible:
+***** 高晉
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 初編
+      :END:
+
+***** 薩載
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 續編
+      :END:
+
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 合編
+      :END:
+
+***** 傅恒
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 合編
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (61)
+      :END:
+
 *** [[mandoku:ZB2m0040.org][ZB2m0040]] 八旬萬壽盛典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 阿桂
+:SOURCE:   四庫全書 文淵閣版, V660.1, p1 - V661.1
+:EXTENT: 120 卷
+:BOOK:   61
 :END:
-**** dynasty: 清
-**** responsible: 阿桂
+**** responsible:
+***** 阿桂
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 纂修
+      :DATES:    1717 - 1797
+      :END:
+
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB2m0041.org][ZB2m0041]] 歷代建元考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0041
