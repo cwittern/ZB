@@ -11541,40 +11541,69 @@
 *** [[mandoku:ZB2o0007.org][ZB2o0007]] 三國雜事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0007
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 唐庚
+:SOURCE:   四庫全書 文淵閣版, V686.2, p13
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 宋
-**** responsible: 唐庚
+**** responsible:
+***** 唐庚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1071 - 1121
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0008.org][ZB2o0008]] 經幄管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0008
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 曹彥約
+:SOURCE:   四庫全書 文淵閣版, V686.3, p29
+:EXTENT: 4 卷
+:BOOK:   2
 :END:
-**** dynasty: 宋
-**** responsible: 曹彥約
+**** responsible:
+***** 曹彥約
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1157 - 1208
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0009.org][ZB2o0009]] 涉史隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0009
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 葛洪
+:SOURCE:   四庫全書 文淵閣版, V686.4, p75
+:EXTENT: 1 卷
+:BOOK:   1
+:DATE:   1184
 :END:
-**** dynasty: 宋
-**** responsible: 葛洪
+**** responsible:
+***** 葛洪
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0010.org][ZB2o0010]] 六朝通鑑博議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0010
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V686.5, p95
+:EXTENT: 10 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 李燾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1114 - 1183
+      :END:
+
 :DYNASTY: 宋
 :RESP: 李燾
 :END:
