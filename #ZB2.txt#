@@ -10370,67 +10370,113 @@
 *** [[mandoku:ZB2m0051.org][ZB2m0051]] 補漢兵志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0051
-:SOURCE:   四庫全書 文淵閣版, V663.5, p437
-:EXTENT: 8 卷
-:BOOK:   2
+:SOURCE:   四庫全書 文淵閣版, V663.5, p481
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
 **** responsible:
-***** 陳傅良
+***** 錢文子
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: 撰
-      :DATES:    1137 - 1203
+      :DATES:    fl. 1160 - 1215
       :END:
 
-:DYNASTY: 宋
-:RESP: 錢文子
-:END:
-**** dynasty: 宋
-**** responsible: 錢文子
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0052.org][ZB2m0052]] 馬政紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0052
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 楊時喬
+:SOURCE:   四庫全書 文淵閣版, V663.6, p503
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 楊時喬
+**** responsible:
+***** 楊時喬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    d. 1609
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0053.org][ZB2m0053]] 欽定八旗通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0053
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清嘉慶中
-:RESP: 官
+:SOURCE:   四庫全書 文淵閣版, V664.1, p1 - V671.1
+:EXTENT: 342 卷
+:BOOK:   180
+:DATE:   乾隆五十一年
 :END:
-**** dynasty: 清嘉慶中
-**** responsible: 官
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 敕撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 目錄
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (180)
+      :END:
+
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 12 卷
+      :BOOK:   (180)
+      :END:
+
 *** [[mandoku:ZB2m0054.org][ZB2m0054]] 唐律疏義
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0054
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 唐
-:RESP: 長孫無忌
+:SOURCE:   四庫全書 文淵閣版, V672.1, p1
+:EXTENT: 30 卷
+:BOOK:   10
 :END:
-**** dynasty: 唐
-**** responsible: 長孫無忌
+**** responsible:
+***** 長孫無忌
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 奉敕撰
+      :DATES:    d. 659
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0055.org][ZB2m0055]] 大清律例
 :PROPERTIES:
 :CUSTOM_ID:  ZB2m0055
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆三十三年
-:RESP: 官
+:SOURCE:   四庫全書 文淵閣版, V672.2, p377 - V673.1
+:EXTENT: 47 卷
+:BOOK:   18
+:DATE:   乾隆三十三年
 :END:
-**** dynasty: 清乾隆三十三年
-**** responsible: 官
+**** responsible:
+***** 三泰
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
+***** 徐本
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕纂
+      :END:
+
+***** 劉統勳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 續纂
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2m0056.org][ZB2m0056]] 營造法式
