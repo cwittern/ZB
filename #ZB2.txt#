@@ -11210,130 +11210,209 @@
       :PROPERTIES:
       :DYNASTY:  清
       :FUNCTION: 撰
-      :DATES:    1613 - 1779
+      :DATES:    1613 - 1682
       :END:
 
-:DYNASTY: 清
-:RESP: 顧炎武
-:END:
-**** dynasty: 清
-**** responsible: 顧炎武
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0037.org][ZB2n0037]] 金石文字記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0037
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V683.11, p701
+:EXTENT: 6 卷
+:BOOK:   6
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0038.org][ZB2n0038]] 石經考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0038
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 顧炎武
+:SOURCE:   四庫全書 文淵閣版, V683.12, p833
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 顧炎武
+**** responsible:
+***** 顧炎武
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1613 - 1682
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0039.org][ZB2n0039]] 石經考
+*** [[mandoku:ZB2n0039.org][ZB2n0039]] 萬氏石經考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0039
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬斯同
+:SOURCE:   四庫全書 文淵閣版, V683.13, p853
+:EXTENT: 2 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 萬斯同
+**** responsible:
+***** 萬斯同
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1638 - 1702
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0040.org][ZB2n0040]] 來齋金石刻考畧
+*** [[mandoku:ZB2n0040.org][ZB2n0040]] 來齋金石刻考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0040
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 林侗
+:SOURCE:   四庫全書 文淵閣版, V684.1, p1
+:EXTENT: 3 卷
+:BOOK:   3
 :END:
-**** dynasty: 清
-**** responsible: 林侗
+**** responsible:
+***** 林侗
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1627 - 1714
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0041.org][ZB2n0041]] 崇陽石刻集記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0041
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 葉封
+:SOURCE:   四庫全書 文淵閣版, V684.2, p97
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 葉封
+**** responsible:
+***** 葉封
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1623 - 1687
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** (附)紀遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (2)
+      :END:
+
 *** [[mandoku:ZB2n0042.org][ZB2n0042]] 金石文考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0042
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 李光暎
+:SOURCE:   四庫全書 文淵閣版, V684.3, p169
+:EXTENT: 16 卷
+:BOOK:   10
 :END:
-**** dynasty: 清
-**** responsible: 李光暎
+**** responsible:
+***** 李光暎
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    fl. 1729
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0043.org][ZB2n0043]] 分隸偶存
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0043
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 萬經
+:SOURCE:   四庫全書 文淵閣版, V684.4, p447
+:EXTENT: 2 卷
+:BOOK:   2
 :END:
-**** dynasty: 清
-**** responsible: 萬經
+**** responsible:
+***** 萬經
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1659 - 1741
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2n0044.org][ZB2n0044]] 淳化祕閣帖考正
+*** [[mandoku:ZB2n0044.org][ZB2n0044]] 淳化祕閣法帖考正
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0044
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王澍
+:SOURCE:   四庫全書 文淵閣版, V684.5, p503
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 王澍
+**** responsible:
+***** 王澍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1743
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0045.org][ZB2n0045]] 竹雲題跋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0045
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 王澍
+:SOURCE:   四庫全書 文淵閣版, V684.6, p643
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 王澍
+**** responsible:
+***** 王澍
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1668 - 1743
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0046.org][ZB2n0046]] 金石經眼錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0046
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 褚峻
+:SOURCE:   四庫全書 文淵閣版, V684.7, p711
+:EXTENT: 1 卷
+:BOOK:   1
 :END:
-**** dynasty: 清
-**** responsible: 褚峻
+**** responsible:
+***** 褚峻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 摹圖
+      :DATES:    fl. 1694 - 1745
+      :END:
+
+***** 牛運震
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 補說
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2n0047.org][ZB2n0047]] 石經考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB2n0047
-:SOURCE:   四庫全書 文淵閣版
+:SOURCE:   四庫全書 文淵閣版, V684.7, p711
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 褚峻
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 摹圖
+      :DATES:    fl. 1694 - 1745
+      :END:
+
 :DYNASTY: 清
 :RESP: 杭世駿
 :END:
