@@ -11688,103 +11688,220 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0016.org][ZB2o0016]] 歷代通畧
+*** [[mandoku:ZB2o0016.org][ZB2o0016]] 歷代通略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0016
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 陳櫟
+:SOURCE:   四庫全書 文淵閣版, V688.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-**** dynasty: 元
-**** responsible: 陳櫟
+**** responsible:
+***** 陳櫟
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1252 - 1334
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0017.org][ZB2o0017]] 史纂通要
+**** (附)歷代通略蒙求
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (4)
+      :END:
+
+*** [[mandoku:ZB2o0017.org][ZB2o0017]] 十七史纂古今通要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0017
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 胡一桂
+:SOURCE:   四庫全書 文淵閣版, V688.2, p111
+:EXTENT: 17 卷
+:BOOK:   6
 :END:
-**** dynasty: 元
-**** responsible: 胡一桂
+**** responsible:
+***** 胡一桂
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0018.org][ZB2o0018]] 學史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0018
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 邵寶
+:SOURCE:   四庫全書 文淵閣版, V688.3, p337
+:EXTENT: 13 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 邵寶
+**** responsible:
+***** 邵寶
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1460 - 1527
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0019.org][ZB2o0019]] 史糾
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0019
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 朱明鎬
+:SOURCE:   四庫全書 文淵閣版, V688.4, p451
+:EXTENT: 6 卷
+:BOOK:   4
 :END:
-**** dynasty: 明
-**** responsible: 朱明鎬
+**** responsible:
+***** 朱明鎬
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1607 - 1652
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0020.org][ZB2o0020]] 御批資治通鑑綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0020
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 朱熹
+:SOURCE:   四庫全書 文淵閣版, V689.1, p1 - V691.1
+:EXTENT: 59 卷
+:BOOK:   66
 :END:
-**** dynasty: 宋
-**** responsible: 朱熹
+**** responsible:
+***** 朱熹
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1130 - 1200
+      :END:
+
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 批
+      :END:
+
 **** textual witnesses
 ***** WYG
+**** 卷首
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 2 卷
+      :BOOK:   (66)
+      :END:
+
 *** [[mandoku:ZB2o0021.org][ZB2o0021]] 御批資治通鑑綱目前編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0021
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 元
-:RESP: 金履祥
+:SOURCE:   四庫全書 文淵閣版, V692.1, p1
+:EXTENT: 18 卷
+:BOOK:   16
 :END:
-**** dynasty: 元
-**** responsible: 金履祥
+**** responsible:
+***** 金履祥
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1232 - 1303
+      :END:
+
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 批
+      :END:
+
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0021a.org][ZB2o0021a]] 御批資治通鑑綱目前編__舉要
-*** [[mandoku:ZB2o0022.org][ZB2o0022]] 御批資續治通鑑綱目
+**** 卷首:外紀
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (16)
+      :END:
+
+**** [[mandoku:ZB2o0021a.org][ZB2o0021a]] 舉要
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 3 卷
+      :BOOK:   (16)
+      :END:
+
+*** [[mandoku:ZB2o0022.org][ZB2o0022]] 御批續資治通鑑綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0022
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 明
-:RESP: 商輅
+:SOURCE:   四庫全書 文淵閣版, V693.1, p1 - V694.1
+:EXTENT: 27 卷
+:BOOK:   26
 :END:
-**** dynasty: 明
-**** responsible: 商輅
+**** responsible:
+***** 商輅
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    1414 - 1486
+      :END:
+
+***** 周禮
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 發明
+      :END:
+
+***** 張時泰
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 廣義
+      :END:
+
+***** 聖祖
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 批
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0023.org][ZB2o0023]] 評鑑闡要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0023
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清
-:RESP: 劉統勳
+:SOURCE:   四庫全書 文淵閣版, V694.2, p417
+:EXTENT: 12 卷
+:BOOK:   4
 :END:
-**** dynasty: 清
-**** responsible: 劉統勳
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1711 - 1799
+      :END:
+
+***** 劉統勳
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 編
+      :END:
+
 **** textual witnesses
 ***** WYG
 *** [[mandoku:ZB2o0024.org][ZB2o0024]] 欽定古今儲貳金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0024
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 清乾隆四十八年
-:RESP: 敕撰
+:SOURCE:   四庫全書 文淵閣版, V694.3, p583
+:EXTENT: 6 卷
+:BOOK:   2
+:DATE:   乾隆四十八年
 :END:
-**** dynasty: 清乾隆四十八年
-**** responsible: 敕撰
+**** responsible:
+***** 高宗弘曆
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 撰
+      :DATES:    1711 - 1799
+      :END:
+
 **** textual witnesses
 ***** WYG
