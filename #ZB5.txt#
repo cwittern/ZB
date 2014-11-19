@@ -4221,12 +4221,12 @@
 :XWDZ: XWDZ07p0856
 :HFL: HFL重下172
 :END:
- ** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
 
 [[dzimg:0132/0132-172.tif][HFL 0132 172]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
 *** [[mandoku:ZB5a0282.org][ZB5a0282]] 破迷正道歌(漢-鍾離權)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0282
@@ -4245,7 +4245,7 @@
 *** [[mandoku:ZB5a0283.org][ZB5a0283]] 太玄朗然子進道詩
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0283
-:TTC:  
+:TTC: 931
 :DZ: DZ0271
 :page: 040918b
 :ZHDZ: ZHDZ19p0262
@@ -4257,10 +4257,10 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0284.org][ZB5a0284]] 了明篇(元-王惟一)
+*** [[mandoku:ZB5a0284.org][ZB5a0284]] 了明篇 #(元-王惟一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0284
-:TTC:  
+:TTC: 806
 :DZ: DZ0272
 :page: 040921a
 :ZHDZ: ZHDZ19p0701
@@ -4275,7 +4275,7 @@
 *** [[mandoku:ZB5a0285.org][ZB5a0285]] 明道篇(元-王惟一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0285
-:TTC:  
+:TTC: 835
 :DZ: DZ0273
 :page: 040926b
 :ZHDZ: ZHDZ31p0358
@@ -4287,10 +4287,10 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0286.org][ZB5a0286]] 真仙秘傳火候法(宋-王慶升)
+*** [[mandoku:ZB5a0286.org][ZB5a0286]] 真仙祕傳火候法(宋-王慶升)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0286
-:TTC:  
+:TTC: 807 - 808
 :DZ: DZ0274
 :page: 040932c
 :ZHDZ: ZHDZ19p0666
@@ -4305,7 +4305,7 @@
 *** [[mandoku:ZB5a0287.org][ZB5a0287]] 三極至命筌諦
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0287
-:TTC:  
+:TTC: 831
 :DZ: DZ0275
 :page: 040935c
 :ZHDZ: ZHDZ19p0604
@@ -4320,7 +4320,7 @@
 *** [[mandoku:ZB5a0288.org][ZB5a0288]] 析疑指迷論(元-牛道淳)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0288
-:TTC:  
+:TTC: 1178 - 1179
 :DZ: DZ0276
 :page: 040947b
 :ZHDZ: ZHDZ27p0256
@@ -4335,7 +4335,7 @@
 *** [[mandoku:ZB5a0289.org][ZB5a0289]] 修真精義雜論(唐-白雲子)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0289
-:TTC:  
+:TTC: 368
 :DZ: DZ0277
 :page: 040953b
 :ZHDZ: ZHDZ23p0168
@@ -4350,7 +4350,7 @@
 *** [[mandoku:ZB5a0290.org][ZB5a0290]] 清微丹訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0290
-:TTC:  
+:TTC: 1104
 :DZ: DZ0278
 :page: 040961c
 :ZHDZ: ZHDZ31p0007
@@ -4365,7 +4365,7 @@
 *** [[mandoku:ZB5a0291.org][ZB5a0291]] 先天金丹大道玄奧口訣(宋-霍濟之)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0291
-:TTC:  
+:TTC: 848 - 849
 :DZ: DZ0279
 :page: 040965a
 :ZHDZ: ZHDZ19p0692
@@ -4380,7 +4380,7 @@
 *** [[mandoku:ZB5a0292.org][ZB5a0292]] 金液大丹口訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0292
-:TTC:  
+:TTC: 835
 :DZ: DZ0280
 :page: 040969c
 :ZHDZ: ZHDZ19p0697
