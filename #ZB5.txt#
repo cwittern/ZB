@@ -15767,7 +15767,7 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 *** [[mandoku:ZB5d0025.org][ZB5d0025]] 周易參同契註(五)(儲華谷)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0025
-:TTC: 
+:TTC: 704
 :DZ: DZ1008
 :page: 200297c
 :ZHDZ: ZHDZ16p0153
@@ -15782,7 +15782,7 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 *** [[mandoku:ZB5d0026.org][ZB5d0026]] 易外別傳(宋-俞琰)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0026
-:TTC:  
+:TTC: 764
 :DZ: DZ1009
 :page: 200312b
 :ZHDZ: ZHDZ16p0610
@@ -15797,7 +15797,7 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 *** [[mandoku:ZB5d0027.org][ZB5d0027]] 玄牝之門賦
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0027
-:TTC:  
+:TTC: 764 - 765
 :DZ: DZ1010
 :page: 200320c
 :ZHDZ: ZHDZ00p0000
@@ -15812,7 +15812,7 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 *** [[mandoku:ZB5d0028.org][ZB5d0028]] 易筮通變(元-雷思齊)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0028
-:TTC:  
+:TTC: 749 - 750
 :DZ: DZ1011
 :page: 200322a
 :ZHDZ: ZHDZ16p0620
@@ -15824,13 +15824,21 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0029.org][ZB5d0029]] 空山先生易圖通變
+# *** [[mandoku:ZB5d0029.org][ZB5d0029]] 空山先生易圖通變
+:PROPERTIES:
+:TTC: 750
+:DZ: DZ1012
+:END:
 PROPERROR xx DZ1012 xx x 空山先生易圖通變
 [[dzimg:0630/0630-082.tif][HFL 0630 082]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0030.org][ZB5d0030]] 河圖
+# *** [[mandoku:ZB5d0030.org][ZB5d0030]] 河圖
+:PROPERTIES:
+:TTC: 751
+:DZ: DZ1013
+:END:
 PROPERROR xx DZ1013 xx x 河圖
 [[dzimg:0630/0630-090.tif][HFL 0630 090]] 
 **** textual witnesses
@@ -15839,7 +15847,7 @@ PROPERROR xx DZ1013 xx x 河圖
 *** [[mandoku:ZB5d0031.org][ZB5d0031]] 易圖通變(元-雷思齊)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0031
-:TTC:  
+:TTC: 
 :DZ: DZ1014
 :page: 200335a
 :ZHDZ: ZHDZ16p0635
