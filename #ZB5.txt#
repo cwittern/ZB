@@ -15047,6 +15047,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 ***** ZHDZ
 # *** [[mandoku:ZB5c0350.org][ZB5c0350]] 御制真武廟碑
 :PROPERTIES:
+:CUSTOM_ID: ZB5c0350
 :TTC: 1203
 :DZ: DZ0960
 :END:
@@ -15826,6 +15827,7 @@ PROPERROR xx DZ0960 KX0985 xx 禦制真武廟碑
 ***** ZHDZ
 # *** [[mandoku:ZB5d0029.org][ZB5d0029]] 空山先生易圖通變
 :PROPERTIES:
+:CUSTOM_ID: ZB5d0029
 :TTC: 750
 :DZ: DZ1012
 :END:
@@ -16446,7 +16448,7 @@ PROPERROR xx DZ1013 xx x 河圖
 *** [[mandoku:ZB5d0071.org][ZB5d0071]] 吳尊師傳
 :PROPERTIES:
 :TTC: 313 - 314
-:DZ: DZ1054
+:DZ: DZ1053
 :END:
 PROPERROR xx DZ1053 xx xx 吳尊師傳
 [[dzimg:0727/0727-086.tif][HFL 0727 086]] 
@@ -16543,10 +16545,10 @@ PROPERROR xx DZ1053 xx xx 吳尊師傳
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0078.org][ZB5d0078]] 清庵瑩蟾子語錄(元-李道純)
+*** [[mandoku:ZB5d0078.org][ZB5d0078]] 清庵瑩蟾子語錄 #(元-李道純)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0078
-:TTC:  
+:TTC: 1146
 :DZ: DZ1060
 :page: 230733a
 :ZHDZ: ZHDZ27p0318
@@ -16561,7 +16563,7 @@ PROPERROR xx DZ1053 xx xx 吳尊師傳
 *** [[mandoku:ZB5d0079.org][ZB5d0079]] 上清太玄集(金-侯善淵)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0079
-:TTC:  
+:TTC: 933
 :DZ: DZ1061
 :page: 230762c
 :ZHDZ: ZHDZ27p0172
@@ -16573,7 +16575,12 @@ PROPERROR xx DZ1053 xx xx 吳尊師傳
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0080.org][ZB5d0080]] 
+*** [[mandoku:ZB5d0080.org][ZB5d0080]] 進洞天海嶽表
+:PROPERTIES:
+:CUSTOM_ID: ZB5d0080
+:TTC: 883 - 884
+:DZ: DZ1062
+:END:
 PROPERROR xx DZ1062 xx 進洞天海嶽表 
 [[dzimg:014/014-.tif][HFL 014 ]] 
 **** textual witnesses
@@ -16582,7 +16589,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 *** [[mandoku:ZB5d0081.org][ZB5d0081]] 洞淵集(宋-李思聰)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0081
-:TTC:  
+:TTC: 
 :DZ: DZ1063
 :page: 230835c
 :ZHDZ: ZHDZ48p0086
