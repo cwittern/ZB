@@ -238,9 +238,19 @@
 :END:
 
 [[dzimg:0024/0024-150.tif][HFL 0024 150]] 
+**** responsible:
+***** 劉處源
+      :PROPERTIES:
+      :DATES: fl. 1344
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+**** 傳經源流
+      :PROPERTIES:
+      :TYPE:   appendix
+      :END:
+
 *** [[mandoku:ZB5a0013.org][ZB5a0013]] 高上玉皇心印經
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0013
@@ -340,6 +350,7 @@
 :ZHDZ: ZHDZ06p0069
 :XWDZ: XWDZ02p0340
 :HFL: HFL盈下144
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0025/0025-144.tif][HFL 0025 144]] 
@@ -370,6 +381,7 @@
 :ZHDZ: ZHDZ06p0219
 :XWDZ: XWDZ02p0342
 :HFL: HFL盈下150
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0025/0025-150.tif][HFL 0025 150]] 
@@ -385,6 +397,7 @@
 :ZHDZ: ZHDZ03p0001
 :XWDZ: XWDZ02p0343
 :HFL: HFL昃上004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0026/0026-004.tif][HFL 0026 004]] 
@@ -400,6 +413,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ02p0382
 :HFL: HFL昃上156
+:DATE: ca. 400
 :END:
 
 [[dzimg:0026/0026-156.tif][HFL 0026 156]] 
