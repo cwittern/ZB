@@ -665,6 +665,7 @@
 :ZHDZ: ZHDZ04p0005
 :XWDZ: XWDZ02p0472
 :HFL: HFL辰上124
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0028/0028-124.tif][HFL 0028 124]] 
@@ -680,6 +681,7 @@
 :ZHDZ: ZHDZ04p0006
 :XWDZ: XWDZ02p0477
 :HFL: HFL辰上144
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0028/0028-144.tif][HFL 0028 144]] 
@@ -695,6 +697,7 @@
 :ZHDZ: ZHDZ19p0656
 :XWDZ: XWDZ02p0479
 :HFL: HFL辰下004
+:DATE: 1261(刊記)
 :END:
 
 [[dzimg:0029/0029-004.tif][HFL 0029 004]]
@@ -702,8 +705,11 @@
 ***** 劉元瑞
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: revealed
+      :END:
+***** 董正觀
+      :PROPERTIES:
+      :FUNCTION: 刊記
       :END:
 **** textual witnesses
 ***** SJB
@@ -717,6 +723,7 @@
 :ZHDZ: ZHDZ06p0769
 :XWDZ: XWDZ02p0490
 :HFL: HFL辰下047
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0029/0029-047.tif][HFL 0029 047]] 
@@ -792,6 +799,7 @@
 :ZHDZ: ZHDZ06p0202
 :XWDZ: XWDZ02p0501
 :HFL: HFL辰下088
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0029/0029-088.tif][HFL 0029 088]] 
@@ -807,6 +815,7 @@
 :ZHDZ: ZHDZ06p0203
 :XWDZ: XWDZ02p0501
 :HFL: HFL辰下090
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0029/0029-090.tif][HFL 0029 090]] 
