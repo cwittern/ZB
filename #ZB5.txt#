@@ -90,6 +90,7 @@
 :END:
 
 [[dzimg:0016/0016-004.tif][HFL 0016 004]] 
+**** responsible:
 ***** 文昌帝君
       :PROPERTIES:
       :END:
@@ -105,18 +106,29 @@
 :ZHDZ: ZHDZ01p0001
 :XWDZ: XWDZ01p0786
 :HFL: HFL荒上102
+:DATE: 1272(刊記)
 :END:
 
 [[dzimg:0016/0016-102.tif][HFL 0016 102]] 
+**** responsible:
 ***** 朱自英
       :PROPERTIES:
-      :DATE:     974 - 1029
+      :DATES:    974 - 1029
       :FUNCTION: 序
       :END:
-***** 朱自英
+***** 蔣宗瑛
       :PROPERTIES:
-      :DATE:     974 - 1029
-      :FUNCTION: 序
+      :DATES:    d. 1281
+      :FUNCTION: 編
+      :END:
+***** 程公端
+      :PROPERTIES:
+      :FUNCTION: 刊記
+      :END:
+***** 張宇初
+      :PROPERTIES:
+      :DATES:    1361 - 1410
+      :FUNCTION: 刊記
       :END:
 
 **** textual witnesses
@@ -134,6 +146,13 @@
 :END:
 
 [[dzimg:0018/0018-004.tif][HFL 0018 004]] 
+**** responsible:
+***** 李嘉謀
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 註
+      :DATES:    進士 1166
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
