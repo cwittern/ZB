@@ -113,13 +113,13 @@
 **** responsible:
 ***** 朱自英
       :PROPERTIES:
-      :DATES:    974 - 1029
       :FUNCTION: 序
+      :DATES:    974 - 1029
       :END:
 ***** 蔣宗瑛
       :PROPERTIES:
-      :DATES:    d. 1281
       :FUNCTION: 編
+      :DATES:    d. 1281
       :END:
 ***** 程公端
       :PROPERTIES:
@@ -127,8 +127,8 @@
       :END:
 ***** 張宇初
       :PROPERTIES:
-      :DATES:    1361 - 1410
       :FUNCTION: 刊記
+      :DATES:    1361 - 1410
       :END:
 
 **** textual witnesses
@@ -241,7 +241,8 @@
 **** responsible:
 ***** 劉處源
       :PROPERTIES:
-      :DATES: fl. 1344
+      :FUNCTION: 伝
+      :DATES:    fl. 1344
       :END:
 **** textual witnesses
 ***** SJB
@@ -561,7 +562,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0033.org][ZB5a0033]] 上清黃氣陽精三道願行經(藏月隱日經)
+*** [[mandoku:ZB5a0033.org][ZB5a0033]] 上清黃氣陽精三道順行經(藏月隱日經)
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0033
 :TTC: 148 - 149
@@ -570,6 +571,7 @@
 :ZHDZ: ZHDZ01p0267
 :XWDZ: XWDZ02p0420
 :HFL: HFL昃下102
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0027/0027-102.tif][HFL 0027 102]] 
@@ -600,6 +602,7 @@
 :ZHDZ: ZHDZ06p0083
 :XWDZ: XWDZ02p0439
 :HFL: HFL昃下168
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0027/0027-168.tif][HFL 0027 168]] 
@@ -615,6 +618,7 @@
 :ZHDZ: ZHDZ03p0785
 :XWDZ: XWDZ02p0441
 :HFL: HFL辰上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0028/0028-004.tif][HFL 0028 004]] 
@@ -630,6 +634,7 @@
 :ZHDZ: ZHDZ04p0048
 :XWDZ: XWDZ02p0457
 :HFL: HFL辰上066
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0028/0028-066.tif][HFL 0028 066]] 
