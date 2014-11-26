@@ -1191,15 +1191,19 @@
       :FUNCTION: 撰
       :END:
 
-# *** [[mandoku:ZB2a0039.org][ZB2a0039]] 清史稿
+*** [[mandoku:ZB2a0039.org][ZB2a0039]] 清史稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB2a0039
-:SOURCE:   四庫全書 文淵閣版
 :DYNASTY: 民國
 :RESP: 趙爾巽 等
 :END:
 **** dynasty: 民國
-**** responsible: 趙爾巽 等
+**** responsible:
+***** 趙爾巽 等
+:PROPERTIES:
+:FUNCTION: 巽
+:DYNASTY: 民國
+:END:
 **** textual witnesses
 ***** WYG
 ** ZB2b 編年類
