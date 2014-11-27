@@ -1782,15 +1782,16 @@
 :ZHDZ: ZHDZ06p0454
 :XWDZ: XWDZ03p0631
 :HFL: HFL冬上004
+:DATE: 1309
 :END:
 
 [[dzimg:0051/0051-004.tif][HFL 0051 004]]
 **** responsible:
 ***** 衛琪
       :PROPERTIES:
+      :HAO:      中陽子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -1811,8 +1812,7 @@
 ***** 陳景元
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1025 - 1094
       :END:
 **** textual witnesses
 ***** SJB
@@ -1833,13 +1833,13 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    d. 1306
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0107.org][ZB5a0107]] 太上赤文洞古經註(長詮子)
+*** [[mandoku:ZB5a0107.org][ZB5a0107]] 太上赤文洞古經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0107
 :TTC: 711
@@ -1851,6 +1851,12 @@
 :END:
 
 [[dzimg:0054/0054-044.tif][HFL 0054 044]] 
+**** responsible:
+***** 長筌子
+      :PROPERTIES:
+      :FUNCTION: 注
+      :DATES:    13th century
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -1892,8 +1898,7 @@
 ***** 李筌
       :PROPERTIES:
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 713 - 741
       :END:
 **** textual witnesses
 ***** SJB
@@ -1913,6 +1918,7 @@
 **** responsible:
 ***** 夏元鼎
       :PROPERTIES:
+
       :DYNASTY:  宋
       :FUNCTION: ?
       :DATES:    ?
