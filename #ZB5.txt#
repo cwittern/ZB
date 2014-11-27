@@ -1469,7 +1469,7 @@
       :END:
 ***** 郭罔鳳
       :PROPERTIES:
-      :FUNCTION:註編
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -1490,8 +1490,7 @@
 ***** 張宇初
       :PROPERTIES:
       :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1361 - 1410
       :END:
 **** textual witnesses
 ***** SJB
@@ -1505,6 +1504,7 @@
 :ZHDZ: ZHDZ03p0549
 :XWDZ: XWDZ03p0225
 :HFL: HFL暑上004
+:DATE: 1226
 :END:
 
 [[dzimg:0043/0043-004.tif][HFL 0043 004]]
@@ -1512,8 +1512,6 @@
 ***** 蕭應叟
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
