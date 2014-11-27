@@ -2422,6 +2422,7 @@
 :ZHDZ: ZHDZ19p0174
 :XWDZ: XWDZ04p0221
 :HFL: HFL成上142
+:DATES: 907 - 960 or earlier(詩)
 :END:
 
 [[dzimg:0059/0059-142.tif][HFL 0059 142]]
@@ -2429,8 +2430,8 @@
 ***** 陳摶
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    d. 989
       :END:
 **** textual witnesses
 ***** SJB
@@ -2444,15 +2445,15 @@
 :ZHDZ: ZHDZ27p0730
 :XWDZ: XWDZ04p0227
 :HFL: HFL成下004
+:DATE: ca. 1331
 :END:
 
 [[dzimg:0060/0060-004.tif][HFL 0060 004]]
 **** responsible:
-***** 混然子
+***** 王玠
       :PROPERTIES:
+      :HAO:      混然子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2470,7 +2471,7 @@
 
 [[dzimg:0060/0060-040.tif][HFL 0060 040]]
 **** responsible:
-***** 全陽子
+***** 俞琰全陽子
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: ?
