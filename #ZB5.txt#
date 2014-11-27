@@ -1446,7 +1446,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0088.org][ZB5a0088]] 元始無量度人上品妙經註(青元真人)
+*** [[mandoku:ZB5a0088.org][ZB5a0088]] 元始無量度人上品妙經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0088
 :TTC: 713 - 714
@@ -1581,7 +1581,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0094.org][ZB5a0094]] 太上洞玄靈寶無量度人上品妙經法(陳椿榮)
+*** [[mandoku:ZB5a0094.org][ZB5a0094]] 太上洞玄靈寶無量度人上品妙經法
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0094
 :TTC: 721 - 722
@@ -1724,9 +1724,10 @@
 **** responsible:
 ***** 王玠
       :PROPERTIES:
+      :ZI:       道淵
+      :HAO:      混然子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1279 - 1368
       :END:
 **** textual witnesses
 ***** SJB
@@ -1747,13 +1748,12 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 1306
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0103.org][ZB5a0103]] 元始天尊說太古經註(長詮子)
+*** [[mandoku:ZB5a0103.org][ZB5a0103]] 元始天尊說太古經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0103
 :TTC: 710 - 711
@@ -1765,6 +1765,11 @@
 :END:
 
 [[dzimg:0050/0050-182.tif][HFL 0050 182]] 
+**** responsible:
+***** 長筌子
+      :PROPERTIES:
+      :DATES:    13th century
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
