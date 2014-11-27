@@ -241,7 +241,7 @@
 **** responsible:
 ***** 劉處源
       :PROPERTIES:
-      :FUNCTION: 伝
+      :FUNCTION: 傳
       :DATES:    fl. 1344
       :END:
 **** textual witnesses
@@ -2555,7 +2555,7 @@
 **** responsible:
 ***** 陶弘景
      :PROPERTIES:
-     :DATES:      456 - 536
+     :DATES:    456 - 536
      :END:
 **** textual witnesses
 ***** SJB
@@ -2569,9 +2569,35 @@
 :ZHDZ: ZHDZ19p0289
 :XWDZ: XWDZ04p0273
 :HFL: HFL律上004
+:DATE: 1173(注)
+:DATE: 1174(傳)
+:DATE: ca. 1337(編)
 :END:
 
 [[dzimg:0061/0061-004.tif][HFL 0061 004]] 
+**** responsible:
+***** 張伯端
+     :PROPERTIES:
+     :DATES:    984 - 1028
+     :END:
+***** 翁葆光
+     :PROPERTIES:
+     :ZI:       淵明
+     :HAO:      無名子
+     :HAO:      象川翁
+     :FUNCTION: 注
+     :END:
+***** 陳達靈
+     :PROPERTIES:
+     :HAO:      紫陽翁
+     :FUNCTION: 傳
+     :END:
+***** 戴起宗
+     :PROPERTIES:
+     :ZI:       同甫
+     :HAO:      空玄子
+     :FUNCTION: 編
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
