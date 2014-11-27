@@ -2265,7 +2265,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0127.org][ZB5a0127]] 黃帝陰符經夾頌解註(元王玠)
+*** [[mandoku:ZB5a0127.org][ZB5a0127]] 黃帝陰符經夾頌解註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0127
 :TTC: 699 - 700
@@ -2277,6 +2277,13 @@
 :END:
 
 [[dzimg:0058/0058-070.tif][HFL 0058 070]] 
+**** responsible:
+***** 王玠
+      :PROPERTIES:
+      :HAO:      混然子
+      :DYNASTY:  元
+      :DATES:    fl. 1331
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2296,8 +2303,7 @@
 ***** 袁淑真
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    11th cent?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2311,13 +2317,14 @@
 :ZHDZ: ZHDZ02p0711
 :XWDZ: XWDZ04p0185
 :HFL: HFL成上004
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0059/0059-004.tif][HFL 0059 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0130.org][ZB5a0130]] 大霄琅書瓊文帝章訣
+*** [[mandoku:ZB5a0130.org][ZB5a0130]] 太霄琅書瓊文帝章訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0130
 :TTC: 180
@@ -2326,13 +2333,14 @@
 :ZHDZ: ZHDZ01p0703
 :XWDZ: XWDZ04p0201
 :HFL: HFL成上066
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0059/0059-066.tif][HFL 0059 066]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0131.org][ZB5a0131]] 胎息經註(幻真先生)
+*** [[mandoku:ZB5a0131.org][ZB5a0131]] 胎息經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0131
 :TTC: 366 - 367
@@ -2344,6 +2352,12 @@
 :END:
 
 [[dzimg:0059/0059-086.tif][HFL 0059 086]] 
+**** responsible:
+***** 幻真先生
+      :PROPERTIES:
+      :FUNCTION: 注
+      :DATES:    late 9th cent?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2356,6 +2370,7 @@
 :ZHDZ: ZHDZ23p0188
 :XWDZ: XWDZ04p0208
 :HFL: HFL成上092
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0059/0059-092.tif][HFL 0059 092]] 
