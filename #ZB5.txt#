@@ -2642,19 +2642,16 @@
      :TYPE:   appendix
      :END:
 ***** responsible:
-****** 陳致虛
+****** 陸思誠
       :PROPERTIES:
-      :ZI:       觀吾
-      :HAO:      上陽子
-      :FUNCTION: 注
-      :DATES:    fl. 1331
-     :END:
-***** 陸墅
-     :PROPERTIES:
-     :ZI:       子野
-     :FUNCTION: 注
-     :DATES:    fl. 13th cent?
-     :END:
+      :ZI:       彥孚
+      :DATES:    before 1173
+      :END:
+****** 張士弘
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    fl. 14th cent
+      :END:
 
 *** [[mandoku:ZB5a0144.org][ZB5a0144]] 紫陽真人悟真直指詳說三乘祕要
 :PROPERTIES:
@@ -2669,7 +2666,7 @@
 
 [[dzimg:0064/0064-118.tif][HFL 0064 118]]
 **** responsible:
-***** 翁葆光
+***** 翁葆光#
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: ?
@@ -2678,7 +2675,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0145.org][ZB5a0145]] 紫陽真人悟真篇拾遺 #(宋-翁葆光)
+*** [[mandoku:ZB5a0145.org][ZB5a0145]] 紫陽真人悟真篇拾遺
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0145
 :TTC: 818
@@ -2690,6 +2687,11 @@
 :END:
 
 [[dzimg:0064/0064-182.tif][HFL 0064 182]] 
+**** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :DATES:    984 - 1082
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2706,11 +2708,17 @@
 
 [[dzimg:0065/0065-004.tif][HFL 0065 004]]
 **** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :DATES:    984 - 1082
+      :END:
 ***** 翁葆光
       :PROPERTIES:
+      :ZI:       淵明
+      :HAO:      無明子
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    fl. 1173
       :END:
 **** textual witnesses
 ***** SJB
