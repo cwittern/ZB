@@ -461,7 +461,7 @@
 :ZHDZ: ZHDZ06p0211
 :XWDZ: XWDZ02p0397
 :HFL: HFL昃下016
-:DATE: 14th century?
+:DATE: 14th cent?
 :END:
 
 [[dzimg:0027/0027-016.tif][HFL 0027 016]] 
@@ -493,7 +493,7 @@
 :ZHDZ: ZHDZ06p0571
 :XWDZ: XWDZ02p0408
 :HFL: HFL昃下058
-:DATE: 13th century?
+:DATE: 13th cent?
 :END:
 
 [[dzimg:0027/0027-058.tif][HFL 0027 058]] 
@@ -540,7 +540,7 @@
 :ZHDZ: ZHDZ15p0695
 :XWDZ: XWDZ02p0418
 :HFL: HFL昃下096
-:DATE: 8th century?
+:DATE: 8th cent?
 :END:
 
 [[dzimg:0027/0027-096.tif][HFL 0027 096]] 
@@ -990,7 +990,7 @@
 :ZHDZ: ZHDZ05p0269
 :XWDZ: XWDZ02p0567
 :HFL: HFL宿中026
-:DATES: early 7th century
+:DATES: early 7th cent
 :END:
 
 [[dzimg:0031/0031-026.tif][HFL 0031 026]] 
@@ -1768,7 +1768,7 @@
 **** responsible:
 ***** 長筌子
       :PROPERTIES:
-      :DATES:    13th century
+      :DATES:    13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -1855,7 +1855,7 @@
 ***** 長筌子
       :PROPERTIES:
       :FUNCTION: 注
-      :DATES:    13th century
+      :DATES:    13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -1912,16 +1912,16 @@
 :ZHDZ: ZHDZ15p0762
 :XWDZ: XWDZ03p0824
 :HFL: HFL藏上098
+:DATE: 1227
 :END:
 
 [[dzimg:0054/0054-098.tif][HFL 0054 098]]
 **** responsible:
 ***** 夏元鼎
       :PROPERTIES:
-
+      :ZI:       宗禹
+      :HAO:      雲峰散人
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -1936,15 +1936,16 @@
 :ZHDZ: ZHDZ15p0751
 :XWDZ: XWDZ04p0001
 :HFL: HFL閨上010
+:DATES: 11th cent?
 :END:
 
 [[dzimg:0055/0055-010.tif][HFL 0055 010]]
 **** responsible:
 ***** 李筌
       :PROPERTIES:
+      :HAO:      達觀子
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 713 - 741
       :END:
 **** textual witnesses
 ***** SJB
@@ -1962,11 +1963,11 @@
 
 [[dzimg:0055/0055-066.tif][HFL 0055 066]]
 **** responsible:
-***** 
+***** 曹希蘊
       :PROPERTIES:
+      :ZI:       道沖
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    11th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -1987,8 +1988,7 @@
 ***** 張果
       :PROPERTIES:
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    first half of the 8th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -2008,14 +2008,14 @@
 **** responsible:
 ***** 蹇昌辰
       :PROPERTIES:
+      :HAO:      保寧大師
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    11th cent
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0115.org][ZB5a0115]] 黃帝陰符經註解(任照一)
+*** [[mandoku:ZB5a0115.org][ZB5a0115]] 黃帝陰符經註解
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0115
 :TTC: 694
@@ -2024,9 +2024,14 @@
 :ZHDZ: ZHDZ15p0734
 :XWDZ: XWDZ04p0047
 :HFL: HFL閨下004
+:DYNAS
 :END:
 
 [[dzimg:0056/0056-004.tif][HFL 0056 004]] 
+**** responsible:
+***** 任照一
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
