@@ -2077,7 +2077,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0118.org][ZB5a0118]] 黃帝陰符經註(蔡)
+*** [[mandoku:ZB5a0118.org][ZB5a0118]] 黃帝陰符經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0118
 :TTC: 695
@@ -2089,6 +2089,11 @@
 :END:
 
 [[dzimg:0056/0056-084.tif][HFL 0056 084]] 
+**** responsible:
+***** 蔡氏
+      :PROPERTIES:
+      :DATES:    12th cent
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2108,8 +2113,7 @@
 ***** 蕭真宰
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    12th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -2123,6 +2127,7 @@
 :ZHDZ: ZHDZ15p0791
 :XWDZ: XWDZ04p0085
 :HFL: HFL餘上004
+:DATES: 11th or 12th cent?
 :END:
 
 [[dzimg:0057/0057-004.tif][HFL 0057 004]] 
@@ -2144,9 +2149,9 @@
 **** responsible:
 ***** 胥元一
       :PROPERTIES:
+      :HAO:      六虛散人
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1291
       :END:
 **** textual witnesses
 ***** SJB
@@ -2160,15 +2165,15 @@
 :ZHDZ: ZHDZ15p0820
 :XWDZ: XWDZ04p0115
 :HFL: HFL餘上120
+:DATE: 1229(序)
 :END:
 
 [[dzimg:0057/0057-120.tif][HFL 0057 120]]
 **** responsible:
 ***** 唐淳
       :PROPERTIES:
+      :HAO:      金陵道人
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2182,15 +2187,15 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ04p0128
 :HFL: HFL餘上170
+:DATE: 1191(序)
 :END:
 
 [[dzimg:0057/0057-170.tif][HFL 0057 170]]
 **** responsible:
 ***** 劉處玄
       :PROPERTIES:
+      :HAO:      長生子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2210,9 +2215,8 @@
 **** responsible:
 ***** 侯善淵
       :PROPERTIES:
+      :HAO:      太玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
