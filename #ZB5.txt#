@@ -2024,7 +2024,7 @@
 :ZHDZ: ZHDZ15p0734
 :XWDZ: XWDZ04p0047
 :HFL: HFL閨下004
-:DYNAS
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0056/0056-004.tif][HFL 0056 004]] 
@@ -2035,7 +2035,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0116.org][ZB5a0116]] 黃帝陰符經註(黃居真)
+*** [[mandoku:ZB5a0116.org][ZB5a0116]] 黃帝陰符經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0116
 :TTC: 694
@@ -2044,9 +2044,15 @@
 :ZHDZ: ZHDZ15p0706
 :XWDZ: XWDZ04p0058
 :HFL: HFL閨下048
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0056/0056-048.tif][HFL 0056 048]] 
+**** responsible:
+***** 黃居真
+      :PROPERTIES:
+      :HAO:      虛靖大師
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2066,13 +2072,12 @@
 ***** 沈亞夫
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    11th or early 12th cent?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0118.org][ZB5a0118]] 黃帝陰符經註(蔡)
+*** [[mandoku:ZB5a0118.org][ZB5a0118]] 黃帝陰符經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0118
 :TTC: 695
@@ -2084,6 +2089,11 @@
 :END:
 
 [[dzimg:0056/0056-084.tif][HFL 0056 084]] 
+**** responsible:
+***** 蔡氏
+      :PROPERTIES:
+      :DATES:    12th cent
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2103,8 +2113,7 @@
 ***** 蕭真宰
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    12th cent
       :END:
 **** textual witnesses
 ***** SJB
