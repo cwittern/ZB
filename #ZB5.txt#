@@ -2486,7 +2486,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0138.org][ZB5a0138]] 青天歌註釋 #(元-混然子)
+*** [[mandoku:ZB5a0138.org][ZB5a0138]] 青天歌註釋
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0138
 :TTC: 1174
@@ -2498,6 +2498,13 @@
 :END:
 
 [[dzimg:0060/0060-062.tif][HFL 0060 062]] 
+**** responsible:
+***** 王玠
+      :PROPERTIES:
+      :HAO:      混然子
+      :DYNASTY:  元
+      :DATES:    fl. 1331 - 1380
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2510,6 +2517,7 @@
 :ZHDZ: ZHDZ19p0178
 :XWDZ: XWDZ04p0248
 :HFL: HFL成下080
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0060/0060-080.tif][HFL 0060 080]] 
@@ -2525,6 +2533,7 @@
 :ZHDZ: ZHDZ19p0152
 :XWDZ: XWDZ04p0251
 :HFL: HFL成下092
+:DYNASTY: late Song or early Yuan 
 :END:
 
 [[dzimg:0060/0060-092.tif][HFL 0060 092]] 
@@ -2543,6 +2552,11 @@
 :END:
 
 [[dzimg:0060/0060-100.tif][HFL 0060 100]] 
+**** responsible:
+***** 陶弘景
+     :PROPERTIES:
+     :DATES:      456 - 536
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
