@@ -1532,8 +1532,6 @@
 ***** 林元鼎
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -1547,6 +1545,7 @@
 :ZHDZ: ZHDZ03p0615
 :XWDZ: XWDZ03p0315
 :HFL: HFL往上004
+:DATE: 1336(序)
 :END:
 
 [[dzimg:0045/0045-004.tif][HFL 0045 004]]
@@ -1554,8 +1553,8 @@
 ***** 陳致虛
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       觀吾
+      :HAO:      上陽子
       :END:
 **** textual witnesses
 ***** SJB
