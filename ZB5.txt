@@ -241,7 +241,7 @@
 **** responsible:
 ***** 劉處源
       :PROPERTIES:
-      :FUNCTION: 伝
+      :FUNCTION: 傳
       :DATES:    fl. 1344
       :END:
 **** textual witnesses
@@ -1366,7 +1366,7 @@
 
 [[dzimg:0037/0037-014.tif][HFL 0037 014]]
 **** responsible:
-***** 李道純
+***** 李道純#
       :PROPERTIES:
       :DYNASTY:  元
       :FUNCTION: ?
@@ -1529,7 +1529,7 @@
 
 [[dzimg:0043/0043-140.tif][HFL 0043 140]]
 **** responsible:
-***** 林元鼎
+***** 林元鼎#
       :PROPERTIES:
       :DYNASTY:  宋
       :END:
@@ -2230,6 +2230,7 @@
 :ZHDZ: ZHDZ15p0777
 :XWDZ: XWDZ04p0142
 :HFL: HFL餘下022
+:DATE: ca. 1305
 :END:
 
 [[dzimg:0058/0058-022.tif][HFL 0058 022]]
@@ -2237,8 +2238,6 @@
 ***** 鄒訢
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2252,20 +2251,21 @@
 :ZHDZ: ZHDZ15p0832
 :XWDZ: XWDZ04p0147
 :HFL: HFL餘下044
+:DATE: 1348(序)
 :END:
 
 [[dzimg:0058/0058-044.tif][HFL 0058 044]]
 **** responsible:
 ***** 俞琰
       :PROPERTIES:
+      :HAO:      林屋山人
+      :HAO:      玉吾叟
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0127.org][ZB5a0127]] 黃帝陰符經夾頌解註(元王玠)
+*** [[mandoku:ZB5a0127.org][ZB5a0127]] 黃帝陰符經夾頌解註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0127
 :TTC: 699 - 700
@@ -2277,6 +2277,13 @@
 :END:
 
 [[dzimg:0058/0058-070.tif][HFL 0058 070]] 
+**** responsible:
+***** 王玠
+      :PROPERTIES:
+      :HAO:      混然子
+      :DYNASTY:  元
+      :DATES:    fl. 1331
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2296,8 +2303,7 @@
 ***** 袁淑真
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    11th cent?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2311,13 +2317,14 @@
 :ZHDZ: ZHDZ02p0711
 :XWDZ: XWDZ04p0185
 :HFL: HFL成上004
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0059/0059-004.tif][HFL 0059 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0130.org][ZB5a0130]] 大霄琅書瓊文帝章訣
+*** [[mandoku:ZB5a0130.org][ZB5a0130]] 太霄琅書瓊文帝章訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0130
 :TTC: 180
@@ -2326,13 +2333,14 @@
 :ZHDZ: ZHDZ01p0703
 :XWDZ: XWDZ04p0201
 :HFL: HFL成上066
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0059/0059-066.tif][HFL 0059 066]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0131.org][ZB5a0131]] 胎息經註(幻真先生)
+*** [[mandoku:ZB5a0131.org][ZB5a0131]] 胎息經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0131
 :TTC: 366 - 367
@@ -2344,6 +2352,12 @@
 :END:
 
 [[dzimg:0059/0059-086.tif][HFL 0059 086]] 
+**** responsible:
+***** 幻真先生
+      :PROPERTIES:
+      :FUNCTION: 注
+      :DATES:    late 9th cent?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2356,6 +2370,7 @@
 :ZHDZ: ZHDZ23p0188
 :XWDZ: XWDZ04p0208
 :HFL: HFL成上092
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0059/0059-092.tif][HFL 0059 092]] 
@@ -2371,13 +2386,14 @@
 :ZHDZ: ZHDZ02p0401
 :XWDZ: XWDZ04p0210
 :HFL: HFL成上100
+:DATES: 3rd or 4th cent
 :END:
 
 [[dzimg:0059/0059-100.tif][HFL 0059 100]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0134.org][ZB5a0134]] 太上洞房內經註(周真人)
+*** [[mandoku:ZB5a0134.org][ZB5a0134]] 太上洞房內經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0134
 :TTC: 185 - 186
@@ -2386,9 +2402,14 @@
 :ZHDZ: ZHDZ02p0084
 :XWDZ: XWDZ04p0215
 :HFL: HFL成上118
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0059/0059-118.tif][HFL 0059 118]] 
+**** responsible:
+***** 周真人#
+     :PROPERTIES:
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2401,6 +2422,7 @@
 :ZHDZ: ZHDZ19p0174
 :XWDZ: XWDZ04p0221
 :HFL: HFL成上142
+:DATES: 907 - 960 or earlier(詩)
 :END:
 
 [[dzimg:0059/0059-142.tif][HFL 0059 142]]
@@ -2408,8 +2430,8 @@
 ***** 陳摶
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    d. 989
       :END:
 **** textual witnesses
 ***** SJB
@@ -2423,15 +2445,15 @@
 :ZHDZ: ZHDZ27p0730
 :XWDZ: XWDZ04p0227
 :HFL: HFL成下004
+:DATE: ca. 1331
 :END:
 
 [[dzimg:0060/0060-004.tif][HFL 0060 004]]
 **** responsible:
-***** 混然子
+***** 王玠
       :PROPERTIES:
+      :HAO:      混然子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2449,16 +2471,22 @@
 
 [[dzimg:0060/0060-040.tif][HFL 0060 040]]
 **** responsible:
-***** 全陽子
+***** 俞琰
       :PROPERTIES:
+      :HAO:      林屋山人
+      :HAO:      全陽子
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    1258 - 1314
+      :END:
+***** 呂喦
+      :PROPERTIES:
+      :HAO:      純陽真人
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0138.org][ZB5a0138]] 青天歌註釋 #(元-混然子)
+*** [[mandoku:ZB5a0138.org][ZB5a0138]] 青天歌註釋
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0138
 :TTC: 1174
@@ -2470,6 +2498,13 @@
 :END:
 
 [[dzimg:0060/0060-062.tif][HFL 0060 062]] 
+**** responsible:
+***** 王玠
+      :PROPERTIES:
+      :HAO:      混然子
+      :DYNASTY:  元
+      :DATES:    fl. 1331 - 1380
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2482,6 +2517,7 @@
 :ZHDZ: ZHDZ19p0178
 :XWDZ: XWDZ04p0248
 :HFL: HFL成下080
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0060/0060-080.tif][HFL 0060 080]] 
@@ -2497,6 +2533,7 @@
 :ZHDZ: ZHDZ19p0152
 :XWDZ: XWDZ04p0251
 :HFL: HFL成下092
+:DYNASTY: late Song or early Yuan 
 :END:
 
 [[dzimg:0060/0060-092.tif][HFL 0060 092]] 
@@ -2515,6 +2552,11 @@
 :END:
 
 [[dzimg:0060/0060-100.tif][HFL 0060 100]] 
+**** responsible:
+***** 陶弘景
+     :PROPERTIES:
+     :DATES:    456 - 536
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2527,9 +2569,35 @@
 :ZHDZ: ZHDZ19p0289
 :XWDZ: XWDZ04p0273
 :HFL: HFL律上004
+:DATE: 1173(注)
+:DATE: 1174(傳)
+:DATE: ca. 1337(編)
 :END:
 
 [[dzimg:0061/0061-004.tif][HFL 0061 004]] 
+**** responsible:
+***** 張伯端
+     :PROPERTIES:
+     :DATES:    984 - 1028
+     :END:
+***** 翁葆光
+     :PROPERTIES:
+     :ZI:       淵明
+     :HAO:      無名子
+     :HAO:      象川翁
+     :FUNCTION: 注
+     :END:
+***** 陳達靈
+     :PROPERTIES:
+     :HAO:      紫陽翁
+     :FUNCTION: 傳
+     :END:
+***** 戴起宗
+     :PROPERTIES:
+     :ZI:       同甫
+     :HAO:      空玄子
+     :FUNCTION: 編
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
