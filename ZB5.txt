@@ -65,7 +65,7 @@
 *** [[mandoku:ZB5a0004.org][ZB5a0004]] 無上內祕真藏經
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0004
-:TTC: 529 - 530
+:：TTC: 529 - 530
 :DZ: DZ0004
 :page: 010452b
 :ZHDZ: ZHDZ05p0412
@@ -1012,7 +1012,7 @@
 [[dzimg:0031/0031-060.tif][HFL 0031 060]] 
 **** textual witnesses
 ***** SJB
-***** ZHDZ<!-- here 2014-11-26 -->
+***** ZHDZ
 *** [[mandoku:ZB5a0061.org][ZB5a0061]] 太上洞真賢門經
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0061
@@ -1022,6 +1022,7 @@
 :ZHDZ: ZHDZ04p0251
 :XWDZ: XWDZ02p0580
 :HFL: HFL宿中074
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0031/0031-074.tif][HFL 0031 074]] 
@@ -1037,6 +1038,7 @@
 :ZHDZ: ZHDZ06p0186
 :XWDZ: XWDZ02p0597
 :HFL: HFL宿下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0032/0032-004.tif][HFL 0032 004]] 
@@ -1082,6 +1084,7 @@
 :ZHDZ: ZHDZ06p0158
 :XWDZ: XWDZ02p0608
 :HFL: HFL宿下044
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0032/0032-044.tif][HFL 0032 044]] 
@@ -1097,6 +1100,7 @@
 :ZHDZ: ZHDZ31p0383
 :XWDZ: XWDZ02p0609
 :HFL: HFL宿下048
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0032/0032-048.tif][HFL 0032 048]] 
@@ -1262,6 +1266,7 @@
 :ZHDZ: ZHDZ06p0242
 :XWDZ: XWDZ02p0631
 :HFL: HFL宿下126
+:DYNASTY: 1143(Postface)
 :END:
 
 [[dzimg:0032/0032-126.tif][HFL 0032 126]] 
@@ -1277,6 +1282,7 @@
 :ZHDZ: ZHDZ32p0690
 :XWDZ: XWDZ02p0637
 :HFL: HFL列上004
+:DYNASTY: 明
 :END:
 
 [[dzimg:0033/0033-004.tif][HFL 0033 004]] 
@@ -1323,6 +1329,7 @@
 :ZHDZ: ZHDZ02p0447
 :XWDZ: XWDZ02p0811
 :HFL: HFL張上120
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0036/0036-120.tif][HFL 0036 120]] 
@@ -1338,6 +1345,7 @@
 :ZHDZ: ZHDZ01p0395
 :XWDZ: XWDZ02p0817
 :HFL: HFL張下004
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0037/0037-004.tif][HFL 0037 004]] 
@@ -1353,6 +1361,7 @@
 :ZHDZ: ZHDZ01p0494
 :XWDZ: XWDZ02p0820
 :HFL: HFL張下014
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0037/0037-014.tif][HFL 0037 014]]
@@ -1375,6 +1384,7 @@
 :ZHDZ: ZHDZ01p0502
 :XWDZ: XWDZ02p0823
 :HFL: HFL張下026
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0037/0037-026.tif][HFL 0037 026]] 
@@ -1390,6 +1400,7 @@
 :ZHDZ: ZHDZ32p0655
 :XWDZ: XWDZ02p0835
 :HFL: HFL張下072
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0037/0037-072.tif][HFL 0037 072]] 
@@ -1405,6 +1416,7 @@
 :ZHDZ: ZHDZ32p0621
 :XWDZ: XWDZ02p0839
 :HFL: HFL張下088
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0037/0037-088.tif][HFL 0037 088]] 
@@ -1421,6 +1433,7 @@
 :ZHDZ: ZHDZ03p0353
 :XWDZ: XWDZ03p0001
 :HFL: HFL寒上004
+:DATE: 1067(序)
 :END:
 
 [[dzimg:0038/0038-004.tif][HFL 0038 004]]
@@ -1428,8 +1441,7 @@
 ***** 陳景元
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -1446,6 +1458,19 @@
 :END:
 
 [[dzimg:0040/0040-004.tif][HFL 0040 004]] 
+**** responsible:
+***** 東海青元真人
+      :PROPERTIES:
+      :FUNCTION: 註
+      :END:
+***** 清河老人
+      :PROPERTIES:
+      :FUNCTION: 頌
+      :END:
+***** 郭罔鳳
+      :PROPERTIES:
+      :FUNCTION:註編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
