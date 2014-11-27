@@ -2908,15 +2908,15 @@
 :ZHDZ: ZHDZ27p0251
 :XWDZ: XWDZ04p0644
 :HFL: HFL調下150
+:DATES: end of the 12th cent
 :END:
 
 [[dzimg:0068/0068-150.tif][HFL 0068 150]]
 **** responsible:
 ***** 侯善淵
       :PROPERTIES:
+      :HAO:      太玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2936,9 +2936,10 @@
 **** responsible:
 ***** 張商英
       :PROPERTIES:
+      :ZI:       天覺
+      :HAO:      無盡居士
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1043 - 1121
       :END:
 **** textual witnesses
 ***** SJB
@@ -2952,6 +2953,7 @@
 :ZHDZ: ZHDZ02p0416
 :XWDZ: XWDZ04p0660
 :HFL: HFL調下219
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0068/0068-219.tif][HFL 0068 219]] 
@@ -2967,16 +2969,10 @@
 :ZHDZ: ZHDZ16p0536
 :XWDZ: XWDZ04p0663
 :HFL: HFL陽上004
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0069/0069-004.tif][HFL 0069 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
