@@ -1568,15 +1568,15 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ03p0389
 :HFL: HFL往下090
+:DATE: 1303 or 1304
 :END:
 
 [[dzimg:0046/0046-090.tif][HFL 0046 090]]
 **** responsible:
-***** 薜季昭
+***** 薛季昭
       :PROPERTIES:
+      :HAO:      顯翁
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -1593,6 +1593,14 @@
 :END:
 
 [[dzimg:0047/0047-004.tif][HFL 0047 004]] 
+**** responsible:
+***** 陳春榮
+      :PROPERTIES:
+      :DYNASTY:  南宋
+      :FUNCTION: 編
+      :FUNCTION: 注
+      :DATES:    1127 - 1279?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -1627,8 +1635,7 @@
 ***** 張萬福
       :PROPERTIES:
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 713
       :END:
 **** textual witnesses
 ***** SJB
@@ -1642,6 +1649,7 @@
 :ZHDZ: ZHDZ05p0461
 :XWDZ: XWDZ03p0526
 :HFL: HFL秋下196
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0048/0048-196.tif][HFL 0048 196]] 
@@ -1657,6 +1665,7 @@
 :ZHDZ: ZHDZ03p0206
 :XWDZ: XWDZ03p0529
 :HFL: HFL收上004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0049/0049-004.tif][HFL 0049 004]] 
@@ -1672,13 +1681,14 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ03p0579
 :HFL: HFL收下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0050/0050-004.tif][HFL 0050 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0100.org][ZB5a0100]] 九天應元雷聲普化天尊玉樞寶經集註 #(宋-白玉蟾)
+*** [[mandoku:ZB5a0100.org][ZB5a0100]] 九天應元雷聲普化天尊玉樞寶經集註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0100
 :TTC: 1092 - 1093
@@ -1687,9 +1697,15 @@
 :ZHDZ: ZHDZ31p0301
 :XWDZ: XWDZ03p0587
 :HFL: HFL收下034
+:DATE: 1333(刊記)
 :END:
 
 [[dzimg:0050/0050-034.tif][HFL 0050 034]] 
+**** responsible:
+***** 徐道齡
+      :PROPERTIES:
+      :HAO:      玄陽子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
