@@ -5076,7 +5076,7 @@
 :ZHDZ: ZHDZ19p0934
 :XWDZ: XWDZ07p0637
 :HFL: HFL奈下046
-:DATE: ca. 121
+:DATE: ca. 1218
 :END:
 
 [[dzimg:0128/0128-046.tif][HFL 0128 046]] 
@@ -5097,9 +5097,15 @@
 :ZHDZ: ZHDZ19p0960
 :XWDZ: XWDZ07p0676
 :HFL: HFL菜上038
+:DATE: ca. 1216
 :END:
 
 [[dzimg:0129/0129-038.tif][HFL 0129 038]] 
+**** responsible:
+***** 白玉蟾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5116,11 +5122,10 @@
 
 [[dzimg:0130/0130-004.tif][HFL 0130 004]]
 **** responsible:
-***** 王志謹
+***** 王志謹#
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1178 - 1263
       :END:
 **** textual witnesses
 ***** SJB
@@ -5174,10 +5179,16 @@
 :END:
 
 [[dzimg:0131/0131-094.tif][HFL 0131 094]] 
+**** responsible:
+***** 白履忠
+      :PROPERTIES:
+      :HAO:      梁丘子
+      :DATES:    fl. 722 - 729
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0276.org][ZB5a0276]] 真氣還元銘(強名子)
+*** [[mandoku:ZB5a0276.org][ZB5a0276]] 真氣還元銘
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0276
 :TTC: 368
@@ -5186,13 +5197,18 @@
 :ZHDZ: ZHDZ23p0148
 :XWDZ: XWDZ07p0801
 :HFL: HFL重上152
+:DATE: first half of the 10th cent
 :END:
 
 [[dzimg:0131/0131-152.tif][HFL 0131 152]] 
+**** responsible:
+***** 強名子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0277.org][ZB5a0277]] 還丹歌訣(元陽子)
+*** [[mandoku:ZB5a0277.org][ZB5a0277]] 還丹歌訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0277
 :TTC: 853
@@ -5201,9 +5217,15 @@
 :ZHDZ: ZHDZ18p0657
 :XWDZ: XWDZ07p0811
 :HFL: HFL重下004
+:DATE: 宋 or later
 :END:
 
 [[dzimg:0132/0132-004.tif][HFL 0132 004]] 
+**** responsible:
+***** 元陽子
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
