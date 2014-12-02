@@ -3014,8 +3014,7 @@
 ***** 劉牧
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1011 - 1064
       :END:
 **** textual witnesses
 ***** SJB
@@ -3036,8 +3035,7 @@
 ***** 劉牧
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1011 - 1064
       :END:
 **** textual witnesses
 ***** SJB
@@ -3058,8 +3056,7 @@
 ***** 張理
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1314 - 1364
       :END:
 **** textual witnesses
 ***** SJB
@@ -3080,13 +3077,12 @@
 ***** 張理
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1314 - 1364
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0164.org][ZB5a0164]] 玄元十子圖(趙孟頫)
+*** [[mandoku:ZB5a0164.org][ZB5a0164]] 玄元十子圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0164
 :TTC: 894
@@ -3095,9 +3091,15 @@
 :ZHDZ: ZHDZ46p0155
 :XWDZ: XWDZ04p0856
 :HFL: HFL雲下180
+:DATE: 1286(刊記)
 :END:
 
 [[dzimg:0072/0072-180.tif][HFL 0072 180]] 
+**** responsible:
+***** 趙孟頫
+      :PROPERTIES:
+      :DATES:    1254 - 1322
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -3126,6 +3128,7 @@
 :ZHDZ: ZHDZ03p0085
 :XWDZ: XWDZ05p0008
 :HFL: HFL騰上028
+:DATE: ca. 400
 :END:
 
 [[dzimg:0073/0073-028.tif][HFL 0073 028]] 
@@ -3149,7 +3152,7 @@
       :PROPERTIES:
       :DYNASTY:  晉
       :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    283 - 343
       :END:
 **** textual witnesses
 ***** SJB
