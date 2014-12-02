@@ -3249,7 +3249,7 @@
 ***** 黃舜申
       :PROPERTIES:
       :HAO:      雷淵
-      :FUNCTION: 伝
+      :FUNCTION: 傳
       :DATES:    fl. 1224 - 1287
       :END:
 ***** 陳采
@@ -4452,14 +4452,13 @@
 ***** 張伯端
       :PROPERTIES:
       :ZI:       平叔
-      :HA:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      紫陽
+      :DATES:    984? - 1082
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0242.org][ZB5a0242]] 碧虛子親傳直指 #(宋-陳景元)
+*** [[mandoku:ZB5a0242.org][ZB5a0242]] 碧虛子親傳直指
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0242
 :TTC: 836
@@ -4471,10 +4470,16 @@
 :END:
 
 [[dzimg:0114/0114-102.tif][HFL 0114 102]] 
+**** responsible:
+***** 楊明真
+      :PROPERTIES:
+      :HAO:      碧虛子
+      :DATES:    1150 - 1228
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0243.org][ZB5a0243]] 紙舟先生全真直指(金月巖)
+*** [[mandoku:ZB5a0243.org][ZB5a0243]] 紙舟先生全真直指
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0243
 :TTC: 1186 - 1187
@@ -4486,6 +4491,17 @@
 :END:
 
 [[dzimg:0114/0114-124.tif][HFL 0114 124]] 
+**** responsible:
+***** 金月巖
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+***** 黃公望
+      :PROPERTIES:
+      :HAO:      大癡
+      :FUNCTION: 傳
+      :DATES:    1269 - 1354
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
