@@ -3246,16 +3246,15 @@
 
 [[dzimg:0075/0075-004.tif][HFL 0075 004]] 
 **** responsible:
-***** 陶弘景
+***** 黃舜申
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: 編
-      :DATES:    ca. 500
+      :HAO:      雷淵
+      :FUNCTION: 伝
+      :DATES:    fl. 1224 - 1287
       :END:
-***** 閣丘方遠
+***** 陳采
       :PROPERTIES:
-      :FUNCTION: 改訂
-      :DATES:    before 893
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -3269,15 +3268,16 @@
 :ZHDZ: ZHDZ46p0296
 :XWDZ: XWDZ05p0110
 :HFL: HFL致上038
+:DATE: 1267
 :END:
 
 [[dzimg:0075/0075-038.tif][HFL 0075 038]]
 **** responsible:
 ***** 張大淳
       :PROPERTIES:
+      :HAO:      沖靖明真微妙大師
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -3291,15 +3291,16 @@
 :ZHDZ: ZHDZ46p0029
 :XWDZ: XWDZ05p0127
 :HFL: HFL致上106
+:DATE: 1241(序)
 :END:
 
 [[dzimg:0075/0075-106.tif][HFL 0075 106]]
 **** responsible:
-***** 　
+***** 秦志安
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      長春壺天
+      :HAO:      林間羽客
+      :HAO:      
       :END:
 **** textual witnesses
 ***** SJB
