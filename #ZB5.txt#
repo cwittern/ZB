@@ -3300,7 +3300,8 @@
       :PROPERTIES:
       :HAO:      長春壺天
       :HAO:      林間羽客
-      :HAO:      
+      :HAO:      樗櫟道人
+      :DYNASTY:  元
       :END:
 **** textual witnesses
 ***** SJB
@@ -3314,15 +3315,20 @@
 :ZHDZ: ZHDZ47p0054
 :XWDZ: XWDZ05p0160
 :HFL: HFL致下054
+:DATE: 1326(序)
 :END:
 
 [[dzimg:0076/0076-054.tif][HFL 0076 054]]
 **** responsible:
 ***** 劉志玄
       :PROPERTIES:
+      :HAO:      廬山清溪道人
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 謝西蟾
+      :PROPERTIES:
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -3336,6 +3342,7 @@
 :ZHDZ: ZHDZ47p0069
 :XWDZ: XWDZ05p0183
 :HFL: HFL致下144
+:DATE: 1271
 :END:
 
 [[dzimg:0076/0076-144.tif][HFL 0076 144]]
@@ -3343,8 +3350,7 @@
 ***** 李道謙
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -3358,15 +3364,14 @@
 :ZHDZ: ZHDZ47p0025
 :XWDZ: XWDZ05p0194
 :HFL: HFL致下188
+:DATE: 1232(序)
 :END:
 
 [[dzimg:0076/0076-188.tif][HFL 0076 188]]
 **** responsible:
-***** 移刺楚才
+***** 移剌楚才
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -3381,6 +3386,7 @@
 :ZHDZ: ZHDZ03p0258
 :XWDZ: XWDZ05p0199
 :HFL: HFL雨上004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0077/0077-004.tif][HFL 0077 004]] 
@@ -3403,8 +3409,8 @@
 ***** 張萬福
       :PROPERTIES:
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    fl. 713
       :END:
 **** textual witnesses
 ***** SJB
