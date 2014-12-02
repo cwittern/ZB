@@ -4616,9 +4616,9 @@
 **** responsible:
 ***** 王吉昌
       :PROPERTIES:
+      :HAO:      超然子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    active early 13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -4638,9 +4638,9 @@
 **** responsible:
 ***** 劉志淵
       :PROPERTIES:
+      :HAO:      通玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1186 - 1244
       :END:
 **** textual witnesses
 ***** SJB
@@ -4654,6 +4654,7 @@
 :ZHDZ: ZHDZ27p0272
 :XWDZ: XWDZ07p0189
 :HFL: HFL光上004
+:DATE: 1306
 :END:
 
 [[dzimg:0118/0118-004.tif][HFL 0118 004]]
@@ -4661,8 +4662,19 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1288 - 1306
+      :END:
+***** 蔡志頤
+      :PROPERTIES:
+      :ZI:       損菴
+      :HAO:      寶蟾子
+      :FUNCTION: 編
+      :DATES:    late 13th cent
+      :END:
+***** 杜道堅
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    1237 - 1318
       :END:
 **** textual witnesses
 ***** SJB
@@ -4680,6 +4692,11 @@
 
 [[dzimg:0119/0119-060.tif][HFL 0119 060]]
 **** responsible:
+***** 李道純
+      :PROPERTIES:
+      :DYNASTY:  元
+      :DATES:    d. 1306
+      :END:
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
