@@ -5241,10 +5241,14 @@
 :END:
 
 [[dzimg:0132/0132-052.tif][HFL 0132 052]] 
+**** responsible:
+***** 李光玄#
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0279.org][ZB5a0279]] 上乘修真三要(圓明老人)
+*** [[mandoku:ZB5a0279.org][ZB5a0279]] 上乘修真三要
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0279
 :TTC: 1176 - 1178
@@ -5256,6 +5260,12 @@
 :END:
 
 [[dzimg:0132/0132-114.tif][HFL 0132 114]] 
+**** responsible:
+***** 高道寬
+      :PROPERTIES:
+      :HAO:      圓明老人
+      :DATES:    1195 - 1277
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5283,15 +5293,16 @@
 :ZHDZ: ZHDZ19p0270
 :XWDZ: XWDZ07p0856
 :HFL: HFL重下172
+:DATE: 1026(序)
 :END:
 
 [[dzimg:0132/0132-172.tif][HFL 0132 172]]
 **** responsible:
 ***** 周方
       :PROPERTIES:
+      :ZI:       歸一
+      :HAO:      至真子
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5312,9 +5323,8 @@
 **** responsible:
 ***** 鍾離權
       :PROPERTIES:
+      :HAO:      正陽真人
       :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
