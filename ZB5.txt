@@ -3249,7 +3249,7 @@
 ***** 黃舜申
       :PROPERTIES:
       :HAO:      雷淵
-      :FUNCTION: 伝
+      :FUNCTION: 傳
       :DATES:    fl. 1224 - 1287
       :END:
 ***** 陳采
@@ -4419,9 +4419,20 @@
 :ZHDZ: ZHDZ18p0667
 :XWDZ: XWDZ06p0902
 :HFL: HFL珠下160
+:DATES: 907 - 960?
 :END:
 
 [[dzimg:0113/0113-160.tif][HFL 0113 160]] 
+**** responsible:
+***** 元陽子
+      :PROPERTIES:
+      :END:
+***** 張果
+      :PROPERTIES:
+      :HAO:      通玄先生
+      :FUNCTION: 注
+      :DATES:    d. ca. 742
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -4440,14 +4451,14 @@
 **** responsible:
 ***** 張伯端
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       平叔
+      :HAO:      紫陽
+      :DATES:    984? - 1082
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0242.org][ZB5a0242]] 碧虛子親傳直指 #(宋-陳景元)
+*** [[mandoku:ZB5a0242.org][ZB5a0242]] 碧虛子親傳直指
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0242
 :TTC: 836
@@ -4459,10 +4470,16 @@
 :END:
 
 [[dzimg:0114/0114-102.tif][HFL 0114 102]] 
+**** responsible:
+***** 楊明真
+      :PROPERTIES:
+      :HAO:      碧虛子
+      :DATES:    1150 - 1228
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0243.org][ZB5a0243]] 紙舟先生全真直指(金月巖)
+*** [[mandoku:ZB5a0243.org][ZB5a0243]] 紙舟先生全真直指
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0243
 :TTC: 1186 - 1187
@@ -4474,6 +4491,17 @@
 :END:
 
 [[dzimg:0114/0114-124.tif][HFL 0114 124]] 
+**** responsible:
+***** 金月巖
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+***** 黃公望
+      :PROPERTIES:
+      :HAO:      大癡
+      :FUNCTION: 傳
+      :DATES:    1269 - 1354
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -4492,9 +4520,9 @@
 **** responsible:
 ***** 陳沖素
       :PROPERTIES:
+      :HAO:      虛白子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1279 - 1368
       :END:
 **** textual witnesses
 ***** SJB
@@ -4508,15 +4536,15 @@
 :ZHDZ: ZHDZ26p0631
 :XWDZ: XWDZ07p0047
 :HFL: HFL稱下004
+:DYNASTY: early 元
 :END:
 
 [[dzimg:0115/0115-004.tif][HFL 0115 004]]
 **** responsible:
-***** 邱處機
+***** 丘處機
       :PROPERTIES:
+      :HAO:      長春
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4536,9 +4564,9 @@
 **** responsible:
 ***** 李簡易
       :PROPERTIES:
+      :HAO:      玉谿子
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1264
       :END:
 **** textual witnesses
 ***** SJB
@@ -4552,15 +4580,23 @@
 :ZHDZ: ZHDZ19p0120
 :XWDZ: XWDZ07p0095
 :HFL: HFL夜上004
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0116/0116-004.tif][HFL 0116 004]]
 **** responsible:
 ***** 施肩吾
       :PROPERTIES:
+      :HAO:      希聖
+      :HAO:      清虛洞天華陽真人
       :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 820
+      :END:
+***** 李竦
+      :PROPERTIES:
+      :ZI:       全美
+      :HAO:      三仙門弟子天下都閑客
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -4580,9 +4616,9 @@
 **** responsible:
 ***** 王吉昌
       :PROPERTIES:
+      :HAO:      超然子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    active early 13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -4602,9 +4638,9 @@
 **** responsible:
 ***** 劉志淵
       :PROPERTIES:
+      :HAO:      通玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1186 - 1244
       :END:
 **** textual witnesses
 ***** SJB
@@ -4618,6 +4654,7 @@
 :ZHDZ: ZHDZ27p0272
 :XWDZ: XWDZ07p0189
 :HFL: HFL光上004
+:DATE: 1306
 :END:
 
 [[dzimg:0118/0118-004.tif][HFL 0118 004]]
@@ -4625,8 +4662,19 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1288 - 1306
+      :END:
+***** 蔡志頤
+      :PROPERTIES:
+      :ZI:       損菴
+      :HAO:      寶蟾子
+      :FUNCTION: 編
+      :DATES:    late 13th cent
+      :END:
+***** 杜道堅
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    1237 - 1318
       :END:
 **** textual witnesses
 ***** SJB
@@ -4647,8 +4695,13 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 1306
+      :END:
+***** 王玠
+      :PROPERTIES:
+      :HAO:      混然子
+      :FUNCTION: 改訂
+      :DATES:    fl. mid-fourteenth cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -4668,9 +4721,9 @@
 **** responsible:
 ***** 李道純
       :PROPERTIES:
+      :HAO:      清菴
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 1306
       :END:
 **** textual witnesses
 ***** SJB
@@ -4684,15 +4737,16 @@
 :ZHDZ: ZHDZ19p0724
 :XWDZ: XWDZ07p0269
 :HFL: HFL光下120
+:DATE: 1304(序)
 :END:
 
 [[dzimg:0119/0119-120.tif][HFL 0119 120]]
 **** responsible:
 ***** 林轅
       :PROPERTIES:
+      :ZI:       神鳳
+      :HAO:      玄巢子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4706,6 +4760,7 @@
 :ZHDZ: ZHDZ02p0089
 :XWDZ: XWDZ07p0291
 :HFL: HFL果上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-004.tif][HFL 0120 004]] 
@@ -4721,6 +4776,7 @@
 :ZHDZ: ZHDZ01p0097
 :XWDZ: XWDZ07p0293
 :HFL: HFL果上018
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0120/0120-018.tif][HFL 0120 018]] 
@@ -4736,6 +4792,7 @@
 :ZHDZ: ZHDZ01p0306
 :XWDZ: XWDZ07p0295
 :HFL: HFL果上042
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0120/0120-042.tif][HFL 0120 042]] 
@@ -4751,6 +4808,7 @@
 :ZHDZ: ZHDZ01p0468
 :XWDZ: XWDZ07p0301
 :HFL: HFL果上058
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-058.tif][HFL 0120 058]] 
@@ -4766,6 +4824,7 @@
 :ZHDZ: ZHDZ02p0452
 :XWDZ: XWDZ07p0305
 :HFL: HFL果上078
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0120/0120-078.tif][HFL 0120 078]] 
@@ -4781,6 +4840,7 @@
 :ZHDZ: ZHDZ02p0601
 :XWDZ: XWDZ07p0310
 :HFL: HFL果上094
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-094.tif][HFL 0120 094]] 
@@ -4796,13 +4856,19 @@
 :ZHDZ: ZHDZ18p0671
 :XWDZ: XWDZ07p0314
 :HFL: HFL果下004
+:DATES: 907 - 960?
 :END:
 
 [[dzimg:0121/0121-004.tif][HFL 0121 004]] 
+**** responsible:
+***** 陶植
+      :PROPERTIES:
+      :DATES:    d. 825
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0261.org][ZB5a0261]] 擒玄賦
+*** [[mandoku:ZB5a0261.org][ZB5a0261]] 禽玄賦
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0261
 :TTC: 840
@@ -4817,7 +4883,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0262.org][ZB5a0262]] 金丹賦(馬蒞昭)
+*** [[mandoku:ZB5a0262.org][ZB5a0262]] 金丹賦
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0262
 :TTC: 736
@@ -4826,9 +4892,15 @@
 :ZHDZ: ZHDZ18p0678
 :XWDZ: XWDZ07p0352
 :HFL: HFL果下062
+:DYNASTY: 元
 :END:
 
 [[dzimg:0121/0121-062.tif][HFL 0121 062]] 
+**** responsible:
+***** 馬蒞昭
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
