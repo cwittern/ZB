@@ -4271,15 +4271,14 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ06p0852
 :HFL: HFL珠上110
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0112/0112-110.tif][HFL 0112 110]]
 **** responsible:
-***** 王常集
+***** 王常
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4293,15 +4292,15 @@
 :ZHDZ: ZHDZ19p0669
 :XWDZ: XWDZ06p0857
 :HFL: HFL珠上128
+:DATE: end of the 12th cent
 :END:
 
 [[dzimg:0112/0112-128.tif][HFL 0112 128]]
 **** responsible:
-***** 許明道
+***** 許子微
       :PROPERTIES:
+      :ZI:       明道
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4315,15 +4314,15 @@
 :ZHDZ: ZHDZ18p0734
 :XWDZ: XWDZ06p0861
 :HFL: HFL珠下004
+:DATE: 1052
 :END:
 
 [[dzimg:0113/0113-004.tif][HFL 0113 004]]
 **** responsible:
 ***** 楊在
       :PROPERTIES:
+      :HAO:      抱腹山人
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4337,6 +4336,7 @@
 :ZHDZ: ZHDZ18p0743
 :XWDZ: XWDZ06p0874
 :HFL: HFL珠下054
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0113/0113-054.tif][HFL 0113 054]] 
@@ -4352,6 +4352,7 @@
 :ZHDZ: ZHDZ19p0707
 :XWDZ: XWDZ06p0849
 :HFL: HFL珠下074
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0113/0113-074.tif][HFL 0113 074]] 
@@ -4367,13 +4368,14 @@
 :ZHDZ: ZHDZ19p0216
 :XWDZ: XWDZ06p0885
 :HFL: HFL珠下096
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0113/0113-096.tif][HFL 0113 096]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0238.org][ZB5a0238]] 還丹顯妙通幽集(潛真子)
+*** [[mandoku:ZB5a0238.org][ZB5a0238]] 還丹顯妙通幽集
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0238
 :TTC: 786
@@ -4382,9 +4384,14 @@
 :ZHDZ: ZHDZ19p0219
 :XWDZ: XWDZ06p0888
 :HFL: HFL珠下108
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0113/0113-108.tif][HFL 0113 108]] 
+**** responsible:
+***** 潛真子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
