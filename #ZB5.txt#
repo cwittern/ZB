@@ -4697,11 +4697,11 @@
       :DYNASTY:  元
       :DATES:    d. 1306
       :END:
-***** 李道純
+***** 王玠
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      混然子
+      :FUNCTION: 改訂
+      :DATES:    fl. mid-fourteenth cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -4721,9 +4721,9 @@
 **** responsible:
 ***** 李道純
       :PROPERTIES:
+      :HAO:      清菴
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 1306
       :END:
 **** textual witnesses
 ***** SJB
@@ -4737,15 +4737,16 @@
 :ZHDZ: ZHDZ19p0724
 :XWDZ: XWDZ07p0269
 :HFL: HFL光下120
+:DATE: 1304(序)
 :END:
 
 [[dzimg:0119/0119-120.tif][HFL 0119 120]]
 **** responsible:
 ***** 林轅
       :PROPERTIES:
+      :ZI:       神鳳
+      :HAO:      玄巢子
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4759,6 +4760,7 @@
 :ZHDZ: ZHDZ02p0089
 :XWDZ: XWDZ07p0291
 :HFL: HFL果上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-004.tif][HFL 0120 004]] 
@@ -4774,6 +4776,7 @@
 :ZHDZ: ZHDZ01p0097
 :XWDZ: XWDZ07p0293
 :HFL: HFL果上018
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0120/0120-018.tif][HFL 0120 018]] 
@@ -4789,6 +4792,7 @@
 :ZHDZ: ZHDZ01p0306
 :XWDZ: XWDZ07p0295
 :HFL: HFL果上042
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0120/0120-042.tif][HFL 0120 042]] 
@@ -4804,6 +4808,7 @@
 :ZHDZ: ZHDZ01p0468
 :XWDZ: XWDZ07p0301
 :HFL: HFL果上058
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-058.tif][HFL 0120 058]] 
@@ -4819,6 +4824,7 @@
 :ZHDZ: ZHDZ02p0452
 :XWDZ: XWDZ07p0305
 :HFL: HFL果上078
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0120/0120-078.tif][HFL 0120 078]] 
@@ -4834,6 +4840,7 @@
 :ZHDZ: ZHDZ02p0601
 :XWDZ: XWDZ07p0310
 :HFL: HFL果上094
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0120/0120-094.tif][HFL 0120 094]] 
@@ -4852,6 +4859,13 @@
 :END:
 
 [[dzimg:0121/0121-004.tif][HFL 0121 004]] 
+**** responsible:
+***** 林轅
+      :PROPERTIES:
+      :ZI:       神鳳
+      :HAO:      玄巢子
+      :DYNASTY:  元
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
