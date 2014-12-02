@@ -4152,9 +4152,14 @@
 :ZHDZ: ZHDZ19p0001
 :XWDZ: XWDZ06p0823
 :HFL: HFL珠上004
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0112/0112-004.tif][HFL 0112 004]] 
+**** responsible:
+***** 張果老
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -4167,6 +4172,7 @@
 :ZHDZ: ZHDZ19p0143
 :XWDZ: XWDZ06p0828
 :HFL: HFL珠上022
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0112/0112-022.tif][HFL 0112 022]]
@@ -4174,8 +4180,7 @@
 ***** 陰長生
       :PROPERTIES:
       :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4189,9 +4194,19 @@
 :ZHDZ: ZHDZ19p0070
 :XWDZ: XWDZ06p0833
 :HFL: HFL珠上040
+:DATE: before 9th cent
 :END:
 
 [[dzimg:0112/0112-040.tif][HFL 0112 040]] 
+**** responsible:
+***** 葉法善
+      :PROPERTIES:
+      :FUNCTION: 注?
+      :END:
+***** 羅公遠
+      :PROPERTIES:
+      :FUNCTION: 注?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -4219,9 +4234,15 @@
 :ZHDZ: ZHDZ19p0234
 :XWDZ: XWDZ06p0844
 :HFL: HFL珠上082
+
 :END:
 
 [[dzimg:0112/0112-082.tif][HFL 0112 082]] 
+**** responsible:
+***** 葉法善
+      :PROPERTIES:
+      :FUNCTION: 注?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
