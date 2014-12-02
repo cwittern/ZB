@@ -3144,6 +3144,7 @@
 :ZHDZ: ZHDZ02p0630
 :XWDZ: XWDZ05p0013
 :HFL: HFL騰上046
+:DATES: 220 - 589
 :END:
 
 [[dzimg:0073/0073-046.tif][HFL 0073 046]]
@@ -3173,8 +3174,13 @@
 ***** 陶弘景
       :PROPERTIES:
       :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    ca. 500
+      :END:
+***** 閣丘方遠
+      :PROPERTIES:
+      :FUNCTION: 改訂
+      :DATES:    before 893
       :END:
 **** textual witnesses
 ***** SJB
@@ -3188,6 +3194,7 @@
 :ZHDZ: ZHDZ02p0596
 :XWDZ: XWDZ05p0034
 :HFL: HFL騰上126
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0073/0073-126.tif][HFL 0073 126]] 
