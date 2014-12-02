@@ -3639,7 +3639,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0194.org][ZB5a0194]] 玉皇宥罪錫福寶懺(辛漢臣)
+*** [[mandoku:ZB5a0194.org][ZB5a0194]] 玉皇宥罪錫福寶懺
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0194
 :TTC: 1099
@@ -3651,6 +3651,11 @@
 :END:
 
 [[dzimg:0081/0081-042.tif][HFL 0081 042]] 
+**** responsible:
+***** 辛漢臣
+      :PROPERTIES:
+      :DATES: 14th cent?
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -3663,6 +3668,7 @@
 :ZHDZ: ZHDZ44p0266
 :XWDZ: XWDZ05p0406
 :HFL: HFL結上090
+:DATE: 14th cent
 :END:
 
 [[dzimg:0081/0081-090.tif][HFL 0081 090]] 
@@ -3924,7 +3930,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0213.org][ZB5a0213]] 黃籙九卮燈儀
+*** [[mandoku:ZB5a0213.org][ZB5a0213]] 黃籙九巵燈儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0213
 :TTC: 969
@@ -3978,6 +3984,7 @@
 :ZHDZ: ZHDZ44p0417
 :XWDZ: XWDZ05p0521
 :HFL: HFL為下084
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0084/0084-084.tif][HFL 0084 084]] 
