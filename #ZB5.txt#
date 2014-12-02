@@ -4958,7 +4958,7 @@
 :HFL: HFL珍下004
 :END:
 
-[[dzimg:0123/0123-004.tif][HFL 0123 004]]
+[[dzimg:0123/0123-004.tif][HFL 0123 004]] 
 **** responsible:
 ***** 蕭廷(挺)芝
       :PROPERTIES:
@@ -4982,7 +4982,7 @@
 :DYNASTY: 北宋?
 :END:
 
-[[dzimg:0124/0124-004.tif][HFL 0124 004]]
+[[dzimg:0124/0124-004.tif][HFL 0124 004]] 
 **** responsible:
 ***** 鍾離權
       :PROPERTIES:
@@ -5024,9 +5024,25 @@
 :ZHDZ: ZHDZ19p0871
 :XWDZ: XWDZ07p0544
 :HFL: HFL李下030
+:DATE: 1161(注 by 葉士表)
+:DATE: 1202(注 by 遠公輔)
 :END:
 
 [[dzimg:0126/0126-030.tif][HFL 0126 030]] 
+**** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :DATES:    984 - 1082
+      :END:
+***** 葉士表
+      :PROPERTIES:
+      :ZI:       文叔
+      :FUNCTION: 注
+      :END:
+***** 遠公輔
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5039,15 +5055,14 @@
 :ZHDZ: ZHDZ19p0911
 :XWDZ: XWDZ07p0604
 :HFL: HFL奈上118
+:DATE: after 1225
 :END:
 
-[[dzimg:0127/0127-118.tif][HFL 0127 118]]
+[[dzimg:0127/0127-118.tif][HFL 0127 118]] 
 **** responsible:
 ***** 白玉蟾
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5061,9 +5076,15 @@
 :ZHDZ: ZHDZ19p0934
 :XWDZ: XWDZ07p0637
 :HFL: HFL奈下046
+:DATE: ca. 121
 :END:
 
 [[dzimg:0128/0128-046.tif][HFL 0128 046]] 
+**** responsible:
+***** 白玉蟾
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
