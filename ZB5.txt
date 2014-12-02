@@ -222,9 +222,9 @@
 ***** SJB
 ***** ZHDZ
 **** 誦經感應
-      :PROPERTIES:
-      :TYPE:   appendix
-      :END:
+     :PROPERTIES:
+     :TYPE:   appendix
+     :END:
 
 *** [[mandoku:ZB5a0012.org][ZB5a0012]] 高上玉皇本行經髓
 :PROPERTIES:
@@ -248,9 +248,9 @@
 ***** SJB
 ***** ZHDZ
 **** 傳經源流
-      :PROPERTIES:
-      :TYPE:   appendix
-      :END:
+     :PROPERTIES:
+     :TYPE:   appendix
+     :END:
 
 *** [[mandoku:ZB5a0013.org][ZB5a0013]] 高上玉皇心印經
 :PROPERTIES:
@@ -2610,12 +2610,49 @@
 :ZHDZ: ZHDZ19p0400
 :XWDZ: XWDZ04p0363
 :HFL: HFL律上042
+:DATE: 1169(注)
 :END:
 
 [[dzimg:0063/0063-042.tif][HFL 0063 042]] 
+**** responsible:
+***** 陳致虛
+     :PROPERTIES:
+     :ZI:       觀吾
+     :HAO:      上陽子
+     :FUNCTION: 注
+     :DATES:    fl. 1331
+     :END:
+***** 陸墅
+     :PROPERTIES:
+     :ZI:       子野
+     :FUNCTION: 注
+     :DATES:    fl. 13th cent?
+     :END:
+***** 薛道光
+     :PROPERTIES:
+     :ZI:       道源
+     :HAO:      紫賢
+     :FUNCTION: 注
+     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+**** 悟真篇記
+     :PROPERTIES:
+     :TYPE:   appendix
+     :END:
+***** responsible:
+****** 陸思誠
+      :PROPERTIES:
+      :ZI:       彥孚
+      :DATES:    before 1173
+      :END:
+****** 張士弘
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    fl. 14th cent
+      :END:
+
 *** [[mandoku:ZB5a0144.org][ZB5a0144]] 紫陽真人悟真直指詳說三乘祕要
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0144
@@ -2629,7 +2666,7 @@
 
 [[dzimg:0064/0064-118.tif][HFL 0064 118]]
 **** responsible:
-***** 翁葆光
+***** 翁葆光#
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: ?
@@ -2638,7 +2675,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0145.org][ZB5a0145]] 紫陽真人悟真篇拾遺 #(宋-翁葆光)
+*** [[mandoku:ZB5a0145.org][ZB5a0145]] 紫陽真人悟真篇拾遺
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0145
 :TTC: 818
@@ -2650,6 +2687,11 @@
 :END:
 
 [[dzimg:0064/0064-182.tif][HFL 0064 182]] 
+**** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :DATES:    984 - 1082
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2666,11 +2708,17 @@
 
 [[dzimg:0065/0065-004.tif][HFL 0065 004]]
 **** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :DATES:    984 - 1082
+      :END:
 ***** 翁葆光
       :PROPERTIES:
+      :ZI:       淵明
+      :HAO:      無明子
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    fl. 1173
       :END:
 **** textual witnesses
 ***** SJB
@@ -2688,11 +2736,19 @@
 
 [[dzimg:0066/0066-004.tif][HFL 0066 004]]
 **** responsible:
+***** 張伯端
+      :PROPERTIES:
+      :ZI:       平叔
+      :HAO:      紫陽
+      :DATES:    984 - 1082
+      :END:
 ***** 夏元鼎
       :PROPERTIES:
+      :ZI:       宗禹
+      :HAO:      雲峰散人
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    ca. 1226
       :END:
 **** textual witnesses
 ***** SJB
@@ -2711,7 +2767,13 @@
 
 [[dzimg:0067/0067-004.tif][HFL 0067 004]]
 **** responsible:
-***** 劉元道
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 序(attributed to)
+      :DATES:    r. 1100 - 1125
+      :END:
+***** 劉元道#
       :PROPERTIES:
       :DYNASTY:  宋
       :FUNCTION: ?
@@ -2720,7 +2782,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0149.org][ZB5a0149]] 無量度人上品妙經旁通圖 #(蕭道存)
+*** [[mandoku:ZB5a0149.org][ZB5a0149]] 無量度人上品妙經旁通圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0149
 :TTC: 723
@@ -2732,6 +2794,15 @@
 :END:
 
 [[dzimg:0067/0067-158.tif][HFL 0067 158]] 
+**** responsible:
+***** 劉元道
+      :PROPERTIES:
+      :HAO:      守一大師
+      :FUNCTION: 編
+      :END:
+***** 蕭道存#
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2747,10 +2818,16 @@
 :END:
 
 [[dzimg:0068/0068-004.tif][HFL 0068 004]] 
+**** responsible:
+***** 蕭道存
+      :PROPERTIES:
+      :HAO:      混一子
+      :DYNASTY:  北宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0151.org][ZB5a0151]] 修真太極混元指玄圖 #(宋-龍眉子)
+*** [[mandoku:ZB5a0151.org][ZB5a0151]] 修真太極混元指玄圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0151
 :TTC: 803 - 804
@@ -2759,9 +2836,15 @@
 :ZHDZ: ZHDZ19p0731
 :XWDZ: XWDZ04p0615
 :HFL: HFL調下040
+:DATES: 宋(before 1154)
 :END:
 
 [[dzimg:0068/0068-040.tif][HFL 0068 040]] 
+**** responsible:
+***** 龍眉子#
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2774,9 +2857,14 @@
 :ZHDZ: ZHDZ19p0714
 :XWDZ: XWDZ04p0620
 :HFL: HFL調下058
+:DATE: ca. 1222
 :END:
 
 [[dzimg:0068/0068-058.tif][HFL 0068 058]] 
+**** responsible:
+***** 龍眉子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2789,6 +2877,7 @@
 :ZHDZ: ZHDZ18p0792
 :XWDZ: XWDZ04p0632
 :HFL: HFL調下104
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0068/0068-104.tif][HFL 0068 104]] 
@@ -2819,15 +2908,15 @@
 :ZHDZ: ZHDZ27p0251
 :XWDZ: XWDZ04p0644
 :HFL: HFL調下150
+:DATES: end of the 12th cent
 :END:
 
 [[dzimg:0068/0068-150.tif][HFL 0068 150]]
 **** responsible:
 ***** 侯善淵
       :PROPERTIES:
+      :HAO:      太玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2847,9 +2936,10 @@
 **** responsible:
 ***** 張商英
       :PROPERTIES:
+      :ZI:       天覺
+      :HAO:      無盡居士
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1043 - 1121
       :END:
 **** textual witnesses
 ***** SJB
@@ -2863,6 +2953,7 @@
 :ZHDZ: ZHDZ02p0416
 :XWDZ: XWDZ04p0660
 :HFL: HFL調下219
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0068/0068-219.tif][HFL 0068 219]] 
@@ -2878,19 +2969,13 @@
 :ZHDZ: ZHDZ16p0536
 :XWDZ: XWDZ04p0663
 :HFL: HFL陽上004
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0069/0069-004.tif][HFL 0069 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
-***** ZHDZ
+***** ZHDZ<!-- here 2014-11-27 -->
 *** [[mandoku:ZB5a0159.org][ZB5a0159]] 大易象數鉤深圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0159
