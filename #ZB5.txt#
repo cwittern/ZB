@@ -4234,14 +4234,14 @@
 :ZHDZ: ZHDZ19p0234
 :XWDZ: XWDZ06p0844
 :HFL: HFL珠上082
-
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0112/0112-082.tif][HFL 0112 082]] 
 **** responsible:
-***** 葉法善
+***** 程昭
       :PROPERTIES:
-      :FUNCTION: 注?
+      :ZI:       士明
       :END:
 **** textual witnesses
 ***** SJB
@@ -4255,6 +4255,7 @@
 :ZHDZ: ZHDZ19p0222
 :XWDZ: XWDZ06p0849
 :HFL: HFL珠上100
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0112/0112-100.tif][HFL 0112 100]] 
@@ -4270,15 +4271,14 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ06p0852
 :HFL: HFL珠上110
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0112/0112-110.tif][HFL 0112 110]]
 **** responsible:
-***** 王常集
+***** 王常
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4292,15 +4292,15 @@
 :ZHDZ: ZHDZ19p0669
 :XWDZ: XWDZ06p0857
 :HFL: HFL珠上128
+:DATE: end of the 12th cent
 :END:
 
 [[dzimg:0112/0112-128.tif][HFL 0112 128]]
 **** responsible:
-***** 許明道
+***** 許子微
       :PROPERTIES:
+      :ZI:       明道
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4314,15 +4314,15 @@
 :ZHDZ: ZHDZ18p0734
 :XWDZ: XWDZ06p0861
 :HFL: HFL珠下004
+:DATE: 1052
 :END:
 
 [[dzimg:0113/0113-004.tif][HFL 0113 004]]
 **** responsible:
 ***** 楊在
       :PROPERTIES:
+      :HAO:      抱腹山人
       :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4336,6 +4336,7 @@
 :ZHDZ: ZHDZ18p0743
 :XWDZ: XWDZ06p0874
 :HFL: HFL珠下054
+:D
 :END:
 
 [[dzimg:0113/0113-054.tif][HFL 0113 054]] 
