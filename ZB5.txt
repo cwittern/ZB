@@ -5595,15 +5595,14 @@
 :ZHDZ: ZHDZ45p0570
 :XWDZ: XWDZ08p0206
 :HFL: HFL海上028
+:DATE: early 4th cent? , 281(discovered)
 :END:
 
 [[dzimg:0137/0137-028.tif][HFL 0137 028]]
 **** responsible:
 ***** 郭璞
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -5611,22 +5610,16 @@
 *** [[mandoku:ZB5a0304.org][ZB5a0304]] 漢武帝內傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0304
-:TTC: 116 - 117
+:TTC: 115 - 116
 :DZ: DZ0292
 :page: 050047c
 :ZHDZ: ZHDZ46p0160
 :XWDZ: XWDZ08p0224
 :HFL: HFL海上098
+:DATE: 6th cent?
 :END:
 
 [[dzimg:0137/0137-098.tif][HFL 0137 098]]
-**** responsible:
-***** 班固
-      :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5642,13 +5635,6 @@
 :END:
 
 [[dzimg:0137/0137-160.tif][HFL 0137 160]]
-**** responsible:
-***** 班固
-      :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5664,6 +5650,11 @@
 :END:
 
 [[dzimg:0138/0138-004.tif][HFL 0138 004]] 
+**** responsible:
+***** 劉向(att)
+      :PROPERTIES:
+      :DATES:    -77 - -6
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5676,9 +5667,15 @@
 :ZHDZ: ZHDZ45p0409
 :XWDZ: XWDZ08p0271
 :HFL: HFL海下080
+:DYNASTY: 南唐
 :END:
 
 [[dzimg:0138/0138-080.tif][HFL 0138 080]] 
+**** responsible:
+***** 沈汾
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5691,6 +5688,7 @@
 :ZHDZ: ZHDZ47p0213
 :XWDZ: XWDZ08p0305
 :HFL: HFL鹹上004
+:DATE: 129
 :END:
 
 [[dzimg:0139/0139-004.tif][HFL 0139 004]]
