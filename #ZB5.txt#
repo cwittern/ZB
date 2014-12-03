@@ -1571,7 +1571,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0094.org][ZB5a0094]] 太上洞玄靈寶無量度人上品妙經法
+*** [[mandoku:ZB5a0094.org][ZB5a0094]] 太上洞玄靈寶無量度人上品經法
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0094
 :TTC: 721 - 722
@@ -1588,9 +1588,7 @@
 ***** 陳春榮
       :PROPERTIES:
       :DYNASTY:  南宋
-      :FUNCTION: 編
-      :FUNCTION: 注
-      :DATES:    1127 - 1279?
+      :FUNCTION: 編 , 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -1709,6 +1707,7 @@
 :ZHDZ: ZHDZ06p0103
 :XWDZ: XWDZ03p0616
 :HFL: HFL收下148
+:DYNASTY: 元
 :END:
 
 [[dzimg:0050/0050-148.tif][HFL 0050 148]]
@@ -1718,7 +1717,6 @@
       :ZI:       道淵
       :HAO:      混然子
       :DYNASTY:  元
-      :DATES:    1279 - 1368
       :END:
 **** textual witnesses
 ***** SJB
@@ -1753,13 +1751,13 @@
 :ZHDZ: ZHDZ06p0113
 :XWDZ: XWDZ03p0625
 :HFL: HFL收下182
+:DATE: 13th cent
 :END:
 
 [[dzimg:0050/0050-182.tif][HFL 0050 182]] 
 **** responsible:
 ***** 長筌子
       :PROPERTIES:
-      :DATES:    13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -1839,6 +1837,7 @@
 :ZHDZ: ZHDZ06p0117
 :XWDZ: XWDZ03p0810
 :HFL: HFL藏上044
+:DATE: 13th cent
 :END:
 
 [[dzimg:0054/0054-044.tif][HFL 0054 044]] 
@@ -1846,7 +1845,6 @@
 ***** 長筌子
       :PROPERTIES:
       :FUNCTION: 注
-      :DATES:    13th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -1867,8 +1865,8 @@
 ***** 李道純
       :PROPERTIES:
       :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    d. 1306
       :END:
 **** textual witnesses
 ***** SJB
