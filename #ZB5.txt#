@@ -2807,15 +2807,10 @@
 :ZHDZ: ZHDZ19p0731
 :XWDZ: XWDZ04p0615
 :HFL: HFL調下040
-:DATES: 宋(before 1154)
+:DYNASTY: 宋(before 1154)
 :END:
 
 [[dzimg:0068/0068-040.tif][HFL 0068 040]] 
-**** responsible:
-***** 龍眉子#
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2879,7 +2874,7 @@
 :ZHDZ: ZHDZ27p0251
 :XWDZ: XWDZ04p0644
 :HFL: HFL調下150
-:DATES: end of the 12th cent
+:DATE: end of the 12th cent
 :END:
 
 [[dzimg:0068/0068-150.tif][HFL 0068 150]]
@@ -2959,13 +2954,6 @@
 :END:
 
 [[dzimg:0070/0070-004.tif][HFL 0070 004]]
-**** responsible:
-***** 張理#
-      :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    1314 - 1364
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ

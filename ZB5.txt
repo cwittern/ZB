@@ -1588,7 +1588,8 @@
 ***** 陳春榮
       :PROPERTIES:
       :DYNASTY:  南宋
-      :FUNCTION: 編 , 注
+      :FUNCTION: 編
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -2226,6 +2227,7 @@
 [[dzimg:0058/0058-022.tif][HFL 0058 022]]
 **** responsible:
 ***** 鄒訢(att)
+#朱熹の別名?
       :PROPERTIES:
       :DYNASTY:  宋
       :END:
@@ -2396,10 +2398,6 @@
 :END:
 
 [[dzimg:0059/0059-118.tif][HFL 0059 118]] 
-**** responsible:
-***** 周真人#
-     :PROPERTIES:
-     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2412,7 +2410,7 @@
 :ZHDZ: ZHDZ19p0174
 :XWDZ: XWDZ04p0221
 :HFL: HFL成上142
-:DATES: 907 - 960 or earlier(詩)
+:DYNASTY: 五代 or earlier(詩) , 宋初期(注)
 :END:
 
 [[dzimg:0059/0059-142.tif][HFL 0059 142]]
@@ -2461,17 +2459,17 @@
 
 [[dzimg:0060/0060-040.tif][HFL 0060 040]]
 **** responsible:
+***** 呂喦(att)
+      :PROPERTIES:
+      :HAO:      純陽真人
+      :END:
 ***** 俞琰
       :PROPERTIES:
-      :HAO:      林屋山人
       :HAO:      全陽子
+      :HAO:      林屋山人
       :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    1258 - 1314
-      :END:
-***** 呂喦
-      :PROPERTIES:
-      :HAO:      純陽真人
       :END:
 **** textual witnesses
 ***** SJB
@@ -2493,6 +2491,7 @@
       :PROPERTIES:
       :HAO:      混然子
       :DYNASTY:  元
+      :FUNCTION: 注
       :DATES:    fl. 1331 - 1380
       :END:
 **** textual witnesses
@@ -2523,7 +2522,7 @@
 :ZHDZ: ZHDZ19p0152
 :XWDZ: XWDZ04p0251
 :HFL: HFL成下092
-:DYNASTY: late Song or early Yuan 
+:DYNASTY: 宋後期 or 元初期 
 :END:
 
 [[dzimg:0060/0060-092.tif][HFL 0060 092]] 
@@ -2543,7 +2542,7 @@
 
 [[dzimg:0060/0060-100.tif][HFL 0060 100]] 
 **** responsible:
-***** 陶弘景
+***** 陶弘景(att)
      :PROPERTIES:
      :DATES:    456 - 536
      :END:
@@ -2559,9 +2558,7 @@
 :ZHDZ: ZHDZ19p0289
 :XWDZ: XWDZ04p0273
 :HFL: HFL律上004
-:DATE: 1173(注)
-:DATE: 1174(傳)
-:DATE: ca. 1337(編)
+:DATE: 1173(注) , 1174(傳) , ca. 1337(編)
 :END:
 
 [[dzimg:0061/0061-004.tif][HFL 0061 004]] 
@@ -2655,13 +2652,6 @@
 :END:
 
 [[dzimg:0064/0064-118.tif][HFL 0064 118]]
-**** responsible:
-***** 翁葆光#
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2757,17 +2747,11 @@
 
 [[dzimg:0067/0067-004.tif][HFL 0067 004]]
 **** responsible:
-***** 徽宗
+***** 徽宗(att)
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 序(attributed to)
+      :FUNCTION: 序
       :DATES:    r. 1100 - 1125
-      :END:
-***** 劉元道#
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -2789,9 +2773,6 @@
       :PROPERTIES:
       :HAO:      守一大師
       :FUNCTION: 編
-      :END:
-***** 蕭道存#
-      :PROPERTIES:
       :END:
 **** textual witnesses
 ***** SJB
@@ -2826,15 +2807,10 @@
 :ZHDZ: ZHDZ19p0731
 :XWDZ: XWDZ04p0615
 :HFL: HFL調下040
-:DATES: 宋(before 1154)
+:DYNASTY: 宋(before 1154)
 :END:
 
 [[dzimg:0068/0068-040.tif][HFL 0068 040]] 
-**** responsible:
-***** 龍眉子#
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2898,7 +2874,7 @@
 :ZHDZ: ZHDZ27p0251
 :XWDZ: XWDZ04p0644
 :HFL: HFL調下150
-:DATES: end of the 12th cent
+:DATE: end of the 12th cent
 :END:
 
 [[dzimg:0068/0068-150.tif][HFL 0068 150]]
