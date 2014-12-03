@@ -4207,7 +4207,6 @@
 ***** 許子微
       :PROPERTIES:
       :ZI:       明道
-      :DYNASTY:  宋
       :END:
 **** textual witnesses
 ***** SJB
@@ -4229,7 +4228,6 @@
 ***** 楊在
       :PROPERTIES:
       :HAO:      抱腹山人
-      :DYNASTY:  宋
       :END:
 **** textual witnesses
 ***** SJB
@@ -4311,6 +4309,7 @@
 :ZHDZ: ZHDZ18p0657
 :XWDZ: XWDZ06p0894
 :HFL: HFL珠下130
+:DATE: 9th - 10th cent
 :END:
 
 [[dzimg:0113/0113-130.tif][HFL 0113 130]] 
@@ -4326,7 +4325,7 @@
 :ZHDZ: ZHDZ18p0667
 :XWDZ: XWDZ06p0902
 :HFL: HFL珠下160
-:DATES: 907 - 960?
+:DYNASTY: 五代?
 :END:
 
 [[dzimg:0113/0113-160.tif][HFL 0113 160]] 
@@ -4334,7 +4333,7 @@
 ***** 元陽子
       :PROPERTIES:
       :END:
-***** 張果
+***** 張果(att)
       :PROPERTIES:
       :HAO:      通玄先生
       :FUNCTION: 注
@@ -4378,7 +4377,7 @@
 
 [[dzimg:0114/0114-102.tif][HFL 0114 102]] 
 **** responsible:
-***** 楊明真
+***** 楊明真(att)
       :PROPERTIES:
       :HAO:      碧虛子
       :DATES:    1150 - 1228
@@ -4421,6 +4420,7 @@
 :ZHDZ: ZHDZ27p0615
 :XWDZ: XWDZ07p0036
 :HFL: HFL稱上138
+:DYNASTY: 元
 :END:
 
 [[dzimg:0114/0114-138.tif][HFL 0114 138]]
@@ -4428,8 +4428,6 @@
 ***** 陳沖素
       :PROPERTIES:
       :HAO:      虛白子
-      :DYNASTY:  元
-      :DATES:    1279 - 1368
       :END:
 **** textual witnesses
 ***** SJB
@@ -4443,15 +4441,14 @@
 :ZHDZ: ZHDZ26p0631
 :XWDZ: XWDZ07p0047
 :HFL: HFL稱下004
-:DYNASTY: early 元
+:DYNASTY: 元初期
 :END:
 
 [[dzimg:0115/0115-004.tif][HFL 0115 004]]
 **** responsible:
-***** 丘處機
+***** 丘處機(att)
       :PROPERTIES:
       :HAO:      長春
-      :DYNASTY:  金
       :END:
 **** textual witnesses
 ***** SJB
@@ -4472,7 +4469,6 @@
 ***** 李簡易
       :PROPERTIES:
       :HAO:      玉谿子
-      :DYNASTY:  宋
       :DATES:    fl. 1264
       :END:
 **** textual witnesses
@@ -4492,11 +4488,10 @@
 
 [[dzimg:0116/0116-004.tif][HFL 0116 004]]
 **** responsible:
-***** 施肩吾
+***** 施肩吾(att)
       :PROPERTIES:
       :HAO:      希聖
       :HAO:      清虛洞天華陽真人
-      :DYNASTY:  唐
       :DATES:    fl. 820
       :END:
 ***** 李竦
@@ -4524,7 +4519,6 @@
 ***** 王吉昌
       :PROPERTIES:
       :HAO:      超然子
-      :DYNASTY:  金
       :DATES:    active early 13th cent
       :END:
 **** textual witnesses
@@ -4546,7 +4540,6 @@
 ***** 劉志淵
       :PROPERTIES:
       :HAO:      通玄子
-      :DYNASTY:  金
       :DATES:    1186 - 1244
       :END:
 **** textual witnesses
@@ -4568,7 +4561,6 @@
 **** responsible:
 ***** 李道純
       :PROPERTIES:
-      :DYNASTY:  元
       :DATES:    fl. 1288 - 1306
       :END:
 ***** 蔡志頤
@@ -4601,7 +4593,6 @@
 **** responsible:
 ***** 李道純
       :PROPERTIES:
-      :DYNASTY:  元
       :DATES:    d. 1306
       :END:
 ***** 王玠
@@ -4629,7 +4620,6 @@
 ***** 李道純
       :PROPERTIES:
       :HAO:      清菴
-      :DYNASTY:  元
       :DATES:    d. 1306
       :END:
 **** textual witnesses
@@ -4653,7 +4643,6 @@
       :PROPERTIES:
       :ZI:       神鳳
       :HAO:      玄巢子
-      :DYNASTY:  元
       :END:
 **** textual witnesses
 ***** SJB
