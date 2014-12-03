@@ -1588,7 +1588,8 @@
 ***** 陳春榮
       :PROPERTIES:
       :DYNASTY:  南宋
-      :FUNCTION: 編 , 注
+      :FUNCTION: 編
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -2397,10 +2398,6 @@
 :END:
 
 [[dzimg:0059/0059-118.tif][HFL 0059 118]] 
-**** responsible:
-***** 周真人#
-     :PROPERTIES:
-     :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2413,7 +2410,7 @@
 :ZHDZ: ZHDZ19p0174
 :XWDZ: XWDZ04p0221
 :HFL: HFL成上142
-:DATES: 907 - 960 or earlier(詩)
+:DYNASTY: 五代 or earlier(詩) , 宋初期(注)
 :END:
 
 [[dzimg:0059/0059-142.tif][HFL 0059 142]]
@@ -2462,17 +2459,17 @@
 
 [[dzimg:0060/0060-040.tif][HFL 0060 040]]
 **** responsible:
+***** 呂喦(att)
+      :PROPERTIES:
+      :HAO:      純陽真人
+      :END:
 ***** 俞琰
       :PROPERTIES:
-      :HAO:      林屋山人
       :HAO:      全陽子
+      :HAO:      林屋山人
       :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    1258 - 1314
-      :END:
-***** 呂喦
-      :PROPERTIES:
-      :HAO:      純陽真人
       :END:
 **** textual witnesses
 ***** SJB
