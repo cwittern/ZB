@@ -2202,7 +2202,7 @@
 ***** 鄒訢(att)
 #朱熹の別名?
       :PROPERTIES:
-  
+      :DATES: 1130 - 1200
       :END:
 **** textual witnesses
 ***** SJB
@@ -2225,7 +2225,6 @@
       :PROPERTIES:
       :HAO:      林屋山人
       :HAO:      玉吾叟
-      :DYNASTY:  宋
       :END:
 **** textual witnesses
 ***** SJB
@@ -2246,7 +2245,6 @@
 ***** 王玠
       :PROPERTIES:
       :HAO:      混然子
-      :DYNASTY:  元
       :DATES:    fl. 1331
       :END:
 **** textual witnesses
@@ -2267,7 +2265,6 @@
 **** responsible:
 ***** 袁淑真
       :PROPERTIES:
-      :DYNASTY:  宋
       :DATES:    11th cent?
       :END:
 **** textual witnesses
@@ -2390,7 +2387,6 @@
 **** responsible:
 ***** 陳摶
       :PROPERTIES:
-      :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    d. 989
       :END:
@@ -2414,7 +2410,6 @@
 ***** 王玠
       :PROPERTIES:
       :HAO:      混然子
-      :DYNASTY:  元
       :END:
 **** textual witnesses
 ***** SJB
@@ -2440,7 +2435,6 @@
       :PROPERTIES:
       :HAO:      全陽子
       :HAO:      林屋山人
-      :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    1258 - 1314
       :END:
@@ -2462,8 +2456,6 @@
 **** responsible:
 ***** 王玠
       :PROPERTIES:
-      :HAO:      混然子
-      :DYNASTY:  元
       :FUNCTION: 注
       :DATES:    fl. 1331 - 1380
       :END:
@@ -2669,7 +2661,6 @@
       :PROPERTIES:
       :ZI:       淵明
       :HAO:      無明子
-      :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    fl. 1173
       :END:
@@ -2699,7 +2690,6 @@
       :PROPERTIES:
       :ZI:       宗禹
       :HAO:      雲峰散人
-      :DYNASTY:  宋
       :FUNCTION: 注
       :DATES:    ca. 1226
       :END:
@@ -2759,6 +2749,7 @@
 :ZHDZ: ZHDZ19p0724
 :XWDZ: XWDZ04p0605
 :HFL: HFL調下004
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0068/0068-004.tif][HFL 0068 004]] 
@@ -2766,7 +2757,6 @@
 ***** 蕭道存
       :PROPERTIES:
       :HAO:      混一子
-      :DYNASTY:  北宋
       :END:
 **** textual witnesses
 ***** SJB
@@ -2855,7 +2845,6 @@
 ***** 侯善淵
       :PROPERTIES:
       :HAO:      太玄子
-      :DYNASTY:  金
       :END:
 **** textual witnesses
 ***** SJB
@@ -2877,7 +2866,6 @@
       :PROPERTIES:
       :ZI:       天覺
       :HAO:      無盡居士
-      :DYNASTY:  宋
       :DATES:    1043 - 1121
       :END:
 **** textual witnesses
@@ -2945,7 +2933,6 @@
 **** responsible:
 ***** 劉牧
       :PROPERTIES:
-      :DYNASTY:  宋
       :DATES:    1011 - 1064
       :END:
 **** textual witnesses
@@ -2966,7 +2953,6 @@
 **** responsible:
 ***** 劉牧
       :PROPERTIES:
-      :DYNASTY:  宋
       :DATES:    1011 - 1064
       :END:
 **** textual witnesses
@@ -2987,7 +2973,6 @@
 **** responsible:
 ***** 張理
       :PROPERTIES:
-      :DYNASTY:  元
       :DATES:    fl. 1314 - 1364
       :END:
 **** textual witnesses
@@ -3008,7 +2993,6 @@
 **** responsible:
 ***** 張理
       :PROPERTIES:
-      :DYNASTY:  元
       :DATES:    fl. 1314 - 1364
       :END:
 **** textual witnesses
@@ -3083,7 +3067,6 @@
 **** responsible:
 ***** 葛洪(att)
       :PROPERTIES:
-      :DYNASTY:  晉
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -3104,7 +3087,6 @@
 **** responsible:
 ***** 陶弘景
       :PROPERTIES:
-      :DYNASTY:  梁
       :FUNCTION: 編
       :DATES:    ca. 500
       :END:
@@ -3209,7 +3191,6 @@
 ***** 張大淳
       :PROPERTIES:
       :HAO:      沖靖明真微妙大師
-      :DYNASTY:  宋
       :FUNCTION: 編
       :END:
 **** textual witnesses
@@ -3234,7 +3215,6 @@
       :HAO:      長春壺天
       :HAO:      林間羽客
       :HAO:      樗櫟道人
-      :DYNASTY:  元
       :END:
 **** textual witnesses
 ***** SJB
@@ -3256,7 +3236,6 @@
 ***** 劉志玄
       :PROPERTIES:
       :HAO:      廬山清溪道人
-      :DYNASTY:  元
       :FUNCTION: 編
       :END:
 ***** 謝西蟾
@@ -3282,7 +3261,6 @@
 **** responsible:
 ***** 李道謙
       :PROPERTIES:
-      :DYNASTY:  元
       :FUNCTION: 編
       :END:
 **** textual witnesses
@@ -3304,7 +3282,6 @@
 **** responsible:
 ***** 移剌楚才
       :PROPERTIES:
-      :DYNASTY:  元
       :END:
 **** textual witnesses
 ***** SJB
@@ -3341,7 +3318,6 @@
 **** responsible:
 ***** 張萬福
       :PROPERTIES:
-      :DYNASTY:  唐
       :FUNCTION: 編
       :DATES:    fl. 713
       :END:
@@ -4112,7 +4088,6 @@
 **** responsible:
 ***** 陰長生(att)
       :PROPERTIES:
-      :DYNASTY:  漢
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -4211,7 +4186,6 @@
 **** responsible:
 ***** 王常
       :PROPERTIES:
-      :DYNASTY:  宋
       :END:
 **** textual witnesses
 ***** SJB
