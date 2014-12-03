@@ -3108,10 +3108,9 @@
 
 [[dzimg:0073/0073-046.tif][HFL 0073 046]]
 **** responsible:
-***** 葛洪
+***** 葛洪(att)
       :PROPERTIES:
       :DYNASTY:  晉
-      :FUNCTION: ?
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -3169,6 +3168,8 @@
 :ZHDZ: ZHDZ06p0612
 :XWDZ: XWDZ05p0040
 :HFL: HFL騰上150
+:DYNASTY: 明(compilation)
+#original revelation between 1168 and 1177
 :END:
 
 [[dzimg:0073/0073-150.tif][HFL 0073 150]] 
@@ -3462,7 +3463,7 @@
 :ZHDZ: ZHDZ02p0752
 :XWDZ: XWDZ05p0237
 :HFL: HFL雨上148
-:DATES: 220 -589
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0077/0077-148.tif][HFL 0077 148]] 
