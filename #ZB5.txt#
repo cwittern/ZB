@@ -5352,7 +5352,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0284.org][ZB5a0284]] 了明篇 #(元-王惟一)
+*** [[mandoku:ZB5a0284.org][ZB5a0284]] 了明篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0284
 :TTC: 806
@@ -5361,9 +5361,18 @@
 :ZHDZ: ZHDZ19p0701
 :XWDZ: XWDZ08p0009
 :HFL: HFL芥上032
+:DATE: 1168(序)
 :END:
 
 [[dzimg:0133/0133-032.tif][HFL 0133 032]] 
+**** responsible:
+***** 宋先生
+      :PROPERTIES:
+      :END:
+***** 毛日新
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5376,12 +5385,14 @@
 :ZHDZ: ZHDZ31p0358
 :XWDZ: XWDZ08p0017
 :HFL: HFL芥上064
+:DATE: 1304
 :END:
 
 [[dzimg:0133/0133-064.tif][HFL 0133 064]]
 **** responsible:
 ***** 王惟一
       :PROPERTIES:
+      :HAO:   
       :DYNASTY:  元
       :FUNCTION: ?
       :DATES:    ?
