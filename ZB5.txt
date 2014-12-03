@@ -5688,16 +5688,22 @@
 :ZHDZ: ZHDZ47p0213
 :XWDZ: XWDZ08p0305
 :HFL: HFL鹹上004
-:DATE: 129
+:DATE: 1294(甲午)(刊記)
+:DATE: 1294(甲午)(序)
 :END:
 
 [[dzimg:0139/0139-004.tif][HFL 0139 004]]
 **** responsible:
 ***** 趙道一
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 劉辰翁
+      :PROPERTIES:
+      :FUNCTION: 刊記
+      :END:
+***** 鄧光薦
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -5711,15 +5717,13 @@
 :ZHDZ: ZHDZ47p0579
 :XWDZ: XWDZ08p0789
 :HFL: HFL羽上004
+:DATE: 14th or 15th cent?
 :END:
 
 [[dzimg:0149/0149-004.tif][HFL 0149 004]]
 **** responsible:
-***** 趙道一
+***** 趙道一(att)
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5733,15 +5737,13 @@
 :ZHDZ: ZHDZ47p0617
 :XWDZ: XWDZ08p0841
 :HFL: HFL羽下004
+:DATE: fl. 1294
 :END:
 
 [[dzimg:0150/0150-004.tif][HFL 0150 004]]
 **** responsible:
 ***** 趙道一
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5755,15 +5757,13 @@
 :ZHDZ: ZHDZ45p0433
 :XWDZ: XWDZ09p0001
 :HFL: HFL翔上004
+:DYNASTY: 五代
 :END:
 
 [[dzimg:0151/0151-004.tif][HFL 0151 004]]
 **** responsible:
 ***** 隱夫玉簡
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5783,9 +5783,7 @@
 **** responsible:
 ***** 賈嵩
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      薛蘿孺子
       :END:
 **** textual witnesses
 ***** SJB
@@ -5802,13 +5800,6 @@
 :END:
 
 [[dzimg:0151/0151-148.tif][HFL 0151 148]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -5821,15 +5812,19 @@
 :ZHDZ: ZHDZ46p0245
 :XWDZ: XWDZ09p0045
 :HFL: HFL翔下004
+:DATE: 517
 :END:
 
 [[dzimg:0152/0152-004.tif][HFL 0152 004]]
 **** responsible:
+***** 周子良
+      :PROPERTIES:
+      :DATES:    497 - 516 
+      :END:
 ***** 陶弘景
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -5843,12 +5838,13 @@
 :ZHDZ: ZHDZ46p0190
 :XWDZ: XWDZ09p0082
 :HFL: HFL翔下150
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0152/0152-150.tif][HFL 0152 150]] 
 **** textual witnesses
 ***** SJB
-***** ZHDZ
+***** ZHDZ<!-- here 2014-12-03 -->
 *** [[mandoku:ZB5a0316.org][ZB5a0316]] 茅山誌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0316
