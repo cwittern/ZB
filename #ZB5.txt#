@@ -8095,6 +8095,7 @@
 :ZHDZ: ZHDZ01p0249
 :XWDZ: XWDZ11p0473
 :HFL: HFL國上120
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0196/0196-120.tif][HFL 0196 120]] 
@@ -8113,6 +8114,13 @@
 :END:
 
 [[dzimg:0196/0196-158.tif][HFL 0196 158]] 
+**** responsible:
+***** 明皇(att)
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 序
+      :DATES:    r. 712 - 756
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -8185,15 +8193,14 @@
 :ZHDZ: ZHDZ04p0348
 :XWDZ: XWDZ11p0530
 :HFL: HFL國下158
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0197/0197-158.tif][HFL 0197 158]]
 **** responsible:
-***** 東方朔
+***** 東方朔(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -145 - -93
       :END:
 **** textual witnesses
 ***** SJB
@@ -8208,6 +8215,7 @@
 :ZHDZ: ZHDZ02p0106
 :XWDZ: XWDZ11p0544
 :HFL: HFL有上004
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0198/0198-004.tif][HFL 0198 004]] 
