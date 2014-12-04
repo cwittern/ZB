@@ -7232,6 +7232,7 @@
 :ZHDZ: ZHDZ30p0127
 :XWDZ: XWDZ10p0715
 :HFL: HFL服下138
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0182/0182-138.tif][HFL 0182 138]] 
@@ -7263,6 +7264,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ10p0721
 :HFL: HFL衣上004
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0183/0183-004.tif][HFL 0183 004]] 
@@ -7278,9 +7280,20 @@
 :ZHDZ: ZHDZ32p0582
 :XWDZ: XWDZ10p0765
 :HFL: HFL衣中004
+:DATE: after 913(序)
 :END:
 
 [[dzimg:0184/0184-004.tif][HFL 0184 004]] 
+**** responsible:
+***** 陸修靜(att)
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
+***** 杜光庭(att)
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    850 - 933
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -7293,6 +7306,7 @@
 :ZHDZ: ZHDZ04p0370
 :XWDZ: XWDZ10p0793
 :HFL: HFL衣中114
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0184/0184-114.tif][HFL 0184 114]] 
@@ -7308,15 +7322,13 @@
 :ZHDZ: ZHDZ04p0375
 :XWDZ: XWDZ10p0801
 :HFL: HFL衣下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-004.tif][HFL 0185 004]]
 **** responsible:
 ***** 李玄真
       :PROPERTIES:
-      :DYNASTY:  　
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -7330,6 +7342,7 @@
 :ZHDZ: ZHDZ02p0554
 :XWDZ: XWDZ10p0813
 :HFL: HFL衣下050
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-050.tif][HFL 0185 050]] 
@@ -7351,9 +7364,8 @@
 **** responsible:
 ***** 閭丘方遠
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玄洞先生
+      :DATES:    d. 902
       :END:
 **** textual witnesses
 ***** SJB
@@ -7367,6 +7379,7 @@
 :ZHDZ: ZHDZ32p0658
 :XWDZ: XWDZ10p0818
 :HFL: HFL衣下066
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-066.tif][HFL 0185 066]] 
