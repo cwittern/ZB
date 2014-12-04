@@ -5844,7 +5844,7 @@
 [[dzimg:0152/0152-150.tif][HFL 0152 150]] 
 **** textual witnesses
 ***** SJB
-***** ZHDZ<!-- here 2014-12-03 -->
+***** ZHDZ
 *** [[mandoku:ZB5a0316.org][ZB5a0316]] 茅山誌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0316
@@ -5854,15 +5854,26 @@
 :ZHDZ: ZHDZ48p0366
 :XWDZ: XWDZ09p0093
 :HFL: HFL龍上004
+:DATE: 1324(序 by 趙世延)
+:DATE: 1327(序 by 吳全節)
+:DATE: 1328(編)
 :END:
 
 [[dzimg:0153/0153-004.tif][HFL 0153 004]]
 **** responsible:
 ***** 劉大彬
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玉虛子
+      :FUNCTION: 編
+      :DATES:    ca. 1330
+      :END:
+***** 趙世延
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
+***** 吳全節
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -5882,9 +5893,7 @@
 **** responsible:
 ***** 苗善時
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1324
       :END:
 **** textual witnesses
 ***** SJB
@@ -5898,15 +5907,13 @@
 :ZHDZ: ZHDZ48p0198
 :XWDZ: XWDZ09p0379
 :HFL: HFL帝下004
+:DATE: 1314(序)
 :END:
 
 [[dzimg:0160/0160-004.tif][HFL 0160 004]]
 **** responsible:
 ***** 張輅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5920,15 +5927,20 @@
 :ZHDZ: ZHDZ48p0189
 :XWDZ: XWDZ09p0395
 :HFL: HFL帝下064
+:DATE: 1183(序)
 :END:
 
 [[dzimg:0160/0160-064.tif][HFL 0160 064]]
 **** responsible:
 ***** 王處一
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       子淵
+      :HAO:      蓮峰逸士
+      :END:
+***** 劉大用
+      :PROPERTIES:
+      :ZI:       器之
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -5942,15 +5954,13 @@
 :ZHDZ: ZHDZ46p0529
 :XWDZ: XWDZ09p0409
 :HFL: HFL帝下118
+:DATE: ca. 1238
 :END:
 
 [[dzimg:0160/0160-118.tif][HFL 0160 118]]
 **** responsible:
 ***** 祿昭聞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5965,6 +5975,7 @@
 :ZHDZ: ZHDZ44p0431
 :XWDZ: XWDZ09p0417
 :HFL: HFL鳥上004
+:DYNASTY: 元 or 明
 :END:
 
 [[dzimg:0161/0161-004.tif][HFL 0161 004]] 
@@ -5980,20 +5991,19 @@
 :ZHDZ: ZHDZ43p0034
 :XWDZ: XWDZ09p0426
 :HFL: HFL鳥上038
+:DATE: between 1100 - 1125
 :END:
 
 [[dzimg:0161/0161-038.tif][HFL 0161 038]]
 **** responsible:
 ***** 張商英
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0323.org][ZB5a0323]] 黃帝陰符經頌(元陽子)
+*** [[mandoku:ZB5a0323.org][ZB5a0323]] 黃帝陰符經頌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0323
 :TTC: 322
@@ -6002,13 +6012,18 @@
 :ZHDZ: ZHDZ15p0851
 :XWDZ: XWDZ09p0439
 :HFL: HFL鳥上090
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0161/0161-090.tif][HFL 0161 090]] 
+**** responsible:
+***** 元陽子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0324.org][ZB5a0324]] 太上昇玄消災護命妙經頌 #(唐-司馬承禎)
+*** [[mandoku:ZB5a0324.org][ZB5a0324]] 太上昇玄消災護命妙經頌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0324
 :TTC: 727 - 728
@@ -6020,6 +6035,13 @@
 :END:
 
 [[dzimg:0161/0161-104.tif][HFL 0161 104]] 
+**** responsible:
+***** 張白
+      :PROPERTIES:
+      :ZI:       虛白
+      :HAO:      白雲子
+      :DATES:    fl. second half of 10th cent
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6032,15 +6054,14 @@
 :ZHDZ: ZHDZ06p0109
 :XWDZ: XWDZ05p0777
 :HFL: HFL鳥下004
+:DATE: early 13th cent
 :END:
 
 [[dzimg:0162/0162-004.tif][HFL 0162 004]]
 **** responsible:
-***** 超然子
+***** 王吉昌
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      超然子
       :END:
 **** textual witnesses
 ***** SJB
@@ -6054,6 +6075,7 @@
 :ZHDZ: ZHDZ44p0544
 :XWDZ: XWDZ09p0451
 :HFL: HFL鳥下016
+:DYNASTY: 元?
 :END:
 
 [[dzimg:0162/0162-016.tif][HFL 0162 016]] 
@@ -6061,7 +6083,7 @@
 ***** SJB
 ***** ZHDZ
 ** CMTS0112	表奏類 Biaozou Memorials	
-*** [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集(宋真宗)
+*** [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0327
 :TTC: 1012
@@ -6073,6 +6095,12 @@
 :END:
 
 [[dzimg:0163/0163-004.tif][HFL 0163 004]] 
+**** responsible:
+***** 趙德昌
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :DATES:    r. 997 - 1022
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6102,9 +6130,15 @@
 :ZHDZ: ZHDZ31p0623
 :XWDZ: XWDZ10p0001
 :HFL: HFL人上004
+:DATE: 1420(序)
 :END:
 
 [[dzimg:0165/0165-004.tif][HFL 0165 004]] 
+**** responsible:
+***** 永樂帝
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6117,6 +6151,7 @@
 :ZHDZ: ZHDZ03p0079
 :XWDZ: XWDZ10p0004
 :HFL: HFL人上014
+:DATE: ca. 400
 :END:
 
 [[dzimg:0165/0165-014.tif][HFL 0165 014]] 
@@ -6132,6 +6167,7 @@
 :ZHDZ: ZHDZ05p0053
 :XWDZ: XWDZ10p0013
 :HFL: HFL人上048
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0165/0165-048.tif][HFL 0165 048]] 
@@ -6147,6 +6183,7 @@
 :ZHDZ: ZHDZ03p0052
 :XWDZ: XWDZ10p0021
 :HFL: HFL人上078
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0165/0165-078.tif][HFL 0165 078]] 
@@ -6162,6 +6199,7 @@
 :ZHDZ: ZHDZ04p0145
 :XWDZ: XWDZ10p0032
 :HFL: HFL人上122
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0165/0165-122.tif][HFL 0165 122]] 
@@ -6177,6 +6215,7 @@
 :ZHDZ: ZHDZ03p0060
 :XWDZ: XWDZ10p0039
 :HFL: HFL人中004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0166/0166-004.tif][HFL 0166 004]] 
@@ -6192,6 +6231,7 @@
 :ZHDZ: ZHDZ04p0162
 :XWDZ: XWDZ10p0043
 :HFL: HFL人中018
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0166/0166-018.tif][HFL 0166 018]] 
@@ -6207,6 +6247,7 @@
 :ZHDZ: ZHDZ02p0032
 :XWDZ: XWDZ10p0050
 :HFL: HFL人中046
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0166/0166-046.tif][HFL 0166 046]] 
@@ -6222,6 +6263,7 @@
 :ZHDZ: ZHDZ03p0299
 :XWDZ: XWDZ10p0075
 :HFL: HFL人下004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0167/0167-004.tif][HFL 0167 004]] 
@@ -6237,6 +6279,7 @@
 :ZHDZ: ZHDZ06p0089
 :XWDZ: XWDZ10p0082
 :HFL: HFL人下054
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0167/0167-054.tif][HFL 0167 054]] 
@@ -6252,6 +6295,7 @@
 :ZHDZ: ZHDZ06p0094
 :XWDZ: XWDZ19p0089
 :HFL: HFL人下058
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0167/0167-058.tif][HFL 0167 058]] 
@@ -6267,6 +6311,7 @@
 :ZHDZ: ZHDZ04p0288
 :XWDZ: XWDZ19p0089
 :HFL: HFL人下060
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0167/0167-060.tif][HFL 0167 060]] 
@@ -6282,6 +6327,7 @@
 :ZHDZ: ZHDZ05p0275
 :XWDZ: XWDZ10p0091
 :HFL: HFL人下066
+:DATE: early 7th cent
 :END:
 
 [[dzimg:0167/0167-066.tif][HFL 0167 066]] 
@@ -6297,6 +6343,7 @@
 :ZHDZ: ZHDZ04p0091
 :XWDZ: XWDZ10p0099
 :HFL: HFL人下096
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0167/0167-096.tif][HFL 0167 096]] 
@@ -6312,6 +6359,7 @@
 :ZHDZ: ZHDZ23p0001
 :XWDZ: XWDZ10p0107
 :HFL: HFL人下128
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0167/0167-128.tif][HFL 0167 128]] 
@@ -6327,6 +6375,7 @@
 :ZHDZ: ZHDZ23p0007
 :XWDZ: XWDZ10p0114
 :HFL: HFL人下154
+:DATE: before 255
 :END:
 
 [[dzimg:0167/0167-154.tif][HFL 0167 154]] 
@@ -6342,6 +6391,7 @@
 :ZHDZ: ZHDZ04p0286
 :XWDZ: XWDZ10p0117
 :HFL: HFL人下166
+:DATE: 12th or 13th cent
 :END:
 
 [[dzimg:0167/0167-166.tif][HFL 0167 166]] 
@@ -6357,6 +6407,7 @@
 :ZHDZ: ZHDZ04p0655
 :XWDZ: XWDZ10p0121
 :HFL: HFL皇上004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0168/0168-004.tif][HFL 0168 004]] 
@@ -6372,9 +6423,16 @@
 :ZHDZ: ZHDZ30p0001
 :XWDZ: XWDZ10p0229
 :HFL: HFL始上004
+:DYNASTY: 東晉後期
 :END:
 
 [[dzimg:0170/0170-004.tif][HFL 0170 004]] 
+**** responsible:
+***** 杜光庭
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    850 - 933
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6387,6 +6445,7 @@
 :ZHDZ: ZHDZ05p0153
 :XWDZ: XWDZ10p0353
 :HFL: HFL文上004
+:DYNASTY: 隋 or 唐初期
 :END:
 
 [[dzimg:0174/0174-004.tif][HFL 0174 004]] 
@@ -6402,6 +6461,7 @@
 :ZHDZ: ZHDZ04p0218
 :XWDZ: XWDZ10p0429
 :HFL: HFL字上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0176/0176-004.tif][HFL 0176 004]] 
@@ -6417,6 +6477,7 @@
 :ZHDZ: ZHDZ04p0001
 :XWDZ: XWDZ10p0434
 :HFL: HFL字上022
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0176/0176-022.tif][HFL 0176 022]] 
@@ -6432,6 +6493,7 @@
 :ZHDZ: ZHDZ04p0262
 :XWDZ: XWDZ10p0440
 :HFL: HFL字上044
+:DATE: 7th cent
 :END:
 
 [[dzimg:0176/0176-044.tif][HFL 0176 044]] 
@@ -6492,6 +6554,7 @@
 :ZHDZ: ZHDZ04p0290
 :XWDZ: XWDZ10p0467
 :HFL: HFL字上148
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0176/0176-148.tif][HFL 0176 148]] 
@@ -6507,6 +6570,7 @@
 :ZHDZ: ZHDZ04p0111
 :XWDZ: XWDZ10p0471
 :HFL: HFL字下004
+:DATE: 5th cent
 :END:
 
 [[dzimg:0177/0177-004.tif][HFL 0177 004]] 
@@ -6522,6 +6586,7 @@
 :ZHDZ: ZHDZ04p0152
 :XWDZ: XWDZ10p0481
 :HFL: HFL字下042
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0177/0177-042.tif][HFL 0177 042]] 
@@ -6537,6 +6602,7 @@
 :ZHDZ: ZHDZ03p0313
 :XWDZ: XWDZ10p0495
 :HFL: HFL字下098
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0177/0177-098.tif][HFL 0177 098]] 
@@ -6552,6 +6618,7 @@
 :ZHDZ: ZHDZ03p0322
 :XWDZ: XWDZ10p0498
 :HFL: HFL字下110
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0177/0177-110.tif][HFL 0177 110]] 
@@ -6567,6 +6634,7 @@
 :ZHDZ: ZHDZ03p0315
 :XWDZ: XWDZ10p0503
 :HFL: HFL字下128
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0177/0177-128.tif][HFL 0177 128]] 
@@ -6586,6 +6654,11 @@
 :END:
 
 [[dzimg:0177/0177-142.tif][HFL 0177 142]] 
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6598,6 +6671,7 @@
 :ZHDZ: ZHDZ06p0088
 :XWDZ: XWDZ10p0512
 :HFL: HFL字下162
+:DYNASTY: 唐前半
 :END:
 
 [[dzimg:0177/0177-162.tif][HFL 0177 162]] 
@@ -6613,6 +6687,7 @@
 :ZHDZ: ZHDZ04p0326
 :XWDZ: XWDZ10p0513
 :HFL: HFL字下165
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0177/0177-165.tif][HFL 0177 165]] 
@@ -6628,6 +6703,7 @@
 :ZHDZ: ZHDZ03p0026
 :XWDZ: XWDZ10p0517
 :HFL: HFL乃上004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0178/0178-004.tif][HFL 0178 004]] 
@@ -6643,6 +6719,7 @@
 :ZHDZ: ZHDZ02p0441
 :XWDZ: XWDZ10p0550
 :HFL: HFL乃上132
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0178/0178-132.tif][HFL 0178 132]] 
@@ -6658,6 +6735,7 @@
 :ZHDZ: ZHDZ01p0344
 :XWDZ: XWDZ10p0559
 :HFL: HFL乃中004
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0179/0179-004.tif][HFL 0179 004]] 
@@ -6673,6 +6751,7 @@
 :ZHDZ: ZHDZ04p0189
 :XWDZ: XWDZ10p0581
 :HFL: HFL乃中090
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0179/0179-090.tif][HFL 0179 090]] 
@@ -6688,6 +6767,7 @@
 :ZHDZ: ZHDZ04p0747
 :XWDZ: XWDZ10p0583
 :HFL: HFL乃中096
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0179/0179-096.tif][HFL 0179 096]] 
@@ -6718,6 +6798,7 @@
 :ZHDZ: ZHDZ06p0221
 :XWDZ: XWDZ10p0590
 :HFL: HFL乃中124
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0179/0179-124.tif][HFL 0179 124]] 
@@ -6734,6 +6815,7 @@
 :ZHDZ: ZHDZ04p0337
 :XWDZ: XWDZ06p0233
 :HFL: HFL乃中128
+:DYNASTY: 宋 or later
 :END:
 
 [[dzimg:0179/0179-128.tif][HFL 0179 128]] 
@@ -6764,6 +6846,7 @@
 :ZHDZ: ZHDZ03p0239
 :XWDZ: XWDZ10p0597
 :HFL: HFL乃下004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0180/0180-004.tif][HFL 0180 004]] 
@@ -6884,6 +6967,7 @@
 :ZHDZ: ZHDZ03p0753
 :XWDZ: XWDZ10p0633
 :HFL: HFL服上004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0181/0181-004.tif][HFL 0181 004]] 
@@ -6899,6 +6983,7 @@
 :ZHDZ: ZHDZ04p0167
 :XWDZ: XWDZ10p0643
 :HFL: HFL服上042
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0181/0181-042.tif][HFL 0181 042]] 
@@ -6914,6 +6999,7 @@
 :ZHDZ: ZHDZ04p0295
 :XWDZ: XWDZ10p0658
 :HFL: HFL服上100
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0181/0181-100.tif][HFL 0181 100]] 
@@ -6929,6 +7015,7 @@
 :ZHDZ: ZHDZ06p0222
 :XWDZ: XWDZ10p0662
 :HFL: HFL服上114
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0181/0181-114.tif][HFL 0181 114]] 
@@ -6944,6 +7031,7 @@
 :ZHDZ: ZHDZ04p0298
 :XWDZ: XWDZ10p0663
 :HFL: HFL服上118
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0181/0181-118.tif][HFL 0181 118]] 
@@ -6974,6 +7062,7 @@
 :ZHDZ: ZHDZ04p0310
 :XWDZ: XWDZ10p0672
 :HFL: HFL服上154
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0181/0181-154.tif][HFL 0181 154]] 
@@ -6989,6 +7078,7 @@
 :ZHDZ: ZHDZ04p0181
 :XWDZ: XWDZ10p0674
 :HFL: HFL服上160
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0181/0181-160.tif][HFL 0181 160]] 
@@ -7049,6 +7139,7 @@
 :ZHDZ: ZHDZ31p0389
 :XWDZ: XWDZ10p0703
 :HFL: HFL服下092
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0182/0182-092.tif][HFL 0182 092]] 
@@ -7064,6 +7155,7 @@
 :ZHDZ: ZHDZ30p0117
 :XWDZ: XWDZ10p0707
 :HFL: HFL服下108
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0182/0182-108.tif][HFL 0182 108]] 
@@ -7124,6 +7216,7 @@
 :ZHDZ: ZHDZ32p0682
 :XWDZ: XWDZ10p0713
 :HFL: HFL服下130
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0182/0182-130.tif][HFL 0182 130]] 
@@ -7139,6 +7232,7 @@
 :ZHDZ: ZHDZ30p0127
 :XWDZ: XWDZ10p0715
 :HFL: HFL服下138
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0182/0182-138.tif][HFL 0182 138]] 
@@ -7170,6 +7264,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ10p0721
 :HFL: HFL衣上004
+:DYNASTY: 東晉
 :END:
 
 [[dzimg:0183/0183-004.tif][HFL 0183 004]] 
@@ -7185,9 +7280,20 @@
 :ZHDZ: ZHDZ32p0582
 :XWDZ: XWDZ10p0765
 :HFL: HFL衣中004
+:DATE: after 913(序)
 :END:
 
 [[dzimg:0184/0184-004.tif][HFL 0184 004]] 
+**** responsible:
+***** 陸修靜(att)
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
+***** 杜光庭(att)
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    850 - 933
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -7200,6 +7306,7 @@
 :ZHDZ: ZHDZ04p0370
 :XWDZ: XWDZ10p0793
 :HFL: HFL衣中114
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0184/0184-114.tif][HFL 0184 114]] 
@@ -7215,15 +7322,13 @@
 :ZHDZ: ZHDZ04p0375
 :XWDZ: XWDZ10p0801
 :HFL: HFL衣下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-004.tif][HFL 0185 004]]
 **** responsible:
 ***** 李玄真
       :PROPERTIES:
-      :DYNASTY:  　
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -7237,6 +7342,7 @@
 :ZHDZ: ZHDZ02p0554
 :XWDZ: XWDZ10p0813
 :HFL: HFL衣下050
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-050.tif][HFL 0185 050]] 
@@ -7258,9 +7364,8 @@
 **** responsible:
 ***** 閭丘方遠
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玄洞先生
+      :DATES:    d. 902
       :END:
 **** textual witnesses
 ***** SJB
@@ -7274,6 +7379,7 @@
 :ZHDZ: ZHDZ32p0658
 :XWDZ: XWDZ10p0818
 :HFL: HFL衣下066
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0185/0185-066.tif][HFL 0185 066]] 
@@ -7289,6 +7395,7 @@
 :ZHDZ: ZHDZ04p0388
 :XWDZ: XWDZ10p0822
 :HFL: HFL衣下082
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0185/0185-082.tif][HFL 0185 082]] 
@@ -7305,15 +7412,14 @@
 :ZHDZ: ZHDZ03p0131
 :XWDZ: XWDZ11p0001
 :HFL: HFL裳上004
+:DATE: 1252
 :END:
 
 [[dzimg:0186/0186-004.tif][HFL 0186 004]]
 **** responsible:
 ***** 董思靖
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      圭山
       :END:
 **** textual witnesses
 ***** SJB
@@ -7327,20 +7433,19 @@
 :ZHDZ: ZHDZ03p0089
 :XWDZ: XWDZ11p0055
 :HFL: HFL裳下004
+:DATE: 1205
 :END:
 
 [[dzimg:0187/0187-004.tif][HFL 0187 004]]
 **** responsible:
 ***** 王希巢
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       隱賢
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0082.org][ZB5b0082]] 洞玄靈寶自然九天生神章經注(華陽復)
+*** [[mandoku:ZB5b0082.org][ZB5b0082]] 洞玄靈寶自然九天生神章經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0082
 :TTC: 726
@@ -7349,9 +7454,18 @@
 :ZHDZ: ZHDZ03p0169
 :XWDZ: XWDZ11p0114
 :HFL: HFL推上004
+:DATE: 1332
 :END:
 
 [[dzimg:0188/0188-004.tif][HFL 0188 004]] 
+**** responsible:
+***** 華陽復
+      :PROPERTIES:
+      :END:
+***** 張守清
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ

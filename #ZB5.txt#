@@ -7395,6 +7395,7 @@
 :ZHDZ: ZHDZ04p0388
 :XWDZ: XWDZ10p0822
 :HFL: HFL衣下082
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0185/0185-082.tif][HFL 0185 082]] 
@@ -7411,15 +7412,14 @@
 :ZHDZ: ZHDZ03p0131
 :XWDZ: XWDZ11p0001
 :HFL: HFL裳上004
+:DATE: 1252
 :END:
 
 [[dzimg:0186/0186-004.tif][HFL 0186 004]]
 **** responsible:
 ***** 董思靖
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      圭山
       :END:
 **** textual witnesses
 ***** SJB
@@ -7433,20 +7433,19 @@
 :ZHDZ: ZHDZ03p0089
 :XWDZ: XWDZ11p0055
 :HFL: HFL裳下004
+:DATE: 1205
 :END:
 
 [[dzimg:0187/0187-004.tif][HFL 0187 004]]
 **** responsible:
 ***** 王希巢
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       隱賢
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0082.org][ZB5b0082]] 洞玄靈寶自然九天生神章經注(華陽復)
+*** [[mandoku:ZB5b0082.org][ZB5b0082]] 洞玄靈寶自然九天生神章經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0082
 :TTC: 726
@@ -7455,9 +7454,18 @@
 :ZHDZ: ZHDZ03p0169
 :XWDZ: XWDZ11p0114
 :HFL: HFL推上004
+:DATE: 1332
 :END:
 
 [[dzimg:0188/0188-004.tif][HFL 0188 004]] 
+**** responsible:
+***** 華陽復
+      :PROPERTIES:
+      :END:
+***** 張守清
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
