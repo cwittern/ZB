@@ -8319,17 +8319,20 @@
 :ZHDZ: ZHDZ46p0394
 :XWDZ: XWDZ11p0654
 :HFL: HFL虞上038
-:DATE: 1246(foreword , 序)
-:DATE: 1250(postface)
+:DATE: 1246(前文 , 序)
+:DATE: 1250(跋 by 勇悟真人施岑)
+:DATE: 1247(丁未)(跋 by 孫元明)
 :END:
 
 [[dzimg:0200/0200-038.tif][HFL 0200 038]]
 **** responsible:
-***** 施岑
+***** 勇悟真人施岑
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 跋
+      :END:
+***** 孫元明
+      :PROPERTIES:
+      :FUNCTION: 跋
       :END:
 **** textual witnesses
 ***** SJB
