@@ -8393,7 +8393,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0136.org][ZB5b0136]] 南嶽九真人傳(廖侁)
+*** [[mandoku:ZB5b0136.org][ZB5b0136]] 南嶽九真人傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0136
 :TTC: 902
@@ -8402,9 +8402,15 @@
 :ZHDZ: ZHDZ46p0619
 :XWDZ: XWDZ11p0722
 :HFL: HFL虞下114
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0201/0201-114.tif][HFL 0201 114]] 
+**** responsible:
+***** 廖侁
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -8417,15 +8423,13 @@
 :ZHDZ: ZHDZ46p0622
 :XWDZ: XWDZ11p0725
 :HFL: HFL虞下157
+:DATE: 902
 :END:
 
 [[dzimg:0201/0201-157.tif][HFL 0201 157]]
 **** responsible:
 ***** 李沖昭
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -8440,6 +8444,7 @@
 :ZHDZ: ZHDZ03p0265
 :XWDZ: XWDZ11p0733
 :HFL: HFL陶上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0202/0202-004.tif][HFL 0202 004]] 
