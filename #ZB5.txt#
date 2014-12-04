@@ -10249,7 +10249,7 @@
 ***** SJB
 ***** ZHDZ
 ** CMTS0208	方法類
-*** [[mandoku:ZB5b0249.org][ZB5b0249]] 靈寶玉監目錄
+*** [[mandoku:ZB5b0249.org][ZB5b0249]] 靈寶玉鑑目錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0249
 :TTC: 1018 - 1021
@@ -10294,14 +10294,13 @@
 **** responsible:
 ***** 鄭思肖
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      所南
+      :DATES:    1241 - 1318
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0252.org][ZB5b0252]] 太極祭煉內法議略
+*** [[mandoku:ZB5b0252.org][ZB5b0252]] 太極祭煉內法議略#
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0252
 :DZ: xx
@@ -10331,6 +10330,7 @@
 :ZHDZ: ZHDZ31p0542
 :XWDZ: XWDZ17p0535
 :HFL: HFL此下004
+:DYNASTY: 宋後期?
 :END:
 
 [[dzimg:0313/0313-004.tif][HFL 0313 004]] 
@@ -10409,10 +10409,14 @@
 :END:
 
 [[dzimg:0313/0313-142.tif][HFL 0313 142]] 
+**** responsible:
+***** 周方文
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0259.org][ZB5b0259]] 高上月宮太陰元君孝道仙王靈寶淨明黃素書(傅飛卿)
+*** [[mandoku:ZB5b0259.org][ZB5b0259]] 高上月宮太陰元君孝道仙王靈寶淨明黃素書
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0259
 :TTC: 1118
@@ -10424,10 +10428,15 @@
 :END:
 
 [[dzimg:0314/0314-004.tif][HFL 0314 004]] 
+**** responsible:
+***** 傅飛卿
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0260.org][ZB5b0260]] 靈寶淨明黃素書釋義祕訣(周方文)
+*** [[mandoku:ZB5b0260.org][ZB5b0260]] 靈寶淨明黃素書釋義祕訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0260
 :TTC: 1118
@@ -10439,6 +10448,10 @@
 :END:
 
 [[dzimg:0314/0314-124.tif][HFL 0314 124]] 
+**** responsible:
+***** 周方文
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
