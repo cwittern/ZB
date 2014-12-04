@@ -9950,11 +9950,9 @@
 
 [[dzimg:0294/0294-060.tif][HFL 0294 060]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭?
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9971,6 +9969,11 @@
 :END:
 
 [[dzimg:0294/0294-080.tif][HFL 0294 080]] 
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9983,6 +9986,7 @@
 :ZHDZ: ZHDZ06p0775
 :XWDZ: XWDZ16p0551
 :HFL: HFL被上004
+:DATE: 12th or 13th cent
 :END:
 
 [[dzimg:0295/0295-004.tif][HFL 0295 004]] 
@@ -9998,6 +10002,7 @@
 :ZHDZ: ZHDZ03p0286
 :XWDZ: XWDZ16p0557
 :HFL: HFL被上024
+:DATE: ca. 400
 :END:
 
 [[dzimg:0295/0295-024.tif][HFL 0295 024]] 
@@ -10013,6 +10018,7 @@
 :ZHDZ: ZHDZ42p0080
 :XWDZ: XWDZ16p0562
 :HFL: HFL被上044
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0295/0295-044.tif][HFL 0295 044]] 
@@ -10028,6 +10034,7 @@
 :ZHDZ: ZHDZ04p0102
 :XWDZ: XWDZ16p0566
 :HFL: HFL被上058
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0295/0295-058.tif][HFL 0295 058]] 
