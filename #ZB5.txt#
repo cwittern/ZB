@@ -9797,7 +9797,7 @@
 *** [[mandoku:ZB5b0222.org][ZB5b0222]] 太上靈寶玉匱明真齋懺方儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0222
-:TTC: 582 - 583
+:TTC: 582
 :DZ: DZ0519
 :page: 090805a
 :ZHDZ: ZHDZ43p0695
@@ -9812,7 +9812,7 @@
 *** [[mandoku:ZB5b0223.org][ZB5b0223]] 太上靈寶玉匱明真大齋懺方儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0223
-:TTC: 582 - 583
+:TTC: 582
 :DZ: DZ0520
 :page: 090808a
 :ZHDZ: ZHDZ43p0698
@@ -9821,13 +9821,6 @@
 :END:
 
 [[dzimg:0293/0293-080.tif][HFL 0293 080]]
-**** responsible:
-***** 杜光庭
-      :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9846,9 +9839,7 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9877,6 +9868,7 @@
 :ZHDZ: ZHDZ43p0716
 :XWDZ: XWDZ16p0491
 :HFL: HFL化上146
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0293/0293-146.tif][HFL 0293 146]] 
@@ -9895,6 +9887,11 @@
 :END:
 
 [[dzimg:0293/0293-158.tif][HFL 0293 158]] 
+**** responsible:
+***** 陸修靜(att)
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9913,9 +9910,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9933,11 +9929,10 @@
 
 [[dzimg:0294/0294-044.tif][HFL 0294 044]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭?
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
