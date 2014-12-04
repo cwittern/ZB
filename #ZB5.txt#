@@ -8652,10 +8652,21 @@
 :END:
 
 [[dzimg:0208/0208-102.tif][HFL 0208 102]] 
+**** responsible:
+***** 寧全真
+      :PROPERTIES:
+      :FUNCTION: 傳
+      :DATES:    1101 - 1181
+      :END:
+***** 林靈真(att)
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    1239 - 1302
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0151.org][ZB5b0151]] 大明玄教立成齋醮儀 #(明-宗真宗)
+*** [[mandoku:ZB5b0151.org][ZB5b0151]] 大明玄教立成齋醮儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0151
 :TTC: 1038
@@ -8664,9 +8675,15 @@
 :ZHDZ: ZHDZ44p0616
 :XWDZ: XWDZ15p0001
 :HFL: HFL壹上004
+:DATE: 1374(序)
 :END:
 
 [[dzimg:0264/0264-004.tif][HFL 0264 004]] 
+**** responsible:
+***** 宋宗真
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -8784,6 +8801,7 @@
 :ZHDZ: ZHDZ31p0645
 :XWDZ: XWDZ09p0039
 :HFL: HFL壹下004
+:DATE: 1397(出版)
 :END:
 
 [[dzimg:0265/0265-004.tif][HFL 0265 004]] 
@@ -8799,6 +8817,7 @@
 :ZHDZ: ZHDZ31p0625
 :XWDZ: XWDZ15p0070
 :HFL: HFL壹下036
+:DYNASTY: 明
 :END:
 
 [[dzimg:0265/0265-036.tif][HFL 0265 036]] 
@@ -8874,6 +8893,7 @@
 :ZHDZ: ZHDZ44p0407
 :XWDZ: XWDZ15p0092
 :HFL: HFL壹下116
+:DYNASTY: 明
 :END:
 
 [[dzimg:0265/0265-116.tif][HFL 0265 116]] 
@@ -8910,9 +8930,7 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9020,11 +9038,9 @@
 
 [[dzimg:0266/0266-104.tif][HFL 0266 104]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭(att)
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
