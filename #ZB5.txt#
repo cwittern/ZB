@@ -5991,20 +5991,19 @@
 :ZHDZ: ZHDZ43p0034
 :XWDZ: XWDZ09p0426
 :HFL: HFL鳥上038
+:DATE: between 1100 - 1125
 :END:
 
 [[dzimg:0161/0161-038.tif][HFL 0161 038]]
 **** responsible:
 ***** 張商英
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5a0323.org][ZB5a0323]] 黃帝陰符經頌(元陽子)
+*** [[mandoku:ZB5a0323.org][ZB5a0323]] 黃帝陰符經頌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0323
 :TTC: 322
@@ -6013,9 +6012,13 @@
 :ZHDZ: ZHDZ15p0851
 :XWDZ: XWDZ09p0439
 :HFL: HFL鳥上090
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0161/0161-090.tif][HFL 0161 090]] 
+**** responsible:
+***** 元陽子
+
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
