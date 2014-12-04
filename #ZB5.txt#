@@ -5907,16 +5907,13 @@
 :ZHDZ: ZHDZ48p0198
 :XWDZ: XWDZ09p0379
 :HFL: HFL帝下004
-:DATE: 1314()
+:DATE: 1314(序)
 :END:
 
 [[dzimg:0160/0160-004.tif][HFL 0160 004]]
 **** responsible:
 ***** 張輅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5930,15 +5927,20 @@
 :ZHDZ: ZHDZ48p0189
 :XWDZ: XWDZ09p0395
 :HFL: HFL帝下064
+:DATE: 1183(序)
 :END:
 
 [[dzimg:0160/0160-064.tif][HFL 0160 064]]
 **** responsible:
 ***** 王處一
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       子淵
+      :HAO:      蓮峰逸士
+      :END:
+***** 劉大用
+      :PROPERTIES:
+      :ZI:       器之
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -5952,15 +5954,13 @@
 :ZHDZ: ZHDZ46p0529
 :XWDZ: XWDZ09p0409
 :HFL: HFL帝下118
+:DATE: ca. 1238
 :END:
 
 [[dzimg:0160/0160-118.tif][HFL 0160 118]]
 **** responsible:
 ***** 祿昭聞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -5975,6 +5975,7 @@
 :ZHDZ: ZHDZ44p0431
 :XWDZ: XWDZ09p0417
 :HFL: HFL鳥上004
+:DYNASTY: 元 or 明
 :END:
 
 [[dzimg:0161/0161-004.tif][HFL 0161 004]] 
