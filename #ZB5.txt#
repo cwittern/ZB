@@ -8352,7 +8352,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0134.org][ZB5b0134]] 太極葛仙公傳(譚嗣先)
+*** [[mandoku:ZB5b0134.org][ZB5b0134]] 太極葛仙公傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0134
 :TTC: 905
@@ -8361,9 +8361,19 @@
 :ZHDZ: ZHDZ46p0179
 :XWDZ: XWDZ11p0700
 :HFL: HFL虞下030
+:DATE: 1377(序)
 :END:
 
 [[dzimg:0201/0201-030.tif][HFL 0201 030]] 
+**** responsible:
+***** 譚嗣先
+      :PROPERTIES:
+      :ZI:       道林
+      :END:
+***** 朱綽
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -8376,16 +8386,10 @@
 :ZHDZ: ZHDZ46p0535
 :XWDZ: XWDZ11p0715
 :HFL: HFL虞下038
+:DATE: first half of the 14th cent
 :END:
 
 [[dzimg:0201/0201-038.tif][HFL 0201 038]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
