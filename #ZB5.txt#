@@ -6083,7 +6083,7 @@
 ***** SJB
 ***** ZHDZ
 ** CMTS0112	表奏類 Biaozou Memorials	
-*** [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集(宋真宗)
+*** [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0327
 :TTC: 1012
@@ -6096,11 +6096,10 @@
 
 [[dzimg:0163/0163-004.tif][HFL 0163 004]] 
 **** responsible:
-***** 徽宗(att)
+***** 趙德昌
       :PROPERTIES:
       :DYNASTY:  宋
-      :FUNCTION: 序
-      :DATES:    r. 1100 - 1125
+      :DATES:    r. 997 - 1022
       :END:
 **** textual witnesses
 ***** SJB
@@ -6131,9 +6130,15 @@
 :ZHDZ: ZHDZ31p0623
 :XWDZ: XWDZ10p0001
 :HFL: HFL人上004
+:DATE: 1420(序)
 :END:
 
 [[dzimg:0165/0165-004.tif][HFL 0165 004]] 
+**** responsible:
+***** 永樂帝
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -6146,6 +6151,7 @@
 :ZHDZ: ZHDZ03p0079
 :XWDZ: XWDZ10p0004
 :HFL: HFL人上014
+:DATE: ca. 400
 :END:
 
 [[dzimg:0165/0165-014.tif][HFL 0165 014]] 
@@ -6161,6 +6167,7 @@
 :ZHDZ: ZHDZ05p0053
 :XWDZ: XWDZ10p0013
 :HFL: HFL人上048
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0165/0165-048.tif][HFL 0165 048]] 
@@ -6176,6 +6183,7 @@
 :ZHDZ: ZHDZ03p0052
 :XWDZ: XWDZ10p0021
 :HFL: HFL人上078
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0165/0165-078.tif][HFL 0165 078]] 
@@ -6191,6 +6199,7 @@
 :ZHDZ: ZHDZ04p0145
 :XWDZ: XWDZ10p0032
 :HFL: HFL人上122
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0165/0165-122.tif][HFL 0165 122]] 
@@ -6206,6 +6215,7 @@
 :ZHDZ: ZHDZ03p0060
 :XWDZ: XWDZ10p0039
 :HFL: HFL人中004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0166/0166-004.tif][HFL 0166 004]] 
@@ -6221,6 +6231,7 @@
 :ZHDZ: ZHDZ04p0162
 :XWDZ: XWDZ10p0043
 :HFL: HFL人中018
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0166/0166-018.tif][HFL 0166 018]] 
