@@ -5854,15 +5854,26 @@
 :ZHDZ: ZHDZ48p0366
 :XWDZ: XWDZ09p0093
 :HFL: HFL龍上004
+:DATE: 1324(序 by 趙世延)
+:DATE: 1327(序 by 吳全節)
+:DATE: 1328(編)
 :END:
 
 [[dzimg:0153/0153-004.tif][HFL 0153 004]]
 **** responsible:
 ***** 劉大彬
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玉虛子
+      :FUNCTION: 編
+      :DATES:    ca. 1330
+      :END:
+***** 趙世延
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
+***** 吳全節
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -5882,9 +5893,7 @@
 **** responsible:
 ***** 苗善時
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1324
       :END:
 **** textual witnesses
 ***** SJB
@@ -5898,6 +5907,7 @@
 :ZHDZ: ZHDZ48p0198
 :XWDZ: XWDZ09p0379
 :HFL: HFL帝下004
+:DATE: 1314()
 :END:
 
 [[dzimg:0160/0160-004.tif][HFL 0160 004]]
