@@ -8460,6 +8460,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ11p0737
 :HFL: HFL陶上020
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0202/0202-020.tif][HFL 0202 020]] 
@@ -8475,6 +8476,7 @@
 :ZHDZ: ZHDZ03p0766
 :XWDZ: XWDZ11p0743
 :HFL: HFL陶上042
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0202/0202-042.tif][HFL 0202 042]] 
@@ -8490,6 +8492,7 @@
 :ZHDZ: ZHDZ03p0248
 :XWDZ: XWDZ11p0762
 :HFL: HFL陶上118
+:DATE: ca. 400
 :END:
 
 [[dzimg:0202/0202-118.tif][HFL 0202 118]] 
@@ -8520,6 +8523,7 @@
 :ZHDZ: ZHDZ42p0649
 :XWDZ: XWDZ11p0784
 :HFL: HFL陶下020
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0203/0203-020.tif][HFL 0203 020]] 
@@ -8535,6 +8539,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ11p0785
 :HFL: HFL陶下034
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0203/0203-034.tif][HFL 0203 034]] 
@@ -8554,11 +8559,14 @@
 
 [[dzimg:0203/0203-084.tif][HFL 0203 084]]
 **** responsible:
+***** 饒洞天
+      :PROPERTIES:
+      :DATES:    fl. 994
+      :END:
 ***** 鄧有功
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    before 1116
       :END:
 **** textual witnesses
 ***** SJB
@@ -8572,13 +8580,14 @@
 :ZHDZ: ZHDZ42p0078
 :XWDZ: XWDZ11p0817
 :HFL: HFL陶下158
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0203/0203-158.tif][HFL 0203 158]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0147.org][ZB5b0147]] 要修科儀戒律鈔(朱法滿)
+*** [[mandoku:ZB5b0147.org][ZB5b0147]] 要修科儀戒律鈔
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0147
 :TTC: 455 - 456
@@ -8587,9 +8596,15 @@
 :ZHDZ: ZHDZ42p0159
 :XWDZ: XWDZ11p0819
 :HFL: HFL唐上004
+:DATE: early 8th cent
 :END:
 
 [[dzimg:0204/0204-004.tif][HFL 0204 004]] 
+**** responsible:
+***** 朱君緒
+      :PROPERTIES:
+      :ZI:       法滿
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -8602,6 +8617,7 @@
 :ZHDZ: ZHDZ42p0245
 :XWDZ: XWDZ11p0943
 :HFL: HFL弔下088
+:DATE: 9th - 10th cent
 :END:
 
 [[dzimg:0207/0207-088.tif][HFL 0207 088]] 
