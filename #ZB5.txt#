@@ -8231,6 +8231,7 @@
 :ZHDZ: ZHDZ02p0708
 :XWDZ: XWDZ11p0551
 :HFL: HFL有上028
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0198/0198-028.tif][HFL 0198 028]] 
@@ -8246,15 +8247,14 @@
 :ZHDZ: ZHDZ46p0272
 :XWDZ: XWDZ11p0555
 :HFL: HFL有上042
+:DATE: 920(序)
 :END:
 
 [[dzimg:0198/0198-042.tif][HFL 0198 042]]
 **** responsible:
-***** 劉處靜
+***** 劉處靜(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      廣成先生
       :END:
 **** textual witnesses
 ***** SJB
@@ -8274,9 +8274,7 @@
 **** responsible:
 ***** 張萬福
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 713
       :END:
 **** textual witnesses
 ***** SJB
@@ -8305,6 +8303,7 @@
 :ZHDZ: ZHDZ46p0420
 :XWDZ: XWDZ11p0645
 :HFL: HFL虞上004
+:DYNASTY: 元
 :END:
 
 [[dzimg:0200/0200-004.tif][HFL 0200 004]] 
@@ -8320,6 +8319,8 @@
 :ZHDZ: ZHDZ46p0394
 :XWDZ: XWDZ11p0654
 :HFL: HFL虞上038
+:DATE: 1246(foreword , 序)
+:DATE: 1250(postface)
 :END:
 
 [[dzimg:0200/0200-038.tif][HFL 0200 038]]
