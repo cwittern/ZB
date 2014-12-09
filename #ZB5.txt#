@@ -13674,9 +13674,8 @@
 **** responsible:
 ***** 陳景元
       :PROPERTIES:
-      :HAO:      
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      碧虛子
+      :DATES:    1025 - 1094
       :END:
 **** textual witnesses
 ***** SJB
@@ -13696,9 +13695,8 @@
 **** responsible:
 ***** 牛道淳
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      逍遙子
+      :DATES:    fl. 1296
       :END:
 **** textual witnesses
 ***** SJB
@@ -13712,15 +13710,14 @@
 :ZHDZ: ZHDZ08p0113
 :XWDZ: XWDZ24p0719
 :HFL: HFL賢中078
+:DATE: 1254
 :END:
 
 [[dzimg:0453/0453-078.tif][HFL 0453 078]]
 **** responsible:
 ***** 陳顯微
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      抱一子
       :END:
 **** textual witnesses
 ***** SJB
@@ -13734,20 +13731,19 @@
 :ZHDZ: ZHDZ15p0192
 :XWDZ: XWDZ25p0001
 :HFL: HFL克上004
+:DATE: ca. 1260
 :END:
 
 [[dzimg:0455/0455-004.tif][HFL 0455 004]]
 **** responsible:
 ***** 林希逸
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      鬳齋
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0116.org][ZB5c0116]] 沖虛至德真經解 #(宋-江澂)　　
+*** [[mandoku:ZB5c0116.org][ZB5c0116]] 沖虛至德真經解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0116
 :TTC: 682 - 683
@@ -13756,13 +13752,18 @@
 :ZHDZ: ZHDZ15p0086
 :XWDZ: XWDZ25p0107
 :HFL: HFL念上004
+:DATE: ca. 1110
 :END:
 
 [[dzimg:0457/0457-004.tif][HFL 0457 004]] 
+**** responsible:
+***** 江遹
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0117.org][ZB5c0117]] 沖虛至德真經義解(宋徽宗)
+*** [[mandoku:ZB5c0117.org][ZB5c0117]] 沖虛至德真經義解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0117
 :TTC: 683
@@ -13771,9 +13772,15 @@
 :ZHDZ: ZHDZ15p0053
 :XWDZ: XWDZ25p0261
 :HFL: HFL作下026
+:DATE: 1118
 :END:
 
 [[dzimg:0460/0460-026.tif][HFL 0460 026]] 
+**** responsible:
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY: 宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -13786,9 +13793,17 @@
 :ZHDZ: ZHDZ15p0266
 :XWDZ: XWDZ25p0309
 :HFL: HFL聖上004
+:DATE: 1189
 :END:
 
 [[dzimg:0461/0461-004.tif][HFL 0461 004]] 
+**** responsible:
+***** 高守元
+      :PROPERTIES:
+      :ZI:       善長
+      :HAO:      和光散人
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -13801,15 +13816,17 @@
 :ZHDZ: ZHDZ15p0036
 :XWDZ: XWDZ25p0558
 :HFL: HFL德下108
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0466/0466-108.tif][HFL 0466 108]]
 **** responsible:
 ***** 殷敬順
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 陳景元
+      :PROPERTIES:
+      :HAO:      碧
       :END:
 **** textual witnesses
 ***** SJB
