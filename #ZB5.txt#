@@ -12405,7 +12405,7 @@
       :END:
 **** textual witnesses
 ***** SJB
-***** ZHDZ<here
+***** ZHDZ
 *** [[mandoku:ZB5c0050.org][ZB5c0050]] 洞靈真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0050
@@ -12419,11 +12419,8 @@
 
 [[dzimg:0349/0349-004.tif][HFL 0349 004]]
 **** responsible:
-***** 庚桑楚
+***** 庚桑楚(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12441,11 +12438,9 @@
 
 [[dzimg:0349/0349-066.tif][HFL 0349 066]]
 **** responsible:
-***** 莊周
+***** 莊周(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -4th cent 後半
       :END:
 **** textual witnesses
 ***** SJB
@@ -12460,6 +12455,7 @@
 :ZHDZ: ZHDZ03p0193
 :XWDZ: XWDZ19p0457
 :HFL: HFL潔上004
+:DATE: ca. 400
 :END:
 
 [[dzimg:0352/0352-004.tif][HFL 0352 004]] 
@@ -12475,6 +12471,7 @@
 :ZHDZ: ZHDZ06p0159
 :XWDZ: XWDZ19p0472
 :HFL: HFL潔上060
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0352/0352-060.tif][HFL 0352 060]] 
@@ -12490,6 +12487,7 @@
 :ZHDZ: ZHDZ32p0627
 :XWDZ: XWDZ19p0475
 :HFL: HFL潔上072
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0352/0352-072.tif][HFL 0352 072]] 
@@ -12505,10 +12503,11 @@
 :ZHDZ: ZHDZ02p0639
 :XWDZ: XWDZ19p0525
 :HFL: HFL潔下122
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0353/0353-122.tif][HFL 0353 122]] 
-**** textual witnesses
+here**** textual witnesses
 ***** SJB
 ***** ZHDZ
 *** [[mandoku:ZB5c0056.org][ZB5c0056]] 上清丹天三氣玉皇六辰飛綱司命大籙
