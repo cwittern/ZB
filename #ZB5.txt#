@@ -10840,7 +10840,8 @@
       :END:
 ***** 黃公望
       :PROPERTIES:
-      :FUNCTION: 
+      :FUNCTION: 傳
+      :DATES: 1269 - 1354
       :END:
 **** textual witnesses
 ***** SJB
@@ -10869,6 +10870,7 @@
 :ZHDZ: ZHDZ23p0676
 :XWDZ: XWDZ18p0070
 :HFL: HFL大下074
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0321/0321-074.tif][HFL 0321 074]] 
@@ -10884,6 +10886,7 @@
 :ZHDZ: ZHDZ19p0636
 :XWDZ: XWDZ18p0084
 :HFL: HFL大下130
+:DYNASTY: 元初期
 :END:
 
 [[dzimg:0321/0321-130.tif][HFL 0321 130]] 
@@ -10899,9 +10902,15 @@
 :ZHDZ: ZHDZ32p0529
 :XWDZ: XWDZ18p0101
 :HFL: HFL五上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0322/0322-004.tif][HFL 0322 004]] 
+**** responsible:
+***** 皇甫朋
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -10974,9 +10983,14 @@
 :ZHDZ: ZHDZ32p0835
 :XWDZ: XWDZ18p0158
 :HFL: HFL五中066
+:DATE: late 14th cent
 :END:
 
 [[dzimg:0323/0323-066.tif][HFL 0323 066]] 
+**** responsible:
+***** 吳昇
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -11022,13 +11036,6 @@
 :END:
 
 [[dzimg:0324/0324-040.tif][HFL 0324 040]]
-**** responsible:
-***** 陶弘景
-      :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
