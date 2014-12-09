@@ -13971,16 +13971,10 @@
 :ZHDZ: ZHDZ13p0706
 :XWDZ: XWDZ27p0121
 :HFL: HFL聽上118
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0497/0497-118.tif][HFL 0497 118]]
-**** responsible:
-***** 賈善翔
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -13999,14 +13993,12 @@
 **** responsible:
 ***** 吳澄
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1249 - 1333
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0128.org][ZB5c0128]] 南華真經循本(羅勉道)
+*** [[mandoku:ZB5c0128.org][ZB5c0128]] 南華真經循本
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0128
 :TTC: 680
@@ -14018,6 +14010,11 @@
 :END:
 
 [[dzimg:0498/0498-004.tif][HFL 0498 004]] 
+**** responsible:
+***** 羅勉道
+      :PROPERTIES:
+      :DATES:    d. 1367
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
