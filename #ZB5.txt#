@@ -14015,6 +14015,10 @@
       :PROPERTIES:
       :DATES:    d. 1367
       :END:
+***** 彭祥
+      :PROPERTIES:
+      :FUNCTION: 校正
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -14033,9 +14037,8 @@
 **** responsible:
 ***** 王雱
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       元澤
+      :DATES:    1044 - 1076
       :END:
 **** textual witnesses
 ***** SJB
@@ -14055,9 +14058,8 @@
 **** responsible:
 ***** 王雱
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       元澤
+      :DATES:    1044 - 1076
       :END:
 **** textual witnesses
 ***** SJB
@@ -14077,14 +14079,16 @@
 **** responsible:
 ***** 郭象
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 312
+      :END:
+***** 成玄英
+      :PROPERTIES:
+      :DATES:    fl. 650
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0132.org][ZB5c0132]] 通玄真經註(一)
+*** [[mandoku:ZB5c0132.org][ZB5c0132]] 通玄真經(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0132
 :TTC: 296 - 297
@@ -14093,20 +14097,20 @@
 :ZHDZ: ZHDZ15p0442
 :XWDZ: XWDZ28p0233
 :HFL: HFL璧上004
+:DATE: 809 - 815
 :END:
 
 [[dzimg:0520/0520-004.tif][HFL 0520 004]]
 **** responsible:
-***** 默希子
+***** 徐靈府
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      默希子
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0133.org][ZB5c0133]] 洞靈真經(何璨)
+*** [[mandoku:ZB5c0133.org][ZB5c0133]] 洞靈真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0133
 :TTC: 316 - 317
@@ -14118,6 +14122,11 @@
 :END:
 
 [[dzimg:0522/0522-024.tif][HFL 0522 024]] 
+**** responsible:
+***** 何璨(粲)
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -14130,20 +14139,19 @@
 :ZHDZ: ZHDZ15p0587
 :XWDZ: XWDZ16p0754
 :HFL: HFL非上004
+:DATE: ca. 1310
 :END:
 
 [[dzimg:0523/0523-004.tif][HFL 0523 004]]
 **** responsible:
 ***** 杜道堅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      南谷子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0135.org][ZB5c0135]] 通玄真經纘義釋音
+*** [[mandoku:ZB5c0135.org][ZB5c0135]] 通玄真經纘義釋音#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0135
 :DZ: xx
@@ -14172,9 +14180,7 @@
 **** responsible:
 ***** 朱弁
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      正儀
       :END:
 **** textual witnesses
 ***** SJB
