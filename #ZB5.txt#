@@ -14194,20 +14194,24 @@
 :ZHDZ: ZHDZ06p0677
 :XWDZ: XWDZ28p0539
 :HFL: HFL寸上004
+:DATE: 1334
 :END:
 
 [[dzimg:0527/0527-004.tif][HFL 0527 004]]
 **** responsible:
 ***** 徐道齡
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玄陽子
+      :END:
+***** 徐道玄
+      :PROPERTIES:
+      :HAO:      乾陽子
+      :FUNCTION: 校正
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0138.org][ZB5c0138]] 太上玄靈北斗本命延生真經註解(玄元真人)
+*** [[mandoku:ZB5c0138.org][ZB5c0138]] 太上玄靈北斗本命延生真經註解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0138
 :TTC: 732 - 733
@@ -14219,10 +14223,14 @@
 :END:
 
 [[dzimg:0528/0528-044.tif][HFL 0528 044]] 
+**** responsible:
+***** 玄元真人
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0139.org][ZB5c0139]] 太上玄靈北斗本命延生經註(傅洞真)
+*** [[mandoku:ZB5c0139.org][ZB5c0139]] 太上玄靈北斗本命延生經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0139
 :TTC: 734 - 735
@@ -14234,10 +14242,14 @@
 :END:
 
 [[dzimg:0529/0529-004.tif][HFL 0529 004]] 
+**** responsible:
+***** 傅洞真
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0140.org][ZB5c0140]] 北斗七元金玄羽章(傅洞真)
+*** [[mandoku:ZB5c0140.org][ZB5c0140]] 北斗七元金玄羽章
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0140
 :TTC: 734 - 735
@@ -14282,9 +14294,9 @@
 **** responsible:
 ***** 李道純
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      清庵
+      :HAO:      瑩蟾子
+      :DATES:    fl. 1290
       :END:
 **** textual witnesses
 ***** SJB
@@ -14298,6 +14310,7 @@
 :ZHDZ: ZHDZ06p0015
 :XWDZ: XWDZ28p0755
 :HFL: HFL是上018
+:DYNASTY: 元?
 :END:
 
 [[dzimg:0532/0532-144.tif][HFL 0532 144]] 
@@ -14314,13 +14327,14 @@
 :ZHDZ: ZHDZ05p0054
 :XWDZ: XWDZ28p0791
 :HFL: HFL是上158
+:DATE: 1312
 :END:
 
 [[dzimg:0532/0532-158.tif][HFL 0532 158]]
 **** responsible:
 ***** 白玉蟾
       :PROPERTIES:
-      :DYNASTY:  宋
+      :HAO:      瓊琯子
       :FUNCTION: ?
       :DATES:    ?
       :END:
