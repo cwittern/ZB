@@ -12363,8 +12363,9 @@
 
 [[dzimg:0346/0346-096.tif][HFL 0346 096]] 
 **** responsible:
-***** 宋徽宗
+***** 徽宗
       :PROPERTIES:
+      :DYNASTY:  宋
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -12628,7 +12629,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0062.org][ZB5c0062]] 宋徽宗御解道德真經(宋徽宗)
+*** [[mandoku:ZB5c0062.org][ZB5c0062]] 宋徽宗御解道德真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0062
 :TTC: 647 - 648
@@ -12637,9 +12638,15 @@
 :ZHDZ: ZHDZ10p0667
 :XWDZ: XWDZ19p0783
 :HFL: HFL才下004
+:DATE: ca. 1111 - 1118
 :END:
 
 [[dzimg:0359/0359-004.tif][HFL 0359 004]] 
+**** responsible:
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -12652,15 +12659,14 @@
 :ZHDZ: ZHDZ10p0710
 :XWDZ: XWDZ20p0001
 :HFL: HFL良上004
+:DATE: before 1125
 :END:
 
 [[dzimg:0360/0360-004.tif][HFL 0360 004]]
 **** responsible:
 ***** 章安
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -12674,15 +12680,13 @@
 :ZHDZ: ZHDZ09p0127
 :XWDZ: XWDZ20p0123
 :HFL: HFL知上004
+:DYNASTY: 漢後期
 :END:
 
 [[dzimg:0363/0363-004.tif][HFL 0363 004]]
 **** responsible:
-***** 河上公章句
+***** 河上公(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12696,15 +12700,13 @@
 :ZHDZ: ZHDZ10p0639
 :XWDZ: XWDZ20p0159
 :HFL: HFL知下004
+:DATE: 1101(序)
 :END:
 
 [[dzimg:0364/0364-004.tif][HFL 0364 004]]
 **** responsible:
 ***** 陳象古
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12718,15 +12720,14 @@
 :ZHDZ: ZHDZ12p0040
 :XWDZ: XWDZ20p0187
 :HFL: HFL過上004
+:DATE: 1179(序)
+:DATE: 1180(跋)
 :END:
 
 [[dzimg:0365/0365-004.tif][HFL 0365 004]]
 **** responsible:
 ***** 寇才質
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12746,9 +12747,7 @@
 **** responsible:
 ***** 陸希聲
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 889 - 9
       :END:
 **** textual witnesses
 ***** SJB
