@@ -990,7 +990,7 @@
 :ZHDZ: ZHDZ05p0269
 :XWDZ: XWDZ02p0567
 :HFL: HFL宿中026
-:DATES: early 7th cent
+:DATES: 7th cent 初期
 :END:
 
 [[dzimg:0031/0031-026.tif][HFL 0031 026]] 
@@ -2040,7 +2040,7 @@
 **** responsible:
 ***** 沈亞夫
       :PROPERTIES:
-      :DATES:    11th or early 12th cent?
+      :DATES:    11th or 12th cent 初期?
       :END:
 **** textual witnesses
 ***** SJB
@@ -4519,7 +4519,7 @@
 ***** 王吉昌
       :PROPERTIES:
       :HAO:      超然子
-      :DATES:    active early 13th cent
+      :DATES:    active 13th cent 初期
       :END:
 **** textual witnesses
 ***** SJB
@@ -4817,7 +4817,7 @@
       :PROPERTIES:
       :ZI:       大信
       :HAO:      大水逸人
-      :DATES:    early 9th cent
+      :DATES:    9th cent 初期
       :END:
 **** textual witnesses
 ***** SJB
@@ -5595,7 +5595,7 @@
 :ZHDZ: ZHDZ45p0570
 :XWDZ: XWDZ08p0206
 :HFL: HFL海上028
-:DATE: early 4th cent? , 281(discovered)
+:DATE: 4th cent 初期? , 281(discovered)
 :END:
 
 [[dzimg:0137/0137-028.tif][HFL 0137 028]]
@@ -6054,7 +6054,7 @@
 :ZHDZ: ZHDZ06p0109
 :XWDZ: XWDZ05p0777
 :HFL: HFL鳥下004
-:DATE: early 13th cent
+:DATE: 13th cent 初期
 :END:
 
 [[dzimg:0162/0162-004.tif][HFL 0162 004]]
@@ -6327,7 +6327,7 @@
 :ZHDZ: ZHDZ05p0275
 :XWDZ: XWDZ10p0091
 :HFL: HFL人下066
-:DATE: early 7th cent
+:DATE: 7th cent 初期
 :END:
 
 [[dzimg:0167/0167-066.tif][HFL 0167 066]] 
@@ -8596,7 +8596,7 @@
 :ZHDZ: ZHDZ42p0159
 :XWDZ: XWDZ11p0819
 :HFL: HFL唐上004
-:DATE: early 8th cent
+:DATE: 8th cent 初期
 :END:
 
 [[dzimg:0204/0204-004.tif][HFL 0204 004]] 
@@ -12343,14 +12343,13 @@
 **** responsible:
 ***** 傅奕
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    555 - 639
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0047.org][ZB5c0047]] 西昇經(宋徽宗)
+*** [[mandoku:ZB5c0047.org][ZB5c0047]] 西昇經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0047
 :TTC: 686
@@ -12359,9 +12358,15 @@
 :ZHDZ: ZHDZ08p0227
 :XWDZ: XWDZ19p0235
 :HFL: HFL慕上096
+:DATE: ca. 1117
 :END:
 
 [[dzimg:0346/0346-096.tif][HFL 0346 096]] 
+**** responsible:
+***** 宋徽宗
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -12374,16 +12379,10 @@
 :ZHDZ: ZHDZ08p0007
 :XWDZ: XWDZ19p0271
 :HFL: HFL慕中100
+:DATE: 12th cent
 :END:
 
 [[dzimg:0347/0347-100.tif][HFL 0347 100]]
-**** responsible:
-***** 尹喜
-      :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -12400,11 +12399,9 @@
 
 [[dzimg:0348/0348-004.tif][HFL 0348 004]]
 **** responsible:
-***** 列禦寇
+***** 列禦寇(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    4th cent 初期
       :END:
 **** textual witnesses
 ***** SJB
