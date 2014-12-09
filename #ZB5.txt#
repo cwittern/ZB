@@ -13166,9 +13166,9 @@
 **** responsible:
 ***** 吳澄
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       幼請
+      :HAO:      草廬
+      :DATES:    1249 - 1333
       :END:
 **** textual witnesses
 ***** SJB
@@ -13183,15 +13183,13 @@
 :ZHDZ: ZHDZ11p0275
 :XWDZ: XWDZ21p0548
 :HFL: HFL短上066
+:DATE: 1246(序)
 :END:
 
 [[dzimg:0393/0393-066.tif][HFL 0393 066]]
 **** responsible:
 ***** 董思靖
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -13205,13 +13203,19 @@
 :ZHDZ: ZHDZ10p0529
 :XWDZ: XWDZ21p0607
 :HFL: HFL靡上004
+:DATE: 1098
 :END:
 
 [[dzimg:0395/0395-004.tif][HFL 0395 004]] 
+**** responsible:
+***** 梁迥
+      :PROPERTIES:
+      :FUNCTION: 刊記
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0091.org][ZB5c0091]] 道德真經集註釋音
+*** [[mandoku:ZB5c0091.org][ZB5c0091]] 道德真經集註釋音#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0091
 :DZ: xx
@@ -13241,15 +13245,14 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ21p0767
 :HFL: HFL恃中080
+:DATE: 1229(序)
 :END:
 
 [[dzimg:0398/0398-080.tif][HFL 0398 080]]
 **** responsible:
 ***** 彭耜
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      鶴林真逸
       :END:
 **** textual witnesses
 ***** SJB
@@ -13269,9 +13272,7 @@
 **** responsible:
 ***** 彭耜
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      鶴林真逸
       :END:
 **** textual witnesses
 ***** SJB
@@ -13291,9 +13292,7 @@
 **** responsible:
 ***** 彭耜
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      鶴林真逸
       :END:
 **** textual witnesses
 ***** SJB
@@ -13311,11 +13310,9 @@
 
 [[dzimg:0404/0404-004.tif][HFL 0404 004]]
 **** responsible:
-***** 顧歡
+***** 顧歡(att)
       :PROPERTIES:
-      :DYNASTY:  南齊
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    420 - 483
       :END:
 **** textual witnesses
 ***** SJB
@@ -13335,9 +13332,8 @@
 **** responsible:
 ***** 強思齊
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    9th cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -13351,15 +13347,13 @@
 :ZHDZ: ZHDZ12p0707
 :XWDZ: XWDZ22p0597
 :HFL: HFL覆中004
+:DATE: 1387
 :END:
 
 [[dzimg:0414/0414-004.tif][HFL 0414 004]]
 **** responsible:
 ***** 危大有
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -13373,15 +13367,13 @@
 :ZHDZ: ZHDZ09p0536
 :XWDZ: XWDZ22p0740
 :HFL: HFL器下004
+:DATE: 809
 :END:
 
 [[dzimg:0417/0417-004.tif][HFL 0417 004]]
 **** responsible:
 ***** 王真
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -13389,20 +13381,21 @@
 *** [[mandoku:ZB5c0099.org][ZB5c0099]] 道德真經藏室纂微篇開題
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0099
-:TTC: 
+:TTC: 641 - 643
 :DZ: DZ0714a
 :page: 130652c
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ23p0001
 :HFL: HFL欲上004
+:DATE: 1072
 :END:
 
 [[dzimg:0418/0418-004.tif][HFL 0418 004]]
 **** responsible:
 ***** 陳景元
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
+      :ZI:       太初
+      :FU: ?
       :DATES:    ?
       :END:
 **** textual witnesses
