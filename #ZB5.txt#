@@ -10764,20 +10764,18 @@
 :ZHDZ: ZHDZ19p0146
 :XWDZ: XWDZ18p0026
 :HFL: HFL大上100
+:DATE: 10th cent
 :END:
 
 [[dzimg:0320/0320-100.tif][HFL 0320 100]]
 **** responsible:
 ***** 通玄先生
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0279.org][ZB5b0279]] 玄珠心鏡註 #(真一子)
+*** [[mandoku:ZB5b0279.org][ZB5b0279]] 玄珠心鏡註
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0279
 :TTC: 300 - 301
@@ -10786,13 +10784,18 @@
 :ZHDZ: ZHDZ23p0318
 :XWDZ: XWDZ18p0028
 :HFL: HFL大上108
+:DYNASTY: 五代
 :END:
 
 [[dzimg:0320/0320-108.tif][HFL 0320 108]] 
+**** responsible:
+***** 衡嶽真子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0280.org][ZB5b0280]] 玄珠心鏡註 #(唐-長孫)
+*** [[mandoku:ZB5b0280.org][ZB5b0280]] 玄珠心鏡註
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0280
 :TTC: 301
@@ -10801,13 +10804,24 @@
 :ZHDZ: ZHDZ23p0305
 :XWDZ: XWDZ18p0033
 :HFL: HFL大上128
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0320/0320-128.tif][HFL 0320 128]] 
+**** responsible:
+***** 王損之
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
+***** 長孫紫
+      :PROPERTIES:
+      :HAO:      巨澤
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0281.org][ZB5b0281]] 抱一函三祕訣(金月巖)
+*** [[mandoku:ZB5b0281.org][ZB5b0281]] 抱一函三祕訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0281
 :TTC: 1172
@@ -10819,6 +10833,15 @@
 :END:
 
 [[dzimg:0321/0321-004.tif][HFL 0321 004]] 
+**** responsible:
+***** 金月巖
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+***** 黃公望
+      :PROPERTIES:
+      :FUNCTION: 
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
