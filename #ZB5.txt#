@@ -13817,6 +13817,7 @@
 :XWDZ: XWDZ25p0558
 :HFL: HFL德下108
 :DYNASTY: 唐
+:DATE: 1069(增補)
 :END:
 
 [[dzimg:0466/0466-108.tif][HFL 0466 108]]
@@ -13826,7 +13827,8 @@
       :END:
 ***** 陳景元
       :PROPERTIES:
-      :HAO:      碧
+      :HAO:      碧虛子
+      :FUNCTION: 增補
       :END:
 **** textual witnesses
 ***** SJB
@@ -13840,15 +13842,14 @@
 :ZHDZ: ZHDZ14p0001
 :XWDZ: XWDZ25p0577
 :HFL: HFL建上004
+:DATE: 1265(序)
 :END:
 
 [[dzimg:0467/0467-004.tif][HFL 0467 004]]
 **** responsible:
 ***** 褚伯秀
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       雪巘
       :END:
 **** textual witnesses
 ***** SJB
@@ -13862,15 +13863,20 @@
 :ZHDZ: ZHDZ13p0707
 :XWDZ: XWDZ26p0525
 :HFL: HFL聲上004
+:DATE: 1260(跋)
 :END:
 
 [[dzimg:0488/0488-004.tif][HFL 0488 004]]
 **** responsible:
 ***** 林希逸
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       肅翁
+      :HAO:      竹溪
+      :DATES:    ca. 1210 - 1273
+      :END:
+***** 林經德
+      :PROPERTIES:
+      :FUNCTION: 跋
       :END:
 **** textual witnesses
 ***** SJB
@@ -13884,15 +13890,14 @@
 :ZHDZ: ZHDZ13p0500
 :XWDZ: XWDZ27p0001
 :HFL: HFL習上004
+:DATE: 1084
 :END:
 
 [[dzimg:0495/0495-004.tif][HFL 0495 004]]
 **** responsible:
-***** 碧虛子
+***** 陳景元
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      碧虛子
       :END:
 **** textual witnesses
 ***** SJB
@@ -13910,11 +13915,9 @@
 
 [[dzimg:0497/0497-004.tif][HFL 0497 004]]
 **** responsible:
-***** 碧虛子
+***** 陳景元
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      碧虛子
       :END:
 **** textual witnesses
 ***** SJB
@@ -13932,11 +13935,9 @@
 
 [[dzimg:0497/0497-044.tif][HFL 0497 044]]
 **** responsible:
-***** 碧虛子
+***** 陳景元
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      碧虛子
       :END:
 **** textual witnesses
 ***** SJB
@@ -13950,15 +13951,13 @@
 :ZHDZ: ZHDZ13p0699
 :XWDZ: XWDZ27p0114
 :HFL: HFL聽上090
+:DATE: 1086(序)
 :END:
 
 [[dzimg:0497/0497-090.tif][HFL 0497 090]]
 **** responsible:
 ***** 賈善翔
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
