@@ -13000,7 +13000,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0080.org][ZB5c0080]] 道經異同字
+*** [[mandoku:ZB5c0080.org][ZB5c0080]] 道經異同字#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0080
 :DZ: xx
@@ -13014,7 +13014,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0081.org][ZB5c0081]] 德經異同字
+*** [[mandoku:ZB5c0081.org][ZB5c0081]] 德經異同字#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0081
 :DZ: xx
@@ -13037,9 +13037,15 @@
 :ZHDZ: ZHDZ12p0513
 :XWDZ: XWDZ21p0245
 :HFL: HFL談上004
+:DATE: 1322(序)
 :END:
 
 [[dzimg:0387/0387-004.tif][HFL 0387 004]] 
+**** responsible:
+***** 張嗣成
+      :PROPERTIES:
+      :DATES:    d. 1343
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -13053,15 +13059,15 @@
 :ZHDZ: ZHDZ12p0530
 :XWDZ: XWDZ21p0272
 :HFL: HFL談上098
+:DATE: 1290(序)
 :END:
 
 [[dzimg:0387/0387-098.tif][HFL 0387 098]]
 **** responsible:
 ***** 李道純
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      清庵
+      :HAO:      瑩蟾子#
       :END:
 **** textual witnesses
 ***** SJB
@@ -13075,6 +13081,7 @@
 :ZHDZ: ZHDZ12p0001
 :XWDZ: XWDZ21p0295
 :HFL: HFL談下004
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0388/0388-004.tif][HFL 0388 004]]
