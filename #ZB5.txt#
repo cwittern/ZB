@@ -14519,7 +14519,7 @@
 :ZHDZ: ZHDZ23p0687
 :XWDZ: XWDZ29p0016
 :HFL: HFL競上060
-:DYNASTY
+:DYNASTY: 唐後期?
 :END:
 
 [[dzimg:0534/0534-060.tif][HFL 0534 060]] 
@@ -14535,6 +14535,7 @@
 :ZHDZ: ZHDZ32p0600
 :XWDZ: XWDZ29p0030
 :HFL: HFL競上114
+:DATE: 3rd - 4th cent
 :END:
 
 [[dzimg:0534/0534-114.tif][HFL 0534 114]] 
@@ -14554,11 +14555,14 @@
 
 [[dzimg:0535/0535-004.tif][HFL 0535 004]]
 **** responsible:
-***** 寇宗爽
+***** 寇宗奭
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 許洪
+      :PROPERTIES:
+      :FUNCTION: 改訂
+      :DATES:    fl. 1208
       :END:
 **** textual witnesses
 ***** SJB
@@ -14572,15 +14576,19 @@
 :ZHDZ: ZHDZ21p0045
 :XWDZ: XWDZ29p0211
 :HFL: HFL資上004
+:DATE: 1116
 :END:
 
 [[dzimg:0536/0536-004.tif][HFL 0536 004]]
 **** responsible:
-***** 寇宗爽
+***** 寇宗奭
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 許洪
+      :PROPERTIES:
+      :FUNCTION: 改訂
+      :DATES:    fl. 1208
       :END:
 **** textual witnesses
 ***** SJB
