@@ -10649,6 +10649,7 @@
 :ZHDZ: ZHDZ30p0282
 :XWDZ: XWDZ17p0801
 :HFL: HFL四下056
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0319/0319-056.tif][HFL 0319 056]] 
@@ -10670,14 +10671,13 @@
 **** responsible:
 ***** 趙宜真
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      原陽子
+      :DATES:    d. 1382
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0274.org][ZB5b0274]] 上清大洞九宮朝修祕訣上道(周德大)
+*** [[mandoku:ZB5b0274.org][ZB5b0274]] 上清大洞九宮朝修祕訣上道
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0274
 :TTC: 619
@@ -10689,6 +10689,11 @@
 :END:
 
 [[dzimg:0319/0319-146.tif][HFL 0319 146]] 
+**** responsible:
+***** 周德大
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -10702,15 +10707,14 @@
 :ZHDZ: ZHDZ31p0603
 :XWDZ: XWDZ18p0001
 :HFL: HFL大上004
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0320/0320-004.tif][HFL 0320 004]]
 **** responsible:
-***** 許遜
+***** 許遜(att)
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       旌陽
       :END:
 **** textual witnesses
 ***** SJB
@@ -10724,15 +10728,14 @@
 :ZHDZ: ZHDZ31p0611
 :XWDZ: XWDZ18p0013
 :HFL: HFL大上048
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0320/0320-048.tif][HFL 0320 048]]
 **** responsible:
 ***** 許遜
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       旌陽
       :END:
 **** textual witnesses
 ***** SJB
