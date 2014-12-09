@@ -14603,15 +14603,19 @@
 :ZHDZ: ZHDZ46p0011
 :XWDZ: XWDZ30p0001
 :HFL: HFL與上004
+:DATE: 1193(序)
 :END:
 
 [[dzimg:0551/0551-004.tif][HFL 0551 004]]
 **** responsible:
 ***** 謝守灝
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       懷英
+      :HAO:      觀復大師
+      :END:
+***** 陳傅良
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -14631,9 +14635,12 @@
 **** responsible:
 ***** 謝守灝
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    1134 - 1212
+      :END:
+***** 李致道
+      :PROPERTIES:
+      :FUNCTION: 改訂
       :END:
 **** textual witnesses
 ***** SJB
@@ -14668,9 +14675,7 @@
 **** responsible:
 ***** 謝守灝
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1134 - 1212
       :END:
 **** textual witnesses
 ***** SJB
@@ -14684,15 +14689,15 @@
 :ZHDZ: ZHDZ45p0584
 :XWDZ: XWDZ30p0207
 :HFL: HFL敬下004
+:DATE: 1086 - 1100(編)
 :END:
 
 [[dzimg:0555/0555-004.tif][HFL 0555 004]]
 **** responsible:
 ***** 賈善翔
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       鴻舉
+      :HAO:      崇德悟真大師
       :END:
 **** textual witnesses
 ***** SJB
