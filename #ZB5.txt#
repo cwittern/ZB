@@ -14726,9 +14726,15 @@
 :ZHDZ: ZHDZ30p0586
 :XWDZ: XWDZ30p0271
 :HFL: HFL孝上026
+:DATE: 1108
 :END:
 
 [[dzimg:0556/0556-026.tif][HFL 0556 026]] 
+**** responsible:
+***** 徽宗
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -14741,20 +14747,19 @@
 :ZHDZ: ZHDZ46p0308
 :XWDZ: XWDZ30p0272
 :HFL: HFL孝上030
+:DATE: 1024
 :END:
 
 [[dzimg:0556/0556-030.tif][HFL 0556 030]]
 **** responsible:
 ***** 朱自英
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      觀妙先生
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0165.org][ZB5c0165]] 華蓋山浮丘主郭三真君事實
+*** [[mandoku:ZB5c0165.org][ZB5c0165]] 華蓋山浮丘王郭三真君事實
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0165
 :TTC: 879 - 880
