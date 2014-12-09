@@ -14335,8 +14335,12 @@
 ***** 白玉蟾
       :PROPERTIES:
       :HAO:      瓊琯子
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 王元暉
+      :PROPERTIES:
+      :HAO:      隱微子
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -14356,9 +14360,14 @@
 **** responsible:
 ***** 侯善淵
       :PROPERTIES:
+      :HAO:      太玄子
       :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    12th cent 後半
+      :END:
+***** 毛麾
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    fl. 1187
       :END:
 **** textual witnesses
 ***** SJB
@@ -14376,11 +14385,10 @@
 
 [[dzimg:0533/0533-052.tif][HFL 0533 052]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭(att)
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      廣成先生
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -14400,14 +14408,14 @@
 **** responsible:
 ***** 王玠
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       道淵
+      :HAO:      混然子
+      :DATES:    14th cent 前半
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0148.org][ZB5c0148]] 太上老君元道真經註解(隱芝內秀)
+*** [[mandoku:ZB5c0148.org][ZB5c0148]] 太上老君元道真經註解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0148
 :TTC: 738
@@ -14419,6 +14427,13 @@
 :END:
 
 [[dzimg:0533/0533-174.tif][HFL 0533 174]] 
+**** responsible:
+***** 隱芝
+      :PROPERTIES:
+      :ZI:       內秀
+      :HAO:      合明子
+      :DATES:    fl. 13th cent
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -14431,15 +14446,14 @@
 :ZHDZ: ZHDZ06p0176
 :XWDZ: XWDZ28p0861
 :HFL: HFL是下214
+:DYNASTY: 金
 :END:
 
 [[dzimg:0533/0533-214.tif][HFL 0533 214]]
 **** responsible:
 ***** 侯善淵
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      太玄子
       :END:
 **** textual witnesses
 ***** SJB
@@ -14453,15 +14467,13 @@
 :ZHDZ: ZHDZ23p0155
 :XWDZ: XWDZ28p0866
 :HFL: HFL是下234
+:DATE: 736
 :END:
 
 [[dzimg:0533/0533-234.tif][HFL 0533 234]]
 **** responsible:
 ***** 尹愔
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -14491,6 +14503,7 @@
 :ZHDZ: ZHDZ02p0092
 :XWDZ: XWDZ29p0006
 :HFL: HFL競上020
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0534/0534-020.tif][HFL 0534 020]] 
@@ -14506,6 +14519,7 @@
 :ZHDZ: ZHDZ23p0687
 :XWDZ: XWDZ29p0016
 :HFL: HFL競上060
+:DYNASTY
 :END:
 
 [[dzimg:0534/0534-060.tif][HFL 0534 060]] 
