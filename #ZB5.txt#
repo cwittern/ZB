@@ -12747,7 +12747,7 @@
 **** responsible:
 ***** 陸希聲
       :PROPERTIES:
-      :DATES:    fl. 889 - 9
+      :DATES:    fl. 889 - 904
       :END:
 **** textual witnesses
 ***** SJB
@@ -12761,15 +12761,13 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ20p0351
 :HFL: HFL必下004
+:DATE: 1078
 :END:
 
 [[dzimg:0369/0369-004.tif][HFL 0369 004]]
 **** responsible:
 ***** 呂惠卿
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12783,15 +12781,14 @@
 :ZHDZ: ZHDZ21p0621
 :XWDZ: XWDZ20p0407
 :HFL: HFL改上004
+:DATE: 1298(序)
 :END:
 
 [[dzimg:0370/0370-004.tif][HFL 0370 004]]
 **** responsible:
 ***** 鄧錡
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玉賓子
       :END:
 **** textual witnesses
 ***** SJB
@@ -12805,15 +12802,19 @@
 :ZHDZ: ZHDZ11p0216
 :XWDZ: XWDZ20p0487
 :HFL: HFL改下004
+:DATE: 1159
 :END:
 
 [[dzimg:0372/0372-004.tif][HFL 0372 004]]
 **** responsible:
 ***** 邵若愚
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      本來子
+      :END:
+***** 張知新
+      :PROPERTIES:
+      :HAO:      清河居士
+      :FUNCTION: 改訂
       :END:
 **** textual witnesses
 ***** SJB
@@ -12833,9 +12834,7 @@
 **** responsible:
 ***** 司馬光
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1019 - 1086
       :END:
 **** textual witnesses
 ***** SJB
@@ -12855,9 +12854,8 @@
 **** responsible:
 ***** 王弼
       :PROPERTIES:
-      :DYNASTY:  魏
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       輔嗣
+      :DATES:    226 - 249
       :END:
 **** textual witnesses
 ***** SJB
@@ -12871,15 +12869,13 @@
 :ZHDZ: ZHDZ10p0372
 :XWDZ: XWDZ20p0573
 :HFL: HFL得下004
+:DATE: 1100
 :END:
 
 [[dzimg:0374/0374-004.tif][HFL 0374 004]]
 **** responsible:
 ***** 蘇轍
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12899,9 +12895,7 @@
 **** responsible:
 ***** 李約
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 810
       :END:
 **** textual witnesses
 ***** SJB
@@ -12919,11 +12913,13 @@
 
 [[dzimg:0376/0376-118.tif][HFL 0376 118]]
 **** responsible:
-***** 嚴遵
+***** 嚴遵(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -59 - -24
+      :END:
+***** 谷神子(att)
+      :PROPERTIES:
+      :FUNCTION: 補注
       :END:
 **** textual witnesses
 ***** SJB
