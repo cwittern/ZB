@@ -9607,7 +9607,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0211.org][ZB5b0211]] 無上黃籙大齋立成儀 #(宋-留用光)
+*** [[mandoku:ZB5b0211.org][ZB5b0211]] 無上黃籙大齋立成儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0211
 :TTC: 1014 - 1018
@@ -9616,9 +9616,26 @@
 :ZHDZ: ZHDZ43p0326
 :XWDZ: XWDZ15p0607
 :HFL: HFL鳳上004
+:DATE: 1223(跋 by蔣焈 and 蔣焱)
 :END:
 
 [[dzimg:0278/0278-004.tif][HFL 0278 004]] 
+**** responsible:
+***** 蔣叔輿
+      :PROPERTIES:
+      :END:
+***** 蔣焈
+      :PROPERTIES:
+      :FUNCTION: 跋
+      :END:
+***** 蔣焱
+      :PROPERTIES:
+      :FUNCTION: 跋
+      :END:
+***** 高文虎
+      :PROPERTIES:
+      :FUNCTION: 跋
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9632,6 +9649,7 @@
 :ZHDZ: ZHDZ43p0667
 :XWDZ: XWDZ16p0351
 :HFL: HFL場上004
+:DYNASTY: 南宋
 :END:
 
 [[dzimg:0291/0291-004.tif][HFL 0291 004]] 
@@ -9707,6 +9725,7 @@
 :ZHDZ: ZHDZ43p0685
 :XWDZ: XWDZ16p0378
 :HFL: HFL場上106
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0291/0291-106.tif][HFL 0291 106]] 
@@ -9737,6 +9756,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ16p0424
 :HFL: HFL場下124
+:DYNASTY: 唐後期
 :END:
 
 [[dzimg:0292/0292-124.tif][HFL 0292 124]] 
@@ -9752,6 +9772,7 @@
 :ZHDZ: ZHDZ43p0722
 :XWDZ: XWDZ16p0453
 :HFL: HFL化上004
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0293/0293-004.tif][HFL 0293 004]] 
@@ -9776,7 +9797,7 @@
 *** [[mandoku:ZB5b0222.org][ZB5b0222]] 太上靈寶玉匱明真齋懺方儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0222
-:TTC: 582 - 583
+:TTC: 582
 :DZ: DZ0519
 :page: 090805a
 :ZHDZ: ZHDZ43p0695
@@ -9785,20 +9806,13 @@
 :END:
 
 [[dzimg:0293/0293-062.tif][HFL 0293 062]]
-**** responsible:
-***** 杜光庭
-      :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
 *** [[mandoku:ZB5b0223.org][ZB5b0223]] 太上靈寶玉匱明真大齋懺方儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0223
-:TTC: 582 - 583
+:TTC: 582
 :DZ: DZ0520
 :page: 090808a
 :ZHDZ: ZHDZ43p0698
@@ -9807,13 +9821,6 @@
 :END:
 
 [[dzimg:0293/0293-080.tif][HFL 0293 080]]
-**** responsible:
-***** 杜光庭
-      :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9832,9 +9839,7 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9863,6 +9868,7 @@
 :ZHDZ: ZHDZ43p0716
 :XWDZ: XWDZ16p0491
 :HFL: HFL化上146
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0293/0293-146.tif][HFL 0293 146]] 
@@ -9881,6 +9887,11 @@
 :END:
 
 [[dzimg:0293/0293-158.tif][HFL 0293 158]] 
+**** responsible:
+***** 陸修靜(att)
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9899,9 +9910,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9919,11 +9929,10 @@
 
 [[dzimg:0294/0294-044.tif][HFL 0294 044]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭?
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9941,11 +9950,9 @@
 
 [[dzimg:0294/0294-060.tif][HFL 0294 060]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭?
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -9962,6 +9969,11 @@
 :END:
 
 [[dzimg:0294/0294-080.tif][HFL 0294 080]] 
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -9974,6 +9986,7 @@
 :ZHDZ: ZHDZ06p0775
 :XWDZ: XWDZ16p0551
 :HFL: HFL被上004
+:DATE: 12th or 13th cent
 :END:
 
 [[dzimg:0295/0295-004.tif][HFL 0295 004]] 
@@ -9989,6 +10002,7 @@
 :ZHDZ: ZHDZ03p0286
 :XWDZ: XWDZ16p0557
 :HFL: HFL被上024
+:DATE: ca. 400
 :END:
 
 [[dzimg:0295/0295-024.tif][HFL 0295 024]] 
@@ -10004,6 +10018,7 @@
 :ZHDZ: ZHDZ42p0080
 :XWDZ: XWDZ16p0562
 :HFL: HFL被上044
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0295/0295-044.tif][HFL 0295 044]] 
@@ -10019,6 +10034,7 @@
 :ZHDZ: ZHDZ04p0102
 :XWDZ: XWDZ16p0566
 :HFL: HFL被上058
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0295/0295-058.tif][HFL 0295 058]] 
@@ -10169,6 +10185,7 @@
 :ZHDZ: ZHDZ44p0105
 :XWDZ: XWDZ16p0635
 :HFL: HFL被下168
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0296/0296-168.tif][HFL 0296 168]] 
@@ -10184,15 +10201,17 @@
 :ZHDZ: ZHDZ44p0116
 :XWDZ: XWDZ16p0651
 :HFL: HFL草上004
+:DATE: 8th cent
 :END:
 
 [[dzimg:0297/0297-004.tif][HFL 0297 004]]
 **** responsible:
-***** 葛玄
+***** 葛玄(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 李含光
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -10206,6 +10225,7 @@
 :ZHDZ: ZHDZ44p0187
 :XWDZ: XWDZ16p0765
 :HFL: HFL木上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0300/0300-004.tif][HFL 0300 004]] 
@@ -10221,6 +10241,7 @@
 :ZHDZ: ZHDZ44p0217
 :XWDZ: XWDZ16p0815
 :HFL: HFL木下078
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0301/0301-078.tif][HFL 0301 078]] 
@@ -10228,7 +10249,7 @@
 ***** SJB
 ***** ZHDZ
 ** CMTS0208	方法類
-*** [[mandoku:ZB5b0249.org][ZB5b0249]] 靈寶玉監目錄
+*** [[mandoku:ZB5b0249.org][ZB5b0249]] 靈寶玉鑑目錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0249
 :TTC: 1018 - 1021
@@ -10273,14 +10294,13 @@
 **** responsible:
 ***** 鄭思肖
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      所南
+      :DATES:    1241 - 1318
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0252.org][ZB5b0252]] 太極祭煉內法議略
+*** [[mandoku:ZB5b0252.org][ZB5b0252]] 太極祭煉內法議略#
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0252
 :DZ: xx
@@ -10310,6 +10330,7 @@
 :ZHDZ: ZHDZ31p0542
 :XWDZ: XWDZ17p0535
 :HFL: HFL此下004
+:DYNASTY: 宋後期?
 :END:
 
 [[dzimg:0313/0313-004.tif][HFL 0313 004]] 
@@ -10388,10 +10409,14 @@
 :END:
 
 [[dzimg:0313/0313-142.tif][HFL 0313 142]] 
+**** responsible:
+***** 周方文
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0259.org][ZB5b0259]] 高上月宮太陰元君孝道仙王靈寶淨明黃素書(傅飛卿)
+*** [[mandoku:ZB5b0259.org][ZB5b0259]] 高上月宮太陰元君孝道仙王靈寶淨明黃素書
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0259
 :TTC: 1118
@@ -10403,10 +10428,15 @@
 :END:
 
 [[dzimg:0314/0314-004.tif][HFL 0314 004]] 
+**** responsible:
+***** 傅飛卿
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5b0260.org][ZB5b0260]] 靈寶淨明黃素書釋義祕訣(周方文)
+*** [[mandoku:ZB5b0260.org][ZB5b0260]] 靈寶淨明黃素書釋義祕訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0260
 :TTC: 1118
@@ -10418,6 +10448,10 @@
 :END:
 
 [[dzimg:0314/0314-124.tif][HFL 0314 124]] 
+**** responsible:
+***** 周方文
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -10520,12 +10554,17 @@
 :ZHDZ: ZHDZ31p0541
 :XWDZ: XWDZ17p0649
 :HFL: HFL身下144
+:DATE: 1131
 :END:
 
 [[dzimg:0315/0315-144.tif][HFL 0315 144]] 
+**** responsible:
+***** 何守證
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
-***** ZHDZ
+***** ZHDZ<!-- here 2014-12-04 -->
 *** [[mandoku:ZB5b0268.org][ZB5b0268]] 太上靈寶淨明飛仙度人經法
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0268
