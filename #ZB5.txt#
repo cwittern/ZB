@@ -12507,7 +12507,11 @@
 :END:
 
 [[dzimg:0353/0353-122.tif][HFL 0353 122]] 
-here**** textual witnesses
+**** responsible:
+***** 金明七真(att)
+      :PROPERTIES:
+      :END:
+**** textual witnesses
 ***** SJB
 ***** ZHDZ
 *** [[mandoku:ZB5c0056.org][ZB5c0056]] 上清丹天三氣玉皇六辰飛綱司命大籙
@@ -12535,13 +12539,19 @@ here**** textual witnesses
 :ZHDZ: ZHDZ12p0677
 :XWDZ: XWDZ19p0545
 :HFL: HFL男上004
+:DATE: 1374
 :END:
 
 [[dzimg:0354/0354-004.tif][HFL 0354 004]] 
+**** responsible:
+***** 太祖
+      :PROPERTIES:
+      :DYNASTY:  明
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0058.org][ZB5c0058]] 唐玄宗御註道德真經(唐玄宗)
+*** [[mandoku:ZB5c0058.org][ZB5c0058]] 唐玄宗御註道德真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0058
 :TTC: 284 - 286
@@ -12550,13 +12560,19 @@ here**** textual witnesses
 :ZHDZ: ZHDZ09p0361
 :XWDZ: XWDZ19p0587
 :HFL: HFL男下004
+:DATE: 732 - 735
 :END:
 
 [[dzimg:0355/0355-004.tif][HFL 0355 004]] 
+**** responsible:
+***** 玄宗(att)
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0059.org][ZB5c0059]] 唐玄宗御製道德真經疏(一)(唐玄宗)
+*** [[mandoku:ZB5c0059.org][ZB5c0059]] 唐玄宗御製道德真經疏(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0059
 :TTC: 286
@@ -12568,10 +12584,16 @@ here**** textual witnesses
 :END:
 
 [[dzimg:0356/0356-004.tif][HFL 0356 004]] 
+**** responsible:
+***** 玄宗(att)
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :DATES:    r. 712 - 756
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0060.org][ZB5c0060]] 唐玄宗御製道德真經疏外傳(唐玄宗)
+*** [[mandoku:ZB5c0060.org][ZB5c0060]] 唐玄宗御製道德真經疏外傳(唐玄宗)#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0060
 :DZ: xx
@@ -12585,7 +12607,7 @@ here**** textual witnesses
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0061.org][ZB5c0061]] 唐玄宗御製道德真經疏(二)(唐玄宗)
+*** [[mandoku:ZB5c0061.org][ZB5c0061]] 唐玄宗御製道德真經疏(二)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0061
 :TTC: 286 - 287
@@ -12597,6 +12619,12 @@ here**** textual witnesses
 :END:
 
 [[dzimg:0358/0358-014.tif][HFL 0358 014]] 
+**** responsible:
+***** 玄宗(att)
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :DATES:    r. 712 - 756
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
