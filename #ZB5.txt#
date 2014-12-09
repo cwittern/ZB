@@ -11275,15 +11275,14 @@
 :ZHDZ: ZHDZ48p0166
 :XWDZ: XWDZ18p0487
 :HFL: HFL鞠上090
+:DATE: second half of the 13th cent
 :END:
 
 [[dzimg:0331/0331-090.tif][HFL 0331 090]]
 **** responsible:
 ***** 倪守約
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       竹泉
       :END:
 **** textual witnesses
 ***** SJB
@@ -11297,15 +11296,19 @@
 :ZHDZ: ZHDZ48p0174
 :XWDZ: XWDZ18p0498
 :HFL: HFL鞠上132
+:DATE: 1348(序)
 :END:
 
 [[dzimg:0331/0331-132.tif][HFL 0331 132]]
 **** responsible:
 ***** 陳性定
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       此一
+      :END:
+***** 吳明義
+      :PROPERTIES:
+      :ZI:       中誼
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -11319,16 +11322,10 @@
 :ZHDZ: ZHDZ48p0540
 :XWDZ: XWDZ18p0519
 :HFL: HFL鞠下004
+:DATE: 1368(編)
 :END:
 
 [[dzimg:0332/0332-004.tif][HFL 0332 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -11341,15 +11338,13 @@
 :ZHDZ: ZHDZ48p0151
 :XWDZ: XWDZ18p0530
 :HFL: HFL鞠下046
+:DATE: 1114
 :END:
 
 [[dzimg:0332/0332-046.tif][HFL 0332 046]]
 **** responsible:
 ***** 葉樞
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -11363,15 +11358,14 @@
 :ZHDZ: ZHDZ48p0153
 :XWDZ: XWDZ18p0532
 :HFL: HFL鞠下054
+:DATE: ca. 1362
 :END:
 
 [[dzimg:0332/0332-054.tif][HFL 0332 054]]
 **** responsible:
 ***** 曾堅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       子白
       :END:
 **** textual witnesses
 ***** SJB
@@ -11388,13 +11382,6 @@
 :END:
 
 [[dzimg:0332/0332-132.tif][HFL 0332 132]]
-**** responsible:
-***** 陳田夫
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -11408,6 +11395,7 @@
 :ZHDZ: ZHDZ44p0587
 :XWDZ: XWDZ18p0567
 :HFL: HFL養上004
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0333/0333-004.tif][HFL 0333 004]] 
@@ -11423,6 +11411,7 @@
 :ZHDZ: ZHDZ02p0490
 :XWDZ: XWDZ18p0607
 :HFL: HFL養下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0334/0334-004.tif][HFL 0334 004]] 
@@ -11438,6 +11427,7 @@
 :ZHDZ: ZHDZ04p0450
 :XWDZ: XWDZ18p0614
 :HFL: HFL養下032
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0334/0334-032.tif][HFL 0334 032]] 
@@ -11453,6 +11443,7 @@
 :ZHDZ: ZHDZ04p0444
 :XWDZ: XWDZ18p0618
 :HFL: HFL養下046
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0334/0334-046.tif][HFL 0334 046]] 
