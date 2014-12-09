@@ -12937,11 +12937,8 @@
 
 [[dzimg:0378/0378-004.tif][HFL 0378 004]]
 **** responsible:
-***** 江澂
+***** 江瀓
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -12961,9 +12958,7 @@
 **** responsible:
 ***** 趙秉文
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 1185 - 1232
       :END:
 **** textual witnesses
 ***** SJB
@@ -12977,15 +12972,14 @@
 :ZHDZ: ZHDZ11p0723
 :XWDZ: XWDZ21p0177
 :HFL: HFL罔下004
+:DATE: 1159(序)
 :END:
 
 [[dzimg:0385/0385-004.tif][HFL 0385 004]]
 **** responsible:
-***** 時雍
+***** 時雍(att)
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      逍遙
       :END:
 **** textual witnesses
 ***** SJB
@@ -12999,16 +12993,10 @@
 :ZHDZ: ZHDZ09p0458
 :XWDZ: XWDZ21p0223
 :HFL: HFL罔下096
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0386/0386-096.tif][HFL 0386 096]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
