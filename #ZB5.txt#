@@ -13085,13 +13085,6 @@
 :END:
 
 [[dzimg:0388/0388-004.tif][HFL 0388 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -13104,15 +13097,14 @@
 :ZHDZ: ZHDZ11p0244
 :XWDZ: XWDZ21p0351
 :HFL: HFL彼上004
+:DATE: 1261
 :END:
 
 [[dzimg:0389/0389-004.tif][HFL 0389 004]]
 **** responsible:
 ***** 林希逸
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      鬳齋
       :END:
 **** textual witnesses
 ***** SJB
@@ -13126,15 +13118,15 @@
 :ZHDZ: ZHDZ11p0662
 :XWDZ: XWDZ21p0395
 :HFL: HFL彼中004
+:DATE: 1305
 :END:
 
 [[dzimg:0390/0390-004.tif][HFL 0390 004]]
 **** responsible:
 ***** 杜道堅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       處逸
+      :HAO:      南谷子
       :END:
 **** textual witnesses
 ***** SJB
@@ -13148,15 +13140,13 @@
 :ZHDZ: ZHDZ11p0699
 :XWDZ: XWDZ21p0447
 :HFL: HFL彼下004
+:DATE: 1306
 :END:
 
 [[dzimg:0391/0391-004.tif][HFL 0391 004]]
 **** responsible:
 ***** 杜道堅
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
