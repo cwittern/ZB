@@ -1958,7 +1958,7 @@
 **** responsible:
 ***** 張果
       :PROPERTIES:
-      :DATES:    first half of the 8th cent
+      :DATES:    8th cent 前半
       :END:
 **** textual witnesses
 ***** SJB
@@ -3997,7 +3997,7 @@
 :ZHDZ: ZHDZ30p0507
 :XWDZ: XWDZ06p0529
 :HFL: HFL劍上130
-:DATE: first half of the 12th cent
+:DATE: 12th cent 前半
 :END:
 
 [[dzimg:0104/0104-130.tif][HFL 0104 130]] 
@@ -5082,7 +5082,7 @@
 :ZHDZ: ZHDZ23p0148
 :XWDZ: XWDZ07p0801
 :HFL: HFL重上152
-:DATE: first half of the 10th cent
+:DATE: 10th cent 前半
 :END:
 
 [[dzimg:0131/0131-152.tif][HFL 0131 152]] 
@@ -8386,7 +8386,7 @@
 :ZHDZ: ZHDZ46p0535
 :XWDZ: XWDZ11p0715
 :HFL: HFL虞下038
-:DATE: first half of the 14th cent
+:DATE: 14th cent 前半
 :END:
 
 [[dzimg:0201/0201-038.tif][HFL 0201 038]]
@@ -12171,6 +12171,7 @@
 :ZHDZ: ZHDZ30p0520
 :XWDZ: XWDZ19p0137
 :HFL: HFL女上074
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0343/0343-074.tif][HFL 0343 074]] 
@@ -12216,6 +12217,7 @@
 :ZHDZ: ZHDZ08p0170
 :XWDZ: XWDZ19p0145
 :HFL: HFL女中004
+:DATE: 5th cent?
 :END:
 
 [[dzimg:0344/0344-004.tif][HFL 0344 004]] 
@@ -12246,6 +12248,7 @@
 :ZHDZ: ZHDZ19p0045
 :XWDZ: XWDZ19p0150
 :HFL: HFL女中022
+:DATE: 12th 前半?
 :END:
 
 [[dzimg:0344/0344-022.tif][HFL 0344 022]] 
@@ -12261,6 +12264,7 @@
 :ZHDZ: ZHDZ06p0133
 :XWDZ: XWDZ19p0177
 :HFL: HFL女下004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0345/0345-004.tif][HFL 0345 004]] 
@@ -12276,6 +12280,7 @@
 :ZHDZ: ZHDZ06p0155
 :XWDZ: XWDZ19p0205
 :HFL: HFL女下114
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0345/0345-114.tif][HFL 0345 114]] 
@@ -12294,6 +12299,11 @@
 :END:
 
 [[dzimg:0345/0345-130.tif][HFL 0345 130]] 
+**** responsible:
+***** 趙宜真
+      :PROPERTIES:
+      :DATES:    d. 1382
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -12306,15 +12316,14 @@
 :ZHDZ: ZHDZ09p0036
 :XWDZ: XWDZ19p0211
 :HFL: HFL慕上004
+:DYNASTY: 戦國
 :END:
 
 [[dzimg:0346/0346-004.tif][HFL 0346 004]]
 **** responsible:
-***** 李耳
+***** 老子(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -6th cent
       :END:
 **** textual witnesses
 ***** SJB
