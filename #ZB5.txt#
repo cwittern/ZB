@@ -16075,15 +16075,14 @@
 :ZHDZ: ZHDZ23p0730
 :XWDZ: XWDZ31p0161
 :HFL: HFL深上004
+:DATE: 1291
 :END:
 
 [[dzimg:0574/0574-004.tif][HFL 0574 004]]
 **** responsible:
 ***** 李鵬飛
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      九華澄心老人
       :END:
 **** textual witnesses
 ***** SJB
@@ -16097,6 +16096,7 @@
 :ZHDZ: ZHDZ23p0728
 :XWDZ: XWDZ31p0208
 :HFL: HFL深下004
+:DYNASTY: 五代
 :END:
 
 [[dzimg:0575/0575-004.tif][HFL 0575 004]] 
@@ -16112,15 +16112,14 @@
 :ZHDZ: ZHDZ23p0629
 :XWDZ: XWDZ31p0211
 :HFL: HFL深下014
+:DATE: after 806
 :END:
 
 [[dzimg:0575/0575-014.tif][HFL 0575 014]]
 **** responsible:
 ***** 施肩吾
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      栖真子
       :END:
 **** textual witnesses
 ***** SJB
@@ -16134,6 +16133,7 @@
 :ZHDZ: ZHDZ04p0526
 :XWDZ: XWDZ31p0213
 :HFL: HFL深下020
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0575/0575-020.tif][HFL 0575 020]] 
@@ -16179,6 +16179,7 @@
 :ZHDZ: ZHDZ32p0432
 :XWDZ: XWDZ31p0253
 :HFL: HFL履上004
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0576/0576-004.tif][HFL 0576 004]] 
@@ -16224,6 +16225,7 @@
 :ZHDZ: ZHDZ32p0576
 :XWDZ: XWDZ31p0300
 :HFL: HFL履下004
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0577/0577-004.tif][HFL 0577 004]] 
@@ -16254,6 +16256,7 @@
 :ZHDZ: ZHDZ23p0178
 :XWDZ: XWDZ31p0345
 :HFL: HFL薄上004
+:DATE: 3rd cent?
 :END:
 
 [[dzimg:0578/0578-004.tif][HFL 0578 004]] 
@@ -16269,16 +16272,10 @@
 :ZHDZ: ZHDZ18p0291
 :XWDZ: XWDZ31p0353
 :HFL: HFL薄上032
+:DATE: 902(序)
 :END:
 
 [[dzimg:0578/0578-032.tif][HFL 0578 032]]
-**** responsible:
-***** 歸耕子
-      :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -16325,11 +16322,9 @@
 
 [[dzimg:0578/0578-132.tif][HFL 0578 132]]
 **** responsible:
-***** 李靖
+***** 李靖(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    571 - 649
       :END:
 **** textual witnesses
 ***** SJB
@@ -16343,6 +16338,7 @@
 :ZHDZ: ZHDZ32p0557
 :XWDZ: XWDZ31p0388
 :HFL: HFL薄下004
+:DYNASTY: 南宋 or later
 :END:
 
 [[dzimg:0579/0579-004.tif][HFL 0579 004]] 
@@ -16358,6 +16354,7 @@
 :ZHDZ: ZHDZ18p0764
 :XWDZ: XWDZ31p0416
 :HFL: HFL薄下114
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0579/0579-114.tif][HFL 0579 114]] 
@@ -16373,6 +16370,7 @@
 :ZHDZ: ZHDZ32p0609
 :XWDZ: XWDZ31p0421
 :HFL: HFL薄下132
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0579/0579-132.tif][HFL 0579 132]] 
@@ -16403,6 +16401,7 @@
 :ZHDZ: ZHDZ32p0612
 :XWDZ: XWDZ31p0429
 :HFL: HFL夙上004
+:DYNASTY: 五代?
 :END:
 
 [[dzimg:0580/0580-004.tif][HFL 0580 004]] 
@@ -16418,6 +16417,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ31p0442
 :HFL: HFL夙上054
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0580/0580-054.tif][HFL 0580 054]] 
@@ -16433,6 +16433,7 @@
 :ZHDZ: ZHDZ23p0099
 :XWDZ: XWDZ31p0443
 :HFL: HFL夙上060
+:
 :END:
 
 [[dzimg:0580/0580-060.tif][HFL 0580 060]] 
