@@ -18695,7 +18695,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0012.org][ZB5d0012]] 淵源道妙洞真繼篇(李景元)
+*** [[mandoku:ZB5d0012.org][ZB5d0012]] 淵源道妙洞真繼篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0012
 :TTC: 1222
@@ -18707,6 +18707,10 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0619/0619-084.tif][HFL 0619 084]] 
+**** responsible:
+***** 李景元(att)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -18719,15 +18723,12 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ19p0077
 :XWDZ: XWDZ34p0107
 :HFL: HFL映上004
-:END:
+:END: 1185
 
 [[dzimg:0620/0620-004.tif][HFL 0620 004]]
 **** responsible:
 ***** 王道
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18741,6 +18742,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ19p0103
 :XWDZ: XWDZ34p0144
 :HFL: HFL映上148
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0620/0620-148.tif][HFL 0620 148]] 
@@ -18756,6 +18758,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ34p0152
 :HFL: HFL映上
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0620/0620-180.tif][HFL 0620 180]] 
@@ -18771,6 +18774,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0001
 :XWDZ: XWDZ34p0153
 :HFL: HFL映中004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0621/0621-004.tif][HFL 0621 004]]
