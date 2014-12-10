@@ -17027,6 +17027,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0589/0589-026.tif][HFL 0589 026]] 
+**** responsible:
+***** 魏伯陽(att)
+      :PROPERTIES:
+      :END:
+***** 盧天驥
+      :PROPERTIES:
+      :FUNCTION: submitted to the court
+      :DATES:    fl. 1111 - 1117
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17039,9 +17048,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0254
 :XWDZ: XWDZ31p0822
 :HFL: HFL似下038
+:DYNASTY: before 1052 , 五代?
 :END:
 
 [[dzimg:0589/0589-038.tif][HFL 0589 038]] 
+**** responsible:
+***** 陰長生(att)
+      :PROPERTIES:
+      :DATES: 漢以前
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17054,6 +17069,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0270
 :XWDZ: XWDZ31p0843
 :HFL: HFL似下122
+:DYNASTY: 唐 , after 686
 :END:
 
 [[dzimg:0589/0589-122.tif][HFL 0589 122]] 
@@ -17069,6 +17085,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0057
 :XWDZ: XWDZ31p0848
 :HFL: HFL似下142
+:DYNASTY
 :END:
 
 [[dzimg:0589/0589-142.tif][HFL 0589 142]] 
