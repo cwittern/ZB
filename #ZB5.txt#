@@ -15864,6 +15864,7 @@
 :ZHDZ: ZHDZ32p0664
 :XWDZ: XWDZ31p0096
 :HFL: HFL臨上124
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0572/0572-124.tif][HFL 0572 124]] 
@@ -15879,6 +15880,7 @@
 :ZHDZ: ZHDZ23p0656
 :XWDZ: XWDZ31p0103
 :HFL: HFL臨上150
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0572/0572-150.tif][HFL 0572 150]] 
@@ -15897,6 +15899,11 @@
 :END:
 
 [[dzimg:0572/0572-156.tif][HFL 0572 156]] 
+**** responsible:
+***** 孫思邈(att)
+      :PROPERTIES:
+      :DATES:    581? - 682
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -15909,6 +15916,7 @@
 :ZHDZ: ZHDZ23p0655
 :XWDZ: XWDZ31p0107
 :HFL: HFL臨上166
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0572/0572-166.tif][HFL 0572 166]] 
@@ -15924,6 +15932,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ31p0109
 :HFL: HFL臨下004
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0573/0573-004.tif][HFL 0573 004]] 
@@ -15939,13 +15948,14 @@
 :ZHDZ: ZHDZ18p0206
 :XWDZ: XWDZ31p0123
 :HFL: HFL臨下058
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0573/0573-058.tif][HFL 0573 058]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0233.org][ZB5c0233]] 上清經真丹秘訣
+*** [[mandoku:ZB5c0233.org][ZB5c0233]] 上清經真丹祕訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0233
 :TTC: 869
@@ -15984,20 +15994,19 @@
 :ZHDZ: ZHDZ18p0208
 :XWDZ: XWDZ31p0135
 :HFL: HFL臨下104
+:DATE: 9th cent
 :END:
 
 [[dzimg:0573/0573-104.tif][HFL 0573 104]]
 **** responsible:
 ***** 盧遵元
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      霞栖子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0236.org][ZB5c0236]] 混俗頤生錄(劉詞)
+*** [[mandoku:ZB5c0236.org][ZB5c0236]] 混俗頤生錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0236
 :TTC: 357
@@ -16006,9 +16015,14 @@
 :ZHDZ: ZHDZ23p0719
 :XWDZ: XWDZ31p0138
 :HFL: HFL臨下114
+:DATE: 10th cent?
 :END:
 
 [[dzimg:0573/0573-114.tif][HFL 0573 114]] 
+**** responsible:
+***** 劉詞
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -16027,14 +16041,12 @@
 **** responsible:
 ***** 蒲虔貫
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 934 - 965
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0238.org][ZB5c0238]] 修真祕籙(符度仁)
+*** [[mandoku:ZB5c0238.org][ZB5c0238]] 修真祕籙
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0238
 :TTC: 779
@@ -16043,9 +16055,14 @@
 :ZHDZ: ZHDZ23p0714
 :XWDZ: XWDZ31p0154
 :HFL: HFL臨下178
+:DATE: after 1061
 :END:
 
 [[dzimg:0573/0573-178.tif][HFL 0573 178]] 
+**** responsible:
+***** 符度仁
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
