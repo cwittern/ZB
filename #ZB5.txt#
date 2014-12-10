@@ -17765,9 +17765,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0195
 :XWDZ: XWDZ32p0397
 :HFL: HFL松下004
+:DATE: 812
 :END:
 
 [[dzimg:0599/0599-004.tif][HFL 0599 004]] 
+**** responsible:
+***** 齊推
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17780,6 +17785,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0203
 :XWDZ: XWDZ32p0401
 :HFL: HFL松下016
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0599/0599-016.tif][HFL 0599 016]] 
@@ -17795,6 +17801,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0198
 :XWDZ: XWDZ32p0405
 :HFL: HFL松下032
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0599/0599-032.tif][HFL 0599 032]] 
@@ -17810,6 +17817,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ00p0071
 :XWDZ: XWDZ32p0406
 :HFL: HFL松下036
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0599/0599-036.tif][HFL 0599 036]] 
@@ -17825,13 +17833,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0627
 :XWDZ: XWDZ32p0414
 :HFL: HFL松下066
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0599/0599-066.tif][HFL 0599 066]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0338.org][ZB5c0338]] 神仙養生祕術 #(太白山人)
+*** [[mandoku:ZB5c0338.org][ZB5c0338]] 神仙養生祕術
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0338
 :TTC: 860
@@ -17843,7 +17852,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0599/0599-110.tif][HFL 0599 110]] 
-**** textual witnesses
+here**** textual witnesses
 ***** SJB
 ***** ZHDZ
 *** [[mandoku:ZB5c0339.org][ZB5c0339]] 太古土兌經
