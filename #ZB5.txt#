@@ -17085,14 +17085,18 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0057
 :XWDZ: XWDZ31p0848
 :HFL: HFL似下142
-:DYNASTY
+:DYNASTY: 六朝早期
 :END:
 
 [[dzimg:0589/0589-142.tif][HFL 0589 142]] 
+**** responsible:
+***** 赤松子(att)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0298.org][ZB5c0298]] 龍虎還丹訣(金陵子)
+*** [[mandoku:ZB5c0298.org][ZB5c0298]] 龍虎還丹訣
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0298
 :TTC: 387 - 388
@@ -17101,9 +17105,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0588
 :XWDZ: XWDZ32p0001
 :HFL: HFL蘭上004
+:DYNASTY: 唐 or 宋(編 before 1042)
 :END:
 
 [[dzimg:0590/0590-004.tif][HFL 0590 004]] 
+**** responsible:
+***** 金陵子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17116,6 +17125,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0453
 :XWDZ: XWDZ21p0032
 :HFL: HFL蘭上124
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0590/0590-124.tif][HFL 0590 124]] 
@@ -17131,6 +17141,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0359
 :XWDZ: XWDZ32p0042
 :HFL: HFL蘭下004
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0591/0591-004.tif][HFL 0591 004]] 
@@ -17146,6 +17157,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0553
 :XWDZ: XWDZ32p0048
 :HFL: HFL蘭下024
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0591/0591-024.tif][HFL 0591 024]] 
@@ -17161,6 +17173,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0605
 :XWDZ: XWDZ32p0067
 :HFL: HFL蘭下100
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0591/0591-100.tif][HFL 0591 100]] 
