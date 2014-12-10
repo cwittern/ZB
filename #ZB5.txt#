@@ -16907,6 +16907,11 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0588/0588-004.tif][HFL 0588 004]] 
+**** responsible:
+***** 魏伯陽(att)
+      :PROPERTIES:
+      :HAO:      太素真人
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -16919,15 +16924,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0441
 :XWDZ: XWDZ19p0057
 :HFL: HFL似上018
+:DATE: 1163(序)
 :END:
 
 [[dzimg:0588/0588-018.tif][HFL 0588 018]]
 **** responsible:
-***** 吳
+***** 吳悞
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      自然子
       :END:
 **** textual witnesses
 ***** SJB
@@ -16941,15 +16945,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0274
 :XWDZ: XWDZ31p0780
 :HFL: HFL似上046
+:DATE: 806(序)
 :END:
 
 [[dzimg:0588/0588-046.tif][HFL 0588 046]]
 **** responsible:
 ***** 梅彪
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -16963,6 +16965,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0780
 :XWDZ: XWDZ31p0787
 :HFL: HFL似上074
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0588/0588-074.tif][HFL 0588 074]] 
@@ -16978,9 +16981,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0237
 :XWDZ: XWDZ31p0792
 :HFL: HFL似上092
+:DATE: 14th or 15th cent
 :END:
 
 [[dzimg:0588/0588-092.tif][HFL 0588 092]] 
+**** responsible:
+***** 呂洞賓
+      :PROPERTIES:
+      :HAO:      純陽真人
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
