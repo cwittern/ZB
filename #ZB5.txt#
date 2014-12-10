@@ -15773,11 +15773,9 @@
 
 [[dzimg:0571/0571-084.tif][HFL 0571 084]]
 **** responsible:
-***** 孫思邈
+***** 孫思邈(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    581? - 682
       :END:
 **** textual witnesses
 ***** SJB
@@ -15795,16 +15793,14 @@
 
 [[dzimg:0571/0571-090.tif][HFL 0571 090]]
 **** responsible:
-***** 孫思邈
+***** 孫思邈(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    581? - 682?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0224.org][ZB5c0224]] 神仙食氣金櫃妙錄(京里先生)
+*** [[mandoku:ZB5c0224.org][ZB5c0224]] 神仙食氣金櫃妙錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0224
 :TTC: 355
@@ -15816,6 +15812,10 @@
 :END:
 
 [[dzimg:0571/0571-092.tif][HFL 0571 092]] 
+**** responsible:
+***** 京里先生
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -15828,6 +15828,7 @@
 :ZHDZ: ZHDZ23p0659
 :XWDZ: XWDZ31p0065
 :HFL: HFL臨上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0572/0572-004.tif][HFL 0572 004]] 
@@ -15847,11 +15848,9 @@
 
 [[dzimg:0572/0572-058.tif][HFL 0572 058]]
 **** responsible:
-***** 陶弘景
+***** 陶弘景(att)
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    456 - 536
       :END:
 **** textual witnesses
 ***** SJB
