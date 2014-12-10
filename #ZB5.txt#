@@ -16554,10 +16554,26 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0582/0582-004.tif][HFL 0582 004]] 
+**** responsible:
+***** 張道陵(att)
+      :PROPERTIES:
+      :FUNCTION: juan1#
+      :DATES:    2nd cent
+      :END:
+***** 陰長生(att)
+      :PROPERTIES:
+      :FUNCTION: juan2#
+      :DATES:    1st cent
+      :END:
+***** 葛洪
+      :PROPERTIES:
+      :FUNCTION: juan3#
+      :DATES:    283 - 343
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0270.org][ZB5c0270]] 太清石壁記(楚澤先生)
+*** [[mandoku:ZB5c0270.org][ZB5c0270]] 太清石壁記
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0270
 :TTC: 381
@@ -16566,9 +16582,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0042
 :XWDZ: XWDZ31p0532
 :HFL: HFL興上102
+:DATE: 758 or 759(編)
 :END:
 
 [[dzimg:0582/0582-102.tif][HFL 0582 102]] 
+**** responsible:
+***** 楚澤先生
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -16581,6 +16602,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0019
 :XWDZ: XWDZ31p0554
 :HFL: HFL興下036
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0583/0583-036.tif][HFL 0583 036]] 
