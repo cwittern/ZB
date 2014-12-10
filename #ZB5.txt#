@@ -15287,14 +15287,13 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0194.org][ZB5c0194]] 太上金書玉諜寶章儀
+*** [[mandoku:ZB5c0194.org][ZB5c0194]] 太上金書玉牒寶章儀
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0194
 :TTC: 481
@@ -15303,6 +15302,7 @@
 :ZHDZ: ZHDZ08p0492
 :XWDZ: XWDZ30p0701
 :HFL: HFL則上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0566/0566-004.tif][HFL 0566 004]] 
@@ -15339,9 +15339,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -15355,6 +15354,7 @@
 :ZHDZ: ZHDZ44p0391
 :XWDZ: XWDZ00p0000
 :HFL: HFL則上092
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0566/0566-092.tif][HFL 0566 092]] 
@@ -15385,6 +15385,7 @@
 :ZHDZ: ZHDZ44p0387
 :XWDZ: XWDZ30p0736
 :HFL: HFL則上138
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0566/0566-138.tif][HFL 0566 138]] 
@@ -15415,6 +15416,7 @@
 :ZHDZ: ZHDZ44p0326
 :XWDZ: XWDZ30p0747
 :HFL: HFL則下004
+:DYNASTY: 元 or 明初期
 :END:
 
 [[dzimg:0567/0567-004.tif][HFL 0567 004]] 
@@ -15430,6 +15432,7 @@
 :ZHDZ: ZHDZ44p0292
 :XWDZ: XWDZ30p0753
 :HFL: HFL則下026
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0567/0567-026.tif][HFL 0567 026]] 
@@ -15445,6 +15448,7 @@
 :ZHDZ: ZHDZ44p0294
 :XWDZ: XWDZ30p0756
 :HFL: HFL則下038
+:DYNASTY: 明
 :END:
 
 [[dzimg:0567/0567-038.tif][HFL 0567 038]] 
@@ -15454,12 +15458,13 @@
 *** [[mandoku:ZB5c0204.org][ZB5c0204]] 北極真武佑聖真君禮文
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0204
-:TTC: 1194
+:TTC: 1196
 :DZ: DZ0816
 :page: 180379b
 :ZHDZ: ZHDZ30p0587
 :XWDZ: XWDZ30p0794
 :HFL: HFL則下188
+:DYNASTY: 明
 :END:
 
 [[dzimg:0567/0567-188.tif][HFL 0567 188]] 
@@ -15476,6 +15481,7 @@
 :ZHDZ: ZHDZ23p0120
 :XWDZ: XWDZ30p0801
 :HFL: HFL盡上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0568/0568-004.tif][HFL 0568 004]] 
