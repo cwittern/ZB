@@ -17852,7 +17852,18 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0599/0599-110.tif][HFL 0599 110]] 
-here**** textual witnesses
+**** responsible:
+***** 陳顯微
+      :PROPERTIES:
+      :HAO:      抱一子
+      :FUNCTION: 編
+      :DATES:    fl. 1234
+      :END:
+***** 劉景先(att)
+      :PROPERTIES:
+      :DATES:    fl. 351
+      :END:
+**** textual witnesses
 ***** SJB
 ***** ZHDZ
 *** [[mandoku:ZB5c0339.org][ZB5c0339]] 太古土兌經
@@ -17864,6 +17875,7 @@ here**** textual witnesses
 :ZHDZ: ZHDZ18p0349
 :XWDZ: XWDZ32p0435
 :HFL: HFL之上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0600/0600-004.tif][HFL 0600 004]] 
@@ -17879,6 +17891,7 @@ here**** textual witnesses
 :ZHDZ: ZHDZ18p0747
 :XWDZ: XWDZ32p0449
 :HFL: HFL之上056
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0600/0600-056.tif][HFL 0600 056]] 
@@ -17894,15 +17907,14 @@ here**** textual witnesses
 :ZHDZ: ZHDZ19p0672
 :XWDZ: XWDZ32p0474
 :HFL: HFL之下004
+:DYNASTY: 南宋?
 :END:
 
 [[dzimg:0601/0601-004.tif][HFL 0601 004]]
 **** responsible:
-***** 許遜
+***** 許遜(att)
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       旌陽
       :END:
 **** textual witnesses
 ***** SJB
@@ -17916,6 +17928,7 @@ here**** textual witnesses
 :ZHDZ: ZHDZ18p0147
 :XWDZ: XWDZ32p0497
 :HFL: HFL之下092
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0601/0601-092.tif][HFL 0601 092]] 
@@ -17931,6 +17944,7 @@ here**** textual witnesses
 :ZHDZ: ZHDZ18p0470
 :XWDZ: XWDZ32p0513
 :HFL: HFL盛上004
+:DYNASTY: 南宋 - 元 , 明
 :END:
 
 [[dzimg:0602/0602-004.tif][HFL 0602 004]] 
@@ -17947,6 +17961,7 @@ here**** textual witnesses
 :ZHDZ: ZHDZ46p0001
 :XWDZ: XWDZ32p0621
 :HFL: HFL川上004
+:DYNASTY: 唐 , 7th - 8th cent?
 :END:
 
 [[dzimg:0604/0604-004.tif][HFL 0604 004]] 
@@ -17962,15 +17977,17 @@ here**** textual witnesses
 :ZHDZ: ZHDZ47p0077
 :XWDZ: XWDZ32p0636
 :HFL: HFL川上060
+:DATE: 1284(序)
 :END:
 
 [[dzimg:0604/0604-060.tif][HFL 0604 060]]
 **** responsible:
 ***** 李道謙
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 王道明
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
