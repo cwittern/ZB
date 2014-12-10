@@ -18412,15 +18412,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0614/0614-040.tif][HFL 0614 040]] 
 **** responsible:
-***** (宋鸞
+***** 宋鸞
       :PROPERTIES:
-      :ZI:       平子
-      :DATES:    78 - 139
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0368.org][ZB5c0368]] 道德真經頌(蔣融庵)
+*** [[mandoku:ZB5c0368.org][ZB5c0368]] 道德真經頌
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0368
 :TTC: 670
@@ -18429,9 +18427,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ10p0310
 :XWDZ: XWDZ33p0308
 :HFL: HFL淵下084
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0615/0615-084.tif][HFL 0615 084]] 
+**** responsible:
+***** 蔣融庵
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -18450,9 +18453,8 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 張繼先
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      續靜真人
+      :DATES:    1092 - 1126
       :END:
 **** textual witnesses
 ***** SJB
@@ -18466,6 +18468,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ02p0507
 :XWDZ: XWDZ33p0319
 :HFL: HFL淵下124
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0615/0615-124.tif][HFL 0615 124]] 
@@ -18482,6 +18485,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ44p0612
 :XWDZ: XWDZ33p0331
 :HFL: HFL澄上004
+:DATE: 15th cent前半
 :END:
 
 [[dzimg:0616/0616-004.tif][HFL 0616 004]] 
@@ -18497,6 +18501,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ44p0512
 :XWDZ: XWDZ33p0337
 :HFL: HFL澄上024
+:DYNASTY: 明?
 :END:
 
 [[dzimg:0616/0616-024.tif][HFL 0616 024]] 
@@ -18512,6 +18517,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ08p0733
 :XWDZ: XWDZ33p0371
 :HFL: HFL澄下018
+:DYNASTY: 明
 :END:
 
 [[dzimg:0617/0617-018.tif][HFL 0617 018]] 
@@ -18529,6 +18535,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ32p0363
 :XWDZ: XWDZ34p0001
 :HFL: HFL取上004
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0618/0618-004.tif][HFL 0618 004]] 
@@ -18544,6 +18551,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ23p0117
 :XWDZ: XWDZ34p0034
 :HFL: HFL取上132
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0618/0618-132.tif][HFL 0618 132]] 
@@ -18574,6 +18582,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ04p0150
 :XWDZ: XWDZ34p0041
 :HFL: HFL取上158
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0618/0618-158.tif][HFL 0618 158]] 
@@ -18619,6 +18628,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ04p0178
 :XWDZ: XWDZ34p0050
 :HFL: HFL取上190
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0618/0618-190.tif][HFL 0618 190]] 
