@@ -17180,24 +17180,35 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0303.org][ZB5c0303]] 金華沖碧丹經秘旨傳
+*** [[mandoku:ZB5c0303.org][ZB5c0303]] 金華沖碧丹經秘旨傳#
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0303
-:TTC: 
+:TTC: 867 - 868
 :DZ: DZ0914a
 :page: x
 :ZHDZ: ZHDZ18p0460
 :XWDZ: XWDZ32p0081
 :HFL: HFL斯上004
+:DATE: 1225(序)
 :END:
 
 [[dzimg:0592/0592-004.tif][HFL 0592 004]]
 **** responsible:
 ***** 白玉蟾
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 傳
+      :END:
+***** 彭耜
+      :PROPERTIES:
+      :FUNCTION: 傳
+      :END:
+***** 蘭元白
+      :PROPERTIES:
+      :FUNCTION: 傳
+      :END:
+***** 孟煦
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -17211,15 +17222,26 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0461
 :XWDZ: XWDZ32p0084
 :HFL: HFL斯上014
+:DATE: 1225(序)
 :END:
 
 [[dzimg:0592/0592-014.tif][HFL 0592 014]]
 **** responsible:
 ***** 白玉蟾
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 傳
+      :END:
+***** 彭耜
+      :PROPERTIES:
+      :FUNCTION: 傳
+      :END:
+***** 蘭元白
+      :PROPERTIES:
+      :FUNCTION: 傳
+      :END:
+***** 孟煦
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -17233,13 +17255,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0627
 :XWDZ: XWDZ19p0169
 :HFL: HFL斯上064
+:DATE: 10th or 11th cent
 :END:
 
 [[dzimg:0592/0592-064.tif][HFL 0592 064]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0306.org][ZB5c0306]] 蓬萊山西灶還丹歌
+*** [[mandoku:ZB5c0306.org][ZB5c0306]] 蓬萊山西竈還丹歌
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0306
 :TTC: 397
@@ -17248,20 +17271,18 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0210
 :XWDZ: XWDZ32p0120
 :HFL: HFL斯下004
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0593/0593-004.tif][HFL 0593 004]]
 **** responsible:
-***** 黃玄鍾
+***** 黃玄鍾(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0307.org][ZB5c0307]] 抱朴子神仙金江汋經
+*** [[mandoku:ZB5c0307.org][ZB5c0307]] 抱朴子神仙金汋經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0307
 :TTC: 106
@@ -17270,9 +17291,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0158
 :XWDZ: XWDZ32p0149
 :HFL: HFL斯下118
+:DYNASTY: 漢 - 六朝
 :END:
 
 [[dzimg:0593/0593-118.tif][HFL 0593 118]] 
+**** responsible:
+***** 葛洪(att)
+      :PROPERTIES:
+      :DATES:    283 - 343
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17285,6 +17312,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0363
 :XWDZ: XWDZ32p0165
 :HFL: HFL馨上004
+:DYNA
 :END:
 
 [[dzimg:0594/0594-004.tif][HFL 0594 004]] 
