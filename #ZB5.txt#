@@ -15485,6 +15485,14 @@
 :END:
 
 [[dzimg:0568/0568-004.tif][HFL 0568 004]] 
+**** responsible:
+***** 九仙君(att)
+      :PROPERTIES:
+      :END:
+***** 中黃真人
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -15497,6 +15505,7 @@
 :ZHDZ: ZHDZ23p0235
 :XWDZ: XWDZ30p0819
 :HFL: HFL盡上072
+:DATE: 4th cent?
 :END:
 
 [[dzimg:0568/0568-072.tif][HFL 0568 072]] 
@@ -15512,6 +15521,7 @@
 :ZHDZ: ZHDZ23p0246
 :XWDZ: XWDZ30p0829
 :HFL: HFL盡上110
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0568/0568-110.tif][HFL 0568 110]] 
@@ -15527,6 +15537,7 @@
 :ZHDZ: ZHDZ23p0221
 :XWDZ: XWDZ30p0834
 :HFL: HFL盡下004
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0569/0569-004.tif][HFL 0569 004]] 
@@ -15542,6 +15553,7 @@
 :ZHDZ: ZHDZ23p0243
 :XWDZ: XWDZ30p0846
 :HFL: HFL盡下050
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0569/0569-050.tif][HFL 0569 050]] 
@@ -15557,6 +15569,7 @@
 :ZHDZ: ZHDZ23p0229
 :XWDZ: XWDZ30p0850
 :HFL: HFL盡下064
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0569/0569-064.tif][HFL 0569 064]] 
@@ -15572,6 +15585,7 @@
 :ZHDZ: ZHDZ23p0250
 :XWDZ: XWDZ30p0854
 :HFL: HFL盡下080
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0569/0569-080.tif][HFL 0569 080]] 
@@ -15587,13 +15601,14 @@
 :ZHDZ: ZHDZ23p0195
 :XWDZ: XWDZ30p0856
 :HFL: HFL盡下088
+:DATE: 8th - 9th cent?
 :END:
 
 [[dzimg:0569/0569-088.tif][HFL 0569 088]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0213.org][ZB5c0213]] 延陵先生集新舊服氣經(桑榆子)
+*** [[mandoku:ZB5c0213.org][ZB5c0213]] 延陵先生集新舊服氣經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0213
 :TTC: 372
@@ -15602,9 +15617,15 @@
 :ZHDZ: ZHDZ23p0210
 :XWDZ: XWDZ31p0001
 :HFL: HFL命上004
+:DYNASTY: 唐後期 or 五代
 :END:
 
 [[dzimg:0570/0570-004.tif][HFL 0570 004]] 
+**** responsible:
+***** 桑榆子
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
