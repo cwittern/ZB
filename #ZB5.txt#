@@ -15010,6 +15010,7 @@
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ30p0565
 :HFL: HFL力下026
+:DATE: ca. 255
 :END:
 
 [[dzimg:0563/0563-026.tif][HFL 0563 026]] 
@@ -15025,6 +15026,7 @@
 :ZHDZ: ZHDZ08p0599
 :XWDZ: XWDZ30p0577
 :HFL: HFL力下072
+:DATE: 3rd cent?
 :END:
 
 [[dzimg:0563/0563-072.tif][HFL 0563 072]] 
@@ -15041,6 +15043,7 @@
 :ZHDZ: ZHDZ42p0096
 :XWDZ: XWDZ30p0597
 :HFL: HFL忠上004
+:DATE: 8th cent
 :END:
 
 [[dzimg:0564/0564-004.tif][HFL 0564 004]] 
@@ -15056,6 +15059,7 @@
 :ZHDZ: ZHDZ42p0083
 :XWDZ: XWDZ30p0608
 :HFL: HFL忠上044
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0564/0564-044.tif][HFL 0564 044]] 
@@ -15071,6 +15075,7 @@
 :ZHDZ: ZHDZ44p0400
 :XWDZ: XWDZ30p0617
 :HFL: HFL忠上078
+:DYNASTY: 明
 :END:
 
 [[dzimg:0564/0564-078.tif][HFL 0564 078]] 
@@ -15086,6 +15091,7 @@
 :ZHDZ: ZHDZ08p0511
 :XWDZ: XWDZ30p0627
 :HFL: HFL忠上118
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0564/0564-118.tif][HFL 0564 118]] 
@@ -15101,6 +15107,7 @@
 :ZHDZ: ZHDZ08p0497
 :XWDZ: XWDZ30p0631
 :HFL: HFL忠上134
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0564/0564-134.tif][HFL 0564 134]] 
@@ -15122,9 +15129,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -15144,9 +15150,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -15175,6 +15180,7 @@
 :ZHDZ: ZHDZ08p0506
 :XWDZ: XWDZ30p0661
 :HFL: HFL忠下048
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0565/0565-048.tif][HFL 0565 048]] 
@@ -15190,6 +15196,7 @@
 :ZHDZ: ZHDZ08p0508
 :XWDZ: XWDZ30p0664
 :HFL: HFL忠下060
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0565/0565-060.tif][HFL 0565 060]] 
@@ -15205,6 +15212,7 @@
 :ZHDZ: ZHDZ08p0514
 :XWDZ: XWDZ30p0667
 :HFL: HFL忠下074
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0565/0565-074.tif][HFL 0565 074]] 
@@ -15220,6 +15228,7 @@
 :ZHDZ: ZHDZ08p0516
 :XWDZ: XWDZ30p0670
 :HFL: HFL忠下086
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0565/0565-086.tif][HFL 0565 086]] 
@@ -15235,6 +15244,7 @@
 :ZHDZ: ZHDZ04p0515
 :XWDZ: XWDZ30p0673
 :HFL: HFL忠下094
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0565/0565-094.tif][HFL 0565 094]] 
@@ -15256,9 +15266,8 @@
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
