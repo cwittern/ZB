@@ -18001,15 +18001,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ48p0600
 :XWDZ: XWDZ32p0676
 :HFL: HFL川下004
+:DATE: end of 13th cent
 :END:
 
 [[dzimg:0605/0605-004.tif][HFL 0605 004]]
 **** responsible:
 ***** 朱象先
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       一虛叟
       :END:
 **** textual witnesses
 ***** SJB
@@ -18023,20 +18022,19 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ48p0607
 :XWDZ: XWDZ32p0680
 :HFL: HFL川下042
+:DATE: soon after 1308
 :END:
 
 [[dzimg:0605/0605-042.tif][HFL 0605 042]]
 **** responsible:
 ***** 朱象先
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       一虛叟
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0348.org][ZB5c0348]] 玄天上帝啟聖錄(宋)
+*** [[mandoku:ZB5c0348.org][ZB5c0348]] 玄天上帝啟聖錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0348
 :TTC: 1200 - 1201
@@ -18045,13 +18043,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ30p0635
 :XWDZ: XWDZ32p0719
 :HFL: HFL流上004
+:DYNASTY: 元?
 :END:
 
 [[dzimg:0606/0606-004.tif][HFL 0606 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0349.org][ZB5c0349]] 大明玄天上帝瑞應圖錄(明)　
+*** [[mandoku:ZB5c0349.org][ZB5c0349]] 大明玄天上帝瑞應圖錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0349
 :TTC: 1201
@@ -18071,13 +18070,19 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :CUSTOM_ID: ZB5c0350
 :TTC: 1203
 :DZ: DZ0960
+:DATE: 1415
 :END:
 
 [[dzimg:0608/0608-100.tif][HFL 0608 100]] 
+**** responsible:
+***** 成祖
+      :PROPERTIES:
+      :DYNASTY:   明
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0351.org][ZB5c0351]] 玄天上帝啟聖靈異錄(明)
+*** [[mandoku:ZB5c0351.org][ZB5c0351]] 玄天上帝啟聖靈異錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0351
 :TTC: 1202
@@ -18086,6 +18091,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ30p0046
 :XWDZ: XWDZ32p0826
 :HFL: HFL流中106
+:DYNASTY: 明
 :END:
 
 [[dzimg:0608/0608-106.tif][HFL 0608 106]] 
@@ -18101,15 +18107,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ48p0558
 :XWDZ: XWDZ33p0001
 :HFL: HFL不上004
+:DATE: 1291
 :END:
 
 [[dzimg:0609/0609-004.tif][HFL 0609 004]]
 **** responsible:
 ***** 劉道明
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      洞陽子
       :END:
 **** textual witnesses
 ***** SJB
