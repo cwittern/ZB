@@ -17382,7 +17382,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0312.org][ZB5c0312]] 還金述(陶埴)
+*** [[mandoku:ZB5c0312.org][ZB5c0312]] 還金述
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0312
 :TTC: 406 - 407
@@ -17394,6 +17394,11 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0596/0596-062.tif][HFL 0596 062]] 
+**** responsible:
+***** 陶埴(植)
+      :PROPERTIES:
+      :DATES:    d. 825
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -17406,15 +17411,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ18p0549
 :XWDZ: XWDZ32p0279
 :HFL: HFL如上080
+:DATE: 11th cent or later
 :END:
 
 [[dzimg:0596/0596-080.tif][HFL 0596 080]]
 **** responsible:
-***** 金竹坡
+***** 金竹坡(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
