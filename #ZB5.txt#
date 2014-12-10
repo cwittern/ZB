@@ -18219,13 +18219,11 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 ***** 呂惠卿
       :PROPERTIES:
       :ZI:       吉甫
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0358.org][ZB5c0358]] 龍角山記(金)
+*** [[mandoku:ZB5c0358.org][ZB5c0358]] 龍角山記
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0358
 :TTC: 920 - 922
@@ -18234,6 +18232,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ48p0590
 :XWDZ: XWDZ33p0072
 :HFL: HFL不下034
+:DATE: 12th cent後半
 :END:
 
 [[dzimg:0610/0610-034.tif][HFL 0610 034]] 
@@ -18255,9 +18254,8 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 杜光庭
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 序
+      :DATES:    850 - 933
       :END:
 **** textual witnesses
 ***** SJB
@@ -18275,11 +18273,8 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0610/0610-120.tif][HFL 0610 120]]
 **** responsible:
-***** 衛𨸦
+***** 衛𨸦?
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18299,14 +18294,12 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 崔融
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    652 - 703
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0362.org][ZB5c0362]] 宮觀碑誌(元)
+*** [[mandoku:ZB5c0362.org][ZB5c0362]] 宮觀碑記
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0362
 :TTC: 922 - 923
@@ -18315,6 +18308,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ48p0468
 :XWDZ: XWDZ33p0100
 :HFL: HFL不下144
+:DYNASTY: 明
 :END:
 
 [[dzimg:0610/0610-144.tif][HFL 0610 144]] 
@@ -18330,15 +18324,18 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ47p0113
 :XWDZ: XWDZ33p0117
 :HFL: HFL息上004
+:DATE: 1289
 :END:
 
 [[dzimg:0611/0611-004.tif][HFL 0611 004]]
 **** responsible:
 ***** 李道謙
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      和甫
+      :END:
+***** 張好古
+      :PROPERTIES:
+      :FUNCTION: 跋
       :END:
 **** textual witnesses
 ***** SJB
@@ -18357,11 +18354,10 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0614/0614-004.tif][HFL 0614 004]]
 **** responsible:
-***** 默然子
+***** 劉通微
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      默然子
+      :DATES:    1167 - 1196
       :END:
 **** textual witnesses
 ***** SJB
@@ -18381,7 +18377,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0366.org][ZB5c0366]] 太上洞神五星讚(張平子)
+*** [[mandoku:ZB5c0366.org][ZB5c0366]] 太上洞神五星讚
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0366
 :TTC: 508
@@ -18393,10 +18389,16 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :END:
 
 [[dzimg:0614/0614-026.tif][HFL 0614 026]] 
+**** responsible:
+***** 張衡(att)
+      :PROPERTIES:
+      :ZI:       平子
+      :DATES:    78 - 139
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5c0367.org][ZB5c0367]] 道德篇章玄頌(宋鸞)
+*** [[mandoku:ZB5c0367.org][ZB5c0367]] 道德篇章玄頌
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0367
 :TTC: 292
@@ -18405,9 +18407,16 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ10p0287
 :XWDZ: XWDZ33p0272
 :HFL: HFL淵上040
+:DYNASTY: 唐?
 :END:
 
 [[dzimg:0614/0614-040.tif][HFL 0614 040]] 
+**** responsible:
+***** (宋鸞
+      :PROPERTIES:
+      :ZI:       平子
+      :DATES:    78 - 139
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
