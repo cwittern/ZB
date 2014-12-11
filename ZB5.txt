@@ -11613,7 +11613,6 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5c 洞神部
 ** CMTS0301	本文類 Scripture
 *** [[mandoku:ZB5c0001.org][ZB5c0001]] 太上老君說常清靜妙經
@@ -18524,7 +18523,6 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5d 太玄部
 *** [[mandoku:ZB5d0001.org][ZB5d0001]] 玄精碧匣靈寶聚玄經
 :PROPERTIES:
@@ -20906,7 +20904,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0623
 :XWDZ: XWDZ40p0800
 :HFL: HFL隨上004
-:DATE: 1347
+:DATE: 1347(編)
 :END:
 
 [[dzimg:0744/0744-004.tif][HFL 0744 004]]
@@ -20923,17 +20921,17 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5e 太平部
 *** [[mandoku:ZB5e0001.org][ZB5e0001]] 太平經鈔
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0001
 :TTC: 493 - 494
-:DZ: DZ1101a
+:DZ: DZ1101b
 :page: 240311c
 :ZHDZ: ZHDZ07p0242
 :XWDZ: XWDZ41p0001
 :HFL: HFL外上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0746/0746-004.tif][HFL 0746 004]] 
@@ -20944,21 +20942,22 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0002
 :TTC: 277 - 280
-:DZ: DZ1101b
+:DZ: DZ1101a
 :page: 240311c
 :ZHDZ: ZHDZ07p0242
 :XWDZ: XWDZ41p0001
 :HFL: HFL受上004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0748/0748-004.tif][HFL 0748 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5e0003.org][ZB5e0003]] 太平經復文序
+*** [[mandoku:ZB5e0003.org][ZB5e0003]] 太平經復文序#
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0003
-:TTC: 
+:TTC: 279
 :DZ: DZ1101c
 :page: 240311c
 :ZHDZ: ZHDZ07p0242
@@ -20979,6 +20978,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ07p0318
 :XWDZ: XWDZ41p0444
 :HFL: HFL入下192
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0755/0755-192.tif][HFL 0755 192]] 
@@ -21099,15 +21099,20 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ31p0567
 :XWDZ: XWDZ41p0481
 :HFL: HFL毋上004
+:DATE: 1327(introduction)
 :END:
 
 [[dzimg:0757/0757-004.tif][HFL 0757 004]]
 **** responsible:
 ***** 黃元吉
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      中黃先生
+      :DATES:    1271 - 1325
+      :END:
+***** 徐慧
+      :PROPERTIES:
+      :HAO:      丹扃道人
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -21121,6 +21126,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0207
 :XWDZ: XWDZ41p0533
 :HFL: HFL奉下004
+:DATE: early 7th cent
 :END:
 
 [[dzimg:0758/0758-004.tif][HFL 0758 004]] 
@@ -21136,6 +21142,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ31p0386
 :XWDZ: XWDZ41p0543
 :HFL: HFL奉下040
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0758/0758-040.tif][HFL 0758 040]] 
@@ -21151,6 +21158,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ04p0277
 :XWDZ: XWDZ41p0547
 :HFL: HFL奉下054
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0758/0758-054.tif][HFL 0758 054]] 
@@ -21166,6 +21174,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ04p0121
 :XWDZ: XWDZ41p0553
 :HFL: HFL奉下078
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0758/0758-078.tif][HFL 0758 078]] 
@@ -21181,6 +21190,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ41p0561
 :HFL: HFL奉下110
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0758/0758-110.tif][HFL 0758 110]] 
@@ -21196,6 +21206,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ04p0207
 :XWDZ: XWDZ41p0565
 :HFL: HFL奉下126
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0758/0758-126.tif][HFL 0758 126]] 
@@ -21226,6 +21237,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ04p0025
 :XWDZ: XWDZ41p0585
 :HFL: HFL毋下018
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0759/0759-018.tif][HFL 0759 018]] 
@@ -21241,6 +21253,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0150
 :XWDZ: XWDZ41p0593
 :HFL: HFL毋下050
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0759/0759-050.tif][HFL 0759 050]] 
@@ -21256,13 +21269,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0141
 :XWDZ: XWDZ41p0597
 :HFL: HFL毋下066
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0759/0759-066.tif][HFL 0759 066]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5e0023.org][ZB5e0023]] 太上洞玄靈寶三十二天天尊應號經
+*** [[mandoku:ZB5e0023.org][ZB5e0023]] 太上洞玄靈寶三十二天尊應號經
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0023
 :TTC: 570 - 571
@@ -21271,6 +21285,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ04p0221
 :XWDZ: XWDZ41p0602
 :HFL: HFL毋下086
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0759/0759-086.tif][HFL 0759 086]] 
@@ -21286,6 +21301,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0125
 :XWDZ: XWDZ41p0615
 :HFL: HFL毋下136
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0759/0759-136.tif][HFL 0759 136]] 
@@ -21301,15 +21317,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0602
 :XWDZ: XWDZ41p0637
 :HFL: HFL儀上004
+:DATE: 712 - 713(編)
 :END:
 
 [[dzimg:0760/0760-004.tif][HFL 0760 004]]
 **** responsible:
 ***** 史崇
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :ALIAS:    史崇玄#
       :END:
 **** textual witnesses
 ***** SJB
@@ -21323,6 +21338,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0525
 :XWDZ: XWDZ41p0658
 :HFL: HFL儀上086
+:DATE: 7th cent
 :END:
 
 [[dzimg:0760/0760-086.tif][HFL 0760 086]] 
@@ -21338,9 +21354,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ42p0001
 :XWDZ: XWDZ41p0668
 :HFL: HFL儀上126
+:DYNASTY: 唐初期
 :END:
 
 [[dzimg:0760/0760-126.tif][HFL 0760 126]] 
+**** responsible:
+***** 金明七真
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21353,9 +21374,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ42p0042
 :XWDZ: XWDZ41p0708
 :HFL: HFL儀下186
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0761/0761-086.tif][HFL 0761 086]] 
+**** responsible:
+***** 太極太虛真人(赤松子)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21371,6 +21397,11 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:166/166-陸先生道門科略.tif][HFL 166 陸先生道門科略]] 
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21383,9 +21414,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0580
 :XWDZ: XWDZ41p0733
 :HFL: HFL諸上004
+:DATE: ca. 680
 :END:
 
 [[dzimg:0762/0762-004.tif][HFL 0762 004]] 
+**** responsible:
+***** 潘師正
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21404,9 +21440,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 孟安排
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 699
       :END:
 **** textual witnesses
 ***** SJB
@@ -21420,6 +21454,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0346
 :XWDZ: XWDZ42p0001
 :HFL: HFL姑上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0764/0764-004.tif][HFL 0764 004]] 
@@ -21435,6 +21470,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0001
 :XWDZ: XWDZ42p0032
 :HFL: HFL姑上124
+:DYNASTY: 隋 or 唐初期
 :END:
 
 [[dzimg:0764/0764-124.tif][HFL 0764 124]] 
@@ -21456,9 +21492,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 王懸河
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 683
       :END:
 **** textual witnesses
 ***** SJB
@@ -21505,6 +21539,12 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:0767/0767-008.tif][HFL 0767 008]] 
+**** responsible:
+***** 羅隱
+      :PROPERTIES:
+      :ZI:       昭諫
+      :DATES:    833 - 910
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21517,6 +21557,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0491
 :XWDZ: XWDZ42p0130
 :HFL: HFL伯下052
+:DATE: 7th cent or earlier
 :END:
 
 [[dzimg:0767/0767-052.tif][HFL 0767 052]] 
@@ -21532,15 +21573,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0247
 :XWDZ: XWDZ42p0154
 :HFL: HFL伯下146
+:DYNASTY: 金
 :END:
 
 [[dzimg:0767/0767-146.tif][HFL 0767 146]]
 **** responsible:
-***** 太玄子
+***** 侯善淵
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      太玄子
       :END:
 **** textual witnesses
 ***** SJB
@@ -21554,6 +21594,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0001
 :XWDZ: XWDZ42p0161
 :HFL: HFL叔上004
+:DATE: late 6th cent
 :END:
 
 [[dzimg:0768/0768-004.tif][HFL 0768 004]] 
@@ -21569,15 +21610,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0405
 :XWDZ: XWDZ42p0627
 :HFL: HFL懷上004
+:DATE: ca. 680
 :END:
 
 [[dzimg:0780/0780-004.tif][HFL 0780 004]]
 **** responsible:
 ***** 王懸河
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      陸海羽客
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -21591,15 +21632,23 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0001
 :XWDZ: XWDZ42p0731
 :HFL: HFL兄上004
+:DATE: 1250(序 by 裴憲)
+:DATE: 1265(序 by 王鶚)
 :END:
 
 [[dzimg:0783/0783-004.tif][HFL 0783 004]]
 **** responsible:
 ***** 姬志真
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 裴憲
+      :PROPERTIES:
+      :ZI:       子法
+      :FUNCTION: 序
+      :END:
+***** 王鶚
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -21613,15 +21662,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0559
 :XWDZ: XWDZ43p0001
 :HFL: HFL弟上004
+:DATE: after 1201
 :END:
 
 [[dzimg:0785/0785-004.tif][HFL 0785 004]]
 **** responsible:
 ***** 劉處玄
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      長生子
       :END:
 **** textual witnesses
 ***** SJB
@@ -21639,16 +21687,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0786/0786-004.tif][HFL 0786 004]]
 **** responsible:
-***** 馬鈺
+***** 馬丹陽
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1123 - 1184
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5e0045.org][ZB5e0045]] 草堂集(白雲子)
+*** [[mandoku:ZB5e0045.org][ZB5e0045]] 草堂集
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0045
 :TTC: 1153 - 1154
@@ -21657,9 +21703,16 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0710
 :XWDZ: XWDZ43p0088
 :HFL: HFL弟下158
+:DATE: late 12th cent
 :END:
 
 [[dzimg:0786/0786-158.tif][HFL 0786 158]] 
+**** responsible:
+***** 王丹桂
+      :PROPERTIES:
+      :ZI:       昌齡
+      :HAO:      白雲子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21672,19 +21725,13 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0405
 :XWDZ: XWDZ43p0109
 :HFL: HFL同上004
+:DYNASTY: 金 or 元
 :END:
 
 [[dzimg:0787/0787-004.tif][HFL 0787 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
-***** ZHDZ
+***** ZHDZ<here
 *** [[mandoku:ZB5e0047.org][ZB5e0047]] 玄虛子鳴真集
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0047
