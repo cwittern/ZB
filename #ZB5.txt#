@@ -20922,25 +20922,42 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 ***** SJB
 ***** ZHDZ
 ** ZB5e 太平部
-*** [[mandoku:ZB5e0002.org][ZB5e0002]] 太平經
+*** [[mandoku:ZB5e0001.org][ZB5e0001]] 太平經鈔
 :PROPERTIES:
-:CUSTOM_ID: ZB5e0002
-:TTC: 277 - 280
+:CUSTOM_ID: ZB5e0001
+:TTC: 493 - 494
 :DZ: DZ1101b
 :page: 240311c
 :ZHDZ: ZHDZ07p0242
 :XWDZ: XWDZ41p0001
+:HFL: HFL外上004
+:DYNASTY: 唐
+:END:
+
+[[dzimg:0746/0746-004.tif][HFL 0746 004]] 
+**** textual witnesses
+***** SJB
+***** ZHDZ
+*** [[mandoku:ZB5e0002.org][ZB5e0002]] 太平經
+:PROPERTIES:
+:CUSTOM_ID: ZB5e0002
+:TTC: 277 - 280
+:DZ: DZ1101a
+:page: 240311c
+:ZHDZ: ZHDZ07p0242
+:XWDZ: XWDZ41p0001
 :HFL: HFL受上004
+:DYNASTY: 六朝
 :END:
 
 [[dzimg:0748/0748-004.tif][HFL 0748 004]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5e0003.org][ZB5e0003]] 太平經復文序
+*** [[mandoku:ZB5e0003.org][ZB5e0003]] 太平經復文序#
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0003
-:TTC: 
+:TTC: 279
 :DZ: DZ1101c
 :page: 240311c
 :ZHDZ: ZHDZ07p0242
@@ -20961,6 +20978,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ07p0318
 :XWDZ: XWDZ41p0444
 :HFL: HFL入下192
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0755/0755-192.tif][HFL 0755 192]] 
@@ -21081,15 +21099,20 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ31p0567
 :XWDZ: XWDZ41p0481
 :HFL: HFL毋上004
+:DATE: 1327(introduction)
 :END:
 
 [[dzimg:0757/0757-004.tif][HFL 0757 004]]
 **** responsible:
 ***** 黃元吉
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      中黃先生
+      :DATES:    1271 - 1325
+      :END:
+***** 徐慧
+      :PROPERTIES:
+      :HAO:      丹扃道人
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -21103,6 +21126,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0207
 :XWDZ: XWDZ41p0533
 :HFL: HFL奉下004
+:DATE: early 7th cent
 :END:
 
 [[dzimg:0758/0758-004.tif][HFL 0758 004]] 
