@@ -11613,7 +11613,6 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5c 洞神部
 ** CMTS0301	本文類 Scripture
 *** [[mandoku:ZB5c0001.org][ZB5c0001]] 太上老君說常清靜妙經
@@ -18524,7 +18523,6 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5d 太玄部
 *** [[mandoku:ZB5d0001.org][ZB5d0001]] 玄精碧匣靈寶聚玄經
 :PROPERTIES:
@@ -20906,36 +20904,24 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0623
 :XWDZ: XWDZ40p0800
 :HFL: HFL隨上004
+:DATE: 1347(編)
 :END:
 
 [[dzimg:0744/0744-004.tif][HFL 0744 004]]
 **** responsible:
 ***** 彭致中
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 虞集
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    1272 - 1348
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5e 太平部
-*** [[mandoku:ZB5e0001.org][ZB5e0001]] 太平經鈔
-:PROPERTIES:
-:CUSTOM_ID: ZB5e0001
-:TTC: 493 - 494
-:DZ: DZ1101a
-:page: 240311c
-:ZHDZ: ZHDZ07p0242
-:XWDZ: XWDZ41p0001
-:HFL: HFL外上004
-:END:
-
-[[dzimg:0746/0746-004.tif][HFL 0746 004]] 
-**** textual witnesses
-***** SJB
-***** ZHDZ
 *** [[mandoku:ZB5e0002.org][ZB5e0002]] 太平經
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0002

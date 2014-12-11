@@ -20401,20 +20401,28 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0601
 :HFL: HFL唱上034
+:DATE: 1401(序)
 :END:
 
 [[dzimg:0740/0740-034.tif][HFL 0740 034]]
 **** responsible:
 ***** 何道全
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      無垢子
+      :DATES:    d. 1399
+      :END:
+***** 賈道玄
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+***** 靈通子
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0095.org][ZB5d0095]] 修煉須知
+*** [[mandoku:ZB5d0095.org][ZB5d0095]] 修鍊須知
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0095
 :TTC: 1184
@@ -20423,13 +20431,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0623
 :HFL: HFL唱上120
+:DYNASTY: 元
 :END:
 
 [[dzimg:0740/0740-120.tif][HFL 0740 120]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0096.org][ZB5d0096]] 玉室經(李成之)
+*** [[mandoku:ZB5d0096.org][ZB5d0096]] 玉室經
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0096
 :TTC: 792 - 793
@@ -20438,13 +20447,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0238
 :XWDZ: XWDZ40p0633
 :HFL: HFL唱上160
+:DYNASTY: 元
 :END:
 
 [[dzimg:0740/0740-160.tif][HFL 0740 160]] 
+**** responsible:
+***** 李成之
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0097.org][ZB5d0097]] 真人高象先生金丹歌
+*** [[mandoku:ZB5d0097.org][ZB5d0097]] 真人高象先金丹歌
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0097
 :TTC: 782 - 783
@@ -20453,20 +20467,19 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0265
 :XWDZ: XWDZ40p0636
 :HFL: HFL唱上170
+:DATE: 1014
 :END:
 
 [[dzimg:0740/0740-170.tif][HFL 0740 170]]
 **** responsible:
 ***** 高先
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       象先
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0098.org][ZB5d0098]] 金丹真一論(百玄子)
+*** [[mandoku:ZB5d0098.org][ZB5d0098]] 金丹真一論
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0098
 :TTC: 790
@@ -20475,9 +20488,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0726
 :XWDZ: XWDZ40p0640
 :HFL: HFL唱下004
+:DYNASTY: 北宋後期?
 :END:
 
 [[dzimg:0741/0741-004.tif][HFL 0741 004]] 
+**** responsible:
+***** 百玄子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20490,15 +20508,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0487
 :XWDZ: XWDZ40p0652
 :HFL: HFL唱下050
+:DATE: 1241
 :END:
 
 [[dzimg:0741/0741-050.tif][HFL 0741 050]]
 **** responsible:
-***** 張伯瑞
+***** 張伯瑞(att)
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    984 - 1082
+      :END:
+***** 黃自如
+      :PROPERTIES:
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -20512,15 +20533,17 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0595
 :XWDZ: XWDZ40p0658
 :HFL: HFL唱下074
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0741/0741-074.tif][HFL 0741 074]]
 **** responsible:
+***** 林太古
+      :PROPERTIES:
+      :END:
 ***** 谷神子
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -20534,9 +20557,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0599
 :XWDZ: XWDZ40p0668
 :HFL: HFL唱下124
+:DATE: 9th cent or later
 :END:
 
 [[dzimg:0741/0741-124.tif][HFL 0741 124]] 
+**** responsible:
+***** 青霞子(att)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20549,9 +20577,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0605
 :XWDZ: XWDZ40p0673
 :HFL: HFL唱下131
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0741/0741-131.tif][HFL 0741 131]] 
+**** responsible:
+***** 李真人
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20564,6 +20598,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0243
 :XWDZ: XWDZ40p0681
 :HFL: HFL唱下164
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0741/0741-164.tif][HFL 0741 164]] 
@@ -20579,20 +20614,19 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0446
 :XWDZ: XWDZ40p0687
 :HFL: HFL唱下186
+:DATE: ca. 1187
 :END:
 
 [[dzimg:0741/0741-186.tif][HFL 0741 186]]
 **** responsible:
-***** 自然子
+***** 吳悞
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      自然子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0105.org][ZB5d0105]] 金丹正宗(胡混成)
+*** [[mandoku:ZB5d0105.org][ZB5d0105]] 金丹正宗
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0105
 :TTC: 811
@@ -20601,9 +20635,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0688
 :XWDZ: XWDZ40p0693
 :HFL: HFL婦上004
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-004.tif][HFL 0742 004]] 
+**** responsible:
+***** 胡混成
+      :PROPERTIES:
+      :HAO:      玄學進士
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20616,15 +20656,17 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0513
 :XWDZ: XWDZ40p0699
 :HFL: HFL婦上026
+:DATE: 1126(序)
 :END:
 
 [[dzimg:0742/0742-026.tif][HFL 0742 026]]
 **** responsible:
 ***** 薛道光
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ALIAS:    式#
+      :ZI:       道源
+      :HAO:      紫賢
+      :HAO:      毗陵禪師
       :END:
 **** textual witnesses
 ***** SJB
@@ -20638,15 +20680,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0706
 :HFL: HFL婦上052
+:DATE: 1249
 :END:
 
 [[dzimg:0742/0742-052.tif][HFL 0742 052]]
 **** responsible:
 ***** 王慶升
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      爰清子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20666,9 +20707,16 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 陳楠
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       南木
+      :HAO:      翠虛翁
+      :HAO:      泥丸先生
+      :DATES:    d. 1213
+      :END:
+***** 王思誠
+      :PROPERTIES:
+      :ZI:       真息子
+      :FUNCTION: 編
+      :DATES:    fl. 1217
       :END:
 **** textual witnesses
 ***** SJB
@@ -20688,14 +20736,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 石泰
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       得之
+      :HAO:      杏林
+      :HAO:      翠玄子
+      :DATES:    d. 1158
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0110.org][ZB5d0110]] 還丹至藥篇(王賢芝)
+*** [[mandoku:ZB5d0110.org][ZB5d0110]] 還丹至藥篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0110
 :TTC: 784
@@ -20704,13 +20753,20 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0240
 :XWDZ: XWDZ24p0215
 :HFL: HFL婦上172
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-172.tif][HFL 0742 172]] 
+**** responsible:
+***** 王賢芝
+      :PROPERTIES:
+      :ZI:       膺圖
+      :HAO:      悟玄子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0111.org][ZB5d0111]] 亶甲集(趙民)
+*** [[mandoku:ZB5d0111.org][ZB5d0111]] 亶甲集
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0111
 :TTC: 793 - 794
@@ -20719,9 +20775,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0286
 :XWDZ: XWDZ40p0739
 :HFL: HFL婦上180
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-180.tif][HFL 0742 180]] 
+**** responsible:
+***** 趙民
+      :PROPERTIES:
+      :HAO:      降真子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20734,13 +20796,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0200
 :XWDZ: XWDZ40p0743
 :HFL: HFL婦上192
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-192.tif][HFL 0742 192]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0113.org][ZB5d0113]] 證道歌(左掌子)
+*** [[mandoku:ZB5d0113.org][ZB5d0113]] 證道歌
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0113
 :TTC: 811 - 812
@@ -20749,9 +20812,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0268
 :XWDZ: XWDZ40p0750
 :HFL: HFL婦下004
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0743/0743-004.tif][HFL 0743 004]] 
+**** responsible:
+***** 左掌子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20764,15 +20832,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0181
 :XWDZ: XWDZ40p0753
 :HFL: HFL婦下014
+:DATE: after 1078
 :END:
 
 [[dzimg:0743/0743-014.tif][HFL 0743 014]]
 **** responsible:
 ***** 陳朴
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       沖用
       :END:
 **** textual witnesses
 ***** SJB
@@ -20786,6 +20853,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0247
 :XWDZ: XWDZ40p0767
 :HFL: HFL婦下068
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0743/0743-068.tif][HFL 0743 068]] 
@@ -20801,6 +20869,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0198
 :XWDZ: XWDZ40p0788
 :HFL: HFL婦下150
+:DYNASTY: 元?
 :END:
 
 [[dzimg:0743/0743-150.tif][HFL 0743 150]] 
@@ -20816,15 +20885,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0584
 :XWDZ: XWDZ40p0790
 :HFL: HFL婦下160
+:DATE: 1250
 :END:
 
 [[dzimg:0743/0743-160.tif][HFL 0743 160]]
 **** responsible:
 ***** 林自然
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      回陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20838,15 +20906,19 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0623
 :XWDZ: XWDZ40p0800
 :HFL: HFL隨上004
+:DATE: 1347
 :END:
 
 [[dzimg:0744/0744-004.tif][HFL 0744 004]]
 **** responsible:
 ***** 彭致中
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 虞集
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    1272 - 1348
       :END:
 **** textual witnesses
 ***** SJB
