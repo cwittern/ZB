@@ -19477,21 +19477,31 @@ PROPERROR xx DZ1013 xx x 河圖
 
 **** 二十四治
 :PROPERTIES:
-:TTC: 423
+:TTC: 473
 :DZ: DZ1032.28
+:DATE: 7th - 10th cent
 :END:
 
-**** 天
+**** 元氣論
 :PROPERTIES:
 :TTC: 345
 :DZ: DZ1032.56
+:DYNASTY: 唐
 :END:
-**** 天地
+
+**** 清靈真人裴君傳
 :PROPERTIES:
-:TTC: 422 - 423
-:DZ: DZ1032.27
+:TTC: 196 - 197
+:DZ: DZ1032.105
+:DYNASTY: 六朝
 :END:
-*** [[mandoku:ZB5d0051.org][ZB5d0051]] 至言總(范翛然)
+
+***** responsible:
+****** 鄭雲子(att)
+      :PROPERTIES:
+      :END:
+
+*** [[mandoku:ZB5d0051.org][ZB5d0051]] 至言總
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0051
 :TTC: 446 - 447
@@ -19500,9 +19510,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ23p0269
 :XWDZ: XWDZ38p0551
 :HFL: HFL去上004
+:DYNASTY: 唐後期?
 :END:
 
 [[dzimg:0703/0703-004.tif][HFL 0703 004]] 
+**** responsible:
+***** 范翛然
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
