@@ -20561,6 +20561,10 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:0741/0741-124.tif][HFL 0741 124]] 
+**** responsible:
+***** 青霞子(att)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20573,9 +20577,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0605
 :XWDZ: XWDZ40p0673
 :HFL: HFL唱下131
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0741/0741-131.tif][HFL 0741 131]] 
+**** responsible:
+***** 李真人
+      :PROPERTIES:
+      :FUNCTION: 注
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20588,6 +20598,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0243
 :XWDZ: XWDZ40p0681
 :HFL: HFL唱下164
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0741/0741-164.tif][HFL 0741 164]] 
@@ -20603,20 +20614,19 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ18p0446
 :XWDZ: XWDZ40p0687
 :HFL: HFL唱下186
+:DATE: ca. 1187
 :END:
 
 [[dzimg:0741/0741-186.tif][HFL 0741 186]]
 **** responsible:
-***** 自然子
+***** 吳悞
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      自然子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0105.org][ZB5d0105]] 金丹正宗(胡混成)
+*** [[mandoku:ZB5d0105.org][ZB5d0105]] 金丹正宗
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0105
 :TTC: 811
@@ -20625,9 +20635,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0688
 :XWDZ: XWDZ40p0693
 :HFL: HFL婦上004
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-004.tif][HFL 0742 004]] 
+**** responsible:
+***** 胡混成
+      :PROPERTIES:
+      :HAO:      玄學進士
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
