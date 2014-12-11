@@ -20656,15 +20656,17 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0513
 :XWDZ: XWDZ40p0699
 :HFL: HFL婦上026
+:DATE: 1126(序)
 :END:
 
 [[dzimg:0742/0742-026.tif][HFL 0742 026]]
 **** responsible:
 ***** 薛道光
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ALIAS:    式#
+      :ZI:       道源
+      :HAO:      紫賢
+      :HAO:      毗陵禪師
       :END:
 **** textual witnesses
 ***** SJB
@@ -20678,15 +20680,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0706
 :HFL: HFL婦上052
+:DATE: 1249
 :END:
 
 [[dzimg:0742/0742-052.tif][HFL 0742 052]]
 **** responsible:
 ***** 王慶升
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      爰清子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20706,9 +20707,16 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 陳楠
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       南木
+      :HAO:      翠虛翁
+      :HAO:      泥丸先生
+      :DATES:    d. 1213
+      :END:
+***** 王思誠
+      :PROPERTIES:
+      :ZI:       真息子
+      :FUNCTION: 編
+      :DATES:    fl. 1217
       :END:
 **** textual witnesses
 ***** SJB
@@ -20728,14 +20736,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 石泰
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       得之
+      :HAO:      杏林
+      :HAO:      翠玄子
+      :DATES:    d. 1158
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0110.org][ZB5d0110]] 還丹至藥篇(王賢芝)
+*** [[mandoku:ZB5d0110.org][ZB5d0110]] 還丹至藥篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0110
 :TTC: 784
@@ -20744,9 +20753,16 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0240
 :XWDZ: XWDZ24p0215
 :HFL: HFL婦上172
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-172.tif][HFL 0742 172]] 
+**** responsible:
+***** 王賢芝
+      :PROPERTIES:
+      :ZI:       膺圖
+      :HAO:      悟玄子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20759,6 +20775,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0286
 :XWDZ: XWDZ40p0739
 :HFL: HFL婦上180
+
 :END:
 
 [[dzimg:0742/0742-180.tif][HFL 0742 180]] 
