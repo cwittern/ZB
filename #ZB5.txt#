@@ -19304,7 +19304,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0043.org][ZB5d0043]] 鬼谷子 #(梁-陶弘景)
+*** [[mandoku:ZB5d0043.org][ZB5d0043]] 鬼谷子
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0043
 :TTC: 66 - 68
@@ -19313,9 +19313,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ36p0689
 :HFL: HFL甚上004
+:DATE: -4th cent
 :END:
 
 [[dzimg:0671/0671-004.tif][HFL 0671 004]] 
+**** responsible:
+***** 鬼谷子(att)
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19334,9 +19339,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 司馬承禎
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    647 - 735
       :END:
 **** textual witnesses
 ***** SJB
@@ -19350,15 +19353,13 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ25p0250
 :XWDZ: XWDZ36p0739
 :HFL: HFL甚下016
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0672/0672-016.tif][HFL 0672 016]]
 **** responsible:
 ***** 張弧
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -19372,16 +19373,10 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ25p0257
 :XWDZ: XWDZ36p0748
 :HFL: HFL甚下052
+:DATE: 887
 :END:
 
 [[dzimg:0672/0672-052.tif][HFL 0672 052]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19400,9 +19395,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 張志和
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 757 - 762
       :END:
 **** textual witnesses
 ***** SJB
@@ -19420,11 +19413,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0673/0673-004.tif][HFL 0673 004]]
 **** responsible:
-***** 劉
+***** 袁孝政
       :PROPERTIES:
-      :DYNASTY:  北齊
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -19438,15 +19429,15 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ48p0001
 :XWDZ: XWDZ37p0001
 :HFL: HFL竟上004
+:DATE: -4th cent?
 :END:
 
 [[dzimg:0675/0675-004.tif][HFL 0675 004]]
 **** responsible:
 ***** 郭璞
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    276 - 324
       :END:
 **** textual witnesses
 ***** SJB
@@ -19466,9 +19457,8 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 張君房
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    fl. 1008 - 1025
       :END:
 **** textual witnesses
 ***** SJB
