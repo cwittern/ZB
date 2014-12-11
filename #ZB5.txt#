@@ -19805,7 +19805,7 @@ PROPERROR xx DZ1013 xx x 河圖
 ***** 王大霄
       :PROPERTIES:
       :ZI:       太霄
-      :FUNCTION: 
+      :FUNCTION: 編
       :DATES:    b. ca. 671
       :END:
 **** textual witnesses
@@ -19820,15 +19820,13 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ27p0263
 :XWDZ: XWDZ39p0743
 :HFL: HFL別下128
+:DATE: 1298
 :END:
 
 [[dzimg:0725/0725-128.tif][HFL 0725 128]]
 **** responsible:
 ***** 汪可孫
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -19848,9 +19846,19 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 陶弘景
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    456 - 536
+      :END:
+***** 傅霄
+      :PROPERTIES:
+      :HAO:      昭臺弟子
+      :FUNCTION: 編
+      :DATES:    d. 1159
+      :END:
+***** 陳桷
+      :PROPERTIES:
+      :HAO:      大洞弟子
+      :FUNCTION: 校正
+      :DATES:    fl. 1131 - 1162
       :END:
 **** textual witnesses
 ***** SJB
