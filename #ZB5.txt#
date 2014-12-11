@@ -19878,9 +19878,10 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 吳筠
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       貞節
+      :HAO:      洞陽子
+# posthumous title 宗玄先生
+      :DATES:    d. 778
       :END:
 **** textual witnesses
 ***** SJB
@@ -19899,10 +19900,9 @@ PROPERROR xx DZ1013 xx x 河圖
 [[dzimg:0727/0727-034.tif][HFL 0727 034]]
 **** responsible:
 ***** 吳筠
+# posthumous title 宗玄先生
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 778
       :END:
 **** textual witnesses
 ***** SJB
@@ -19915,6 +19915,11 @@ PROPERROR xx DZ1013 xx x 河圖
 :END:
 PROPERROR xx DZ1053 xx xx 吳尊師傳
 [[dzimg:0727/0727-086.tif][HFL 0727 086]] 
+**** responsible:
+***** 權德輿
+      :PROPERTIES:
+      :DATES:    禮部侍郎 802 - 810
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19927,6 +19932,7 @@ PROPERROR xx DZ1053 xx xx 吳尊師傳
 :ZHDZ: ZHDZ23p0141
 :XWDZ: XWDZ39p0821
 :HFL: HFL尊下038
+:DYNASTY: 五代?
 :END:
 
 [[dzimg:0727/0727-090.tif][HFL 0727 090]] 
