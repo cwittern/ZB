@@ -20766,7 +20766,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0111.org][ZB5d0111]] 亶甲集(趙民)
+*** [[mandoku:ZB5d0111.org][ZB5d0111]] 亶甲集
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0111
 :TTC: 793 - 794
@@ -20775,10 +20775,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0286
 :XWDZ: XWDZ40p0739
 :HFL: HFL婦上180
-
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-180.tif][HFL 0742 180]] 
+**** responsible:
+***** 趙民
+      :PROPERTIES:
+      :HAO:      降真子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20791,13 +20796,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0200
 :XWDZ: XWDZ40p0743
 :HFL: HFL婦上192
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0742/0742-192.tif][HFL 0742 192]] 
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0113.org][ZB5d0113]] 證道歌(左掌子)
+*** [[mandoku:ZB5d0113.org][ZB5d0113]] 證道歌
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0113
 :TTC: 811 - 812
@@ -20806,9 +20812,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0268
 :XWDZ: XWDZ40p0750
 :HFL: HFL婦下004
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0743/0743-004.tif][HFL 0743 004]] 
+**** responsible:
+***** 左掌子
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20821,15 +20832,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0181
 :XWDZ: XWDZ40p0753
 :HFL: HFL婦下014
+:DATE: after 1078
 :END:
 
 [[dzimg:0743/0743-014.tif][HFL 0743 014]]
 **** responsible:
 ***** 陳朴
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       沖用
       :END:
 **** textual witnesses
 ***** SJB
@@ -20843,6 +20853,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0247
 :XWDZ: XWDZ40p0767
 :HFL: HFL婦下068
+:DYNASTY: 北宋?
 :END:
 
 [[dzimg:0743/0743-068.tif][HFL 0743 068]] 
@@ -20858,6 +20869,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0198
 :XWDZ: XWDZ40p0788
 :HFL: HFL婦下150
+:DYNASTY: 元?
 :END:
 
 [[dzimg:0743/0743-150.tif][HFL 0743 150]] 
@@ -20873,15 +20885,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0584
 :XWDZ: XWDZ40p0790
 :HFL: HFL婦下160
+:DATE: 1250
 :END:
 
 [[dzimg:0743/0743-160.tif][HFL 0743 160]]
 **** responsible:
 ***** 林自然
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      回陽子
       :END:
 **** textual witnesses
 ***** SJB
