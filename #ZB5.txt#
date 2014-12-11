@@ -20117,7 +20117,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0082.org][ZB5d0082]] 洞淵集(長筌子)
+*** [[mandoku:ZB5d0082.org][ZB5d0082]] 洞淵集
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0082
 :TTC: 1147 - 1148
@@ -20129,10 +20129,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:0732/0732-126.tif][HFL 0732 126]] 
+**** responsible:
+***** 長筌子
+      :PROPERTIES:
+      :DATES:    fl. 1231
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0083.org][ZB5d0083]] 玄教大公案 #(元-苗大素)
+*** [[mandoku:ZB5d0083.org][ZB5d0083]] 玄教大公案
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0083
 :TTC: 1179
@@ -20141,9 +20146,22 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0443
 :XWDZ: XWDZ40p0295
 :HFL: HFL下上004
+:DATE: 1324(序)
 :END:
 
 [[dzimg:0734/0734-004.tif][HFL 0734 004]] 
+**** responsible:
+***** 苗善時
+      :PROPERTIES:
+      :ZI:       太素
+      :ZI:       實菴
+      :DATES:    fl. 14th cent
+      :END:
+***** 王志道
+      :PROPERTIES:
+      :ZI:       誠庵
+      :FUNCTION: 編
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -20156,15 +20174,17 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0467
 :XWDZ: XWDZ40p0329
 :HFL: HFL下上138
+:DATE: after 1294
 :END:
 
 [[dzimg:0734/0734-138.tif][HFL 0734 138]]
 **** responsible:
 ***** 牧常晁
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 黃本仁
+      :PROPERTIES:
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -20178,15 +20198,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0520
 :XWDZ: XWDZ40p0406
 :HFL: HFL睦上004
+:DATE: ca. 1331
 :END:
 
 [[dzimg:0736/0736-004.tif][HFL 0736 004]]
 **** responsible:
 ***** 陳致虛
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       觀吾
+      :HAO:      上陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20200,15 +20220,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0512
 :HFL: HFL　
+:DATE: ca. 1331
 :END:
 
 [[dzimg:062/062-上陽子金丹大要圖(元-陳致虛).tif][HFL 062 上陽子金丹大要圖(元-陳致虛)]]
 **** responsible:
 ***** 陳致虛
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       觀吾
+      :HAO:      上陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20222,15 +20242,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0518
 :HFL: HFL　
+:DATE: ca. 1331
 :END:
 
 [[dzimg:086/086-上陽子金丹大要列仙誌(元-陳致虛).tif][HFL 086 上陽子金丹大要列仙誌(元-陳致虛)]]
 **** responsible:
 ***** 陳致虛
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       觀吾
+      :HAO:      上陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20244,15 +20264,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ40p0523
 :HFL: HFL　
+:DATE: ca. 1331
 :END:
 
 [[dzimg:102/102-上陽子金丹大要仙派(元-陳致虛).tif][HFL 102 上陽子金丹大要仙派(元-陳致虛)]]
 **** responsible:
 ***** 陳致虛
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       觀吾
+      :HAO:      上陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -20272,9 +20292,12 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 趙宜真
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    d. 1382
+      :END:
+***** 劉淵然
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    1351 - 1432
       :END:
 **** textual witnesses
 ***** SJB
@@ -20288,20 +20311,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0591
 :XWDZ: XWDZ40p0542
 :HFL: HFL夫下004
+:DATE: 1250(序)
 :END:
 
 [[dzimg:0739/0739-004.tif][HFL 0739 004]]
 **** responsible:
 ***** 周無所住
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0091.org][ZB5d0091]] 道禪集 #(金坡王真人)
+*** [[mandoku:ZB5d0091.org][ZB5d0091]] 道禪集
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0091
 :TTC: 1148
