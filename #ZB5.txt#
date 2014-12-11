@@ -21397,6 +21397,11 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:166/166-陸先生道門科略.tif][HFL 166 陸先生道門科略]] 
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21409,9 +21414,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0580
 :XWDZ: XWDZ41p0733
 :HFL: HFL諸上004
+:DATE: ca. 680
 :END:
 
 [[dzimg:0762/0762-004.tif][HFL 0762 004]] 
+**** responsible:
+***** 潘師正
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21430,9 +21440,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 孟安排
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 699
       :END:
 **** textual witnesses
 ***** SJB
@@ -21446,6 +21454,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0346
 :XWDZ: XWDZ42p0001
 :HFL: HFL姑上004
+:DYNASTY: 唐
 :END:
 
 [[dzimg:0764/0764-004.tif][HFL 0764 004]] 
@@ -21461,6 +21470,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0001
 :XWDZ: XWDZ42p0032
 :HFL: HFL姑上124
+:DYNASTY: 隋 or 唐初期
 :END:
 
 [[dzimg:0764/0764-124.tif][HFL 0764 124]] 
@@ -21482,9 +21492,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 王懸河
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    fl. 683
       :END:
 **** textual witnesses
 ***** SJB
@@ -21531,6 +21539,12 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :END:
 
 [[dzimg:0767/0767-008.tif][HFL 0767 008]] 
+**** responsible:
+***** 羅隱
+      :PROPERTIES:
+      :ZI:       昭諫
+      :DATES:    833 - 910
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21543,6 +21557,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ05p0491
 :XWDZ: XWDZ42p0130
 :HFL: HFL伯下052
+:DATE: 7th cent or earlier
 :END:
 
 [[dzimg:0767/0767-052.tif][HFL 0767 052]] 
@@ -21558,15 +21573,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0247
 :XWDZ: XWDZ42p0154
 :HFL: HFL伯下146
+:DYNASTY: 金
 :END:
 
 [[dzimg:0767/0767-146.tif][HFL 0767 146]]
 **** responsible:
-***** 太玄子
+***** 侯善淵
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      太玄子
       :END:
 **** textual witnesses
 ***** SJB
@@ -21580,6 +21594,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0001
 :XWDZ: XWDZ42p0161
 :HFL: HFL叔上004
+:DATE: late 6th cent
 :END:
 
 [[dzimg:0768/0768-004.tif][HFL 0768 004]] 
@@ -21595,6 +21610,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ28p0405
 :XWDZ: XWDZ42p0627
 :HFL: HFL懷上004
+:DATE: ca. 680
 :END:
 
 [[dzimg:0780/0780-004.tif][HFL 0780 004]]
