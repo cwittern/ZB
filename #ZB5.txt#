@@ -19530,6 +19530,7 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ23p0293
 :XWDZ: XWDZ38p0583
 :HFL: HFL去上128
+:DYNASTY: 宋?
 :END:
 
 [[dzimg:0703/0703-128.tif][HFL 0703 128]] 
@@ -19545,15 +19546,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ26p0016
 :XWDZ: XWDZ38p0599
 :HFL: HFL去下004
+:DATE: 10th cent?
 :END:
 
 [[dzimg:0704/0704-004.tif][HFL 0704 004]]
 **** responsible:
 ***** 通玄先生
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 傳
       :END:
 **** textual witnesses
 ***** SJB
@@ -19570,6 +19570,11 @@ PROPERROR xx DZ1013 xx x 河圖
 :END:
 
 [[dzimg:0704/0704-070.tif][HFL 0704 070]] 
+**** responsible:
+***** 司馬承禎(att)
+      :PROPERTIES:
+      :DATES:    647 - 735
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19582,9 +19587,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ26p0079
 :XWDZ: XWDZ38p0626
 :HFL: HFL去下110
+:DYNASTY: 宋
 :END:
 
 [[dzimg:0704/0704-110.tif][HFL 0704 110]] 
+**** responsible:
+***** 周固樸
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19612,6 +19622,7 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ26p0071
 :XWDZ: XWDZ38p0640
 :HFL: HFL去下166
+:DYNASTY: 唐後期 or 五代?
 :END:
 
 [[dzimg:0704/0704-166.tif][HFL 0704 166]] 
@@ -19633,14 +19644,12 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 邵雍
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1011 - 1077
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0059.org][ZB5d0059]] 靈棋本章正經 #(漢-東方朔)　　
+*** [[mandoku:ZB5d0059.org][ZB5d0059]] 靈棋本章正經
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0059
 :TTC: 82 - 84
