@@ -18781,7 +18781,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 陰長生
       :PROPERTIES:
-      :DATES:    an immortal of the Former Han period , -206 - 9
+      :DATES:    an immortal of the Former Han period , -206 - 9#
       :END:
 **** textual witnesses
 ***** SJB
@@ -18817,9 +18817,12 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 朱熹
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ALIAS:    空同道士鄒訢#
+      :DATES:    1130 - 1200
+      :END:
+***** 黃瑞節
+      :PROPERTIES:
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -18833,15 +18836,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0080
 :XWDZ: XWDZ34p0258
 :HFL: HFL容上086
+:DATE: 947
 :END:
 
 [[dzimg:0623/0623-086.tif][HFL 0623 086]]
 **** responsible:
-***** 彭曉
+***** 彭曉(程曉)
       :PROPERTIES:
-      :DYNASTY:  後蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       秀川
+      :HAO:      真一子
       :END:
 **** textual witnesses
 ***** SJB
@@ -18855,15 +18858,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ34p0297
 :HFL: HFL容下004
+:DATE: 947(刊記)
 :END:
 
 [[dzimg:0624/0624-004.tif][HFL 0624 004]]
 **** responsible:
 ***** 彭曉
       :PROPERTIES:
-      :DYNASTY:  後蜀
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18877,6 +18878,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0118
 :XWDZ: XWDZ34p0304
 :HFL: HFL容下028
+:DYNASTY: 五代?
 :END:
 
 [[dzimg:0624/0624-028.tif][HFL 0624 028]] 
