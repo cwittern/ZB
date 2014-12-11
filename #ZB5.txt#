@@ -19110,9 +19110,8 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 陶弘景
       :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :FUNCTION: 注
       :END:
 **** textual witnesses
 ***** SJB
@@ -19126,20 +19125,20 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ23p0253
 :XWDZ: XWDZ35p0187
 :HFL: HFL篤上004
+:DATE: ca. 1151
 :END:
 
 [[dzimg:0641/0641-004.tif][HFL 0641 004]]
 **** responsible:
 ***** 曾慥
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       端伯
+      :HAO:      至游子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0035.org][ZB5d0035]] 黃帝內經素問補註釋文 #(唐-王冰)
+*** [[mandoku:ZB5d0035.org][ZB5d0035]] 黃帝內經素問補註釋文
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0035
 :TTC: 88 - 90
@@ -19151,6 +19150,22 @@ PROPERROR xx DZ1013 xx x 河圖
 :END:
 
 [[dzimg:004/004-黃帝內經素問補註釋文(唐-王冰).tif][HFL 004 黃帝內經素問補註釋文(唐-王冰)]] 
+**** responsible:
+***** 王冰
+      :PROPERTIES:
+      :HAO:      啟玄子
+      :FUNCTION: 注
+      :DATES:    fl. 762
+      :END:
+***** 林億
+      :PROPERTIES:
+      :FUNCTION: 校正
+      :DATES:    1058 - 1064
+      :END:
+***** 孫兆
+      :PROPERTIES:
+      :FUNCTION: 校正
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19166,13 +19181,6 @@ PROPERROR xx DZ1013 xx x 河圖
 :END:
 
 [[dzimg:0661/0661-004.tif][HFL 0661 004]]
-**** responsible:
-***** 史崧
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19185,15 +19193,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ20p0437
 :XWDZ: XWDZ36p0252
 :HFL: HFL業上022
+:DATE: 1155(序)
 :END:
 
 [[dzimg:0661/0661-022.tif][HFL 0661 022]]
 **** responsible:
 ***** 史崧
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
