@@ -18894,15 +18894,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0263
 :XWDZ: XWDZ34p0351
 :HFL: HFL　
+:DATE: 1284(序)
 :END:
 
 [[dzimg:004/004-周易參同契發揮(宋-俞琰).tif][HFL 004 周易參同契發揮(宋-俞琰)]]
 **** responsible:
 ***** 俞琰
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18916,15 +18914,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0340
 :XWDZ: XWDZ34p0460
 :HFL: HFL止下086
+:DATE: 1281(序)
 :END:
 
 [[dzimg:0627/0627-086.tif][HFL 0627 086]]
 **** responsible:
 ***** 俞琰
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18938,20 +18934,20 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0171
 :XWDZ: XWDZ34p0475
 :HFL: HFL若上004
+:DATE: 1234
 :END:
 
 [[dzimg:0628/0628-004.tif][HFL 0628 004]]
 **** responsible:
 ***** 陳顯微
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       宗道
+      :HAO:      抱一子
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0025.org][ZB5d0025]] 周易參同契註(五)(儲華谷)
+*** [[mandoku:ZB5d0025.org][ZB5d0025]] 周易參同契註(五)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0025
 :TTC: 704
@@ -18960,9 +18956,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0153
 :XWDZ: XWDZ34p0515
 :HFL: HFL若中004
+:DYNASTY: 南宋
 :END:
 
 [[dzimg:0629/0629-004.tif][HFL 0629 004]] 
+**** responsible:
+***** 儲華谷
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -18975,15 +18976,13 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ16p0610
 :XWDZ: XWDZ34p0538
 :HFL: HFL若中094
+:DATE: ca. 1284
 :END:
 
 [[dzimg:0629/0629-094.tif][HFL 0629 094]]
 **** responsible:
 ***** 俞琰
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -18997,9 +18996,14 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ34p0550
 :HFL: HFL若中142
+:DATE: 1284 - 1296
 :END:
 
 [[dzimg:0629/0629-142.tif][HFL 0629 142]] 
+**** responsible:
+***** 俞琰
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19018,21 +19022,24 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 雷思齊
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1223 - 1301
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0029.org][ZB5d0029]] 空山先生易圖通變
+*** [[mandoku:ZB5d0029.org][ZB5d0029]] 空山先生易圖通變序
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0029
 :TTC: 750
 :DZ: DZ1012
+:DATE: 1300
 :END:
 PROPERROR xx DZ1012 xx x 空山先生易圖通變
 [[dzimg:0630/0630-082.tif][HFL 0630 082]] 
+**** responsible:
+***** 雷思齊
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19056,15 +19063,13 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ16p0635
 :XWDZ: XWDZ34p0573
 :HFL: HFL若下082
+:DATE: 1330
 :END:
 
 [[dzimg:0630/0630-094.tif][HFL 0630 094]]
 **** responsible:
 ***** 雷思齊
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -19082,11 +19087,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0631/0631-004.tif][HFL 0631 004]]
 **** responsible:
-***** 李淳風
+***** 李淳風(att)
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    602 - 670
       :END:
 **** textual witnesses
 ***** SJB
@@ -19100,6 +19103,7 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ02p0112
 :XWDZ: XWDZ35p0001
 :HFL: HFL安上004
+:DATE: 499
 :END:
 
 [[dzimg:0637/0637-004.tif][HFL 0637 004]]
