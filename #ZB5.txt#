@@ -19664,7 +19664,13 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 顏幼明
       :PROPERTIES:
-      :DATES:    1011 - 1077
+      :DYNASTY:  晉
+      :FUNCTION: 注
+      :END:
+***** 何成天
+      :PROPERTIES:
+      :FUNCTION: 注
+      :DATE:     370 - 447
       :END:
 **** textual witnesses
 ***** SJB
@@ -19684,9 +19690,9 @@ PROPERROR xx DZ1013 xx x 河圖
 **** responsible:
 ***** 邵雍
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       堯夫
+      :HAO:      康節
+      :DATES:    1012 - 1077
       :END:
 **** textual witnesses
 ***** SJB
@@ -19700,6 +19706,7 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ19p0758
 :XWDZ: XWDZ39p0671
 :HFL: HFL別上004
+:DYNASTY: 元
 :END:
 
 [[dzimg:0724/0724-004.tif][HFL 0724 004]] 
@@ -19719,11 +19726,10 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0724/0724-018.tif][HFL 0724 018]]
 **** responsible:
-***** 譚峭
+***** 覃峭(att)
       :PROPERTIES:
-      :DYNASTY:  南唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       景昇
+      :DATES:    fl. ca. 880 - 950
       :END:
 **** textual witnesses
 ***** SJB
@@ -19743,7 +19749,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0064.org][ZB5d0064]] 悟玄篇(余洞真)
+*** [[mandoku:ZB5d0064.org][ZB5d0064]] 悟玄篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0064
 :TTC: 795
@@ -19752,9 +19758,14 @@ PROPERROR xx DZ1013 xx x 河圖
 :ZHDZ: ZHDZ19p0737
 :XWDZ: XWDZ39p0711
 :HFL: HFL別下004
+:DATE: 1229(序)
 :END:
 
 [[dzimg:0725/0725-004.tif][HFL 0725 004]] 
+**** responsible:
+***** 余洞真
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -19786,11 +19797,16 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0725/0725-044.tif][HFL 0725 044]]
 **** responsible:
-***** 王玄覽
+***** 王暉
       :PROPERTIES:
-      :DYNASTY:  唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      玄覽
+      :DATES:    626 - 697
+      :END:
+***** 王大霄
+      :PROPERTIES:
+      :ZI:       太霄
+      :FUNCTION: 
+      :DATES:    b. ca. 671
       :END:
 **** textual witnesses
 ***** SJB
