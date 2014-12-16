@@ -10,7 +10,12 @@
 :END:
 **** extent: 22卷
 **** dynasty: 後秦        
-**** responsible: 佛陀耶舍共竺佛念譯
+**** responsible: 
+***** 佛陀耶舍共竺佛念
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -67,7 +72,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法天譯
+**** responsible: 
+***** 法天
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -109,7 +119,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 法天譯
+**** responsible: 
+***** 法天
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -151,7 +166,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -188,7 +208,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 西晉        
-**** responsible: 白法祖譯
+**** responsible: 
+***** 白法祖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -230,7 +255,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -277,7 +307,12 @@
 :END:
 **** extent: 3卷
 **** dynasty: 東晉        
-**** responsible: 法顯譯
+**** responsible: 
+***** 法顯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -319,7 +354,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 施護等譯
+**** responsible: 
+***** 施護等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -361,7 +401,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -403,7 +448,12 @@
 :END:
 **** extent: 3卷
 **** dynasty: 宋        
-**** responsible: 施護等譯
+**** responsible: 
+***** 施護等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -445,7 +495,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 施護等譯
+**** responsible: 
+***** 施護等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -487,7 +542,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -529,7 +589,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -571,7 +636,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -623,7 +693,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -665,7 +740,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -707,7 +787,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 支法度譯
+**** responsible: 
+***** 支法度
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -749,7 +834,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -791,7 +881,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法天譯
+**** responsible: 
+***** 法天
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -833,7 +928,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -880,7 +980,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -922,7 +1027,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -964,7 +1074,12 @@
 :END:
 **** extent: 6卷
 **** dynasty: 西晉        
-**** responsible: 法立共法炬譯
+**** responsible: 
+***** 法立共法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1016,7 +1131,12 @@
 :END:
 **** extent: 10卷
 **** dynasty: 隋        
-**** responsible: 闍那崛多等譯
+**** responsible: 
+***** 闍那崛多等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1058,7 +1178,12 @@
 :END:
 **** extent: 10卷
 **** dynasty: 隋        
-**** responsible: 達摩笈多譯
+**** responsible: 
+***** 達摩笈多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1100,7 +1225,12 @@
 :END:
 **** extent: 60卷
 **** dynasty: 東晉        
-**** responsible: 瞿曇僧伽提婆譯
+**** responsible: 
+***** 瞿曇僧伽提婆
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1182,7 +1312,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1219,7 +1354,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1256,7 +1396,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1293,7 +1438,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1330,7 +1480,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1367,7 +1522,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1404,7 +1564,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1441,7 +1606,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1478,7 +1648,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後秦        
-**** responsible: 鳩摩羅什譯
+**** responsible: 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1520,7 +1695,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1557,7 +1737,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1594,7 +1779,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1631,7 +1821,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1668,7 +1863,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 北涼        
-**** responsible: 曇無讖譯
+**** responsible: 
+***** 曇無讖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1705,7 +1905,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1742,7 +1947,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1779,7 +1989,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 慧簡譯
+**** responsible: 
+***** 慧簡
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1821,7 +2036,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1863,7 +2083,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1905,7 +2130,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 支曜譯
+**** responsible: 
+***** 支曜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1947,7 +2177,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1984,7 +2219,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2026,7 +2266,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2068,7 +2313,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2105,7 +2355,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2142,7 +2397,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2184,7 +2444,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2221,7 +2486,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2258,7 +2528,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2300,7 +2575,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2337,7 +2617,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2374,7 +2659,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2416,7 +2706,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2453,7 +2748,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 慧簡譯
+**** responsible: 
+***** 慧簡
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2495,7 +2795,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2512,7 +2817,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2549,7 +2859,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2591,7 +2906,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2633,7 +2953,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2670,7 +2995,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2712,7 +3042,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2754,7 +3089,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2796,7 +3136,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2833,7 +3178,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2875,7 +3225,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2917,7 +3272,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2954,7 +3314,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 蕭齊        
-**** responsible: 求那毘地譯
+**** responsible: 
+***** 求那毘地
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2991,7 +3356,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法天譯
+**** responsible: 
+***** 法天
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3033,7 +3403,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3070,7 +3445,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3112,7 +3492,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3154,7 +3539,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3191,7 +3581,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3233,7 +3628,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 隋        
-**** responsible: 瞿曇法智譯
+**** responsible: 
+***** 瞿曇法智
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3275,7 +3675,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 宋        
-**** responsible: 天息災譯
+**** responsible: 
+***** 天息災
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3317,7 +3722,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3354,7 +3764,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3396,7 +3811,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3423,7 +3843,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3465,7 +3890,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3507,7 +3937,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3549,7 +3984,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3591,7 +4031,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 沮渠京聲譯
+**** responsible: 
+***** 沮渠京聲
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3633,7 +4078,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3675,7 +4125,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3717,7 +4172,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3754,7 +4214,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3796,7 +4261,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3833,7 +4303,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3860,7 +4335,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3902,7 +4382,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 陳        
-**** responsible: 真諦譯
+**** responsible: 
+***** 真諦
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3939,7 +4424,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3986,7 +4476,12 @@
 :END:
 **** extent: 50卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4053,7 +4548,12 @@
 :END:
 **** extent: 16卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4105,7 +4605,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4152,7 +4657,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 唐        
-**** responsible: 義淨譯
+**** responsible: 
+***** 義淨
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4189,7 +4699,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4226,7 +4741,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4253,7 +4773,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4295,7 +4820,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4337,7 +4867,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4374,7 +4909,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4411,7 +4951,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4448,7 +4993,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 唐        
-**** responsible: 義淨譯
+**** responsible: 
+***** 義淨
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4485,7 +5035,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4522,7 +5077,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4559,7 +5119,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4601,7 +5166,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 支曜譯
+**** responsible: 
+***** 支曜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4638,7 +5208,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 支曜譯
+**** responsible: 
+***** 支曜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4680,7 +5255,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4727,7 +5307,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4764,7 +5349,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4806,7 +5396,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4848,7 +5443,12 @@
 :END:
 **** extent: 4卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4895,7 +5495,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4937,7 +5542,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4974,7 +5584,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後秦        
-**** responsible: 鳩摩羅什譯
+**** responsible: 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5016,7 +5631,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 唐        
-**** responsible: 玄奘譯
+**** responsible: 
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5053,7 +5673,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 天竺三藏求那跋陀羅譯
+**** responsible: 
+***** 天竺三藏求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5075,7 +5700,12 @@
 :END:
 **** extent: 51卷
 **** dynasty: 東晉        
-**** responsible: 瞿曇僧伽提婆譯
+**** responsible: 
+***** 瞿曇僧伽提婆
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5132,7 +5762,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5174,7 +5809,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5211,7 +5851,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5238,7 +5883,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5270,7 +5920,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 吳        
-**** responsible: 竺律炎譯
+**** responsible: 
+***** 竺律炎
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5307,7 +5962,12 @@
 :END:
 **** extent: 3卷
 **** dynasty: 宋        
-**** responsible: 施護譯
+**** responsible: 
+***** 施護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5349,7 +6009,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5386,7 +6051,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5413,7 +6083,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5445,7 +6120,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 法炬譯
+**** responsible: 
+***** 法炬
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5487,7 +6167,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 慧簡譯
+**** responsible: 
+***** 慧簡
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5524,7 +6209,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5566,7 +6256,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5603,7 +6298,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 康孟詳譯
+**** responsible: 
+***** 康孟詳
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5645,7 +6345,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5682,7 +6387,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5724,7 +6434,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5766,7 +6481,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 求那跋陀羅譯
+**** responsible: 
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5808,7 +6528,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5835,7 +6560,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5867,7 +6597,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5909,7 +6644,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 西晉        
-**** responsible: 白法祖譯
+**** responsible: 
+***** 白法祖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5951,7 +6691,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 劉宋        
-**** responsible: 慧簡譯
+**** responsible: 
+***** 慧簡
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5993,7 +6738,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6030,7 +6780,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6057,7 +6812,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 竺曇無蘭譯
+**** responsible: 
+***** 竺曇無蘭
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6094,7 +6854,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6136,7 +6901,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6173,7 +6943,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6215,7 +6990,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安世高譯
+**** responsible: 
+***** 安世高
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6257,7 +7037,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 婆素跋陀造        
-**** responsible: 鳩摩羅佛提等譯
+**** responsible: 
+***** 鳩摩羅佛提等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6304,7 +7089,12 @@
 :END:
 **** extent: 3卷
 **** dynasty: 東晉        
-**** responsible: 僧伽提婆譯
+**** responsible: 
+***** 僧伽提婆
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6351,7 +7141,12 @@
 :END:
 **** extent: 5卷
 **** dynasty: 失譯附後漢錄        
-**** responsible: 失譯附後漢錄
+**** responsible: 
+***** 失譯附後漢
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6398,7 +7193,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 後漢        
-**** responsible: 安玄共嚴佛調譯
+**** responsible: 
+***** 安玄共嚴佛調
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6440,7 +7240,12 @@
 :END:
 **** extent: 1卷
 **** dynasty: 東晉        
-**** responsible: 道安撰
+**** responsible: 
+***** 道安
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6467,7 +7272,12 @@
 :END:
 **** extent: 2卷
 **** dynasty: 吳        
-**** responsible: 陳慧撰
+**** responsible: 
+***** 陳慧
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
