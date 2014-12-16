@@ -24779,7 +24779,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :XWDZ: XWDZ55p0657
 :HFL: HFL弁上004
 :DATE: 1251(編)
-:DATE: 1302(printed)
+:DATE: 1302(出版)
 :END:
 
 [[dzimg:1016/1016-004.tif][HFL 1016 004]]
@@ -24791,7 +24791,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 ***** 彭耜
       :PROPERTIES:
       :FUNCTION: 編
-      :DATES:    ?
+      :END:
+***** 方從義
+      :PROPERTIES:
+      :FUNCTION: 出版
       :END:
 **** textual witnesses
 ***** SJB
@@ -24807,7 +24810,17 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL弁上176
 :END:
 
-[[dzimg:1016/1016-176.tif][HFL 1016 176]] 
+[[dzimg:1016/1016-176.tif][HFL 1016 176]]
+**** responsible:
+***** 白玉蟾(att)
+      :PROPERTIES:
+      :DATES:    fl. 1194 - 1229
+      :END:
+***** 留元長
+      :PROPERTIES:
+      :FUNCTION: 序
+      :DATES:    fl. 1192 - 1217
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -24820,9 +24833,15 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ19p0538
 :XWDZ: XWDZ55p0714
 :HFL: HFL弁下004
+:DATE: after 1218
 :END:
 
-[[dzimg:1017/1017-004.tif][HFL 1017 004]] 
+[[dzimg:1017/1017-004.tif][HFL 1017 004]]
+**** responsible:
+***** 白玉蟾(att)
+      :PROPERTIES:
+      :HAO:      海瓊子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -24835,15 +24854,19 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ26p0725
 :XWDZ: XWDZ55p0723
 :HFL: HFL弁下040
+:DATE: 1237(編)
 :END:
 
 [[dzimg:1017/1017-040.tif][HFL 1017 040]]
 **** responsible:
 ***** 尹志平
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      清和
+      :DATES:    1169 - 1251
+      :END:
+***** 段志堅
+      :PROPERTIES:
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -24857,15 +24880,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ26p0239
 :XWDZ: XWDZ55p0763
 :HFL: HFL轉上004
+:DATE: 1407
 :END:
 
 [[dzimg:1018/1018-004.tif][HFL 1018 004]]
 **** responsible:
 ***** 張宇初
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      耆山無為天師
       :END:
 **** textual witnesses
 ***** SJB
