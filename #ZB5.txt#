@@ -23598,9 +23598,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ08p0373
 :XWDZ: XWDZ54p0321
 :HFL: HFL肆上140
+:DYNASTY: 唐初期
 :END:
 
-[[dzimg:0990/0990-140.tif][HFL 0990 140]] 
+[[dzimg:0990/0990-140.tif][HFL 0990 140]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23613,9 +23614,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ08p0382
 :XWDZ: XWDZ54p0337
 :HFL: HFL肆下004
+:DYNASTY: 六朝
 :END:
 
-[[dzimg:0991/0991-004.tif][HFL 0991 004]] 
+[[dzimg:0991/0991-004.tif][HFL 0991 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23628,19 +23630,18 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ54p0352
 :HFL: HFL肆下064
+:DYNASTY: 唐中期
 :END:
 
 [[dzimg:0991/0991-064.tif][HFL 0991 064]]
-**** responsible:
-***** 張辯
-      :PROPERTIES:
-      :DYNASTY:  梁
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+**** 天師治儀
+     :PROPERTIES:
+     :TYPE:   appendix
+     :END:
+
 *** [[mandoku:ZB5g0054.org][ZB5g0054]] 洞玄靈寶道士明鏡法
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0054
@@ -23650,9 +23651,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ04p0405
 :XWDZ: XWDZ54p0354
 :HFL: HFL肆下124
+:DYNASTY: 唐
 :END:
 
-[[dzimg:0991/0991-124.tif][HFL 0991 124]] 
+[[dzimg:0991/0991-124.tif][HFL 0991 124]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23665,13 +23667,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ08p0473
 :XWDZ: XWDZ54p0358
 :HFL: HFL肆下130
+:DYNASTY: 唐初期
 :END:
 
-[[dzimg:0991/0991-130.tif][HFL 0991 130]] 
+[[dzimg:0991/0991-130.tif][HFL 0991 130]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5g0056.org][ZB5g0056]] 太清玉司左院祕要上法(霞映)
+*** [[mandoku:ZB5g0056.org][ZB5g0056]] 太清玉司左院祕要上法
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0056
 :TTC: 1087
@@ -23682,7 +23685,12 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL肆下146
 :END:
 
-[[dzimg:0991/0991-146.tif][HFL 0991 146]] 
+[[dzimg:0991/0991-146.tif][HFL 0991 146]]
+**** responsible:
+***** 霞映
+      :PROPERTIES:
+      :HAO:      洞山真人
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23695,15 +23703,19 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ45p0268
 :XWDZ: XWDZ54p0571
 :HFL: HFL筵上
+:DATE: 1154(序)
 :END:
 
 [[dzimg:0992/0992-004.tif][HFL 0992 004]]
 **** responsible:
 ***** 陳葆光
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 林季仲
+      :PROPERTIES:
+      :ZI:       竹軒
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -23717,20 +23729,24 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ26p0131
 :XWDZ: XWDZ54p0605
 :HFL: HFL席上004
+:DATE: 1395(序)
 :END:
 
 [[dzimg:0996/0996-004.tif][HFL 0996 004]]
 **** responsible:
+***** 張繼先
+      :PROPERTIES:
+      :DATES:    1092 - 1126
+      :END:
 ***** 張宇初
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :DATES:    1361 - 1410
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5g0059.org][ZB5g0059]] 沖虛通妙侍宸王先生家話 #(王旻)
+*** [[mandoku:ZB5g0059.org][ZB5g0059]] 沖虛通妙侍宸王先生家話
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0059
 :TTC: 925
@@ -23741,7 +23757,12 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL席下004
 :END:
 
-[[dzimg:0996/0996-004.tif][HFL 0996 004]] 
+[[dzimg:0996/0996-004.tif][HFL 0996 004]]
+**** responsible:
+***** 袁庭植
+      :PROPERTIES:
+      :DATES:    1092 - 1126
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
