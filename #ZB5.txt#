@@ -22283,11 +22283,14 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0840/0840-004.tif][HFL 0840 004]]
 **** responsible:
-***** 鬻熊
+***** 鬻熊(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -11th cent(legendary date)
+      :END:
+***** 逢行珪
+      :PROPERTIES:
+      :FUNCTION: 注
+      :DATES:    fl. 653
       :END:
 **** textual witnesses
 ***** SJB
@@ -22307,9 +22310,13 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 **** responsible:
 ***** 公孫龍
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    b. -498
+      :END:
+***** 謝絳
+      :PROPERTIES:
+      :ZI:       希深
+      :FUNCTION: 注
+      :DATES:    995 - 1039
       :END:
 **** textual witnesses
 ***** SJB
@@ -22317,7 +22324,7 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 *** [[mandoku:ZB5f0007.org][ZB5f0007]] 尹文子
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0007
-:TTC: #68 - 69
+:TTC: 68 - 69#
 :DZ: DZ1173
 :page: 270175b
 :ZHDZ: ZHDZ24p0267
