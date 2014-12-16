@@ -22324,7 +22324,7 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 *** [[mandoku:ZB5f0007.org][ZB5f0007]] 尹文子
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0007
-:TTC: 68 - 69#
+:TTC: 62 - 63
 :DZ: DZ1173
 :page: 270175b
 :ZHDZ: ZHDZ24p0267
@@ -22334,11 +22334,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0840/0840-102.tif][HFL 0840 102]]
 **** responsible:
-***** 尹文
+***** 尹文(att)
       :PROPERTIES:
-      :DYNASTY:  周
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    -5th cent 後半
       :END:
 **** textual witnesses
 ***** SJB
@@ -22352,13 +22350,15 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :ZHDZ: ZHDZ24p0422
 :XWDZ: XWDZ46p0281
 :HFL: HFL顛中004
+:DATE: 11th cent 後期 or 12th cent 前期
 :END:
 
 [[dzimg:0841/0841-004.tif][HFL 0841 004]]
 **** responsible:
-***** 程本
+***** 程本(att)
       :PROPERTIES:
-      :DYNASTY:  周
+      :DYNASTY:  春秋
+      :ZI:       子華
       :FUNCTION: ?
       :DATES:    ?
       :END:
