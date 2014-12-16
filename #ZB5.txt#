@@ -22697,20 +22697,25 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :ZHDZ: ZHDZ19p0154
 :XWDZ: XWDZ47p0913
 :HFL: HFL志下042
+:DYNASTY: 北宋
 :END:
 
 [[dzimg:0874/0874-042.tif][HFL 0874 042]]
 **** responsible:
-***** 鍾離權
+***** 鍾離權(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       雲房
+      :HAO:      正陽真人
+      :END:
+***** 呂喦
+      :PROPERTIES:
+      :ZI:       洞賓
+      :HAO:      純陽真人
+      :FUNCTION: 傳
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5g 正一部
 *** [[mandoku:ZB5g0001.org][ZB5g0001]] 大惠靜慈妙樂天尊說福德五聖經
 :PROPERTIES:
@@ -22723,7 +22728,7 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :HFL: HFL滿上004
 :END:
 
-[[dzimg:0875/0875-004.tif][HFL 0875 004]] 
+[[dzimg:0875/0875-004.tif][HFL 0875 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22736,9 +22741,10 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :ZHDZ: ZHDZ08p0540
 :XWDZ: XWDZ48p0006
 :HFL: HFL滿上020
+:DYNASTY: 唐?
 :END:
 
-[[dzimg:0875/0875-020.tif][HFL 0875 020]] 
+[[dzimg:0875/0875-020.tif][HFL 0875 020]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
