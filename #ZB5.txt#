@@ -23761,7 +23761,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** responsible:
 ***** 袁庭植
       :PROPERTIES:
-      :DATES:    1092 - 1126
+      :DATES:    fl. 1153
       :END:
 **** textual witnesses
 ***** SJB
@@ -23775,15 +23775,24 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ32p0415
 :XWDZ: XWDZ54p0637
 :HFL: HFL席下010
+:DATE: 1131(編 by 苗希頤)
+:DATE: 1158(編 by 朱翌)
+:DATE: 1187(改訂 by 朱宋卿)
 :END:
 
 [[dzimg:0997/0997-010.tif][HFL 0997 010]]
 **** responsible:
-***** 徐守信
+***** 苗希頤
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 朱翌
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
+***** 朱宋卿
+      :PROPERTIES:
+      :FUNCTION: 改訂
       :END:
 **** textual witnesses
 ***** SJB
