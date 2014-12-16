@@ -23194,11 +23194,14 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 
 [[dzimg:0942/0942-004.tif][HFL 0942 004]]
 **** responsible:
+***** 王契真
+      :PROPERTIES:
+      :FUNCTION: 編
+      :END:
 ***** 寧全真
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 傳
+      :DATES:    1101 - 1181
       :END:
 **** textual witnesses
 ***** SJB
@@ -23210,11 +23213,11 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :DZ: DZ1222
 :END:
 PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
-[[dzimg:0963/0963-004.tif][HFL 0963 004]] 
+[[dzimg:0963/0963-004.tif][HFL 0963 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5g0032.org][ZB5g0032]] 上清靈寶大法(二)(金允中)
+*** [[mandoku:ZB5g0032.org][ZB5g0032]] 上清靈寶大法(二)
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0032
 :TTC: 1024 - 1028
@@ -23225,7 +23228,12 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL獸上004
 :END:
 
-[[dzimg:0963/0963-070.tif][HFL 0963 070]] 
+[[dzimg:0963/0963-070.tif][HFL 0963 070]]
+**** responsible:
+***** 金允中
+      :PROPERTIES:
+      :DATES:    fl. 1225
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23238,15 +23246,18 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ42p0534
 :XWDZ: XWDZ53p0555
 :HFL: HFL丙上004
+:DATE: 1188(序)
 :END:
 
 [[dzimg:0973/0973-004.tif][HFL 0973 004]]
 **** responsible:
 ***** 呂元素
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
+      :END:
+***** 胡湘龍
+      :PROPERTIES:
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -23264,11 +23275,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:0976/0976-004.tif][HFL 0976 004]]
 **** responsible:
-***** 杜光庭
+***** 杜光庭(att)
       :PROPERTIES:
-      :DYNASTY:  前蜀
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    850 - 933
+      :END:
+***** 仲勵
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    15th cent初期
       :END:
 **** textual witnesses
 ***** SJB
@@ -23282,15 +23296,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ42p0478
 :XWDZ: XWDZ54p0081
 :HFL: HFL帳上004
+:DATE: 1201(序)
 :END:
 
 [[dzimg:0984/0984-004.tif][HFL 0984 004]]
 **** responsible:
 ***** 呂太古
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -23304,15 +23317,13 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ30p0313
 :XWDZ: XWDZ54p0193
 :HFL: HFL對上004
+:DATE: 1116(序)
 :END:
 
 [[dzimg:0986/0986-004.tif][HFL 0986 004]]
 **** responsible:
 ***** 元妙宗
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -23326,9 +23337,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ08p0553
 :XWDZ: XWDZ54p0197
 :HFL: HFL鼓上004
+:DYNASTY: 唐
 :END:
 
-[[dzimg:0988/0988-004.tif][HFL 0988 004]] 
+[[dzimg:0988/0988-004.tif][HFL 0988 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23341,9 +23353,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ27p0693
 :XWDZ: XWDZ54p0199
 :HFL: HFL鼓上018
+:DYNASTY: 元
 :END:
 
-[[dzimg:0988/0988-018.tif][HFL 0988 018]] 
+[[dzimg:0988/0988-018.tif][HFL 0988 018]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -23356,15 +23369,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ28p0564
 :XWDZ: XWDZ54p0222
 :HFL: HFL鼓上
+:DATE: 983
 :END:
 
 [[dzimg:0988/0988-026.tif][HFL 0988 026]]
 **** responsible:
 ***** 李昉
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -23378,6 +23390,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ28p0664
 :XWDZ: XWDZ54p0226
 :HFL: HFL鼓上118
+:DATE: 1
 :END:
 
 [[dzimg:0988/0988-118.tif][HFL 0988 118]]
