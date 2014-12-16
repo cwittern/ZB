@@ -22522,6 +22522,12 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
       :ZI:       景翔
       :DATES:    1226 - 1296
       :END:
+***** 方回
+      :PROPERTIES:
+      :ZI:       萬里
+      :FUNCTION: 編
+      :DATES:    1227 - 1307
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22538,11 +22544,14 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0860/0860-004.tif][HFL 0860 004]]
 **** responsible:
+***** 揚雄
+      :PROPERTIES:
+      :DATES:    -53 - 18
+      :END:
 ***** 司馬光
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    1019 - 1086
       :END:
 **** textual witnesses
 ***** SJB
