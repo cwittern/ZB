@@ -21840,9 +21840,8 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 馬丹陽
       :PROPERTIES:
-      :DYN:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      無為清靜
+      :DATES:    1123 - 1184
       :END:
 **** textual witnesses
 ***** SJB
@@ -21856,20 +21855,22 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0479
 :XWDZ: XWDZ43p0307
 :HFL: HFL連上004
+:DATE: 1175(序)
 :END:
 
 [[dzimg:0791/0791-004.tif][HFL 0791 004]]
 **** responsible:
 ***** 馬鈺
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :END:
+***** 甯師常
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5e0053.org][ZB5e0053]] 悟真集(李)
+*** [[mandoku:ZB5e0053.org][ZB5e0053]] 悟真集
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0053
 :TTC: 1158
@@ -21878,9 +21879,15 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ43p0326
 :HFL: HFL連上078
+:DATE: 13th cent
 :END:
 
-[[dzimg:0791/0791-078.tif][HFL 0791 078]] 
+[[dzimg:0791/0791-078.tif][HFL 0791 078]]
+**** responsible:
+***** 李先生
+      :PROPERTIES:
+      :HAO:      通玄子
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21893,15 +21900,13 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0645
 :XWDZ: XWDZ43p0347
 :HFL: HFL連下004
+:DATE: 1213 - 1217
 :END:
 
 [[dzimg:0792/0792-004.tif][HFL 0792 004]]
 **** responsible:
 ***** 王處一
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
       :END:
 **** textual witnesses
 ***** SJB
@@ -21915,15 +21920,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0273
 :XWDZ: XWDZ43p0411
 :HFL: HFL枝上004
+:DATE: 1188(序)
 :END:
 
 [[dzimg:0793/0793-004.tif][HFL 0793 004]]
 **** responsible:
 ***** 王嚞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      重陽子
+      :END:
+***** 范懌
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -21937,15 +21945,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0359
 :XWDZ: XWDZ43p0534
 :HFL: HFL交上126
+:DATE: 1183(序)
 :END:
 
 [[dzimg:0795/0795-126.tif][HFL 0795 126]]
 **** responsible:
 ***** 王嚞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      重陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -21959,15 +21966,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0383
 :XWDZ: XWDZ43p0567
 :HFL: HFL交下066
+:DATE: 1183(序)
 :END:
 
 [[dzimg:0796/0796-066.tif][HFL 0796 066]]
 **** responsible:
 ***** 王嚞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      重陽子
+      :END:
+***** 馬大辨
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -21987,9 +21997,7 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 王嚞
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      重陽子
       :END:
 **** textual witnesses
 ***** SJB
@@ -22003,9 +22011,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ19p0242
 :XWDZ: XWDZ43p0592
 :HFL: HFL交下168
+:DATE: 北宋?
 :END:
 
-[[dzimg:0796/0796-162.tif][HFL 0796 162]] 
+[[dzimg:0796/0796-162.tif][HFL 0796 162]]
+**** responsible:
+***** 馬自然
+      :PROPERTIES:
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22018,16 +22031,10 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0392
 :XWDZ: XWDZ43p0594
 :HFL: HFL交下126
+:DATE: 12th cent
 :END:
 
 [[dzimg:0796/0796-168.tif][HFL 0796 168]]
-**** responsible:
-***** 王嚞
-      :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22040,15 +22047,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ25p0592
 :XWDZ: XWDZ43p0597
 :HFL: HFL友上004
+:DATE: 1186 - 1208(序)
 :END:
 
 [[dzimg:0797/0797-004.tif][HFL 0797 004]]
 **** responsible:
-***** 邱處機
+***** 丘處機
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      長春子
       :END:
 **** textual witnesses
 ***** SJB
@@ -22062,15 +22068,14 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ26p0522
 :XWDZ: XWDZ43p0655
 :HFL: HFL友下004
+:DATE: 1229
 :END:
 
 [[dzimg:0798/0798-004.tif][HFL 0798 004]]
 **** responsible:
 ***** 譚處端
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      長真子
       :END:
 **** textual witnesses
 ***** SJB
