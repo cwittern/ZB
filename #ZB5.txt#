@@ -24728,7 +24728,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1012/1012-158.tif][HFL 1012 158]]
 **** responsible:
-***** 傅燁
+***** 傅燁(煜)
       :PROPERTIES:
       :END:
 **** textual witnesses
@@ -24743,15 +24743,28 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ55p0487
 :HFL: HFL陛上004
+:DATE: 1144(序)
+:DATE: 1276(編)
 :END:
 
 [[dzimg:1013/1013-004.tif][HFL 1013 004]]
 **** responsible:
 ***** 葛洪
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    283 - 343
+      :END:
+***** 陶弘景
+      :PROPERTIES:
+      :DATES:    456 - 536
+      :END:
+***** 楊用道
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
+***** 段成已
+      :PROPERTIES:
+      :HAO:      菊軒先生
+      :FUNCTION: 編
       :END:
 **** textual witnesses
 ***** SJB
@@ -24765,14 +24778,19 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ19p0545
 :XWDZ: XWDZ55p0657
 :HFL: HFL弁上004
+:DATE: 1251(編)
+:DATE: 1302(printed)
 :END:
 
 [[dzimg:1016/1016-004.tif][HFL 1016 004]]
 **** responsible:
 ***** 白玉蟾
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
+      :DATES:    fl. 1194 - 1229
+      :END:
+***** 彭耜
+      :PROPERTIES:
+      :FUNCTION: 編
       :DATES:    ?
       :END:
 **** textual witnesses
