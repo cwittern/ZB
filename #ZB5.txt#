@@ -22175,9 +22175,13 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 **** responsible:
 ***** 趙宜真
       :PROPERTIES:
-      :DYNASTY:  明
       :FUNCTION: 編
       :DATES:    d. 1382
+      :END:
+***** 劉淵然
+      :PROPERTIES:
+      :FUNCTION: 編
+      :DATES:    1351 - 1431
       :END:
 **** textual witnesses
 ***** SJB
@@ -22191,13 +22195,13 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :ZHDZ: ZHDZ41p0372
 :XWDZ: XWDZ45p0377
 :HFL: HFL次上004
+:DYNASTY: 明
 :END:
 
-[[dzimg:0825/0825-004.tif][HFL 0825 004]] 
+[[dzimg:0825/0825-004.tif][HFL 0825 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-
 ** ZB5f 太清部
 *** [[mandoku:ZB5f0001.org][ZB5f0001]] 太上感應篇
 :PROPERTIES:
@@ -22210,7 +22214,12 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :HFL: HFL義上004
 :END:
 
-[[dzimg:0834/0834-004.tif][HFL 0834 004]] 
+[[dzimg:0834/0834-004.tif][HFL 0834 004]]
+**** responsible:
+***** 李昌齡
+      :PROPERTIES:
+      :DATES:    937 - 1008
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22223,9 +22232,10 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :ZHDZ: ZHDZ08p0211
 :XWDZ: XWDZ46p0219
 :HFL: HFL退下056
+:DYNASTY: 漢後期?
 :END:
 
-[[dzimg:0839/0839-056.tif][HFL 0839 056]] 
+[[dzimg:0839/0839-056.tif][HFL 0839 056]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22240,7 +22250,7 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :HFL: HFL退下142
 :END:
 
-[[dzimg:0839/0839-142.tif][HFL 0839 142]] 
+[[dzimg:0839/0839-142.tif][HFL 0839 142]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22253,9 +22263,10 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 :ZHDZ: ZHDZ06p0164
 :XWDZ: XWDZ46p0243
 :HFL: HFL退下148
+:DYNASTY: 唐?
 :END:
 
-[[dzimg:0839/0839-148.tif][HFL 0839 148]] 
+[[dzimg:0839/0839-148.tif][HFL 0839 148]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
