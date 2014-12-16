@@ -21740,9 +21740,18 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ27p0439
 :XWDZ: XWDZ43p0115
 :HFL: HFL同上026
+:DATE: 1251(序)
 :END:
 
-[[dzimg:0787/0787-026.tif][HFL 0787 026]] 
+[[dzimg:0787/0787-026.tif][HFL 0787 026]]
+**** responsible:
+***** 玄沖師
+      :PROPERTIES:
+      :END:
+***** 張志明
+      :PROPERTIES:
+      :FUNCTION: 序
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -21755,15 +21764,20 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 :ZHDZ: ZHDZ00p0000
 :XWDZ: XWDZ43p0121
 :HFL: HFL同上050
+:DATE: 1299(序)
 :END:
 
 [[dzimg:0787/0787-050.tif][HFL 0787 050]]
 **** responsible:
 ***** 尹志平
       :PROPERTIES:
-      :DYNASTY:  金
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       大(太)和
+      :HAO:      清和子
+      :DATES:    1169 - 1251
+      :END:
+***** 煙霞逸人
+      :PROPERTIES:
+      :FUNCTION: 序
       :END:
 **** textual witnesses
 ***** SJB
@@ -21781,11 +21795,10 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0788/0788-004.tif][HFL 0788 004]]
 **** responsible:
-***** 洞明子
+***** 郭志誠
       :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      洞明子
+      :DATES:    1219 - 1293
       :END:
 **** textual witnesses
 ***** SJB
@@ -21805,9 +21818,9 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 楊至質
       :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       休文
+      :HAO:      勿齋
+      :DATES:    fl. 1228 - 1252
       :END:
 **** textual witnesses
 ***** SJB
@@ -21825,9 +21838,9 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0789/0789-004.tif][HFL 0789 004]]
 **** responsible:
-***** 馬鈺
+***** 馬丹陽
       :PROPERTIES:
-      :DYNASTY:  金
+      :DYN:  金
       :FUNCTION: ?
       :DATES:    ?
       :END:
