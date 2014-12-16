@@ -24236,7 +24236,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5g0086.org][ZB5g0086]] 道法宗旨圖衍義(鄧柟)
+*** [[mandoku:ZB5g0086.org][ZB5g0086]] 道法宗旨圖衍義
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0086
 :TTC: 1080 - 1081
@@ -24245,9 +24245,20 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ31p0365
 :XWDZ: XWDZ55p0094
 :HFL: HFL笙上066
+:DATE: 1299(序)
 :END:
 
-[[dzimg:1004/1004-066.tif][HFL 1004 066]] 
+[[dzimg:1004/1004-066.tif][HFL 1004 066]]
+**** responsible:
+***** 鄧柟
+      :PROPERTIES:
+      :ZI:       以正
+      :HAO:      鐵崖子
+      :END:
+***** 章希賢
+      :PROPERTIES:
+      :HAO:      養吾
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -24266,9 +24277,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** responsible:
 ***** 陸修靜
       :PROPERTIES:
-      :DYNASTY:  劉宋
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    406 - 477
       :END:
 **** textual witnesses
 ***** SJB
@@ -24282,13 +24291,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ32p0661
 :XWDZ: XWDZ55p0115
 :HFL: HFL笙上148
+:DYNASTY: 宋?
 :END:
 
-[[dzimg:1004/1004-148.tif][HFL 1004 148]] 
+[[dzimg:1004/1004-148.tif][HFL 1004 148]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5g0089.org][ZB5g0089]] 玄壇刊誤論(張若海)
+*** [[mandoku:ZB5g0089.org][ZB5g0089]] 玄壇刊誤論
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0089
 :TTC: 466
@@ -24299,7 +24309,12 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL笙下004
 :END:
 
-[[dzimg:1005/1005-004.tif][HFL 1005 004]] 
+[[dzimg:1005/1005-004.tif][HFL 1005 004]]
+**** responsible:
+***** 陸修靜
+      :PROPERTIES:
+      :DATES:    406 - 477
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
