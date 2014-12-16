@@ -22569,11 +22569,10 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0863/0863-004.tif][HFL 0863 004]]
 **** responsible:
-***** 劉安
+***** 許愼(att)
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :FUNCTION: 注
+      :DATES:    d. 124
       :END:
 **** textual witnesses
 ***** SJB
@@ -22593,21 +22592,26 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 **** responsible:
 ***** 葛洪
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      抱樸子
+      :DATES:    283 - 343
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5f0020.org][ZB5f0020]] 抱樸子別旨
+*** [[mandoku:ZB5f0020.org][ZB5f0020]] 抱朴子別旨
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0020
 :TTC: 376
 :DZ: DZ1186
+:DYNASTY: 唐?
 :END:
 PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
-[[dzimg:0870/0870-180.tif][HFL 0870 180]] 
+[[dzimg:0870/0870-180.tif][HFL 0870 180]]
+**** responsible:
+***** 葛洪(att)
+      :PROPERTIES:
+      :DATES:    283 - 343
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22626,9 +22630,8 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 **** responsible:
 ***** 葛洪
       :PROPERTIES:
-      :DYNASTY:  晉
-      :FUNCTION: ?
-      :DATES:    ?
+      :HAO:      抱樸子
+      :DATES:    283 - 343
       :END:
 **** textual witnesses
 ***** SJB
@@ -22644,7 +22647,13 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :HFL: HFL志下004
 :END:
 
-[[dzimg:0874/0874-004.tif][HFL 0874 004]] 
+[[dzimg:0874/0874-004.tif][HFL 0874 004]]
+**** responsible:
+***** 祝洞天
+      :PROPERTIES:
+      :HAO:      橐籥子
+      :DATES:    fl. 1350
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22659,7 +22668,7 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :HFL: HFL志下020
 :END:
 
-[[dzimg:0874/0874-020.tif][HFL 0874 020]] 
+[[dzimg:0874/0874-020.tif][HFL 0874 020]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -22672,9 +22681,10 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 :ZHDZ: ZHDZ15p0583
 :XWDZ: XWDZ47p0909
 :HFL: HFL志下026
+:DYNASTY: 唐?
 :END:
 
-[[dzimg:0874/0874-026.tif][HFL 0874 026]] 
+[[dzimg:0874/0874-026.tif][HFL 0874 026]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
