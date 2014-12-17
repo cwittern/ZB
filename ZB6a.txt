@@ -4338,11 +4338,10 @@
 :CBETA_ID:  T02n0100
 :CUSTOM_ID: ZB6a0100
 :SOURCE: Taisho Tripitaka Vol. 2, No. 100
-:DYNASTY: 失譯
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4393,11 +4392,10 @@
 :CBETA_ID:  T02n0101
 :CUSTOM_ID: ZB6a0101
 :SOURCE: Taisho Tripitaka Vol. 2, No. 101
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4683,11 +4681,10 @@
 :CBETA_ID:  T02n0108
 :CUSTOM_ID: ZB6a0108
 :SOURCE: Taisho Tripitaka Vol. 2, No. 108
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5773,11 +5770,10 @@
 :CBETA_ID:  T02n0132a
 :CUSTOM_ID: ZB6a0134
 :SOURCE: Taisho Tripitaka Vol. 2, No. 132a
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5803,11 +5799,10 @@
 :CBETA_ID:  T02n0132b
 :CUSTOM_ID: ZB6a0135
 :SOURCE: Taisho Tripitaka Vol. 2, No. 132b
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6228,11 +6223,10 @@
 :CBETA_ID:  T02n0142a
 :CUSTOM_ID: ZB6a0145
 :SOURCE: Taisho Tripitaka Vol. 2, No. 142a
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6258,11 +6252,10 @@
 :CBETA_ID:  T02n0142b
 :CUSTOM_ID: ZB6a0146
 :SOURCE: Taisho Tripitaka Vol. 2, No. 142b
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6428,11 +6421,10 @@
 :CBETA_ID:  T02n0146
 :CUSTOM_ID: ZB6a0150
 :SOURCE: Taisho Tripitaka Vol. 2, No. 146
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6468,11 +6460,10 @@
 :CBETA_ID:  T02n0147
 :CUSTOM_ID: ZB6a0151
 :SOURCE: Taisho Tripitaka Vol. 2, No. 147
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6713,13 +6704,17 @@
 :CBETA_ID:  T25n1505
 :CUSTOM_ID: ZB6a0157
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1505
-:DYNASTY: 婆素跋陀造
+:DYNASTY: 符秦
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 鳩摩羅佛提等
+***** 婆素跋陀
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 撰
+:END:
+***** 鳩摩羅佛提
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -6767,6 +6762,10 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 尊者山賢
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 僧伽提婆
 :PROPERTIES:
 :FUNCTION: 譯
@@ -6813,11 +6812,15 @@
 :CBETA_ID:  T25n1507
 :CUSTOM_ID: ZB6a0159
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1507
-:DYNASTY: 失譯附後漢錄
+:DYNASTY: 後漢(附)
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 失譯附後漢
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6867,7 +6870,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 安玄共嚴佛調
+***** 安玄
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 嚴佛調
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
