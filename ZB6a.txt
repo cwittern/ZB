@@ -9,7 +9,11 @@
 :END:
 **** extent: 22卷
 **** responsible: 
-***** 佛陀耶舍共竺佛念
+***** 佛陀耶舍
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 竺佛念
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -239,11 +243,10 @@
 :CBETA_ID:  T01n0006
 :CUSTOM_ID: ZB6a0006
 :SOURCE: Taisho Tripitaka Vol. 1, No. 006
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -338,9 +341,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -473,9 +476,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1028,7 +1031,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 法立共法炬
+***** 法立
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 法炬
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1083,9 +1090,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 闍那崛多等
+***** 闍那崛多
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1334,11 +1341,10 @@
 :CBETA_ID:  T01n0029
 :CUSTOM_ID: ZB6a0029
 :SOURCE: Taisho Tripitaka Vol. 1, No. 029
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1659,11 +1665,10 @@
 :CBETA_ID:  T01n0037
 :CUSTOM_ID: ZB6a0037
 :SOURCE: Taisho Tripitaka Vol. 1, No. 037
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1944,11 +1949,10 @@
 :CBETA_ID:  T01n0044
 :CUSTOM_ID: ZB6a0044
 :SOURCE: Taisho Tripitaka Vol. 1, No. 044
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2249,11 +2253,10 @@
 :CBETA_ID:  T01n0051
 :CUSTOM_ID: ZB6a0051
 :SOURCE: Taisho Tripitaka Vol. 1, No. 051
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2334,11 +2337,10 @@
 :CBETA_ID:  T01n0053
 :CUSTOM_ID: ZB6a0053
 :SOURCE: Taisho Tripitaka Vol. 1, No. 053
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2859,11 +2861,10 @@
 :CBETA_ID:  T01n0066
 :CUSTOM_ID: ZB6a0066
 :SOURCE: Taisho Tripitaka Vol. 1, No. 066
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3124,11 +3125,10 @@
 :CBETA_ID:  T01n0072
 :CUSTOM_ID: ZB6a0072
 :SOURCE: Taisho Tripitaka Vol. 1, No. 072
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3249,11 +3249,10 @@
 :CBETA_ID:  T01n0075
 :CUSTOM_ID: ZB6a0075
 :SOURCE: Taisho Tripitaka Vol. 1, No. 075
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3379,11 +3378,10 @@
 :CBETA_ID:  T01n0078
 :CUSTOM_ID: ZB6a0078
 :SOURCE: Taisho Tripitaka Vol. 1, No. 078
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3804,11 +3802,10 @@
 :CBETA_ID:  T01n0088
 :CUSTOM_ID: ZB6a0088
 :SOURCE: Taisho Tripitaka Vol. 1, No. 088
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4024,11 +4021,10 @@
 :CBETA_ID:  T01n0093
 :CUSTOM_ID: ZB6a0093
 :SOURCE: Taisho Tripitaka Vol. 1, No. 093
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4069,11 +4065,10 @@
 :CBETA_ID:  T01n0094
 :CUSTOM_ID: ZB6a0094
 :SOURCE: Taisho Tripitaka Vol. 1, No. 094
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4139,11 +4134,10 @@
 :CBETA_ID:  T01n0096
 :CUSTOM_ID: ZB6a0096
 :SOURCE: Taisho Tripitaka Vol. 1, No. 096
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
