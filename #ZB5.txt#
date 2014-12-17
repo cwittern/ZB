@@ -27501,6 +27501,16 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :END:
 
 [[dzimg:1086/1086-044.tif][HFL 1086 044]]
+**** responsible:
+***** 黃恒
+      :PROPERTIES:
+      :HAO:      林丘散人
+      :FUNCTION: 編
+      :END:
+***** 孫景康
+      :PROPERTIES:
+      :FUNCTION: 出版
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27513,9 +27523,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ32p0191
 :XWDZ: XWDZ59p0411
 :HFL: HFL戶上004
+:DATE: 1583 - 1607
 :END:
 
-[[dzimg:1089/1089-004.tif][HFL 1089 004]] 
+[[dzimg:1089/1089-004.tif][HFL 1089 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27528,15 +27539,16 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ32p0191
 :XWDZ: XWDZ59p0561
 :HFL: HFL封上004
+:DATE: 1586
 :END:
 
 [[dzimg:1092/1092-004.tif][HFL 1092 004]]
 **** responsible:
-***** 查志隆
+***** 查志隆
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       鳴治
+      :HAO:      紹庭(亭)
+      :DATES:    進士 1558
       :END:
 **** textual witnesses
 ***** SJB
@@ -27556,9 +27568,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** responsible:
 ***** 李贄
       :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    1527 - 1602
       :END:
 **** textual witnesses
 ***** SJB
@@ -27572,16 +27582,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ17p0040
 :XWDZ: XWDZ59p0935
 :HFL: HFL家上004
+:DATE: 16th cent初期
 :END:
 
 [[dzimg:1100/1100-004.tif][HFL 1100 004]]
-**** responsible:
-***** 梅
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27600,9 +27604,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** responsible:
 ***** 焦贛
       :PROPERTIES:
-      :DYNASTY:  漢
-      :FUNCTION: ?
-      :DATES:    ?
+      :DATES:    end of the 1st cent
       :END:
 **** textual witnesses
 ***** SJB
@@ -27616,9 +27618,10 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ45p0517
 :XWDZ: XWDZ60p0211
 :HFL: HFL千上004
+:DATE: 1607(reprinted)
 :END:
 
-[[dzimg:1105/1105-004.tif][HFL 1105 004]] 
+[[dzimg:1105/1105-004.tif][HFL 1105 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27633,7 +27636,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL高上008
 :END:
 
-[[dzimg:1107/1107-004.tif][HFL 1107 004]] 
+[[dzimg:1107/1107-004.tif][HFL 1107 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27650,16 +27653,15 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1107/1107-016.tif][HFL 1107 016]]
 **** responsible:
-***** 覃峭
+***** 覃峭(att)
       :PROPERTIES:
-      :DYNASTY:  南唐
-      :FUNCTION: ?
-      :DATES:    ?
+      :ZI:       景昇
+      :DATES:    fl. ca. 880 - 950
       :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5h0048.org][ZB5h0048]] 水鏡錄 #(太上感應篇)
+*** [[mandoku:ZB5h0048.org][ZB5h0048]] 水鏡錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0048
 :TTC: 745
@@ -27668,6 +27670,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ42p0816
 :XWDZ: XWDZ60p0309
 :HFL: HFL冠上016
+:DYNASTY:
 :END:
 
 [[dzimg:1107/1107-112.tif][HFL 1107 112]] 
