@@ -1031,7 +1031,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 法立共法炬
+***** 法立
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 法炬
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1086,9 +1090,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 闍那崛多等
+***** 闍那崛多
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1337,11 +1341,10 @@
 :CBETA_ID:  T01n0029
 :CUSTOM_ID: ZB6a0029
 :SOURCE: Taisho Tripitaka Vol. 1, No. 029
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1662,11 +1665,10 @@
 :CBETA_ID:  T01n0037
 :CUSTOM_ID: ZB6a0037
 :SOURCE: Taisho Tripitaka Vol. 1, No. 037
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1947,11 +1949,10 @@
 :CBETA_ID:  T01n0044
 :CUSTOM_ID: ZB6a0044
 :SOURCE: Taisho Tripitaka Vol. 1, No. 044
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2252,11 +2253,10 @@
 :CBETA_ID:  T01n0051
 :CUSTOM_ID: ZB6a0051
 :SOURCE: Taisho Tripitaka Vol. 1, No. 051
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2337,11 +2337,10 @@
 :CBETA_ID:  T01n0053
 :CUSTOM_ID: ZB6a0053
 :SOURCE: Taisho Tripitaka Vol. 1, No. 053
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
