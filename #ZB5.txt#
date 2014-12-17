@@ -27414,9 +27414,15 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ25p0444
 :XWDZ: XWDZ59p0079
 :HFL: HFL經上004
+:DATE: ca. 1600
 :END:
 
-[[dzimg:1081/1081-004.tif][HFL 1081 004]] 
+[[dzimg:1081/1081-004.tif][HFL 1081 004]]
+**** responsible:
+***** 洪應明
+      :PROPERTIES:
+      :ZI:       自誠
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27431,7 +27437,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL槐上004
 :END:
 
-[[dzimg:1082/1082-004.tif][HFL 1082 004]] 
+[[dzimg:1082/1082-004.tif][HFL 1082 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27446,7 +27452,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :HFL: HFL槐下004
 :END:
 
-[[dzimg:1082/1082-004.tif][HFL 1082 004]] 
+[[dzimg:1082/1082-004.tif][HFL 1082 004]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27462,13 +27468,6 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :END:
 
 [[dzimg:1083/1083-068.tif][HFL 1083 068]]
-**** responsible:
-***** 陳夢根
-      :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -27481,20 +27480,14 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ31p0821
 :XWDZ: XWDZ59p0278
 :HFL: HFL卿上004
+:DYNASTY: 明
 :END:
 
 [[dzimg:1085/1085-004.tif][HFL 1085 004]]
-**** responsible:
-***** 
-      :PROPERTIES:
-      :DYNASTY:  元
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5h0039.org][ZB5h0039]] 徐仙真錄 #(明-方文照)
+*** [[mandoku:ZB5h0039.org][ZB5h0039]] 徐仙真錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0039
 :TTC: 1212
@@ -27503,9 +27496,11 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :ZHDZ: ZHDZ31p0754
 :XWDZ: XWDZ59p0305
 :HFL: HFL卿下044
+:DATE: 1424(編)
+:DATE: 1443(出版)
 :END:
 
-[[dzimg:1086/1086-044.tif][HFL 1086 044]] 
+[[dzimg:1086/1086-044.tif][HFL 1086 044]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
