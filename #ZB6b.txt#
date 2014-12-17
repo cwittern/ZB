@@ -1588,11 +1588,10 @@
 :CBETA_ID:  T03n0183
 :CUSTOM_ID: ZB6b0039
 :SOURCE: Taisho Tripitaka Vol. 3, No. 183
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1642,7 +1641,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 竺大力共康孟詳
+***** 竺大力
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 康孟詳
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2068,10 +2071,14 @@
 :CBETA_ID:  T04n0192
 :CUSTOM_ID: ZB6b0049
 :SOURCE: Taisho Tripitaka Vol. 4, No. 192
-:DYNASTY: 馬鳴菩薩造
+:DYNASTY: 北涼
 :END:
 **** extent: 5卷
 **** responsible: 
+***** 馬鳴菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 曇無讖
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2177,9 +2184,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 僧伽跋澄等
+***** 僧伽跋澄
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
