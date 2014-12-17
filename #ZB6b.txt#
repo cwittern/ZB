@@ -2284,7 +2284,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 曇果共康孟詳
+***** 曇果
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 康孟詳
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2530,10 +2534,14 @@
 :CBETA_ID:  T04n0201
 :CUSTOM_ID: ZB6b0058
 :SOURCE: Taisho Tripitaka Vol. 4, No. 201
-:DYNASTY: 馬鳴菩薩造
+:DYNASTY: 後秦
 :END:
 **** extent: 15卷
 **** responsible: 
+***** 馬鳴菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2589,9 +2597,9 @@
 :END:
 **** extent: 13卷
 **** responsible: 
-***** 慧覺等
+***** 慧覺
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2649,7 +2657,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 吉迦夜共曇曜
+***** 吉迦夜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 曇曜
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2740,11 +2752,10 @@
 :CBETA_ID:  T04n0205
 :CUSTOM_ID: ZB6b0062
 :SOURCE: Taisho Tripitaka Vol. 4, No. 205
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2840,7 +2851,6 @@
 :CBETA_ID:  T04n0207
 :CUSTOM_ID: ZB6b0064
 :SOURCE: Taisho Tripitaka Vol. 4, No. 207
-:DYNASTY: 道略集
 :END:
 **** extent: 1卷
 **** responsible: 
