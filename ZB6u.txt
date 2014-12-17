@@ -6,11 +6,14 @@
 :CUSTOM_ID: ZB6u0001
 :SOURCE: Passages concerning Buddhism from the Official Histories Vol. 01, No. 001
 :DYNASTY: 杜斗城輯編
-:RESP: 杜斗城輯編
 :END:
 **** extent: 10卷
-**** dynasty: 杜斗城輯編        
-**** responsible: 杜斗城輯編
+**** responsible: 
+***** 杜斗城
+:PROPERTIES:
+:FUNCTION: 輯編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -28,11 +31,14 @@
 :CUSTOM_ID: ZB6u0002
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 001
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -45,11 +51,14 @@
 :CUSTOM_ID: ZB6u0003
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 002
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -67,11 +76,14 @@
 :CUSTOM_ID: ZB6u0004
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 003
 :DYNASTY: 達摩禪師作　方廣錩整理
-:RESP: 達摩禪師作　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 達摩禪師作　方廣錩整理        
-**** responsible: 達摩禪師作　方廣錩整理
+**** responsible: 
+***** 達摩禪師作　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -84,11 +96,14 @@
 :CUSTOM_ID: ZB6u0005
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 004
 :DYNASTY: 馬鳴菩薩造　方廣錩整理
-:RESP: 馬鳴菩薩造　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 馬鳴菩薩造　方廣錩整理        
-**** responsible: 馬鳴菩薩造　方廣錩整理
+**** responsible: 
+***** 馬鳴菩薩造　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -106,11 +121,14 @@
 :CUSTOM_ID: ZB6u0006
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 005
 :DYNASTY: 沙門文軌撰　李際寧整理
-:RESP: 沙門文軌撰　李際寧整理
 :END:
 **** extent: 1卷
-**** dynasty: 沙門文軌撰　李際寧整理        
-**** responsible: 沙門文軌撰　李際寧整理
+**** responsible: 
+***** 沙門文軌撰　李際寧整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -128,11 +146,14 @@
 :CUSTOM_ID: ZB6u0007
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 006
 :DYNASTY: 沙門道宣述　蘇軍整理
-:RESP: 沙門道宣述　蘇軍整理
 :END:
 **** extent: 1卷
-**** dynasty: 沙門道宣述　蘇軍整理        
-**** responsible: 沙門道宣述　蘇軍整理
+**** responsible: 
+***** 沙門道宣述　蘇軍整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -150,11 +171,14 @@
 :CUSTOM_ID: ZB6u0008
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 007
 :DYNASTY: 尊者安惠造　蘇軍整理
-:RESP: 尊者安惠造　蘇軍整理
 :END:
 **** extent: 1卷
-**** dynasty: 尊者安惠造　蘇軍整理        
-**** responsible: 尊者安惠造　蘇軍整理
+**** responsible: 
+***** 尊者安惠造　蘇軍整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -172,11 +196,14 @@
 :CUSTOM_ID: ZB6u0009
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 008
 :DYNASTY: 惠辯禪師註　方廣錩整理
-:RESP: 惠辯禪師註　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 惠辯禪師註　方廣錩整理        
-**** responsible: 惠辯禪師註　方廣錩整理
+**** responsible: 
+***** 惠辯禪師註　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -194,11 +221,14 @@
 :CUSTOM_ID: ZB6u0010
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 009
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -211,11 +241,14 @@
 :CUSTOM_ID: ZB6u0011
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 010
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -228,11 +261,14 @@
 :CUSTOM_ID: ZB6u0012
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 011
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -245,11 +281,14 @@
 :CUSTOM_ID: ZB6u0013
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 012
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -262,11 +301,14 @@
 :CUSTOM_ID: ZB6u0014
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 013
 :DYNASTY: 徐紹強整理
-:RESP: 徐紹強整理
 :END:
 **** extent: 1卷
-**** dynasty: 徐紹強整理        
-**** responsible: 徐紹強整理
+**** responsible: 
+***** 徐紹強整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -279,11 +321,14 @@
 :CUSTOM_ID: ZB6u0015
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014a
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -296,11 +341,14 @@
 :CUSTOM_ID: ZB6u0016
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014b
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -318,11 +366,14 @@
 :CUSTOM_ID: ZB6u0017
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014c
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -335,11 +386,14 @@
 :CUSTOM_ID: ZB6u0018
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015a
 :DYNASTY: 大德安法師譯　李際寧整理
-:RESP: 大德安法師譯　李際寧整理
 :END:
 **** extent: 1卷
-**** dynasty: 大德安法師譯　李際寧整理        
-**** responsible: 大德安法師譯　李際寧整理
+**** responsible: 
+***** 大德安法師譯　李際寧整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -352,11 +406,14 @@
 :CUSTOM_ID: ZB6u0019
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015b
 :DYNASTY: 李際寧整理
-:RESP: 李際寧整理
 :END:
 **** extent: 1卷
-**** dynasty: 李際寧整理        
-**** responsible: 李際寧整理
+**** responsible: 
+***** 李際寧整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -369,11 +426,14 @@
 :CUSTOM_ID: ZB6u0020
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015c
 :DYNASTY: 李際寧整理
-:RESP: 李際寧整理
 :END:
 **** extent: 1卷
-**** dynasty: 李際寧整理        
-**** responsible: 李際寧整理
+**** responsible: 
+***** 李際寧整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -386,11 +446,14 @@
 :CUSTOM_ID: ZB6u0021
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015d
 :DYNASTY: 李際寧整理
-:RESP: 李際寧整理
 :END:
 **** extent: 1卷
-**** dynasty: 李際寧整理        
-**** responsible: 李際寧整理
+**** responsible: 
+***** 李際寧整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -403,11 +466,14 @@
 :CUSTOM_ID: ZB6u0022
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 016
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -425,11 +491,14 @@
 :CUSTOM_ID: ZB6u0023
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 017
 :DYNASTY: 華方田整理
-:RESP: 華方田整理
 :END:
 **** extent: 1卷
-**** dynasty: 華方田整理        
-**** responsible: 華方田整理
+**** responsible: 
+***** 華方田整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -442,11 +511,14 @@
 :CUSTOM_ID: ZB6u0024
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018a
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -459,11 +531,14 @@
 :CUSTOM_ID: ZB6u0025
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018b
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -476,11 +551,14 @@
 :CUSTOM_ID: ZB6u0026
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 019
 :DYNASTY: 沙門道液集　黎明整理
-:RESP: 沙門道液集　黎明整理
 :END:
 **** extent: 1卷
-**** dynasty: 沙門道液集　黎明整理        
-**** responsible: 沙門道液集　黎明整理
+**** responsible: 
+***** 沙門道液集　黎明整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -498,11 +576,14 @@
 :CUSTOM_ID: ZB6u0027
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 020
 :DYNASTY: 李際寧．張曉娟整理
-:RESP: 李際寧．張曉娟整理
 :END:
 **** extent: 1卷
-**** dynasty: 李際寧．張曉娟整理        
-**** responsible: 李際寧．張曉娟整理
+**** responsible: 
+***** 李際寧．張曉娟整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -515,11 +596,14 @@
 :CUSTOM_ID: ZB6u0028
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 021
 :DYNASTY: 古印度
-:RESP: 烏瑪斯伐蒂著　方廣錩譯註
 :END:
 **** extent: 1卷
-**** dynasty: 古印度        
-**** responsible: 烏瑪斯伐蒂著　方廣錩譯註
+**** responsible: 
+***** 烏瑪斯伐蒂著　方廣錩譯
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -537,11 +621,14 @@
 :CUSTOM_ID: ZB6u0029
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 022
 :DYNASTY: 韓清淨著　程恭讓整理
-:RESP: 韓清淨著　程恭讓整理
 :END:
 **** extent: 1卷
-**** dynasty: 韓清淨著　程恭讓整理        
-**** responsible: 韓清淨著　程恭讓整理
+**** responsible: 
+***** 韓清淨著　程恭讓整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -554,11 +641,14 @@
 :CUSTOM_ID: ZB6u0030
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 023
 :DYNASTY: 上山大峻．袁德領整理
-:RESP: 上山大峻．袁德領整理
 :END:
 **** extent: 1卷
-**** dynasty: 上山大峻．袁德領整理        
-**** responsible: 上山大峻．袁德領整理
+**** responsible: 
+***** 上山大峻．袁德領整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -571,11 +661,14 @@
 :CUSTOM_ID: ZB6u0031
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 024
 :DYNASTY: 方廣錩整理
-:RESP: 方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩整理        
-**** responsible: 方廣錩整理
+**** responsible: 
+***** 方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -588,11 +681,14 @@
 :CUSTOM_ID: ZB6u0032
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 025
 :DYNASTY: 沙門道液述　黎明整理
-:RESP: 沙門道液述　黎明整理
 :END:
 **** extent: 1卷
-**** dynasty: 沙門道液述　黎明整理        
-**** responsible: 沙門道液述　黎明整理
+**** responsible: 
+***** 沙門道液述　黎明整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -610,11 +706,14 @@
 :CUSTOM_ID: ZB6u0033
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 026
 :DYNASTY: 龍猛菩薩作　華方田整理
-:RESP: 龍猛菩薩作　華方田整理
 :END:
 **** extent: 1卷
-**** dynasty: 龍猛菩薩作　華方田整理        
-**** responsible: 龍猛菩薩作　華方田整理
+**** responsible: 
+***** 龍猛菩薩作　華方田整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -627,11 +726,14 @@
 :CUSTOM_ID: ZB6u0034
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 027
 :DYNASTY: 龍猛菩薩造　華方田整理
-:RESP: 龍猛菩薩造　華方田整理
 :END:
 **** extent: 1卷
-**** dynasty: 龍猛菩薩造　華方田整理        
-**** responsible: 龍猛菩薩造　華方田整理
+**** responsible: 
+***** 龍猛菩薩造　華方田整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -644,11 +746,14 @@
 :CUSTOM_ID: ZB6u0035
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 028
 :DYNASTY: 華方田整理
-:RESP: 華方田整理
 :END:
 **** extent: 1卷
-**** dynasty: 華方田整理        
-**** responsible: 華方田整理
+**** responsible: 
+***** 華方田整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -661,11 +766,14 @@
 :CUSTOM_ID: ZB6u0036
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 029
 :DYNASTY: 華方田整理
-:RESP: 華方田整理
 :END:
 **** extent: 1卷
-**** dynasty: 華方田整理        
-**** responsible: 華方田整理
+**** responsible: 
+***** 華方田整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -678,11 +786,14 @@
 :CUSTOM_ID: ZB6u0037
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 030
 :DYNASTY: 徐紹強整理
-:RESP: 徐紹強整理
 :END:
 **** extent: 1卷
-**** dynasty: 徐紹強整理        
-**** responsible: 徐紹強整理
+**** responsible: 
+***** 徐紹強整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -695,11 +806,14 @@
 :CUSTOM_ID: ZB6u0038
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031a
 :DYNASTY: 黃霞整理
-:RESP: 黃霞整理
 :END:
 **** extent: 1卷
-**** dynasty: 黃霞整理        
-**** responsible: 黃霞整理
+**** responsible: 
+***** 黃霞整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -717,11 +831,14 @@
 :CUSTOM_ID: ZB6u0039
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031b
 :DYNASTY: 黃霞整理
-:RESP: 黃霞整理
 :END:
 **** extent: 1卷
-**** dynasty: 黃霞整理        
-**** responsible: 黃霞整理
+**** responsible: 
+***** 黃霞整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -739,11 +856,14 @@
 :CUSTOM_ID: ZB6u0040
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031c
 :DYNASTY: 黃霞整理
-:RESP: 黃霞整理
 :END:
 **** extent: 1卷
-**** dynasty: 黃霞整理        
-**** responsible: 黃霞整理
+**** responsible: 
+***** 黃霞整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -761,11 +881,14 @@
 :CUSTOM_ID: ZB6u0041
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d
 :DYNASTY: 黃霞整理
-:RESP: 黃霞整理
 :END:
 **** extent: 1卷
-**** dynasty: 黃霞整理        
-**** responsible: 黃霞整理
+**** responsible: 
+***** 黃霞整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -778,11 +901,14 @@
 :CUSTOM_ID: ZB6u0042
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e
 :DYNASTY: 黃霞整理
-:RESP: 黃霞整理
 :END:
 **** extent: 1卷
-**** dynasty: 黃霞整理        
-**** responsible: 黃霞整理
+**** responsible: 
+***** 黃霞整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -795,11 +921,14 @@
 :CUSTOM_ID: ZB6u0043
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 032
 :DYNASTY: 李際寧
-:RESP: 李際寧
 :END:
 **** extent: 1卷
-**** dynasty: 李際寧        
-**** responsible: 李際寧
+**** responsible: 
+***** 李際
+:PROPERTIES:
+:FUNCTION: 寧
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -817,11 +946,14 @@
 :CUSTOM_ID: ZB6u0044
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 033
 :DYNASTY: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯
-:RESP: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯
 :END:
 **** extent: 10卷
-**** dynasty: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯        
-**** responsible: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯
+**** responsible: 
+***** 寂天菩薩造頌　傑操大師註解　隆蓮法師
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -839,11 +971,14 @@
 :CUSTOM_ID: ZB6u0045
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -856,11 +991,14 @@
 :CUSTOM_ID: ZB6u0046
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -873,11 +1011,14 @@
 :CUSTOM_ID: ZB6u0047
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 036
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -890,11 +1031,14 @@
 :CUSTOM_ID: ZB6u0048
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 037
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -907,11 +1051,14 @@
 :CUSTOM_ID: ZB6u0049
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 038
 :DYNASTY: 北宋
-:RESP: 太宗．真宗．仁宗撰　陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 北宋        
-**** responsible: 太宗．真宗．仁宗撰　陳明光整理
+**** responsible: 
+***** 太宗．真宗．仁宗撰　陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -924,11 +1071,14 @@
 :CUSTOM_ID: ZB6u0050
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 039
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -941,11 +1091,14 @@
 :CUSTOM_ID: ZB6u0051
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 040
 :DYNASTY: 陳明光整理
-:RESP: 陳明光整理
 :END:
 **** extent: 1卷
-**** dynasty: 陳明光整理        
-**** responsible: 陳明光整理
+**** responsible: 
+***** 陳明光整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -963,11 +1116,14 @@
 :CUSTOM_ID: ZB6u0052
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 041
 :DYNASTY: 業露華整理
-:RESP: 業露華整理
 :END:
 **** extent: 1卷
-**** dynasty: 業露華整理        
-**** responsible: 業露華整理
+**** responsible: 
+***** 業露華整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -985,11 +1141,14 @@
 :CUSTOM_ID: ZB6u0053
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 042
 :DYNASTY: 信行撰　方廣錩整理
-:RESP: 信行撰　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 信行撰　方廣錩整理        
-**** responsible: 信行撰　方廣錩整理
+**** responsible: 
+***** 信行撰　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1002,11 +1161,14 @@
 :CUSTOM_ID: ZB6u0054
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043a
 :DYNASTY: 侯旭東整理
-:RESP: 侯旭東整理
 :END:
 **** extent: 1卷
-**** dynasty: 侯旭東整理        
-**** responsible: 侯旭東整理
+**** responsible: 
+***** 侯旭東整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1019,11 +1181,14 @@
 :CUSTOM_ID: ZB6u0055
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043b
 :DYNASTY: 侯旭東整理
-:RESP: 侯旭東整理
 :END:
 **** extent: 1卷
-**** dynasty: 侯旭東整理        
-**** responsible: 侯旭東整理
+**** responsible: 
+***** 侯旭東整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1036,11 +1201,14 @@
 :CUSTOM_ID: ZB6u0056
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 044
 :DYNASTY: 陳金華
-:RESP: 陳金華
 :END:
 **** extent: 1卷
-**** dynasty: 陳金華        
-**** responsible: 陳金華
+**** responsible: 
+***** 陳金
+:PROPERTIES:
+:FUNCTION: 華
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1058,11 +1226,14 @@
 :CUSTOM_ID: ZB6u0057
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 045
 :DYNASTY: 鄧殿臣譯
-:RESP: 鄧殿臣譯
 :END:
 **** extent: 1卷
-**** dynasty: 鄧殿臣譯        
-**** responsible: 鄧殿臣譯
+**** responsible: 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1075,11 +1246,14 @@
 :CUSTOM_ID: ZB6u0058
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 046
 :DYNASTY: 鄧殿臣譯
-:RESP: 鄧殿臣譯
 :END:
 **** extent: 1卷
-**** dynasty: 鄧殿臣譯        
-**** responsible: 鄧殿臣譯
+**** responsible: 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1097,11 +1271,14 @@
 :CUSTOM_ID: ZB6u0059
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 047
 :DYNASTY: 鄧殿臣譯
-:RESP: 鄧殿臣譯
 :END:
 **** extent: 1卷
-**** dynasty: 鄧殿臣譯        
-**** responsible: 鄧殿臣譯
+**** responsible: 
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1114,11 +1291,14 @@
 :CUSTOM_ID: ZB6u0060
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 048
 :DYNASTY: 鄧殿臣．趙桐譯
-:RESP: 鄧殿臣．趙桐譯
 :END:
 **** extent: 1卷
-**** dynasty: 鄧殿臣．趙桐譯        
-**** responsible: 鄧殿臣．趙桐譯
+**** responsible: 
+***** 鄧殿臣．趙桐
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1136,11 +1316,14 @@
 :CUSTOM_ID: ZB6u0061
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 049
 :DYNASTY: 徐紹強整理
-:RESP: 徐紹強整理
 :END:
 **** extent: 1卷
-**** dynasty: 徐紹強整理        
-**** responsible: 徐紹強整理
+**** responsible: 
+***** 徐紹強整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1158,11 +1341,14 @@
 :CUSTOM_ID: ZB6u0062
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 050
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1180,11 +1366,14 @@
 :CUSTOM_ID: ZB6u0063
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 051
 :DYNASTY: 宋
-:RESP: 釋祖照集　趙文煥．侯沖整理
 :END:
 **** extent: 8卷
-**** dynasty: 宋        
-**** responsible: 釋祖照集　趙文煥．侯沖整理
+**** responsible: 
+***** 釋祖照集　趙文煥．侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1202,11 +1391,14 @@
 :CUSTOM_ID: ZB6u0064
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 052
 :DYNASTY: 宋
-:RESP: 釋元照集　趙文煥．侯沖整理
 :END:
 **** extent: 4卷
-**** dynasty: 宋        
-**** responsible: 釋元照集　趙文煥．侯沖整理
+**** responsible: 
+***** 釋元照集　趙文煥．侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1224,11 +1416,14 @@
 :CUSTOM_ID: ZB6u0065
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 053
 :DYNASTY: 宋
-:RESP: 釋宗鏡述　侯沖整理
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 釋宗鏡述　侯沖整理
+**** responsible: 
+***** 釋宗鏡述　侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1241,11 +1436,14 @@
 :CUSTOM_ID: ZB6u0066
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 054
 :DYNASTY: 侯沖整理
-:RESP: 侯沖整理
 :END:
 **** extent: 1卷
-**** dynasty: 侯沖整理        
-**** responsible: 侯沖整理
+**** responsible: 
+***** 侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1263,11 +1461,14 @@
 :CUSTOM_ID: ZB6u0067
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 055
 :DYNASTY: 侯沖整理
-:RESP: 侯沖整理
 :END:
 **** extent: 1卷
-**** dynasty: 侯沖整理        
-**** responsible: 侯沖整理
+**** responsible: 
+***** 侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1280,11 +1481,14 @@
 :CUSTOM_ID: ZB6u0068
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 056
 :DYNASTY: 弘景撰　方廣錩整理
-:RESP: 弘景撰　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 弘景撰　方廣錩整理        
-**** responsible: 弘景撰　方廣錩整理
+**** responsible: 
+***** 弘景撰　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1297,11 +1501,14 @@
 :CUSTOM_ID: ZB6u0069
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 057
 :DYNASTY: 侯沖
-:RESP: 侯沖
 :END:
 **** extent: 1卷
-**** dynasty: 侯沖        
-**** responsible: 侯沖
+**** responsible: 
+***** 侯
+:PROPERTIES:
+:FUNCTION: 沖
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1319,11 +1526,14 @@
 :CUSTOM_ID: ZB6u0070
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 058
 :DYNASTY: 唐
-:RESP: 宗密注　方廣錩整理
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密注　方廣錩整理
+**** responsible: 
+***** 宗密注　方廣錩整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1336,11 +1546,14 @@
 :CUSTOM_ID: ZB6u0071
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059a
 :DYNASTY: 姚和尚撰　達照整理
-:RESP: 姚和尚撰　達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 姚和尚撰　達照整理        
-**** responsible: 姚和尚撰　達照整理
+**** responsible: 
+***** 姚和尚撰　達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1358,11 +1571,14 @@
 :CUSTOM_ID: ZB6u0072
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059b
 :DYNASTY: 姚和尚撰　達照整理
-:RESP: 姚和尚撰　達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 姚和尚撰　達照整理        
-**** responsible: 姚和尚撰　達照整理
+**** responsible: 
+***** 姚和尚撰　達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1375,11 +1591,14 @@
 :CUSTOM_ID: ZB6u0073
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 060
 :DYNASTY: 遼
-:RESP: 通理大師集　達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 遼        
-**** responsible: 通理大師集　達照整理
+**** responsible: 
+***** 通理大師集　達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1392,11 +1611,14 @@
 :CUSTOM_ID: ZB6u0074
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 061
 :DYNASTY: 沙門玄鑒集　侯沖整理
-:RESP: 沙門玄鑒集　侯沖整理
 :END:
 **** extent: 1卷
-**** dynasty: 沙門玄鑒集　侯沖整理        
-**** responsible: 沙門玄鑒集　侯沖整理
+**** responsible: 
+***** 沙門玄鑒集　侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1414,11 +1636,14 @@
 :CUSTOM_ID: ZB6u0075
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 062
 :DYNASTY: 沙門若愚述　侯沖整理
-:RESP: 沙門若愚述　侯沖整理
 :END:
 **** extent: 6卷
-**** dynasty: 沙門若愚述　侯沖整理        
-**** responsible: 沙門若愚述　侯沖整理
+**** responsible: 
+***** 沙門若愚述　侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1436,11 +1661,14 @@
 :CUSTOM_ID: ZB6u0076
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 063
 :DYNASTY: 大內文雄．齊藤隆信整理
-:RESP: 大內文雄．齊藤隆信整理
 :END:
 **** extent: 3卷
-**** dynasty: 大內文雄．齊藤隆信整理        
-**** responsible: 大內文雄．齊藤隆信整理
+**** responsible: 
+***** 大內文雄．齊藤隆信整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1458,11 +1686,14 @@
 :CUSTOM_ID: ZB6u0077
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064a
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1475,11 +1706,14 @@
 :CUSTOM_ID: ZB6u0078
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064b
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1492,11 +1726,14 @@
 :CUSTOM_ID: ZB6u0079
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064c
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1509,11 +1746,14 @@
 :CUSTOM_ID: ZB6u0080
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064d
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1526,11 +1766,14 @@
 :CUSTOM_ID: ZB6u0081
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064e
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1543,11 +1786,14 @@
 :CUSTOM_ID: ZB6u0082
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064f
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1560,11 +1806,14 @@
 :CUSTOM_ID: ZB6u0083
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064g
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1577,11 +1826,14 @@
 :CUSTOM_ID: ZB6u0084
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064h
 :DYNASTY: 張總整理
-:RESP: 張總整理
 :END:
 **** extent: 1卷
-**** dynasty: 張總整理        
-**** responsible: 張總整理
+**** responsible: 
+***** 張總整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1599,11 +1851,14 @@
 :CUSTOM_ID: ZB6u0085
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 065
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1621,11 +1876,14 @@
 :CUSTOM_ID: ZB6u0086
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 066
 :DYNASTY: 末木文美士
-:RESP: 末木文美士
 :END:
 **** extent: 1卷
-**** dynasty: 末木文美士        
-**** responsible: 末木文美士
+**** responsible: 
+***** 末木文美
+:PROPERTIES:
+:FUNCTION: 士
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1638,11 +1896,14 @@
 :CUSTOM_ID: ZB6u0087
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 067
 :DYNASTY: 悟緣　整理
-:RESP: 悟緣　整理
 :END:
 **** extent: 1卷
-**** dynasty: 悟緣　整理        
-**** responsible: 悟緣　整理
+**** responsible: 
+***** 悟緣　整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1655,11 +1916,14 @@
 :CUSTOM_ID: ZB6u0088
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 068
 :DYNASTY: 南宋
-:RESP: 思覺集　趙文煥．侯沖整理
 :END:
 **** extent: 8卷
-**** dynasty: 南宋        
-**** responsible: 思覺集　趙文煥．侯沖整理
+**** responsible: 
+***** 思覺集　趙文煥．侯沖整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1677,11 +1941,14 @@
 :CUSTOM_ID: ZB6u0089
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 069
 :DYNASTY: 通源整理
-:RESP: 通源整理
 :END:
 **** extent: 1卷
-**** dynasty: 通源整理        
-**** responsible: 通源整理
+**** responsible: 
+***** 通源整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1694,11 +1961,14 @@
 :CUSTOM_ID: ZB6u0090
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 070
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1716,11 +1986,14 @@
 :CUSTOM_ID: ZB6u0091
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 071
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1733,11 +2006,14 @@
 :CUSTOM_ID: ZB6u0092
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 072
 :DYNASTY: 信行撰　西本照真整理
-:RESP: 信行撰　西本照真整理
 :END:
 **** extent: 1卷
-**** dynasty: 信行撰　西本照真整理        
-**** responsible: 信行撰　西本照真整理
+**** responsible: 
+***** 信行撰　西本照真整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1750,11 +2026,14 @@
 :CUSTOM_ID: ZB6u0093
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073a
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1772,11 +2051,14 @@
 :CUSTOM_ID: ZB6u0094
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073b
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1789,11 +2071,14 @@
 :CUSTOM_ID: ZB6u0095
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073c
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1806,11 +2091,14 @@
 :CUSTOM_ID: ZB6u0096
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073d
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1823,11 +2111,14 @@
 :CUSTOM_ID: ZB6u0097
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073e
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1840,11 +2131,14 @@
 :CUSTOM_ID: ZB6u0098
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073f
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1857,11 +2151,14 @@
 :CUSTOM_ID: ZB6u0099
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073g
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1874,11 +2171,14 @@
 :CUSTOM_ID: ZB6u0100
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073h
 :DYNASTY: 達照整理
-:RESP: 達照整理
 :END:
 **** extent: 1卷
-**** dynasty: 達照整理        
-**** responsible: 達照整理
+**** responsible: 
+***** 達照整
+:PROPERTIES:
+:FUNCTION: 理
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1896,11 +2196,14 @@
 :CUSTOM_ID: ZB6u0101
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 074
 :DYNASTY: 任遠譯
-:RESP: 任遠譯
 :END:
 **** extent: 1卷
-**** dynasty: 任遠譯        
-**** responsible: 任遠譯
+**** responsible: 
+***** 任遠
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1918,11 +2221,14 @@
 :CUSTOM_ID: ZB6u0102
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 075
 :DYNASTY: 克什曼德拉原著　任遠譯
-:RESP: 克什曼德拉原著　任遠譯
 :END:
 **** extent: 1卷
-**** dynasty: 克什曼德拉原著　任遠譯        
-**** responsible: 克什曼德拉原著　任遠譯
+**** responsible: 
+***** 克什曼德拉原著　任遠
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1940,11 +2246,14 @@
 :CUSTOM_ID: ZB6u0103
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 076
 :DYNASTY: 西本照真
-:RESP: 西本照真
 :END:
 **** extent: 1卷
-**** dynasty: 西本照真        
-**** responsible: 西本照真
+**** responsible: 
+***** 西本照
+:PROPERTIES:
+:FUNCTION: 真
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1962,11 +2271,14 @@
 :CUSTOM_ID: ZB6u0104
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 077
 :DYNASTY: 方廣錩
-:RESP: 方廣錩
 :END:
 **** extent: 1卷
-**** dynasty: 方廣錩        
-**** responsible: 方廣錩
+**** responsible: 
+***** 方廣
+:PROPERTIES:
+:FUNCTION: 錩
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1984,11 +2296,14 @@
 :CUSTOM_ID: ZB6u0105
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 001
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2011,11 +2326,14 @@
 :CUSTOM_ID: ZB6u0106
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 002
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2038,11 +2356,14 @@
 :CUSTOM_ID: ZB6u0107
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 003
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2065,11 +2386,14 @@
 :CUSTOM_ID: ZB6u0108
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 004
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2092,11 +2416,14 @@
 :CUSTOM_ID: ZB6u0109
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 005
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2119,11 +2446,14 @@
 :CUSTOM_ID: ZB6u0110
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 006
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2146,11 +2476,14 @@
 :CUSTOM_ID: ZB6u0111
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 007
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2173,11 +2506,14 @@
 :CUSTOM_ID: ZB6u0112
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 008
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2200,11 +2536,14 @@
 :CUSTOM_ID: ZB6u0113
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 009
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2227,11 +2566,14 @@
 :CUSTOM_ID: ZB6u0114
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 010
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2254,11 +2596,14 @@
 :CUSTOM_ID: ZB6u0115
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 011
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2281,11 +2626,14 @@
 :CUSTOM_ID: ZB6u0116
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 012
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2308,11 +2656,14 @@
 :CUSTOM_ID: ZB6u0117
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 013
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2335,11 +2686,14 @@
 :CUSTOM_ID: ZB6u0118
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 014
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2362,11 +2716,14 @@
 :CUSTOM_ID: ZB6u0119
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 015
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2389,11 +2746,14 @@
 :CUSTOM_ID: ZB6u0120
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 016
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2416,11 +2776,14 @@
 :CUSTOM_ID: ZB6u0121
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 017
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2443,11 +2806,14 @@
 :CUSTOM_ID: ZB6u0122
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 018
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2470,11 +2836,14 @@
 :CUSTOM_ID: ZB6u0123
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 019
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2497,11 +2866,14 @@
 :CUSTOM_ID: ZB6u0124
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 020
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2524,11 +2896,14 @@
 :CUSTOM_ID: ZB6u0125
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 021
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2551,11 +2926,14 @@
 :CUSTOM_ID: ZB6u0126
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 022
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2578,11 +2956,14 @@
 :CUSTOM_ID: ZB6u0127
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 023
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2605,11 +2986,14 @@
 :CUSTOM_ID: ZB6u0128
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 024
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2632,11 +3016,14 @@
 :CUSTOM_ID: ZB6u0129
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 025
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2659,11 +3046,14 @@
 :CUSTOM_ID: ZB6u0130
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 026
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2686,11 +3076,14 @@
 :CUSTOM_ID: ZB6u0131
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 027
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2713,11 +3106,14 @@
 :CUSTOM_ID: ZB6u0132
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 028
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2740,11 +3136,14 @@
 :CUSTOM_ID: ZB6u0133
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 029
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2767,11 +3166,14 @@
 :CUSTOM_ID: ZB6u0134
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 030
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2794,11 +3196,14 @@
 :CUSTOM_ID: ZB6u0135
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 031
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2821,11 +3226,14 @@
 :CUSTOM_ID: ZB6u0136
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 032
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2848,11 +3256,14 @@
 :CUSTOM_ID: ZB6u0137
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 033
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2875,11 +3286,14 @@
 :CUSTOM_ID: ZB6u0138
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 034
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2902,11 +3316,14 @@
 :CUSTOM_ID: ZB6u0139
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 035
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2929,11 +3346,14 @@
 :CUSTOM_ID: ZB6u0140
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 036
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2956,11 +3376,14 @@
 :CUSTOM_ID: ZB6u0141
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 040
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2983,11 +3406,14 @@
 :CUSTOM_ID: ZB6u0142
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 041
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3010,11 +3436,14 @@
 :CUSTOM_ID: ZB6u0143
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 043
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3037,11 +3466,14 @@
 :CUSTOM_ID: ZB6u0144
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 044
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3064,11 +3496,14 @@
 :CUSTOM_ID: ZB6u0145
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 045
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3091,11 +3526,14 @@
 :CUSTOM_ID: ZB6u0146
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 046
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3118,11 +3556,14 @@
 :CUSTOM_ID: ZB6u0147
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 047
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3145,11 +3586,14 @@
 :CUSTOM_ID: ZB6u0148
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 048
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3172,11 +3616,14 @@
 :CUSTOM_ID: ZB6u0149
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 052
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3199,11 +3646,14 @@
 :CUSTOM_ID: ZB6u0150
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 053
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3226,11 +3676,14 @@
 :CUSTOM_ID: ZB6u0151
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 037
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3253,11 +3706,14 @@
 :CUSTOM_ID: ZB6u0152
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 038
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3280,11 +3736,14 @@
 :CUSTOM_ID: ZB6u0153
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 039
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3307,11 +3766,14 @@
 :CUSTOM_ID: ZB6u0154
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 042
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3334,11 +3796,14 @@
 :CUSTOM_ID: ZB6u0155
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 049
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3361,11 +3826,14 @@
 :CUSTOM_ID: ZB6u0156
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 050
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3388,11 +3856,14 @@
 :CUSTOM_ID: ZB6u0157
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 051
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3415,11 +3886,14 @@
 :CUSTOM_ID: ZB6u0158
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 054
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3442,11 +3916,14 @@
 :CUSTOM_ID: ZB6u0159
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 064
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3469,11 +3946,14 @@
 :CUSTOM_ID: ZB6u0160
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 070
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3496,11 +3976,14 @@
 :CUSTOM_ID: ZB6u0161
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 074
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3523,11 +4006,14 @@
 :CUSTOM_ID: ZB6u0162
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 081
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3550,11 +4036,14 @@
 :CUSTOM_ID: ZB6u0163
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 082
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3567,11 +4056,14 @@
 :CUSTOM_ID: ZB6u0164
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 083
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3594,11 +4086,14 @@
 :CUSTOM_ID: ZB6u0165
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 097
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3621,11 +4116,14 @@
 :CUSTOM_ID: ZB6u0166
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 099
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3648,11 +4146,14 @@
 :CUSTOM_ID: ZB6u0167
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 055
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3675,11 +4176,14 @@
 :CUSTOM_ID: ZB6u0168
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 056
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3702,11 +4206,14 @@
 :CUSTOM_ID: ZB6u0169
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 057
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3729,11 +4236,14 @@
 :CUSTOM_ID: ZB6u0170
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 058
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3756,11 +4266,14 @@
 :CUSTOM_ID: ZB6u0171
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 059
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3783,11 +4296,14 @@
 :CUSTOM_ID: ZB6u0172
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 060
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3810,11 +4326,14 @@
 :CUSTOM_ID: ZB6u0173
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 061
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3837,11 +4356,14 @@
 :CUSTOM_ID: ZB6u0174
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 062
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3864,11 +4386,14 @@
 :CUSTOM_ID: ZB6u0175
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 063
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3891,11 +4416,14 @@
 :CUSTOM_ID: ZB6u0176
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 065
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3918,11 +4446,14 @@
 :CUSTOM_ID: ZB6u0177
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 066
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3945,11 +4476,14 @@
 :CUSTOM_ID: ZB6u0178
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 067
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3972,11 +4506,14 @@
 :CUSTOM_ID: ZB6u0179
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 068
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3999,11 +4536,14 @@
 :CUSTOM_ID: ZB6u0180
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 069
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4026,11 +4566,14 @@
 :CUSTOM_ID: ZB6u0181
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 071
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4053,11 +4596,14 @@
 :CUSTOM_ID: ZB6u0182
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 072
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4080,11 +4626,14 @@
 :CUSTOM_ID: ZB6u0183
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 073
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4107,11 +4656,14 @@
 :CUSTOM_ID: ZB6u0184
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 075
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4134,11 +4686,14 @@
 :CUSTOM_ID: ZB6u0185
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 076
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4161,11 +4716,14 @@
 :CUSTOM_ID: ZB6u0186
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 077
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4188,11 +4746,14 @@
 :CUSTOM_ID: ZB6u0187
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 078
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4215,11 +4776,14 @@
 :CUSTOM_ID: ZB6u0188
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 079
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4242,11 +4806,14 @@
 :CUSTOM_ID: ZB6u0189
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 080
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4269,11 +4836,14 @@
 :CUSTOM_ID: ZB6u0190
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 084
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4296,11 +4866,14 @@
 :CUSTOM_ID: ZB6u0191
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 085
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4323,11 +4896,14 @@
 :CUSTOM_ID: ZB6u0192
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 086
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4350,11 +4926,14 @@
 :CUSTOM_ID: ZB6u0193
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 087
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4377,11 +4956,14 @@
 :CUSTOM_ID: ZB6u0194
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 088
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4404,11 +4986,14 @@
 :CUSTOM_ID: ZB6u0195
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 089
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4431,11 +5016,14 @@
 :CUSTOM_ID: ZB6u0196
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 090
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4458,11 +5046,14 @@
 :CUSTOM_ID: ZB6u0197
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 091
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4485,11 +5076,14 @@
 :CUSTOM_ID: ZB6u0198
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 092
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4512,11 +5106,14 @@
 :CUSTOM_ID: ZB6u0199
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 093
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4539,11 +5136,14 @@
 :CUSTOM_ID: ZB6u0200
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 094
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4566,11 +5166,14 @@
 :CUSTOM_ID: ZB6u0201
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 095
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4593,11 +5196,14 @@
 :CUSTOM_ID: ZB6u0202
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 096
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4620,11 +5226,14 @@
 :CUSTOM_ID: ZB6u0203
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 098
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英主
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4647,11 +5256,14 @@
 :CUSTOM_ID: ZB6u0204
 :SOURCE: Selections of Buddhist Stone Rubbings from the Northern Dynasties Vol. 1, No. 100
 :DYNASTY: 民國
-:RESP: 顏娟英主編
 :END:
 **** extent: 1卷
-**** dynasty: 顏娟英主編        
-**** responsible: 顏娟英主編
+**** responsible: 
+***** 顏娟英
+:PROPERTIES:
+:FUNCTION: 主編
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 

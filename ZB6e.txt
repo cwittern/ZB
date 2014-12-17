@@ -6,11 +6,14 @@
 :CUSTOM_ID: ZB6e0001
 :SOURCE: Taisho Tripitaka Vol. 09, No. 0278
 :DYNASTY: 東晉
-:RESP: 佛馱跋陀羅譯
 :END:
 **** extent: 60卷
-**** dynasty: 東晉        
-**** responsible: 佛馱跋陀羅譯
+**** responsible: 
+***** 佛馱跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -78,11 +81,14 @@
 :CUSTOM_ID: ZB6e0002
 :SOURCE: Taisho Tripitaka Vol. 35, No. 1731
 :DYNASTY: 隋
-:RESP: 吉藏撰
 :END:
 **** extent: 1卷
-**** dynasty: 隋        
-**** responsible: 吉藏撰
+**** responsible: 
+***** 吉藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -110,11 +116,14 @@
 :CUSTOM_ID: ZB6e0003
 :SOURCE: Taisho Tripitaka Vol. 35, No. 1732
 :DYNASTY: 唐
-:RESP: 智儼述
 :END:
 **** extent: 5卷
-**** dynasty: 唐        
-**** responsible: 智儼述
+**** responsible: 
+***** 智儼
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -142,11 +151,14 @@
 :CUSTOM_ID: ZB6e0004
 :SOURCE: Taisho Tripitaka Vol. 35, No. 1733
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 20卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -189,11 +201,14 @@
 :CUSTOM_ID: ZB6e0005
 :SOURCE: Taisho Tripitaka Vol. 35, No. 1734
 :DYNASTY: 唐
-:RESP: 法藏撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏撰
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -226,10 +241,8 @@
 :CUSTOM_ID: ZB6e0006
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2753
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -248,10 +261,8 @@
 :CUSTOM_ID: ZB6e0007
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2754
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -270,11 +281,14 @@
 :CUSTOM_ID: ZB6e0008
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2756
 :DYNASTY: 後魏
-:RESP: 慧光撰
 :END:
 **** extent: 1卷
-**** dynasty: 後魏        
-**** responsible: 慧光撰
+**** responsible: 
+***** 慧光
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -287,11 +301,14 @@
 :CUSTOM_ID: ZB6e0009
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2757
 :DYNASTY: 新羅
-:RESP: 元曉撰
 :END:
 **** extent: 1卷
-**** dynasty: 新羅        
-**** responsible: 元曉撰
+**** responsible: 
+***** 元曉
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -309,11 +326,14 @@
 :CUSTOM_ID: ZB6e0010
 :SOURCE: Taisho Tripitaka Vol. 10, No. 279
 :DYNASTY: 唐
-:RESP: 實叉難陀譯
 :END:
 **** extent: 80卷
-**** dynasty: 唐        
-**** responsible: 實叉難陀譯
+**** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -396,11 +416,14 @@
 :CUSTOM_ID: ZB6e0011
 :SOURCE: Taisho Tripitaka Vol. 35, No. 1735
 :DYNASTY: 唐
-:RESP: 澄觀撰
 :END:
 **** extent: 60卷
-**** dynasty: 唐        
-**** responsible: 澄觀撰
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -423,11 +446,14 @@
 :CUSTOM_ID: ZB6e0012
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1736
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 90卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -465,11 +491,14 @@
 :CUSTOM_ID: ZB6e0013
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1737
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -497,11 +526,14 @@
 :CUSTOM_ID: ZB6e0014
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1738
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -514,11 +546,14 @@
 :CUSTOM_ID: ZB6e0015
 :SOURCE: Southern Hongwu Edition of the Canon Vol. 222, No. 1418
 :DYNASTY: 唐
-:RESP: 淨源重刊
 :END:
 **** extent: 3卷
-**** dynasty: 唐        
-**** responsible: 淨源重刊
+**** responsible: 
+***** 淨源重
+:PROPERTIES:
+:FUNCTION: 刊
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -536,11 +571,14 @@
 :CUSTOM_ID: ZB6e0015
 :SOURCE: Southern Hongwu Edition of the Canon Vol. 223, No. 1418
 :DYNASTY: 唐
-:RESP: 淨源重刊
 :END:
 **** extent: 16卷
-**** dynasty: 唐        
-**** responsible: 淨源重刊
+**** responsible: 
+***** 淨源重
+:PROPERTIES:
+:FUNCTION: 刊
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -558,11 +596,14 @@
 :CUSTOM_ID: ZB6e0016
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 231
 :DYNASTY: 唐
-:RESP: 澄觀排定
 :END:
 **** extent: 10卷
-**** dynasty: 唐        
-**** responsible: 澄觀排定
+**** responsible: 
+***** 澄觀排
+:PROPERTIES:
+:FUNCTION: 定
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -580,11 +621,14 @@
 :CUSTOM_ID: ZB6e0017
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 232
 :DYNASTY: 唐
-:RESP: 澄觀撰述
 :END:
 **** extent: 9卷
-**** dynasty: 唐        
-**** responsible: 澄觀撰述
+**** responsible: 
+***** 澄觀撰
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -602,11 +646,14 @@
 :CUSTOM_ID: ZB6e0018
 :SOURCE: 卍 Xuzangjing Vol. 07, No. 234
 :DYNASTY: 唐
-:RESP: 淨源錄疏注經
 :END:
 **** extent: 58卷
-**** dynasty: 唐        
-**** responsible: 淨源錄疏注經
+**** responsible: 
+***** 淨源錄疏注
+:PROPERTIES:
+:FUNCTION: 經
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -624,11 +671,14 @@
 :CUSTOM_ID: ZB6e0019
 :SOURCE: Qianlong Edition of the Canon Vol. 130, No. 1557
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 17卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -646,11 +696,14 @@
 :CUSTOM_ID: ZB6e0019
 :SOURCE: Qianlong Edition of the Canon Vol. 131, No. 1557
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 18卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -668,11 +721,14 @@
 :CUSTOM_ID: ZB6e0019
 :SOURCE: Qianlong Edition of the Canon Vol. 132, No. 1557
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 18卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -690,11 +746,14 @@
 :CUSTOM_ID: ZB6e0019
 :SOURCE: Qianlong Edition of the Canon Vol. 133, No. 1557
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 30卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -712,11 +771,14 @@
 :CUSTOM_ID: ZB6e0020
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1739
 :DYNASTY: 唐
-:RESP: 李通玄撰
 :END:
 **** extent: 40卷
-**** dynasty: 唐        
-**** responsible: 李通玄撰
+**** responsible: 
+***** 李通玄
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -739,11 +801,14 @@
 :CUSTOM_ID: ZB6e0021
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1740
 :DYNASTY: 唐
-:RESP: 李通玄造
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 李通玄造
+**** responsible: 
+***** 李通玄
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -756,11 +821,14 @@
 :CUSTOM_ID: ZB6e0022
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1741
 :DYNASTY: 唐
-:RESP: 李通玄撰
 :END:
 **** extent: 4卷
-**** dynasty: 唐        
-**** responsible: 李通玄撰
+**** responsible: 
+***** 李通玄
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -783,11 +851,14 @@
 :CUSTOM_ID: ZB6e0023
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1742
 :DYNASTY: 唐
-:RESP: 湛然撰
 :END:
 **** extent: 2卷
-**** dynasty: 唐        
-**** responsible: 湛然撰
+**** responsible: 
+***** 湛然
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -810,11 +881,14 @@
 :CUSTOM_ID: ZB6e0024
 :SOURCE: Taisho Tripitaka Vol. 36, No. 1743
 :DYNASTY: 唐
-:RESP: 靜居撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 靜居撰
+**** responsible: 
+***** 靜居
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -837,10 +911,8 @@
 :CUSTOM_ID: ZB6e0025
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2755
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -854,11 +926,14 @@
 :CUSTOM_ID: ZB6e0026
 :SOURCE: Taisho Tripitaka Vol. 10, No. 280
 :DYNASTY: 後漢
-:RESP: 支婁迦讖譯
 :END:
 **** extent: 1卷
-**** dynasty: 後漢        
-**** responsible: 支婁迦讖譯
+**** responsible: 
+***** 支婁迦讖
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -901,11 +976,14 @@
 :CUSTOM_ID: ZB6e0027
 :SOURCE: Taisho Tripitaka Vol. 10, No. 281
 :DYNASTY: 吳
-:RESP: 支謙譯
 :END:
 **** extent: 1卷
-**** dynasty: 吳        
-**** responsible: 支謙譯
+**** responsible: 
+***** 支謙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -963,11 +1041,14 @@
 :CUSTOM_ID: ZB6e0028
 :SOURCE: Taisho Tripitaka Vol. 10, No. 282
 :DYNASTY: 西晉
-:RESP: 聶道真譯
 :END:
 **** extent: 1卷
-**** dynasty: 西晉        
-**** responsible: 聶道真譯
+**** responsible: 
+***** 聶道真
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1015,11 +1096,14 @@
 :CUSTOM_ID: ZB6e0029
 :SOURCE: Taisho Tripitaka Vol. 10, No. 283
 :DYNASTY: 西晉
-:RESP: 竺法護譯
 :END:
 **** extent: 1卷
-**** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1067,11 +1151,14 @@
 :CUSTOM_ID: ZB6e0030
 :SOURCE: Taisho Tripitaka Vol. 10, No. 284
 :DYNASTY: 東晉
-:RESP: 祇多蜜譯
 :END:
 **** extent: 1卷
-**** dynasty: 東晉        
-**** responsible: 祇多蜜譯
+**** responsible: 
+***** 祇多蜜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1114,11 +1201,14 @@
 :CUSTOM_ID: ZB6e0031
 :SOURCE: Taisho Tripitaka Vol. 10, No. 285
 :DYNASTY: 西晉
-:RESP: 竺法護譯
 :END:
 **** extent: 5卷
-**** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1176,11 +1266,14 @@
 :CUSTOM_ID: ZB6e0032
 :SOURCE: Taisho Tripitaka Vol. 10, No. 286
 :DYNASTY: 姚秦
-:RESP: 鳩摩羅什譯
 :END:
 **** extent: 4卷
-**** dynasty: 姚秦        
-**** responsible: 鳩摩羅什譯
+**** responsible: 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1233,11 +1326,14 @@
 :CUSTOM_ID: ZB6e0033
 :SOURCE: Taisho Tripitaka Vol. 10, No. 287
 :DYNASTY: 唐
-:RESP: 尸羅達摩譯
 :END:
 **** extent: 9卷
-**** dynasty: 唐        
-**** responsible: 尸羅達摩譯
+**** responsible: 
+***** 尸羅達摩
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1265,11 +1361,14 @@
 :CUSTOM_ID: ZB6e0034
 :SOURCE: Taisho Tripitaka Vol. 10, No. 288
 :DYNASTY: 西晉
-:RESP: 竺法護譯
 :END:
 **** extent: 3卷
-**** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1322,11 +1421,14 @@
 :CUSTOM_ID: ZB6e0035
 :SOURCE: Taisho Tripitaka Vol. 10, No. 289
 :DYNASTY: 唐
-:RESP: 玄奘譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 玄奘譯
+**** responsible: 
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1369,11 +1471,14 @@
 :CUSTOM_ID: ZB6e0036
 :SOURCE: Taisho Tripitaka Vol. 10, No. 290
 :DYNASTY: 宋
-:RESP: 法賢譯
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 法賢譯
+**** responsible: 
+***** 法賢
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1411,11 +1516,14 @@
 :CUSTOM_ID: ZB6e0037
 :SOURCE: Taisho Tripitaka Vol. 10, No. 291
 :DYNASTY: 西晉
-:RESP: 竺法護譯
 :END:
 **** extent: 4卷
-**** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1478,11 +1586,14 @@
 :CUSTOM_ID: ZB6e0038
 :SOURCE: Taisho Tripitaka Vol. 10, No. 292
 :DYNASTY: 西晉
-:RESP: 竺法護譯
 :END:
 **** extent: 6卷
-**** dynasty: 西晉        
-**** responsible: 竺法護譯
+**** responsible: 
+***** 竺法護
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1535,11 +1646,14 @@
 :CUSTOM_ID: ZB6e0039
 :SOURCE: Taisho Tripitaka Vol. 10, No. 293
 :DYNASTY: 唐
-:RESP: 般若譯
 :END:
 **** extent: 40卷
-**** dynasty: 唐        
-**** responsible: 般若譯
+**** responsible: 
+***** 般若
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1602,11 +1716,14 @@
 :CUSTOM_ID: ZB6e0040
 :SOURCE: Taisho Tripitaka Vol. 10, No. 294
 :DYNASTY: 西秦
-:RESP: 聖堅譯
 :END:
 **** extent: 3卷
-**** dynasty: 西秦        
-**** responsible: 聖堅譯
+**** responsible: 
+***** 聖堅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1659,11 +1776,14 @@
 :CUSTOM_ID: ZB6e0041
 :SOURCE: Taisho Tripitaka Vol. 10, No. 295
 :DYNASTY: 唐
-:RESP: 地婆訶羅譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 地婆訶羅譯
+**** responsible: 
+***** 地婆訶羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1711,11 +1831,14 @@
 :CUSTOM_ID: ZB6e0042
 :SOURCE: Taisho Tripitaka Vol. 10, No. 296
 :DYNASTY: 東晉
-:RESP: 佛陀跋陀羅譯
 :END:
 **** extent: 1卷
-**** dynasty: 東晉        
-**** responsible: 佛陀跋陀羅譯
+**** responsible: 
+***** 佛陀跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1758,11 +1881,14 @@
 :CUSTOM_ID: ZB6e0043
 :SOURCE: Taisho Tripitaka Vol. 10, No. 297
 :DYNASTY: 唐
-:RESP: 不空譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 不空譯
+**** responsible: 
+***** 不空
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1805,11 +1931,14 @@
 :CUSTOM_ID: ZB6e0044
 :SOURCE: Taisho Tripitaka Vol. 10, No. 298
 :DYNASTY: 唐
-:RESP: 實叉難陀譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 實叉難陀譯
+**** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1852,11 +1981,14 @@
 :CUSTOM_ID: ZB6e0045
 :SOURCE: Taisho Tripitaka Vol. 10, No. 299
 :DYNASTY: 宋
-:RESP: 法天譯
 :END:
 **** extent: 5卷
-**** dynasty: 宋        
-**** responsible: 法天譯
+**** responsible: 
+***** 法天
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1904,11 +2036,14 @@
 :CUSTOM_ID: ZB6e0046
 :SOURCE: Taisho Tripitaka Vol. 10, No. 300
 :DYNASTY: 唐
-:RESP: 提雲般若譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 提雲般若譯
+**** responsible: 
+***** 提雲般若
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1956,11 +2091,14 @@
 :CUSTOM_ID: ZB6e0047
 :SOURCE: Taisho Tripitaka Vol. 10, No. 301
 :DYNASTY: 唐
-:RESP: 實叉難陀譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 實叉難陀譯
+**** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2008,11 +2146,14 @@
 :CUSTOM_ID: ZB6e0048
 :SOURCE: Taisho Tripitaka Vol. 10, No. 302
 :DYNASTY: 失譯
-:RESP: 失譯
 :END:
 **** extent: 1卷
-**** dynasty: 失譯        
-**** responsible: 失譯
+**** responsible: 
+***** 失
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2065,11 +2206,14 @@
 :CUSTOM_ID: ZB6e0049
 :SOURCE: Taisho Tripitaka Vol. 10, No. 303
 :DYNASTY: 隋
-:RESP: 闍那崛多譯
 :END:
 **** extent: 2卷
-**** dynasty: 隋        
-**** responsible: 闍那崛多譯
+**** responsible: 
+***** 闍那崛多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2127,11 +2271,14 @@
 :CUSTOM_ID: ZB6e0050
 :SOURCE: Taisho Tripitaka Vol. 10, No. 304
 :DYNASTY: 唐
-:RESP: 實叉難陀譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 實叉難陀譯
+**** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2179,11 +2326,14 @@
 :CUSTOM_ID: ZB6e0051
 :SOURCE: Taisho Tripitaka Vol. 10, No. 305
 :DYNASTY: 元魏
-:RESP: 曇摩流支譯
 :END:
 **** extent: 5卷
-**** dynasty: 元魏        
-**** responsible: 曇摩流支譯
+**** responsible: 
+***** 曇摩流支
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2241,11 +2391,14 @@
 :CUSTOM_ID: ZB6e0052
 :SOURCE: Taisho Tripitaka Vol. 10, No. 306
 :DYNASTY: 唐
-:RESP: 提雲般若等譯
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 提雲般若等譯
+**** responsible: 
+***** 提雲般若等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2293,11 +2446,14 @@
 :CUSTOM_ID: ZB6e0053
 :SOURCE: Taisho Tripitaka Vol. 10, No. 307
 :DYNASTY: 姚秦
-:RESP: 鳩摩羅什譯
 :END:
 **** extent: 1卷
-**** dynasty: 姚秦        
-**** responsible: 鳩摩羅什譯
+**** responsible: 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2335,11 +2491,14 @@
 :CUSTOM_ID: ZB6e0054
 :SOURCE: Taisho Tripitaka Vol. 10, No. 308
 :DYNASTY: 元魏
-:RESP: 吉迦夜譯
 :END:
 **** extent: 1卷
-**** dynasty: 元魏        
-**** responsible: 吉迦夜譯
+**** responsible: 
+***** 吉迦夜
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2387,11 +2546,14 @@
 :CUSTOM_ID: ZB6e0055
 :SOURCE: Taisho Tripitaka Vol. 10, No. 309
 :DYNASTY: 姚秦
-:RESP: 竺佛念譯
 :END:
 **** extent: 10卷
-**** dynasty: 姚秦        
-**** responsible: 竺佛念譯
+**** responsible: 
+***** 竺佛念
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2439,11 +2601,14 @@
 :CUSTOM_ID: ZB6e0056
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1521
 :DYNASTY: 聖者龍樹造
-:RESP: 鳩摩羅什譯
 :END:
 **** extent: 17卷
-**** dynasty: 聖者龍樹造        
-**** responsible: 鳩摩羅什譯
+**** responsible: 
+***** 鳩摩羅什
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2486,11 +2651,14 @@
 :CUSTOM_ID: ZB6e0057
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1522
 :DYNASTY: 天親菩薩造
-:RESP: 菩提流支等譯
 :END:
 **** extent: 12卷
-**** dynasty: 天親菩薩造        
-**** responsible: 菩提流支等譯
+**** responsible: 
+***** 菩提流支等
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2553,10 +2721,8 @@
 :CUSTOM_ID: ZB6e0058
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2758
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2575,11 +2741,14 @@
 :CUSTOM_ID: ZB6e0059
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2799
 :DYNASTY: 北周
-:RESP: 法上撰
 :END:
 **** extent: 2卷
-**** dynasty: 北周        
-**** responsible: 法上撰
+**** responsible: 
+***** 法上
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2597,11 +2766,14 @@
 :CUSTOM_ID: ZB6e0060
 :SOURCE: 卍 Xuzangjing Vol. 45, No. 753
 :DYNASTY: 隋
-:RESP: 慧遠撰
 :END:
 **** extent: 4卷
-**** dynasty: 隋        
-**** responsible: 慧遠撰
+**** responsible: 
+***** 慧遠
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2619,11 +2791,14 @@
 :CUSTOM_ID: ZB6e0061
 :SOURCE: 卍 Xuzangjing Vol. 03, No. 208
 :DYNASTY: 後魏
-:RESP: 靈辨造
 :END:
 **** extent: 1卷
-**** dynasty: 後魏        
-**** responsible: 靈辨造
+**** responsible: 
+***** 靈辨
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2641,11 +2816,14 @@
 :CUSTOM_ID: ZB6e0062
 :SOURCE: 卍 Xuzangjing Vol. 03, No. 221
 :DYNASTY: 唐
-:RESP: 慧苑述
 :END:
 **** extent: 13卷
-**** dynasty: 唐        
-**** responsible: 慧苑述
+**** responsible: 
+***** 慧苑
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2663,11 +2841,14 @@
 :CUSTOM_ID: ZB6e0063
 :SOURCE: 卍 Xuzangjing Vol. 04, No. 223
 :DYNASTY: 唐
-:RESP: 李通玄造論　志寧釐經合論
 :END:
 **** extent: 120卷
-**** dynasty: 唐        
-**** responsible: 李通玄造論　志寧釐經合論
+**** responsible: 
+***** 李通玄造論　志寧釐經合
+:PROPERTIES:
+:FUNCTION: 論
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2685,11 +2866,14 @@
 :CUSTOM_ID: ZB6e0064
 :SOURCE: 卍 Xuzangjing Vol. 04, No. 225
 :DYNASTY: 明
-:RESP: 李贄簡要
 :END:
 **** extent: 4卷
-**** dynasty: 明        
-**** responsible: 李贄簡要
+**** responsible: 
+***** 李贄簡
+:PROPERTIES:
+:FUNCTION: 要
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2707,11 +2891,14 @@
 :CUSTOM_ID: ZB6e0065
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 226
 :DYNASTY: 明
-:RESP: 方澤纂
 :END:
 **** extent: 3卷
-**** dynasty: 明        
-**** responsible: 方澤纂
+**** responsible: 
+***** 方澤
+:PROPERTIES:
+:FUNCTION: 纂
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2729,11 +2916,14 @@
 :CUSTOM_ID: ZB6e0066
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 227
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 10卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2751,11 +2941,14 @@
 :CUSTOM_ID: ZB6e0067
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 228
 :DYNASTY: 唐
-:RESP: 宗密撰集
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密撰集
+**** responsible: 
+***** 宗密撰
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2773,11 +2966,14 @@
 :CUSTOM_ID: ZB6e0068
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 229
 :DYNASTY: 唐
-:RESP: 澄觀別行疏　宗密隨疏鈔
 :END:
 **** extent: 6卷
-**** dynasty: 唐        
-**** responsible: 澄觀別行疏　宗密隨疏鈔
+**** responsible: 
+***** 澄觀別行疏　宗密隨疏
+:PROPERTIES:
+:FUNCTION: 鈔
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2795,11 +2991,14 @@
 :CUSTOM_ID: ZB6e0069
 :SOURCE: 卍 Xuzangjing Vol. 05, No. 230
 :DYNASTY: 宋
-:RESP: 遵式治定
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 遵式治定
+**** responsible: 
+***** 遵式治
+:PROPERTIES:
+:FUNCTION: 定
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2817,11 +3016,14 @@
 :CUSTOM_ID: ZB6e0070
 :SOURCE: Jiaxing Canon Vol. 15, No. B005
 :DYNASTY: 唐
-:RESP: 澄觀別行疏　宗密隨疏鈔
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀別行疏　宗密隨疏鈔
+**** responsible: 
+***** 澄觀別行疏　宗密隨疏
+:PROPERTIES:
+:FUNCTION: 鈔
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2839,11 +3041,14 @@
 :CUSTOM_ID: ZB6e0071
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1866
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 4卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2876,11 +3081,14 @@
 :CUSTOM_ID: ZB6e0072
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 995
 :DYNASTY: 宋
-:RESP: 道亭述
 :END:
 **** extent: 10卷
-**** dynasty: 宋        
-**** responsible: 道亭述
+**** responsible: 
+***** 道亭
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2898,11 +3106,14 @@
 :CUSTOM_ID: ZB6e0073
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 996
 :DYNASTY: 宋
-:RESP: 師會錄
 :END:
 **** extent: 2卷
-**** dynasty: 宋        
-**** responsible: 師會錄
+**** responsible: 
+***** 師會
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2920,11 +3131,14 @@
 :CUSTOM_ID: ZB6e0074
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 997
 :DYNASTY: 宋
-:RESP: 師會述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 師會述
+**** responsible: 
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2942,11 +3156,14 @@
 :CUSTOM_ID: ZB6e0075
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 998
 :DYNASTY: 宋
-:RESP: 師會．善熹述
 :END:
 **** extent: 3卷
-**** dynasty: 宋        
-**** responsible: 師會．善熹述
+**** responsible: 
+***** 師會．善熹
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2964,11 +3181,14 @@
 :CUSTOM_ID: ZB6e0076
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 999
 :DYNASTY: 宋
-:RESP: 希迪述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 希迪述
+**** responsible: 
+***** 希迪
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -2986,11 +3206,14 @@
 :CUSTOM_ID: ZB6e0077
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1000
 :DYNASTY: 宋
-:RESP: 希迪錄
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 希迪錄
+**** responsible: 
+***** 希迪
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3008,11 +3231,14 @@
 :CUSTOM_ID: ZB6e0078
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1867
 :DYNASTY: 隋
-:RESP: 杜順說
 :END:
 **** extent: 1卷
-**** dynasty: 隋        
-**** responsible: 杜順說
+**** responsible: 
+***** 杜順
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3035,11 +3261,14 @@
 :CUSTOM_ID: ZB6e0079
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1868
 :DYNASTY: 隋
-:RESP: 智儼撰
 :END:
 **** extent: 1卷
-**** dynasty: 隋        
-**** responsible: 智儼撰
+**** responsible: 
+***** 智儼
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3062,11 +3291,14 @@
 :CUSTOM_ID: ZB6e0080
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1869
 :DYNASTY: 唐
-:RESP: 智儼集
 :END:
 **** extent: 2卷
-**** dynasty: 唐        
-**** responsible: 智儼集
+**** responsible: 
+***** 智儼
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3089,11 +3321,14 @@
 :CUSTOM_ID: ZB6e0081
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1870
 :DYNASTY: 唐
-:RESP: 智儼集
 :END:
 **** extent: 4卷
-**** dynasty: 唐        
-**** responsible: 智儼集
+**** responsible: 
+***** 智儼
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3126,11 +3361,14 @@
 :CUSTOM_ID: ZB6e0082
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1871
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3158,11 +3396,14 @@
 :CUSTOM_ID: ZB6e0083
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1872
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3185,11 +3426,14 @@
 :CUSTOM_ID: ZB6e0084
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1873
 :DYNASTY: 唐
-:RESP: 法藏撰
 :END:
 **** extent: 2卷
-**** dynasty: 唐        
-**** responsible: 法藏撰
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3217,11 +3461,14 @@
 :CUSTOM_ID: ZB6e0085
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1874
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 2卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3234,11 +3481,14 @@
 :CUSTOM_ID: ZB6e0086
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1875
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3261,11 +3511,14 @@
 :CUSTOM_ID: ZB6e0087
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1876
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3293,11 +3546,14 @@
 :CUSTOM_ID: ZB6e0088
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 993
 :DYNASTY: 宋
-:RESP: 淨源刊正
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源刊正
+**** responsible: 
+***** 淨源刊
+:PROPERTIES:
+:FUNCTION: 正
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3315,11 +3571,14 @@
 :CUSTOM_ID: ZB6e0089
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 994
 :DYNASTY: 宋
-:RESP: 淨源述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源述
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3337,11 +3596,14 @@
 :CUSTOM_ID: ZB6e0090
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1877
 :DYNASTY: 唐
-:RESP: 法藏撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏撰
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3364,11 +3626,14 @@
 :CUSTOM_ID: ZB6e0091
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1878
 :DYNASTY: 唐
-:RESP: 法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏述
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3396,11 +3661,14 @@
 :CUSTOM_ID: ZB6e0092
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1879a
 :DYNASTY: 唐
-:RESP: 法藏撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏撰
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3413,10 +3681,8 @@
 :CUSTOM_ID: ZB6e0093
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1879b
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3440,11 +3706,14 @@
 :CUSTOM_ID: ZB6e0094
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1880
 :DYNASTY: 唐
-:RESP: 淨源述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 淨源述
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3457,11 +3726,14 @@
 :CUSTOM_ID: ZB6e0095
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1881
 :DYNASTY: 唐
-:RESP: 承遷註
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 承遷註
+**** responsible: 
+***** 承遷
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3484,11 +3756,14 @@
 :CUSTOM_ID: ZB6e0096
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1882
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3511,11 +3786,14 @@
 :CUSTOM_ID: ZB6e0097
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1883
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 2卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3528,11 +3806,14 @@
 :CUSTOM_ID: ZB6e0098
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1884
 :DYNASTY: 唐
-:RESP: 宗密註
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密註
+**** responsible: 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3560,11 +3841,14 @@
 :CUSTOM_ID: ZB6e0099
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1885
 :DYNASTY: 宋
-:RESP: 本嵩述．琮湛註
 :END:
 **** extent: 2卷
-**** dynasty: 宋        
-**** responsible: 本嵩述．琮湛註
+**** responsible: 
+***** 本嵩述．琮湛
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3582,11 +3866,14 @@
 :CUSTOM_ID: ZB6e0100
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1007
 :DYNASTY: 唐
-:RESP: 宗密述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密述
+**** responsible: 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3604,11 +3891,14 @@
 :CUSTOM_ID: ZB6e0101
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1008
 :DYNASTY: 唐
-:RESP: 宗豫述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗豫述
+**** responsible: 
+***** 宗豫
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3626,11 +3916,14 @@
 :CUSTOM_ID: ZB6e0102
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1886
 :DYNASTY: 唐
-:RESP: 宗密述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密述
+**** responsible: 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3653,11 +3946,14 @@
 :CUSTOM_ID: ZB6e0103
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1031
 :DYNASTY: 宋
-:RESP: 淨源述
 :END:
 **** extent: 3卷
-**** dynasty: 宋        
-**** responsible: 淨源述
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3675,11 +3971,14 @@
 :CUSTOM_ID: ZB6e0104
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1032
 :DYNASTY: 元
-:RESP: 圓覺解
 :END:
 **** extent: 3卷
-**** dynasty: 元        
-**** responsible: 圓覺解
+**** responsible: 
+***** 圓覺
+:PROPERTIES:
+:FUNCTION: 解
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3697,11 +3996,14 @@
 :CUSTOM_ID: ZB6e0105
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1033
 :DYNASTY: 元
-:RESP: 楊嘉祚刪合
 :END:
 **** extent: 2卷
-**** dynasty: 元        
-**** responsible: 楊嘉祚刪合
+**** responsible: 
+***** 楊嘉祚刪
+:PROPERTIES:
+:FUNCTION: 合
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3719,11 +4021,14 @@
 :CUSTOM_ID: ZB6e0106
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1887A
 :DYNASTY: 新羅
-:RESP: 義湘撰
 :END:
 **** extent: 1卷
-**** dynasty: 新羅        
-**** responsible: 義湘撰
+**** responsible: 
+***** 義湘
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3751,10 +4056,8 @@
 :CUSTOM_ID: ZB6e0107
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1887B
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 2卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3778,11 +4081,14 @@
 :CUSTOM_ID: ZB6e0108
 :SOURCE: Fangshan shijing Vol. 28, No. 1081
 :DYNASTY: 儼法師造
-:RESP: 儼法師造
 :END:
 **** extent: 1卷
-**** dynasty: 儼法師造        
-**** responsible: 儼法師造
+**** responsible: 
+***** 儼法師
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3795,11 +4101,14 @@
 :CUSTOM_ID: ZB6e0109
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1888
 :DYNASTY: 唐
-:RESP: 李通玄撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 李通玄撰
+**** responsible: 
+***** 李通玄
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3822,11 +4131,14 @@
 :CUSTOM_ID: ZB6e0110
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1889
 :DYNASTY: 新羅
-:RESP: 明皛述
 :END:
 **** extent: 1卷
-**** dynasty: 新羅        
-**** responsible: 明皛述
+**** responsible: 
+***** 明皛
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3849,11 +4161,14 @@
 :CUSTOM_ID: ZB6e0111
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1890
 :DYNASTY: 新羅
-:RESP: 見登之集
 :END:
 **** extent: 1卷
-**** dynasty: 新羅        
-**** responsible: 見登之集
+**** responsible: 
+***** 見登之
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3876,11 +4191,14 @@
 :CUSTOM_ID: ZB6e0112
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1891
 :DYNASTY: 宋
-:RESP: 惟白述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 惟白述
+**** responsible: 
+***** 惟白
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3903,11 +4221,14 @@
 :CUSTOM_ID: ZB6e0113
 :SOURCE: 卍 Xuzangjing Vol. 03, No. 211
 :DYNASTY: 唐
-:RESP: 靈裕集記
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 靈裕集記
+**** responsible: 
+***** 靈裕集
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3925,11 +4246,14 @@
 :CUSTOM_ID: ZB6e0114
 :SOURCE: 卍 Xuzangjing Vol. 03, No. 218
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3947,11 +4271,14 @@
 :CUSTOM_ID: ZB6e0115
 :SOURCE: 卍 Xuzangjing Vol. 03, No. 220
 :DYNASTY: 宋
-:RESP: 復菴述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 復菴述
+**** responsible: 
+***** 復菴
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3969,11 +4296,14 @@
 :CUSTOM_ID: ZB6e0116
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 235
 :DYNASTY: 遼
-:RESP: 鮮演述
 :END:
 **** extent: 5卷
-**** dynasty: 遼        
-**** responsible: 鮮演述
+**** responsible: 
+***** 鮮演
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3991,11 +4321,14 @@
 :CUSTOM_ID: ZB6e0117
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 236
 :DYNASTY: 元
-:RESP: 普瑞集
 :END:
 **** extent: 40卷
-**** dynasty: 元        
-**** responsible: 普瑞集
+**** responsible: 
+***** 普瑞
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4013,11 +4346,14 @@
 :CUSTOM_ID: ZB6e0118
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 237
 :DYNASTY: 新羅
-:RESP: 表員集
 :END:
 **** extent: 4卷
-**** dynasty: 新羅        
-**** responsible: 表員集
+**** responsible: 
+***** 表員
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4035,11 +4371,14 @@
 :CUSTOM_ID: ZB6e0119
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 238
 :DYNASTY: 宋
-:RESP: 戒環集
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 戒環集
+**** responsible: 
+***** 戒環
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4057,11 +4396,14 @@
 :CUSTOM_ID: ZB6e0120
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 239
 :DYNASTY: 宋
-:RESP: 道通述
 :END:
 **** extent: 3卷
-**** dynasty: 宋        
-**** responsible: 道通述
+**** responsible: 
+***** 道通
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4079,11 +4421,14 @@
 :CUSTOM_ID: ZB6e0121
 :SOURCE: 卍 Xuzangjing Vol. 08, No. 240
 :DYNASTY: 唐
-:RESP: 德清提挈
 :END:
 **** extent: 44卷
-**** dynasty: 唐        
-**** responsible: 德清提挈
+**** responsible: 
+***** 德清提
+:PROPERTIES:
+:FUNCTION: 挈
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4101,11 +4446,14 @@
 :CUSTOM_ID: ZB6e0121
 :SOURCE: 卍 Xuzangjing Vol. 09, No. 240
 :DYNASTY: 唐
-:RESP: 德清提挈
 :END:
 **** extent: 36卷
-**** dynasty: 唐        
-**** responsible: 德清提挈
+**** responsible: 
+***** 德清提
+:PROPERTIES:
+:FUNCTION: 挈
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4123,11 +4471,14 @@
 :CUSTOM_ID: ZB6e0122
 :SOURCE: 卍 Xuzangjing Vol. 09, No. 241
 :DYNASTY: 清
-:RESP: 永光錄集
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 永光錄集
+**** responsible: 
+***** 永光錄
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4145,11 +4496,14 @@
 :CUSTOM_ID: ZB6e0123
 :SOURCE: 卍 Xuzangjing Vol. 09, No. 242
 :DYNASTY: 清
-:RESP: 永光敬錄
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 永光敬錄
+**** responsible: 
+***** 永光敬
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4167,11 +4521,14 @@
 :CUSTOM_ID: ZB6e0124
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 985
 :DYNASTY: 宋
-:RESP: 師會述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 師會述
+**** responsible: 
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4189,11 +4546,14 @@
 :CUSTOM_ID: ZB6e0125
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 991
 :DYNASTY: 唐
-:RESP: 法藏撰
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 法藏撰
+**** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4211,11 +4571,14 @@
 :CUSTOM_ID: ZB6e0126
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1004
 :DYNASTY: 唐
-:RESP: 澄觀述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 澄觀述
+**** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4228,11 +4591,14 @@
 :CUSTOM_ID: ZB6e0127
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1005
 :DYNASTY: 唐
-:RESP: 宗密述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 宗密述
+**** responsible: 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4245,11 +4611,14 @@
 :CUSTOM_ID: ZB6e0128
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1010
 :DYNASTY: 唐
-:RESP: 裴休述
 :END:
 **** extent: 1卷
-**** dynasty: 唐        
-**** responsible: 裴休述
+**** responsible: 
+***** 裴休
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4267,11 +4636,14 @@
 :CUSTOM_ID: ZB6e0129
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1013
 :DYNASTY: 宋
-:RESP: 道通述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 道通述
+**** responsible: 
+***** 道通
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4289,11 +4661,14 @@
 :CUSTOM_ID: ZB6e0130
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1014
 :DYNASTY: 宋
-:RESP: 道通述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 道通述
+**** responsible: 
+***** 道通
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4306,11 +4681,14 @@
 :CUSTOM_ID: ZB6e0131
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1015
 :DYNASTY: 高麗
-:RESP: 義天集
 :END:
 **** extent: 2卷
-**** dynasty: 高麗        
-**** responsible: 義天集
+**** responsible: 
+***** 義天
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4328,11 +4706,14 @@
 :CUSTOM_ID: ZB6e0132
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1016
 :DYNASTY: 宋
-:RESP: 師會述　希迪註
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 師會述　希迪註
+**** responsible: 
+***** 師會述　希迪
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4350,11 +4731,14 @@
 :CUSTOM_ID: ZB6e0133
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1017
 :DYNASTY: 宋
-:RESP: 師會述　善熹註
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 師會述　善熹註
+**** responsible: 
+***** 師會述　善熹
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4372,11 +4756,14 @@
 :CUSTOM_ID: ZB6e0134
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1018
 :DYNASTY: 宋
-:RESP: 善熹述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 善熹述
+**** responsible: 
+***** 善熹
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4394,11 +4781,14 @@
 :CUSTOM_ID: ZB6e0135
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1019
 :DYNASTY: 宋
-:RESP: 善熹述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 善熹述
+**** responsible: 
+***** 善熹
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4416,11 +4806,14 @@
 :CUSTOM_ID: ZB6e0136
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1020
 :DYNASTY: 宋
-:RESP: 善熹書
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 善熹書
+**** responsible: 
+***** 善熹
+:PROPERTIES:
+:FUNCTION: 書
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4438,11 +4831,14 @@
 :CUSTOM_ID: ZB6e0137
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1022
 :DYNASTY: 宋
-:RESP: 佚名撰
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 佚名撰
+**** responsible: 
+***** 佚名
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4460,11 +4856,14 @@
 :CUSTOM_ID: ZB6e0138
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1023
 :DYNASTY: 明
-:RESP: 善堅撰
 :END:
 **** extent: 1卷
-**** dynasty: 明        
-**** responsible: 善堅撰
+**** responsible: 
+***** 善堅
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4482,11 +4881,14 @@
 :CUSTOM_ID: ZB6e0139
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1024
 :DYNASTY: 清
-:RESP: 續法集錄
 :END:
 **** extent: 6卷
-**** dynasty: 清        
-**** responsible: 續法集錄
+**** responsible: 
+***** 續法集
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4504,11 +4906,14 @@
 :CUSTOM_ID: ZB6e0140
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1025
 :DYNASTY: 清
-:RESP: 續法集
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 續法集
+**** responsible: 
+***** 續法
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4526,11 +4931,14 @@
 :CUSTOM_ID: ZB6e0141
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1026
 :DYNASTY: 清
-:RESP: 續法集
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 續法集
+**** responsible: 
+***** 續法
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4548,11 +4956,14 @@
 :CUSTOM_ID: ZB6e0142
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1027
 :DYNASTY: 清
-:RESP: 續法集
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 續法集
+**** responsible: 
+***** 續法
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4570,11 +4981,14 @@
 :CUSTOM_ID: ZB6e0143
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1028
 :DYNASTY: 清
-:RESP: 續法集
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 續法集
+**** responsible: 
+***** 續法
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4587,11 +5001,14 @@
 :CUSTOM_ID: ZB6e0144
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1029
 :DYNASTY: 清
-:RESP: 彭際清述
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 彭際清述
+**** responsible: 
+***** 彭際清
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4609,11 +5026,14 @@
 :CUSTOM_ID: ZB6e0145
 :SOURCE: 卍 Xuzangjing Vol. 58, No. 1030
 :DYNASTY: 清
-:RESP: 彭際清述
 :END:
 **** extent: 1卷
-**** dynasty: 清        
-**** responsible: 彭際清述
+**** responsible: 
+***** 彭際清
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4631,10 +5051,8 @@
 :CUSTOM_ID: ZB6e0146
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1469
 :DYNASTY: 
-:RESP: 
 :END:
 **** extent: 1卷
-**** dynasty:         
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -4653,11 +5071,14 @@
 :CUSTOM_ID: ZB6e0147
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1470
 :DYNASTY: 唐
-:RESP: 正止治定
 :END:
 **** extent: 42卷
-**** dynasty: 唐        
-**** responsible: 正止治定
+**** responsible: 
+***** 正止治
+:PROPERTIES:
+:FUNCTION: 定
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4675,11 +5096,14 @@
 :CUSTOM_ID: ZB6e0148
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1471
 :DYNASTY: 宋
-:RESP: 智肱述
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 智肱述
+**** responsible: 
+***** 智肱
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4697,11 +5121,14 @@
 :CUSTOM_ID: ZB6e0149
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1472
 :DYNASTY: 宋
-:RESP: 淨源集
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源集
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4719,11 +5146,14 @@
 :CUSTOM_ID: ZB6e0150
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1473
 :DYNASTY: 宋
-:RESP: 淨源集
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源集
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4741,11 +5171,14 @@
 :CUSTOM_ID: ZB6e0151
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1474
 :DYNASTY: 明
-:RESP: 明
 :END:
 **** extent: 1卷
-**** dynasty: 明        
-**** responsible: 明
+**** responsible: 
+***** 
+:PROPERTIES:
+:FUNCTION: 明
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4758,11 +5191,14 @@
 :CUSTOM_ID: ZB6e0152
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1475
 :DYNASTY: 唐
-:RESP: 宗密述
 :END:
 **** extent: 18卷
-**** dynasty: 唐        
-**** responsible: 宗密述
+**** responsible: 
+***** 宗密
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4780,11 +5216,14 @@
 :CUSTOM_ID: ZB6e0153
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1476
 :DYNASTY: 宋
-:RESP: 淨源錄
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源錄
+**** responsible: 
+***** 淨源
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4802,11 +5241,14 @@
 :CUSTOM_ID: ZB6e0154
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1477
 :DYNASTY: 宋
-:RESP: 淨源編敘
 :END:
 **** extent: 1卷
-**** dynasty: 宋        
-**** responsible: 淨源編敘
+**** responsible: 
+***** 淨源編
+:PROPERTIES:
+:FUNCTION: 敘
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4824,11 +5266,14 @@
 :CUSTOM_ID: ZB6e0155
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1478
 :DYNASTY: 明
-:RESP: 禪修述
 :END:
 **** extent: 2卷
-**** dynasty: 明        
-**** responsible: 禪修述
+**** responsible: 
+***** 禪修
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4846,11 +5291,14 @@
 :CUSTOM_ID: ZB6e0156
 :SOURCE: Fangshan shijing Vol. 28, No. 1076
 :DYNASTY: 石經寺主講經律沙門志仙記
-:RESP: 石經寺主講經律沙門志仙記
 :END:
 **** extent: 1卷
-**** dynasty: 石經寺主講經律沙門志仙記        
-**** responsible: 石經寺主講經律沙門志仙記
+**** responsible: 
+***** 石經寺主講經律沙門志仙
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4868,11 +5316,14 @@
 :CUSTOM_ID: ZB6e0157
 :SOURCE: Fangshan shijing Vol. 28, No. 1083
 :DYNASTY: 杜順法師造
-:RESP: 杜順法師造
 :END:
 **** extent: 1卷
-**** dynasty: 杜順法師造        
-**** responsible: 杜順法師造
+**** responsible: 
+***** 杜順法師
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4885,11 +5336,14 @@
 :CUSTOM_ID: ZB6e0158
 :SOURCE: Fangshan shijing Vol. 28, No. 1082
 :DYNASTY: 南岳般舟道場比丘惟勁釋
-:RESP: 南岳般舟道場比丘惟勁釋
 :END:
 **** extent: 1卷
-**** dynasty: 南岳般舟道場比丘惟勁釋        
-**** responsible: 南岳般舟道場比丘惟勁釋
+**** responsible: 
+***** 南岳般舟道場比丘惟勁
+:PROPERTIES:
+:FUNCTION: 釋
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4902,11 +5356,14 @@
 :CUSTOM_ID: ZB6e0159
 :SOURCE: Fangshan shijing Vol. 28, No. 1084
 :DYNASTY: 大香山隱士釋法藏述
-:RESP: 大香山隱士釋法藏述
 :END:
 **** extent: 1卷
-**** dynasty: 大香山隱士釋法藏述        
-**** responsible: 大香山隱士釋法藏述
+**** responsible: 
+***** 大香山隱士釋法藏
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
