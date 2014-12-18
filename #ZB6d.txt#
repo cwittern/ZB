@@ -3592,15 +3592,8 @@
 :CBETA_ID:  X46n0790
 :CUSTOM_ID: ZB6d0114
 :SOURCE: 卍 Xuzangjing Vol. 46, No. 790
-:DYNASTY: 唐
 :END:
 **** extent: 1卷
-**** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 唐
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3782,15 +3775,8 @@
 :CBETA_ID:  X55n0917
 :CUSTOM_ID: ZB6d0120
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 917
-:DYNASTY: 唐
 :END:
 **** extent: 1卷
-**** responsible: 
-***** 法藏
-:PROPERTIES:
-:FUNCTION: 撰
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3811,7 +3797,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道邃說　乾淑
+***** 道邃
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 乾淑
 :PROPERTIES:
 :FUNCTION: 集
 :END:
