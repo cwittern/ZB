@@ -6882,8 +6882,17 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:FUNCTION: 記
+:END:
 ***** 道霈
 :PROPERTIES:
+:DYNASTY: 清
 :FUNCTION: 合
 :END:
 
@@ -6907,8 +6916,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:FUNCTION: 記
+:END:
 ***** 成蓮
 :PROPERTIES:
+:DYNASTY: 清
 :FUNCTION: 合
 :END:
 
@@ -7032,9 +7050,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 淨源撰
+***** 淨源
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 撰集
 :END:
 
 **** textual witnesses
@@ -7092,9 +7110,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -7372,9 +7390,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 惟淨等
+***** 惟淨
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -7467,9 +7485,9 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 大隱．永隆排
+***** 大隱
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 排定
 :END:
 
 **** textual witnesses
@@ -7492,9 +7510,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 葛䵻提
+***** 葛䵻
 :PROPERTIES:
-:FUNCTION: 綱
+:FUNCTION: 提綱
 :END:
 
 **** textual witnesses
