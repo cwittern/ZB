@@ -4926,9 +4926,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 般若共利言等
+***** 般若
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 利言
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
