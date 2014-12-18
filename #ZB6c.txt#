@@ -5490,11 +5490,15 @@
 :CBETA_ID:  X26n0533
 :CUSTOM_ID: ZB6c0147
 :SOURCE: 卍 Xuzangjing Vol. 26, No. 533
-:DYNASTY: 唐
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道楷．懷琛
+***** 道楷
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 懷琛
 :PROPERTIES:
 :FUNCTION: 述
 :END:
@@ -5519,7 +5523,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道隆
+***** 道隆
 :PROPERTIES:
 :FUNCTION: 述
 :END:
@@ -5544,9 +5548,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 宋濂文
+***** 宋濂
 :PROPERTIES:
-:FUNCTION: 句
+:FUNCTION: 文句
 :END:
 
 **** textual witnesses
