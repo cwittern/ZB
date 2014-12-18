@@ -3543,9 +3543,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐發詮
+***** 徐發
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 詮次
 :END:
 
 **** textual witnesses
@@ -3568,9 +3568,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仲之屏彙
+***** 仲之屏
 :PROPERTIES:
-:FUNCTION: 纂
+:FUNCTION: 彙纂
 :END:
 
 **** textual witnesses
@@ -3593,9 +3593,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 翁春．王錫琯解
+***** 翁春
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 解釋
+:END:
+***** 王錫琯
+:PROPERTIES:
+:FUNCTION: 解釋
 :END:
 
 **** textual witnesses
@@ -3618,9 +3622,19 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 大璸科
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 疏
+:END:
+***** 子璿
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 記
+:END:
+***** 大璸
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 科會
 :END:
 
 **** textual witnesses
@@ -3643,9 +3657,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行策會
+***** 行策
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 會編
 :END:
 
 **** textual witnesses
