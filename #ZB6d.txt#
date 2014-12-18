@@ -1564,9 +1564,9 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 道威入
+***** 道威
 :PROPERTIES:
-:FUNCTION: 注
+:FUNCTION: 入注
 :END:
 
 **** textual witnesses
@@ -1684,7 +1684,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 慧洪造　張商英
+***** 慧洪
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 張商英
 :PROPERTIES:
 :FUNCTION: 撰
 :END:
@@ -1734,8 +1738,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 守倫
+:PROPERTIES:
+:FUNCTION: 註
+:END:
 ***** 法濟參
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 訂
 :END:
 
@@ -1759,9 +1768,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 徐行善科
+***** 徐行善
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 科註
 :END:
 
 **** textual witnesses
@@ -1784,9 +1793,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 一如集
+***** 一如
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -1934,9 +1943,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓澄說　明海重
+***** 圓澄
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 說
+:END:
+***** 明海
+:PROPERTIES:
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
