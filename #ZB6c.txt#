@@ -2808,9 +2808,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 慧能解
+***** 慧能
 :PROPERTIES:
-:FUNCTION: 義
+:FUNCTION: 解義
 :END:
 
 **** textual witnesses
@@ -2858,9 +2858,10 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 道川頌並著
+***** 道川
 :PROPERTIES:
-:FUNCTION: 語
+:FUNCTION: 頌
+:FUNCTION: 著語
 :END:
 
 **** textual witnesses
@@ -3008,8 +3009,13 @@
 :END:
 **** extent: 9卷
 **** responsible: 
+***** 宗鏡
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 覺連重
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 集
 :END:
 
@@ -3058,6 +3064,10 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 韓巖集解　程衷懋補
+:PROPERTIES:
+:FUNCTION: 註
+:END:
 ***** 韓巖集解　程衷懋補
 :PROPERTIES:
 :FUNCTION: 註
