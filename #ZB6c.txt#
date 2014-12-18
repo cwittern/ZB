@@ -1303,7 +1303,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 曇摩蜱共竺佛念
+***** 曇摩蜱
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 竺佛念
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1524,13 +1528,17 @@
 :CBETA_ID:  T25n1516
 :CUSTOM_ID: ZB6c0016
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1516
-:DYNASTY: 勝德赤衣菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 法護等
+***** 勝德赤衣菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 法護
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
