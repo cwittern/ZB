@@ -2706,11 +2706,11 @@
 **** responsible: 
 ***** 宗泐
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 同註
 :END:
 ***** 如󰃗
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 同註
 :END:
 
 **** textual witnesses
@@ -3118,9 +3118,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 曾鳳儀宗
+***** 曾鳳儀
 :PROPERTIES:
-:FUNCTION: 通
+:FUNCTION: 宗通
 :END:
 
 **** textual witnesses
@@ -3268,9 +3268,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 大韻筆
+***** 大韻
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 筆記
 :END:
 
 **** textual witnesses
@@ -3318,9 +3318,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭造
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 論
+:FUNCTION: 造論
 :END:
 
 **** textual witnesses
@@ -3418,9 +3418,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓杲解
+***** 圓杲
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 解註
 :END:
 
 **** textual witnesses
@@ -3468,9 +3468,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 無是道人註
+***** 無是道人
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -3543,9 +3543,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐發詮
+***** 徐發
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 詮次
 :END:
 
 **** textual witnesses
@@ -3568,9 +3568,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仲之屏彙
+***** 仲之屏
 :PROPERTIES:
-:FUNCTION: 纂
+:FUNCTION: 彙纂
 :END:
 
 **** textual witnesses
@@ -3593,9 +3593,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 翁春．王錫琯解
+***** 翁春
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 解釋
+:END:
+***** 王錫琯
+:PROPERTIES:
+:FUNCTION: 解釋
 :END:
 
 **** textual witnesses
@@ -3618,9 +3622,19 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 大璸科
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 疏
+:END:
+***** 子璿
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 記
+:END:
+***** 大璸
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 科會
 :END:
 
 **** textual witnesses
@@ -3643,9 +3657,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行策會
+***** 行策
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 會編
 :END:
 
 **** textual witnesses
@@ -3693,9 +3707,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 溥仁乩書　子真乩
+***** 溥仁
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 乩書
+:END:
+***** 子真
+:PROPERTIES:
+:FUNCTION: 乩訂
 :END:
 
 **** textual witnesses
@@ -3768,9 +3786,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 石成金撰
+***** 石成金
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 撰集
 :END:
 
 **** textual witnesses
@@ -3918,9 +3936,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 孚佑帝君註
+***** 孚佑帝君
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -4043,9 +4061,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 存吾闡
+***** 存吾
 :PROPERTIES:
-:FUNCTION: 說
+:FUNCTION: 闡說
 :END:
 
 **** textual witnesses
@@ -4093,9 +4111,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 謝承謨註
+***** 謝承謨
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 註釋
 :END:
 
 **** textual witnesses
@@ -4908,9 +4926,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 般若共利言等
+***** 般若
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 利言
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -5188,9 +5210,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 宗泐．如󰃗同
+***** 宗泐
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 同註
+:END:
+***** 如󰃗
+:PROPERTIES:
+:FUNCTION: 同註
 :END:
 
 **** textual witnesses
@@ -5263,9 +5289,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 守千添
+***** 守千
 :PROPERTIES:
-:FUNCTION: 改
+:FUNCTION: 添改
 :END:
 
 **** textual witnesses
@@ -5413,8 +5439,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 疏
+:END:
 ***** 仲希
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 說
 :END:
 
@@ -5438,9 +5469,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 錢謙益
+***** 錢謙
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 益集
 :END:
 
 **** textual witnesses

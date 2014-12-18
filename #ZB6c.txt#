@@ -5289,9 +5289,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 守千添
+***** 守千
 :PROPERTIES:
-:FUNCTION: 改
+:FUNCTION: 添改
 :END:
 
 **** textual witnesses
@@ -5439,8 +5439,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 疏
+:END:
 ***** 仲希
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 說
 :END:
 
