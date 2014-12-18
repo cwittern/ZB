@@ -154,7 +154,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 闍那崛多共笈多
+***** 闍那崛多
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 笈多
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -200,11 +204,10 @@
 :CBETA_ID:  T09n0265
 :CUSTOM_ID: ZB6d0004
 :SOURCE: Taisho Tripitaka Vol. 09, No. 0265
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -401,7 +404,7 @@
 **** responsible: 
 ***** 有嚴
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 注
 :END:
 
 **** textual witnesses
@@ -739,9 +742,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 道霈纂
+***** 道霈
 :PROPERTIES:
-:FUNCTION: 要
+:FUNCTION: 纂要
 :END:
 
 **** textual witnesses
@@ -984,9 +987,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 崇俊撰　法清集
+***** 崇俊
 :PROPERTIES:
-:FUNCTION: 疏
+:FUNCTION: 撰
+:END:
+***** 法清
+:PROPERTIES:
+:FUNCTION: 集疏
 :END:
 
 **** textual witnesses
@@ -1074,7 +1081,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智顗說．灌頂
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -1129,7 +1140,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智顗說．灌頂
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -1229,8 +1244,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 知禮
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
 :END:
 
@@ -1289,8 +1309,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 知禮
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
 :END:
 
@@ -1539,9 +1564,9 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 道威入
+***** 道威
 :PROPERTIES:
-:FUNCTION: 注
+:FUNCTION: 入注
 :END:
 
 **** textual witnesses
@@ -1659,7 +1684,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 慧洪造　張商英
+***** 慧洪
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 張商英
 :PROPERTIES:
 :FUNCTION: 撰
 :END:
@@ -1709,8 +1738,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 守倫
+:PROPERTIES:
+:FUNCTION: 註
+:END:
 ***** 法濟參
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 訂
 :END:
 
@@ -1734,9 +1768,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 徐行善科
+***** 徐行善
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 科註
 :END:
 
 **** textual witnesses
@@ -1759,9 +1793,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 一如集
+***** 一如
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -1909,9 +1943,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓澄說　明海重
+***** 圓澄
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 說
+:END:
+***** 明海
+:PROPERTIES:
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -2034,9 +2072,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 際慶排
+***** 際慶
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 排錄
 :END:
 
 **** textual witnesses
@@ -2111,7 +2149,7 @@
 **** responsible: 
 ***** 智祥
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 識
 :END:
 
 **** textual witnesses
@@ -2184,9 +2222,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 廣和標
+***** 廣和
 :PROPERTIES:
-:FUNCTION: 科
+:FUNCTION: 標科
 :END:
 
 **** textual witnesses
@@ -2209,9 +2247,13 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 一松講錄　廣和編
+***** 一松
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 講錄
+:END:
+***** 廣和
+:PROPERTIES:
+:FUNCTION: 編定
 :END:
 
 **** textual witnesses
@@ -2234,9 +2276,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 佛閑立科　智一拾
+***** 佛閑
 :PROPERTIES:
-:FUNCTION: 遺
+:FUNCTION: 立科
+:END:
+***** 智一
+:PROPERTIES:
+:FUNCTION: 拾遺
 :END:
 
 **** textual witnesses
@@ -2259,9 +2305,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 佛閑立科　智一重
+***** 佛閑
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 立科
+:END:
+***** 智一
+:PROPERTIES:
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -2284,9 +2334,13 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 佛閑立科　智一拾
+***** 佛閑
 :PROPERTIES:
-:FUNCTION: 遺
+:FUNCTION: 立科
+:END:
+***** 智一
+:PROPERTIES:
+:FUNCTION: 拾遺
 :END:
 
 **** textual witnesses
@@ -2605,11 +2659,10 @@
 :CBETA_ID:  T09n0267
 :CUSTOM_ID: ZB6d0093
 :SOURCE: Taisho Tripitaka Vol. 09, No. 0267
-:DYNASTY: 失譯
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2950,11 +3003,10 @@
 :CBETA_ID:  T09n0273
 :CUSTOM_ID: ZB6d0099
 :SOURCE: Taisho Tripitaka Vol. 09, No. 0273
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3324,9 +3376,18 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 亮潤分
+***** 本如
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 述
+:END:
+***** 處咸
+:PROPERTIES:
+:FUNCTION: 續解
+:END:
+***** 亮潤
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -3369,9 +3430,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 周上智錄
+***** 周上智
 :PROPERTIES:
-:FUNCTION: 出
+:FUNCTION: 錄出
 :END:
 
 **** textual witnesses
