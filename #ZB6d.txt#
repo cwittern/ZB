@@ -404,7 +404,7 @@
 **** responsible: 
 ***** 有嚴
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 注
 :END:
 
 **** textual witnesses
@@ -742,9 +742,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 道霈纂
+***** 道霈
 :PROPERTIES:
-:FUNCTION: 要
+:FUNCTION: 纂要
 :END:
 
 **** textual witnesses
@@ -987,9 +987,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 崇俊撰　法清集
+***** 崇俊
 :PROPERTIES:
-:FUNCTION: 疏
+:FUNCTION: 撰
+:END:
+***** 法清
+:PROPERTIES:
+:FUNCTION: 集疏
 :END:
 
 **** textual witnesses
@@ -1077,7 +1081,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智顗說．灌頂
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -1132,7 +1140,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智顗說．灌頂
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
 :END:
