@@ -2267,10 +2267,14 @@
 :CBETA_ID:  T25n1511
 :CUSTOM_ID: ZB6c0032
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1511
-:DYNASTY: 天親菩薩造
+:DYNASTY: 元魏
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 菩提流支
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2317,10 +2321,18 @@
 :CBETA_ID:  T25n1512
 :CUSTOM_ID: ZB6c0033
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1512
-:DYNASTY: 世親菩薩造
+:DYNASTY: 元魏
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
+***** 金剛仙論師
+:PROPERTIES:
+:FUNCTION: 釋
+:END:
 ***** 菩提流支
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2362,10 +2374,18 @@
 :CBETA_ID:  T25n1513
 :CUSTOM_ID: ZB6c0034
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1513
-:DYNASTY: 無著菩薩造頌
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:FUNCTION: 造頌
+:END:
+***** 世親菩薩
+:PROPERTIES:
+:FUNCTION: 釋
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2407,10 +2427,14 @@
 :CBETA_ID:  T25n1514
 :CUSTOM_ID: ZB6c0035
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1514
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2452,13 +2476,17 @@
 :CBETA_ID:  T25n1515
 :CUSTOM_ID: ZB6c0036
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1515
-:DYNASTY: 功德施菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 地婆訶羅等
+***** 功德施菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 地婆訶羅
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
