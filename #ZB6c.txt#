@@ -3707,9 +3707,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 溥仁乩書　子真乩
+***** 溥仁
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 乩書
+:END:
+***** 子真
+:PROPERTIES:
+:FUNCTION: 乩訂
 :END:
 
 **** textual witnesses
@@ -3782,9 +3786,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 石成金撰
+***** 石成金
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 撰集
 :END:
 
 **** textual witnesses
@@ -3932,9 +3936,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 孚佑帝君註
+***** 孚佑帝君
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -4057,9 +4061,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 存吾闡
+***** 存吾
 :PROPERTIES:
-:FUNCTION: 說
+:FUNCTION: 闡說
 :END:
 
 **** textual witnesses
@@ -4107,9 +4111,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 謝承謨註
+***** 謝承謨
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 註釋
 :END:
 
 **** textual witnesses
