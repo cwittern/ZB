@@ -6263,9 +6263,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仲之屏纂
+***** 仲之屏
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 纂註
 :END:
 
 **** textual witnesses
@@ -6388,9 +6388,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 王澤泩註
+***** 王澤泩
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -6413,9 +6413,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐槐廷解
+***** 徐槐廷
 :PROPERTIES:
-:FUNCTION: 義
+:FUNCTION: 解義
 :END:
 
 **** textual witnesses
@@ -6463,9 +6463,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 謝承謨註
+***** 謝承謨
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 註釋
 :END:
 
 **** textual witnesses
@@ -6488,9 +6488,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 大顛祖師註
+***** 大顛祖師
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -6558,9 +6558,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 孚佑帝君註
+***** 孚佑帝君
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
@@ -6609,7 +6609,7 @@
 :CBETA_ID:  T08n0245
 :CUSTOM_ID: ZB6c0193
 :SOURCE: Taisho Tripitaka Vol. 08, No. 245
-:DYNASTY: 後秦
+:DYNASTY: 姚秦
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -6718,6 +6718,10 @@
 :END:
 **** extent: 5卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
