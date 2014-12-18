@@ -1572,13 +1572,21 @@
 :CBETA_ID:  T25n1517
 :CUSTOM_ID: ZB6c0017
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1517
-:DYNASTY: 三寶尊菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 施護等
+***** 三寶尊菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 大域龍菩薩
+:PROPERTIES:
+:FUNCTION: 造本論
+:END:
+***** 施護
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1612,13 +1620,17 @@
 :CBETA_ID:  T25n1518
 :CUSTOM_ID: ZB6c0018
 :SOURCE: Taisho Tripitaka Vol. 25, No. 1518
-:DYNASTY: 大域龍菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 大域龍菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 施護
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1877,7 +1889,7 @@
 :CBETA_ID:  T08n0235
 :CUSTOM_ID: ZB6c0023
 :SOURCE: Taisho Tripitaka Vol. 08, No. 235
-:DYNASTY: 後秦
+:DYNASTY: 姚秦
 :END:
 **** extent: 1卷
 **** responsible: 
