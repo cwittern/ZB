@@ -4763,9 +4763,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蒙潤排
+***** 蒙潤
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 排定
 :END:
 
 **** textual witnesses
@@ -4893,8 +4893,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 明曠
+:PROPERTIES:
+:FUNCTION: 記
+:END:
 ***** 辯才
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 會
 :END:
 
@@ -5013,8 +5018,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 時擧
+:PROPERTIES:
+:FUNCTION: 釋
+:END:
 ***** 海眼
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 會
 :END:
 
