@@ -92,8 +92,9 @@
 
 [[dzimg:0016/0016-004.tif][HFL 0016 004]]
 **** responsible:
-***** 文昌帝君(att)
+***** 文昌帝君
       :PROPERTIES:
+      :CERT: att
       :END:
 **** textual witnesses
 ***** SJB
@@ -3999,7 +4000,8 @@
 :ZHDZ: ZHDZ30p0507
 :XWDZ: XWDZ06p0529
 :HFL: HFL劍上130
-:DATE: 12th cent 前半
+:DATE:     12th cent 前半
+:YEAR: 1125
 :END:
 
 [[dzimg:0104/0104-130.tif][HFL 0104 130]]
@@ -4070,7 +4072,7 @@
 **** responsible:
 ***** 張果老(att)
       :PROPERTIES:
-      :END:
+      :END:      
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -7485,8 +7487,9 @@
 
 [[dzimg:0189/0189-004.tif][HFL 0189 004]]
 **** responsible:
-***** (呂)洞陽子
+***** 洞陽子
       :PROPERTIES:
+      :ALIAS: 呂洞陽子
       :END:
 ***** 周準
       :PROPERTIES:
@@ -16558,17 +16561,17 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** responsible:
 ***** 張道陵(att)
       :PROPERTIES:
-      :FUNCTION: juan1#
+      :FUNCTION: 撰 (juan1#)
       :DATES:    2nd cent
       :END:
 ***** 陰長生(att)
       :PROPERTIES:
-      :FUNCTION: juan2#
+      :FUNCTION: 撰 (juan2#)
       :DATES:    1st cent
       :END:
 ***** 葛洪
       :PROPERTIES:
-      :FUNCTION: juan3#
+      :FUNCTION: 撰 (juan3#)
       :DATES:    283 - 343
       :END:
 **** textual witnesses
