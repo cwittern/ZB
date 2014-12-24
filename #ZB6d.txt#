@@ -5981,9 +5981,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 
+***** 源信
 :PROPERTIES:
-:FUNCTION: 答
+:FUNCTION: 疑問
+:END:
+***** 知禮
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 決答
 :END:
 
 **** textual witnesses
@@ -6131,9 +6136,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 遵式述　慧觀重
+***** 遵式
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 述
+:END:
+***** 慧觀
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -6156,9 +6165,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 遵式述　慧觀重
+***** 遵式
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 述
+:END:
+***** 慧觀
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -6231,9 +6244,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 真覺略
+***** 真覺
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 略解
+:END:
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 較
 :END:
 
 **** textual witnesses
@@ -6281,7 +6298,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 可觀述　智增
+***** 可觀
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 智增
 :PROPERTIES:
 :FUNCTION: 證
 :END:
