@@ -913,7 +913,6 @@
 :CBETA_ID:  T85n2755
 :CUSTOM_ID: ZB6e0025
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2755
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2148,11 +2147,10 @@
 :CBETA_ID:  T10n0302
 :CUSTOM_ID: ZB6e0048
 :SOURCE: Taisho Tripitaka Vol. 10, No. 302
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2397,9 +2395,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 提雲般若等
+***** 提雲般若
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
