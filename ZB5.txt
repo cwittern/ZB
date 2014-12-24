@@ -94,7 +94,7 @@
 **** responsible:
 ***** 文昌帝君
       :PROPERTIES:
-      :CERT: att
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -215,9 +215,10 @@
 
 [[dzimg:0023/0023-084.tif][HFL 0023 084]]
 **** responsible:
-***** 張良(att)
+***** 張良
       :PROPERTIES:
-      :DATES: d. -187
+      :CERT:     att
+      :DATES:    d. -187
       :END:
 **** textual witnesses
 ***** SJB
@@ -2199,10 +2200,11 @@
 
 [[dzimg:0058/0058-022.tif][HFL 0058 022]]
 **** responsible:
-***** 鄒訢(att)
-#朱熹の別名?
+***** 鄒訢
       :PROPERTIES:
-      :DATES: 1130 - 1200
+      :CERT:     att
+      :ALIAS:    朱熹#
+      :DATES:    1130 - 1200
       :END:
 **** textual witnesses
 ***** SJB
@@ -2428,8 +2430,9 @@
 
 [[dzimg:0060/0060-040.tif][HFL 0060 040]]
 **** responsible:
-***** 呂喦(att)
+***** 呂喦
       :PROPERTIES:
+      :CERT:     att
       :HAO:      純陽真人
       :END:
 ***** 俞琰
@@ -2508,10 +2511,11 @@
 
 [[dzimg:0060/0060-100.tif][HFL 0060 100]]
 **** responsible:
-***** 陶弘景(att)
-     :PROPERTIES:
-     :DATES:    456 - 536
-     :END:
+***** 陶弘景
+      :PROPERTIES:
+      :CERT:     att
+      :DATES:    456 - 536
+      :END:
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
@@ -2713,8 +2717,9 @@
 
 [[dzimg:0067/0067-004.tif][HFL 0067 004]]
 **** responsible:
-***** 徽宗(att)
+***** 徽宗
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  宋
       :FUNCTION: 序
       :DATES:    r. 1100 - 1125
@@ -3068,8 +3073,9 @@
 
 [[dzimg:0073/0073-046.tif][HFL 0073 046]]
 **** responsible:
-***** 葛洪(att)
+***** 葛洪
       :PROPERTIES:
+      :CERT:     att
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -4070,8 +4076,9 @@
 
 [[dzimg:0112/0112-004.tif][HFL 0112 004]]
 **** responsible:
-***** 張果老(att)
+***** 張果老
       :PROPERTIES:
+      :CERT:     att
       :END:      
 **** textual witnesses
 ***** SJB
@@ -4090,8 +4097,9 @@
 
 [[dzimg:0112/0112-022.tif][HFL 0112 022]]
 **** responsible:
-***** 陰長生(att)
+***** 陰長生
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -4111,12 +4119,14 @@
 
 [[dzimg:0112/0112-040.tif][HFL 0112 040]]
 **** responsible:
-***** 葉法善(att)
+***** 葉法善
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 注
       :END:
-***** 羅公遠(att)
+***** 羅公遠
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -4337,8 +4347,9 @@
 ***** 元陽子
       :PROPERTIES:
       :END:
-***** 張果(att)
+***** 張果
       :PROPERTIES:
+      :CERT:     att
       :HAO:      通玄先生
       :FUNCTION: 注
       :DATES:    d. ca. 742
@@ -4381,8 +4392,9 @@
 
 [[dzimg:0114/0114-102.tif][HFL 0114 102]]
 **** responsible:
-***** 楊明真(att)
+***** 楊明真
       :PROPERTIES:
+      :CERT:     att
       :HAO:      碧虛子
       :DATES:    1150 - 1228
       :END:
@@ -4450,8 +4462,9 @@
 
 [[dzimg:0115/0115-004.tif][HFL 0115 004]]
 **** responsible:
-***** 丘處機(att)
+***** 丘處機
       :PROPERTIES:
+      :CERT:     att
       :HAO:      長春
       :END:
 **** textual witnesses
@@ -4492,8 +4505,9 @@
 
 [[dzimg:0116/0116-004.tif][HFL 0116 004]]
 **** responsible:
-***** 施肩吾(att)
+***** 施肩吾
       :PROPERTIES:
+      :CERT:     att
       :HAO:      希聖
       :HAO:      清虛洞天華陽真人
       :DATES:    fl. 820
@@ -4761,8 +4775,9 @@
 
 [[dzimg:0121/0121-004.tif][HFL 0121 004]]
 **** responsible:
-***** 陶植(att)
+***** 陶植
       :PROPERTIES:
+      :CERT:     att
       :DATES:    d. 825
       :END:
 **** textual witnesses
@@ -4860,8 +4875,9 @@
 
 [[dzimg:0123/0123-004.tif][HFL 0123 004]]
 **** responsible:
-***** 蕭廷(挺)芝
+***** 蕭廷芝
       :PROPERTIES:
+      :ALIAS:    蕭挺芝
       :ZI:       元瑞
       :HAO:      了真子
       :DATES:    fl. 1260
@@ -4883,8 +4899,9 @@
 
 [[dzimg:0124/0124-004.tif][HFL 0124 004]]
 **** responsible:
-***** 鍾離權(att)
+***** 鍾離權
       :PROPERTIES:
+      :CERT:     att
       :END:
 ***** 呂喦
       :PROPERTIES:
@@ -5206,8 +5223,9 @@
 
 [[dzimg:0133/0133-004.tif][HFL 0133 004]]
 **** responsible:
-***** 鍾離權(att)
+***** 鍾離權
       :PROPERTIES:
+      :CERT:     att
       :HAO:      正陽真人
       :END:
 **** textual witnesses
@@ -5655,8 +5673,9 @@
 
 [[dzimg:0138/0138-004.tif][HFL 0138 004]]
 **** responsible:
-***** 劉向(att)
+***** 劉向
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -77 - -6
       :END:
 **** textual witnesses
@@ -5726,8 +5745,9 @@
 
 [[dzimg:0149/0149-004.tif][HFL 0149 004]]
 **** responsible:
-***** 趙道一(att)
+***** 趙道一
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -7289,12 +7309,14 @@
 
 [[dzimg:0184/0184-004.tif][HFL 0184 004]]
 **** responsible:
-***** 陸修靜(att)
+***** 陸修靜
       :PROPERTIES:
+      :CERT:     att
       :DATES:    406 - 477
       :END:
-***** 杜光庭(att)
+***** 杜光庭
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 序
       :DATES:    850 - 933
       :END:
@@ -7489,7 +7511,7 @@
 **** responsible:
 ***** 洞陽子
       :PROPERTIES:
-      :ALIAS: 呂洞陽子
+      :ALIAS:    呂洞陽子
       :END:
 ***** 周準
       :PROPERTIES:
@@ -7849,8 +7871,9 @@
 
 [[dzimg:0192/0192-164.tif][HFL 0192 164]]
 **** responsible:
-***** 京里先生(att)
+***** 京里先生
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -8033,8 +8056,9 @@
 
 [[dzimg:0196/0196-032.tif][HFL 0196 032]]
 **** responsible:
-***** 司馬丞禎(att)
+***** 司馬丞禎
       :PROPERTIES:
+      :CERT:     att
       :DATES:    647 - 735
       :END:
 **** textual witnesses
@@ -8120,8 +8144,9 @@
 
 [[dzimg:0196/0196-158.tif][HFL 0196 158]]
 **** responsible:
-***** 明皇(att)
+***** 明皇
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  唐
       :FUNCTION: 序
       :DATES:    r. 712 - 756
@@ -8203,8 +8228,9 @@
 
 [[dzimg:0197/0197-158.tif][HFL 0197 158]]
 **** responsible:
-***** 東方朔(att)
+***** 東方朔
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -145 - -93
       :END:
 **** textual witnesses
@@ -8257,8 +8283,9 @@
 
 [[dzimg:0198/0198-042.tif][HFL 0198 042]]
 **** responsible:
-***** 劉處靜(att)
+***** 劉處靜
       :PROPERTIES:
+      :CERT:     att
       :HAO:      廣成先生
       :END:
 **** textual witnesses
@@ -8663,8 +8690,9 @@
       :FUNCTION: 傳
       :DATES:    1101 - 1181
       :END:
-***** 林靈真(att)
+***** 林靈真
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 編
       :DATES:    1239 - 1302
       :END:
@@ -9043,8 +9071,9 @@
 
 [[dzimg:0266/0266-104.tif][HFL 0266 104]]
 **** responsible:
-***** 杜光庭(att)
+***** 杜光庭
       :PROPERTIES:
+      :CERT:     att
       :DATES:    850 - 933
       :END:
 **** textual witnesses
@@ -9893,8 +9922,9 @@
 
 [[dzimg:0293/0293-158.tif][HFL 0293 158]]
 **** responsible:
-***** 陸修靜(att)
+***** 陸修靜
       :PROPERTIES:
+      :CERT:     att
       :DATES:    406 - 477
       :END:
 **** textual witnesses
@@ -10211,8 +10241,9 @@
 
 [[dzimg:0297/0297-004.tif][HFL 0297 004]]
 **** responsible:
-***** 葛玄(att)
+***** 葛玄
       :PROPERTIES:
+      :CERT:     att
       :END:
 ***** 李含光
       :PROPERTIES:
@@ -10598,8 +10629,10 @@
 
 [[dzimg:0317/0317-110.tif][HFL 0317 110]]
 **** responsible:
-***** 許旌陽(許遜)(att)
+***** 許旌陽
       :PROPERTIES:
+      :CERT:     att
+      :ALIAS:    許遜
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -10618,8 +10651,10 @@
 
 [[dzimg:0317/0317-124.tif][HFL 0317 124]]
 **** responsible:
-***** 許旌陽(許遜)(att)
+***** 許旌陽
       :PROPERTIES:
+      :CERT:     att
+      :ALIAS:    許遜
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -10717,8 +10752,9 @@
 
 [[dzimg:0320/0320-004.tif][HFL 0320 004]]
 **** responsible:
-***** 許遜(att)
+***** 許遜
       :PROPERTIES:
+      :CERT:     att
       :ZI:       旌陽
       :END:
 **** textual witnesses
@@ -11058,8 +11094,9 @@
 
 [[dzimg:0324/0324-094.tif][HFL 0324 094]]
 **** responsible:
-***** 陶弘景(att)
+***** 陶弘景
       :PROPERTIES:
+      :CERT:     att
       :DATES:    456 - 536
       :END:
 **** textual witnesses
@@ -11597,8 +11634,9 @@
 
 [[dzimg:0340/0340-130.tif][HFL 0340 130]]
 **** responsible:
-***** 周方文(att)
+***** 周方文
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -12325,8 +12363,9 @@
 
 [[dzimg:0346/0346-004.tif][HFL 0346 004]]
 **** responsible:
-***** 老子(att)
+***** 老子
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -6th cent
       :END:
 **** textual witnesses
@@ -12404,8 +12443,9 @@
 
 [[dzimg:0348/0348-004.tif][HFL 0348 004]]
 **** responsible:
-***** 列禦寇(att)
+***** 列禦寇
       :PROPERTIES:
+      :CERT:     att
       :DATES:    4th cent 初期
       :END:
 **** textual witnesses
@@ -12424,8 +12464,9 @@
 
 [[dzimg:0349/0349-004.tif][HFL 0349 004]]
 **** responsible:
-***** 庚桑楚(att)
+***** 庚桑楚
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -12443,8 +12484,9 @@
 
 [[dzimg:0349/0349-066.tif][HFL 0349 066]]
 **** responsible:
-***** 莊周(att)
+***** 莊周
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -4th cent 後半
       :END:
 **** textual witnesses
@@ -12513,8 +12555,9 @@
 
 [[dzimg:0353/0353-122.tif][HFL 0353 122]]
 **** responsible:
-***** 金明七真(att)
+***** 金明七真
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -12570,8 +12613,9 @@
 
 [[dzimg:0355/0355-004.tif][HFL 0355 004]]
 **** responsible:
-***** 玄宗(att)
+***** 玄宗
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  唐
       :END:
 **** textual witnesses
@@ -12590,8 +12634,9 @@
 
 [[dzimg:0356/0356-004.tif][HFL 0356 004]]
 **** responsible:
-***** 玄宗(att)
+***** 玄宗
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  唐
       :DATES:    r. 712 - 756
       :END:
@@ -12625,8 +12670,9 @@
 
 [[dzimg:0358/0358-014.tif][HFL 0358 014]]
 **** responsible:
-***** 玄宗(att)
+***** 玄宗
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  唐
       :DATES:    r. 712 - 756
       :END:
@@ -12689,8 +12735,9 @@
 
 [[dzimg:0363/0363-004.tif][HFL 0363 004]]
 **** responsible:
-***** 河上公(att)
+***** 河上公
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -12917,12 +12964,14 @@
 
 [[dzimg:0376/0376-118.tif][HFL 0376 118]]
 **** responsible:
-***** 嚴遵(att)
+***** 嚴遵
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -59 - -24
       :END:
-***** 谷神子(att)
+***** 谷神子
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 補注
       :END:
 **** textual witnesses
@@ -12981,8 +13030,9 @@
 
 [[dzimg:0385/0385-004.tif][HFL 0385 004]]
 **** responsible:
-***** 時雍(att)
+***** 時雍
       :PROPERTIES:
+      :CERT:     att
       :HAO:      逍遙
       :END:
 **** textual witnesses
@@ -13314,8 +13364,9 @@
 
 [[dzimg:0404/0404-004.tif][HFL 0404 004]]
 **** responsible:
-***** 顧歡(att)
+***** 顧歡
       :PROPERTIES:
+      :CERT:     att
       :DATES:    420 - 483
       :END:
 **** textual witnesses
@@ -14127,8 +14178,9 @@
 
 [[dzimg:0522/0522-024.tif][HFL 0522 024]]
 **** responsible:
-***** 何璨(粲)
+***** 何璨
       :PROPERTIES:
+      :ALIAS:    何粲
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -14389,8 +14441,9 @@
 
 [[dzimg:0533/0533-052.tif][HFL 0533 052]]
 **** responsible:
-***** 杜光庭(att)
+***** 杜光庭
       :PROPERTIES:
+      :CERT:     att
       :HAO:      廣成先生
       :DATES:    850 - 933
       :END:
@@ -15490,8 +15543,9 @@
 
 [[dzimg:0568/0568-004.tif][HFL 0568 004]]
 **** responsible:
-***** 九仙君(att)
+***** 九仙君
       :PROPERTIES:
+      :CERT:     att
       :END:
 ***** 中黃真人
       :PROPERTIES:
@@ -15777,8 +15831,9 @@
 
 [[dzimg:0571/0571-084.tif][HFL 0571 084]]
 **** responsible:
-***** 孫思邈(att)
+***** 孫思邈
       :PROPERTIES:
+      :CERT:     att
       :DATES:    581? - 682
       :END:
 **** textual witnesses
@@ -15797,8 +15852,9 @@
 
 [[dzimg:0571/0571-090.tif][HFL 0571 090]]
 **** responsible:
-***** 孫思邈(att)
+***** 孫思邈
       :PROPERTIES:
+      :CERT:     att
       :DATES:    581? - 682?
       :END:
 **** textual witnesses
@@ -15852,8 +15908,9 @@
 
 [[dzimg:0572/0572-058.tif][HFL 0572 058]]
 **** responsible:
-***** 陶弘景(att)
+***** 陶弘景
       :PROPERTIES:
+      :CERT:     att
       :DATES:    456 - 536
       :END:
 **** textual witnesses
@@ -15904,8 +15961,9 @@
 
 [[dzimg:0572/0572-156.tif][HFL 0572 156]]
 **** responsible:
-***** 孫思邈(att)
+***** 孫思邈
       :PROPERTIES:
+      :CERT:     att
       :DATES:    581? - 682
       :END:
 **** textual witnesses
@@ -16326,8 +16384,9 @@
 
 [[dzimg:0578/0578-132.tif][HFL 0578 132]]
 **** responsible:
-***** 李靖(att)
+***** 李靖
       :PROPERTIES:
+      :CERT:     att
       :DATES:    571 - 649
       :END:
 **** textual witnesses
@@ -16559,13 +16618,15 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0582/0582-004.tif][HFL 0582 004]]
 **** responsible:
-***** 張道陵(att)
+***** 張道陵
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 撰 (juan1#)
       :DATES:    2nd cent
       :END:
-***** 陰長生(att)
+***** 陰長生
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 撰 (juan2#)
       :DATES:    1st cent
       :END:
@@ -16912,8 +16973,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0588/0588-004.tif][HFL 0588 004]]
 **** responsible:
-***** 魏伯陽(att)
+***** 魏伯陽
       :PROPERTIES:
+      :CERT:     att
       :HAO:      太素真人
       :END:
 **** textual witnesses
@@ -17011,8 +17073,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0588/0588-116.tif][HFL 0588 116]]
 **** responsible:
-***** 陰長生(att)
+***** 陰長生
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 序
       :FUNCTION: 注
       :END:
@@ -17032,8 +17095,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0589/0589-026.tif][HFL 0589 026]]
 **** responsible:
-***** 魏伯陽(att)
+***** 魏伯陽
       :PROPERTIES:
+      :CERT:     att
       :END:
 ***** 盧天驥
       :PROPERTIES:
@@ -17057,9 +17121,10 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0589/0589-038.tif][HFL 0589 038]]
 **** responsible:
-***** 陰長生(att)
+***** 陰長生
       :PROPERTIES:
-      :DATES: 漢以前
+      :CERT:     att
+      :DATES:    漢以前
       :END:
 **** textual witnesses
 ***** SJB
@@ -17094,8 +17159,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0589/0589-142.tif][HFL 0589 142]]
 **** responsible:
-***** 赤松子(att)
+***** 赤松子
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -17280,8 +17346,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0593/0593-004.tif][HFL 0593 004]]
 **** responsible:
-***** 黃玄鍾(att)
+***** 黃玄鍾
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -17300,8 +17367,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0593/0593-118.tif][HFL 0593 118]]
 **** responsible:
-***** 葛洪(att)
+***** 葛洪
       :PROPERTIES:
+      :CERT:     att
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -17399,8 +17467,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0596/0596-062.tif][HFL 0596 062]]
 **** responsible:
-***** 陶埴(植)
+***** 陶埴
       :PROPERTIES:
+      :ALIAS:    陶植
       :DATES:    d. 825
       :END:
 **** textual witnesses
@@ -17420,8 +17489,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0596/0596-080.tif][HFL 0596 080]]
 **** responsible:
-***** 金竹坡(att)
+***** 金竹坡
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -17440,8 +17510,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0596/0596-098.tif][HFL 0596 098]]
 **** responsible:
-***** 鄭隱(att)
+***** 鄭隱
       :PROPERTIES:
+      :CERT:     att
       :ZI:       鄭思遠
       :END:
 **** textual witnesses
@@ -17715,8 +17786,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0598/0598-102.tif][HFL 0598 102]]
 **** responsible:
-***** 葛洪(att)
+***** 葛洪
       :PROPERTIES:
+      :CERT:     att
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -17863,8 +17935,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
       :FUNCTION: 編
       :DATES:    fl. 1234
       :END:
-***** 劉景先(att)
+***** 劉景先
       :PROPERTIES:
+      :CERT:     att
       :DATES:    fl. 351
       :END:
 **** textual witnesses
@@ -17916,8 +17989,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0601/0601-004.tif][HFL 0601 004]]
 **** responsible:
-***** 許遜(att)
+***** 許遜
       :PROPERTIES:
+      :CERT:     att
       :ZI:       旌陽
       :END:
 **** textual witnesses
@@ -18394,8 +18468,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0614/0614-026.tif][HFL 0614 026]]
 **** responsible:
-***** 張衡(att)
+***** 張衡
       :PROPERTIES:
+      :CERT:     att
       :ZI:       平子
       :DATES:    78 - 139
       :END:
@@ -18711,8 +18786,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0619/0619-084.tif][HFL 0619 084]]
 **** responsible:
-***** 李景元(att)
+***** 李景元
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -18844,8 +18920,9 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 
 [[dzimg:0623/0623-086.tif][HFL 0623 086]]
 **** responsible:
-***** 彭曉(程曉)
+***** 彭曉
       :PROPERTIES:
+      :ALIAS:    程曉
       :ZI:       秀川
       :HAO:      真一子
       :END:
@@ -19090,8 +19167,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0631/0631-004.tif][HFL 0631 004]]
 **** responsible:
-***** 李淳風(att)
+***** 李淳風
       :PROPERTIES:
+      :CERT:     att
       :DATES:    602 - 670
       :END:
 **** textual witnesses
@@ -19321,8 +19399,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0671/0671-004.tif][HFL 0671 004]]
 **** responsible:
-***** 鬼谷子(att)
+***** 鬼谷子
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -19500,8 +19579,9 @@ PROPERROR xx DZ1013 xx x 河圖
 :END:
 
 ***** responsible:
-****** 鄭雲子(att)
+****** 鄭雲子
       :PROPERTIES:
+      :CERT:     att
       :END:
 
 *** [[mandoku:ZB5d0051.org][ZB5d0051]] 至言總
@@ -19574,8 +19654,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0704/0704-070.tif][HFL 0704 070]]
 **** responsible:
-***** 司馬承禎(att)
+***** 司馬承禎
       :PROPERTIES:
+      :CERT:     att
       :DATES:    647 - 735
       :END:
 **** textual witnesses
@@ -19729,8 +19810,9 @@ PROPERROR xx DZ1013 xx x 河圖
 
 [[dzimg:0724/0724-018.tif][HFL 0724 018]]
 **** responsible:
-***** 覃峭(att)
+***** 覃峭
       :PROPERTIES:
+      :CERT:     att
       :ZI:       景昇
       :DATES:    fl. ca. 880 - 950
       :END:
@@ -20516,8 +20598,9 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0741/0741-050.tif][HFL 0741 050]]
 **** responsible:
-***** 張伯瑞(att)
+***** 張伯瑞
       :PROPERTIES:
+      :CERT:     att
       :DATES:    984 - 1082
       :END:
 ***** 黃自如
@@ -20565,8 +20648,9 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0741/0741-124.tif][HFL 0741 124]]
 **** responsible:
-***** 青霞子(att)
+***** 青霞子
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -21384,8 +21468,9 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 
 [[dzimg:0761/0761-086.tif][HFL 0761 086]]
 **** responsible:
-***** 太極太虛真人(赤松子)
+***** 太極太虛真人
       :PROPERTIES:
+      :ALIAS:    赤松子
       :END:
 **** textual witnesses
 ***** SJB
@@ -21777,7 +21862,8 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** responsible:
 ***** 尹志平
       :PROPERTIES:
-      :ZI:       大(太)和
+      :ZI:       大和
+      :ZI:       太和
       :HAO:      清和子
       :DATES:    1169 - 1251
       :END:
@@ -22289,8 +22375,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0840/0840-004.tif][HFL 0840 004]]
 **** responsible:
-***** 鬻熊(att)
+***** 鬻熊
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -11th cent(legendary date)
       :END:
 ***** 逢行珪
@@ -22340,8 +22427,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0840/0840-102.tif][HFL 0840 102]]
 **** responsible:
-***** 尹文(att)
+***** 尹文
       :PROPERTIES:
+      :CERT:     att
       :DATES:    -5th cent 後半
       :END:
 **** textual witnesses
@@ -22361,8 +22449,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0841/0841-004.tif][HFL 0841 004]]
 **** responsible:
-***** 程本(att)
+***** 程本
       :PROPERTIES:
+      :CERT:     att
       :DYNASTY:  春秋
       :ZI:       子華
       :END:
@@ -22575,8 +22664,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 
 [[dzimg:0863/0863-004.tif][HFL 0863 004]]
 **** responsible:
-***** 許愼(att)
+***** 許愼
       :PROPERTIES:
+      :CERT:     att
       :FUNCTION: 注
       :DATES:    d. 124
       :END:
@@ -22614,8 +22704,9 @@ PROPERROR xx DZ1162 xx x 孫真人備急千金要方目錄
 PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 [[dzimg:0870/0870-180.tif][HFL 0870 180]]
 **** responsible:
-***** 葛洪(att)
+***** 葛洪
       :PROPERTIES:
+      :CERT:     att
       :DATES:    283 - 343
       :END:
 **** textual witnesses
@@ -22708,8 +22799,9 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 
 [[dzimg:0874/0874-042.tif][HFL 0874 042]]
 **** responsible:
-***** 鍾離權(att)
+***** 鍾離權
       :PROPERTIES:
+      :CERT:     att
       :ZI:       雲房
       :HAO:      正陽真人
       :END:
@@ -23281,8 +23373,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:0976/0976-004.tif][HFL 0976 004]]
 **** responsible:
-***** 杜光庭(att)
+***** 杜光庭
       :PROPERTIES:
+      :CERT:     att
       :DATES:    850 - 933
       :END:
 ***** 仲勵
@@ -24734,8 +24827,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1012/1012-158.tif][HFL 1012 158]]
 **** responsible:
-***** 傅燁(煜)
+***** 傅燁
       :PROPERTIES:
+      :ALIAS:    傅煜
       :END:
 **** textual witnesses
 ***** SJB
@@ -24818,8 +24912,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1016/1016-176.tif][HFL 1016 176]]
 **** responsible:
-***** 白玉蟾(att)
+***** 白玉蟾
       :PROPERTIES:
+      :CERT:     att
       :DATES:    fl. 1194 - 1229
       :END:
 ***** 留元長
@@ -24844,8 +24939,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1017/1017-004.tif][HFL 1017 004]]
 **** responsible:
-***** 白玉蟾(att)
+***** 白玉蟾
       :PROPERTIES:
+      :CERT:     att
       :HAO:      海瓊子
       :END:
 **** textual witnesses
@@ -26123,8 +26219,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1045/1045-068.tif][HFL 1045 068]]
 **** responsible:
-***** 金明七真(att)
+***** 金明七真
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -26969,8 +27066,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1059/1059-110.tif][HFL 1059 110]]
 **** responsible:
-***** 張泮(att)
+***** 張泮
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -27553,7 +27651,8 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 ***** 查志隆
       :PROPERTIES:
       :ZI:       鳴治
-      :HAO:      紹庭(亭)
+      :HAO:      紹庭
+      :HAO:      紹亭
       :DATES:    進士 1558
       :END:
 **** textual witnesses
@@ -27659,8 +27758,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1107/1107-016.tif][HFL 1107 016]]
 **** responsible:
-***** 覃峭(att)
+***** 覃峭
       :PROPERTIES:
+      :CERT:     att
       :ZI:       景昇
       :DATES:    fl. ca. 880 - 950
       :END:
