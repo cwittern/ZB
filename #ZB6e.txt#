@@ -2601,10 +2601,14 @@
 :CBETA_ID:  T26n1521
 :CUSTOM_ID: ZB6e0056
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1521
-:DYNASTY: 聖者龍樹造
+:DYNASTY: 後秦
 :END:
 **** extent: 17卷
 **** responsible: 
+***** 聖者龍樹
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2651,13 +2655,17 @@
 :CBETA_ID:  T26n1522
 :CUSTOM_ID: ZB6e0057
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1522
-:DYNASTY: 天親菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 菩提流支等
+***** 天親菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 菩提流支
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2721,7 +2729,6 @@
 :CBETA_ID:  T85n2758
 :CUSTOM_ID: ZB6e0058
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2758
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
