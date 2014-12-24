@@ -5344,7 +5344,6 @@
 :CBETA_ID:  T46n1943
 :CUSTOM_ID: ZB6d0178
 :SOURCE: Taisho Tripitaka Vol. 46, No. 1943
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5359,7 +5358,6 @@
 :CBETA_ID:  T46n1944
 :CUSTOM_ID: ZB6d0179
 :SOURCE: Taisho Tripitaka Vol. 46, No. 1944
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5528,9 +5526,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 讀體重
+***** 知禮
 :PROPERTIES:
-:FUNCTION: 纂
+:FUNCTION: 始集
+:END:
+***** 讀體
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 重纂
 :END:
 
 **** textual witnesses
