@@ -2201,9 +2201,9 @@
 [[dzimg:0058/0058-022.tif][HFL 0058 022]]
 **** responsible:
 ***** 鄒訢
-#朱熹の別名?
       :PROPERTIES:
       :CERT:     att
+      :ALIAS:    朱熹#
       :DATES:    1130 - 1200
       :END:
 **** textual witnesses
@@ -4875,8 +4875,9 @@
 
 [[dzimg:0123/0123-004.tif][HFL 0123 004]]
 **** responsible:
-***** 蕭廷(挺)芝
+***** 蕭廷芝
       :PROPERTIES:
+      :ALIAS:    蕭挺芝
       :ZI:       元瑞
       :HAO:      了真子
       :DATES:    fl. 1260
@@ -10628,9 +10629,10 @@
 
 [[dzimg:0317/0317-110.tif][HFL 0317 110]]
 **** responsible:
-***** 許旌陽(許遜)
+***** 許旌陽
       :PROPERTIES:
       :CERT:     att
+      :ALIAS:    許遜
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -10649,9 +10651,10 @@
 
 [[dzimg:0317/0317-124.tif][HFL 0317 124]]
 **** responsible:
-***** 許旌陽(許遜)
+***** 許旌陽
       :PROPERTIES:
       :CERT:     att
+      :ALIAS:    許遜
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -14175,8 +14178,9 @@
 
 [[dzimg:0522/0522-024.tif][HFL 0522 024]]
 **** responsible:
-***** 何璨(粲)
+***** 何璨
       :PROPERTIES:
+      :ALIAS:    何粲
       :FUNCTION: 注
       :END:
 **** textual witnesses
@@ -26212,6 +26216,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** responsible:
 ***** 金明七真
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -27056,8 +27061,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1059/1059-110.tif][HFL 1059 110]]
 **** responsible:
-***** 張泮(att)
+***** 張泮
       :PROPERTIES:
+      :CERT:     att
       :END:
 **** textual witnesses
 ***** SJB
@@ -27746,8 +27752,9 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 
 [[dzimg:1107/1107-016.tif][HFL 1107 016]]
 **** responsible:
-***** 覃峭(att)
+***** 覃峭
       :PROPERTIES:
+      :CERT:     att
       :ZI:       景昇
       :DATES:    fl. ca. 880 - 950
       :END:
