@@ -2985,9 +2985,9 @@
 :PROPERTIES:
 :FUNCTION: 別行疏
 :END:
-***** 澄觀別行疏　宗密隨疏
+***** 宗密隨
 :PROPERTIES:
-:FUNCTION: 鈔
+:FUNCTION: 疏鈔
 :END:
 
 **** textual witnesses
@@ -3010,9 +3010,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 遵式治
+***** 遵式
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 治定
 :END:
 
 **** textual witnesses
@@ -3035,9 +3035,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 澄觀別行疏　宗密隨疏
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 鈔
+:FUNCTION: 別行疏
+:END:
+***** 宗密隨
+:PROPERTIES:
+:FUNCTION: 疏鈔
 :END:
 
 **** textual witnesses
@@ -3175,7 +3179,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 師會．善熹
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 善熹
 :PROPERTIES:
 :FUNCTION: 述
 :END:
@@ -3280,8 +3288,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 杜順
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 智儼
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 撰
 :END:
 
@@ -3447,7 +3460,7 @@
 **** responsible: 
 ***** 法藏
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
@@ -3565,9 +3578,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 淨源刊
+***** 淨源
 :PROPERTIES:
-:FUNCTION: 正
+:FUNCTION: 刊正
 :END:
 
 **** textual witnesses
@@ -3696,7 +3709,6 @@
 :CBETA_ID:  T45n1879b
 :CUSTOM_ID: ZB6e0093
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1879b
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3725,8 +3737,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 淨源
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
 :END:
 
@@ -3745,8 +3762,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 承遷
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 註
 :END:
 
@@ -3860,7 +3882,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本嵩述．琮湛
+***** 本嵩
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 琮湛
 :PROPERTIES:
 :FUNCTION: 註
 :END:

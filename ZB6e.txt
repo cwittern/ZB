@@ -240,7 +240,6 @@
 :CBETA_ID:  T85n2753
 :CUSTOM_ID: ZB6e0006
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2753
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -260,7 +259,6 @@
 :CBETA_ID:  T85n2754
 :CUSTOM_ID: ZB6e0007
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2754
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -599,9 +597,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 澄觀排
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 排定
 :END:
 
 **** textual witnesses
@@ -624,9 +622,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 澄觀撰
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -649,9 +647,14 @@
 :END:
 **** extent: 58卷
 **** responsible: 
-***** 淨源錄疏注
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 經
+:FUNCTION: 述
+:END:
+***** 淨源
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 錄疏注經
 :END:
 
 **** textual witnesses
@@ -910,7 +913,6 @@
 :CBETA_ID:  T85n2755
 :CUSTOM_ID: ZB6e0025
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2755
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2145,11 +2147,10 @@
 :CBETA_ID:  T10n0302
 :CUSTOM_ID: ZB6e0048
 :SOURCE: Taisho Tripitaka Vol. 10, No. 302
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2394,9 +2395,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 提雲般若等
+***** 提雲般若
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2600,10 +2601,14 @@
 :CBETA_ID:  T26n1521
 :CUSTOM_ID: ZB6e0056
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1521
-:DYNASTY: 聖者龍樹造
+:DYNASTY: 後秦
 :END:
 **** extent: 17卷
 **** responsible: 
+***** 聖者龍樹
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2650,13 +2655,17 @@
 :CBETA_ID:  T26n1522
 :CUSTOM_ID: ZB6e0057
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1522
-:DYNASTY: 天親菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 菩提流支等
+***** 天親菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 菩提流支
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2720,7 +2729,6 @@
 :CBETA_ID:  T85n2758
 :CUSTOM_ID: ZB6e0058
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2758
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2844,9 +2852,13 @@
 :END:
 **** extent: 120卷
 **** responsible: 
-***** 李通玄造論　志寧釐經合
+***** 李通玄
 :PROPERTIES:
-:FUNCTION: 論
+:FUNCTION: 造論
+:END:
+***** 志寧釐
+:PROPERTIES:
+:FUNCTION: 經合論
 :END:
 
 **** textual witnesses
@@ -2944,9 +2956,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 宗密撰
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 撰集
 :END:
 
 **** textual witnesses
@@ -2969,9 +2981,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 澄觀別行疏　宗密隨疏
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 鈔
+:FUNCTION: 別行疏
+:END:
+***** 宗密隨
+:PROPERTIES:
+:FUNCTION: 疏鈔
 :END:
 
 **** textual witnesses
@@ -2994,9 +3010,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 遵式治
+***** 遵式
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 治定
 :END:
 
 **** textual witnesses
@@ -3019,9 +3035,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 澄觀別行疏　宗密隨疏
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 鈔
+:FUNCTION: 別行疏
+:END:
+***** 宗密隨
+:PROPERTIES:
+:FUNCTION: 疏鈔
 :END:
 
 **** textual witnesses
@@ -3159,7 +3179,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 師會．善熹
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 善熹
 :PROPERTIES:
 :FUNCTION: 述
 :END:
@@ -3264,8 +3288,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 杜順
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 智儼
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 撰
 :END:
 
@@ -3431,7 +3460,7 @@
 **** responsible: 
 ***** 法藏
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
