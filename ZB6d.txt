@@ -1037,7 +1037,6 @@
 :CBETA_ID:  X34n0639
 :CUSTOM_ID: ZB6d0031
 :SOURCE: 卍 Xuzangjing Vol. 34, No. 639
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1200,7 +1199,6 @@
 :CBETA_ID:  X35n0640
 :CUSTOM_ID: ZB6d0037
 :SOURCE: 卍 Xuzangjing Vol. 35, No. 640
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1220,7 +1218,6 @@
 :CBETA_ID:  X35n0641
 :CUSTOM_ID: ZB6d0038
 :SOURCE: 卍 Xuzangjing Vol. 35, No. 641
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1270,7 +1267,6 @@
 :CBETA_ID:  X35n0643
 :CUSTOM_ID: ZB6d0040
 :SOURCE: 卍 Xuzangjing Vol. 35, No. 643
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1290,7 +1286,6 @@
 :CBETA_ID:  X35n0644
 :CUSTOM_ID: ZB6d0041
 :SOURCE: 卍 Xuzangjing Vol. 35, No. 644
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1585,7 +1580,6 @@
 :CBETA_ID:  X30n0601
 :CUSTOM_ID: ZB6d0053
 :SOURCE: 卍 Xuzangjing Vol. 30, No. 601
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2484,7 +2478,6 @@
 :CBETA_ID:  T85n2748
 :CUSTOM_ID: ZB6d0087
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2748
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2509,7 +2502,6 @@
 :CBETA_ID:  T85n2749
 :CUSTOM_ID: ZB6d0088
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2749
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2529,7 +2521,6 @@
 :CBETA_ID:  T85n2750
 :CUSTOM_ID: ZB6d0089
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2750
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2549,7 +2540,6 @@
 :CBETA_ID:  T85n2751
 :CUSTOM_ID: ZB6d0090
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2751
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2569,7 +2559,6 @@
 :CBETA_ID:  T85n2752
 :CUSTOM_ID: ZB6d0091
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2752
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3352,7 +3341,6 @@
 :CBETA_ID:  X35n0649
 :CUSTOM_ID: ZB6d0107
 :SOURCE: 卍 Xuzangjing Vol. 35, No. 649
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3406,7 +3394,6 @@
 :CBETA_ID:  F01n0016
 :CUSTOM_ID: ZB6d0109
 :SOURCE: Fangshan shijing Vol. 01, No. 016
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3451,13 +3438,21 @@
 :CBETA_ID:  T26n1519
 :CUSTOM_ID: ZB6d0111
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1519
-:DYNASTY: 大乘論師婆藪槃豆釋
+:DYNASTY: 後魏
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 菩提留支共曇林等
+***** 大乘論師婆藪槃豆
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 釋
+:END:
+***** 菩提留支曇林
+:PROPERTIES:
+:FUNCTION: 等譯
+:END:
+***** 曇林
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -3496,13 +3491,21 @@
 :CBETA_ID:  T26n1520
 :CUSTOM_ID: ZB6d0112
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1520
-:DYNASTY: 婆藪般豆菩薩造
+:DYNASTY: 元魏
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 勒那摩提共僧朗等
+***** 婆藪般豆菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 勒那摩提
+:PROPERTIES:
+:FUNCTION: 等譯
+:END:
+***** 僧朗
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -3576,15 +3579,8 @@
 :CBETA_ID:  X46n0790
 :CUSTOM_ID: ZB6d0114
 :SOURCE: 卍 Xuzangjing Vol. 46, No. 790
-:DYNASTY: 唐
 :END:
 **** extent: 1卷
-**** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 唐
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3766,15 +3762,9 @@
 :CBETA_ID:  X55n0917
 :CUSTOM_ID: ZB6d0120
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 917
-:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 法藏
-:PROPERTIES:
-:FUNCTION: 撰
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -3795,7 +3785,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道邃說　乾淑
+***** 道邃
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 乾淑
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -3941,13 +3935,17 @@
 :CBETA_ID:  X56n0924
 :CUSTOM_ID: ZB6d0127
 :SOURCE: 卍 Xuzangjing Vol. 56, No. 924
-:DYNASTY: 明
+:DYNASTY: 清
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 靈耀補
+***** 受登
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 說
+:END:
+***** 靈耀
+:PROPERTIES:
+:FUNCTION: 補定
 :END:
 
 **** textual witnesses
@@ -4225,7 +4223,7 @@
 :FUNCTION: 說
 :END:
 
-**** textual witnesses
+**** textual witnesses<!-- here 2014-12-18 -->
 ***** CBETA
 :PROPERTIES: 
 :WITID: wit1
