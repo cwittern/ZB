@@ -3578,9 +3578,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 淨源刊
+***** 淨源
 :PROPERTIES:
-:FUNCTION: 正
+:FUNCTION: 刊正
 :END:
 
 **** textual witnesses
@@ -3709,7 +3709,6 @@
 :CBETA_ID:  T45n1879b
 :CUSTOM_ID: ZB6e0093
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1879b
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3738,8 +3737,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 淨源
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
 :END:
 
@@ -3758,8 +3762,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 法藏
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 承遷
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 註
 :END:
 
@@ -3873,7 +3882,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本嵩述．琮湛
+***** 本嵩
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 琮湛
 :PROPERTIES:
 :FUNCTION: 註
 :END:
@@ -4005,7 +4018,7 @@
 **** responsible: 
 ***** 圓覺
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
@@ -4028,9 +4041,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 楊嘉祚刪
+***** 圓覺
 :PROPERTIES:
-:FUNCTION: 合
+:FUNCTION: 解
+:END:
+***** 揚嘉祚
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 刪合
 :END:
 
 **** textual witnesses
