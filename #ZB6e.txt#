@@ -2852,9 +2852,13 @@
 :END:
 **** extent: 120卷
 **** responsible: 
-***** 李通玄造論　志寧釐經合
+***** 李通玄
 :PROPERTIES:
-:FUNCTION: 論
+:FUNCTION: 造論
+:END:
+***** 志寧釐
+:PROPERTIES:
+:FUNCTION: 經合論
 :END:
 
 **** textual witnesses
@@ -2952,9 +2956,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 宗密撰
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 撰集
 :END:
 
 **** textual witnesses
@@ -2977,6 +2981,10 @@
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 別行疏
+:END:
 ***** 澄觀別行疏　宗密隨疏
 :PROPERTIES:
 :FUNCTION: 鈔
