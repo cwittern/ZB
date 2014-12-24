@@ -4423,9 +4423,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道邃錄
+***** 道邃
 :PROPERTIES:
-:FUNCTION: 出
+:FUNCTION: 錄出
 :END:
 
 **** textual witnesses
@@ -4573,9 +4573,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 正謐分
+***** 可度
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 祥解
+:END:
+***** 正謐
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
