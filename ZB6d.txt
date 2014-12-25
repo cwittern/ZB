@@ -352,8 +352,17 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:FUNCTION: 記
+:END:
 ***** 湛然
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 釋
 :END:
 
@@ -377,8 +386,17 @@
 :END:
 **** extent: 37卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:FUNCTION: 記
+:END:
 ***** 湛然
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 釋
 :END:
 
@@ -3444,9 +3462,10 @@
 **** responsible: 
 ***** 大乘論師婆藪槃豆
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 釋
 :END:
-***** 菩提留支曇林
+***** 菩提留支
 :PROPERTIES:
 :FUNCTION: 等譯
 :END:
@@ -3497,6 +3516,7 @@
 **** responsible: 
 ***** 婆藪般豆菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 勒那摩提
@@ -4784,13 +4804,13 @@
 :CBETA_ID:  P189n1629
 :CUSTOM_ID: ZB6d0157
 :SOURCE: Northern Yongle Edition of the Canon Vol. 189, No. 1629
-:DYNASTY: 元
+:DYNASTY: 宋
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 蒙潤
+***** 諦觀
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 注
 :END:
 
 **** textual witnesses
