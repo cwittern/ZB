@@ -12,6 +12,7 @@
 ***** 菩提流志
 :PROPERTIES:
 :FUNCTION: 譯
+:FUNCTION: 合
 :END:
 
 **** textual witnesses
@@ -354,9 +355,9 @@
 :END:
 **** extent: 40卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -539,9 +540,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 日稱等
+***** 日稱
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1094,9 +1095,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1544,7 +1545,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 毘目智仙共般若流支
+***** 毘目智仙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 般若流支
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1715,11 +1720,10 @@
 :CBETA_ID:  T12n0344
 :CUSTOM_ID: ZB6f0036
 :SOURCE: Taisho Tripitaka Vol. 12, No. 344
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2070,11 +2074,10 @@
 :CBETA_ID:  T12n0351
 :CUSTOM_ID: ZB6f0043
 :SOURCE: Taisho Tripitaka Vol. 12, No. 351
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2409,9 +2412,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 僧伽婆羅等
+***** 僧伽婆羅
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2454,9 +2457,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2520,7 +2523,6 @@
 :CBETA_ID:  T85n2761
 :CUSTOM_ID: ZB6f0053
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2761
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2540,7 +2542,6 @@
 :CBETA_ID:  T85n2762
 :CUSTOM_ID: ZB6f0054
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2762
-:DYNASTY: 昭法師撰
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2565,7 +2566,6 @@
 :CBETA_ID:  T85n2763
 :CUSTOM_ID: ZB6f0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2763
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2614,7 +2614,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 大乘基說　義令
+***** 大乘
+:PROPERTIES:
+:FUNCTION: 基說
+:END:
+***** 義令
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -2639,8 +2643,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 聖德太子
+:PROPERTIES:
+:FUNCTION: 疏
+:END:
 ***** 明空私
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 鈔
 :END:
 
@@ -2854,14 +2863,14 @@
 :PROPERTIES: 
 :CBETA_ID:  T12n0364
 :CUSTOM_ID: ZB6f0063
-:SOURCE: 
+:SOURCE: here
 :DYNASTY: 宋
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 王日休校
+***** 王日休
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 校輯
 :END:
 
 **** textual witnesses
