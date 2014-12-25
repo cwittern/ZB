@@ -2863,7 +2863,7 @@
 :PROPERTIES: 
 :CBETA_ID:  T12n0364
 :CUSTOM_ID: ZB6f0063
-:SOURCE: here
+:SOURCE: Taisho Tripitaka Vol. 12, No. 364
 :DYNASTY: 宋
 :END:
 **** extent: 2卷
@@ -2989,7 +2989,6 @@
 :CBETA_ID:  T85n2759
 :CUSTOM_ID: ZB6f0068
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2759
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3014,7 +3013,6 @@
 :CBETA_ID:  T85n2760
 :CUSTOM_ID: ZB6f0069
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2760
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3213,9 +3211,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 善導集
+***** 善導
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -3618,7 +3616,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 求那跋陀羅重
+***** 求那跋陀羅
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3649,7 +3647,6 @@
 :CBETA_ID:  T12n0369
 :CUSTOM_ID: ZB6f0088
 :SOURCE: Taisho Tripitaka Vol. 12, No. 369
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3664,11 +3661,10 @@
 :CBETA_ID:  T12n0370
 :CUSTOM_ID: ZB6f0089
 :SOURCE: Taisho Tripitaka Vol. 12, No. 370
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3768,9 +3764,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -3809,11 +3805,10 @@
 :CBETA_ID:  T12n0373
 :CUSTOM_ID: ZB6f0092
 :SOURCE: Taisho Tripitaka Vol. 12, No. 373
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3849,10 +3844,15 @@
 :CBETA_ID:  T26n1524
 :CUSTOM_ID: ZB6f0093
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1524
-:DYNASTY: 婆藪槃豆菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 婆藪槃豆菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 菩提流支
 :PROPERTIES:
 :FUNCTION: 譯
@@ -3893,9 +3893,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 曇鸞註
+***** 曇鸞
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 註解
 :END:
 
 **** textual witnesses
