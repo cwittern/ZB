@@ -487,17 +487,17 @@
 **** responsible: 
 ***** 灌頂
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 撰
 :END:
-***** 本純分
+***** 湛然
 :PROPERTIES:
-:DYNASTY: 隋
-:FUNCTION: 會
+:DYNASTY: 唐
+:FUNCTION: 再治
 :END:
-***** 本純分
+***** 本純
 :PROPERTIES:
-:DYNASTY: 隋
-:FUNCTION: 會
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -600,9 +600,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師正排科　可度重
+***** 師正
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 排科
+:END:
+***** 可度
+:PROPERTIES:
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -625,9 +629,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓澄會
+***** 師正
 :PROPERTIES:
-:FUNCTION: 疏
+:FUNCTION: 分科
+:END:
+***** 圓澄
+:PROPERTIES:
+:FUNCTION: 會疏
 :END:
 
 **** textual witnesses
@@ -1441,11 +1449,10 @@
 :CBETA_ID:  T12n0392
 :CUSTOM_ID: ZB6g0037
 :SOURCE: Taisho Tripitaka Vol. 12, No. 392
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1535,7 +1542,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
