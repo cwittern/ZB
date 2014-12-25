@@ -5170,7 +5170,7 @@
 :END:
 **** extent: 42卷
 **** responsible: 
-***** 一行
+***** 一行慧覺
 :PROPERTIES:
 :FUNCTION: 依經錄
 :END:
@@ -5401,10 +5401,11 @@
 :CBETA_ID:  F28n1076
 :CUSTOM_ID: ZB6e0156
 :SOURCE: Fangshan shijing Vol. 28, No. 1076
+:DYNASTY: 遼
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 石經寺主講經律沙門志仙
+***** 志仙
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -5425,12 +5426,13 @@
 :CBETA_ID:  F28n1083
 :CUSTOM_ID: ZB6e0157
 :SOURCE: Fangshan shijing Vol. 28, No. 1083
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 杜順法師
+***** 杜順
 :PROPERTIES:
-:FUNCTION: 造
+:FUNCTION: 撰
 :END:
 
 **** textual witnesses
@@ -5444,10 +5446,11 @@
 :CBETA_ID:  F28n1082
 :CUSTOM_ID: ZB6e0158
 :SOURCE: Fangshan shijing Vol. 28, No. 1082
+:DYNASTY: 後唐
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 南岳般舟道場比丘惟勁
+***** 惟勁
 :PROPERTIES:
 :FUNCTION: 釋
 :END:
@@ -5463,12 +5466,17 @@
 :CBETA_ID:  F28n1084
 :CUSTOM_ID: ZB6e0159
 :SOURCE: Fangshan shijing Vol. 28, No. 1084
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 大香山隱士釋法藏
+***** 法藏
 :PROPERTIES:
 :FUNCTION: 述
+:END:
+***** 大香山隱士
+:PROPERTIES:
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
