@@ -10008,10 +10008,15 @@
 :CBETA_ID:  T15n0607
 :CUSTOM_ID: ZB6i0243
 :SOURCE: Taisho Tripitaka Vol. 15, No. 607
-:DYNASTY: 僧伽羅剎造
+:DYNASTY: 後漢
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 僧伽羅剎
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 安世高
 :PROPERTIES:
 :FUNCTION: 譯
@@ -10098,11 +10103,10 @@
 :CBETA_ID:  T15n0609
 :CUSTOM_ID: ZB6i0245
 :SOURCE: Taisho Tripitaka Vol. 15, No. 609
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -10143,11 +10147,10 @@
 :CBETA_ID:  T15n0610
 :CUSTOM_ID: ZB6i0246
 :SOURCE: Taisho Tripitaka Vol. 15, No. 610
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -10289,7 +10292,7 @@
 **** responsible: 
 ***** 鳩摩羅什等
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -10427,7 +10430,7 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 鳩摩羅什
+***** 鳩摩羅什等
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -10563,10 +10566,15 @@
 :CBETA_ID:  T15n0619
 :CUSTOM_ID: ZB6i0255
 :SOURCE: Taisho Tripitaka Vol. 15, No. 619
-:DYNASTY: 佛陀蜜多撰
+:DYNASTY: 劉宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 佛陀蜜多
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 撰
+:END:
 ***** 曇摩蜜多
 :PROPERTIES:
 :FUNCTION: 譯
@@ -11048,11 +11056,10 @@
 :CBETA_ID:  T15n0629
 :CUSTOM_ID: ZB6i0265
 :SOURCE: Taisho Tripitaka Vol. 15, No. 629
-:DYNASTY: 闕譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闕
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -11233,11 +11240,10 @@
 :CBETA_ID:  T15n0633
 :CUSTOM_ID: ZB6i0269
 :SOURCE: Taisho Tripitaka Vol. 15, No. 633
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -11282,9 +11288,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 智吉祥等
+***** 智吉祥
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -11713,11 +11719,10 @@
 :CBETA_ID:  T15n0644
 :CUSTOM_ID: ZB6i0280
 :SOURCE: Taisho Tripitaka Vol. 15, No. 644
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -11938,7 +11943,6 @@
 :CBETA_ID:  X01n0015
 :CUSTOM_ID: ZB6i0285
 :SOURCE: 卍 Xuzangjing Vol. 01, No. 015
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -12112,9 +12116,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 紹德等
+***** 紹德
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -12227,9 +12231,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -12382,7 +12386,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 曼陀羅仙共僧伽婆羅
+***** 曼陀羅仙
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 僧伽婆羅
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -12514,7 +12522,7 @@
 **** responsible: 
 ***** 地婆訶羅
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 再譯
 :END:
 
 **** textual witnesses
