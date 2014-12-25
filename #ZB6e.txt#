@@ -774,6 +774,10 @@
 :END:
 **** extent: 30卷
 **** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
 ***** 澄觀
 :PROPERTIES:
 :FUNCTION: 述
@@ -2629,6 +2633,7 @@
 **** responsible: 
 ***** 聖者龍樹
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 鳩摩羅什
@@ -2683,6 +2688,7 @@
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 菩提流支
@@ -3061,9 +3067,10 @@
 :PROPERTIES:
 :FUNCTION: 別行疏
 :END:
-***** 宗密隨
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 疏鈔
+:DYNASTY: 宋
+:FUNCTION: 隨疏鈔
 :END:
 
 **** textual witnesses
@@ -4124,7 +4131,6 @@
 :CBETA_ID:  T45n1887B
 :CUSTOM_ID: ZB6e0107
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1887B
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -4149,7 +4155,7 @@
 :CBETA_ID:  F28n1081
 :CUSTOM_ID: ZB6e0108
 :SOURCE: Fangshan shijing Vol. 28, No. 1081
-:DYNASTY: 儼法師造
+:DYNASTY: ?
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4293,9 +4299,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 靈裕集
+***** 靈裕
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -4493,9 +4499,14 @@
 :END:
 **** extent: 44卷
 **** responsible: 
-***** 德清提
+***** 德清
 :PROPERTIES:
-:FUNCTION: 挈
+:FUNCTION: 提挈
+:END:
+***** 德清
+:PROPERTIES:
+:D
+:FUNCTION: 提挈
 :END:
 
 **** textual witnesses
