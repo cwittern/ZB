@@ -13707,9 +13707,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 員珂會
+***** 員珂
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 會譯
 :END:
 
 **** textual witnesses
@@ -13734,7 +13734,7 @@
 **** responsible: 
 ***** 智嚴
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 撰
 :END:
 
 **** textual witnesses
@@ -13753,7 +13753,6 @@
 :CBETA_ID:  X17n0322
 :CUSTOM_ID: ZB6i0332
 :SOURCE: 卍 Xuzangjing Vol. 17, No. 322
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -13802,9 +13801,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 正受集
+***** 正受
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -13852,9 +13851,14 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 楊彥國詮
+***** 求那跋陀羅
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 譯經
+:END:
+***** 楊彥國
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 詮註
 :END:
 
 **** textual witnesses
@@ -13877,9 +13881,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 德清筆
+***** 德清
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 筆記
 :END:
 
 **** textual witnesses
@@ -13927,9 +13931,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭撰
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -13952,9 +13956,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 智旭疏
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 義
+:FUNCTION: 疏義
 :END:
 
 **** textual witnesses
@@ -14027,9 +14031,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 廣莫參
+***** 廣莫
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
