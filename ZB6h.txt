@@ -189,9 +189,9 @@
 :END:
 **** extent: 18卷
 **** responsible: 
-***** 惟淨等
+***** 惟淨
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -495,11 +495,10 @@
 :CBETA_ID:  T13n0406
 :CUSTOM_ID: ZB6h0010
 :SOURCE: Taisho Tripitaka Vol. 13, No. 406
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -655,11 +654,10 @@
 :CBETA_ID:  T13n0410
 :CUSTOM_ID: ZB6h0014
 :SOURCE: Taisho Tripitaka Vol. 13, No. 410
-:DYNASTY: 失譯
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -804,6 +802,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 靈椉
+:PROPERTIES:
+:FUNCTION: 定
+:END:
 ***** 岳玄
 :PROPERTIES:
 :FUNCTION: 排
@@ -904,11 +906,6 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 清
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -974,9 +971,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 功德直
+***** 功德
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 直譯
 :END:
 
 **** textual witnesses
@@ -1205,11 +1202,10 @@
 :CBETA_ID:  T13n0419
 :CUSTOM_ID: ZB6h0028
 :SOURCE: Taisho Tripitaka Vol. 13, No. 419
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1474,9 +1470,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 金總持等
+***** 金總持
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1545,10 +1541,15 @@
 :CBETA_ID:  T26n1526
 :CUSTOM_ID: ZB6h0035
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1526
-:DYNASTY: 天親菩薩造
+:DYNASTY: 元魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 毘目智仙
 :PROPERTIES:
 :FUNCTION: 譯
