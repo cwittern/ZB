@@ -4499,13 +4499,13 @@
 :END:
 **** extent: 44卷
 **** responsible: 
-***** 德清
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 提挈
+:FUNCTION: 疏義
 :END:
 ***** 德清
 :PROPERTIES:
-:D
+:DYNASTY: 明
 :FUNCTION: 提挈
 :END:
 
@@ -4529,9 +4529,14 @@
 :END:
 **** extent: 36卷
 **** responsible: 
-***** 德清提
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 挈
+:FUNCTION: 疏義
+:END:
+***** 德清
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 提挈
 :END:
 
 **** textual witnesses
@@ -4554,9 +4559,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永光錄
+***** 永光
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 錄集
 :END:
 
 **** textual witnesses
@@ -4579,9 +4584,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永光敬
+***** 永光
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 敬錄
 :END:
 
 **** textual witnesses
@@ -4674,9 +4679,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 宗密
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 註
 :END:
 
 **** textual witnesses
@@ -4789,7 +4798,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師會述　希迪
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 希迪
 :PROPERTIES:
 :FUNCTION: 註
 :END:
@@ -4814,9 +4827,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師會述　善熹
+***** 師會
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 述
+:END:
+***** 善熹
+:PROPERTIES:
+:FUNCTION: 注
 :END:
 
 **** textual witnesses
