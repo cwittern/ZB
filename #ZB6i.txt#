@@ -3203,10 +3203,14 @@
 :CBETA_ID:  T38n1778
 :CUSTOM_ID: ZB6i0081
 :SOURCE: Taisho Tripitaka Vol. 38, No. 1778
-:DYNASTY: 隋
+:DYNASTY: 唐
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 湛然
 :PROPERTIES:
 :FUNCTION: 略
@@ -3383,7 +3387,6 @@
 :CBETA_ID:  T85n2768
 :CUSTOM_ID: ZB6i0086
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2768
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3403,7 +3406,6 @@
 :CBETA_ID:  T85n2769
 :CUSTOM_ID: ZB6i0087
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2769
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3423,7 +3425,6 @@
 :CBETA_ID:  T85n2770
 :CUSTOM_ID: ZB6i0088
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2770
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3443,7 +3444,6 @@
 :CBETA_ID:  T85n2771
 :CUSTOM_ID: ZB6i0089
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2771
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3463,7 +3463,6 @@
 :CBETA_ID:  T85n2772
 :CUSTOM_ID: ZB6i0090
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2772
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -3483,7 +3482,6 @@
 :CBETA_ID:  T85n2773
 :CUSTOM_ID: ZB6i0091
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2773
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3498,7 +3496,6 @@
 :CBETA_ID:  T85n2774
 :CUSTOM_ID: ZB6i0092
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2774
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3513,7 +3510,6 @@
 :CBETA_ID:  T85n2775
 :CUSTOM_ID: ZB6i0093
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2775
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3648,7 +3644,6 @@
 :CBETA_ID:  T85n2824
 :CUSTOM_ID: ZB6i0097
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2824
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3742,9 +3737,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道暹私
+***** 道暹
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 私記
 :END:
 
 **** textual witnesses
@@ -3767,9 +3762,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 楊起元評
+***** 楊起元
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 評註
 :END:
 
 **** textual witnesses
@@ -3813,15 +3808,9 @@
 :CBETA_ID:  X19n0349
 :CUSTOM_ID: ZB6i0104
 :SOURCE: 卍 Xuzangjing Vol. 19, No. 349
-:DYNASTY: 明
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 明
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
