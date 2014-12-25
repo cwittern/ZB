@@ -1015,11 +1015,10 @@
 :CBETA_ID:  T14n0446b
 :CUSTOM_ID: ZB6i0023
 :SOURCE: Taisho Tripitaka Vol. 14, No. 446b
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1045,11 +1044,10 @@
 :CBETA_ID:  T14n0447a
 :CUSTOM_ID: ZB6i0024
 :SOURCE: Taisho Tripitaka Vol. 14, No. 447a
-:DYNASTY: 闕譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闕
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1090,10 +1088,14 @@
 :CBETA_ID:  T14n0447b
 :CUSTOM_ID: ZB6i0025
 :SOURCE: Taisho Tripitaka Vol. 14, No. 447b
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -1105,11 +1107,10 @@
 :CBETA_ID:  T14n0448a
 :CUSTOM_ID: ZB6i0026
 :SOURCE: Taisho Tripitaka Vol. 14, No. 448a
-:DYNASTY: 闕譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闕
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1145,11 +1146,10 @@
 :CBETA_ID:  T14n0448b
 :CUSTOM_ID: ZB6i0027
 :SOURCE: Taisho Tripitaka Vol. 14, No. 448b
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1165,7 +1165,7 @@
 :CBETA_ID:  F28n1072
 :CUSTOM_ID: ZB6i0028
 :SOURCE: Fangshan shijing Vol. 28, No. 1072
-:DYNASTY: 德雲集
+:DYNASTY: 遼
 :END:
 **** extent: 22卷
 **** responsible: 
@@ -1244,9 +1244,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沮渠京聲
+***** 沮渠京
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 聲譯
 :END:
 
 **** textual witnesses
@@ -1465,11 +1465,10 @@
 :CBETA_ID:  T14n0457
 :CUSTOM_ID: ZB6i0036
 :SOURCE: Taisho Tripitaka Vol. 14, No. 457
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1645,7 +1644,6 @@
 :CBETA_ID:  X21n0388
 :CUSTOM_ID: ZB6i0041
 :SOURCE: 卍 Xuzangjing Vol. 21, No. 388
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1665,7 +1663,6 @@
 :CBETA_ID:  X21n0389
 :CUSTOM_ID: ZB6i0042
 :SOURCE: 卍 Xuzangjing Vol. 21, No. 389
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1760,7 +1757,6 @@
 :CBETA_ID:  S06n0047
 :CUSTOM_ID: ZB6i0046
 :SOURCE: Songzang yizhen Vol. 06, No. 047
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
