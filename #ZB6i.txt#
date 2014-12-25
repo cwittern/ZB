@@ -12795,6 +12795,10 @@
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 錄
@@ -12945,9 +12949,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明得排
+***** 明得
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 排定
 :END:
 
 **** textual witnesses
@@ -12970,8 +12974,23 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 錄
+:END:
+***** 知禮
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 述
+:END:
 ***** 明得
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 會
 :END:
 
@@ -12995,9 +13014,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明得排
+***** 明得
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 排定
 :END:
 
 **** textual witnesses
@@ -13020,8 +13039,23 @@
 :END:
 **** extent: 8卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 灌頂
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 錄
+:END:
+***** 知禮
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 述
+:END:
 ***** 明得
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 會
 :END:
 
@@ -13555,7 +13589,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 宗泐．如󰃗同
+***** 宗泐
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 如󰃗
 :PROPERTIES:
 :FUNCTION: 註
 :END:
@@ -13641,7 +13679,6 @@
 :CBETA_ID:  T85n2779
 :CUSTOM_ID: ZB6i0329
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2779
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
