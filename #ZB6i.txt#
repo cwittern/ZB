@@ -1244,9 +1244,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沮渠京
+***** 沮渠京聲
 :PROPERTIES:
-:FUNCTION: 聲譯
+:FUNCTION: 譯
 :END:
 
 **** textual witnesses
@@ -5880,11 +5880,10 @@
 :CBETA_ID:  T14n0520
 :CUSTOM_ID: ZB6i0149
 :SOURCE: Taisho Tripitaka Vol. 14, No. 520
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5930,11 +5929,10 @@
 :CBETA_ID:  T14n0521
 :CUSTOM_ID: ZB6i0150
 :SOURCE: Taisho Tripitaka Vol. 14, No. 521
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5975,11 +5973,10 @@
 :CBETA_ID:  T14n0522
 :CUSTOM_ID: ZB6i0151
 :SOURCE: Taisho Tripitaka Vol. 14, No. 522
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6020,11 +6017,10 @@
 :CBETA_ID:  T14n0523
 :CUSTOM_ID: ZB6i0152
 :SOURCE: Taisho Tripitaka Vol. 14, No. 523
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6300,11 +6296,10 @@
 :CBETA_ID:  T14n0529
 :CUSTOM_ID: ZB6i0158
 :SOURCE: Taisho Tripitaka Vol. 14, No. 529
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6755,11 +6750,10 @@
 :CBETA_ID:  T14n0539
 :CUSTOM_ID: ZB6i0168
 :SOURCE: Taisho Tripitaka Vol. 14, No. 539
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6981,7 +6975,7 @@
 **** responsible: 
 ***** 智吉祥等
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -7144,7 +7138,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 般若共利言
+***** 般若
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 利言
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -7249,7 +7247,7 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 惟淨等
+***** 惟淨
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
