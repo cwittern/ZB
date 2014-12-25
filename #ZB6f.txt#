@@ -2412,9 +2412,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 僧伽婆羅等
+***** 僧伽婆羅
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2457,9 +2457,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2523,7 +2523,6 @@
 :CBETA_ID:  T85n2761
 :CUSTOM_ID: ZB6f0053
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2761
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2543,7 +2542,6 @@
 :CBETA_ID:  T85n2762
 :CUSTOM_ID: ZB6f0054
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2762
-:DYNASTY: 昭法師撰
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2568,7 +2566,6 @@
 :CBETA_ID:  T85n2763
 :CUSTOM_ID: ZB6f0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2763
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2617,7 +2614,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 大乘基說　義令
+***** 大乘
+:PROPERTIES:
+:FUNCTION: 基說
+:END:
+***** 義令
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -2642,8 +2643,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 聖德太子
+:PROPERTIES:
+:FUNCTION: 疏
+:END:
 ***** 明空私
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 鈔
 :END:
 
@@ -2862,9 +2868,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 王日休校
+***** 王日休
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 校輯
 :END:
 
 **** textual witnesses
