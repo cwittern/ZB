@@ -7249,7 +7249,7 @@
 **** responsible: 
 ***** 惟淨
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -7313,11 +7313,10 @@
 :CBETA_ID:  T14n0552
 :CUSTOM_ID: ZB6i0182
 :SOURCE: Taisho Tripitaka Vol. 14, No. 552
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -7728,11 +7727,10 @@
 :CBETA_ID:  T14n0561
 :CUSTOM_ID: ZB6i0192
 :SOURCE: Taisho Tripitaka Vol. 14, No. 561
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8243,11 +8241,10 @@
 :CBETA_ID:  T14n0572
 :CUSTOM_ID: ZB6i0203
 :SOURCE: Taisho Tripitaka Vol. 14, No. 572
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8553,11 +8550,10 @@
 :CBETA_ID:  T14n0579
 :CUSTOM_ID: ZB6i0210
 :SOURCE: Taisho Tripitaka Vol. 14, No. 579
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8608,11 +8604,10 @@
 :CBETA_ID:  T14n0580
 :CUSTOM_ID: ZB6i0211
 :SOURCE: Taisho Tripitaka Vol. 14, No. 580
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -9127,7 +9122,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智嚴共寶雲
+***** 智嚴
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 寶雲
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -9263,7 +9262,6 @@
 :CBETA_ID:  T85n2786
 :CUSTOM_ID: ZB6i0225
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2786
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9418,11 +9416,10 @@
 :CBETA_ID:  T15n0596
 :CUSTOM_ID: ZB6i0229
 :SOURCE: Taisho Tripitaka Vol. 15, No. 596
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -9702,9 +9699,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蕅益編
+***** 蕅益
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 編訂
 :END:
 
 **** textual witnesses
@@ -9723,7 +9720,6 @@
 :CBETA_ID:  X01n0026
 :CUSTOM_ID: ZB6i0236
 :SOURCE: 卍 Xuzangjing Vol. 01, No. 026
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -9743,7 +9739,6 @@
 :CBETA_ID:  X01n0027
 :CUSTOM_ID: ZB6i0237
 :SOURCE: 卍 Xuzangjing Vol. 01, No. 027
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
