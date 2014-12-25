@@ -94,9 +94,9 @@
 :END:
 **** extent: 36卷
 **** responsible: 
-***** 慧嚴等依泥洹經加
+***** 慧嚴
 :PROPERTIES:
-:FUNCTION: 之
+:FUNCTION: 等依泥洹經加之#
 :END:
 
 **** textual witnesses
@@ -169,9 +169,9 @@
 :END:
 **** extent: 71卷
 **** responsible: 
-***** 寶亮等
+***** 寶亮
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等集
 :END:
 
 **** textual witnesses
@@ -350,7 +350,6 @@
 :CBETA_ID:  T85n2764A
 :CUSTOM_ID: ZB6g0010
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2764A
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -370,7 +369,6 @@
 :CBETA_ID:  T85n2764B
 :CUSTOM_ID: ZB6g0011
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2764B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -390,7 +388,6 @@
 :CBETA_ID:  T85n2765
 :CUSTOM_ID: ZB6g0012
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2765
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -409,9 +406,19 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 守篤分
+***** 灌頂
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 撰
+:END:
+***** 道暹
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 撰
+:END:
+***** 守篤
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -455,7 +462,6 @@
 :CBETA_ID:  X36n0658
 :CUSTOM_ID: ZB6g0015
 :SOURCE: 卍 Xuzangjing Vol. 36, No. 658
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -479,9 +485,19 @@
 :END:
 **** extent: 36卷
 **** responsible: 
-***** 本純分
+***** 灌頂
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 撰
+:END:
+***** 湛然
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 再治
+:END:
+***** 本純
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -584,9 +600,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師正排科　可度重
+***** 師正
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 排科
+:END:
+***** 可度
+:PROPERTIES:
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -609,9 +629,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓澄會
+***** 師正
 :PROPERTIES:
-:FUNCTION: 疏
+:FUNCTION: 分科
+:END:
+***** 圓澄
+:PROPERTIES:
+:FUNCTION: 會疏
 :END:
 
 **** textual witnesses
@@ -1425,11 +1449,10 @@
 :CBETA_ID:  T12n0392
 :CUSTOM_ID: ZB6g0037
 :SOURCE: Taisho Tripitaka Vol. 12, No. 392
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1515,11 +1538,10 @@
 :CBETA_ID:  T12n0394
 :CUSTOM_ID: ZB6g0039
 :SOURCE: Taisho Tripitaka Vol. 12, No. 394
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1620,11 +1642,10 @@
 :CBETA_ID:  T12n0396
 :CUSTOM_ID: ZB6g0041
 :SOURCE: Taisho Tripitaka Vol. 12, No. 396
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1665,7 +1686,6 @@
 :CBETA_ID:  F03n0248
 :CUSTOM_ID: ZB6g0042
 :SOURCE: Fangshan shijing Vol. 03, No. 248
-:DYNASTY: 比丘道真譯
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1740,10 +1760,15 @@
 :CBETA_ID:  T26n1529
 :CUSTOM_ID: ZB6g0044
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1529
-:DYNASTY: 天親菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1784,9 +1809,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 袾宏補
+***** 淨源
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 節要
+:END:
+***** 袾宏
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 補註
 :END:
 
 **** textual witnesses
@@ -1839,9 +1869,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 了童補
+***** 守遂
 :PROPERTIES:
 :FUNCTION: 註
+:END:
+***** 了童
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 補註
 :END:
 
 **** textual witnesses
@@ -1935,10 +1970,15 @@
 :CBETA_ID:  T26n1527
 :CUSTOM_ID: ZB6g0051
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1527
-:DYNASTY: 婆藪槃豆作
+:DYNASTY: 元魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 婆藪槃豆
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 作
+:END:
 ***** 達磨菩提
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1975,10 +2015,15 @@
 :CBETA_ID:  T26n1528
 :CUSTOM_ID: ZB6g0052
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1528
-:DYNASTY: 天親菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
