@@ -547,9 +547,14 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 淨源重
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 刊
+:FUNCTION: 述
+:END:
+***** 淨源
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 重刊
 :END:
 
 **** textual witnesses
@@ -572,9 +577,14 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 淨源重
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 刊
+:FUNCTION: 述
+:END:
+***** 淨源
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 重刊
 :END:
 
 **** textual witnesses
@@ -677,6 +687,10 @@
 :END:
 **** extent: 17卷
 **** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
 ***** 澄觀
 :PROPERTIES:
 :FUNCTION: 述
@@ -702,6 +716,10 @@
 :END:
 **** extent: 18卷
 **** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
 ***** 澄觀
 :PROPERTIES:
 :FUNCTION: 述
@@ -727,6 +745,10 @@
 :END:
 **** extent: 18卷
 **** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
 ***** 澄觀
 :PROPERTIES:
 :FUNCTION: 述
@@ -752,6 +774,10 @@
 :END:
 **** extent: 30卷
 **** responsible: 
+***** 實叉難陀
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
 ***** 澄觀
 :PROPERTIES:
 :FUNCTION: 述
@@ -2607,6 +2633,7 @@
 **** responsible: 
 ***** 聖者龍樹
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 鳩摩羅什
@@ -2661,6 +2688,7 @@
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 菩提流支
@@ -3039,9 +3067,10 @@
 :PROPERTIES:
 :FUNCTION: 別行疏
 :END:
-***** 宗密隨
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 疏鈔
+:DYNASTY: 宋
+:FUNCTION: 隨疏鈔
 :END:
 
 **** textual witnesses
@@ -4102,7 +4131,6 @@
 :CBETA_ID:  T45n1887B
 :CUSTOM_ID: ZB6e0107
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1887B
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -4127,7 +4155,7 @@
 :CBETA_ID:  F28n1081
 :CUSTOM_ID: ZB6e0108
 :SOURCE: Fangshan shijing Vol. 28, No. 1081
-:DYNASTY: 儼法師造
+:DYNASTY: ?
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4271,9 +4299,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 靈裕集
+***** 靈裕
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -4471,9 +4499,14 @@
 :END:
 **** extent: 44卷
 **** responsible: 
-***** 德清提
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 挈
+:FUNCTION: 疏義
+:END:
+***** 德清
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 提挈
 :END:
 
 **** textual witnesses
@@ -4496,9 +4529,14 @@
 :END:
 **** extent: 36卷
 **** responsible: 
-***** 德清提
+***** 澄觀
 :PROPERTIES:
-:FUNCTION: 挈
+:FUNCTION: 疏義
+:END:
+***** 德清
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 提挈
 :END:
 
 **** textual witnesses
@@ -4521,9 +4559,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永光錄
+***** 永光
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 錄集
 :END:
 
 **** textual witnesses
@@ -4546,9 +4584,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永光敬
+***** 永光
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 敬錄
 :END:
 
 **** textual witnesses
@@ -4641,9 +4679,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 澄觀
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 宗密
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 註
 :END:
 
 **** textual witnesses
@@ -4756,7 +4798,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師會述　希迪
+***** 師會
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 希迪
 :PROPERTIES:
 :FUNCTION: 註
 :END:
@@ -4781,9 +4827,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 師會述　善熹
+***** 師會
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 述
+:END:
+***** 善熹
+:PROPERTIES:
+:FUNCTION: 注
 :END:
 
 **** textual witnesses
@@ -4931,9 +4981,9 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 續法集
+***** 續法
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 集錄
 :END:
 
 **** textual witnesses
@@ -5097,7 +5147,6 @@
 :CBETA_ID:  X74n1469
 :CUSTOM_ID: ZB6e0146
 :SOURCE: 卍 Xuzangjing Vol. 74, No. 1469
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5121,9 +5170,29 @@
 :END:
 **** extent: 42卷
 **** responsible: 
-***** 正止治
+***** 一行
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 依經錄
+:END:
+***** 普瑞
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 補註
+:END:
+***** 讀徹
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 參閱
+:END:
+***** 木增
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 訂正
+:END:
+***** 正止
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 治定
 :END:
 
 **** textual witnesses
@@ -5221,11 +5290,6 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 明
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5291,9 +5355,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 淨源編
+***** 淨源
 :PROPERTIES:
-:FUNCTION: 敘
+:FUNCTION: 編敘
 :END:
 
 **** textual witnesses
@@ -5337,7 +5401,6 @@
 :CBETA_ID:  F28n1076
 :CUSTOM_ID: ZB6e0156
 :SOURCE: Fangshan shijing Vol. 28, No. 1076
-:DYNASTY: 石經寺主講經律沙門志仙記
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5362,7 +5425,6 @@
 :CBETA_ID:  F28n1083
 :CUSTOM_ID: ZB6e0157
 :SOURCE: Fangshan shijing Vol. 28, No. 1083
-:DYNASTY: 杜順法師造
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5382,7 +5444,6 @@
 :CBETA_ID:  F28n1082
 :CUSTOM_ID: ZB6e0158
 :SOURCE: Fangshan shijing Vol. 28, No. 1082
-:DYNASTY: 南岳般舟道場比丘惟勁釋
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5402,7 +5463,6 @@
 :CBETA_ID:  F28n1084
 :CUSTOM_ID: ZB6e0159
 :SOURCE: Fangshan shijing Vol. 28, No. 1084
-:DYNASTY: 大香山隱士釋法藏述
 :END:
 **** extent: 1卷
 **** responsible: 
