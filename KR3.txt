@@ -513,6 +513,33 @@
       :BOOK:   (10)
       :END:
 
+*** SB23n352 張子語錄
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+後錄二卷
+坿校勘記一卷
+**** responsible:
+***** 張載
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
+
 *** [[mandoku:ZB3a0025.org][ZB3a0025]] 注解正蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0025
@@ -628,6 +655,26 @@
 
 **** textual witnesses
 ***** WYG
+*** SB23n354 程氏家塾讀書分年日程
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+綱領一卷
+**** responsible:
+***** 程端禮
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 元
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏元刊本
+:END:
+
+
 *** [[mandoku:ZB3a0030.org][ZB3a0030]] 公是第子記
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0030
@@ -1722,6 +1769,8 @@
 
 **** textual witnesses
 ***** WYG
+*** [[at:text/chant/H21-01-0102/H21-01-0102_001.txt][H21-01-0102]] 周昭周子
+
 *** [[mandoku:ZB3a0084.org][ZB3a0084]] 周子抄釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB3a0084
@@ -2862,7 +2911,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3c0003.org][ZB3c0003]] 鄧子
+*** [[mandoku:ZB3c0003.org][ZB3c0003]] 鄧析子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3c0003
 :SOURCE:   四庫全書 文淵閣版, V729.3, p553
@@ -17728,6 +17777,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1048.1, p1
 :EXTENT: 14 卷
 :BOOK:   6
+:ZB_ID:    ZB6r0137
 :END:
 **** responsible:
 ***** 釋僧祐
@@ -17751,6 +17801,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1048.2, p219
 :EXTENT: 30 卷
 :BOOK:   14
+:ZB_ID:    ZB6r0138
 :END:
 **** responsible:
 ***** 釋道宣
@@ -17775,6 +17826,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1049.1, p1 - V1050.1
 :EXTENT: 120 卷
 :BOOK:   62
+:ZB_ID:    ZB6s0002
 :END:
 **** responsible:
 ***** 釋道世
@@ -17804,6 +17856,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1051.1, p1
 :EXTENT: 20 卷
 :BOOK:   10
+:ZB_ID:    ZB6s0093
 :END:
 **** responsible:
 ***** 釋智昇
@@ -17820,6 +17873,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1052.1, p1
 :EXTENT: 30 卷
 :BOOK:   14
+:ZB_ID:    ZB6r0054
 :END:
 **** responsible:
 ***** 釋贊寧
@@ -17831,7 +17885,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3m0006.org][ZB3m0006]] 法藏碎金錄
+*** ? [[mandoku:ZB3m0006.org][ZB3m0006]] 法藏碎金錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0006
 :SOURCE:   四庫全書 文淵閣版, V1052.2, p425
@@ -17848,7 +17902,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3m0007.org][ZB3m0007]] 道院集要
+*** ? [[mandoku:ZB3m0007.org][ZB3m0007]] 道院集要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3m0007
 :SOURCE:   四庫全書 文淵閣版, V1052.3, p611
@@ -17877,6 +17931,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1052.4, p639
 :EXTENT: 30 卷
 :BOOK:   6
+:ZB_ID:    ZB6q0040
 :END:
 **** responsible:
 ***** 釋惠洪
@@ -17921,6 +17976,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1052.5, p791
 :EXTENT: 2 卷
 :BOOK:   2
+:ZB_ID:    ZB6r0157
 :END:
 **** responsible:
 ***** 釋惠洪
@@ -17945,6 +18001,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1052.6, p873
 :EXTENT: 4 卷
 :BOOK:   2
+:ZB_ID:    ZB6r0092
 :END:
 **** responsible:
 ***** 釋曉瑩
@@ -17962,6 +18019,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1053.1, p1
 :EXTENT: 20 卷
 :BOOK:   20
+:ZB_ID:    ZB6q0012
 :END:
 **** responsible:
 ***** 釋普濟
@@ -17978,6 +18036,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1054.1, p1
 :EXTENT: 4 卷
 :BOOK:   4
+:ZB_ID:    ZB6r0014
 :END:
 **** responsible:
 ***** 釋覺岸
@@ -17995,6 +18054,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1054.2, p221
 :EXTENT: 22 卷
 :BOOK:   20
+:ZB_ID:    ZB6r0013
 :END:
 **** responsible:
 ***** 釋念常
@@ -18013,6 +18073,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.1, p1
 :EXTENT: 1 卷
 :BOOK:   1
+:ZB_ID:    ZB5a0114
 :END:
 **** responsible:
 ***** 黃帝
@@ -18052,6 +18113,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.3, p19
 :EXTENT: 4 卷
 :BOOK:   1
+:ZB_ID:    ZB5a0110
 :END:
 **** responsible:
 ***** 夏元鼎
@@ -18063,9 +18125,10 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0003.org][ZB3n0003]] 老子道德經
+*** [[mandoku:ZB3n0003.org][ZB3n0003]] 老子道德經(河上公注)
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0003
+:ZB_ID: ZB5c0064
 :SOURCE:   四庫全書 文淵閣版, V1055.4, p45
 :EXTENT: 2 卷
 :BOOK:   1
@@ -18092,6 +18155,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.5, p75
 :EXTENT: 6 卷
 :BOOK:   2
+:ZB_ID:    ZB5c0075
 :END:
 **** responsible:
 ***** 嚴遵
@@ -18103,9 +18167,10 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0005.org][ZB3n0005]] 老子道德經
+*** [[mandoku:ZB3n0005.org][ZB3n0005]] 老子道德經(王弼注)
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0005
+:ZB_ID: ZB5c0072
 :SOURCE:   四庫全書 文淵閣版, V1055.6, p137
 :EXTENT: 2 卷
 :BOOK:   2
@@ -18123,6 +18188,7 @@
 *** [[mandoku:ZB3n0006.org][ZB3n0006]] 老子解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0006
+:ZB_ID: ZB5c0073
 :SOURCE:   四庫全書 文淵閣版, V1055.7, p187
 :EXTENT: 2 卷
 :BOOK:   2
@@ -18137,7 +18203,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0007.org][ZB3n0007]] 道德寶章
+*** ? [[mandoku:ZB3n0007.org][ZB3n0007]] 道德寶章
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0007
 :SOURCE:   四庫全書 文淵閣版, V1055.8, p239
@@ -18156,6 +18222,7 @@
 *** [[mandoku:ZB3n0008.org][ZB3n0008]] 道德眞經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0008
+:ZB_ID: ZB5c0088
 :SOURCE:   四庫全書 文淵閣版, V1055.9, p257
 :EXTENT: 4 卷
 :BOOK:   2
@@ -18176,6 +18243,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.10, p323
 :EXTENT: 3 卷
 :BOOK:   3
+:ZB_ID:    ZB5h0056
 :END:
 **** responsible:
 ***** 焦竑
@@ -18201,7 +18269,7 @@
       :BOOK:   (3)
       :END:
 
-*** [[mandoku:ZB3n0010.org][ZB3n0010]] 御定道德經註
+*** ? [[mandoku:ZB3n0010.org][ZB3n0010]] 御定道德經註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0010
 :SOURCE:   四庫全書 文淵閣版, V1055.11, p445
@@ -18224,7 +18292,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0011.org][ZB3n0011]] 老子說畧
+*** ? [[mandoku:ZB3n0011.org][ZB3n0011]] 老子說畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0011
 :SOURCE:   四庫全書 文淵閣版, V1055.12, p481
@@ -18241,7 +18309,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0012.org][ZB3n0012]] 道德經註
+*** ? [[mandoku:ZB3n0012.org][ZB3n0012]] 道德經註
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0012
 :SOURCE:   四庫全書 文淵閣版, V1055.13, p519
@@ -18265,7 +18333,7 @@
       :BOOK:   (1)
       :END:
 
-*** [[mandoku:ZB3n0013.org][ZB3n0013]] 關尹子
+*** ? [[mandoku:ZB3n0013.org][ZB3n0013]] 關尹子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0013
 :SOURCE:   四庫全書 文淵閣版, V1055.14, p551
@@ -18287,6 +18355,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.15, p573
 :EXTENT: 8 卷
 :BOOK:   3
+:ZB_ID:    ZB5c0119
 :END:
 **** responsible:
 ***** 列禦寇
@@ -18316,6 +18385,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1055.16, p651
 :EXTENT: 8 卷
 :BOOK:   4
+:ZB_ID:    ZB5c0116
 :END:
 **** responsible:
 ***** 江遹
@@ -18329,6 +18399,7 @@
 *** [[mandoku:ZB3n0016.org][ZB3n0016]] 莊子注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0016
+:ZB_ID: ZB5c0131
 :SOURCE:   四庫全書 文淵閣版, V1056.1, p1
 :EXTENT: 10 卷
 :BOOK:   6
@@ -18349,6 +18420,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1056.2, p169
 :EXTENT: 19 卷
 :BOOK:   8
+:ZB_ID:    ZB5c0129
 :END:
 **** responsible:
 ***** 王雱
@@ -18374,6 +18446,7 @@
 :EXTENT: 10 卷
 :BOOK:   10
 :DATE:   1235
+:ZB_ID:    ZB5c0121
 :END:
 **** responsible:
 ***** 林希逸
@@ -18390,6 +18463,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1057.1, p1
 :EXTENT: 106 卷
 :BOOK:   32
+:ZB_ID:    ZB5c0120
 :END:
 **** responsible:
 ***** 褚伯秀
@@ -18406,6 +18480,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.1, p1
 :EXTENT: 8 卷
 :BOOK:   8
+:ZB_ID:    ZB5h0057
 :END:
 **** responsible:
 ***** 焦竑
@@ -18451,7 +18526,7 @@
       :DATES:    1541 - 1620
       :END:
 
-*** [[mandoku:ZB3n0021.org][ZB3n0021]] 文子
+*** ? [[mandoku:ZB3n0021.org][ZB3n0021]] 文子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0021
 :SOURCE:   四庫全書 文淵閣版, V1058.2, p305
@@ -18467,7 +18542,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3n0022.org][ZB3n0022]] 文子纘義
+*** ? [[mandoku:ZB3n0022.org][ZB3n0022]] 文子纘義
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0022
 :SOURCE:   四庫全書 文淵閣版, V1058.3, p371
@@ -18490,6 +18565,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.4, p487
 :EXTENT: 2 卷
 :BOOK:   1
+:ZB_ID:    ZB5a0306
 :END:
 **** responsible:
 ***** 劉向
@@ -18507,6 +18583,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.5, p509
 :EXTENT: 3 卷
 :BOOK:   1
+:ZB_ID:    ZB5d0019
 :END:
 **** responsible:
 ***** 彭曉
@@ -18523,6 +18600,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.6, p557
 :EXTENT: 1 卷
 :BOOK:   1
+:ZB_ID:    ZB5d0018
 :END:
 **** responsible:
 ***** 朱熹
@@ -18540,6 +18618,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.7, p581
 :EXTENT: 3 卷
 :BOOK:   2
+:ZB_ID:    ZB5d0024
 :END:
 **** responsible:
 ***** 陳顯微
@@ -18557,6 +18636,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1058.8, p625
 :EXTENT: 3 卷
 :BOOK:   4
+:ZB_ID:    ZB5d0022
 :END:
 **** responsible:
 ***** 俞琰
@@ -18614,6 +18694,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1059.1, p1
 :EXTENT: 8 卷
 :BOOK:   8
+:ZB_ID:    ZB5f0019,ZB5f0021
 :END:
 **** responsible:
 ***** 葛洪
@@ -18660,6 +18741,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1059.3, p313
 :EXTENT: 20 卷
 :BOOK:   6
+:ZB_ID:    ZB5d0033
 :END:
 **** responsible:
 ***** 陶弘景
@@ -18715,6 +18797,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1059.6, p549
 :EXTENT: 1 卷
 :BOOK:   1
+:ZB_ID:    ZB5d0047
 :END:
 **** responsible:
 ***** 張志和
@@ -18739,6 +18822,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1059.7, p567
 :EXTENT: 3 卷
 :BOOK:   (1)
+:ZB_ID:    ZB5d0046
 :END:
 **** responsible:
 ***** 闕名
@@ -18755,6 +18839,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1059.8, p583
 :EXTENT: 3 卷
 :BOOK:   1
+:ZB_ID:    ZB5a0307
 :END:
 **** responsible:
 ***** 沈汾
@@ -18772,6 +18857,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1060.1, p1 - V1061.1
 :EXTENT: 122 卷
 :BOOK:   48
+:ZB_ID:    ZB5d0050
 :END:
 **** responsible:
 ***** 張君房
@@ -18789,6 +18875,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1061.2, p429
 :EXTENT: 3 卷
 :BOOK:   3
+:ZB_ID:    ZB5a0142
 :END:
 **** responsible:
 ***** 張伯端
@@ -18831,6 +18918,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1061.3, p535
 :EXTENT: 3 卷
 :BOOK:   1
+:ZB_ID:    ZB5d0013
 :END:
 **** responsible:
 ***** 王道
@@ -18848,6 +18936,7 @@
 :SOURCE:   四庫全書 文淵閣版, V1061.4, p577
 :EXTENT: 1 卷
 :BOOK:   1
+:ZB_ID:    ZB5d0026
 :END:
 **** responsible:
 ***** 俞琰

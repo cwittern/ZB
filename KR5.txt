@@ -12721,6 +12721,8 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[at:text/chant/H11-06-0032/H11-06-0032_001.txt][H11-06-0032]] 老子
+
 *** [[mandoku:ZB5c0064.org][ZB5c0064]] 道德真經註(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0064
@@ -13735,6 +13737,25 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** SB33n437 文始眞經
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+坿校勘記一卷
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:END:
+
 *** [[mandoku:ZB5c0113.org][ZB5c0113]] 文始真經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0113
@@ -13862,6 +13883,36 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0014.org][ZB3n0014]] 列子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0014
+:SOURCE:   四庫全書 文淵閣版, V1055.15, p573
+:EXTENT: 8 卷
+:BOOK:   3
+:ZB_ID:    ZB5c0119
+:END:
+**** responsible:
+***** 列禦寇
+      :PROPERTIES:
+      :DYNASTY:  周
+      :FUNCTION: 撰
+      :DATES:    -4th cent
+      :END:
+
+***** 張湛
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 註
+      :END:
+
+***** 殷敬愼
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 釋文
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5c0119.org][ZB5c0119]] 列子沖虛至德真經釋文
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0119
@@ -13888,6 +13939,8 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[at:text/chant/H11-06-0033/H11-06-0033_001.txt][H11-06-0033]] 莊子
+
 *** [[mandoku:ZB5c0120.org][ZB5c0120]] 南華真經義海纂微
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0120
@@ -14143,6 +14196,31 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** SB33n438 通玄眞經
+:PROPERTIES:
+:EXTENT: 十二卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 徐靈府
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 唐
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
 *** [[mandoku:ZB5c0132.org][ZB5c0132]] 通玄真經(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0132
@@ -14186,6 +14264,37 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** SB33n439 新雕洞靈眞經
+:PROPERTIES:
+:EXTENT: 五卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 王士元
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 唐
+:END:
+
+***** 何粲
+:PROPERTIES:
+:FUNCTION: 注
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
 *** [[mandoku:ZB5c0134.org][ZB5c0134]] 通玄真經纘義　　
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0134
@@ -17375,6 +17484,23 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0031.org][ZB3n0031]] 神仙傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0031
+:SOURCE:   四庫全書 文淵閣版, V1059.2, p253
+:EXTENT: 10 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 葛洪
+      :PROPERTIES:
+      :DYNASTY:  晉
+      :FUNCTION: 撰
+      :DATES:    ca. 250 - ca. 330
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5c0308.org][ZB5c0308]] 諸家神品丹法
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0308
@@ -18985,6 +19111,22 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0028.org][ZB3n0028]] 周易參同契分章註
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0028
+:SOURCE:   四庫全書 文淵閣版, V1058.9, p749
+:EXTENT: 3 卷
+:BOOK:   2
+:END:
+**** responsible:
+***** 陳致虛
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5d0023.org][ZB5d0023]] 周易參同契釋疑　　　
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0023
@@ -19027,6 +19169,23 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0029.org][ZB3n0029]] 古文參同契集解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0029
+:SOURCE:   四庫全書 文淵閣版, V1058.10, p811
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+**** responsible:
+***** 蔣一彪
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :DATES:    fl. 1614
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5d0025.org][ZB5d0025]] 周易參同契註(五)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0025
@@ -19067,6 +19226,23 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0042.org][ZB3n0042]] 席上腐談
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0042
+:SOURCE:   四庫全書 文淵閣版, V1061.5, p597
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 俞琰
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :DATES:    1258 - 1314
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5d0027.org][ZB5d0027]] 玄牝之門賦
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0027
@@ -19197,6 +19373,44 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0033.org][ZB3n0033]] 亢倉子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0033
+:SOURCE:   四庫全書 文淵閣版, V1059.4, p509
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 王士源
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB3n0033a.org][ZB3n0033a]] 亢倉子注
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0033a
+:SOURCE:   四庫全書 文淵閣版, V1059.5, p527
+:EXTENT: 9 卷
+:BOOK:   (1)
+:END:
+**** responsible:
+***** 何粲
+      :PROPERTIES:
+      :DYNASTY:  唐
+      :FUNCTION: 撰
+      :END:
+
+***** 黃諫
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 音釋
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5d0034.org][ZB5d0034]] 道樞
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0034
@@ -19462,7 +19676,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5d0047.org][ZB5d0047]] 玄真子外篇
+*** [[mandoku:ZB5d0047.org][ZB5d0047]] 玄真子(外篇)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0047
 :TTC: 304 - 305
@@ -26899,6 +27113,22 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** [[mandoku:ZB3n0043.org][ZB3n0043]] 道藏目錄詳註
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0043
+:SOURCE:   四庫全書 文淵閣版, V1061.6, p627
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 白雲齋
+      :PROPERTIES:
+      :DYNASTY:  明
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
 *** [[mandoku:ZB5g0239.org][ZB5g0239]] 道藏闕經目錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5g0239
@@ -27944,7 +28174,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB5h0058.org][ZB5h0058]] 莊子翼附錄#
+**** [[mandoku:ZB5h0058.org][ZB5h0058]] 莊子翼附錄#
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0058
 :TTC: 
@@ -27956,22 +28186,22 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
 :END:
 
 [[dzimg:1120/1120-126.tif][HFL 1120 126]]
-**** responsible:
-***** 焦竤
-      :PROPERTIES:
-      :DYNASTY:  明
-      :FUNCTION: ?
-      :DATES:    ?
-      :END:
-**** textual witnesses
-***** SJB
-***** ZHDZ
- CH0860 DZ1488 KX1510 360757a 道藏目錄祥注 ZHDZ00p0000 XWDZ00p0000 HFL　
+***** responsible:
+****** 焦竤
+       :PROPERTIES:
+       :DYNASTY:  明
+       :FUNCTION: ?
+       :DATES:    ?
+       :END:
+***** textual witnesses
+****** SJB
+****** ZHDZ
+  CH0860 DZ1488 KX1510 360757a 道藏目錄祥注 ZHDZ00p0000 XWDZ00p0000 HFL　
 
 
 
- ZHDZ02p0352 xx 紫文行事訣
- ZHDZ02p0392 xx 上清仙府x林經
- ZHDZ02p0296 xx 上清修行秘訣（擬）
+  ZHDZ02p0352 xx 紫文行事訣
+  ZHDZ02p0392 xx 上清仙府x林經
+  ZHDZ02p0296 xx 上清修行秘訣（擬）
 
- xx xx xx 玉清無極總真文昌大洞仙經序圖(元-衛琪) ZHDZ00p0000 XWDZ03p0743 HFL　
+  xx xx xx 玉清無極總真文昌大洞仙經序圖(元-衛琪) ZHDZ00p0000 XWDZ03p0743 HFL　

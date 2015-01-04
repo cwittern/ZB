@@ -3,6 +3,8 @@
 #+TITLE: 漢籍リポジトリ目録：1 經部
 * ZB1 經部
 ** ZB1a 易類
+*** [[at:text/chant/H15-23-0084/H15-23-0084_001.txt][H15-23-0084]] 周易
+
 *** [[mandoku:ZB1a0001.org][ZB1a0001]] 子夏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0001
@@ -3357,6 +3359,27 @@
 **** textual witnesses
 ***** WYG
 ** ZB1b 書類
+*** [[at:text/chant/H15-25-0089/H15-25-0089_001.txt][H15-25-0089]] 尚書
+*** SB31n399 尚書正義
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 日本覆印宋本
+:END:
+
+
+
 *** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
@@ -4537,6 +4560,8 @@
 
 **** textual witnesses
 ***** WYG
+*** [[at:text/chant/H15-27-0095/H15-27-0095_001.txt][H15-27-0095]] 毛詩
+
 *** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
@@ -4714,6 +4739,24 @@
       :DYNASTY:  宋
       :FUNCTION: 補亡
       :END:
+
+*** SB31n403 詩集傳
+:PROPERTIES:
+:EXTENT: 二十卷
+:END:
+
+**** responsible:
+***** 朱熹
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 中華學藝社借照東京靜嘉堂文庫藏宋本
+:END:
 
 *** [[mandoku:ZB1c0004.org][ZB1c0004]] 蘇氏詩集傳
 :PROPERTIES:
@@ -5832,7 +5875,7 @@
       :BOOK:   (10)
       :END:
 
-*** [[mandoku:ZB1c0059.org][ZB1c0059]] 詩外外傳
+*** [[mandoku:ZB1c0059.org][ZB1c0059]] 韓詩外傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1c0059
 :SOURCE:   四庫全書 文淵閣版, V89.3, p775
@@ -5850,6 +5893,8 @@
 **** textual witnesses
 ***** WYG
 ** ZB1d 禮類
+*** [[at:text/chant/H15-26-0092/H15-26-0092_001.txt][H15-26-0092]] 周禮
+
 *** [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0001
@@ -6309,6 +6354,29 @@
 
 **** textual witnesses
 ***** WYG
+*** [[at:text/chant/H15-26-0091/H15-26-0091_001.txt][H15-26-0091]] 儀禮
+
+*** SB21n324 儀禮疏
+:PROPERTIES:
+:EXTENT: 五十卷
+:END:
+
+**** responsible:
+***** 賈公彥
+:PROPERTIES:
+:FUNCTION: 等撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 汪閬原覆宋景刊本
+:END:
+
+
+
+
 *** [[mandoku:ZB1d0023.org][ZB1d0023]] 儀禮注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0023
@@ -6848,6 +6916,32 @@
 
 **** textual witnesses
 ***** WYG
+*** SB21n330 禮記要義
+:PROPERTIES:
+:EXTENT: 三十三卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 魏了翁
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
 *** [[mandoku:ZB1d0048.org][ZB1d0048]] 月令解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0048
@@ -6931,6 +7025,24 @@
 
 **** textual witnesses
 ***** WYG
+*** SB31n400 禮記正義殘
+:PROPERTIES:
+:EXTENT: 九卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 日本景印舊鈔本及宋刊本
+:END:
+
 *** [[mandoku:ZB1d0053.org][ZB1d0053]] 月令明義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0053
@@ -7574,6 +7686,29 @@
 **** textual witnesses
 ***** WYG
 ** ZB1e 春秋類
+*** [[at:text/chant/H15-24-0086/H15-24-0086_001.txt][H15-24-0086]] 春秋左傳
+
+*** SB21n325 春秋正義
+:PROPERTIES:
+:EXTENT: 三十六卷
+:END:
+
+**** responsible:
+***** 孔穎達
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 唐
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園藏日本覆印景鈔正宗寺本
+:END:
+
+
+
+
 *** [[mandoku:ZB1e0001.org][ZB1e0001]] 春秋左傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0001
@@ -7707,6 +7842,7 @@
       :FUNCTION: 撰
       :END:
 
+*** [[at:text/chant/H15-24-0087/H15-24-0087_001.txt][H15-24-0087]] 春秋穀梁傳
 *** [[mandoku:ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0003
@@ -8366,6 +8502,32 @@
 
 **** textual witnesses
 ***** WYG
+*** SB21n332 東萊呂太史春秋左傳類編
+:PROPERTIES:
+:EXTENT: 六卷
+:END:
+
+坿校勘記一卷
+**** responsible:
+***** 呂祖謙
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 胡文楷
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏舊鈔本
+:END:
+
+
 *** [[mandoku:ZB1e0036.org][ZB1e0036]] 春秋左傳要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0036
@@ -10059,6 +10221,8 @@
 **** textual witnesses
 ***** WYG
 ** ZB1f 孝經類
+*** [[at:text/chant/H15-22-0082/H15-22-0082_001.txt][H15-22-0082]] 孝經
+
 *** [[mandoku:ZB1f0001.org][ZB1f0001]] 古文孝經孔氏傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1f0001
@@ -11001,6 +11165,8 @@
 **** textual witnesses
 ***** WYG
 ** ZB1h 四書類
+*** [[at:text/chant/H15-21-0080/H15-21-0080_001.txt][H15-21-0080]] 孟子
+
 *** ZB1h0001 孟子注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0001
@@ -11037,6 +11203,8 @@
       :DYNASTY:  清
       :FUNCTION: 撰
       :END:
+
+*** [[at:text/chant/H15-21-0081/H15-21-0081_001.txt][H15-21-0081]] 論語
 
 *** ZB1h0002 論語集解義疏
 :PROPERTIES:
@@ -11926,6 +12094,25 @@
       :EXTENT: (2) 卷
       :BOOK:   (2)
       :END:
+
+*** SB31n405 中庸說殘
+:PROPERTIES:
+:EXTENT: 三卷
+:END:
+
+**** responsible:
+***** 張九成
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 海鹽張氏涉園照存京都東福寺藏宋槧本
+:END:
+
 
 *** ZB1h0038 四書大全
 :PROPERTIES:
@@ -12907,6 +13094,27 @@
       :END:
 
 ** ZB1j 小學類
+*** [[at:text/chant/H16-28-0100/H16-28-0100_001.txt][H16-28-0100]] 爾雅
+*** SB21n326 爾雅疏
+:PROPERTIES:
+:EXTENT: 十卷
+:END:
+
+**** responsible:
+***** 邢昺
+:PROPERTIES:
+:FUNCTION: 等奉勅撰
+:DYNASTY: 宋
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 宋刊本
+:END:
+
+
+
 *** ZB1j0001 爾雅注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0001

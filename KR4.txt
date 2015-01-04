@@ -3,6 +3,8 @@
 #+TITLE: 漢籍リポジトリ目録：4 集部
 * ZB4 集部
 ** ZB4a 楚辭類
+*** [[at:text/chant/H12-10-0047/H12-10-0047_001.txt][H12-10-0047]] 楚辭
+
 *** [[mandoku:ZB4a0001.org][ZB4a0001]] 楚辭章句
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0001
@@ -4868,7 +4870,7 @@
       :FUNCTION: 編
       :END:
 
-**** [[mandoku:ZB4b0186a.org][ZB4b0186a]] 外集
+**** [[mandoku:ZB4b0186a.org][ZB4b0186a]] 山谷集外集
       :PROPERTIES:
       :EXTENT: (14) 卷
       :BOOK:   (7)
@@ -4880,7 +4882,7 @@
       :FUNCTION: 編
       :END:
 
-**** [[mandoku:ZB4b0186b.org][ZB4b0186b]] 别集
+**** [[mandoku:ZB4b0186b.org][ZB4b0186b]] 山谷集别集
       :PROPERTIES:
       :EXTENT: (20) 卷
       :BOOK:   (6)
@@ -4947,18 +4949,18 @@
       :BOOK:   (5)
       :END:
 
-**** [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
-      :PROPERTIES:
-      :TYPE:   appendix
-      :EXTENT: 17 卷
-      :BOOK:   6
-      :END:
-***** responsible:
-****** 史容
-      :PROPERTIES:
-      :DYNASTY:  宋
-      :FUNCTION: 注
-      :END:
+*** [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
+     :PROPERTIES:
+     :TYPE:   appendix
+     :EXTENT: 17 卷
+     :BOOK:   6
+     :END:
+**** responsible:
+***** 史容
+     :PROPERTIES:
+     :DYNASTY:  宋
+     :FUNCTION: 注
+     :END:
 
 **** 原目
       :PROPERTIES:
@@ -5983,6 +5985,32 @@
 
 **** textual witnesses
 ***** WYG
+*** SB23n353 龜山先生語錄
+:PROPERTIES:
+:EXTENT: 四卷
+:END:
+
+後錄二卷
+坿校勘記一卷
+**** responsible:
+***** 楊時
+:PROPERTIES:
+:FUNCTION: 撰
+:DYNASTY: 宋
+:END:
+
+***** 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:
+
+**** textual witnesses
+***** SBCK
+:PROPERTIES:
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
+:END:
+
 *** [[mandoku:ZB4b0237.org][ZB4b0237]] 梁谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0237
