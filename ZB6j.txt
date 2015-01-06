@@ -9,7 +9,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 善無畏．一行
+***** 善無畏
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 一行
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -240,7 +244,6 @@
 :CBETA_ID:  T18n0852b
 :CUSTOM_ID: ZB6j0006
 :SOURCE: Taisho Tripitaka Vol. 18, No. 852b
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -300,11 +303,10 @@
 :CBETA_ID:  T18n0854
 :CUSTOM_ID: ZB6j0008
 :SOURCE: Taisho Tripitaka Vol. 18, No. 854
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -330,7 +332,6 @@
 :CBETA_ID:  T18n0855
 :CUSTOM_ID: ZB6j0009
 :SOURCE: Taisho Tripitaka Vol. 18, No. 855
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -445,10 +446,14 @@
 :CBETA_ID:  T18n0858
 :CUSTOM_ID: ZB6j0012
 :SOURCE: Taisho Tripitaka Vol. 18, No. 858
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -460,10 +465,14 @@
 :CBETA_ID:  T18n0859
 :CUSTOM_ID: ZB6j0013
 :SOURCE: Taisho Tripitaka Vol. 18, No. 859
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -495,10 +504,14 @@
 :CBETA_ID:  T18n0860
 :CUSTOM_ID: ZB6j0014
 :SOURCE: Taisho Tripitaka Vol. 18, No. 860
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -555,7 +568,6 @@
 :CBETA_ID:  T18n0862
 :CUSTOM_ID: ZB6j0016
 :SOURCE: Taisho Tripitaka Vol. 18, No. 862
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -625,7 +637,6 @@
 :CBETA_ID:  T18n0864A
 :CUSTOM_ID: ZB6j0018
 :SOURCE: Taisho Tripitaka Vol. 18, No. 864A
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1175,11 +1186,10 @@
 :CBETA_ID:  T18n0875
 :CUSTOM_ID: ZB6j0030
 :SOURCE: Taisho Tripitaka Vol. 18, No. 875
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1269,7 +1279,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 善無畏．一行
+***** 善無畏
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 一行
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1425,7 +1439,6 @@
 :CBETA_ID:  T18n0881
 :CUSTOM_ID: ZB6j0036
 :SOURCE: Taisho Tripitaka Vol. 18, No. 881
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1454,9 +1467,9 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1504,9 +1517,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -1559,9 +1572,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2345,7 +2358,6 @@
 :CBETA_ID:  T18n0898
 :CUSTOM_ID: ZB6j0057
 :SOURCE: Taisho Tripitaka Vol. 18, No. 898
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2370,7 +2382,6 @@
 :CBETA_ID:  T18n0899
 :CUSTOM_ID: ZB6j0058
 :SOURCE: Taisho Tripitaka Vol. 18, No. 899
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2800,7 +2811,6 @@
 :CBETA_ID:  T18n0910
 :CUSTOM_ID: ZB6j0070
 :SOURCE: Taisho Tripitaka Vol. 18, No. 910
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2865,7 +2875,6 @@
 :CBETA_ID:  T18n0912
 :CUSTOM_ID: ZB6j0072
 :SOURCE: Taisho Tripitaka Vol. 18, No. 912
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2900,7 +2909,6 @@
 :CBETA_ID:  T18n0913
 :CUSTOM_ID: ZB6j0073
 :SOURCE: Taisho Tripitaka Vol. 18, No. 913
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2935,7 +2943,6 @@
 :CBETA_ID:  T18n0914
 :CUSTOM_ID: ZB6j0074
 :SOURCE: Taisho Tripitaka Vol. 18, No. 914
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3020,7 +3027,6 @@
 :CBETA_ID:  T18n0916
 :CUSTOM_ID: ZB6j0076
 :SOURCE: Taisho Tripitaka Vol. 18, No. 916
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3050,7 +3056,6 @@
 :CBETA_ID:  T18n0917
 :CUSTOM_ID: ZB6j0077
 :SOURCE: Taisho Tripitaka Vol. 18, No. 917
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3355,7 +3360,6 @@
 :CBETA_ID:  T19n0924C
 :CUSTOM_ID: ZB6j0085
 :SOURCE: Taisho Tripitaka Vol. 19, No. 924C
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3449,9 +3453,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 阿旺扎什補
+***** 阿旺扎什
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 補譯
 :END:
 
 **** textual witnesses
@@ -3465,7 +3469,6 @@
 :CBETA_ID:  T19n0929
 :CUSTOM_ID: ZB6j0090
 :SOURCE: Taisho Tripitaka Vol. 19, No. 929
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
