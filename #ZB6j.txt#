@@ -13256,7 +13256,6 @@
 :CBETA_ID:  T20n1159A
 :CUSTOM_ID: ZB6j0359
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1159A
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -13281,7 +13280,6 @@
 :CBETA_ID:  T20n1159B
 :CUSTOM_ID: ZB6j0360
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1159B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -13301,7 +13299,6 @@
 :CBETA_ID:  T20n1160
 :CUSTOM_ID: ZB6j0361
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1160
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -13661,10 +13658,14 @@
 :CBETA_ID:  T20n1168B
 :CUSTOM_ID: ZB6j0371
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1168B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
