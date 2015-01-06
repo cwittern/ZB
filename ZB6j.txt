@@ -3783,7 +3783,6 @@
 :CBETA_ID:  T19n0938
 :CUSTOM_ID: ZB6j0099
 :SOURCE: Taisho Tripitaka Vol. 19, No. 938
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3903,7 +3902,6 @@
 :CBETA_ID:  T19n0941
 :CUSTOM_ID: ZB6j0102
 :SOURCE: Taisho Tripitaka Vol. 19, No. 941
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4003,7 +4001,6 @@
 :CBETA_ID:  T19n0944B
 :CUSTOM_ID: ZB6j0106
 :SOURCE: Taisho Tripitaka Vol. 19, No. 944B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4078,10 +4075,14 @@
 :CBETA_ID:  T19n0946
 :CUSTOM_ID: ZB6j0108
 :SOURCE: Taisho Tripitaka Vol. 19, No. 946
-:DYNASTY: 
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4103,7 +4104,6 @@
 :CBETA_ID:  T19n0947
 :CUSTOM_ID: ZB6j0109
 :SOURCE: Taisho Tripitaka Vol. 19, No. 947
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4173,10 +4173,14 @@
 :CBETA_ID:  T19n0949
 :CUSTOM_ID: ZB6j0111
 :SOURCE: Taisho Tripitaka Vol. 19, No. 949
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4483,7 +4487,6 @@
 :CBETA_ID:  T19n0954B
 :CUSTOM_ID: ZB6j0118
 :SOURCE: Taisho Tripitaka Vol. 19, No. 954B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4677,7 +4680,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 󰀃弘
+***** 𧦪弘
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -4813,11 +4816,10 @@
 :CBETA_ID:  T19n0964
 :CUSTOM_ID: ZB6j0128
 :SOURCE: Taisho Tripitaka Vol. 19, No. 964
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4878,7 +4880,6 @@
 :CBETA_ID:  T19n0966
 :CUSTOM_ID: ZB6j0130
 :SOURCE: Taisho Tripitaka Vol. 19, No. 966
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5258,7 +5259,6 @@
 :CBETA_ID:  T19n0974B
 :CUSTOM_ID: ZB6j0139
 :SOURCE: Taisho Tripitaka Vol. 19, No. 974B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5358,7 +5358,6 @@
 :CBETA_ID:  T19n0974E
 :CUSTOM_ID: ZB6j0143
 :SOURCE: Taisho Tripitaka Vol. 19, No. 974E
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5418,10 +5417,14 @@
 :CBETA_ID:  T19n0975
 :CUSTOM_ID: ZB6j0145
 :SOURCE: Taisho Tripitaka Vol. 19, No. 975
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -5472,9 +5475,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 真智等
+***** 真智
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -5778,7 +5781,6 @@
 :CBETA_ID:  T19n0983B
 :CUSTOM_ID: ZB6j0156
 :SOURCE: Taisho Tripitaka Vol. 19, No. 983B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5893,11 +5895,10 @@
 :CBETA_ID:  T19n0986
 :CUSTOM_ID: ZB6j0159
 :SOURCE: Taisho Tripitaka Vol. 19, No. 986
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5933,11 +5934,10 @@
 :CBETA_ID:  T19n0987
 :CUSTOM_ID: ZB6j0160
 :SOURCE: Taisho Tripitaka Vol. 19, No. 987
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6347,7 +6347,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 般若共牟尼室利
+***** 般若
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 牟尼室利
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -6698,10 +6702,14 @@
 :CBETA_ID:  T19n1005B
 :CUSTOM_ID: ZB6j0179
 :SOURCE: Taisho Tripitaka Vol. 19, No. 1005B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6758,11 +6766,10 @@
 :CBETA_ID:  T19n1007
 :CUSTOM_ID: ZB6j0181
 :SOURCE: Taisho Tripitaka Vol. 19, No. 1007
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -7062,7 +7069,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 功德直．玄暢
+***** 功德直
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 玄暢
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
