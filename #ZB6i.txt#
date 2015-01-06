@@ -20544,11 +20544,10 @@
 :CBETA_ID:  T17n0800
 :CUSTOM_ID: ZB6i0500
 :SOURCE: Taisho Tripitaka Vol. 17, No. 800
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -20688,9 +20687,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -20749,11 +20748,10 @@
 :CBETA_ID:  T17n0805
 :CUSTOM_ID: ZB6i0505
 :SOURCE: Taisho Tripitaka Vol. 17, No. 805
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -20794,10 +20792,14 @@
 :CBETA_ID:  T17n0806
 :CUSTOM_ID: ZB6i0506
 :SOURCE: Taisho Tripitaka Vol. 17, No. 806
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -21384,11 +21386,10 @@
 :CBETA_ID:  T17n0819
 :CUSTOM_ID: ZB6i0519
 :SOURCE: Taisho Tripitaka Vol. 17, No. 819
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21474,11 +21475,10 @@
 :CBETA_ID:  T17n0821
 :CUSTOM_ID: ZB6i0521
 :SOURCE: Taisho Tripitaka Vol. 17, No. 821
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21664,11 +21664,10 @@
 :CBETA_ID:  T17n0825
 :CUSTOM_ID: ZB6i0525
 :SOURCE: Taisho Tripitaka Vol. 17, No. 825
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21893,9 +21892,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 地婆訶羅再
+***** 地婆訶羅
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 再譯
 :END:
 
 **** textual witnesses
@@ -22078,9 +22077,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闍那崛多等
+***** 闍那崛多
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
