@@ -18905,11 +18905,10 @@
 :CBETA_ID:  T17n0768
 :CUSTOM_ID: ZB6i0459
 :SOURCE: Taisho Tripitaka Vol. 17, No. 768
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -19486,7 +19485,7 @@
 **** responsible: 
 ***** 續法
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 集
 :END:
 
 **** textual witnesses
@@ -19529,9 +19528,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -19639,7 +19638,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 迦葉摩騰共法蘭
+***** 迦葉摩騰
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 法蘭
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -19714,9 +19717,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 了童補
+***** 守遂
 :PROPERTIES:
 :FUNCTION: 註
+:END:
+***** 了童
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 補註
 :END:
 
 **** textual witnesses
@@ -19810,11 +19818,10 @@
 :CBETA_ID:  T17n0785
 :CUSTOM_ID: ZB6i0483
 :SOURCE: Taisho Tripitaka Vol. 17, No. 785
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -19855,11 +19862,10 @@
 :CBETA_ID:  T17n0786
 :CUSTOM_ID: ZB6i0484
 :SOURCE: Taisho Tripitaka Vol. 17, No. 786
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -20194,7 +20200,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 竺律炎共支越
+***** 竺律炎
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 支越
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -20295,11 +20305,10 @@
 :CBETA_ID:  T17n0795
 :CUSTOM_ID: ZB6i0494
 :SOURCE: Taisho Tripitaka Vol. 17, No. 795
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
