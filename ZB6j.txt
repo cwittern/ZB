@@ -7349,10 +7349,14 @@
 :CBETA_ID:  T19n1021
 :CUSTOM_ID: ZB6j0195
 :SOURCE: Taisho Tripitaka Vol. 19, No. 1021
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -7739,7 +7743,6 @@
 :CBETA_ID:  T19n1029
 :CUSTOM_ID: ZB6j0206
 :SOURCE: Taisho Tripitaka Vol. 19, No. 1029
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8369,11 +8372,10 @@
 :CBETA_ID:  T20n1044
 :CUSTOM_ID: ZB6j0223
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1044
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8409,11 +8411,10 @@
 :CBETA_ID:  T20n1045a
 :CUSTOM_ID: ZB6j0224
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1045a
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8439,11 +8440,10 @@
 :CBETA_ID:  T20n1045b
 :CUSTOM_ID: ZB6j0225
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1045b
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -8474,11 +8474,10 @@
 :CBETA_ID:  T20n1046
 :CUSTOM_ID: ZB6j0226
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1046
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -9179,7 +9178,6 @@
 :CBETA_ID:  T20n1062B
 :CUSTOM_ID: ZB6j0246
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1062B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9194,7 +9192,6 @@
 :CBETA_ID:  T20n1063
 :CUSTOM_ID: ZB6j0247
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1063
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9209,7 +9206,6 @@
 :CBETA_ID:  C071n1666
 :CUSTOM_ID: ZB6j0248
 :SOURCE: Zhonghua Canon Vol. 071, No. 1666
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9574,7 +9570,6 @@
 :CBETA_ID:  T20n1072B
 :CUSTOM_ID: ZB6j0259
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1072B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9589,7 +9584,6 @@
 :CBETA_ID:  T20n1073
 :CUSTOM_ID: ZB6j0260
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1073
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9629,7 +9623,6 @@
 :CBETA_ID:  T20n1074
 :CUSTOM_ID: ZB6j0261
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1074
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -10229,10 +10222,14 @@
 :CBETA_ID:  T20n1088
 :CUSTOM_ID: ZB6j0276
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1088
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -10663,9 +10660,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -11074,7 +11071,7 @@
 :CBETA_ID:  T20n1108A
 :CUSTOM_ID: ZB6j0297
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1108A
-:DYNASTY: 唐
+:DYNASTY: 元
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11094,7 +11091,6 @@
 :CBETA_ID:  T20n1108B
 :CUSTOM_ID: ZB6j0298
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1108B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11339,10 +11335,14 @@
 :CBETA_ID:  T20n1115
 :CUSTOM_ID: ZB6j0306
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1115
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
