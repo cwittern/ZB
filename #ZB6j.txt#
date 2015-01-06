@@ -10222,10 +10222,14 @@
 :CBETA_ID:  T20n1088
 :CUSTOM_ID: ZB6j0276
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1088
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -10656,9 +10660,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -11067,7 +11071,7 @@
 :CBETA_ID:  T20n1108A
 :CUSTOM_ID: ZB6j0297
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1108A
-:DYNASTY: 唐
+:DYNASTY: 元
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11087,7 +11091,6 @@
 :CBETA_ID:  T20n1108B
 :CUSTOM_ID: ZB6j0298
 :SOURCE: Taisho Tripitaka Vol. 20, No. 1108B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
