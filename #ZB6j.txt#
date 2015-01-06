@@ -15374,7 +15374,6 @@
 :CBETA_ID:  T21n1212
 :CUSTOM_ID: ZB6j0418
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1212
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15399,7 +15398,6 @@
 :CBETA_ID:  T21n1213
 :CUSTOM_ID: ZB6j0419
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1213
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15464,7 +15462,6 @@
 :CBETA_ID:  T21n1215
 :CUSTOM_ID: ZB6j0421
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1215
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15494,7 +15491,6 @@
 :CBETA_ID:  T21n1216
 :CUSTOM_ID: ZB6j0422
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1216
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15569,7 +15565,6 @@
 :CBETA_ID:  T21n1218
 :CUSTOM_ID: ZB6j0424
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1218
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15774,10 +15769,14 @@
 :CBETA_ID:  T21n1224
 :CUSTOM_ID: ZB6j0431
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1224
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -15834,7 +15833,6 @@
 :CBETA_ID:  T21n1226
 :CUSTOM_ID: ZB6j0433
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1226
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -15989,10 +15987,14 @@
 :CBETA_ID:  T21n1230
 :CUSTOM_ID: ZB6j0437
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1230
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -16014,7 +16016,6 @@
 :CBETA_ID:  T21n1231
 :CUSTOM_ID: ZB6j0438
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1231
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -16039,7 +16040,6 @@
 :CBETA_ID:  T21n1232
 :CUSTOM_ID: ZB6j0439
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1232
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -16224,11 +16224,10 @@
 :CBETA_ID:  T21n1237
 :CUSTOM_ID: ZB6j0444
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1237
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -16264,11 +16263,10 @@
 :CBETA_ID:  T21n1238
 :CUSTOM_ID: ZB6j0445
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1238
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -16344,7 +16342,6 @@
 :CBETA_ID:  T21n1240
 :CUSTOM_ID: ZB6j0447
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1240
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -16379,7 +16376,6 @@
 :CBETA_ID:  T21n1241
 :CUSTOM_ID: ZB6j0448
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1241
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -17004,11 +17000,10 @@
 :CBETA_ID:  T21n1256
 :CUSTOM_ID: ZB6j0465
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1256
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -17124,7 +17119,6 @@
 :CBETA_ID:  T21n1259
 :CUSTOM_ID: ZB6j0468
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1259
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -17229,11 +17223,10 @@
 :CBETA_ID:  T21n1262
 :CUSTOM_ID: ZB6j0471
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1262
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
