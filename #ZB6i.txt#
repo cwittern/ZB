@@ -16323,7 +16323,6 @@
 :CBETA_ID:  T85n2783
 :CUSTOM_ID: ZB6i0400
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2783
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -16658,11 +16657,10 @@
 :CBETA_ID:  T16n0720
 :CUSTOM_ID: ZB6i0408
 :SOURCE: Taisho Tripitaka Vol. 16, No. 720
-:DYNASTY: 失譯
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -16818,10 +16816,15 @@
 :CBETA_ID:  T17n0723
 :CUSTOM_ID: ZB6i0411
 :SOURCE: Taisho Tripitaka Vol. 17, No. 723
-:DYNASTY: 大勇菩薩撰
+:DYNASTY: 劉宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 大勇菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 撰
+:END:
 ***** 僧伽跋摩
 :PROPERTIES:
 :FUNCTION: 譯
@@ -16963,13 +16966,18 @@
 :CBETA_ID:  T17n0726
 :CUSTOM_ID: ZB6i0414
 :SOURCE: Taisho Tripitaka Vol. 17, No. 726
-:DYNASTY: 馬鳴菩薩集
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 日稱等
+***** 馬鳴菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 集
+:END:
+***** 日稱
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -16993,13 +17001,18 @@
 :CBETA_ID:  T17n0727
 :CUSTOM_ID: ZB6i0415
 :SOURCE: Taisho Tripitaka Vol. 17, No. 727
-:DYNASTY: 馬鳴菩薩集
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 日稱等
+***** 馬鳴菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 集
+:END:
+***** 日稱
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -17023,13 +17036,18 @@
 :CBETA_ID:  T17n0728
 :CUSTOM_ID: ZB6i0416
 :SOURCE: Taisho Tripitaka Vol. 17, No. 728
-:DYNASTY: 觀無畏尊者集
+:DYNASTY: 宋
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 日稱等
+***** 觀無畏尊者
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 集
+:END:
+***** 日稱
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -17573,11 +17591,10 @@
 :CBETA_ID:  T17n0740
 :CUSTOM_ID: ZB6i0428
 :SOURCE: Taisho Tripitaka Vol. 17, No. 740
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -17858,11 +17875,10 @@
 :CBETA_ID:  T17n0746
 :CUSTOM_ID: ZB6i0434
 :SOURCE: Taisho Tripitaka Vol. 17, No. 746
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -17963,11 +17979,10 @@
 :CBETA_ID:  T17n0748
 :CUSTOM_ID: ZB6i0437
 :SOURCE: Taisho Tripitaka Vol. 17, No. 748
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -18008,11 +18023,10 @@
 :CBETA_ID:  T17n0749
 :CUSTOM_ID: ZB6i0438
 :SOURCE: Taisho Tripitaka Vol. 17, No. 749
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -18058,11 +18072,10 @@
 :CBETA_ID:  T17n0750
 :CUSTOM_ID: ZB6i0439
 :SOURCE: Taisho Tripitaka Vol. 17, No. 750
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
