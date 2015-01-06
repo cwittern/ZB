@@ -4176,6 +4176,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -4482,7 +4487,6 @@
 :CBETA_ID:  T19n0954B
 :CUSTOM_ID: ZB6j0118
 :SOURCE: Taisho Tripitaka Vol. 19, No. 954B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4676,7 +4680,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 󰀃弘
+***** 𧦪弘
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -4812,11 +4816,10 @@
 :CBETA_ID:  T19n0964
 :CUSTOM_ID: ZB6j0128
 :SOURCE: Taisho Tripitaka Vol. 19, No. 964
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4877,7 +4880,6 @@
 :CBETA_ID:  T19n0966
 :CUSTOM_ID: ZB6j0130
 :SOURCE: Taisho Tripitaka Vol. 19, No. 966
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
