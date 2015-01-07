@@ -5300,7 +5300,6 @@
 :CBETA_ID:  T85n2787
 :CUSTOM_ID: ZB6k0130
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2787
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -5325,7 +5324,6 @@
 :CBETA_ID:  T85n2788
 :CUSTOM_ID: ZB6k0131
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2788
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5345,7 +5343,6 @@
 :CBETA_ID:  T85n2789
 :CUSTOM_ID: ZB6k0132
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2789
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5365,7 +5362,6 @@
 :CBETA_ID:  T85n2790
 :CUSTOM_ID: ZB6k0133
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2790
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5385,7 +5381,6 @@
 :CBETA_ID:  T85n2791
 :CUSTOM_ID: ZB6k0134
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2791
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5400,7 +5395,6 @@
 :CBETA_ID:  T85n2792
 :CUSTOM_ID: ZB6k0135
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2792
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5430,7 +5424,6 @@
 :CBETA_ID:  T85n2793
 :CUSTOM_ID: ZB6k0136
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2793
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5445,7 +5438,6 @@
 :CBETA_ID:  T85n2794
 :CUSTOM_ID: ZB6k0137
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2794
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5465,7 +5457,6 @@
 :CBETA_ID:  T85n2795
 :CUSTOM_ID: ZB6k0138
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2795
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -5495,7 +5486,6 @@
 :CBETA_ID:  T85n2796
 :CUSTOM_ID: ZB6k0139
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2796
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5519,9 +5509,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 廣承輯錄　智旭會
+***** 廣承
 :PROPERTIES:
-:FUNCTION: 補
+:FUNCTION: 輯錄
+:END:
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 會補
 :END:
 
 **** textual witnesses
@@ -5594,9 +5588,19 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 即靜分
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 撰
+:END:
+***** 元照
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 述
+:END:
+***** 即靜
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -5619,9 +5623,19 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 道宣
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 元照
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
+:END:
+***** 即靜
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -5669,9 +5683,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 廣莫輯
+***** 廣莫
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 輯錄
 :END:
 
 **** textual witnesses
@@ -5744,9 +5758,9 @@
 :END:
 **** extent: 17卷
 **** responsible: 
-***** 智旭輯
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 繹
+:FUNCTION: 彙釋
 :END:
 
 **** textual witnesses
@@ -5919,9 +5933,19 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 禪能合
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 疏
+:END:
+***** 元照
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 記
+:END:
+***** 禪能
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 合會
 :END:
 
 **** textual witnesses
@@ -5969,9 +5993,14 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 讀體續
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 撰集
+:END:
+***** 讀體
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 續釋
 :END:
 
 **** textual witnesses
@@ -5994,9 +6023,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 法礪撰
+***** 法礪
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -6019,9 +6048,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 志鴻撰
+***** 志鴻
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -6219,9 +6248,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 戒月改
+***** 慧顯
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 集
+:END:
+***** 戒月
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 改錄
 :END:
 
 **** textual witnesses
@@ -6949,9 +6983,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 諸大法師集
+***** 諸大法師
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 集撰
 :END:
 
 **** textual witnesses
@@ -6985,7 +7019,6 @@
 :CBETA_ID:  T45n1910
 :CUSTOM_ID: ZB6k0196
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1910
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -7079,9 +7112,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 西宗集
+***** 西宗
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -7104,9 +7137,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 袾宏重
+***** 志磐
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰
+:END:
+***** 袾宏
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -7279,8 +7317,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 允堪
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 慧光
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 合
 :END:
 
@@ -7329,9 +7372,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 允堪撰
+***** 允堪
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 撰錄
 :END:
 
 **** textual witnesses
@@ -7354,8 +7397,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 元照
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 良信
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 合
 :END:
 
@@ -7404,7 +7452,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 元照錄　道詢
+***** 元照
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 道詢
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -7479,7 +7531,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 守一述　行枝
+***** 守一
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 行枝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7619,9 +7675,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 讀體彙
+***** 讀體
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -7644,9 +7700,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 讀體輯
+***** 讀體
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 輯集
 :END:
 
 **** textual witnesses
@@ -7694,9 +7750,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉箋
+***** 書玉
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 箋記
 :END:
 
 **** textual witnesses
@@ -7719,9 +7775,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉科
+***** 書玉
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 科釋
 :END:
 
 **** textual witnesses
@@ -7944,9 +8000,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 弘贊述並
+***** 弘贊
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 述並註
 :END:
 
 **** textual witnesses
@@ -8044,9 +8100,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭科
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 科註
 :END:
 
 **** textual witnesses
@@ -8069,9 +8125,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭重
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 重輯
 :END:
 
 **** textual witnesses
@@ -8094,9 +8150,19 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 儀潤．陳熙願增
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 集
+:END:
+***** 儀潤
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 增訂
+:END:
+***** 陳熙願
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 增訂
 :END:
 
 **** textual witnesses
@@ -8194,9 +8260,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 超遠檢
+***** 法藏
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 撰集
+:END:
+***** 超遠
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 檢錄
 :END:
 
 **** textual witnesses
@@ -8344,8 +8415,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 了然
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 慧光
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 合
 :END:
 
