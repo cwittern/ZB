@@ -9626,15 +9626,15 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 法勝尊者法勝
+***** 法勝
 :PROPERTIES:
 :DYNASTY: ?
-:FUNCTION: 造
+:FUNCTION: 論
 :END:
-***** 尊者法勝
+***** 優波扇多
 :PROPERTIES:
 :DYNASTY: ?
-:FUNCTION: 造
+:FUNCTION: 釋
 :END:
 ***** 那連提耶舍
 :PROPERTIES:
@@ -9687,13 +9687,18 @@
 :CBETA_ID:  T28n1552
 :CUSTOM_ID: ZB6l0017
 :SOURCE: Taisho Tripitaka Vol. 28, No. 1552
-:DYNASTY: 尊者法救造
+:DYNASTY: 劉宋
 :END:
 **** extent: 11卷
 **** responsible: 
-***** 僧伽跋摩等
+***** 尊者法救
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 僧伽跋摩
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -9752,11 +9757,15 @@
 :CBETA_ID:  T28n1553
 :CUSTOM_ID: ZB6l0018
 :SOURCE: Taisho Tripitaka Vol. 28, No. 1553
-:DYNASTY: 尊者瞿沙造
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 尊者瞿沙
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -9797,10 +9806,15 @@
 :CBETA_ID:  T28n1554
 :CUSTOM_ID: ZB6l0019
 :SOURCE: Taisho Tripitaka Vol. 28, No. 1554
-:DYNASTY: 塞建陀羅造
+:DYNASTY: 唐
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 塞建陀羅
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -9842,10 +9856,15 @@
 :CBETA_ID:  T28n1555
 :CUSTOM_ID: ZB6l0020
 :SOURCE: Taisho Tripitaka Vol. 28, No. 1555
-:DYNASTY: 尊者法救造
+:DYNASTY: 唐
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 尊者法救
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -9957,10 +9976,15 @@
 :CBETA_ID:  T29n1558
 :CUSTOM_ID: ZB6l0023
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1558
-:DYNASTY: 尊者世親造
+:DYNASTY: 唐
 :END:
 **** extent: 30卷
 **** responsible: 
+***** 尊者世親
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -10022,10 +10046,15 @@
 :CBETA_ID:  T29n1559
 :CUSTOM_ID: ZB6l0024
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1559
-:DYNASTY: 婆藪盤豆造
+:DYNASTY: 陳
 :END:
 **** extent: 22卷
 **** responsible: 
+***** 婆藪盤豆
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -10072,10 +10101,15 @@
 :CBETA_ID:  T29n1560
 :CUSTOM_ID: ZB6l0025
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1560
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -10112,12 +10146,12 @@
 :CBETA_ID:  T29n1561
 :CUSTOM_ID: ZB6l0026
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1561
-:DYNASTY: 尊者安惠造
 :END:
 **** extent: 5卷
 **** responsible: 
 ***** 尊者安惠
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 
@@ -10137,10 +10171,15 @@
 :CBETA_ID:  T29n1562
 :CUSTOM_ID: ZB6l0027
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1562
-:DYNASTY: 尊者眾賢造
+:DYNASTY: 唐
 :END:
 **** extent: 80卷
 **** responsible: 
+***** 尊者眾賢
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -10192,10 +10231,15 @@
 :CBETA_ID:  T29n1563
 :CUSTOM_ID: ZB6l0028
 :SOURCE: Taisho Tripitaka Vol. 29, No. 1563
-:DYNASTY: 尊者眾賢造
+:DYNASTY: 唐
 :END:
 **** extent: 40卷
 **** responsible: 
+***** 尊者眾賢
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
