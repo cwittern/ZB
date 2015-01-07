@@ -20776,13 +20776,17 @@
 :CBETA_ID:  T21n1361
 :CUSTOM_ID: ZB6j0570
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1361
-:DYNASTY: 世親菩薩造
 :END:
 **** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
+:END:
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
 :END:
 
 **** textual witnesses
@@ -21011,11 +21015,10 @@
 :CBETA_ID:  T21n1367
 :CUSTOM_ID: ZB6j0576
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1367
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21051,11 +21054,10 @@
 :CBETA_ID:  T21n1368
 :CUSTOM_ID: ZB6j0577
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1368
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
