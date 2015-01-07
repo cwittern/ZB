@@ -5588,9 +5588,19 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 即靜分
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 撰
+:END:
+***** 元照
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 述
+:END:
+***** 即靜
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -5613,9 +5623,19 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 道宣
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
 ***** 元照
 :PROPERTIES:
+:DYNASTY: 宋
 :FUNCTION: 述
+:END:
+***** 即靜
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -5663,9 +5683,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 廣莫輯
+***** 廣莫
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 輯錄
 :END:
 
 **** textual witnesses
@@ -5738,9 +5758,9 @@
 :END:
 **** extent: 17卷
 **** responsible: 
-***** 智旭輯
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 繹
+:FUNCTION: 彙釋
 :END:
 
 **** textual witnesses
@@ -5913,9 +5933,19 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 禪能合
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 疏
+:END:
+***** 元照
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 記
+:END:
+***** 禪能
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 合會
 :END:
 
 **** textual witnesses
@@ -5963,6 +5993,10 @@
 :END:
 **** extent: 15卷
 **** responsible: 
+***** 讀體續
+:PROPERTIES:
+:FUNCTION: 釋
+:END:
 ***** 讀體續
 :PROPERTIES:
 :FUNCTION: 釋
