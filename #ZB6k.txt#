@@ -5993,13 +5993,14 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 讀體續
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 撰集
 :END:
-***** 讀體續
+***** 讀體
 :PROPERTIES:
-:FUNCTION: 釋
+:DYNASTY: 清
+:FUNCTION: 續釋
 :END:
 
 **** textual witnesses
@@ -6022,9 +6023,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 法礪撰
+***** 法礪
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -6047,9 +6048,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 志鴻撰
+***** 志鴻
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 撰述
 :END:
 
 **** textual witnesses
@@ -6247,9 +6248,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 戒月改
+***** 慧顯
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 集
+:END:
+***** 戒月
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 改錄
 :END:
 
 **** textual witnesses
@@ -6977,9 +6983,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 諸大法師集
+***** 諸大法師
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 集撰
 :END:
 
 **** textual witnesses
@@ -7013,7 +7019,6 @@
 :CBETA_ID:  T45n1910
 :CUSTOM_ID: ZB6k0196
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1910
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -7107,9 +7112,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 西宗集
+***** 西宗
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -7132,9 +7137,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 袾宏重
+***** 志磐
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰
+:END:
+***** 袾宏
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
