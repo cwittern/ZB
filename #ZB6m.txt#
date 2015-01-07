@@ -650,10 +650,15 @@
 :CBETA_ID:  T30n1573
 :CUSTOM_ID: ZB6m0016
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1573
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 瞿曇般若留支
 :PROPERTIES:
 :FUNCTION: 譯
@@ -695,10 +700,15 @@
 :CBETA_ID:  T30n1574
 :CUSTOM_ID: ZB6m0017
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1574
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -725,10 +735,15 @@
 :CBETA_ID:  T30n1575
 :CUSTOM_ID: ZB6m0018
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1575
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -770,10 +785,15 @@
 :CBETA_ID:  T30n1576
 :CUSTOM_ID: ZB6m0019
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1576
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -815,10 +835,15 @@
 :CBETA_ID:  T30n1577
 :CUSTOM_ID: ZB6m0020
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1577
-:DYNASTY: 提婆羅菩薩造
+:DYNASTY: 北涼
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 提婆羅菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 道泰
 :PROPERTIES:
 :FUNCTION: 譯
@@ -860,10 +885,15 @@
 :CBETA_ID:  T30n1578
 :CUSTOM_ID: ZB6m0021
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1578
-:DYNASTY: 清辯菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 清辯菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -905,7 +935,6 @@
 :CBETA_ID:  X46n0788
 :CUSTOM_ID: ZB6m0022
 :SOURCE: 卍 Xuzangjing Vol. 46, No. 788
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
