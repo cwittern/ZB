@@ -8125,9 +8125,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭重
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 重輯
 :END:
 
 **** textual witnesses
@@ -8150,9 +8150,19 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 儀潤．陳熙願增
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 集
+:END:
+***** 儀潤
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 增訂
+:END:
+***** 陳熙願
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 增訂
 :END:
 
 **** textual witnesses
@@ -8250,6 +8260,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 超遠檢
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
 ***** 超遠檢
 :PROPERTIES:
 :FUNCTION: 錄
