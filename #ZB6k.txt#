@@ -7317,8 +7317,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 允堪
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 慧光
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 合
 :END:
 
@@ -7367,9 +7372,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 允堪撰
+***** 允堪
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 撰錄
 :END:
 
 **** textual witnesses
@@ -7392,8 +7397,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 元照
+:PROPERTIES:
+:FUNCTION: 述
+:END:
 ***** 良信
 :PROPERTIES:
+:DYNASTY: 日本
 :FUNCTION: 合
 :END:
 
@@ -7442,7 +7452,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 元照錄　道詢
+***** 元照
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 道詢
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -7517,7 +7531,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 守一述　行枝
+***** 守一
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 行枝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7657,9 +7675,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 讀體彙
+***** 讀體
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -7682,9 +7700,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 讀體輯
+***** 讀體
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 輯集
 :END:
 
 **** textual witnesses
@@ -7732,9 +7750,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉箋
+***** 書玉
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 箋記
 :END:
 
 **** textual witnesses
@@ -7757,9 +7775,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉科
+***** 書玉
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 科釋
 :END:
 
 **** textual witnesses
@@ -7982,9 +8000,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 弘贊述並
+***** 弘贊
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 述並註
 :END:
 
 **** textual witnesses
@@ -8082,9 +8100,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭科
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 科註
 :END:
 
 **** textual witnesses
