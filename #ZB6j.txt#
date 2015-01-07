@@ -23930,7 +23930,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 一松說　靈述
+***** 一松
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 靈述
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -23955,9 +23959,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智旭撰述　道昉參
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰述
+:END:
+***** 道昉
+:PROPERTIES:
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
@@ -23980,9 +23988,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 智旭撰述　道昉參
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰述
+:END:
+***** 道昉
+:PROPERTIES:
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
