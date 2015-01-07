@@ -70,10 +70,15 @@
 :CBETA_ID:  T26n1537
 :CUSTOM_ID: ZB6l0002
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1537
-:DYNASTY: 尊者大目乾連造
+:DYNASTY: 唐
 :END:
 **** extent: 12卷
 **** responsible: 
+***** 尊者大目乾連
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -124,9 +129,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -150,10 +155,15 @@
 :CBETA_ID:  T26n1539
 :CUSTOM_ID: ZB6l0004
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1539
-:DYNASTY: 提婆設摩造
+:DYNASTY: 唐
 :END:
 **** extent: 16卷
 **** responsible: 
+***** 提婆設摩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -205,10 +215,15 @@
 :CBETA_ID:  T26n1540
 :CUSTOM_ID: ZB6l0005
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1540
-:DYNASTY: 尊者世友造
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 尊者世友
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -255,11 +270,20 @@
 :CBETA_ID:  T26n1541
 :CUSTOM_ID: ZB6l0006
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1541
-:DYNASTY: 尊者世友造
+:DYNASTY: 劉宋
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 求那跋陀羅共菩提耶舍
+***** 尊者世友
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 求那跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 菩提耶舍
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -315,10 +339,15 @@
 :CBETA_ID:  T26n1542
 :CUSTOM_ID: ZB6l0007
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1542
-:DYNASTY: 尊者世友造
+:DYNASTY: 唐
 :END:
 **** extent: 18卷
 **** responsible: 
+***** 尊者世友
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -370,11 +399,20 @@
 :CBETA_ID:  T26n1543
 :CUSTOM_ID: ZB6l0008
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1543
-:DYNASTY: 迦栴延子造
+:DYNASTY: 符秦
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 僧伽提婆共竺佛念
+***** 迦栴延子
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 僧伽提婆
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 竺佛念
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -430,10 +468,15 @@
 :CBETA_ID:  T26n1544
 :CUSTOM_ID: ZB6l0009
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1544
-:DYNASTY: 迦多衍尼子造
+:DYNASTY: 唐
 :END:
 **** extent: 20卷
 **** responsible: 
+***** 迦多衍尼子
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -480,10 +523,15 @@
 :CBETA_ID:  T27n1545
 :CUSTOM_ID: ZB6l0010
 :SOURCE: Taisho Tripitaka Vol. 27, No. 1545
-:DYNASTY: 五百大阿羅漢等造
+:DYNASTY: 唐
 :END:
 **** extent: 200卷
 **** responsible: 
+***** 五百大阿羅漢
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 等造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
