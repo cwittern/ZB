@@ -170,13 +170,18 @@
 :CBETA_ID:  T30n1567
 :CUSTOM_ID: ZB6m0004
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1567
-:DYNASTY: 安慧菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 惟淨等
+***** 安慧菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 惟淨
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -215,13 +220,18 @@
 :CBETA_ID:  K41n1482
 :CUSTOM_ID: ZB6m0005
 :SOURCE: Tripitaka Koreana Vol. 41, No. 1482
-:DYNASTY: 安慧菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 惟淨等
+***** 安慧菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 惟淨
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -265,10 +275,15 @@
 :CBETA_ID:  T30n1568
 :CUSTOM_ID: ZB6m0007
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1568
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 姚秦
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -370,10 +385,20 @@
 :CBETA_ID:  T30n1569
 :CUSTOM_ID: ZB6m0010
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1569
-:DYNASTY: 提婆菩薩造
+:DYNASTY: 姚秦
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 提婆菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 婆藪開士
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 釋
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -440,10 +465,15 @@
 :CBETA_ID:  T30n1570
 :CUSTOM_ID: ZB6m0012
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1570
-:DYNASTY: 聖天菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 聖天菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -485,10 +515,20 @@
 :CBETA_ID:  T30n1571
 :CUSTOM_ID: ZB6m0013
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1571
-:DYNASTY: 聖天菩薩本
+:DYNASTY: 唐
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 聖天菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 本
+:END:
+***** 護法菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 釋
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -560,10 +600,15 @@
 :CBETA_ID:  T30n1572
 :CUSTOM_ID: ZB6m0015
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1572
-:DYNASTY: 提婆菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 提婆菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 菩提流支
 :PROPERTIES:
 :FUNCTION: 譯
