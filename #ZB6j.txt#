@@ -23313,7 +23313,7 @@
 :CBETA_ID:  X02n0201
 :CUSTOM_ID: ZB6j0640
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 201
-:DYNASTY: 縛日羅枳惹曩譯
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23542,9 +23542,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 思坦集
+***** 思坦
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -23617,7 +23617,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 惟慤科　可度
+***** 惟慤
+:PROPERTIES:
+:FUNCTION: 科
+:END:
+***** 可度
 :PROPERTIES:
 :FUNCTION: 箋
 :END:
@@ -23642,9 +23646,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 德洪造論　正受會
+***** 德洪造
 :PROPERTIES:
-:FUNCTION: 合
+:FUNCTION: 論
+:END:
+***** 正受
+:PROPERTIES:
+:FUNCTION: 會合
 :END:
 
 **** textual witnesses
@@ -23792,9 +23800,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 德清排
+***** 德清
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 排訂
 :END:
 
 **** textual witnesses
@@ -23867,8 +23875,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 惟則
+:PROPERTIES:
+:FUNCTION: 會解
+:END:
 ***** 傳燈
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 疏
 :END:
 
