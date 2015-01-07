@@ -9,9 +9,13 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 佛陀什共竺道生等
+***** 佛陀什
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 竺道生
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -64,9 +68,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 佛陀什等
+***** 佛陀什
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -94,9 +98,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 佛陀什等
+***** 佛陀什
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -229,7 +233,11 @@
 :END:
 **** extent: 40卷
 **** responsible: 
-***** 佛陀跋陀羅共法顯
+***** 佛陀跋陀羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 法顯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -374,9 +382,13 @@
 :END:
 **** extent: 60卷
 **** responsible: 
-***** 佛陀耶舍共竺佛念等
+***** 佛陀耶舍
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 竺佛念
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -749,7 +761,11 @@
 :END:
 **** extent: 61卷
 **** responsible: 
-***** 弗若多羅共羅什
+***** 弗若多羅
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 羅什
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -864,9 +880,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 法顯集
+***** 法顯
 :PROPERTIES:
-:FUNCTION: 出
+:FUNCTION: 集出
 :END:
 
 **** textual witnesses
@@ -910,7 +926,6 @@
 :CBETA_ID:  T23n1438
 :CUSTOM_ID: ZB6k0019
 :SOURCE: Taisho Tripitaka Vol. 23, No. 1438
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -954,9 +969,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 僧璩撰
+***** 僧璩
 :PROPERTIES:
-:FUNCTION: 出
+:FUNCTION: 撰出
 :END:
 
 **** textual witnesses
@@ -995,11 +1010,10 @@
 :CBETA_ID:  T23n1440
 :CUSTOM_ID: ZB6k0021
 :SOURCE: Taisho Tripitaka Vol. 23, No. 1440
-:DYNASTY: 失譯
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1775,10 +1789,15 @@
 :CBETA_ID:  T24n1458
 :CUSTOM_ID: ZB6k0039
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1458
-:DYNASTY: 尊者勝友造
+:DYNASTY: 唐
 :END:
 **** extent: 14卷
 **** responsible: 
+***** 尊者勝友
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 集
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1835,10 +1854,15 @@
 :CBETA_ID:  T24n1459
 :CUSTOM_ID: ZB6k0040
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1459
-:DYNASTY: 尊者毘舍佉造
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 尊者毘舍佉
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1940,10 +1964,15 @@
 :CBETA_ID:  T24n1461
 :CUSTOM_ID: ZB6k0042
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1461
-:DYNASTY: 弗陀多羅多造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 弗陀多羅多
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2040,11 +2069,10 @@
 :CBETA_ID:  T24n1463
 :CUSTOM_ID: ZB6k0044
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1463
-:DYNASTY: 失譯
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2299,9 +2327,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道宣刪
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 刪定
 :END:
 
 **** textual witnesses
@@ -2324,9 +2352,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元照重
+***** 元照
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 重定
 :END:
 
 **** textual witnesses
@@ -2395,11 +2423,10 @@
 :CBETA_ID:  T24n1465
 :CUSTOM_ID: ZB6k0053
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1465
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2540,7 +2567,6 @@
 :CBETA_ID:  T24n1467b
 :CUSTOM_ID: ZB6k0056
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1467b
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2690,11 +2716,10 @@
 :CBETA_ID:  T24n1471
 :CUSTOM_ID: ZB6k0060
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1471
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2830,11 +2855,10 @@
 :CBETA_ID:  T24n1474
 :CUSTOM_ID: ZB6k0063
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1474
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2875,11 +2899,10 @@
 :CBETA_ID:  T24n1475
 :CUSTOM_ID: ZB6k0064
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1475
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3030,11 +3053,10 @@
 :CBETA_ID:  T24n1478
 :CUSTOM_ID: ZB6k0067
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1478
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3260,11 +3282,10 @@
 :CBETA_ID:  T24n1483a
 :CUSTOM_ID: ZB6k0072
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1483a
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3285,11 +3306,10 @@
 :CBETA_ID:  T24n1483b
 :CUSTOM_ID: ZB6k0073
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1483b
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3424,6 +3444,10 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
@@ -3454,9 +3478,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 明曠刪
+***** 明曠
 :PROPERTIES:
-:FUNCTION: 補
+:FUNCTION: 刪補
 :END:
 
 **** textual witnesses
@@ -3614,9 +3638,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 與咸(入疏箋經加註釋疏
+***** 與咸
 :PROPERTIES:
-:FUNCTION: )
+:FUNCTION: 入疏箋經加註釋疏
 :END:
 
 **** textual witnesses
@@ -3889,7 +3913,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭述　道昉
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 道昉
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -3914,7 +3942,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 智旭註　道昉
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 道昉
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -3989,9 +4021,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 寂光直
+***** 寂光
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 直解
 :END:
 
 **** textual witnesses
@@ -4010,7 +4042,6 @@
 :CBETA_ID:  X38n0698
 :CUSTOM_ID: ZB6k0099
 :SOURCE: 卍 Xuzangjing Vol. 38, No. 698
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4034,9 +4065,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 德玉順
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 硃
+:FUNCTION: 順硃
 :END:
 
 **** textual witnesses
@@ -4080,7 +4111,6 @@
 :CBETA_ID:  T85n2797
 :CUSTOM_ID: ZB6k0102
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2797
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4145,7 +4175,6 @@
 :CBETA_ID:  T85n2798
 :CUSTOM_ID: ZB6k0104
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2798
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4190,11 +4219,10 @@
 :CBETA_ID:  T24n1486
 :CUSTOM_ID: ZB6k0106
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1486
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4539,9 +4567,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闍那崛多共笈多等
+***** 闍那崛多
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 笈多
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -4580,11 +4612,10 @@
 :CBETA_ID:  T24n1494
 :CUSTOM_ID: ZB6k0114
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1494
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4779,9 +4810,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -4815,10 +4846,15 @@
 :CBETA_ID:  T24n1499
 :CUSTOM_ID: ZB6k0119
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1499
-:DYNASTY: 彌勒菩薩說
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -4860,10 +4896,15 @@
 :CBETA_ID:  T24n1500
 :CUSTOM_ID: ZB6k0120
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1500
-:DYNASTY: 慈氏菩薩說
+:DYNASTY: 北涼
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慈氏菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 曇無讖
 :PROPERTIES:
 :FUNCTION: 譯
@@ -4910,10 +4951,15 @@
 :CBETA_ID:  T24n1501
 :CUSTOM_ID: ZB6k0121
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1501
-:DYNASTY: 彌勒菩薩說
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -5055,11 +5101,10 @@
 :CBETA_ID:  T24n1504
 :CUSTOM_ID: ZB6k0124
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1504
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5104,9 +5149,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智吉祥等
+***** 智吉祥
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses

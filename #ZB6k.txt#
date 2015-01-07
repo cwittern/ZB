@@ -3913,11 +3913,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭　道昉
+***** 智旭
 :PROPERTIES:
 :FUNCTION: 述
 :END:
-***** 智旭述　道昉
+***** 道昉
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -3942,7 +3942,11 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 智旭註　道昉
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 道昉
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -4017,9 +4021,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 寂光直
+***** 寂光
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 直解
 :END:
 
 **** textual witnesses
@@ -4038,7 +4042,6 @@
 :CBETA_ID:  X38n0698
 :CUSTOM_ID: ZB6k0099
 :SOURCE: 卍 Xuzangjing Vol. 38, No. 698
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4062,9 +4065,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 德玉順
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 硃
+:FUNCTION: 順硃
 :END:
 
 **** textual witnesses
@@ -4108,7 +4111,6 @@
 :CBETA_ID:  T85n2797
 :CUSTOM_ID: ZB6k0102
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2797
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4173,7 +4175,6 @@
 :CBETA_ID:  T85n2798
 :CUSTOM_ID: ZB6k0104
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2798
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4218,11 +4219,10 @@
 :CBETA_ID:  T24n1486
 :CUSTOM_ID: ZB6k0106
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1486
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4567,9 +4567,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 闍那崛多共笈多等
+***** 闍那崛多
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
+:END:
+***** 笈多
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -4608,11 +4612,10 @@
 :CBETA_ID:  T24n1494
 :CUSTOM_ID: ZB6k0114
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1494
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -4807,9 +4810,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -4843,10 +4846,15 @@
 :CBETA_ID:  T24n1499
 :CUSTOM_ID: ZB6k0119
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1499
-:DYNASTY: 彌勒菩薩說
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -4888,10 +4896,15 @@
 :CBETA_ID:  T24n1500
 :CUSTOM_ID: ZB6k0120
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1500
-:DYNASTY: 慈氏菩薩說
+:DYNASTY: 北涼
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慈氏菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 曇無讖
 :PROPERTIES:
 :FUNCTION: 譯
@@ -4938,10 +4951,15 @@
 :CBETA_ID:  T24n1501
 :CUSTOM_ID: ZB6k0121
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1501
-:DYNASTY: 彌勒菩薩說
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -5083,11 +5101,10 @@
 :CBETA_ID:  T24n1504
 :CUSTOM_ID: ZB6k0124
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1504
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -5132,9 +5149,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智吉祥等
+***** 智吉祥
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -5283,7 +5300,6 @@
 :CBETA_ID:  T85n2787
 :CUSTOM_ID: ZB6k0130
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2787
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -5308,7 +5324,6 @@
 :CBETA_ID:  T85n2788
 :CUSTOM_ID: ZB6k0131
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2788
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5328,7 +5343,6 @@
 :CBETA_ID:  T85n2789
 :CUSTOM_ID: ZB6k0132
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2789
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5348,7 +5362,6 @@
 :CBETA_ID:  T85n2790
 :CUSTOM_ID: ZB6k0133
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2790
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5368,7 +5381,6 @@
 :CBETA_ID:  T85n2791
 :CUSTOM_ID: ZB6k0134
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2791
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5383,7 +5395,6 @@
 :CBETA_ID:  T85n2792
 :CUSTOM_ID: ZB6k0135
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2792
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5413,7 +5424,6 @@
 :CBETA_ID:  T85n2793
 :CUSTOM_ID: ZB6k0136
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2793
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5428,7 +5438,6 @@
 :CBETA_ID:  T85n2794
 :CUSTOM_ID: ZB6k0137
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2794
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5448,7 +5457,6 @@
 :CBETA_ID:  T85n2795
 :CUSTOM_ID: ZB6k0138
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2795
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -5478,7 +5486,6 @@
 :CBETA_ID:  T85n2796
 :CUSTOM_ID: ZB6k0139
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2796
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5502,9 +5509,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 廣承輯錄　智旭會
+***** 廣承
 :PROPERTIES:
-:FUNCTION: 補
+:FUNCTION: 輯錄
+:END:
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 會補
 :END:
 
 **** textual witnesses
