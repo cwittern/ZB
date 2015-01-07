@@ -3053,11 +3053,10 @@
 :CBETA_ID:  T24n1478
 :CUSTOM_ID: ZB6k0067
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1478
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3283,11 +3282,10 @@
 :CBETA_ID:  T24n1483a
 :CUSTOM_ID: ZB6k0072
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1483a
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3308,11 +3306,10 @@
 :CBETA_ID:  T24n1483b
 :CUSTOM_ID: ZB6k0073
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1483b
-:DYNASTY: 失譯
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3447,6 +3444,10 @@
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
@@ -3477,9 +3478,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 明曠刪
+***** 明曠
 :PROPERTIES:
-:FUNCTION: 補
+:FUNCTION: 刪補
 :END:
 
 **** textual witnesses
