@@ -20684,7 +20684,7 @@
 ***** 【大→明】
 :PROPERTIES: 
 :WITID: wit12
-:END:<!-- here 2015-01-06 -->
+:END:
 
 *** [[mandoku:ZB6j0568.org][ZB6j0568]]  [[cbeta:T/T21n1359/T21n1359.org][T21n1359]] 佛說花積樓閣陀羅尼經
 :PROPERTIES: 
@@ -20776,13 +20776,17 @@
 :CBETA_ID:  T21n1361
 :CUSTOM_ID: ZB6j0570
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1361
-:DYNASTY: 世親菩薩造
 :END:
 **** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
+:END:
+***** 失譯
+:PROPERTIES:
+:FUNCTION: 譯
 :END:
 
 **** textual witnesses
@@ -21011,11 +21015,10 @@
 :CBETA_ID:  T21n1367
 :CUSTOM_ID: ZB6j0576
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1367
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21051,11 +21054,10 @@
 :CBETA_ID:  T21n1368
 :CUSTOM_ID: ZB6j0577
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1368
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -21275,9 +21277,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施護等
+***** 施護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -22116,11 +22118,10 @@
 :CBETA_ID:  T21n1394
 :CUSTOM_ID: ZB6j0605
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1394
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -22240,9 +22241,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 提雲般若等
+***** 提雲般若
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -22596,7 +22597,6 @@
 :CBETA_ID:  T21n1406
 :CUSTOM_ID: ZB6j0617
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1406
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23070,9 +23070,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 僧伽婆羅譯抄
+***** 僧伽婆羅
 :PROPERTIES:
-:FUNCTION: 之
+:FUNCTION: 譯抄之
 :END:
 
 **** textual witnesses
@@ -23095,9 +23095,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 不空譯抄
+***** 不空
 :PROPERTIES:
-:FUNCTION: 之
+:FUNCTION: 譯抄之
 :END:
 
 **** textual witnesses
@@ -23136,7 +23136,6 @@
 :CBETA_ID:  X02n0193
 :CUSTOM_ID: ZB6j0633
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 193
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23156,7 +23155,7 @@
 :CBETA_ID:  X02n0202
 :CUSTOM_ID: ZB6j0634
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 202
-:DYNASTY: 阿謨伽三藏譯
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23181,7 +23180,6 @@
 :CBETA_ID:  X02n0203
 :CUSTOM_ID: ZB6j0635
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 203
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23245,9 +23243,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 工布查布譯
+***** 工布查布
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 譯解
 :END:
 
 **** textual witnesses
@@ -23291,7 +23289,6 @@
 :CBETA_ID:  T21n1420
 :CUSTOM_ID: ZB6j0639
 :SOURCE: Taisho Tripitaka Vol. 21, No. 1420
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -23316,7 +23313,7 @@
 :CBETA_ID:  X02n0201
 :CUSTOM_ID: ZB6j0640
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 201
-:DYNASTY: 縛日羅枳惹曩譯
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -23545,9 +23542,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 思坦集
+***** 思坦
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 集註
 :END:
 
 **** textual witnesses
@@ -23620,7 +23617,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 惟慤科　可度
+***** 惟慤
+:PROPERTIES:
+:FUNCTION: 科
+:END:
+***** 可度
 :PROPERTIES:
 :FUNCTION: 箋
 :END:
@@ -23645,9 +23646,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 德洪造論　正受會
+***** 德洪造
 :PROPERTIES:
-:FUNCTION: 合
+:FUNCTION: 論
+:END:
+***** 正受
+:PROPERTIES:
+:FUNCTION: 會合
 :END:
 
 **** textual witnesses
@@ -23795,9 +23800,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 德清排
+***** 德清
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 排訂
 :END:
 
 **** textual witnesses
@@ -23870,8 +23875,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 惟則
+:PROPERTIES:
+:FUNCTION: 會解
+:END:
 ***** 傳燈
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 疏
 :END:
 
@@ -23920,7 +23930,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 一松說　靈述
+***** 一松
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 靈述
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -23945,9 +23959,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智旭撰述　道昉參
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰述
+:END:
+***** 道昉
+:PROPERTIES:
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
@@ -23970,9 +23988,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 智旭撰述　道昉參
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 撰述
+:END:
+***** 道昉
+:PROPERTIES:
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
@@ -24045,9 +24067,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 凌弘憲點
+***** 凌弘憲
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 點釋
 :END:
 
 **** textual witnesses
@@ -24091,7 +24113,6 @@
 :CBETA_ID:  X14n0290
 :CUSTOM_ID: ZB6j0669
 :SOURCE: 卍 Xuzangjing Vol. 14, No. 290
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -24285,9 +24306,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 廣莫直
+***** 廣莫
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 直解
 :END:
 
 **** textual witnesses
@@ -24310,9 +24331,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 乘旹講
+***** 乘旹
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 講錄
 :END:
 
 **** textual witnesses
@@ -24335,9 +24356,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 真界纂
+***** 真界
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 纂註
 :END:
 
 **** textual witnesses
@@ -24410,9 +24431,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 劉道開纂
+***** 劉道開
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 纂述
 :END:
 
 **** textual witnesses
@@ -24780,9 +24801,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 曾鳳儀宗
+***** 曾鳳儀
 :PROPERTIES:
-:FUNCTION: 通
+:FUNCTION: 宗通
 :END:
 
 **** textual witnesses
@@ -24805,9 +24826,14 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 咸輝排經入
+***** 懷迪
 :PROPERTIES:
-:FUNCTION: 注
+:FUNCTION: 證釋
+:END:
+***** 咸輝
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 排經入注
 :END:
 
 **** textual witnesses
@@ -24830,9 +24856,14 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 惟則會
+***** 九師
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 釋
+:END:
+***** 惟則
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 會解
 :END:
 
 **** textual witnesses
@@ -24855,6 +24886,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
@@ -24995,9 +25030,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 一行述
+***** 一行
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 述記
 :END:
 
 **** textual witnesses
@@ -25045,9 +25080,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 弘贊會
+***** 弘贊
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 會釋
 :END:
 
 **** textual witnesses
@@ -25091,7 +25126,6 @@
 :CBETA_ID:  T46n1952
 :CUSTOM_ID: ZB6j0709
 :SOURCE: Taisho Tripitaka Vol. 46, No. 1952
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -25116,7 +25150,6 @@
 :CBETA_ID:  T46n1953
 :CUSTOM_ID: ZB6j0710
 :SOURCE: Taisho Tripitaka Vol. 46, No. 1953
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -25135,9 +25168,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智慧輪
+***** 智慧
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 輪述
 :END:
 
 **** textual witnesses
@@ -25190,9 +25223,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智廣等
+***** 智廣
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等集
 :END:
 
 **** textual witnesses
@@ -25240,9 +25273,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 不空拔
+***** 不空
 :PROPERTIES:
-:FUNCTION: 出
+:FUNCTION: 拔出
 :END:
 
 **** textual witnesses
@@ -25280,9 +25313,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 跋折羅菩提集
+***** 跋折羅菩提
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 集撰
 :END:
 
 **** textual witnesses
@@ -25350,9 +25383,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 造玄增
+***** 造玄
 :PROPERTIES:
-:FUNCTION: 補
+:FUNCTION: 增補
 :END:
 
 **** textual witnesses
@@ -25395,7 +25428,7 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 施堯挺
+***** 堯挺
 :PROPERTIES:
 :FUNCTION: 撰
 :END:
@@ -25445,9 +25478,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 袾宏重
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -25470,9 +25503,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 袾宏補
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 補註
 :END:
 
 **** textual witnesses
@@ -25570,11 +25603,6 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
-:PROPERTIES:
-:FUNCTION: 明
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -25640,9 +25668,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 受登詮次　有圖像四十　緣
+***** 不空
 :PROPERTIES:
-:FUNCTION: 起
+:FUNCTION: 譯
+:END:
+***** 不動金剛
+:PROPERTIES:
+:DYNASTY: 西夏
+:FUNCTION: 重集
+:END:
+***** 受登
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 詮次
 :END:
 
 **** textual witnesses
