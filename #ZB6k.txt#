@@ -1010,11 +1010,10 @@
 :CBETA_ID:  T23n1440
 :CUSTOM_ID: ZB6k0021
 :SOURCE: Taisho Tripitaka Vol. 23, No. 1440
-:DYNASTY: 失譯
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1790,10 +1789,15 @@
 :CBETA_ID:  T24n1458
 :CUSTOM_ID: ZB6k0039
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1458
-:DYNASTY: 尊者勝友造
+:DYNASTY: 唐
 :END:
 **** extent: 14卷
 **** responsible: 
+***** 尊者勝友
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 集
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1850,10 +1854,15 @@
 :CBETA_ID:  T24n1459
 :CUSTOM_ID: ZB6k0040
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1459
-:DYNASTY: 尊者毘舍佉造
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 尊者毘舍佉
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1955,10 +1964,15 @@
 :CBETA_ID:  T24n1461
 :CUSTOM_ID: ZB6k0042
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1461
-:DYNASTY: 弗陀多羅多造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 弗陀多羅多
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2055,11 +2069,10 @@
 :CBETA_ID:  T24n1463
 :CUSTOM_ID: ZB6k0044
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1463
-:DYNASTY: 失譯
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2314,9 +2327,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道宣刪
+***** 道宣
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 刪定
 :END:
 
 **** textual witnesses
@@ -2339,9 +2352,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元照重
+***** 元照
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 重定
 :END:
 
 **** textual witnesses
@@ -2410,11 +2423,10 @@
 :CBETA_ID:  T24n1465
 :CUSTOM_ID: ZB6k0053
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1465
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2555,7 +2567,6 @@
 :CBETA_ID:  T24n1467b
 :CUSTOM_ID: ZB6k0056
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1467b
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2705,11 +2716,10 @@
 :CBETA_ID:  T24n1471
 :CUSTOM_ID: ZB6k0060
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1471
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2845,11 +2855,10 @@
 :CBETA_ID:  T24n1474
 :CUSTOM_ID: ZB6k0063
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1474
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2890,11 +2899,10 @@
 :CBETA_ID:  T24n1475
 :CUSTOM_ID: ZB6k0064
 :SOURCE: Taisho Tripitaka Vol. 24, No. 1475
-:DYNASTY: 失譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 失
+***** 失譯
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
