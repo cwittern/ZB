@@ -24856,9 +24856,14 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 惟則會
+***** 九師
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 釋
+:END:
+***** 惟則
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 會解
 :END:
 
 **** textual witnesses
@@ -24881,6 +24886,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 智顗
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 灌頂
 :PROPERTIES:
 :FUNCTION: 記
@@ -25021,9 +25030,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 一行述
+***** 一行
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 述記
 :END:
 
 **** textual witnesses
