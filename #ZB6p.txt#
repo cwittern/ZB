@@ -1008,9 +1008,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 善導集
+***** 善導
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -1238,7 +1238,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道鏡、善道共
+***** 道鏡
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 善道
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -1748,9 +1752,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 袾宏著並
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 著並釋
 :END:
 
 **** textual witnesses
@@ -1773,9 +1777,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 袾宏校正　莊廣還
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 校正
+:END:
+***** 莊廣
+:PROPERTIES:
+:FUNCTION: 還輯
 :END:
 
 **** textual witnesses
@@ -1823,9 +1831,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 成時(評點節要
+***** 成時
 :PROPERTIES:
-:FUNCTION: )
+:FUNCTION: 評點節要
 :END:
 
 **** textual witnesses
@@ -1848,9 +1856,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 明教標
+***** 明教
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 標註
 :END:
 
 **** textual witnesses
