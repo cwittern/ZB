@@ -2367,7 +2367,7 @@
 :CBETA_ID:  T31n1601
 :CUSTOM_ID: ZB6n0062
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1601
-:DYNASTY: 
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2417,10 +2417,15 @@
 :CBETA_ID:  T31n1616
 :CUSTOM_ID: ZB6n0063
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1616
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2512,10 +2517,14 @@
 :CBETA_ID:  T31n1602
 :CUSTOM_ID: ZB6n0066
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1602
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 20卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
