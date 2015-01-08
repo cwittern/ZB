@@ -2016,9 +2016,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 善導集
+***** 善導
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -2046,9 +2046,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 善導集
+***** 善導
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 集記
 :END:
 
 **** textual witnesses
@@ -2207,13 +2207,16 @@
 :CBETA_ID:  X02n0057
 :CUSTOM_ID: ZB6p0080
 :SOURCE: 卍 Xuzangjing Vol. 02, No. 057
-:DYNASTY: 龍樹菩薩造　禪那崛多別譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 龍樹菩薩造　禪那崛多別
+***** 龍樹菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 造
+:END:
+***** 禪那崛多
+:PROPERTIES:
+:FUNCTION: 別譯
 :END:
 
 **** textual witnesses
@@ -2281,7 +2284,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元照撰　戒度
+***** 元照
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 戒度
 :PROPERTIES:
 :FUNCTION: 注
 :END:
@@ -2331,9 +2338,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 古崑錄
+***** 古崑
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 錄輯
 :END:
 
 **** textual witnesses
@@ -2352,7 +2359,6 @@
 :CBETA_ID:  X61n1145
 :CUSTOM_ID: ZB6p0086
 :SOURCE: 卍 Xuzangjing Vol. 61, No. 1145
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
