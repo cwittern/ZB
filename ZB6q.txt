@@ -5,7 +5,6 @@
 :CBETA_ID:  T51n2075
 :CUSTOM_ID: ZB6q0001
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2075
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -85,7 +84,7 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 李遵勗勅
+***** 李遵勗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -366,7 +365,6 @@
 :CBETA_ID:  X83n1572
 :CUSTOM_ID: ZB6q0015
 :SOURCE: 卍 Xuzangjing Vol. 83, No. 1572
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -386,7 +384,6 @@
 :CBETA_ID:  T51n2077
 :CUSTOM_ID: ZB6q0016
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2077
-:DYNASTY: 
 :END:
 **** extent: 36卷
 **** responsible: 
@@ -540,9 +537,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -565,9 +562,9 @@
 :END:
 **** extent: 33卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -590,9 +587,9 @@
 :END:
 **** extent: 87卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -640,9 +637,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 聶先編
+***** 聶先
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -665,9 +662,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 心圓拈別　火蓮集
+***** 心圓
 :PROPERTIES:
-:FUNCTION: 梓
+:FUNCTION: 拈別
+:END:
+***** 火蓮
+:PROPERTIES:
+:FUNCTION: 集梓
 :END:
 
 **** textual witnesses
@@ -690,9 +691,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 黎眉等
+***** 黎眉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -715,9 +716,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -740,9 +741,9 @@
 :END:
 **** extent: 42卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -761,7 +762,6 @@
 :CBETA_ID:  X84n1584
 :CUSTOM_ID: ZB6q0029
 :SOURCE: 卍 Xuzangjing Vol. 84, No. 1584
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -785,9 +785,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 通問編定　施沛彙
+***** 通問
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編定
+:END:
+***** 施沛
+:PROPERTIES:
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -806,7 +810,6 @@
 :CBETA_ID:  X85n1586
 :CUSTOM_ID: ZB6q0031
 :SOURCE: 卍 Xuzangjing Vol. 85, No. 1586
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -830,7 +833,15 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 際源．了貞輯　達珍
+***** 際源
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 了貞
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 達珍
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -857,7 +868,7 @@
 **** responsible: 
 ***** 達珍
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -1080,9 +1091,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 自融撰　性磊補
+***** 自融
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 撰
+:END:
+***** 性磊
+:PROPERTIES:
+:FUNCTION: 補輯
 :END:
 
 **** textual witnesses
@@ -1155,7 +1170,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 德清述　高承埏
+***** 德清
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 高承埏
 :PROPERTIES:
 :FUNCTION: 補
 :END:
@@ -1180,9 +1199,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 無溫
+***** 無慍
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
@@ -1230,9 +1249,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 徐昌治編
+***** 徐昌治
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 編述
 :END:
 
 **** textual witnesses
@@ -1280,9 +1299,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信較
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1305,9 +1328,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信較
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1465,9 +1492,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仁勇等
+***** 仁勇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1481,7 +1508,6 @@
 :CBETA_ID:  T47n1994B
 :CUSTOM_ID: ZB6q0057
 :SOURCE: Taisho Tripitaka Vol. 47, No. 1994B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1510,9 +1536,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 才良等
+***** 才良
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1535,9 +1561,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 紹隆等
+***** 紹隆
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1670,7 +1696,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 祖詠編　張掄序　宗演
+***** 祖詠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 張掄
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 宗演
 :PROPERTIES:
 :FUNCTION: 跋
 :END:
@@ -1695,9 +1729,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 崇岳．了悟等
+***** 崇岳
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** 了悟
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1795,7 +1833,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -1895,9 +1937,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 集成等
+***** 宗法
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -2045,7 +2087,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2065,7 +2111,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2090,7 +2140,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2115,9 +2169,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 重顯頌古．克勤評
+***** 重顯
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 克勤
+:PROPERTIES:
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -2155,7 +2213,7 @@
 :PROPERTIES: 
 :WITID: wit59
 :END:
-
+<!-- here 2015-01-08 -->
 *** [[mandoku:ZB6q0079.org][ZB6q0079]]  [[cbeta:T/T48n2004/T48n2004.org][T48n2004]] 萬松老人評唱天童覺和尚頌古從容庵錄
 :PROPERTIES: 
 :CBETA_ID:  T48n2004
