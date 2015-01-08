@@ -2523,6 +2523,7 @@
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 ***** 玄奘
@@ -2571,10 +2572,15 @@
 :CBETA_ID:  T31n1603
 :CUSTOM_ID: ZB6n0067
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1603
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2666,10 +2672,15 @@
 :CBETA_ID:  T31n1604
 :CUSTOM_ID: ZB6n0069
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1604
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 13卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 波羅頗蜜多羅
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2716,10 +2727,15 @@
 :CBETA_ID:  T31n1605
 :CUSTOM_ID: ZB6n0070
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1605
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 7卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2761,10 +2777,15 @@
 :CBETA_ID:  T31n1606
 :CUSTOM_ID: ZB6n0071
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1606
-:DYNASTY: 安慧菩薩糅
+:DYNASTY: 唐
 :END:
 **** extent: 16卷
 **** responsible: 
+***** 安慧菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 糅
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2841,10 +2862,20 @@
 :CBETA_ID:  T31n1607
 :CUSTOM_ID: ZB6n0073
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1607
-:DYNASTY: 無著本
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 本
+:END:
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 釋
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2886,10 +2917,15 @@
 :CBETA_ID:  T31n1608
 :CUSTOM_ID: ZB6n0074
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1608
-:DYNASTY: 天親菩薩造
+:DYNASTY: 元魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 毘目智仙
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2931,10 +2967,15 @@
 :CBETA_ID:  T31n1609
 :CUSTOM_ID: ZB6n0075
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1609
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2976,10 +3017,15 @@
 :CBETA_ID:  T31n1610
 :CUSTOM_ID: ZB6n0076
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1610
-:DYNASTY: 天親菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
