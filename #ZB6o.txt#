@@ -728,8 +728,18 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 立
+:END:
+***** 延壽
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 造
+:END:
 ***** 明昱
 :PROPERTIES:
+:DYNASTY: 明
 :FUNCTION: 鈔
 :END:
 
@@ -753,9 +763,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭略
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 略解
 :END:
 
 **** textual witnesses
@@ -799,13 +809,18 @@
 :CBETA_ID:  T32n1634
 :CUSTOM_ID: ZB6o0025
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1634
-:DYNASTY: 堅意菩薩造
+:DYNASTY: 北涼
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道泰等
+***** 堅意菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 道泰
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -848,9 +863,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 法護等
+***** 法護
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -894,13 +909,18 @@
 :CBETA_ID:  T32n1636
 :CUSTOM_ID: ZB6o0027
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1636
-:DYNASTY: 法稱菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 25卷
 **** responsible: 
-***** 法護等
+***** 法稱菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 法護
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
