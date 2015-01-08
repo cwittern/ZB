@@ -1603,10 +1603,15 @@
 :CBETA_ID:  T31n1589
 :CUSTOM_ID: ZB6n0044
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1589
-:DYNASTY: 天親菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1658,10 +1663,15 @@
 :CBETA_ID:  T31n1590
 :CUSTOM_ID: ZB6n0045
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1590
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1703,10 +1713,15 @@
 :CBETA_ID:  T31n1591
 :CUSTOM_ID: ZB6n0046
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1591
-:DYNASTY: 護法菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 5卷
 **** responsible: 
+***** 護法菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1793,10 +1808,15 @@
 :CBETA_ID:  T31n1592
 :CUSTOM_ID: ZB6n0048
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1592
-:DYNASTY: 阿僧伽作
+:DYNASTY: 後魏
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 阿僧伽
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 作
+:END:
 ***** 佛陀扇多
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1838,10 +1858,15 @@
 :CBETA_ID:  T31n1593
 :CUSTOM_ID: ZB6n0049
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1593
-:DYNASTY: 無著菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1888,10 +1913,15 @@
 :CBETA_ID:  T31n1594
 :CUSTOM_ID: ZB6n0050
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1594
-:DYNASTY: 無著菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 無著菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1943,10 +1973,15 @@
 :CBETA_ID:  T31n1595
 :CUSTOM_ID: ZB6n0051
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1595
-:DYNASTY: 世親菩薩釋
+:DYNASTY: 陳
 :END:
 **** extent: 15卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 釋
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
