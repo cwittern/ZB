@@ -84,7 +84,7 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 李遵勗勅
+***** 李遵勗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -365,7 +365,6 @@
 :CBETA_ID:  X83n1572
 :CUSTOM_ID: ZB6q0015
 :SOURCE: 卍 Xuzangjing Vol. 83, No. 1572
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -385,7 +384,6 @@
 :CBETA_ID:  T51n2077
 :CUSTOM_ID: ZB6q0016
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2077
-:DYNASTY: 
 :END:
 **** extent: 36卷
 **** responsible: 
@@ -539,9 +537,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -564,9 +562,9 @@
 :END:
 **** extent: 33卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -589,9 +587,9 @@
 :END:
 **** extent: 87卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -639,9 +637,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 聶先編
+***** 聶先
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -664,9 +662,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 心圓拈別　火蓮集
+***** 心圓
 :PROPERTIES:
-:FUNCTION: 梓
+:FUNCTION: 拈別
+:END:
+***** 火蓮
+:PROPERTIES:
+:FUNCTION: 集梓
 :END:
 
 **** textual witnesses
@@ -689,9 +691,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 黎眉等
+***** 黎眉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -714,9 +716,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -739,9 +741,9 @@
 :END:
 **** extent: 42卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -760,7 +762,6 @@
 :CBETA_ID:  X84n1584
 :CUSTOM_ID: ZB6q0029
 :SOURCE: 卍 Xuzangjing Vol. 84, No. 1584
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -784,9 +785,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 通問編定　施沛彙
+***** 通問
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編定
+:END:
+***** 施沛
+:PROPERTIES:
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -805,7 +810,6 @@
 :CBETA_ID:  X85n1586
 :CUSTOM_ID: ZB6q0031
 :SOURCE: 卍 Xuzangjing Vol. 85, No. 1586
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -829,7 +833,15 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 際源．了貞輯　達珍
+***** 際源
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 了貞
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 達珍
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -856,7 +868,7 @@
 **** responsible: 
 ***** 達珍
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
