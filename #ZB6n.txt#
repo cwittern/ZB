@@ -2028,13 +2028,22 @@
 :CBETA_ID:  T31n1596
 :CUSTOM_ID: ZB6n0052
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1596
-:DYNASTY: 世親菩薩造
+:DYNASTY: 隋
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 笈多共行矩等
+***** 世親菩薩
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
+***** 笈多
+:PROPERTIES:
+:FUNCTION: 等譯
+:END:
+***** 行矩
+:PROPERTIES:
+:FUNCTION: 等譯
 :END:
 
 **** textual witnesses
@@ -2073,10 +2082,15 @@
 :CBETA_ID:  T31n1597
 :CUSTOM_ID: ZB6n0053
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1597
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2118,10 +2132,15 @@
 :CBETA_ID:  T31n1598
 :CUSTOM_ID: ZB6n0054
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1598
-:DYNASTY: 無性菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 無性菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2163,7 +2182,6 @@
 :CBETA_ID:  T85n2805
 :CUSTOM_ID: ZB6n0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2805
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -2183,7 +2201,6 @@
 :CBETA_ID:  T85n2806
 :CUSTOM_ID: ZB6n0056
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2806
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2198,7 +2215,6 @@
 :CBETA_ID:  T85n2807
 :CUSTOM_ID: ZB6n0057
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2807
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2218,7 +2234,6 @@
 :CBETA_ID:  T85n2808
 :CUSTOM_ID: ZB6n0058
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2808
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2238,7 +2253,6 @@
 :CBETA_ID:  T85n2809
 :CUSTOM_ID: ZB6n0059
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2809
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2253,10 +2267,15 @@
 :CBETA_ID:  T31n1599
 :CUSTOM_ID: ZB6n0060
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1599
-:DYNASTY: 天親菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2298,10 +2317,15 @@
 :CBETA_ID:  T31n1600
 :CUSTOM_ID: ZB6n0061
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1600
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2343,10 +2367,15 @@
 :CBETA_ID:  T31n1601
 :CUSTOM_ID: ZB6n0062
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1601
-:DYNASTY: 彌勒菩薩說
+:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 說
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
