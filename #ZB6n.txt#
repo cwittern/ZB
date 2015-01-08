@@ -344,9 +344,9 @@
 :END:
 **** extent: 24卷
 **** responsible: 
-***** 遁倫集
+***** 遁倫
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 集撰
 :END:
 
 **** textual witnesses
@@ -434,7 +434,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 法成撰．智慧山
+***** 法成
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 智慧山
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -469,7 +473,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 法成述．福慧
+***** 法成
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 福慧
 :PROPERTIES:
 :FUNCTION: 記
 :END:
