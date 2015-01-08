@@ -1091,9 +1091,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 自融撰　性磊補
+***** 自融
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 撰
+:END:
+***** 性磊
+:PROPERTIES:
+:FUNCTION: 補輯
 :END:
 
 **** textual witnesses
@@ -1166,7 +1170,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 德清述　高承埏
+***** 德清
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 高承埏
 :PROPERTIES:
 :FUNCTION: 補
 :END:
@@ -1191,9 +1199,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 無溫
+***** 無慍
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
