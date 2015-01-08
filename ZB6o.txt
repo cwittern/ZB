@@ -1607,10 +1607,15 @@
 :CBETA_ID:  T32n1651
 :CUSTOM_ID: ZB6o0042
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1651
-:DYNASTY: 淨意菩薩造
+:DYNASTY: 後魏
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 淨意菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 菩提流支
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1652,10 +1657,15 @@
 :CBETA_ID:  T32n1652
 :CUSTOM_ID: ZB6o0043
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1652
-:DYNASTY: 欝楞迦造
+:DYNASTY: 隋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 欝楞迦
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 達磨笈多
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1697,10 +1707,15 @@
 :CBETA_ID:  T32n1653
 :CUSTOM_ID: ZB6o0044
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1653
-:DYNASTY: 欝楞迦造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 欝楞迦
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 不空
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1742,12 +1757,12 @@
 :CBETA_ID:  T32n1654
 :CUSTOM_ID: ZB6o0045
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1654
-:DYNASTY: 猛龍菩薩造
 :END:
 **** extent: 1卷
 **** responsible: 
 ***** 猛龍菩薩
 :PROPERTIES:
+:DYNASTY: ?
 :FUNCTION: 造
 :END:
 
@@ -1772,7 +1787,6 @@
 :CBETA_ID:  T85n2816
 :CUSTOM_ID: ZB6o0046
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2816
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1797,10 +1811,15 @@
 :CBETA_ID:  T32n1655
 :CUSTOM_ID: ZB6o0047
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1655
-:DYNASTY: 世親菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 世親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1887,10 +1906,15 @@
 :CBETA_ID:  T32n1657
 :CUSTOM_ID: ZB6o0049
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1657
-:DYNASTY: 釋迦稱造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 釋迦稱
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1932,10 +1956,15 @@
 :CBETA_ID:  T32n1658
 :CUSTOM_ID: ZB6o0050
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1658
-:DYNASTY: 慈氏菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慈氏菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -1962,10 +1991,15 @@
 :CBETA_ID:  T32n1659
 :CUSTOM_ID: ZB6o0051
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1659
-:DYNASTY: 天親菩薩造
+:DYNASTY: 後秦
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 天親菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 鳩摩羅什
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2012,10 +2046,20 @@
 :CBETA_ID:  T32n1660
 :CUSTOM_ID: ZB6o0052
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1660
-:DYNASTY: 龍樹本
+:DYNASTY: 隋
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 龍樹
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 本
+:END:
+***** 自在比丘
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 釋
+:END:
 ***** 達磨笈多
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2062,10 +2106,15 @@
 :CBETA_ID:  T32n1661
 :CUSTOM_ID: ZB6o0053
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1661
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2107,10 +2156,15 @@
 :CBETA_ID:  T32n1662
 :CUSTOM_ID: ZB6o0054
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1662
-:DYNASTY: 龍樹菩薩集頌
+:DYNASTY: 宋
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 集頌
+:END:
 ***** 天息災
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2192,10 +2246,15 @@
 :CBETA_ID:  T32n1664
 :CUSTOM_ID: ZB6o0056
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1664
-:DYNASTY: 蓮華戒菩薩造
+:DYNASTY: 宋
 :END:
 **** extent: 4卷
 **** responsible: 
+***** 蓮華戒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 施護
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2302,10 +2361,15 @@
 :CBETA_ID:  T32n1666
 :CUSTOM_ID: ZB6o0059
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1666
-:DYNASTY: 馬鳴菩薩造
+:DYNASTY: 梁
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 馬鳴菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2367,10 +2431,15 @@
 :CBETA_ID:  T32n1667
 :CUSTOM_ID: ZB6o0060
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1667
-:DYNASTY: 馬鳴菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 2卷
 **** responsible: 
+***** 馬鳴菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 實叉難陀
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2412,10 +2481,15 @@
 :CBETA_ID:  T32n1668
 :CUSTOM_ID: ZB6o0061
 :SOURCE: Taisho Tripitaka Vol. 32, No. 1668
-:DYNASTY: 龍樹菩薩造
+:DYNASTY: 姚秦
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 龍樹菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 筏提摩多
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2546,9 +2620,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 普觀治
+***** 普觀
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 治定
 :END:
 
 **** textual witnesses
