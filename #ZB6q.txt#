@@ -1249,9 +1249,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 徐昌治編
+***** 徐昌治
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 編述
 :END:
 
 **** textual witnesses
@@ -1299,9 +1299,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信較
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1324,9 +1328,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信較
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1484,9 +1492,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仁勇等
+***** 仁勇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1500,7 +1508,6 @@
 :CBETA_ID:  T47n1994B
 :CUSTOM_ID: ZB6q0057
 :SOURCE: Taisho Tripitaka Vol. 47, No. 1994B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1529,9 +1536,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 才良等
+***** 才良
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1554,9 +1561,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 紹隆等
+***** 紹隆
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1689,7 +1696,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 祖詠編　張掄序　宗演
+***** 祖詠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 張掄
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 宗演
 :PROPERTIES:
 :FUNCTION: 跋
 :END:
@@ -1714,9 +1729,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 崇岳．了悟等
+***** 崇岳
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** 了悟
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1814,7 +1833,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
