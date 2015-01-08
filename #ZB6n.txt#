@@ -3516,7 +3516,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 玄奘譯　增修慈恩法師
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 譯增修
+:END:
+***** 慈恩法師
 :PROPERTIES:
 :FUNCTION: 解
 :END:
@@ -3611,9 +3615,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 廣益纂
+***** 廣益
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 纂釋
 :END:
 
 **** textual witnesses
@@ -3636,9 +3640,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明昱贅
+***** 明昱
 :PROPERTIES:
-:FUNCTION: 言
+:FUNCTION: 贅言
 :END:
 
 **** textual witnesses
@@ -3722,7 +3726,6 @@
 :CBETA_ID:  T85n2811
 :CUSTOM_ID: ZB6n0097
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2811
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3782,10 +3785,15 @@
 :CBETA_ID:  T31n1615
 :CUSTOM_ID: ZB6n0099
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1615
-:DYNASTY: 彌勒菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 彌勒菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -3832,10 +3840,15 @@
 :CBETA_ID:  T31n1619
 :CUSTOM_ID: ZB6n0100
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1619
-:DYNASTY: 陳那菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 陳那菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
@@ -3877,10 +3890,15 @@
 :CBETA_ID:  T31n1624
 :CUSTOM_ID: ZB6n0101
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1624
-:DYNASTY: 陳那菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 陳那菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -3922,10 +3940,15 @@
 :CBETA_ID:  T31n1625
 :CUSTOM_ID: ZB6n0102
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1625
-:DYNASTY: 護法菩薩造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 護法菩薩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 義淨
 :PROPERTIES:
 :FUNCTION: 譯
@@ -3971,9 +3994,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明昱會
+***** 明昱
 :PROPERTIES:
-:FUNCTION: 釋
+:FUNCTION: 會釋
 :END:
 
 **** textual witnesses
@@ -4021,9 +4044,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明昱錄
+***** 明昱
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 錄記
 :END:
 
 **** textual witnesses
@@ -4067,10 +4090,15 @@
 :CBETA_ID:  T31n1620
 :CUSTOM_ID: ZB6n0107
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1620
-:DYNASTY: 陳那菩薩造
+:DYNASTY: 陳
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 陳那菩薩
+:PROPERTIES:
+:DYNASTY: 陳那菩薩造
+:FUNCTION: 譯
+:END:
 ***** 真諦
 :PROPERTIES:
 :FUNCTION: 譯
