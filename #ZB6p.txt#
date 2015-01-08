@@ -159,9 +159,19 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 實觀分
+***** 智顗
 :PROPERTIES:
-:FUNCTION: 會
+:FUNCTION: 說
+:END:
+***** 知禮
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 述
+:END:
+***** 實觀
+:PROPERTIES:
+:DYNASTY: 日本
+:FUNCTION: 分會
 :END:
 
 **** textual witnesses
@@ -330,7 +340,6 @@
 :CBETA_ID:  X01n0006
 :CUSTOM_ID: ZB6p0014
 :SOURCE: 卍 Xuzangjing Vol. 01, No. 006
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -349,7 +358,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 元照述　戒度
+***** 元照
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 戒度
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -374,9 +387,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性澄句
+***** 性澄
 :PROPERTIES:
-:FUNCTION: 解
+:FUNCTION: 句解
 :END:
 
 **** textual witnesses
@@ -424,7 +437,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 大佑述　傳燈
+***** 大佑
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 傳燈
 :PROPERTIES:
 :FUNCTION: 鈔
 :END:
@@ -524,9 +541,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 古德法師演義　慈航智願定
+***** 古德法師
 :PROPERTIES:
-:FUNCTION: 本
+:FUNCTION: 演義
+:END:
+***** 慈航智願
+:PROPERTIES:
+:FUNCTION: 定本
 :END:
 
 **** textual witnesses
@@ -599,9 +620,19 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 達默造鈔　達林參
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 要解
+:END:
+***** 達默
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 造鈔
+:END:
+***** 達林
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 參訂
 :END:
 
 **** textual witnesses
@@ -624,9 +655,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 續法錄
+***** 續法
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 錄註
 :END:
 
 **** textual witnesses
@@ -649,6 +680,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 鄭澄德．鄭澄源
+:PROPERTIES:
+:FUNCTION: 註
+:END:
 ***** 鄭澄德．鄭澄源
 :PROPERTIES:
 :FUNCTION: 註
