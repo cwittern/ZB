@@ -3379,7 +3379,6 @@
 :END:
 
 
-
 *** [[mandoku:ZB1a0168.org][ZB1a0168]] 尚書注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0168
@@ -4561,7 +4560,6 @@
 **** textual witnesses
 ***** WYG
 *** [[at:text/chant/H15-27-0095/H15-27-0095_001.txt][H15-27-0095]] 毛詩
-
 *** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
@@ -6872,6 +6870,7 @@
 
 **** textual witnesses
 ***** WYG
+*** [[at:text/chant/H15-26-0094/H15-26-0094_001.txt][H15-26-0094]] 禮記
 *** [[mandoku:ZB1d0047.org][ZB1d0047]] 禮記注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1d0047
@@ -7708,7 +7707,6 @@
 
 
 
-
 *** [[mandoku:ZB1e0001.org][ZB1e0001]] 春秋左傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0001
@@ -7789,6 +7787,10 @@
       :FUNCTION: 撰
       :END:
 
+*** [[at:text/chant/H15-24-0085/H15-24-0085_001.txt][H15-24-0085]] 春秋公羊傳
+    :PROPERTIES:
+    :ZB_ID:    ZB1e0002
+    :END:
 *** [[mandoku:ZB1e0002.org][ZB1e0002]] 春秋公羊傳注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1e0002
@@ -13112,7 +13114,6 @@
 :PROPERTIES:
 :EDITION: 宋刊本
 :END:
-
 
 
 *** ZB1j0001 爾雅注疏
