@@ -6737,9 +6737,19 @@
 :END:
 **** extent: 21卷
 **** responsible: 
-***** 淨戒重
+***** 法應
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 集
+:END:
+***** 普會
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 續集
+:END:
+***** 淨戒
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重校
 :END:
 
 **** textual witnesses
@@ -6762,9 +6772,9 @@
 :END:
 **** extent: 45卷
 **** responsible: 
-***** 淨符彙
+***** 淨符
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -6812,7 +6822,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 子昇錄　如祐
+***** 子昇
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 如祐
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6862,9 +6876,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 重顯拈古　克勤擊
+***** 重顯
 :PROPERTIES:
-:FUNCTION: 節
+:FUNCTION: 拈古
+:END:
+***** 克勤
+:PROPERTIES:
+:FUNCTION: 擊節
 :END:
 
 **** textual witnesses
@@ -6887,9 +6905,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本瑞直註　道霖．性福編
+***** 本瑞直
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 註
+:END:
+***** 道霖性福
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -6912,9 +6934,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 從倫評
+***** 義青
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 從倫
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -6937,9 +6964,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 從倫評
+***** 子淳
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 從倫
+:PROPERTIES:
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
