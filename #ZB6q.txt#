@@ -2224,9 +2224,14 @@
 226-292
 **** extent: 6卷
 **** responsible: 
-***** 行秀評
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 行秀
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -2390,7 +2395,6 @@
 :CBETA_ID:  T48n2009
 :CUSTOM_ID: ZB6q0084
 :SOURCE: Taisho Tripitaka Vol. 48, No. 2009
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2839,9 +2843,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 淨善重
+***** 淨善
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 重集
 :END:
 
 **** textual witnesses
@@ -2864,9 +2868,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 如巹續
+***** 如巹
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 續集
 :END:
 
 **** textual witnesses
@@ -2919,9 +2923,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 德煇重
+***** 德煇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -2945,7 +2949,6 @@
 :CBETA_ID:  T85n2831
 :CUSTOM_ID: ZB6q0103
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2831
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2965,7 +2968,6 @@
 :CBETA_ID:  T85n2832
 :CUSTOM_ID: ZB6q0104
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2832
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2985,7 +2987,6 @@
 :CBETA_ID:  T85n2833
 :CUSTOM_ID: ZB6q0105
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2833
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3005,7 +3006,6 @@
 :CBETA_ID:  T85n2834
 :CUSTOM_ID: ZB6q0106
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2834
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3045,7 +3045,6 @@
 :CBETA_ID:  T85n2836
 :CUSTOM_ID: ZB6q0108
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2836
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3115,7 +3114,6 @@
 :CBETA_ID:  T85n2839
 :CUSTOM_ID: ZB6q0111
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2839
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3234,7 +3232,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明恂隨錄　慧智傳
+***** 覺愛略
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 明恂
+:PROPERTIES:
+:FUNCTION: 隨錄
+:END:
+***** 慧智
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
