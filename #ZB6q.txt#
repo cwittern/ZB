@@ -5051,9 +5051,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 聞刪
+***** 深有
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 撰
+:END:
+***** 聞
+:PROPERTIES:
+:FUNCTION: 刪定
 :END:
 
 **** textual witnesses
@@ -5076,7 +5080,15 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 宋濂著　袾宏輯　錢謙益
+***** 宋濂
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 袾宏
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 錢謙益
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -5101,9 +5113,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 王宗沐序　附拾得．豐干
+***** 閭丘胤
 :PROPERTIES:
-:FUNCTION: 詩
+:FUNCTION: 集並序
+:END:
+***** 王宗沐
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5151,7 +5168,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 鍾始聲著　大朗序　文分天學初徵及天學再徵　附書柬四則　程啟用
+***** 鍾始聲
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 大朗　
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 程啟用
 :PROPERTIES:
 :FUNCTION: 跋
 :END:
@@ -5201,9 +5226,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 徐昌治著　超悟錄　僧鑑序　附疏稿（原有缺頁
+***** 徐昌治
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
+:END:
+***** 超悟
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 僧鑑
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5226,9 +5259,9 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 德洪著　原書缺　依民國十年常州天寧寺刻本
+***** 德洪
 :PROPERTIES:
-:FUNCTION: 印
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5251,7 +5284,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 本善記　悟深
+***** 本善
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+***** 悟深
 :PROPERTIES:
 :FUNCTION: 編
 :END:
