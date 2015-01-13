@@ -7136,9 +7136,9 @@
 :PROPERTIES:
 :FUNCTION: 設問
 :END:
-***** 圓通設問　行秀仰
+***** 行秀
 :PROPERTIES:
-:FUNCTION: 答
+:FUNCTION: 仰答
 :END:
 
 **** textual witnesses
@@ -7161,7 +7161,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 一辯問　覺
+***** 一辯
+:PROPERTIES:
+:FUNCTION: 問
+:END:
+***** 覺
 :PROPERTIES:
 :FUNCTION: 答
 :END:
@@ -7206,9 +7210,9 @@
 :END:
 **** extent: 48卷
 **** responsible: 
-***** 賾藏主
+***** 賾藏
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 主集
 :END:
 
 **** textual witnesses
@@ -7256,9 +7260,14 @@
 :END:
 **** extent: 48卷
 **** responsible: 
-***** 淨戒重
+***** 賾藏
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 主集
+:END:
+***** 淨戒
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重校
 :END:
 
 **** textual witnesses
@@ -7327,10 +7336,15 @@
 :CBETA_ID:  X69n1320
 :CUSTOM_ID: ZB6q0266
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1320
-:DYNASTY: 
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 鶴徵
+:PROPERTIES:
+:FUNCTION: 書
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -7342,7 +7356,6 @@
 :CBETA_ID:  X69n1321
 :CUSTOM_ID: ZB6q0267
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1321
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7362,7 +7375,6 @@
 :CBETA_ID:  X69n1322
 :CUSTOM_ID: ZB6q0268
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1322
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7382,7 +7394,6 @@
 :CBETA_ID:  X69n1323
 :CUSTOM_ID: ZB6q0269
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1323
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7406,9 +7417,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 編
+***** 圓信
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -7431,9 +7446,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 林弘衍編
+***** 林弘衍
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -7481,9 +7496,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 于頔編
+***** 于頔
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -7502,13 +7517,13 @@
 :CBETA_ID:  X69n1338
 :CUSTOM_ID: ZB6q0274
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1338
-:DYNASTY: (小師)慧南重編
+:DYNASTY: 小師
 :END:
 **** extent: 1卷
 **** responsible: 
-***** (小師)慧南重
+***** 慧南
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
