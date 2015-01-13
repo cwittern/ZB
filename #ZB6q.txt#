@@ -5313,9 +5313,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 周理編　附夢語摘
+***** 周理
 :PROPERTIES:
-:FUNCTION: 要
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -5338,9 +5338,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 淨倫撰　周理輯　內題曹溪一滴卷
+***** 淨倫
 :PROPERTIES:
-:FUNCTION: 六
+:FUNCTION: 撰
+:END:
+***** 周理
+:PROPERTIES:
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -5363,9 +5367,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 吳應賓塔銘及王舜鼎夢禪
+***** 本智
 :PROPERTIES:
-:FUNCTION: 語
+:FUNCTION: 撰
+:END:
+***** 周理
+:PROPERTIES:
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -5388,9 +5396,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徹庸撰　洪如錄　內題曹溪一滴卷八　後附淨土偈一
+***** 徹庸
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 撰
+:END:
+***** 洪如
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -5413,9 +5425,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 道忞說　真樸編
+***** 道忞
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 說
+:END:
+***** 真樸
+:PROPERTIES:
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -5438,9 +5454,9 @@
 :END:
 **** extent: 32卷
 **** responsible: 
-***** 道忞著（中央圖書館善本書目編在集部別集類
+***** 道忞
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5463,7 +5479,11 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 明方說　淨柱
+***** 明方
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 淨柱
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -5488,9 +5508,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 真本說　機峻等
+***** 真本
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 機峻
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
