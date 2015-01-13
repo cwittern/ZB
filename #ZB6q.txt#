@@ -4467,12 +4467,17 @@
 :CUSTOM_ID: ZB6q0164
 :SOURCE: Jiaxing Canon Vol. 23, No. B129
 :DYNASTY: 明
+:DATE: 乾隆四十九年(了彙重刊超格序)
 :END:
 **** extent: 1卷
 **** responsible: 
 ***** 普明
 :PROPERTIES:
-:FUNCTION: 原輯性音續集舊跋
+:FUNCTION: 原輯
+:END:
+***** 性音
+:PROPERTIES:
+:FUNCTION: 續集舊跋
 :END:
 ***** 納信
 :PROPERTIES:
@@ -4483,7 +4488,7 @@
 :PROPERTIES:
 :FUNCTION: 序
 :END:
-***** 超格　乾隆四十九年了彙重刊超格序　乾隆四十九年了彙重
+***** 超格
 :PROPERTIES:
 :DYNASTY: 清
 :FUNCTION: 序
@@ -4534,9 +4539,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 性音重
+***** 性音
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -4584,7 +4589,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 圓悟著　真啟
+***** 圓悟
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 真啟
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -4634,9 +4643,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 錢伊庵編
+***** 錢伊庵
 :PROPERTIES:
-:FUNCTION: 緝
+:FUNCTION: 編緝
 :END:
 
 **** textual witnesses
@@ -4684,9 +4693,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 通容輯
+***** 通容
 :PROPERTIES:
-:FUNCTION: 著
+:FUNCTION: 輯著
 :END:
 
 **** textual witnesses
@@ -4859,7 +4868,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永盛述　德弘
+***** 永盛
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 德弘
 :PROPERTIES:
 :FUNCTION: 編
 :END:
