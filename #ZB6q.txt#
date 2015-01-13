@@ -9815,7 +9815,6 @@
 :CBETA_ID:  X71n1409
 :CUSTOM_ID: ZB6q0342
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1409
-:DYNASTY: ．．．．．．．．．．壽椿．德粹．思敬．良圭．景行．本真．紹宗．文闡．寶生．文藻．自成
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -9859,47 +9858,47 @@
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)壽椿
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)德粹
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)思敬
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)良圭
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)景行
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)本真
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)紹宗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)文闡
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)寶生
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)文藻
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (門人)
+***** (門人)自成
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9920,13 +9919,12 @@
 :CBETA_ID:  X71n1410
 :CUSTOM_ID: ZB6q0343
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1410
-:DYNASTY: (嗣法)繼祖等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (嗣法)繼祖等
+***** (嗣法)繼祖
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -9945,13 +9943,12 @@
 :CBETA_ID:  X71n1411
 :CUSTOM_ID: ZB6q0344
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1411
-:DYNASTY: (門人)本光等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (門人)本光等
+***** (門人)本光
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -9970,11 +9967,18 @@
 :CBETA_ID:  X71n1412
 :CUSTOM_ID: ZB6q0345
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1412
-:DYNASTY: (小師)元浩．清欲．應槐
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 
+***** (小師)元浩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (小師)清欲
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (小師)應槐
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9999,9 +10003,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 海壽編
+***** 海壽
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -10020,11 +10024,86 @@
 :CBETA_ID:  X71n1414
 :CUSTOM_ID: ZB6q0347
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1414
-:DYNASTY: (參學)一志．元皓．可興．文康．祖運．志道．祖杲．得度．文煥．克明．宗成．宗胤．起宗．汝現．元寶．慧朗．景毅．大圓．海壽．祖灊
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 等
+***** (參學)一志
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)元皓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)可興
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)文康
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖運
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)志道
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖杲
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)得度
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)文煥
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)克明
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗成
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗胤
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)起宗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)汝現
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)元寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)慧朗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)景毅
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)大圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)海壽
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖灊
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10045,13 +10124,13 @@
 :CBETA_ID:  X71n1415
 :CUSTOM_ID: ZB6q0348
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1415
-:DYNASTY: (嗣法參學)清逸．智辯．寶日
+:D
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** 
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
