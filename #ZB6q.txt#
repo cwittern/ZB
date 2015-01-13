@@ -3232,17 +3232,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 覺愛略
+***** 覺愛
 :PROPERTIES:
-:FUNCTION: 說
+:FUNCTION: 略說
 :END:
 ***** 明恂
 :PROPERTIES:
+:DYNASTY: 唐
 :FUNCTION: 隨錄
 :END:
 ***** 慧智
 :PROPERTIES:
-:FUNCTION: 譯
+:DYNASTY: 唐
+:FUNCTION: 傳譯
 :END:
 
 **** textual witnesses
@@ -3315,7 +3317,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 裴休問　宗密
+***** 裴休
+:PROPERTIES:
+:FUNCTION: 問
+:END:
+***** 宗密
 :PROPERTIES:
 :FUNCTION: 答
 :END:
@@ -3435,9 +3441,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 文冲(重校編集
+***** 文冲
 :PROPERTIES:
-:FUNCTION: )
+:FUNCTION: 重校編集
 :END:
 
 **** textual witnesses
@@ -3510,7 +3516,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 慧洪撰　覺慈
+***** 慧洪
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 覺慈
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -3535,7 +3545,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧霞編　廣輝
+***** 慧霞
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 廣輝
 :PROPERTIES:
 :FUNCTION: 釋
 :END:
@@ -3635,7 +3649,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 弘贊註　開詗
+***** 弘贊
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 開詗
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -3685,9 +3703,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 傳燈重編並
+***** 傳燈
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 重編並註
 :END:
 
 **** textual witnesses
@@ -3710,9 +3728,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 儀潤證
+***** 儀潤
 :PROPERTIES:
-:FUNCTION: 義
+:FUNCTION: 證義
 :END:
 
 **** textual witnesses
@@ -3781,7 +3799,6 @@
 :CBETA_ID:  X63n1247
 :CUSTOM_ID: ZB6q0138
 :SOURCE: 卍 Xuzangjing Vol. 63, No. 1247
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3830,9 +3847,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 惟勉編
+***** 惟勉
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -3855,7 +3872,7 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 弋咸
+***** 弌咸
 :PROPERTIES:
 :FUNCTION: 編
 :END:
