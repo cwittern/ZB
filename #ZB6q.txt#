@@ -6905,9 +6905,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本瑞直
+***** 本瑞
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 直註
 :END:
 ***** 道霖性福
 :PROPERTIES:
@@ -6970,6 +6970,7 @@
 :END:
 ***** 從倫
 :PROPERTIES:
+:DYNASTY: 元
 :FUNCTION: 評唱
 :END:
 
@@ -6993,9 +6994,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本瑞直註　性福編
+***** 本瑞
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 直註
+:END:
+***** 性福
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -7018,9 +7023,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 行秀評
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 拈古
+:END:
+***** 行秀
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -7043,9 +7053,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 真在編　機雲重
+***** 真在
 :PROPERTIES:
-:FUNCTION: 續
+:FUNCTION: 編
+:END:
+***** 機雲
+:PROPERTIES:
+:FUNCTION: 重續
 :END:
 
 **** textual witnesses
@@ -7068,9 +7082,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 宗杲集並著
+***** 宗杲
 :PROPERTIES:
-:FUNCTION: 語
+:FUNCTION: 集並著語
 :END:
 
 **** textual witnesses
@@ -7093,9 +7107,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 祖慶重
+***** 祖慶
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -7118,6 +7132,10 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 圓通
+:PROPERTIES:
+:FUNCTION: 設問
+:END:
 ***** 圓通設問　行秀仰
 :PROPERTIES:
 :FUNCTION: 答
