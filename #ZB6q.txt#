@@ -8499,7 +8499,6 @@
 :CBETA_ID:  X69n1371
 :CUSTOM_ID: ZB6q0305
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1371
-:DYNASTY: ．．．．．志諶．祖誾
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8519,15 +8518,15 @@
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (參學侍者)
+***** (參學侍者)智瑾
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (參學侍者)
+***** (參學侍者)志諶
 :PROPERTIES:
 :FUNCTION: 編
 :END:
-***** (參學侍者)
+***** (參學侍者)祖誾
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8548,7 +8547,6 @@
 :CBETA_ID:  X69n1372
 :CUSTOM_ID: ZB6q0306
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1372
-:DYNASTY: (小師)惟康編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8577,9 +8575,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 郭凝之重
+***** 慧然
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 集
+:END:
+***** 郭凝之
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -8598,11 +8601,18 @@
 :CBETA_ID:  X70n1374
 :CUSTOM_ID: ZB6q0308
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1374
-:DYNASTY: (侍者)士洵．德高．懷珠
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)士洵
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)德高
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)懷珠
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8623,7 +8633,6 @@
 :CBETA_ID:  X70n1375
 :CUSTOM_ID: ZB6q0309
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1375
-:DYNASTY: (侍者)道冲編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8648,11 +8657,34 @@
 :CBETA_ID:  X70n1376
 :CUSTOM_ID: ZB6q0310
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1376
-:DYNASTY: (嗣法門人)智沂．悟開．行彌．紹甄．智圓．元省．元樞
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (嗣法門人)智沂
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)悟開
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)行彌
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)紹甄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)智圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)元省
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)元樞
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8673,11 +8705,30 @@
 :CBETA_ID:  X70n1377
 :CUSTOM_ID: ZB6q0311
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1377
-:DYNASTY: (參學)善開．光睦．普巖．師肇．道巖．了能
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 等
+***** (參學)善開
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)光睦
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)普巖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)師肇
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)道巖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)了能
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
