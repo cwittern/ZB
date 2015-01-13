@@ -4947,9 +4947,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 姚廣孝著並
+***** 姚廣孝
 :PROPERTIES:
-:FUNCTION: 序
+:FUNCTION: 著並序
 :END:
 
 **** textual witnesses
@@ -4972,9 +4972,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭述並序　三頌為華嚴．楞嚴．法華　有偶拈問答及重刻自
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 跋
+:FUNCTION: 述並序
 :END:
 
 **** textual witnesses
@@ -5022,7 +5022,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 鮑宗肇述　智旭
+***** 鮑宗肇
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 智旭
 :PROPERTIES:
 :FUNCTION: 定
 :END:
