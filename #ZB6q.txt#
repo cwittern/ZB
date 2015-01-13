@@ -7918,7 +7918,7 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (侍者)普敬．．．．．．．．
+***** (侍者)普敬
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -7950,7 +7950,7 @@
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
-***** (侍者)
+***** (侍者)一見
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -7971,7 +7971,6 @@
 :CBETA_ID:  X69n1356
 :CUSTOM_ID: ZB6q0290
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1356
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -7991,7 +7990,6 @@
 :CBETA_ID:  X69n1357
 :CUSTOM_ID: ZB6q0291
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1357
-:DYNASTY: (嗣法)子文編
 :END:
 **** extent: 4卷
 **** responsible: 
@@ -8016,13 +8014,12 @@
 :CBETA_ID:  X69n1358
 :CUSTOM_ID: ZB6q0292
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1358
-:DYNASTY: (參學)嗣端
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (參學)嗣端
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8041,13 +8038,12 @@
 :CBETA_ID:  X69n1359
 :CUSTOM_ID: ZB6q0293
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1359
-:DYNASTY: (嗣法)守詮
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 等
+***** (嗣法)守詮
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8066,11 +8062,22 @@
 :CBETA_ID:  X69n1360
 :CUSTOM_ID: ZB6q0294
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1360
-:DYNASTY: (參學)齊己．如本．祖淳．法慧
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (參學)齊己
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)如本
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖淳
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)法慧
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8095,9 +8102,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沈孟柈敘
+***** 沈孟柈
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 敘述
 :END:
 
 **** textual witnesses
@@ -8116,11 +8123,14 @@
 :CBETA_ID:  X69n1362
 :CUSTOM_ID: ZB6q0296
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1362
-:DYNASTY: (參學)法宏．道謙
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (參學)法宏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)道謙
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8141,11 +8151,14 @@
 :CBETA_ID:  X69n1363
 :CUSTOM_ID: ZB6q0297
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1363
-:DYNASTY: (侍者)覺心．志清
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)覺心
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)志清
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8166,11 +8179,14 @@
 :CBETA_ID:  X69n1364
 :CUSTOM_ID: ZB6q0298
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1364
-:DYNASTY: (小師)了見、(侍者)文郁．本空
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (小師)了見
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)文郁本空
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8191,7 +8207,6 @@
 :CBETA_ID:  X69n1365
 :CUSTOM_ID: ZB6q0299
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1365
-:DYNASTY: (參學)大觀編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8216,13 +8231,12 @@
 :CBETA_ID:  X69n1366
 :CUSTOM_ID: ZB6q0300
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1366
-:DYNASTY: (門人)德溥
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等編
+***** (門人)德溥
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 等編校
 :END:
 
 **** textual witnesses
@@ -8241,11 +8255,22 @@
 :CBETA_ID:  X69n1367
 :CUSTOM_ID: ZB6q0301
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1367
-:DYNASTY: (門人)延俊．慧曇．中孚．崇裕
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)延俊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧曇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)中孚
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)崇裕
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8266,11 +8291,43 @@
 :CBETA_ID:  X69n1368
 :CUSTOM_ID: ZB6q0302
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1368
-:DYNASTY: (侍者門人)元清．淨志．普暉．元偉．光從．道鑑．道隆．惟實．妙高
+:DYNASTY: ．．．元偉．光從．道鑑．道隆．惟實．妙高
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (侍者門人)元清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)淨志
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)普暉
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)
 :PROPERTIES:
 :FUNCTION: 編
 :END:
