@@ -5957,9 +5957,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張守約追擬並序　唐守禮序　蔡善繼序（依駒本印
+***** 張守約
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 追擬並序
+:END:
+***** 守禮
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 序
+:END:
+***** 蔡善繼
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -6032,9 +6042,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 僧遠說　廣仍記　附雲嵒頌古　附雲嵒九頌　余懷
+***** 僧遠
 :PROPERTIES:
-:FUNCTION: 製
+:FUNCTION: 說
+:END:
+***** 廣仍
+:PROPERTIES:
+:FUNCTION: 記
 :END:
 
 **** textual witnesses
@@ -6057,9 +6071,17 @@
 :END:
 **** extent: 33卷
 **** responsible: 
-***** 道盛說　大成．大然等較　後附杖門隨
+***** 道盛
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 說
+:END:
+***** 大成
+:PROPERTIES:
+:FUNCTION: 等較
+:END:
+***** 大然
+:PROPERTIES:
+:FUNCTION: 等較
 :END:
 
 **** textual witnesses
@@ -6082,9 +6104,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 弘贊編（依駒本印
+***** 弘贊
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -6107,7 +6129,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 弘贊編　開溈
+***** 弘贊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 開溈
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6132,9 +6158,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 符（尼）說　師炤等
+***** 符（尼）
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 師炤
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -6157,7 +6187,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 符（尼）說　振澂等
+***** 符（尼）
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 振澂
 :PROPERTIES:
 :FUNCTION: 記
 :END:
