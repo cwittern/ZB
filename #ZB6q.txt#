@@ -5562,9 +5562,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徹（尼）．符（尼）合頌　張有譽輯並
+***** 徹（尼）
 :PROPERTIES:
-:FUNCTION: 序
+:FUNCTION: 頌
+:END:
+***** 符（尼）
+:PROPERTIES:
+:FUNCTION: 頌
+:END:
+***** 張有譽
+:PROPERTIES:
+:FUNCTION: 輯並序
 :END:
 
 **** textual witnesses
@@ -5587,7 +5595,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 智旭著　圓果
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 圓果
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -5612,9 +5624,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上說　道汜．道沖等錄（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 道汜
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 道沖
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -5637,9 +5657,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上頌并跋　蘊宏著語（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 頌并跋
+:END:
+***** 蘊宏
+:PROPERTIES:
+:FUNCTION: 著語
 :END:
 
 **** textual witnesses
@@ -5662,9 +5686,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上著　舒峻極序　杜國柱序（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
+:END:
+***** 舒峻極
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 杜國柱
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5687,9 +5719,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性統編　至善序（依駒本印
+***** 性統
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 編
+:END:
+***** 至善
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5712,9 +5748,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 書玉略釋並序跋　有事義（依駒本印
+***** 書玉
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 略釋並序跋
 :END:
 
 **** textual witnesses
@@ -5737,9 +5773,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉略解（依駒本印
+***** 書玉
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 略解
 :END:
 
 **** textual witnesses
@@ -5762,7 +5798,11 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 通明撰　毛晉
+***** 通明
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 毛晉
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -5787,9 +5827,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 通明撰　附病遊遊刃．病遊初草．病遊後
+***** 通明
 :PROPERTIES:
-:FUNCTION: 草
+:FUNCTION: 撰
 :END:
 
 **** textual witnesses
@@ -5812,9 +5852,9 @@
 :END:
 **** extent: 11卷
 **** responsible: 
-***** 袾宏著（原本多缺　依金陵本補印　並補後增讚序等文　凡補印者　於該條目上作△以志之
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
