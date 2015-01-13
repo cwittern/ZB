@@ -10444,11 +10444,46 @@
 :CBETA_ID:  X71n1421
 :CUSTOM_ID: ZB6q0354
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1421
-:DYNASTY: 觀通．溥震．正除．希顏．忻悟．寶盈．至寶．慧鏡．護位．道彝
 :END:
 **** extent: 10卷
 **** responsible: 
-***** (門人)
+***** (門人)觀通
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)溥震
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)正除
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)希顏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)忻悟
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)寶盈
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)至寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧鏡
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)護位
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)道彝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10469,11 +10504,26 @@
 :CBETA_ID:  X71n1422
 :CUSTOM_ID: ZB6q0355
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1422
-:DYNASTY: (門人)宗謐．妙門．復初．廷璨．良玓
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)宗謐
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)妙門
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)復初
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)廷璨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)良玓
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10494,13 +10544,12 @@
 :CBETA_ID:  X71n1423
 :CUSTOM_ID: ZB6q0356
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1423
-:DYNASTY: (傳法)自覺重編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (傳法)自覺重
+***** (傳法)自覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -10519,7 +10568,6 @@
 :CBETA_ID:  X71n1424
 :CUSTOM_ID: ZB6q0357
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1424
-:DYNASTY: (嗣法)道楷編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -10544,13 +10592,12 @@
 :CBETA_ID:  X71n1425
 :CUSTOM_ID: ZB6q0358
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1425
-:DYNASTY: (嗣法小師)慶預校勘
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (嗣法小師)慶預校
+***** (嗣法小師)慶預
 :PROPERTIES:
-:FUNCTION: 勘
+:FUNCTION: 校勘
 :END:
 
 **** textual witnesses
@@ -10569,13 +10616,16 @@
 :CBETA_ID:  X71n1426
 :CUSTOM_ID: ZB6q0359
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1426
-:DYNASTY: (侍者)德初．義初
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 等
+***** (侍者)德初
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** (侍者)義初
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
