@@ -3947,7 +3947,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 清覺述　道安
+***** 清覺
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 道安
 :PROPERTIES:
 :FUNCTION: 注
 :END:
@@ -4047,7 +4051,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 元來說　成正
+***** 元來
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成正
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -4147,9 +4155,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 善卿編
+***** 善卿
 :PROPERTIES:
-:FUNCTION: 正
+:FUNCTION: 編正
 :END:
 
 **** textual witnesses
@@ -4197,9 +4205,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 張文嘉較定　張文憲參
+***** 張文嘉
 :PROPERTIES:
-:FUNCTION: 閱
+:FUNCTION: 較定
+:END:
+***** 張文憲
+:PROPERTIES:
+:FUNCTION: 參閱
 :END:
 
 **** textual witnesses
@@ -4222,7 +4234,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行盛著　超記
+***** 行盛
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 超記
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -4247,9 +4263,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 德玉順
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 硃
+:FUNCTION: 順硃
 :END:
 
 **** textual witnesses
@@ -4368,7 +4384,6 @@
 :CBETA_ID:  X64n1271
 :CUSTOM_ID: ZB6q0161
 :SOURCE: 卍 Xuzangjing Vol. 64, No. 1271
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
