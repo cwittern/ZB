@@ -12377,9 +12377,9 @@
 :PROPERTIES:
 :FUNCTION: 說
 :END:
-***** 本開等記
+***** 本開
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -12402,9 +12402,13 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 元說　超宣等
+***** 元
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超宣
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12427,9 +12431,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 喜說　智恒等
+***** 喜
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 智恒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12452,9 +12460,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 鑑說　海岳記
+***** 鑑
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 海岳
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -12477,9 +12489,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 行舟說　海鹽．益證等
+***** 行舟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 海鹽
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 益證
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12502,9 +12522,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　超源等記錄　超晙等
+***** 笑堂明哲
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超源
+:PROPERTIES:
+:FUNCTION: 等記錄
+:END:
+***** 超晙
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12527,9 +12555,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 真哲說　傳我等
+***** 真哲
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 傳我
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12552,9 +12584,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 融說　師住．妙印等
+***** 融
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 師住
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 妙印
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12577,9 +12617,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 行剛（尼）說　授遠．超宿等
+***** 行剛（尼）
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 授遠
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 超宿
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12602,9 +12650,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 徹（尼）說　超祥記
+***** 徹（尼）
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 超祥
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -12627,6 +12679,14 @@
 :END:
 **** extent: 10卷
 **** responsible: 
+***** 謐說　超巨．超秀等
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 謐說　超巨．超秀等
+:PROPERTIES:
+:FUNCTION: 編
+:END:
 ***** 謐說　超巨．超秀等
 :PROPERTIES:
 :FUNCTION: 編
