@@ -3247,7 +3247,7 @@
 **** responsible: 
 ***** 契嵩
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -3345,9 +3345,9 @@
 :END:
 **** extent: 32卷
 **** responsible: 
-***** 紀蔭編
+***** 紀蔭
 :PROPERTIES:
-:FUNCTION: 纂
+:FUNCTION: 編纂
 :END:
 
 **** textual witnesses
@@ -3391,7 +3391,6 @@
 :CBETA_ID:  X86n1597
 :CUSTOM_ID: ZB6r0107
 :SOURCE: 卍 Xuzangjing Vol. 86, No. 1597
-:DYNASTY: 曇噩撰
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -3416,7 +3415,6 @@
 :CBETA_ID:  X86n1598
 :CUSTOM_ID: ZB6r0108
 :SOURCE: 卍 Xuzangjing Vol. 86, No. 1598
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3465,7 +3463,11 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 道忞編修　吳侗
+***** 道忞
+:PROPERTIES:
+:FUNCTION: 編修
+:END:
+***** 吳侗
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -3490,9 +3492,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 悟進編
+***** 悟進
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -3515,9 +3517,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明喜撰
+***** 明喜
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 撰輯
 :END:
 
 **** textual witnesses
@@ -3786,7 +3788,6 @@
 :CBETA_ID:  T51n2086
 :CUSTOM_ID: ZB6r0120
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2086
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3805,7 +3806,11 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 玄奘譯、辯機
+***** 玄奘
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 辯機
 :PROPERTIES:
 :FUNCTION: 撰
 :END:
@@ -3926,13 +3931,18 @@
 :CBETA_ID:  T51n2089
 :CUSTOM_ID: ZB6r0123
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2089
-:DYNASTY: 新羅慧超唐圓照等撰
+:DYNASTY: 新羅
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 新羅慧超唐圓照等
+***** 慧超
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 記
+:END:
+***** 圓照
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 等撰
 :END:
 
 **** textual witnesses
@@ -4031,7 +4041,6 @@
 :CBETA_ID:  T51n2091
 :CUSTOM_ID: ZB6r0125
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2091
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4186,7 +4195,6 @@
 :CBETA_ID:  T51n2094
 :CUSTOM_ID: ZB6r0129
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2094
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4610,9 +4618,9 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 彥悰纂
+***** 彥悰
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 纂錄
 :END:
 
 **** textual witnesses
@@ -4850,7 +4858,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 神清撰．慧寶
+***** 神清
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 慧寶
 :PROPERTIES:
 :FUNCTION: 注
 :END:
@@ -4966,13 +4978,17 @@
 :CBETA_ID:  T52n2118
 :CUSTOM_ID: ZB6r0151
 :SOURCE: Taisho Tripitaka Vol. 52, No. 2118
-:DYNASTY: 師子比丘述註
+:DYNASTY: 元
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 師子比丘述
+***** 子成
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 撰
+:END:
+***** 師子比丘
+:PROPERTIES:
+:FUNCTION: 述註
 :END:
 
 **** textual witnesses
@@ -5061,7 +5077,6 @@
 :CBETA_ID:  T52n2119
 :CUSTOM_ID: ZB6r0154
 :SOURCE: Taisho Tripitaka Vol. 52, No. 2119
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -5141,7 +5156,6 @@
 :CBETA_ID:  X87n1623
 :CUSTOM_ID: ZB6r0156
 :SOURCE: 卍 Xuzangjing Vol. 87, No. 1623
-:DYNASTY: 靈操撰
 :END:
 **** extent: 2卷
 **** responsible: 
