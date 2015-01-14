@@ -14651,17 +14651,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超智　明林．明燦等
+***** 超智
 :PROPERTIES:
 :FUNCTION: 說
 :END:
-***** 超智說　明林．明燦等
+***** 明林
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
-***** 超智說　明林．明燦等
+***** 明燦
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14684,9 +14684,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 明林說　最正等
+***** 明林
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 最正
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14709,9 +14713,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 最正說　尚能．尚瑩等編　末附助緣耆
+***** 最正
 :PROPERTIES:
-:FUNCTION: 德
+:FUNCTION: 說
+:END:
+***** 尚能
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 尚瑩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14734,9 +14746,17 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 淨斯說　智操．智海等編語錄　智朴．方拱乾等編蔓堂集　附蔓堂
+***** 淨斯
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 說
+:END:
+***** 智操
+:PROPERTIES:
+:FUNCTION: 等編語錄
+:END:
+***** 智海
+:PROPERTIES:
+:FUNCTION: 等編語錄
 :END:
 
 **** textual witnesses
@@ -14759,9 +14779,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 大奇說　興舒等
+***** 大奇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 興舒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14784,9 +14808,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 念說　真慧等
+***** 念
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 真慧
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14809,9 +14837,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 行聞說　超質等
+***** 行聞
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超質
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14834,9 +14866,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超質說　明嵩等
+***** 超質
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 明嵩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14859,6 +14895,10 @@
 :END:
 **** extent: 6卷
 **** responsible: 
+***** 行海　超鳴
+:PROPERTIES:
+:FUNCTION: 編
+:END:
 ***** 行海說　超鳴
 :PROPERTIES:
 :FUNCTION: 編
