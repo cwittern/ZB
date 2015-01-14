@@ -12679,17 +12679,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 謐說　超巨．超秀等
+***** 謐
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
 :END:
-***** 謐說　超巨．超秀等
+***** 超巨
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
-***** 謐說　超巨．超秀等
+***** 超秀
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12712,9 +12712,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 秀說　明一等
+***** 秀
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 明一
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12737,9 +12741,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 聆說　海瑞等
+***** 聆
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 海瑞
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12762,9 +12770,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 觀衡說　正印重
+***** 觀衡
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 正印
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -12787,9 +12799,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 印說　性圓等
+***** 印
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 性圓
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12812,9 +12828,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 印說　旋性記
+***** 印
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 旋性
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -12837,6 +12857,10 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 圓䂐　觀誰等
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 圓䂐說　觀誰等
 :PROPERTIES:
 :FUNCTION: 錄
