@@ -13225,11 +13225,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 廣真說　燈來
+***** 廣真
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
 :END:
-***** 廣真說　燈來
+***** 燈來
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -13254,9 +13254,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 廣真說　燈來重編（依駒本印
+***** 廣真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 燈來
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13279,7 +13283,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧機說　燈來
+***** 慧機
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 燈來
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -13304,9 +13312,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 慧機說　幻敏重編（依駒本印
+***** 慧機
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 幻敏
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13329,7 +13341,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 鐵眉號三巴掌說　性養．性亮同
+***** 鐵眉號三巴掌
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 性養
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 性亮
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -13354,9 +13374,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 嵩說　性愷編　徐善序　有附
+***** 嵩
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 性愷
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 徐善
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13379,9 +13407,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 燈來說　普定編（原目二十八卷　卷十七下註有「嗣刻」二字　此為初刻本
+***** 燈來
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 普定
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13404,9 +13436,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智說　機輪等
+***** 智
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 機輪
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13429,9 +13465,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 機峻說　全弘錄　羅開麟序（依駒本印
+***** 機峻
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 全弘
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 羅開麟
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13449,6 +13493,10 @@
 :END:
 **** extent: 5卷
 **** responsible: 
+***** 顯權　海澂
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
 ***** 顯權說　海澂
 :PROPERTIES:
 :FUNCTION: 錄
