@@ -11025,7 +11025,6 @@
 :CBETA_ID:  X72n1444
 :CUSTOM_ID: ZB6q0374
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1444
-:DYNASTY: (門人)　．
 :END:
 **** extent: 8卷
 **** responsible: 
@@ -11058,7 +11057,6 @@
 :CBETA_ID:  X73n1445
 :CUSTOM_ID: ZB6q0375
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1445
-:DYNASTY: (參學)智嚴集
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -11087,9 +11085,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 林弘衍編
+***** 林弘衍
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -11108,7 +11106,6 @@
 :CBETA_ID:  X73n1447
 :CUSTOM_ID: ZB6q0377
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1447
-:DYNASTY: (門人)文智編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11133,7 +11130,6 @@
 :CBETA_ID:  X73n1448
 :CUSTOM_ID: ZB6q0378
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1448
-:DYNASTY: (小師)宗密錄
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11158,13 +11154,12 @@
 :CBETA_ID:  X73n1449
 :CUSTOM_ID: ZB6q0379
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1449
-:DYNASTY: (法孫)師皎重編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (法孫)師皎重
+***** (法孫)師皎
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -11183,7 +11178,6 @@
 :CBETA_ID:  X73n1450
 :CUSTOM_ID: ZB6q0380
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1450
-:DYNASTY: (嗣法)慧辯錄
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -11208,11 +11202,22 @@
 :CBETA_ID:  X73n1451
 :CUSTOM_ID: ZB6q0381
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1451
-:DYNASTY: (侍者)善清．善隨．宗先．普紹
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (侍者)善清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)善隨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗先
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)普紹
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11262,9 +11267,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 錢謙益纂
+***** 錢謙益
 :PROPERTIES:
-:FUNCTION: 閱
+:FUNCTION: 纂閱
 :END:
 
 **** textual witnesses
@@ -11283,11 +11288,26 @@
 :CBETA_ID:  X73n1454
 :CUSTOM_ID: ZB6q0384
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1454
-:DYNASTY: (參學)宗敬．道傑．惟能．宗㞧．祖祿
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (參學)宗敬
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)道傑
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)惟能
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗㞧
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖祿
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11333,13 +11353,16 @@
 :CBETA_ID:  X73n1456
 :CUSTOM_ID: ZB6q0386
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1456
-:DYNASTY: (侍者)福善日錄
 :END:
 **** extent: 52卷
 **** responsible: 
-***** (門人)通炯編
+***** (侍者)福善日
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 錄
+:END:
+***** (門人)通炯
+:PROPERTIES:
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -11412,7 +11435,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 德清撰　福善日
+***** 德清
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 福善日
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -11437,9 +11464,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 圓悟說　如瑩等
+***** 圓悟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 如瑩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11462,9 +11493,21 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 從諗說　文遠記　大參重校　明聲重
+***** 從諗
 :PROPERTIES:
-:FUNCTION: 刻
+:FUNCTION: 說
+:END:
+***** 文遠
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+***** 大參
+:PROPERTIES:
+:FUNCTION: 重校
+:END:
+***** 明聲
+:PROPERTIES:
+:FUNCTION: 重刻
 :END:
 
 **** textual witnesses
@@ -11487,6 +11530,10 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 文偃　
+:PROPERTIES:
+:FUNCTION: 說
+:END:
 ***** 文偃說　守堅
 :PROPERTIES:
 :FUNCTION: 編
