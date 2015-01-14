@@ -856,9 +856,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -877,13 +877,12 @@
 :CBETA_ID:  W03n0031c
 :CUSTOM_ID: ZB6u0040
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031c
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -902,13 +901,12 @@
 :CBETA_ID:  W03n0031d
 :CUSTOM_ID: ZB6u0041
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -922,13 +920,12 @@
 :CBETA_ID:  W03n0031e
 :CUSTOM_ID: ZB6u0042
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -942,13 +939,11 @@
 :CBETA_ID:  W03n0032
 :CUSTOM_ID: ZB6u0043
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 032
-:DYNASTY: 李際寧
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 寧
 :END:
 
 **** textual witnesses
@@ -967,11 +962,18 @@
 :CBETA_ID:  W04n0033
 :CUSTOM_ID: ZB6u0044
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 033
-:DYNASTY: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 寂天菩薩造頌　傑操大師註解　隆蓮法師
+***** 寂天菩薩
+:PROPERTIES:
+:FUNCTION: 造頌
+:END:
+***** 傑操大師
+:PROPERTIES:
+:FUNCTION: 註解
+:END:
+***** 隆蓮法師
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -992,13 +994,12 @@
 :CBETA_ID:  W04n0034
 :CUSTOM_ID: ZB6u0045
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1012,13 +1013,12 @@
 :CBETA_ID:  W04n0035
 :CUSTOM_ID: ZB6u0046
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1032,13 +1032,12 @@
 :CBETA_ID:  W04n0036
 :CUSTOM_ID: ZB6u0047
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 036
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1052,13 +1051,12 @@
 :CBETA_ID:  W04n0037
 :CUSTOM_ID: ZB6u0048
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 037
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1076,9 +1074,22 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 太宗．真宗．仁宗撰　陳明光整
+***** 太宗
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 真宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 仁宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 陳明光
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1092,13 +1103,12 @@
 :CBETA_ID:  W04n0039
 :CUSTOM_ID: ZB6u0050
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 039
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1112,13 +1122,12 @@
 :CBETA_ID:  W04n0040
 :CUSTOM_ID: ZB6u0051
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 040
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
