@@ -12857,13 +12857,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 圓䂐　觀誰等
+***** 圓䂐
 :PROPERTIES:
 :FUNCTION: 說
 :END:
-***** 圓䂐說　觀誰等
+***** 觀誰
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12886,7 +12886,15 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 璧說　如崇等錄　宗上
+***** 璧
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 如崇
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 宗上
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12911,7 +12919,19 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 福慧說　宗宏錄　宗上．宗堅仝
+***** 福慧
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 宗宏
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 宗上
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 宗堅仝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12936,9 +12956,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 原澂說　清杲編次（依駒本印
+***** 原澂
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 清杲
+:PROPERTIES:
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -12961,9 +12985,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 慧海說　原澂等編（依駒本印
+***** 慧海
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12986,9 +13014,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 慧海說　原澂等
+***** 慧海
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13011,9 +13043,17 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧海說　原澂．原上等
+***** 慧海
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 原上
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13036,9 +13076,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 悟進說　真理等編　附源流
+***** 悟進
 :PROPERTIES:
-:FUNCTION: 頌
+:FUNCTION: 說
+:END:
+***** 真理
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13061,9 +13105,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 元說　真開．真智等
+***** 元
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 真開
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 真智
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13086,9 +13138,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 道正說　性容等
+***** 道正
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 性容
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13111,9 +13167,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道正說　發慧等
+***** 道正
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 發慧
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13136,9 +13196,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 了說　達最等
+***** 了
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 達最
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13161,6 +13225,10 @@
 :END:
 **** extent: 3卷
 **** responsible: 
+***** 廣真說　燈來
+:PROPERTIES:
+:FUNCTION: 編
+:END:
 ***** 廣真說　燈來
 :PROPERTIES:
 :FUNCTION: 編
