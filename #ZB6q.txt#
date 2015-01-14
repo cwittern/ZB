@@ -12013,9 +12013,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 通奇說　行謐等
+***** 通奇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 行謐
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12038,9 +12042,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 昇說　元玉等記
+***** 昇
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 元玉
+:PROPERTIES:
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -12063,7 +12071,11 @@
 :END:
 **** extent: 18卷
 **** responsible: 
-***** 明雪說　寂蘊
+***** 明雪
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 寂蘊
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12088,9 +12100,13 @@
 :END:
 **** extent: 11卷
 **** responsible: 
-***** 明盂說　淨範等
+***** 明盂
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 淨範
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12113,9 +12129,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 淨現說　淨癡等
+***** 淨現
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 淨癡
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12138,9 +12158,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 珠說　廣熙等
+***** 珠
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 廣熙
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12163,9 +12187,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 隆琦說　海寧等
+***** 隆琦
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 海寧
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12188,9 +12216,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 通醉說　徹綱等
+***** 通醉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 徹綱
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12213,9 +12245,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 妙用說　悟進．悟元等
+***** 妙用
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 悟進
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 悟元
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12238,7 +12278,15 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 元來說　成正錄　元賢
+***** 元來
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成正
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 元賢
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -12263,7 +12311,15 @@
 :END:
 **** extent: 13卷
 **** responsible: 
-***** 智誾說　成巒等錄　開詗
+***** 智誾
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成巒
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 開詗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12288,7 +12344,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 智誾說　傳善
+***** 智誾
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 傳善
 :PROPERTIES:
 :FUNCTION: 輯
 :END:
@@ -12313,7 +12373,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 達尊說　本開等記
+***** 達尊
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 本開等記
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
