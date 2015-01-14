@@ -1850,9 +1850,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 太宗御
+***** 太宗
 :PROPERTIES:
-:FUNCTION: 製
+:FUNCTION: 御製
 :END:
 
 **** textual witnesses
@@ -1895,9 +1895,9 @@
 :END:
 **** extent: 19卷
 **** responsible: 
-***** 世宗皇帝御
+***** 世宗皇帝
 :PROPERTIES:
-:FUNCTION: 選
+:FUNCTION: 御選
 :END:
 
 **** textual witnesses
@@ -2006,10 +2006,15 @@
 :CBETA_ID:  T54n2138
 :CUSTOM_ID: ZB6s0073
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2138
-:DYNASTY: 慧月造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慧月
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2046,7 +2051,6 @@
 :CBETA_ID:  T54n2139
 :CUSTOM_ID: ZB6s0074
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2139
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -2086,7 +2090,6 @@
 :CBETA_ID:  F29n1098
 :CUSTOM_ID: ZB6s0076
 :SOURCE: Fangshan shijing Vol. 29, No. 1098
-:DYNASTY: 儼法師造
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2111,7 +2114,6 @@
 :CBETA_ID:  F29n1099
 :CUSTOM_ID: ZB6s0077
 :SOURCE: Fangshan shijing Vol. 29, No. 1099
-:DYNASTY: 杜順法師造
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2131,7 +2133,6 @@
 :CBETA_ID:  T54n2140
 :CUSTOM_ID: ZB6s0078
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2140
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2166,7 +2167,6 @@
 :CBETA_ID:  T54n2141B
 :CUSTOM_ID: ZB6s0080
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2141B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2181,7 +2181,6 @@
 :CBETA_ID:  T54n2142
 :CUSTOM_ID: ZB6s0081
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2142
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2196,7 +2195,6 @@
 :CBETA_ID:  T54n2143
 :CUSTOM_ID: ZB6s0082
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2143
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2285,9 +2283,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 法經等
+***** 法經
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 等撰
 :END:
 
 **** textual witnesses
@@ -2575,9 +2573,9 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 明佺等
+***** 明佺
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 等撰
 :END:
 
 **** textual witnesses
@@ -2890,9 +2888,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 惟淨等編
+***** 惟淨
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2915,9 +2913,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 楊億等編
+***** 楊億
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2940,9 +2938,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 楊億等編
+***** 楊億
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2965,9 +2963,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 呂夷簡等編
+***** 呂夷簡
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
