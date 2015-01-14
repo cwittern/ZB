@@ -13493,11 +13493,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 顯權　海澂
+***** 顯權
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
 :END:
-***** 顯權說　海澂
+***** 海澂
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -13522,9 +13522,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 如璽說　興林等編　附淨土
+***** 如璽
 :PROPERTIES:
-:FUNCTION: 詩
+:FUNCTION: 說
+:END:
+***** 興林
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13547,9 +13551,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 正覺說　淨啟重
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 淨啟
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13572,7 +13580,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元長說　嗣詔
+***** 元長
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 嗣詔
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -13597,6 +13609,22 @@
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慧廣
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 妙用
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行
+:PROPERTIES:
+:FUNCTION: 狀
+:END:
+***** 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行
+:PROPERTIES:
+:FUNCTION: 狀
+:END:
 ***** 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行
 :PROPERTIES:
 :FUNCTION: 狀
