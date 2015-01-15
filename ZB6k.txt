@@ -337,7 +337,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 法顯共覺賢
+***** 法顯
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 覺賢
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -3663,9 +3667,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 袾宏發
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: 隱
+:FUNCTION: 發隱
 :END:
 
 **** textual witnesses
