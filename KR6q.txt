@@ -5,7 +5,6 @@
 :CBETA_ID:  T51n2075
 :CUSTOM_ID: ZB6q0001
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2075
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -85,7 +84,7 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 李遵勗勅
+***** 李遵勗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -366,7 +365,6 @@
 :CBETA_ID:  X83n1572
 :CUSTOM_ID: ZB6q0015
 :SOURCE: 卍 Xuzangjing Vol. 83, No. 1572
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -386,7 +384,6 @@
 :CBETA_ID:  T51n2077
 :CUSTOM_ID: ZB6q0016
 :SOURCE: Taisho Tripitaka Vol. 51, No. 2077
-:DYNASTY: 
 :END:
 **** extent: 36卷
 **** responsible: 
@@ -540,9 +537,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -565,9 +562,9 @@
 :END:
 **** extent: 33卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -590,9 +587,9 @@
 :END:
 **** extent: 87卷
 **** responsible: 
-***** 超永編
+***** 超永
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -640,9 +637,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 聶先編
+***** 聶先
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -665,9 +662,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 心圓拈別　火蓮集
+***** 心圓
 :PROPERTIES:
-:FUNCTION: 梓
+:FUNCTION: 拈別
+:END:
+***** 火蓮
+:PROPERTIES:
+:FUNCTION: 集梓
 :END:
 
 **** textual witnesses
@@ -690,9 +691,9 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 黎眉等
+***** 黎眉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -715,9 +716,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -740,9 +741,9 @@
 :END:
 **** extent: 42卷
 **** responsible: 
-***** 性統編
+***** 性統
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -761,7 +762,6 @@
 :CBETA_ID:  X84n1584
 :CUSTOM_ID: ZB6q0029
 :SOURCE: 卍 Xuzangjing Vol. 84, No. 1584
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -785,9 +785,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 通問編定　施沛彙
+***** 通問
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編定
+:END:
+***** 施沛
+:PROPERTIES:
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -806,7 +810,6 @@
 :CBETA_ID:  X85n1586
 :CUSTOM_ID: ZB6q0031
 :SOURCE: 卍 Xuzangjing Vol. 85, No. 1586
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -830,7 +833,15 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 際源．了貞輯　達珍
+***** 際源
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 了貞
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 達珍
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -857,7 +868,7 @@
 **** responsible: 
 ***** 達珍
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -1080,9 +1091,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 自融撰　性磊補
+***** 自融
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 撰
+:END:
+***** 性磊
+:PROPERTIES:
+:FUNCTION: 補輯
 :END:
 
 **** textual witnesses
@@ -1155,7 +1170,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 德清述　高承埏
+***** 德清
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 高承埏
 :PROPERTIES:
 :FUNCTION: 補
 :END:
@@ -1180,9 +1199,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 無溫
+***** 無慍
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 述
 :END:
 
 **** textual witnesses
@@ -1230,9 +1249,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 徐昌治編
+***** 徐昌治
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 編述
 :END:
 
 **** textual witnesses
@@ -1280,9 +1299,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 較定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1305,9 +1328,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓信較定　郭凝之彙
+***** 圓信
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 較定
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 彙編
 :END:
 
 **** textual witnesses
@@ -1465,9 +1492,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 仁勇等
+***** 仁勇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1481,7 +1508,6 @@
 :CBETA_ID:  T47n1994B
 :CUSTOM_ID: ZB6q0057
 :SOURCE: Taisho Tripitaka Vol. 47, No. 1994B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1510,9 +1536,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 才良等
+***** 才良
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1535,9 +1561,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 紹隆等
+***** 紹隆
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1670,7 +1696,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 祖詠編　張掄序　宗演
+***** 祖詠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 張掄
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 宗演
 :PROPERTIES:
 :FUNCTION: 跋
 :END:
@@ -1695,9 +1729,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 崇岳．了悟等
+***** 崇岳
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** 了悟
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -1795,7 +1833,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -1895,9 +1937,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 集成等
+***** 宗法
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -2045,7 +2087,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2065,7 +2111,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2090,7 +2140,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 語風圓信．郭凝之
+***** 語風圓信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 郭凝之
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -2115,9 +2169,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 重顯頌古．克勤評
+***** 重顯
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 克勤
+:PROPERTIES:
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -2166,9 +2224,14 @@
 226-292
 **** extent: 6卷
 **** responsible: 
-***** 行秀評
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 行秀
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -2332,7 +2395,6 @@
 :CBETA_ID:  T48n2009
 :CUSTOM_ID: ZB6q0084
 :SOURCE: Taisho Tripitaka Vol. 48, No. 2009
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2781,9 +2843,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 淨善重
+***** 淨善
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 重集
 :END:
 
 **** textual witnesses
@@ -2806,9 +2868,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 如巹續
+***** 如巹
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 續集
 :END:
 
 **** textual witnesses
@@ -2861,9 +2923,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 德煇重
+***** 德煇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -2887,7 +2949,6 @@
 :CBETA_ID:  T85n2831
 :CUSTOM_ID: ZB6q0103
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2831
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2907,7 +2968,6 @@
 :CBETA_ID:  T85n2832
 :CUSTOM_ID: ZB6q0104
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2832
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2927,7 +2987,6 @@
 :CBETA_ID:  T85n2833
 :CUSTOM_ID: ZB6q0105
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2833
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2947,7 +3006,6 @@
 :CBETA_ID:  T85n2834
 :CUSTOM_ID: ZB6q0106
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2834
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2987,7 +3045,6 @@
 :CBETA_ID:  T85n2836
 :CUSTOM_ID: ZB6q0108
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2836
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3057,7 +3114,6 @@
 :CBETA_ID:  T85n2839
 :CUSTOM_ID: ZB6q0111
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2839
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3176,9 +3232,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 明恂隨錄　慧智傳
+***** 覺愛
 :PROPERTIES:
-:FUNCTION: 譯
+:FUNCTION: 略說
+:END:
+***** 明恂
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 隨錄
+:END:
+***** 慧智
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 傳譯
 :END:
 
 **** textual witnesses
@@ -3251,7 +3317,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 裴休問　宗密
+***** 裴休
+:PROPERTIES:
+:FUNCTION: 問
+:END:
+***** 宗密
 :PROPERTIES:
 :FUNCTION: 答
 :END:
@@ -3371,9 +3441,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 文冲(重校編集
+***** 文冲
 :PROPERTIES:
-:FUNCTION: )
+:FUNCTION: 重校編集
 :END:
 
 **** textual witnesses
@@ -3446,7 +3516,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 慧洪撰　覺慈
+***** 慧洪
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 覺慈
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -3471,7 +3545,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧霞編　廣輝
+***** 慧霞
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 廣輝
 :PROPERTIES:
 :FUNCTION: 釋
 :END:
@@ -3571,7 +3649,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 弘贊註　開詗
+***** 弘贊
+:PROPERTIES:
+:FUNCTION: 註
+:END:
+***** 開詗
 :PROPERTIES:
 :FUNCTION: 記
 :END:
@@ -3621,9 +3703,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 傳燈重編並
+***** 傳燈
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 重編並註
 :END:
 
 **** textual witnesses
@@ -3646,9 +3728,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 儀潤證
+***** 儀潤
 :PROPERTIES:
-:FUNCTION: 義
+:FUNCTION: 證義
 :END:
 
 **** textual witnesses
@@ -3717,7 +3799,6 @@
 :CBETA_ID:  X63n1247
 :CUSTOM_ID: ZB6q0138
 :SOURCE: 卍 Xuzangjing Vol. 63, No. 1247
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3766,9 +3847,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 惟勉編
+***** 惟勉
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -3791,7 +3872,7 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 弋咸
+***** 弌咸
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -3866,7 +3947,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 清覺述　道安
+***** 清覺
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 道安
 :PROPERTIES:
 :FUNCTION: 注
 :END:
@@ -3966,7 +4051,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 元來說　成正
+***** 元來
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成正
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -4066,9 +4155,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 善卿編
+***** 善卿
 :PROPERTIES:
-:FUNCTION: 正
+:FUNCTION: 編正
 :END:
 
 **** textual witnesses
@@ -4116,9 +4205,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 張文嘉較定　張文憲參
+***** 張文嘉
 :PROPERTIES:
-:FUNCTION: 閱
+:FUNCTION: 較定
+:END:
+***** 張文憲
+:PROPERTIES:
+:FUNCTION: 參閱
 :END:
 
 **** textual witnesses
@@ -4141,7 +4234,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行盛著　超記
+***** 行盛
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 超記
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -4166,9 +4263,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 德玉順
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 硃
+:FUNCTION: 順硃
 :END:
 
 **** textual witnesses
@@ -4287,7 +4384,6 @@
 :CBETA_ID:  X64n1271
 :CUSTOM_ID: ZB6q0161
 :SOURCE: 卍 Xuzangjing Vol. 64, No. 1271
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -4336,9 +4432,22 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 如念編目　有圖
+***** 普明
 :PROPERTIES:
-:FUNCTION: 十
+:FUNCTION: 原唱
+:END:
+***** 諸方
+:PROPERTIES:
+:FUNCTION: 和韻
+:END:
+***** 嚴大
+:PROPERTIES:
+:FUNCTION: 參序
+:END:
+***** 如念
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 編目
 :END:
 
 **** textual witnesses
@@ -4358,12 +4467,31 @@
 :CUSTOM_ID: ZB6q0164
 :SOURCE: Jiaxing Canon Vol. 23, No. B129
 :DYNASTY: 明
+:DATE: 乾隆四十九年(了彙重刊超格序)
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 超格序　乾隆四十九年了彙重
+***** 普明
 :PROPERTIES:
-:FUNCTION: 刊
+:FUNCTION: 原輯
+:END:
+***** 性音
+:PROPERTIES:
+:FUNCTION: 續集舊跋
+:END:
+***** 納信
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 序
+:END:
+***** 袾宏
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 超格
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -4411,9 +4539,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 性音重
+***** 性音
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -4461,7 +4589,11 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 圓悟著　真啟
+***** 圓悟
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 真啟
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -4511,9 +4643,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 錢伊庵編
+***** 錢伊庵
 :PROPERTIES:
-:FUNCTION: 緝
+:FUNCTION: 編緝
 :END:
 
 **** textual witnesses
@@ -4561,9 +4693,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 通容輯
+***** 通容
 :PROPERTIES:
-:FUNCTION: 著
+:FUNCTION: 輯著
 :END:
 
 **** textual witnesses
@@ -4736,7 +4868,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 永盛述　德弘
+***** 永盛
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 德弘
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -4811,9 +4947,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 姚廣孝著並
+***** 姚廣孝
 :PROPERTIES:
-:FUNCTION: 序
+:FUNCTION: 著並序
 :END:
 
 **** textual witnesses
@@ -4836,9 +4972,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智旭述並序　三頌為華嚴．楞嚴．法華　有偶拈問答及重刻自
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 跋
+:FUNCTION: 述並序
 :END:
 
 **** textual witnesses
@@ -4886,7 +5022,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 鮑宗肇述　智旭
+***** 鮑宗肇
+:PROPERTIES:
+:FUNCTION: 述
+:END:
+***** 智旭
 :PROPERTIES:
 :FUNCTION: 定
 :END:
@@ -4911,9 +5051,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 聞刪
+***** 深有
 :PROPERTIES:
-:FUNCTION: 定
+:FUNCTION: 撰
+:END:
+***** 聞
+:PROPERTIES:
+:FUNCTION: 刪定
 :END:
 
 **** textual witnesses
@@ -4936,7 +5080,15 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 宋濂著　袾宏輯　錢謙益
+***** 宋濂
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 袾宏
+:PROPERTIES:
+:FUNCTION: 輯
+:END:
+***** 錢謙益
 :PROPERTIES:
 :FUNCTION: 訂
 :END:
@@ -4961,9 +5113,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 王宗沐序　附拾得．豐干
+***** 閭丘胤
 :PROPERTIES:
-:FUNCTION: 詩
+:FUNCTION: 集並序
+:END:
+***** 王宗沐
+:PROPERTIES:
+:DYNASTY: 宋
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5011,7 +5168,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 鍾始聲著　大朗序　文分天學初徵及天學再徵　附書柬四則　程啟用
+***** 鍾始聲
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 大朗　
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 程啟用
 :PROPERTIES:
 :FUNCTION: 跋
 :END:
@@ -5061,9 +5226,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 徐昌治著　超悟錄　僧鑑序　附疏稿（原有缺頁
+***** 徐昌治
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
+:END:
+***** 超悟
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 僧鑑
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5086,9 +5259,9 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 德洪著　原書缺　依民國十年常州天寧寺刻本
+***** 德洪
 :PROPERTIES:
-:FUNCTION: 印
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5111,7 +5284,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 本善記　悟深
+***** 本善
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+***** 悟深
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -5136,9 +5313,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 周理編　附夢語摘
+***** 周理
 :PROPERTIES:
-:FUNCTION: 要
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -5161,9 +5338,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 淨倫撰　周理輯　內題曹溪一滴卷
+***** 淨倫
 :PROPERTIES:
-:FUNCTION: 六
+:FUNCTION: 撰
+:END:
+***** 周理
+:PROPERTIES:
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -5186,9 +5367,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 吳應賓塔銘及王舜鼎夢禪
+***** 本智
 :PROPERTIES:
-:FUNCTION: 語
+:FUNCTION: 撰
+:END:
+***** 周理
+:PROPERTIES:
+:FUNCTION: 輯
 :END:
 
 **** textual witnesses
@@ -5211,9 +5396,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徹庸撰　洪如錄　內題曹溪一滴卷八　後附淨土偈一
+***** 徹庸
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 撰
+:END:
+***** 洪如
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -5236,9 +5425,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 道忞說　真樸編
+***** 道忞
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 說
+:END:
+***** 真樸
+:PROPERTIES:
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -5261,9 +5454,9 @@
 :END:
 **** extent: 32卷
 **** responsible: 
-***** 道忞著（中央圖書館善本書目編在集部別集類
+***** 道忞
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5286,7 +5479,11 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 明方說　淨柱
+***** 明方
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 淨柱
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -5311,9 +5508,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 真本說　機峻等
+***** 真本
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 機峻
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -5361,9 +5562,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徹（尼）．符（尼）合頌　張有譽輯並
+***** 徹（尼）
 :PROPERTIES:
-:FUNCTION: 序
+:FUNCTION: 頌
+:END:
+***** 符（尼）
+:PROPERTIES:
+:FUNCTION: 頌
+:END:
+***** 張有譽
+:PROPERTIES:
+:FUNCTION: 輯並序
 :END:
 
 **** textual witnesses
@@ -5386,7 +5595,11 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 智旭著　圓果
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 著
+:END:
+***** 圓果
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -5411,9 +5624,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上說　道汜．道沖等錄（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 道汜
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 道沖
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -5436,9 +5657,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上頌并跋　蘊宏著語（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 頌并跋
+:END:
+***** 蘊宏
+:PROPERTIES:
+:FUNCTION: 著語
 :END:
 
 **** textual witnesses
@@ -5461,9 +5686,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 蘊上著　舒峻極序　杜國柱序（依駒本印
+***** 蘊上
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
+:END:
+***** 舒峻極
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 杜國柱
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5486,9 +5719,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性統編　至善序（依駒本印
+***** 性統
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 編
+:END:
+***** 至善
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5511,9 +5748,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 書玉略釋並序跋　有事義（依駒本印
+***** 書玉
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 略釋並序跋
 :END:
 
 **** textual witnesses
@@ -5536,9 +5773,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 書玉略解（依駒本印
+***** 書玉
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 略解
 :END:
 
 **** textual witnesses
@@ -5561,7 +5798,11 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 通明撰　毛晉
+***** 通明
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 毛晉
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -5586,9 +5827,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 通明撰　附病遊遊刃．病遊初草．病遊後
+***** 通明
 :PROPERTIES:
-:FUNCTION: 草
+:FUNCTION: 撰
 :END:
 
 **** textual witnesses
@@ -5611,9 +5852,9 @@
 :END:
 **** extent: 11卷
 **** responsible: 
-***** 袾宏著（原本多缺　依金陵本補印　並補後增讚序等文　凡補印者　於該條目上作△以志之
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5636,9 +5877,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 袾宏著（原本多缺　依金陵本補印　並補後增讚序等文　凡補印者　於該條目上作△以志之
+***** 袾宏
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -5686,9 +5927,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 福慧重
+***** 梵琦
 :PROPERTIES:
-:FUNCTION: 和
+:FUNCTION: 首和
+:END:
+***** 福慧
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 重和
 :END:
 
 **** textual witnesses
@@ -5711,9 +5957,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張守約追擬並序　唐守禮序　蔡善繼序（依駒本印
+***** 張守約
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 追擬並序
+:END:
+***** 守禮
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 序
+:END:
+***** 蔡善繼
+:PROPERTIES:
+:DYNASTY: 唐
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -5786,9 +6042,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 僧遠說　廣仍記　附雲嵒頌古　附雲嵒九頌　余懷
+***** 僧遠
 :PROPERTIES:
-:FUNCTION: 製
+:FUNCTION: 說
+:END:
+***** 廣仍
+:PROPERTIES:
+:FUNCTION: 記
 :END:
 
 **** textual witnesses
@@ -5811,9 +6071,17 @@
 :END:
 **** extent: 33卷
 **** responsible: 
-***** 道盛說　大成．大然等較　後附杖門隨
+***** 道盛
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 說
+:END:
+***** 大成
+:PROPERTIES:
+:FUNCTION: 等較
+:END:
+***** 大然
+:PROPERTIES:
+:FUNCTION: 等較
 :END:
 
 **** textual witnesses
@@ -5836,9 +6104,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 弘贊編（依駒本印
+***** 弘贊
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -5861,7 +6129,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 弘贊編　開溈
+***** 弘贊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 開溈
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -5886,9 +6158,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 符（尼）說　師炤等
+***** 符（尼）
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 師炤
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -5911,9 +6187,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 符（尼）說　振澂等
+***** 符（尼）
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 振澂
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -5961,9 +6241,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 德玉順
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 硃
+:FUNCTION: 順硃
 :END:
 
 **** textual witnesses
@@ -5986,9 +6266,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 悟卓說　超常記錄　發林行
+***** 悟卓
 :PROPERTIES:
-:FUNCTION: 狀
+:FUNCTION: 說
+:END:
+***** 超常
+:PROPERTIES:
+:FUNCTION: 記錄
+:END:
+***** 發林
+:PROPERTIES:
+:FUNCTION: 行狀
 :END:
 
 **** textual witnesses
@@ -6011,9 +6299,17 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 如乾說　張恂編閱　繼堯校訂（依駒本印
+***** 如乾
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 張恂
+:PROPERTIES:
+:FUNCTION: 編閱
+:END:
+***** 繼堯
+:PROPERTIES:
+:FUNCTION: 校訂
 :END:
 
 **** textual witnesses
@@ -6036,9 +6332,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陸瑛說　羅機徹編　羅開驎序　佚名序（末頁缺）　有行略（依駒本印
+***** 陸瑛
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 羅機徹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 羅開驎
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 佚名
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -6061,9 +6369,13 @@
 :END:
 **** extent: 25卷
 **** responsible: 
-***** 如一說　明洞等編（依駒本印）　附佛祖
+***** 如一
 :PROPERTIES:
-:FUNCTION: 圖
+:FUNCTION: 說
+:END:
+***** 明洞
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -6086,9 +6398,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 燈來撰　性統編（依駒本印
+***** 燈來
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 撰
+:END:
+***** 性統
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -6111,9 +6427,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 性統錄　弘秀編（依駒本印
+***** 性統
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 錄
+:END:
+***** 弘秀
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -6136,9 +6456,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 澤著　照水重編　陳聞道序　有自狀（依駒本印
+***** 澤
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
+:END:
+***** 照水
+:PROPERTIES:
+:FUNCTION: 重編
+:END:
+***** 陳聞道
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -6161,9 +6489,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 廣真著（依駒本增入並印
+***** 廣真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著
 :END:
 
 **** textual witnesses
@@ -6186,9 +6514,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 廣真著並序　古心評并引　凡則　黃毓英評　元善評　前有船子曲　燈輝集　慧澤序（依駒本增入並印
+***** 廣真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 著並序
+:END:
+***** 古心
+:PROPERTIES:
+:FUNCTION: 評并引凡則
+:END:
+***** 黃毓英
+:PROPERTIES:
+:FUNCTION: 評
+:END:
+***** 元善
+:PROPERTIES:
+:FUNCTION: 評
 :END:
 
 **** textual witnesses
@@ -6211,9 +6551,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 燈映頌　性燦錄　有塔銘　行狀（依駒本增入並印　原書第二十三頁起至末頁缺
+***** 燈映
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 頌
+:END:
+***** 性燦
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -6236,9 +6580,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道濟撰　如淵等
+***** 道濟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 撰
+:END:
+***** 如淵
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -6261,7 +6609,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 朱道則撰　明康
+***** 朱道則
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 明康
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6286,7 +6638,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 鶴山撰　德敷
+***** 鶴山
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 德敷
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6351,9 +6707,14 @@
 :END:
 **** extent: 40卷
 **** responsible: 
-***** 普會續
+***** 法應
 :PROPERTIES:
 :FUNCTION: 集
+:END:
+***** 普會
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 續集
 :END:
 
 **** textual witnesses
@@ -6376,9 +6737,19 @@
 :END:
 **** extent: 21卷
 **** responsible: 
-***** 淨戒重
+***** 法應
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 集
+:END:
+***** 普會
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 續集
+:END:
+***** 淨戒
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重校
 :END:
 
 **** textual witnesses
@@ -6401,9 +6772,9 @@
 :END:
 **** extent: 45卷
 **** responsible: 
-***** 淨符彙
+***** 淨符
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 彙集
 :END:
 
 **** textual witnesses
@@ -6451,7 +6822,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 子昇錄　如祐
+***** 子昇
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 如祐
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -6501,9 +6876,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 重顯拈古　克勤擊
+***** 重顯
 :PROPERTIES:
-:FUNCTION: 節
+:FUNCTION: 拈古
+:END:
+***** 克勤
+:PROPERTIES:
+:FUNCTION: 擊節
 :END:
 
 **** textual witnesses
@@ -6526,9 +6905,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本瑞直註　道霖．性福編
+***** 本瑞
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 直註
+:END:
+***** 道霖性福
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -6551,9 +6934,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 從倫評
+***** 義青
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 從倫
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -6576,9 +6964,14 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 從倫評
+***** 子淳
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 頌古
+:END:
+***** 從倫
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -6601,9 +6994,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 本瑞直註　性福編
+***** 本瑞
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 直註
+:END:
+***** 性福
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -6626,9 +7023,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 行秀評
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 唱
+:FUNCTION: 拈古
+:END:
+***** 行秀
+:PROPERTIES:
+:DYNASTY: 元
+:FUNCTION: 評唱
 :END:
 
 **** textual witnesses
@@ -6651,9 +7053,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 真在編　機雲重
+***** 真在
 :PROPERTIES:
-:FUNCTION: 續
+:FUNCTION: 編
+:END:
+***** 機雲
+:PROPERTIES:
+:FUNCTION: 重續
 :END:
 
 **** textual witnesses
@@ -6676,9 +7082,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 宗杲集並著
+***** 宗杲
 :PROPERTIES:
-:FUNCTION: 語
+:FUNCTION: 集並著語
 :END:
 
 **** textual witnesses
@@ -6701,9 +7107,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 祖慶重
+***** 祖慶
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -6726,9 +7132,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 圓通設問　行秀仰
+***** 圓通
 :PROPERTIES:
-:FUNCTION: 答
+:FUNCTION: 設問
+:END:
+***** 行秀
+:PROPERTIES:
+:FUNCTION: 仰答
 :END:
 
 **** textual witnesses
@@ -6751,7 +7161,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 一辯問　覺
+***** 一辯
+:PROPERTIES:
+:FUNCTION: 問
+:END:
+***** 覺
 :PROPERTIES:
 :FUNCTION: 答
 :END:
@@ -6796,9 +7210,9 @@
 :END:
 **** extent: 48卷
 **** responsible: 
-***** 賾藏主
+***** 賾藏
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 主集
 :END:
 
 **** textual witnesses
@@ -6846,9 +7260,14 @@
 :END:
 **** extent: 48卷
 **** responsible: 
-***** 淨戒重
+***** 賾藏
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 主集
+:END:
+***** 淨戒
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重校
 :END:
 
 **** textual witnesses
@@ -6917,10 +7336,15 @@
 :CBETA_ID:  X69n1320
 :CUSTOM_ID: ZB6q0266
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1320
-:DYNASTY: 
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 鶴徵
+:PROPERTIES:
+:FUNCTION: 書
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -6932,7 +7356,6 @@
 :CBETA_ID:  X69n1321
 :CUSTOM_ID: ZB6q0267
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1321
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -6952,7 +7375,6 @@
 :CBETA_ID:  X69n1322
 :CUSTOM_ID: ZB6q0268
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1322
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -6972,7 +7394,6 @@
 :CBETA_ID:  X69n1323
 :CUSTOM_ID: ZB6q0269
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1323
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -6996,9 +7417,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 編
+***** 圓信
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
+:END:
+***** 郭凝之
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -7021,9 +7446,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 林弘衍編
+***** 林弘衍
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -7071,9 +7496,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 于頔編
+***** 于頔
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -7092,13 +7517,13 @@
 :CBETA_ID:  X69n1338
 :CUSTOM_ID: ZB6q0274
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1338
-:DYNASTY: (小師)慧南重編
+:DYNASTY: 北宋
 :END:
 **** extent: 1卷
 **** responsible: 
-***** (小師)慧南重
+***** (小師)慧南
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -7117,7 +7542,6 @@
 :CBETA_ID:  X69n1339
 :CUSTOM_ID: ZB6q0275
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1339
-:DYNASTY: (參學)用孫序
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7167,10 +7591,14 @@
 :CBETA_ID:  X69n1342
 :CUSTOM_ID: ZB6q0277
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1342
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
+***** (嗣法)福深
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -7187,13 +7615,16 @@
 :CBETA_ID:  X69n1343
 :CUSTOM_ID: ZB6q0278
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1343
-:DYNASTY: (侍者)子和錄　(門人)仲介重編
 :END:
 **** extent: 1卷
 **** responsible: 
-***** (侍者)子和錄　(門人)仲介重
+***** (侍者)子和
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 錄
+:END:
+***** (門人)仲介
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -7212,7 +7643,6 @@
 :CBETA_ID:  X69n1344
 :CUSTOM_ID: ZB6q0279
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1344
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7232,7 +7662,6 @@
 :CBETA_ID:  X69n1345
 :CUSTOM_ID: ZB6q0280
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1345
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7252,7 +7681,6 @@
 :CBETA_ID:  X69n1346
 :CUSTOM_ID: ZB6q0281
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1346
-:DYNASTY: (嗣法)慧弼編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7277,7 +7705,6 @@
 :CBETA_ID:  X69n1347
 :CUSTOM_ID: ZB6q0282
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1347
-:DYNASTY: (嗣法)介諶編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7302,7 +7729,6 @@
 :CBETA_ID:  X69n1348
 :CUSTOM_ID: ZB6q0283
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1348
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7322,11 +7748,14 @@
 :CBETA_ID:  X69n1350
 :CUSTOM_ID: ZB6q0284
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1350
-:DYNASTY: (參學門人)道勝．圓淨
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (參學)道務
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (門人)圓淨
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -7347,7 +7776,6 @@
 :CBETA_ID:  X69n1351
 :CUSTOM_ID: ZB6q0285
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1351
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -7367,11 +7795,26 @@
 :CBETA_ID:  X69n1352
 :CUSTOM_ID: ZB6q0286
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1352
-:DYNASTY: (參學小師)處凝．智本．智華．法演
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 編集、海譚
+***** (參學)處凝
+:PROPERTIES:
+:FUNCTION: 編集
+:END:
+***** (參學)智本
+:PROPERTIES:
+:FUNCTION: 編集
+:END:
+***** (參學)智華
+:PROPERTIES:
+:FUNCTION: 編集
+:END:
+***** (參學)法演
+:PROPERTIES:
+:FUNCTION: 編集
+:END:
+***** (小師)海譚
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -7392,7 +7835,6 @@
 :CBETA_ID:  X69n1353
 :CUSTOM_ID: ZB6q0287
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1353
-:DYNASTY: (嗣法小師)善果集
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -7417,11 +7859,42 @@
 :CBETA_ID:  X69n1354
 :CUSTOM_ID: ZB6q0288
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1354
-:DYNASTY: (侍者)法寶．法璹．慶會．法清．有宗．惟珪．道果．慧開．德秀
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)法寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)法璹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)慶會
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)法清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)有宗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)惟珪
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道果
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)慧開
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)德秀
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7442,11 +7915,42 @@
 :CBETA_ID:  X69n1355
 :CUSTOM_ID: ZB6q0289
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1355
-:DYNASTY: (侍者)普敬．普通．了心．普禮．法孜．普巖．普覺．光祖．一見
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (侍者)普敬
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)普通
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)了心
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)普禮
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)法孜
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)普巖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)普覺
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)光祖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)一見
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -7467,7 +7971,6 @@
 :CBETA_ID:  X69n1356
 :CUSTOM_ID: ZB6q0290
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1356
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -7487,7 +7990,6 @@
 :CBETA_ID:  X69n1357
 :CUSTOM_ID: ZB6q0291
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1357
-:DYNASTY: (嗣法)子文編
 :END:
 **** extent: 4卷
 **** responsible: 
@@ -7512,13 +8014,12 @@
 :CBETA_ID:  X69n1358
 :CUSTOM_ID: ZB6q0292
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1358
-:DYNASTY: (參學)嗣端
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (參學)嗣端
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -7537,13 +8038,12 @@
 :CBETA_ID:  X69n1359
 :CUSTOM_ID: ZB6q0293
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1359
-:DYNASTY: (嗣法)守詮
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 等
+***** (嗣法)守詮
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -7562,11 +8062,22 @@
 :CBETA_ID:  X69n1360
 :CUSTOM_ID: ZB6q0294
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1360
-:DYNASTY: (參學)齊己．如本．祖淳．法慧
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (參學)齊己
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)如本
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖淳
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)法慧
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7591,9 +8102,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沈孟柈敘
+***** 沈孟柈
 :PROPERTIES:
-:FUNCTION: 述
+:FUNCTION: 敘述
 :END:
 
 **** textual witnesses
@@ -7612,11 +8123,14 @@
 :CBETA_ID:  X69n1362
 :CUSTOM_ID: ZB6q0296
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1362
-:DYNASTY: (參學)法宏．道謙
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (參學)法宏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)道謙
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7637,11 +8151,14 @@
 :CBETA_ID:  X69n1363
 :CUSTOM_ID: ZB6q0297
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1363
-:DYNASTY: (侍者)覺心．志清
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)覺心
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)志清
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7662,11 +8179,14 @@
 :CBETA_ID:  X69n1364
 :CUSTOM_ID: ZB6q0298
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1364
-:DYNASTY: (小師)了見、(侍者)文郁．本空
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (小師)了見
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)文郁本空
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7687,7 +8207,6 @@
 :CBETA_ID:  X69n1365
 :CUSTOM_ID: ZB6q0299
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1365
-:DYNASTY: (參學)大觀編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7712,13 +8231,12 @@
 :CBETA_ID:  X69n1366
 :CUSTOM_ID: ZB6q0300
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1366
-:DYNASTY: (門人)德溥
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等編
+***** (門人)德溥
 :PROPERTIES:
-:FUNCTION: 校
+:FUNCTION: 等編校
 :END:
 
 **** textual witnesses
@@ -7737,11 +8255,22 @@
 :CBETA_ID:  X69n1367
 :CUSTOM_ID: ZB6q0301
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1367
-:DYNASTY: (門人)延俊．慧曇．中孚．崇裕
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)延俊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧曇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)中孚
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)崇裕
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7762,11 +8291,42 @@
 :CBETA_ID:  X69n1368
 :CUSTOM_ID: ZB6q0302
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1368
-:DYNASTY: (侍者門人)元清．淨志．普暉．元偉．光從．道鑑．道隆．惟實．妙高
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (侍者門人)元清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)淨志
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)普暉
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)元偉
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)光從
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)道鑑
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)道隆
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)惟實
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)妙高
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7787,7 +8347,6 @@
 :CBETA_ID:  X69n1369
 :CUSTOM_ID: ZB6q0303
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1369
-:DYNASTY: (門人)元愷編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7812,11 +8371,114 @@
 :CBETA_ID:  X69n1370
 :CUSTOM_ID: ZB6q0304
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1370
-:DYNASTY: (侍者門人)實仁．宗文．法奇．守愿．行佑．了元．善之．淨證．法從．紹熏．普璋．文煥．淨伏．慧行．文謙．正因．法恩．德紀．可能．持志．覺孫．惟康．宗和．如止．有智．慧雲．若舟
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者門人)實仁
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)宗文
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)法奇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)守愿
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)行佑
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)了元
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)善之
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)淨證
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)法從
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)紹熏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)普璋
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)文煥
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)淨伏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)慧行
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)文謙
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)正因
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)法恩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)德紀
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)可能
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)持志
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)覺孫
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)惟康
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)宗和
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)如止
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)有智
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)慧雲
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者門人)若舟
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7837,11 +8499,34 @@
 :CBETA_ID:  X69n1371
 :CUSTOM_ID: ZB6q0305
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1371
-:DYNASTY: (參學侍者)正賢．宗坦．延輝．淨球．智瑾．志諶．祖誾
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (參學侍者)正賢
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)宗坦
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)延輝
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)淨球
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)智瑾
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)志諶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學侍者)祖誾
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7862,7 +8547,6 @@
 :CBETA_ID:  X69n1372
 :CUSTOM_ID: ZB6q0306
 :SOURCE: 卍 Xuzangjing Vol. 69, No. 1372
-:DYNASTY: (小師)惟康編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7891,9 +8575,14 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 郭凝之重
+***** 慧然
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 集
+:END:
+***** 郭凝之
+:PROPERTIES:
+:DYNASTY: 明
+:FUNCTION: 重訂
 :END:
 
 **** textual witnesses
@@ -7912,11 +8601,18 @@
 :CBETA_ID:  X70n1374
 :CUSTOM_ID: ZB6q0308
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1374
-:DYNASTY: (侍者)士洵．德高．懷珠
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)士洵
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)德高
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)懷珠
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7937,7 +8633,6 @@
 :CBETA_ID:  X70n1375
 :CUSTOM_ID: ZB6q0309
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1375
-:DYNASTY: (侍者)道冲編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -7962,11 +8657,34 @@
 :CBETA_ID:  X70n1376
 :CUSTOM_ID: ZB6q0310
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1376
-:DYNASTY: (嗣法門人)智沂．悟開．行彌．紹甄．智圓．元省．元樞
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (嗣法門人)智沂
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)悟開
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)行彌
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)紹甄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)智圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)元省
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)元樞
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -7987,11 +8705,30 @@
 :CBETA_ID:  X70n1377
 :CUSTOM_ID: ZB6q0311
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1377
-:DYNASTY: (參學)善開．光睦．普巖．師肇．道巖．了能
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 等
+***** (參學)善開
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)光睦
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)普巖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)師肇
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)道巖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)了能
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -8012,11 +8749,34 @@
 :CBETA_ID:  X70n1378
 :CUSTOM_ID: ZB6q0312
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1378
-:DYNASTY: (侍者)妙儼．圓澄．妙全．道隆．圓照．法洪．唯道
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)妙儼
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)圓澄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)妙全
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道隆
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)圓照
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)法洪
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)唯道
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8037,11 +8797,18 @@
 :CBETA_ID:  X70n1379
 :CUSTOM_ID: ZB6q0313
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1379
-:DYNASTY: (侍者)元靖．智能．惟衍
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)元靖
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)智能
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)惟衍
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8062,13 +8829,12 @@
 :CBETA_ID:  X70n1381
 :CUSTOM_ID: ZB6q0314
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1381
-:DYNASTY: (參學)圓照等編
 :END:
 **** extent: 1卷
 **** responsible: 
-***** (參學)圓照等
+***** (參學)圓照
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8087,11 +8853,66 @@
 :CBETA_ID:  X70n1382
 :CUSTOM_ID: ZB6q0315
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1382
-:DYNASTY: (侍者)宗會．智折．覺圓．如海．妙倫．惟一．了禪．了心．普明．了南．紹曇．了覺．師坦．妙因．至慧
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 
+***** (侍者)宗會
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)智折
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)覺圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)如海
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)妙倫
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)惟一
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了禪
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了心
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)普明
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了南
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)紹曇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了覺
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)師坦
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)妙因
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)至慧
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8112,11 +8933,14 @@
 :CBETA_ID:  X70n1383
 :CUSTOM_ID: ZB6q0316
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1383
-:DYNASTY: (侍者)了南．了垠
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)了南
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了垠
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8137,11 +8961,30 @@
 :CBETA_ID:  X70n1384
 :CUSTOM_ID: ZB6q0317
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1384
-:DYNASTY: (嗣法門人)妙恩．正從．自永．守靜．慈證．宗永
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (嗣法門人)妙恩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)正從
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)自永
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)守靜
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)慈證
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)宗永
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8162,7 +9005,6 @@
 :CBETA_ID:  X70n1385
 :CUSTOM_ID: ZB6q0318
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1385
-:DYNASTY: (侍者)正定編
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -8187,13 +9029,16 @@
 :CBETA_ID:  X70n1386
 :CUSTOM_ID: ZB6q0319
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1386
-:DYNASTY: (門人)了覺．師坦
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)了覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** (門人)師坦
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8212,11 +9057,30 @@
 :CBETA_ID:  X70n1387
 :CUSTOM_ID: ZB6q0320
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1387
-:DYNASTY: (侍者)善珙．德修．慧澄．銳彰．心寧．慧恭
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)善珙
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)德修
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)慧澄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)銳彰
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)心寧
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)慧恭
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8237,7 +9101,6 @@
 :CBETA_ID:  X70n1388
 :CUSTOM_ID: ZB6q0321
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1388
-:DYNASTY: (參學)覺此編
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -8262,11 +9125,46 @@
 :CBETA_ID:  X70n1389
 :CUSTOM_ID: ZB6q0322
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1389
-:DYNASTY: (侍者)自悟．了舜．妙恩．普和．惠洇．希革．彌紹．道信．宗壽．道亨
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (侍者)自悟
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了舜
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)妙恩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)普和
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)惠洇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)希革
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)彌紹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道信
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗壽
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道亨
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8287,11 +9185,38 @@
 :CBETA_ID:  X70n1390
 :CUSTOM_ID: ZB6q0323
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1390
-:DYNASTY: (侍者)法澄．了舜．普和．希革．惠洇．彌紹．道亨．宗壽
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 
+***** (侍者)法澄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)了舜
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)普和
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)希革
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)惠洇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)彌紹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道亨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗壽
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8312,11 +9237,26 @@
 :CBETA_ID:  X70n1391
 :CUSTOM_ID: ZB6q0324
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1391
-:DYNASTY: (門人侍者)修義．景元．宗清．繼燖．宗應
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (門人侍者)修義
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人侍者)景元
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人侍者)宗清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人侍者)繼燖
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人侍者)宗應
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8337,11 +9277,30 @@
 :CBETA_ID:  X70n1392
 :CUSTOM_ID: ZB6q0325
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1392
-:DYNASTY: (嗣法)妙寅、(侍者)法嚴．德圓．覺靜．永仁．宗煥
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 等
+***** (嗣法)妙寅
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)法嚴
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)德圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)覺靜
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)永仁
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗煥
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8362,11 +9321,46 @@
 :CBETA_ID:  X70n1393
 :CUSTOM_ID: ZB6q0326
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1393
-:DYNASTY: (嗣法門人)文才．子昶．了因．彌安．元勗．師楷．文斌．汝均．處林．雲岑
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (嗣法門人)文才
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)子昶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)了因
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)彌安
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)元勗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)師楷
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)文斌
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)汝均
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)處林
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法門人)雲岑
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8387,11 +9381,14 @@
 :CBETA_ID:  X70n1394
 :CUSTOM_ID: ZB6q0327
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1394
-:DYNASTY: (侍者)文寶．善靖
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (侍者)文寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)善靖
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8412,11 +9409,18 @@
 :CBETA_ID:  X70n1395
 :CUSTOM_ID: ZB6q0328
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1395
-:DYNASTY: (嗣法)先覩．祖燈
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等錄　(法孫)機雲
+***** (嗣法)先覩
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** (嗣法)祖燈
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** (法孫)機雲
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8437,13 +9441,12 @@
 :CBETA_ID:  X70n1396
 :CUSTOM_ID: ZB6q0329
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1396
-:DYNASTY: (嗣法門人)智度等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (嗣法門人)智度等
+***** (嗣法門人)智度
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8462,13 +9465,16 @@
 :CBETA_ID:  X70n1397
 :CUSTOM_ID: ZB6q0330
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1397
-:DYNASTY: (嗣法門人)昭如．希陵
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (嗣法門人)昭如
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** (嗣法門人)希陵
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8487,11 +9493,18 @@
 :CBETA_ID:  X70n1398
 :CUSTOM_ID: ZB6q0331
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1398
-:DYNASTY: (門人)行純．道彰．從心
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 
+***** (門人)行純
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** (門人)道彰
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** (門人)從心
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -8512,13 +9525,12 @@
 :CBETA_ID:  X70n1399
 :CUSTOM_ID: ZB6q0332
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1399
-:DYNASTY: (參學門人)至柔等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (參學門人)至柔等
+***** (參學門人)至柔
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8537,15 +9549,9 @@
 :CBETA_ID:  X70n1400
 :CUSTOM_ID: ZB6q0333
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1400
-:DYNASTY: (參學門人)編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (參學門人)
-:PROPERTIES:
-:FUNCTION: 編
-:END:
-
 **** textual witnesses
 ***** CBETA
 :PROPERTIES: 
@@ -8562,11 +9568,14 @@
 :CBETA_ID:  X70n1401
 :CUSTOM_ID: ZB6q0334
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1401
-:DYNASTY: (侍者)持正錄　(參學)洪喬祖編
 :END:
 **** extent: 1卷
 **** responsible: 
-***** (侍者)持正錄　(參學)洪喬祖
+***** (侍者)持正
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (參學)洪喬祖
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8587,7 +9596,6 @@
 :CBETA_ID:  X70n1402
 :CUSTOM_ID: ZB6q0335
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1402
-:DYNASTY: 
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -8607,7 +9615,6 @@
 :CBETA_ID:  X70n1403
 :CUSTOM_ID: ZB6q0336
 :SOURCE: 卍 Xuzangjing Vol. 70, No. 1403
-:DYNASTY: (小師)善遇編
 :END:
 **** extent: 9卷
 **** responsible: 
@@ -8632,11 +9639,26 @@
 :CBETA_ID:  X71n1404
 :CUSTOM_ID: ZB6q0337
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1404
-:DYNASTY: (侍者)淨韻．清澤．道昭．景用．禪了
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 
+***** (侍者)淨韻
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)清澤
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)道昭
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)景用
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)禪了
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8657,11 +9679,42 @@
 :CBETA_ID:  X71n1405
 :CUSTOM_ID: ZB6q0338
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1405
-:DYNASTY: (侍者)住顯．宗煥．祖定．宗茙．光玉．仁安．應儼．永珍．祖森
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 
+***** (侍者)住顯
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗煥
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)祖定
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗茙
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)光玉
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)仁安
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)應儼
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)永珍
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)祖森
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8682,7 +9735,6 @@
 :CBETA_ID:  X71n1406
 :CUSTOM_ID: ZB6q0339
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1406
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -8702,11 +9754,22 @@
 :CBETA_ID:  X71n1407
 :CUSTOM_ID: ZB6q0340
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1407
-:DYNASTY: (嗣法)淨伏、(門人)行佑．德珍．瓊林
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (嗣法)淨伏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)行佑
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)德珍
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)瓊林
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8731,9 +9794,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 及藏主集
+***** 及藏
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 主集錄
 :END:
 
 **** textual witnesses
@@ -8752,11 +9815,90 @@
 :CBETA_ID:  X71n1409
 :CUSTOM_ID: ZB6q0342
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1409
-:DYNASTY: (門人)居簡．妙心．大機．慧忠．可橖．祖安．具德．宗滿．自然．慧觀．壽椿．德粹．思敬．良圭．景行．本真．紹宗．文闡．寶生．文藻．自成
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 
+***** (門人)居簡
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)妙心
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)大機
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧忠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)可橖
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)祖安
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)具德
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)宗滿
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)自然
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧觀
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)壽椿
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)德粹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)思敬
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)良圭
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)景行
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)本真
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)紹宗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文闡
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)寶生
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文藻
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)自成
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8777,13 +9919,12 @@
 :CBETA_ID:  X71n1410
 :CUSTOM_ID: ZB6q0343
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1410
-:DYNASTY: (嗣法)繼祖等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (嗣法)繼祖等
+***** (嗣法)繼祖
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8802,13 +9943,12 @@
 :CBETA_ID:  X71n1411
 :CUSTOM_ID: ZB6q0344
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1411
-:DYNASTY: (門人)本光等編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (門人)本光等
+***** (門人)本光
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8827,11 +9967,18 @@
 :CBETA_ID:  X71n1412
 :CUSTOM_ID: ZB6q0345
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1412
-:DYNASTY: (小師)元浩．清欲．應槐
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 
+***** (小師)元浩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (小師)清欲
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (小師)應槐
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8856,9 +10003,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 海壽編
+***** 海壽
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -8877,11 +10024,86 @@
 :CBETA_ID:  X71n1414
 :CUSTOM_ID: ZB6q0347
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1414
-:DYNASTY: (參學)一志．元皓．可興．文康．祖運．志道．祖杲．得度．文煥．克明．宗成．宗胤．起宗．汝現．元寶．慧朗．景毅．大圓．海壽．祖灊
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 等
+***** (參學)一志
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)元皓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)可興
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)文康
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖運
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)志道
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖杲
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)得度
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)文煥
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)克明
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗成
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗胤
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)起宗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)汝現
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)元寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)慧朗
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)景毅
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)大圓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)海壽
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖灊
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8902,13 +10124,20 @@
 :CBETA_ID:  X71n1415
 :CUSTOM_ID: ZB6q0348
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1415
-:DYNASTY: (嗣法參學)清逸．智辯．寶日
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 等
+***** (嗣法)清逸
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** (嗣法)智辯
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** (參學)寶日
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -8927,11 +10156,38 @@
 :CBETA_ID:  X71n1416
 :CUSTOM_ID: ZB6q0349
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1416
-:DYNASTY: (嗣法參學)宗黼．道瑄．宗亘．居頂．惟寂．宗寄．慧浩．清歲
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 等
+***** (嗣法參學)宗黼
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)道瑄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)宗亘
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)居頂
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)惟寂
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)宗寄
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)慧浩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (嗣法參學)清歲
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8952,11 +10208,62 @@
 :CBETA_ID:  X71n1417
 :CUSTOM_ID: ZB6q0350
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1417
-:DYNASTY: (門人)宗義．有端．思齊．思靜．妙淨．無我．文暐．雲澹．思謙．普莊．宗遠．思廉．文度．文朗
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)宗義
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)有端
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)思齊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)思靜
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)妙淨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)無我
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文暐
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)雲澹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)思謙
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)普莊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)宗遠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)思廉
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文度
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文朗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -8977,11 +10284,30 @@
 :CBETA_ID:  X71n1418
 :CUSTOM_ID: ZB6q0351
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1418
-:DYNASTY: (門人)慧啟．智粵．智勝．德琇．曇頓．道哲
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 等
+***** (門人)慧啟
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)智粵
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)智勝
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)德琇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)曇頓
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)道哲
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9002,11 +10328,22 @@
 :CBETA_ID:  X71n1419
 :CUSTOM_ID: ZB6q0352
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1419
-:DYNASTY: (門人)法林．曇噩．祖銘．梵琦
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 等
+***** (門人)法林
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)曇噩
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)祖銘
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)梵琦
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9027,11 +10364,66 @@
 :CBETA_ID:  X71n1420
 :CUSTOM_ID: ZB6q0353
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1420
-:DYNASTY: (門人)祖光．文玹．曇紹．祖灊．景瓛．良彥．應訢．明遠．胤丘．文晟．正隆．善成．文斌．中端．正參
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 等
+***** (門人)祖光
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文玹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)曇紹
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)祖灊
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)景瓛
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)良彥
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)應訢
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)明遠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)胤丘
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文晟
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)正隆
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)善成
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)文斌
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)中端
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)正參
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9052,11 +10444,46 @@
 :CBETA_ID:  X71n1421
 :CUSTOM_ID: ZB6q0354
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1421
-:DYNASTY: (門人)觀通．溥震．正除．希顏．忻悟．寶盈．至寶．慧鏡．護位．道彝
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 等
+***** (門人)觀通
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)溥震
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)正除
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)希顏
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)忻悟
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)寶盈
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)至寶
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)慧鏡
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)護位
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)道彝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9077,11 +10504,26 @@
 :CBETA_ID:  X71n1422
 :CUSTOM_ID: ZB6q0355
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1422
-:DYNASTY: (門人)宗謐．妙門．復初．廷璨．良玓
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 等
+***** (門人)宗謐
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)妙門
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)復初
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)廷璨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)良玓
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9102,13 +10544,12 @@
 :CBETA_ID:  X71n1423
 :CUSTOM_ID: ZB6q0356
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1423
-:DYNASTY: (傳法)自覺重編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (傳法)自覺重
+***** (傳法)自覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -9127,7 +10568,6 @@
 :CBETA_ID:  X71n1424
 :CUSTOM_ID: ZB6q0357
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1424
-:DYNASTY: (嗣法)道楷編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9152,13 +10592,12 @@
 :CBETA_ID:  X71n1425
 :CUSTOM_ID: ZB6q0358
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1425
-:DYNASTY: (嗣法小師)慶預校勘
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (嗣法小師)慶預校
+***** (嗣法小師)慶預
 :PROPERTIES:
-:FUNCTION: 勘
+:FUNCTION: 校勘
 :END:
 
 **** textual witnesses
@@ -9177,13 +10616,16 @@
 :CBETA_ID:  X71n1426
 :CUSTOM_ID: ZB6q0359
 :SOURCE: 卍 Xuzangjing Vol. 71, No. 1426
-:DYNASTY: (侍者)德初．義初
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 等
+***** (侍者)德初
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** (侍者)義初
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -9202,11 +10644,14 @@
 :CBETA_ID:  X72n1428
 :CUSTOM_ID: ZB6q0360
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1428
-:DYNASTY: (弟子)明總下語寄言、了廣編
 :END:
 **** extent: 6卷
 **** responsible: 
-***** (弟子)明總下語寄言、了廣
+***** (弟子)明總
+:PROPERTIES:
+:FUNCTION: 下語寄言
+:END:
+***** (弟子)了廣
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9227,7 +10672,6 @@
 :CBETA_ID:  X72n1431
 :CUSTOM_ID: ZB6q0361
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1431
-:DYNASTY: (小師)士慘編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9252,13 +10696,12 @@
 :CBETA_ID:  X72n1432
 :CUSTOM_ID: ZB6q0362
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1432
-:DYNASTY: (嗣法)元賢重編
 :END:
 **** extent: 4卷
 **** responsible: 
-***** (嗣法)元賢重
+***** (嗣法)元賢
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -9277,7 +10720,6 @@
 :CBETA_ID:  X72n1433
 :CUSTOM_ID: ZB6q0363
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1433
-:DYNASTY: (嗣法)道盛集
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9327,13 +10769,16 @@
 :CBETA_ID:  X72n1435
 :CUSTOM_ID: ZB6q0365
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1435
-:DYNASTY: (法孫)弘瀚彙編、弘裕同集
 :END:
 **** extent: 33卷
 **** responsible: 
-***** (法孫)弘瀚彙編、弘裕同
+***** (法孫)弘瀚
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 彙編
+:END:
+***** (法孫)弘裕
+:PROPERTIES:
+:FUNCTION: 同集
 :END:
 
 **** textual witnesses
@@ -9352,7 +10797,6 @@
 :CBETA_ID:  X72n1436
 :CUSTOM_ID: ZB6q0366
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1436
-:DYNASTY: (首座)成正錄
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9377,13 +10821,12 @@
 :CBETA_ID:  X72n1437
 :CUSTOM_ID: ZB6q0367
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1437
-:DYNASTY: (嗣法)道霈重編
 :END:
 **** extent: 30卷
 **** responsible: 
-***** (嗣法)道霈重
+***** (嗣法)道霈
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -9402,7 +10845,6 @@
 :CBETA_ID:  X72n1438
 :CUSTOM_ID: ZB6q0368
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1438
-:DYNASTY: (書記)太靖錄
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -9427,7 +10869,6 @@
 :CBETA_ID:  X72n1439
 :CUSTOM_ID: ZB6q0369
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1439
-:DYNASTY: (書記)太泉錄
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -9452,11 +10893,22 @@
 :CBETA_ID:  X72n1440
 :CUSTOM_ID: ZB6q0370
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1440
-:DYNASTY: (侍者)興燈．心亮．法雲．性朗
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (侍者)興燈
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)心亮
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)法雲
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (侍者)性朗
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -9477,11 +10929,18 @@
 :CBETA_ID:  X72n1441
 :CUSTOM_ID: ZB6q0371
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1441
-:DYNASTY: (弟子)謝大材．潘道靖．黃大廣
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 同
+***** (弟子)謝大材
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)潘道靖
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)黃大廣
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -9502,11 +10961,26 @@
 :CBETA_ID:  X72n1442
 :CUSTOM_ID: ZB6q0372
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1442
-:DYNASTY: (弟子)太泉．等純．興燈．心亮．淨煥
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (弟子)太泉
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)等純
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)興燈
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)心亮
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (弟子)淨煥
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -9527,13 +11001,12 @@
 :CBETA_ID:  X72n1443
 :CUSTOM_ID: ZB6q0373
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1443
-:DYNASTY: (法孫)今釋重編
 :END:
 **** extent: 6卷
 **** responsible: 
-***** (法孫)今釋重
+***** (法孫)今釋
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -9552,11 +11025,18 @@
 :CBETA_ID:  X72n1444
 :CUSTOM_ID: ZB6q0374
 :SOURCE: 卍 Xuzangjing Vol. 72, No. 1444
-:DYNASTY: (門人)明凡錄　丁元公．祁駿隹
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 
+***** (門人)明凡
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** (門人)丁元公
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (門人)祁駿隹
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9577,7 +11057,6 @@
 :CBETA_ID:  X73n1445
 :CUSTOM_ID: ZB6q0375
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1445
-:DYNASTY: (參學)智嚴集
 :END:
 **** extent: 3卷
 **** responsible: 
@@ -9606,9 +11085,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 林弘衍編
+***** 林弘衍
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -9627,7 +11106,6 @@
 :CBETA_ID:  X73n1447
 :CUSTOM_ID: ZB6q0377
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1447
-:DYNASTY: (門人)文智編
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9652,7 +11130,6 @@
 :CBETA_ID:  X73n1448
 :CUSTOM_ID: ZB6q0378
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1448
-:DYNASTY: (小師)宗密錄
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9677,13 +11154,12 @@
 :CBETA_ID:  X73n1449
 :CUSTOM_ID: ZB6q0379
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1449
-:DYNASTY: (法孫)師皎重編
 :END:
 **** extent: 2卷
 **** responsible: 
-***** (法孫)師皎重
+***** (法孫)師皎
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -9702,7 +11178,6 @@
 :CBETA_ID:  X73n1450
 :CUSTOM_ID: ZB6q0380
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1450
-:DYNASTY: (嗣法)慧辯錄
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -9727,11 +11202,22 @@
 :CBETA_ID:  X73n1451
 :CUSTOM_ID: ZB6q0381
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1451
-:DYNASTY: (侍者)善清．善隨．宗先．普紹
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 
+***** (侍者)善清
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)善隨
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)宗先
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (侍者)普紹
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9781,9 +11267,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 錢謙益纂
+***** 錢謙益
 :PROPERTIES:
-:FUNCTION: 閱
+:FUNCTION: 纂閱
 :END:
 
 **** textual witnesses
@@ -9802,11 +11288,26 @@
 :CBETA_ID:  X73n1454
 :CUSTOM_ID: ZB6q0384
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1454
-:DYNASTY: (參學)宗敬．道傑．惟能．宗㞧．祖祿
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 
+***** (參學)宗敬
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)道傑
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)惟能
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)宗㞧
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** (參學)祖祿
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -9852,13 +11353,16 @@
 :CBETA_ID:  X73n1456
 :CUSTOM_ID: ZB6q0386
 :SOURCE: 卍 Xuzangjing Vol. 73, No. 1456
-:DYNASTY: (侍者)福善日錄
 :END:
 **** extent: 52卷
 **** responsible: 
-***** (門人)通炯編
+***** (侍者)福善日
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 錄
+:END:
+***** (門人)通炯
+:PROPERTIES:
+:FUNCTION: 編輯
 :END:
 
 **** textual witnesses
@@ -9931,7 +11435,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 德清撰　福善日
+***** 德清
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 福善日
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -9956,9 +11464,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 圓悟說　如瑩等
+***** 圓悟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 如瑩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -9981,9 +11493,21 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 從諗說　文遠記　大參重校　明聲重
+***** 從諗
 :PROPERTIES:
-:FUNCTION: 刻
+:FUNCTION: 說
+:END:
+***** 文遠
+:PROPERTIES:
+:FUNCTION: 記
+:END:
+***** 大參
+:PROPERTIES:
+:FUNCTION: 重校
+:END:
+***** 明聲
+:PROPERTIES:
+:FUNCTION: 重刻
 :END:
 
 **** textual witnesses
@@ -10006,7 +11530,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 文偃說　守堅
+***** 文偃
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 守堅
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10036,9 +11564,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 德然說　慧省編
+***** 德然
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 說
+:END:
+***** 慧省
+:PROPERTIES:
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -10061,7 +11593,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 如空說　性沖
+***** 如空
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 性沖
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10086,9 +11622,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 性沖說　慧廣編
+***** 性沖
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 說
+:END:
+***** 慧廣
+:PROPERTIES:
+:FUNCTION: 編集
 :END:
 
 **** textual witnesses
@@ -10111,9 +11651,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 善堅說　各卷首皆題曹溪一滴古庭禪師語
+***** 善堅
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
 :END:
 
 **** textual witnesses
@@ -10136,9 +11676,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 圓修說　通問等
+***** 圓修
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 通問
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10161,7 +11705,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 慧經說　元來
+***** 慧經
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 元來
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -10186,9 +11734,17 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 道盛說　大成．大奇等
+***** 道盛
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 大成
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 大奇
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10211,9 +11767,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陶汝鼐塔
+***** 如學
 :PROPERTIES:
-:FUNCTION: 銘
+:FUNCTION: 說
+:END:
+***** 智海
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 重刻
+:END:
+***** 周堪賡
+:PROPERTIES:
+:DYNASTY: 清
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -10236,9 +11802,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 正明說　智海編　通雲序　陶之典序　有行實　周堪賡塔銘　附大溈四記一
+***** 正明
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 說
+:END:
+***** 智海
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 通雲
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 陶之典
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -10261,9 +11839,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 海明說　印正等編　附年譜　印巒等輯　印綬等編　原書缺依駒本
+***** 海明
 :PROPERTIES:
-:FUNCTION: 印
+:FUNCTION: 說
+:END:
+***** 印正
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10286,9 +11868,13 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 通容說　隆琦等編　附紀年錄　行觀．王谷同集　徐昌治．董行證較　行宗．行古重訂
+***** 通容
 :PROPERTIES:
-:FUNCTION: 刻
+:FUNCTION: 說
+:END:
+***** 隆琦
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10311,9 +11897,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 通微說　行猷等
+***** 通微
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 行猷
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10336,9 +11926,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 通雲說　行正等編
+***** 通雲
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 行正
+:PROPERTIES:
+:FUNCTION: 等編錄
 :END:
 
 **** textual witnesses
@@ -10361,9 +11955,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 通門說　行瑋等
+***** 通門
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 行瑋
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10386,9 +11984,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 通賢說　行浚等
+***** 通賢
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 行浚
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10411,9 +12013,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 通奇說　行謐等
+***** 通奇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 行謐
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10436,9 +12042,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 昇說　元玉等記
+***** 昇
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 元玉
+:PROPERTIES:
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -10461,7 +12071,11 @@
 :END:
 **** extent: 18卷
 **** responsible: 
-***** 明雪說　寂蘊
+***** 明雪
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 寂蘊
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10486,9 +12100,13 @@
 :END:
 **** extent: 11卷
 **** responsible: 
-***** 明盂說　淨範等
+***** 明盂
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 淨範
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10511,9 +12129,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 淨現說　淨癡等
+***** 淨現
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 淨癡
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -10536,9 +12158,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 珠說　廣熙等
+***** 珠
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 廣熙
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -10561,9 +12187,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 隆琦說　海寧等
+***** 隆琦
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 海寧
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10586,9 +12216,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 通醉說　徹綱等
+***** 通醉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 徹綱
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10611,9 +12245,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 妙用說　悟進．悟元等
+***** 妙用
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 悟進
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 悟元
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10636,7 +12278,15 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 元來說　成正錄　元賢
+***** 元來
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成正
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 元賢
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -10661,7 +12311,15 @@
 :END:
 **** extent: 13卷
 **** responsible: 
-***** 智誾說　成巒等錄　開詗
+***** 智誾
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 成巒
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 開詗
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -10686,7 +12344,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 智誾說　傳善
+***** 智誾
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 傳善
 :PROPERTIES:
 :FUNCTION: 輯
 :END:
@@ -10711,9 +12373,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 達尊說　本開等記
+***** 達尊
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 本開
+:PROPERTIES:
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -10736,9 +12402,13 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 元說　超宣等
+***** 元
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超宣
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10761,9 +12431,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 喜說　智恒等
+***** 喜
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 智恒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10786,9 +12460,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 鑑說　海岳記
+***** 鑑
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 海岳
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -10811,9 +12489,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 行舟說　海鹽．益證等
+***** 行舟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 海鹽
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 益證
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10836,9 +12522,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　超源等記錄　超晙等
+***** 笑堂明哲
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超源
+:PROPERTIES:
+:FUNCTION: 等記錄
+:END:
+***** 超晙
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10861,9 +12555,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 真哲說　傳我等
+***** 真哲
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 傳我
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10886,9 +12584,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 融說　師住．妙印等
+***** 融
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 師住
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 妙印
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -10911,9 +12617,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 行剛（尼）說　授遠．超宿等
+***** 行剛（尼）
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 授遠
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 超宿
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10936,9 +12650,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 徹（尼）說　超祥記
+***** 徹（尼）
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 超祥
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -10961,9 +12679,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 謐說　超巨．超秀等
+***** 謐
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超巨
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 超秀
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -10986,9 +12712,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 秀說　明一等
+***** 秀
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 明一
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11011,9 +12741,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 聆說　海瑞等
+***** 聆
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 海瑞
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -11036,9 +12770,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 觀衡說　正印重
+***** 觀衡
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 正印
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -11061,9 +12799,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 印說　性圓等
+***** 印
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 性圓
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11086,9 +12828,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 印說　旋性記
+***** 印
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 旋性
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -11111,9 +12857,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 圓䂐說　觀誰等
+***** 圓䂐
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 觀誰
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -11136,7 +12886,15 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 璧說　如崇等錄　宗上
+***** 璧
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 如崇
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 宗上
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11161,7 +12919,19 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 福慧說　宗宏錄　宗上．宗堅仝
+***** 福慧
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 宗宏
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 宗上
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 宗堅仝
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11186,9 +12956,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 原澂說　清杲編次（依駒本印
+***** 原澂
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 清杲
+:PROPERTIES:
+:FUNCTION: 編次
 :END:
 
 **** textual witnesses
@@ -11211,9 +12985,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 慧海說　原澂等編（依駒本印
+***** 慧海
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11236,9 +13014,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 慧海說　原澂等
+***** 慧海
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11261,9 +13043,17 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧海說　原澂．原上等
+***** 慧海
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 原澂
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 原上
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11286,9 +13076,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 悟進說　真理等編　附源流
+***** 悟進
 :PROPERTIES:
-:FUNCTION: 頌
+:FUNCTION: 說
+:END:
+***** 真理
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11311,9 +13105,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 元說　真開．真智等
+***** 元
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 真開
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 真智
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11336,9 +13138,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 道正說　性容等
+***** 道正
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 性容
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -11361,9 +13167,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道正說　發慧等
+***** 道正
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 發慧
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -11386,9 +13196,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 了說　達最等
+***** 了
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 達最
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11411,7 +13225,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 廣真說　燈來
+***** 廣真
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 燈來
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11436,9 +13254,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 廣真說　燈來重編（依駒本印
+***** 廣真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 燈來
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -11461,7 +13283,11 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 慧機說　燈來
+***** 慧機
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 燈來
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11486,9 +13312,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 慧機說　幻敏重編（依駒本印
+***** 慧機
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 幻敏
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -11511,7 +13341,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 鐵眉號三巴掌說　性養．性亮同
+***** 鐵眉號三巴掌
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 性養
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 性亮
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -11536,9 +13374,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 嵩說　性愷編　徐善序　有附
+***** 嵩
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 性愷
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 徐善
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -11561,9 +13407,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 燈來說　普定編（原目二十八卷　卷十七下註有「嗣刻」二字　此為初刻本
+***** 燈來
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 普定
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -11586,9 +13436,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 智說　機輪等
+***** 智
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 機輪
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11611,9 +13465,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 機峻說　全弘錄　羅開麟序（依駒本印
+***** 機峻
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 全弘
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 羅開麟
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -11631,7 +13493,11 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 顯權說　海澂
+***** 顯權
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 海澂
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -11656,9 +13522,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 如璽說　興林等編　附淨土
+***** 如璽
 :PROPERTIES:
-:FUNCTION: 詩
+:FUNCTION: 說
+:END:
+***** 興林
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11681,9 +13551,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 正覺說　淨啟重
+***** 正覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 淨啟
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -11706,7 +13580,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元長說　嗣詔
+***** 元長
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 嗣詔
 :PROPERTIES:
 :FUNCTION: 錄
 :END:
@@ -11731,9 +13609,25 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行
+***** 慧廣
 :PROPERTIES:
-:FUNCTION: 狀
+:FUNCTION: 說
+:END:
+***** 妙用
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 悟進
+:PROPERTIES:
+:FUNCTION: 重輯並跋
+:END:
+***** 明方
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 黃承昊
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -11756,9 +13650,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 法通說　性靈等編（依駒本印
+***** 法通
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性靈
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11781,9 +13679,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 行澤說　宏怤等編（依駒本印
+***** 行澤
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 宏怤
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11806,9 +13708,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 船說　明法等編（依駒本印
+***** 船
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明法
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11831,9 +13737,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 行省說　超直等編（依駒本印
+***** 行省
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 超直
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11856,9 +13766,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 福慧說　洪希等
+***** 福慧
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 洪希
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11881,9 +13795,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 宗堅說　妙聖等
+***** 宗堅
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 妙聖
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -11906,9 +13824,17 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 智靜說　德亮等編　德莪等
+***** 智靜
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 德亮
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 德莪
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -11931,9 +13857,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 覺說　洪暹等
+***** 覺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 洪暹
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11956,9 +13886,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 洪暹說　法雲等
+***** 洪暹
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 法雲
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -11981,9 +13915,13 @@
 :END:
 **** extent: 18卷
 **** responsible: 
-***** 淨挺說　智淙等
+***** 淨挺
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 智淙
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12006,9 +13944,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 憲說　智質．智原同編（依駒本印
+***** 憲
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 智質
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 智原
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -12031,9 +13977,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 法藏說　弘儲記　後附年譜一卷．南嶽勒古一
+***** 法藏
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 說
+:END:
+***** 弘儲
+:PROPERTIES:
+:FUNCTION: 記
 :END:
 
 **** textual witnesses
@@ -12056,9 +14006,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 通忍說　行導編（依駒本印
+***** 通忍
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 行導
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -12081,9 +14035,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 弘儲說　濟機等
+***** 弘儲
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 濟機
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12106,7 +14064,15 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 濟璣說　玄杲錄　張有譽
+***** 濟璣
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 玄杲
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 張有譽
 :PROPERTIES:
 :FUNCTION: 序
 :END:
@@ -12131,9 +14097,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行韜說　顯裕等錄　有塔銘　行略（依駒本印
+***** 行韜
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 顯裕
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12156,9 +14126,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 種說　照維等記　附頌
+***** 種
 :PROPERTIES:
-:FUNCTION: 古
+:FUNCTION: 說
+:END:
+***** 照維
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -12181,9 +14155,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 性珽說　益聞重
+***** 性珽
 :PROPERTIES:
-:FUNCTION: 刊
+:FUNCTION: 說
+:END:
+***** 益聞
+:PROPERTIES:
+:FUNCTION: 重刊
 :END:
 
 **** textual witnesses
@@ -12206,9 +14184,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 道智說　嶽賢．聯昇記
+***** 道智
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 嶽賢
+:PROPERTIES:
+:FUNCTION: 記錄
+:END:
+***** 聯昇
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -12231,9 +14217,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 住說　元一記
+***** 住
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 元一
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -12256,7 +14246,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 道盛說　大樞．大英錄　譚貞默
+***** 道盛
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 大樞
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 大英
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 譚貞默
 :PROPERTIES:
 :FUNCTION: 序
 :END:
@@ -12281,7 +14283,15 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 智說　興磬．興斧
+***** 智
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 興磬
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 興斧
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12306,9 +14316,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 開詗說　傳一等
+***** 開詗
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 傳一
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12331,9 +14345,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 玄總（尼）說　明英等
+***** 玄總（尼）
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 明英
+:PROPERTIES:
+:FUNCTION: 等記
 :END:
 
 **** textual witnesses
@@ -12356,9 +14374,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 照衣說　徹御等
+***** 照衣
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 徹御
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12381,7 +14403,19 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徹御說　法傑．法秀等編　聖可
+***** 徹御
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 法傑
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 法秀
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 聖可
 :PROPERTIES:
 :FUNCTION: 序
 :END:
@@ -12406,9 +14440,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 德玉說　光佛等
+***** 德玉
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 光佛
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12431,9 +14469,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 真傳說　如暐等
+***** 真傳
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 如暐
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12456,7 +14498,11 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 真衍說　機如
+***** 真衍
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 機如
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12481,9 +14527,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 機如說　全威等記
+***** 機如
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 全威
+:PROPERTIES:
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -12506,9 +14556,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 普重說　傳慧等
+***** 普重
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 傳慧
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12531,9 +14585,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 印宸說　發林等編　王民皞序　李道泰塔
+***** 印宸
 :PROPERTIES:
-:FUNCTION: 記
+:FUNCTION: 說
+:END:
+***** 發林
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 王民皞
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 李道泰
+:PROPERTIES:
+:FUNCTION: 塔記
 :END:
 
 **** textual witnesses
@@ -12556,9 +14622,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 發林說　光悠等
+***** 發林
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 光悠
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12581,9 +14651,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超智說　明林．明燦等
+***** 超智
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 明林
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 明燦
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12606,9 +14684,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 明林說　最正等
+***** 明林
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 最正
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12631,9 +14713,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 最正說　尚能．尚瑩等編　末附助緣耆
+***** 最正
 :PROPERTIES:
-:FUNCTION: 德
+:FUNCTION: 說
+:END:
+***** 尚能
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 尚瑩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12656,9 +14746,17 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 淨斯說　智操．智海等編語錄　智朴．方拱乾等編蔓堂集　附蔓堂
+***** 淨斯
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 說
+:END:
+***** 智操
+:PROPERTIES:
+:FUNCTION: 等編語錄
+:END:
+***** 智海
+:PROPERTIES:
+:FUNCTION: 等編語錄
 :END:
 
 **** textual witnesses
@@ -12681,9 +14779,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 大奇說　興舒等
+***** 大奇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 興舒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12706,9 +14808,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 念說　真慧等
+***** 念
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 真慧
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12731,9 +14837,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 行聞說　超質等
+***** 行聞
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超質
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12756,9 +14866,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超質說　明嵩等
+***** 超質
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 明嵩
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12781,7 +14895,11 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 行海說　超鳴
+***** 行海
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 超鳴
 :PROPERTIES:
 :FUNCTION: 編
 :END:
@@ -12806,9 +14924,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 豁說　發育等
+***** 豁
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 發育
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12831,9 +14953,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 行曰說　超心．超香等
+***** 行曰
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 超心
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 超香
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12856,9 +14986,13 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 淨範說　智璋等
+***** 淨範
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 智璋
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -12881,9 +15015,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 真實說　寂訥等編（依駒本印
+***** 真實
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 寂訥
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12906,9 +15044,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 徹綱說　性純等編（依駒本印
+***** 徹綱
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性純
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12931,9 +15073,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 寂納說　法棟等錄　法通等編（依駒本印
+***** 寂納
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 法棟
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 法通
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12952,13 +15102,12 @@
 :CBETA_ID:  J37nB383
 :CUSTOM_ID: ZB6q0510
 :SOURCE: Jiaxing Canon Vol. 37, No. B383
-:DYNASTY: 繼堯等編
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 繼堯等
+***** 繼堯
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -12981,9 +15130,13 @@
 :END:
 **** extent: 16卷
 **** responsible: 
-***** 本僼說　元視等編（依駒本印
+***** 本僼
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 元視
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13006,9 +15159,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 尊說　明圓等編（依駒本印
+***** 尊
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明圓
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13031,9 +15188,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 元揆說　成炯等編（依駒本印
+***** 元揆
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 成炯
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13056,9 +15217,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 允汾說　上睿等編（依駒本印
+***** 允汾
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 上睿
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13081,9 +15246,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 上睿說　照琮等錄（依駒本印
+***** 上睿
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 照琮
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13106,9 +15275,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 光電說　悟本編（依駒本印
+***** 光電
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 悟本
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13131,9 +15304,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 智操說　德昊編（依駒本印
+***** 智操
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 德昊
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13156,9 +15333,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 佛說　通量等編（依駒本印
+***** 佛
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 通量
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13181,9 +15362,9 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 善酇說　分為國清語錄二卷　序燈等記　真如語錄三卷　序璋等記　通玄語錄一卷　力端等錄　和寒山詩二卷（依駒本印
+***** 善酇
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
 :END:
 
 **** textual witnesses
@@ -13206,9 +15387,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 誠說　振聞編（依駒本印
+***** 誠
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 振聞
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13231,9 +15416,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 超遠說　性明編　海闊等錄（依駒本印
+***** 超遠
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性明
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 海闊
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13256,9 +15449,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行植說　湛祐編（依駒本印
+***** 行植
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 湛祐
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13281,9 +15478,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 學蘊說　通來等編（依駒本印
+***** 學蘊
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 通來
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13306,9 +15507,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性炅說　海棟編（依駒本印
+***** 性炅
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 海棟
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -13331,9 +15536,21 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 海棟說　慧昇集　慧渠編　慧岱錄（依駒本印
+***** 海棟
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 慧昇
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 慧渠
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 慧岱
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -13356,9 +15573,13 @@
 :END:
 **** extent: 12卷
 **** responsible: 
-***** 函昰說　今辯重編（依駒本印
+***** 函昰
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 今辯
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13381,9 +15602,25 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 函可說　元賦等編　今羞等錄　今盧．今又重梓（依駒本印
+***** 函可
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 元賦
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 今羞
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 今盧
+:PROPERTIES:
+:FUNCTION: 重梓
+:END:
+***** 今又
+:PROPERTIES:
+:FUNCTION: 重梓
 :END:
 
 **** textual witnesses
@@ -13406,9 +15643,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 今無說　今辯重編（依駒本印
+***** 今無
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 今辯
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13431,9 +15672,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 今釋說　今辯重編（依駒本印
+***** 今釋
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 今辯
+:PROPERTIES:
+:FUNCTION: 重編
 :END:
 
 **** textual witnesses
@@ -13456,9 +15701,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 素說　性深等編（依駒本印
+***** 素
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性深
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13481,9 +15730,9 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 說　如惺等編（依駒本印
+***** 如惺
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13506,9 +15755,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　覺海錄　譚貞默等請啟（依駒本印
+***** 覺海
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 錄
+:END:
+***** 譚貞默
+:PROPERTIES:
+:FUNCTION: 等請啟
 :END:
 
 **** textual witnesses
@@ -13531,9 +15784,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　機琇記錄　黎元寬序　文德翼序　內分黃蓮語錄　蘄州語錄　有行實　末附懷淨土偈（依駒本印
+***** 機琇
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 記錄
+:END:
+***** 黎元寬
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 文德翼
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13556,9 +15817,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 真在說　機雲．智旭等錄（依駒本印
+***** 真在
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 機雲
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 智旭
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13581,9 +15850,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 真雄說　機德等編（依駒本印
+***** 真雄
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 機德
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13606,9 +15879,25 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 機能說　道崇．續彌同錄　羅開驎序　機雲序　有行略（依駒本印
+***** 機能
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 道崇
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 續彌
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 羅開驎
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 機雲
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13631,9 +15920,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 旭說　全琳等錄（依駒本印
+***** 旭
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 全琳
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -13656,9 +15949,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 道樂說　德普記錄（依駒本印
+***** 道樂
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 德普
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -13681,9 +15978,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 元說　光深等錄　華嚴玉序（依駒本印
+***** 元
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 光深
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 華嚴玉
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13706,9 +16011,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 濟悟說　上震等編（依駒本印
+***** 濟悟
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 上震
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13731,9 +16040,17 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 鑑說　海錱．海茲等編錄（依駒本印
+***** 鑑
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 海錱
+:PROPERTIES:
+:FUNCTION: 等編錄
+:END:
+***** 海茲
+:PROPERTIES:
+:FUNCTION: 等編錄
 :END:
 
 **** textual witnesses
@@ -13756,9 +16073,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　芳桂等編（依駒本印
+***** 芳桂
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13781,9 +16098,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 說　明耀等編錄　葉燮序　有行實（依駒本印
+***** 明耀
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 等編錄
+:END:
+***** 葉燮
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13806,9 +16127,13 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 徹生說　如鵬等編（依駒本印
+***** 徹生
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 如鵬
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13831,9 +16156,17 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 寂忍說　明廣．明珍等編（依駒本印）　附嗣燈
+***** 寂忍
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 明廣
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 明珍
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13856,9 +16189,17 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 智說　正繼等錄　正燈等編（依駒本印
+***** 智
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 正繼
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 正燈
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13881,9 +16222,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 德富說　圓頂等編（依駒本印）　附融徹
+***** 德富
 :PROPERTIES:
-:FUNCTION: 錄
+:FUNCTION: 說
+:END:
+***** 圓頂
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13906,9 +16251,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 寧說　續清等編　德玉序　徹生序　有行實（依駒本印
+***** 寧
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 續清
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 德玉
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 徹生
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -13931,9 +16288,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 明說　清尚等編（依駒本印
+***** 明
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 清尚
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13956,9 +16317,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 廣德說　智遠等編（依駒本印
+***** 廣德
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 智遠
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -13981,9 +16346,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 智遠說　通慧等編　弘源序（依駒本印
+***** 智遠
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 通慧
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 弘源
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14006,9 +16379,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** （尼）說　明元記錄　高以永序　超琛跋　有行狀（依駒本印　原書第十七　十八兩頁缺
+***** （尼）
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明元
+:PROPERTIES:
+:FUNCTION: 記錄
+:END:
+***** 高以永
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 超琛
+:PROPERTIES:
+:FUNCTION: 跋
 :END:
 
 **** textual witnesses
@@ -14031,9 +16416,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 超琛（尼）說　普明編　明俊錄（依駒本印
+***** 超琛（尼）
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 普明
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 明俊
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14056,9 +16449,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 燈炳說　宗位編　超源序　藍理序　有塔銘（依駒本印
+***** 燈炳
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 宗位
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 超源
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 藍理
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14081,9 +16486,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 玄億說　燈洪編（依駒本印
+***** 玄億
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 燈洪
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -14106,9 +16515,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 至善說　德林記（依駒本印
+***** 至善
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 德林
+:PROPERTIES:
+:FUNCTION: 記
 :END:
 
 **** textual witnesses
@@ -14131,9 +16544,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 崇說　空情錄（依駒本印
+***** 崇
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 空情
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14156,9 +16573,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 亮說　空謐編　張廷勱序（依駒本印
+***** 亮
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 空謐
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 張廷勱
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14181,9 +16606,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 性玨說　宗位編　超原序　藍理序　有塔銘　附冰玄法師語錄（依駒本印　塔銘有缺頁
+***** 性玨
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 宗位
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 超原
+:PROPERTIES:
+:FUNCTION: 序
+:END:
+***** 藍理
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14206,9 +16643,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 印文說　福度復編（依駒本印
+***** 印文
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 福度
+:PROPERTIES:
+:FUNCTION: 復編
 :END:
 
 **** textual witnesses
@@ -14231,9 +16672,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 福度說　慶緒等編（依駒本印
+***** 福度
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 慶緒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14256,9 +16701,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 行觀說　寂方等編（依駒本印
+***** 行觀
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 寂方
+:PROPERTIES:
+:FUNCTION:等編
 :END:
 
 **** textual witnesses
@@ -14281,9 +16730,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超啟說　廣和記錄（依駒本印
+***** 超啟
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 廣和
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -14306,9 +16759,17 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 如相說　道崇編　道領錄（依駒本印
+***** 如相
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 道崇
+:PROPERTIES:
+:FUNCTION: 編
+:END:
+***** 道領
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14331,9 +16792,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 道領說　寂源錄（依駒本印
+***** 道領
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 寂源
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14356,9 +16821,13 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 荷說　成純等記錄（依駒本印
+***** 荷
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 成純
+:PROPERTIES:
+:FUNCTION: 等記錄
 :END:
 
 **** textual witnesses
@@ -14381,9 +16850,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 淨瑩說　智祥編（依駒本印
+***** 淨瑩
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 智祥
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -14406,9 +16879,13 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 智祥說　德能等編（依駒本印
+***** 智祥
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 德能
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14431,9 +16908,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 行高說　明德重梓　超原行略（依駒本印
+***** 行高
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明德
+:PROPERTIES:
+:FUNCTION: 重梓
+:END:
+***** 超原
+:PROPERTIES:
+:FUNCTION: 行略
 :END:
 
 **** textual witnesses
@@ -14456,9 +16941,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超原說　明德等編（依駒本印
+***** 超原
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明德
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14481,9 +16970,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 本真說　照水重梓　妙心序　有行實（依駒本印
+***** 本真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 照水
+:PROPERTIES:
+:FUNCTION: 重梓
+:END:
+***** 妙心
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14506,9 +17003,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 照水說　實雲．海清等
+***** 照水
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 實雲
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 海清
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14531,9 +17036,17 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 昊說　性珍．寂寶等錄（依駒本印
+***** 昊
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性珍
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 寂寶
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -14556,9 +17069,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 行臻說　超自等編（依駒本印
+***** 行臻
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 超自
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14581,9 +17098,21 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 超自說　明修．明惠．明智等編（依駒本印
+***** 超自
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明修
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 明惠
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 明智
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14606,9 +17135,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 定冽說　真謙記錄（依駒本印
+***** 定冽
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 真謙
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -14631,9 +17164,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 真說　力廣等錄（依駒本印
+***** 真
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 力廣
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -14656,9 +17193,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 成如尼說　祖圓記錄（依駒本印
+***** 成如尼
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 祖圓
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -14681,9 +17222,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 德楷說　行悟等編次（依駒本印
+***** 德楷
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 行悟
+:PROPERTIES:
+:FUNCTION: 等編次
 :END:
 
 **** textual witnesses
@@ -14706,9 +17251,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 如純說　學正錄　附續錄（依駒本印
+***** 如純
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 學正
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14731,9 +17280,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 達位說　大悅等編（依駒本印
+***** 達位
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 大悅
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14756,9 +17309,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 大悅說　學愚錄　有塔銘（依駒本印
+***** 大悅
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 學愚
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -14781,9 +17338,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 道澄說　德儒編（依駒本增入並印
+***** 道澄
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 德儒
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -14806,9 +17367,13 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 乾說　超宗等錄（依駒本增入並印
+***** 乾
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 超宗
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -14831,9 +17396,13 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 順說　實性記錄　附了宗見禪師法嗣　瑞亭晟法嗣（依駒本增入並印
+***** 順
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 實性
+:PROPERTIES:
+:FUNCTION: 記錄
 :END:
 
 **** textual witnesses
@@ -14856,9 +17425,17 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 超見說　徹凡．心月等錄（依駒本增入並印
+***** 超見
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 徹凡
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 心月
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -14881,9 +17458,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 德宗說　行謙等編（依駒本增入並印
+***** 德宗
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 行謙
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14906,9 +17487,17 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 純說　福月等編　慧輅序　有行實（依駒本增入並印
+***** 純
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 福月
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 慧輅
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -14931,9 +17520,17 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 巨翔說　寂乾錄　際鋒等編（駒本附於前目四七六之後　今分出增入並印
+***** 巨翔
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 寂乾
+:PROPERTIES:
+:FUNCTION: 錄
+:END:
+***** 際鋒
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14956,9 +17553,13 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 德申說　合哲等編（依駒本增入並印
+***** 德申
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 合哲
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -14981,9 +17582,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 真續說　實悟等編（依駒本增入並印
+***** 真續
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 實悟
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15006,9 +17611,25 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 幻敏說　性鉅．性湛．性珩．性濟等編　附後錄（依駒本增入並印
+***** 幻敏
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性鉅
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 性湛
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 性珩
+:PROPERTIES:
+:FUNCTION: 等編
+:END:
+***** 性濟
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15031,9 +17652,13 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 燈顯說　性胤錄（依駒本增入並印
+***** 燈顯
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 性胤
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -15056,9 +17681,21 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 一說　明滿．明慧等錄　杜允貞序（依駒本增入並印
+***** 一
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 明滿
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 明慧
+:PROPERTIES:
+:FUNCTION: 等錄
+:END:
+***** 杜允貞
+:PROPERTIES:
+:FUNCTION: 序
 :END:
 
 **** textual witnesses
@@ -15076,9 +17713,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 必說　道通錄（依駒本增入並印
+***** 必
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 道通
+:PROPERTIES:
+:FUNCTION: 錄
 :END:
 
 **** textual witnesses
@@ -15101,9 +17742,13 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 暐說　普潤等錄（依駒本增入並印
+***** 暐
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 普潤
+:PROPERTIES:
+:FUNCTION: 等錄
 :END:
 
 **** textual witnesses
@@ -15126,9 +17771,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 弘瀚說　傅鵬編（依駒本增入並印
+***** 弘瀚
 :PROPERTIES:
-:FUNCTION: ）
+:FUNCTION: 說
+:END:
+***** 傅鵬
+:PROPERTIES:
+:FUNCTION: 編
 :END:
 
 **** textual witnesses
@@ -15151,7 +17800,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 時蔚說　普壽
+***** 時蔚
+:PROPERTIES:
+:FUNCTION: 說
+:END:
+***** 普壽
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -15176,9 +17829,13 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 拙說　光模等
+***** 拙
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 說
+:END:
+***** 光模
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15226,9 +17883,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 圓悟．圓修等
+***** 圓悟
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
+:END:
+***** 圓修
+:PROPERTIES:
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15251,9 +17912,9 @@
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 弘歇等
+***** 弘歇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15276,9 +17937,9 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 弘歇等
+***** 弘歇
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15326,9 +17987,9 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 道忞上
+***** 道忞
 :PROPERTIES:
-:FUNCTION: 進
+:FUNCTION: 上進
 :END:
 
 **** textual witnesses
@@ -15376,9 +18037,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 超德等
+***** 超德
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15401,9 +18062,9 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 顯權等
+***** 顯權
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 等編
 :END:
 
 **** textual witnesses
@@ -15426,9 +18087,13 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 達尊．達謙等編
+***** 達尊
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 等編次
+:END:
+***** 達謙
+:PROPERTIES:
+:FUNCTION: 等編次
 :END:
 
 **** textual witnesses
@@ -15451,9 +18116,13 @@
 :END:
 **** extent: 20卷
 **** responsible: 
-***** 寂空．方醒等編
+***** 寂空
 :PROPERTIES:
-:FUNCTION: 次
+:FUNCTION: 等編次
+:END:
+***** 方醒
+:PROPERTIES:
+:FUNCTION: 等編次
 :END:
 
 **** textual witnesses

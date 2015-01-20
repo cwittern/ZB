@@ -9,9 +9,9 @@
 :END:
 **** extent: 50卷
 **** responsible: 
-***** 寶唱等
+***** 寶唱
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等集
 :END:
 
 **** textual witnesses
@@ -244,9 +244,13 @@
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 陳實編　姚舜漁重
+***** 陳實
 :PROPERTIES:
-:FUNCTION: 輯
+:FUNCTION: 編
+:END:
+***** 姚舜漁
+:PROPERTIES:
+:FUNCTION: 重輯
 :END:
 
 **** textual witnesses
@@ -274,9 +278,9 @@
 :END:
 **** extent: 13卷
 **** responsible: 
-***** 一如等編
+***** 一如
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等編集
 :END:
 
 **** textual witnesses
@@ -299,9 +303,9 @@
 :END:
 **** extent: 22卷
 **** responsible: 
-***** 一如等編
+***** 一如
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等編集
 :END:
 
 **** textual witnesses
@@ -324,9 +328,9 @@
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 一如等編
+***** 一如
 :PROPERTIES:
-:FUNCTION: 集
+:FUNCTION: 等編集
 :END:
 
 **** textual witnesses
@@ -369,9 +373,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 超海等重
+***** 超海
 :PROPERTIES:
-:FUNCTION: 訂
+:FUNCTION: 等重訂
 :END:
 
 **** textual witnesses
@@ -685,7 +689,6 @@
 :CBETA_ID:  T54n2130
 :CUSTOM_ID: ZB6s0018
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2130
-:DYNASTY: 
 :END:
 **** extent: 10卷
 **** responsible: 
@@ -964,7 +967,11 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 僧怛多蘖多．波羅瞿那彌捨沙
+***** 僧怛多蘖多
+:PROPERTIES:
+:FUNCTION: 集
+:END:
+***** 波羅瞿那彌捨沙
 :PROPERTIES:
 :FUNCTION: 集
 :END:
@@ -990,7 +997,6 @@
 :CBETA_ID:  T85n2817
 :CUSTOM_ID: ZB6s0026
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2817
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1015,7 +1021,6 @@
 :CBETA_ID:  T85n2818
 :CUSTOM_ID: ZB6s0027
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2818
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1040,7 +1045,6 @@
 :CBETA_ID:  T85n2819
 :CUSTOM_ID: ZB6s0028
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2819
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1060,7 +1064,6 @@
 :CBETA_ID:  T85n2820
 :CUSTOM_ID: ZB6s0029
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2820
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1080,7 +1083,6 @@
 :CBETA_ID:  T85n2821
 :CUSTOM_ID: ZB6s0030
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2821
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1100,7 +1102,6 @@
 :CBETA_ID:  T85n2822
 :CUSTOM_ID: ZB6s0031
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2822
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1115,7 +1116,6 @@
 :CBETA_ID:  T85n2825
 :CUSTOM_ID: ZB6s0032
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2825
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -1140,7 +1140,6 @@
 :CBETA_ID:  T85n2841
 :CUSTOM_ID: ZB6s0033
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2841
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1160,7 +1159,6 @@
 :CBETA_ID:  T85n2842
 :CUSTOM_ID: ZB6s0034
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2842
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1175,7 +1173,6 @@
 :CBETA_ID:  T85n2843
 :CUSTOM_ID: ZB6s0035
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2843
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1195,7 +1192,6 @@
 :CBETA_ID:  T85n2844
 :CUSTOM_ID: ZB6s0036
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2844
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1210,7 +1206,6 @@
 :CBETA_ID:  T85n2845
 :CUSTOM_ID: ZB6s0037
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2845
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1235,7 +1230,6 @@
 :CBETA_ID:  T85n2846
 :CUSTOM_ID: ZB6s0038
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2846
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1250,7 +1244,6 @@
 :CBETA_ID:  T85n2847
 :CUSTOM_ID: ZB6s0039
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2847
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1265,7 +1258,6 @@
 :CBETA_ID:  T85n2848
 :CUSTOM_ID: ZB6s0040
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2848
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1280,7 +1272,6 @@
 :CBETA_ID:  T85n2849
 :CUSTOM_ID: ZB6s0041
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2849
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1300,7 +1291,6 @@
 :CBETA_ID:  T85n2850
 :CUSTOM_ID: ZB6s0042
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2850
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1315,7 +1305,6 @@
 :CBETA_ID:  T85n2851
 :CUSTOM_ID: ZB6s0043
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2851
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1330,7 +1319,6 @@
 :CBETA_ID:  T85n2852
 :CUSTOM_ID: ZB6s0044
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2852
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1345,7 +1333,6 @@
 :CBETA_ID:  T85n2853
 :CUSTOM_ID: ZB6s0045
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2853
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1360,7 +1347,6 @@
 :CBETA_ID:  T85n2854
 :CUSTOM_ID: ZB6s0046
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2854
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1380,7 +1366,6 @@
 :CBETA_ID:  T85n2855
 :CUSTOM_ID: ZB6s0047
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2855
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1400,7 +1385,6 @@
 :CBETA_ID:  T85n2856
 :CUSTOM_ID: ZB6s0048
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2856
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1420,7 +1404,6 @@
 :CBETA_ID:  T85n2857
 :CUSTOM_ID: ZB6s0049
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2857
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1435,7 +1418,6 @@
 :CBETA_ID:  T85n2858
 :CUSTOM_ID: ZB6s0050
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2858
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1450,7 +1432,6 @@
 :CBETA_ID:  T85n2859
 :CUSTOM_ID: ZB6s0051
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2859
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1470,7 +1451,6 @@
 :CBETA_ID:  T85n2860
 :CUSTOM_ID: ZB6s0052
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2860
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1485,7 +1465,6 @@
 :CBETA_ID:  T85n2861
 :CUSTOM_ID: ZB6s0053
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2861
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1500,7 +1479,6 @@
 :CBETA_ID:  T85n2862
 :CUSTOM_ID: ZB6s0054
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2862
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1520,7 +1498,6 @@
 :CBETA_ID:  T85n2863
 :CUSTOM_ID: ZB6s0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2863
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1540,7 +1517,6 @@
 :CBETA_ID:  T85n2864
 :CUSTOM_ID: ZB6s0056
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2864
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1854,9 +1830,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 太宗御
+***** 太宗
 :PROPERTIES:
-:FUNCTION: 製
+:FUNCTION: 御製
 :END:
 
 **** textual witnesses
@@ -1874,9 +1850,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 太宗御
+***** 太宗
 :PROPERTIES:
-:FUNCTION: 製
+:FUNCTION: 御製
 :END:
 
 **** textual witnesses
@@ -1919,9 +1895,9 @@
 :END:
 **** extent: 19卷
 **** responsible: 
-***** 世宗皇帝御
+***** 世宗皇帝
 :PROPERTIES:
-:FUNCTION: 選
+:FUNCTION: 御選
 :END:
 
 **** textual witnesses
@@ -2030,10 +2006,15 @@
 :CBETA_ID:  T54n2138
 :CUSTOM_ID: ZB6s0073
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2138
-:DYNASTY: 慧月造
+:DYNASTY: 唐
 :END:
 **** extent: 1卷
 **** responsible: 
+***** 慧月
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 造
+:END:
 ***** 玄奘
 :PROPERTIES:
 :FUNCTION: 譯
@@ -2070,7 +2051,6 @@
 :CBETA_ID:  T54n2139
 :CUSTOM_ID: ZB6s0074
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2139
-:DYNASTY: 
 :END:
 **** extent: 2卷
 **** responsible: 
@@ -2110,7 +2090,6 @@
 :CBETA_ID:  F29n1098
 :CUSTOM_ID: ZB6s0076
 :SOURCE: Fangshan shijing Vol. 29, No. 1098
-:DYNASTY: 儼法師造
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2135,7 +2114,6 @@
 :CBETA_ID:  F29n1099
 :CUSTOM_ID: ZB6s0077
 :SOURCE: Fangshan shijing Vol. 29, No. 1099
-:DYNASTY: 杜順法師造
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2155,7 +2133,6 @@
 :CBETA_ID:  T54n2140
 :CUSTOM_ID: ZB6s0078
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2140
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2190,7 +2167,6 @@
 :CBETA_ID:  T54n2141B
 :CUSTOM_ID: ZB6s0080
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2141B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2205,7 +2181,6 @@
 :CBETA_ID:  T54n2142
 :CUSTOM_ID: ZB6s0081
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2142
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2220,7 +2195,6 @@
 :CBETA_ID:  T54n2143
 :CUSTOM_ID: ZB6s0082
 :SOURCE: Taisho Tripitaka Vol. 54, No. 2143
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2309,9 +2283,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 法經等
+***** 法經
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 等撰
 :END:
 
 **** textual witnesses
@@ -2599,9 +2573,9 @@
 :END:
 **** extent: 15卷
 **** responsible: 
-***** 明佺等
+***** 明佺
 :PROPERTIES:
-:FUNCTION: 撰
+:FUNCTION: 等撰
 :END:
 
 **** textual witnesses
@@ -2914,9 +2888,9 @@
 :END:
 **** extent: 2卷
 **** responsible: 
-***** 惟淨等編
+***** 惟淨
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2939,9 +2913,9 @@
 :END:
 **** extent: 9卷
 **** responsible: 
-***** 楊億等編
+***** 楊億
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2964,9 +2938,9 @@
 :END:
 **** extent: 7卷
 **** responsible: 
-***** 楊億等編
+***** 楊億
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -2989,9 +2963,9 @@
 :END:
 **** extent: 14卷
 **** responsible: 
-***** 呂夷簡等編
+***** 呂夷簡
 :PROPERTIES:
-:FUNCTION: 修
+:FUNCTION: 等編修
 :END:
 
 **** textual witnesses
@@ -3064,9 +3038,9 @@
 :END:
 **** extent: 5卷
 **** responsible: 
-***** 智旭彙輯　總目四
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 彙輯
 :END:
 
 **** textual witnesses
@@ -3089,9 +3063,9 @@
 :END:
 **** extent: 39卷
 **** responsible: 
-***** 智旭彙輯　總目四
+***** 智旭
 :PROPERTIES:
-:FUNCTION: 卷
+:FUNCTION: 彙輯
 :END:
 
 **** textual witnesses
@@ -3190,7 +3164,6 @@
 :CBETA_ID:  T55n2162
 :CUSTOM_ID: ZB6s0108
 :SOURCE: Taisho Tripitaka Vol. 55, No. 2162
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3620,7 +3593,6 @@
 :CBETA_ID:  T55n2174B
 :CUSTOM_ID: ZB6s0122
 :SOURCE: Taisho Tripitaka Vol. 55, No. 2174B
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3635,7 +3607,6 @@
 :CBETA_ID:  T55n2175
 :CUSTOM_ID: ZB6s0123
 :SOURCE: Taisho Tripitaka Vol. 55, No. 2175
-:DYNASTY: 
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -3939,9 +3910,9 @@
 :END:
 **** extent: 30卷
 **** responsible: 
-***** 守其等校
+***** 守其
 :PROPERTIES:
-:FUNCTION: 勘
+:FUNCTION: 等校勘
 :END:
 
 **** textual witnesses

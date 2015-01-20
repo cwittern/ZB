@@ -5,7 +5,6 @@
 :CBETA_ID:  H01n0001
 :CUSTOM_ID: ZB6u0001
 :SOURCE: Passages concerning Buddhism from the Official Histories Vol. 01, No. 001
-:DYNASTY: 杜斗城輯編
 :END:
 **** extent: 10卷
 **** responsible: 
@@ -30,7 +29,6 @@
 :CBETA_ID:  W01n0001
 :CUSTOM_ID: ZB6u0002
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 001
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -50,13 +48,12 @@
 :CBETA_ID:  W01n0002
 :CUSTOM_ID: ZB6u0003
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 002
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -75,13 +72,16 @@
 :CBETA_ID:  W01n0003
 :CUSTOM_ID: ZB6u0004
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 003
-:DYNASTY: 達摩禪師作　方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達摩禪師作　方廣錩整
+***** 達摩禪師
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 作
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -95,13 +95,16 @@
 :CBETA_ID:  W01n0004
 :CUSTOM_ID: ZB6u0005
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 004
-:DYNASTY: 馬鳴菩薩造　方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 馬鳴菩薩造　方廣錩整
+***** 馬鳴菩薩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 造
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -120,13 +123,16 @@
 :CBETA_ID:  W01n0005
 :CUSTOM_ID: ZB6u0006
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 005
-:DYNASTY: 沙門文軌撰　李際寧整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沙門文軌撰　李際寧整
+***** 沙門文軌
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -145,13 +151,16 @@
 :CBETA_ID:  W01n0006
 :CUSTOM_ID: ZB6u0007
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 006
-:DYNASTY: 沙門道宣述　蘇軍整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沙門道宣述　蘇軍整
+***** 沙門道宣
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 述
+:END:
+***** 蘇軍
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -170,13 +179,16 @@
 :CBETA_ID:  W01n0007
 :CUSTOM_ID: ZB6u0008
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 007
-:DYNASTY: 尊者安惠造　蘇軍整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 尊者安惠造　蘇軍整
+***** 尊者安惠
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 造
+:END:
+***** 蘇軍
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -195,13 +207,16 @@
 :CBETA_ID:  W01n0008
 :CUSTOM_ID: ZB6u0009
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 008
-:DYNASTY: 惠辯禪師註　方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 惠辯禪師註　方廣錩整
+***** 惠辯禪師
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 註
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -220,13 +235,12 @@
 :CBETA_ID:  W01n0009
 :CUSTOM_ID: ZB6u0010
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 009
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -240,13 +254,12 @@
 :CBETA_ID:  W01n0010
 :CUSTOM_ID: ZB6u0011
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 010
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -260,13 +273,12 @@
 :CBETA_ID:  W01n0011
 :CUSTOM_ID: ZB6u0012
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 011
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -280,13 +292,12 @@
 :CBETA_ID:  W01n0012
 :CUSTOM_ID: ZB6u0013
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 012
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -300,13 +311,12 @@
 :CBETA_ID:  W01n0013
 :CUSTOM_ID: ZB6u0014
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 013
-:DYNASTY: 徐紹強整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐紹強整
+***** 徐紹強
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -320,13 +330,12 @@
 :CBETA_ID:  W01n0014a
 :CUSTOM_ID: ZB6u0015
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014a
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -340,13 +349,12 @@
 :CBETA_ID:  W01n0014b
 :CUSTOM_ID: ZB6u0016
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014b
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -365,13 +373,12 @@
 :CBETA_ID:  W01n0014c
 :CUSTOM_ID: ZB6u0017
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 014c
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -385,13 +392,16 @@
 :CBETA_ID:  W01n0015a
 :CUSTOM_ID: ZB6u0018
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015a
-:DYNASTY: 大德安法師譯　李際寧整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 大德安法師譯　李際寧整
+***** 大德安法師
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 譯
+:END:
+***** 李際寧
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -405,13 +415,12 @@
 :CBETA_ID:  W01n0015b
 :CUSTOM_ID: ZB6u0019
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015b
-:DYNASTY: 李際寧整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際寧整
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -425,13 +434,12 @@
 :CBETA_ID:  W01n0015c
 :CUSTOM_ID: ZB6u0020
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015c
-:DYNASTY: 李際寧整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際寧整
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -445,13 +453,12 @@
 :CBETA_ID:  W01n0015d
 :CUSTOM_ID: ZB6u0021
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015d
-:DYNASTY: 李際寧整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際寧整
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -465,13 +472,11 @@
 :CBETA_ID:  W01n0016
 :CUSTOM_ID: ZB6u0022
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 01, No. 016
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -490,13 +495,12 @@
 :CBETA_ID:  W02n0017
 :CUSTOM_ID: ZB6u0023
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 017
-:DYNASTY: 華方田整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 華方田整
+***** 華方田
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -510,13 +514,12 @@
 :CBETA_ID:  W02n0018a
 :CUSTOM_ID: ZB6u0024
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018a
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -530,13 +533,12 @@
 :CBETA_ID:  W02n0018b
 :CUSTOM_ID: ZB6u0025
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 018b
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -550,13 +552,16 @@
 :CBETA_ID:  W02n0019
 :CUSTOM_ID: ZB6u0026
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 019
-:DYNASTY: 沙門道液集　黎明整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沙門道液集　黎明整
+***** 沙門道液
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 黎明
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -575,13 +580,16 @@
 :CBETA_ID:  W02n0020
 :CUSTOM_ID: ZB6u0027
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 020
-:DYNASTY: 李際寧．張曉娟整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際寧．張曉娟整
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
+:END:
+***** 張曉娟
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -599,9 +607,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 烏瑪斯伐蒂著　方廣錩譯
+***** 烏瑪斯伐蒂
 :PROPERTIES:
-:FUNCTION: 註
+:FUNCTION: 著
+:END:
+***** 方廣錩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 譯註
 :END:
 
 **** textual witnesses
@@ -620,13 +633,16 @@
 :CBETA_ID:  W02n0022
 :CUSTOM_ID: ZB6u0029
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 02, No. 022
-:DYNASTY: 韓清淨著　程恭讓整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 韓清淨著　程恭讓整
+***** 韓清淨
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 著
+:END:
+***** 程恭讓
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -640,13 +656,16 @@
 :CBETA_ID:  W03n0023
 :CUSTOM_ID: ZB6u0030
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 023
-:DYNASTY: 上山大峻．袁德領整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 上山大峻．袁德領整
+***** 上山大峻
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
+:END:
+***** 袁德領
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -660,13 +679,12 @@
 :CBETA_ID:  W03n0024
 :CUSTOM_ID: ZB6u0031
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 024
-:DYNASTY: 方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣錩整
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -680,13 +698,16 @@
 :CBETA_ID:  W03n0025
 :CUSTOM_ID: ZB6u0032
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 025
-:DYNASTY: 沙門道液述　黎明整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沙門道液述　黎明整
+***** 沙門道液
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 述
+:END:
+***** 黎明
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -705,13 +726,16 @@
 :CBETA_ID:  W03n0026
 :CUSTOM_ID: ZB6u0033
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 026
-:DYNASTY: 龍猛菩薩作　華方田整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 龍猛菩薩作　華方田整
+***** 龍猛菩薩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 作
+:END:
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -725,13 +749,16 @@
 :CBETA_ID:  W03n0027
 :CUSTOM_ID: ZB6u0034
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 027
-:DYNASTY: 龍猛菩薩造　華方田整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 龍猛菩薩造　華方田整
+***** 龍猛菩薩
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 造
+:END:
+***** 華方田
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -745,13 +772,12 @@
 :CBETA_ID:  W03n0028
 :CUSTOM_ID: ZB6u0035
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 028
-:DYNASTY: 華方田整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 華方田整
+***** 華方田
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -765,13 +791,12 @@
 :CBETA_ID:  W03n0029
 :CUSTOM_ID: ZB6u0036
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 029
-:DYNASTY: 華方田整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 華方田整
+***** 華方田
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -785,13 +810,12 @@
 :CBETA_ID:  W03n0030
 :CUSTOM_ID: ZB6u0037
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 030
-:DYNASTY: 徐紹強整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐紹強整
+***** 徐紹強
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -805,13 +829,12 @@
 :CBETA_ID:  W03n0031a
 :CUSTOM_ID: ZB6u0038
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031a
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -830,13 +853,12 @@
 :CBETA_ID:  W03n0031b
 :CUSTOM_ID: ZB6u0039
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031b
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -855,13 +877,12 @@
 :CBETA_ID:  W03n0031c
 :CUSTOM_ID: ZB6u0040
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031c
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -880,13 +901,12 @@
 :CBETA_ID:  W03n0031d
 :CUSTOM_ID: ZB6u0041
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031d
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -900,13 +920,12 @@
 :CBETA_ID:  W03n0031e
 :CUSTOM_ID: ZB6u0042
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 031e
-:DYNASTY: 黃霞整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 黃霞整
+***** 黃霞
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -920,13 +939,11 @@
 :CBETA_ID:  W03n0032
 :CUSTOM_ID: ZB6u0043
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 03, No. 032
-:DYNASTY: 李際寧
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 李際
+***** 李際寧
 :PROPERTIES:
-:FUNCTION: 寧
 :END:
 
 **** textual witnesses
@@ -945,11 +962,18 @@
 :CBETA_ID:  W04n0033
 :CUSTOM_ID: ZB6u0044
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 033
-:DYNASTY: 寂天菩薩造頌　傑操大師註解　隆蓮法師譯
 :END:
 **** extent: 10卷
 **** responsible: 
-***** 寂天菩薩造頌　傑操大師註解　隆蓮法師
+***** 寂天菩薩
+:PROPERTIES:
+:FUNCTION: 造頌
+:END:
+***** 傑操大師
+:PROPERTIES:
+:FUNCTION: 註解
+:END:
+***** 隆蓮法師
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -970,13 +994,12 @@
 :CBETA_ID:  W04n0034
 :CUSTOM_ID: ZB6u0045
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 034
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -990,13 +1013,12 @@
 :CBETA_ID:  W04n0035
 :CUSTOM_ID: ZB6u0046
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 035
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1010,13 +1032,12 @@
 :CBETA_ID:  W04n0036
 :CUSTOM_ID: ZB6u0047
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 036
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1030,13 +1051,12 @@
 :CBETA_ID:  W04n0037
 :CUSTOM_ID: ZB6u0048
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 037
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1054,9 +1074,22 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 太宗．真宗．仁宗撰　陳明光整
+***** 太宗
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 真宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 仁宗
+:PROPERTIES:
+:FUNCTION: 撰
+:END:
+***** 陳明光
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1070,13 +1103,12 @@
 :CBETA_ID:  W04n0039
 :CUSTOM_ID: ZB6u0050
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 039
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1090,13 +1122,12 @@
 :CBETA_ID:  W04n0040
 :CUSTOM_ID: ZB6u0051
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 040
-:DYNASTY: 陳明光整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳明光整
+***** 陳明光
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1115,13 +1146,12 @@
 :CBETA_ID:  W04n0041
 :CUSTOM_ID: ZB6u0052
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 041
-:DYNASTY: 業露華整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 業露華整
+***** 業露華
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1140,13 +1170,16 @@
 :CBETA_ID:  W04n0042
 :CUSTOM_ID: ZB6u0053
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 042
-:DYNASTY: 信行撰　方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 信行撰　方廣錩整
+***** 信行
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1160,13 +1193,12 @@
 :CBETA_ID:  W04n0043a
 :CUSTOM_ID: ZB6u0054
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043a
-:DYNASTY: 侯旭東整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 侯旭東整
+***** 侯旭東
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1180,13 +1212,12 @@
 :CBETA_ID:  W04n0043b
 :CUSTOM_ID: ZB6u0055
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043b
-:DYNASTY: 侯旭東整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 侯旭東整
+***** 侯旭東
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1200,13 +1231,11 @@
 :CBETA_ID:  W04n0044
 :CUSTOM_ID: ZB6u0056
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 04, No. 044
-:DYNASTY: 陳金華
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 陳金
+***** 陳金華
 :PROPERTIES:
-:FUNCTION: 華
 :END:
 
 **** textual witnesses
@@ -1225,7 +1254,6 @@
 :CBETA_ID:  W05n0045
 :CUSTOM_ID: ZB6u0057
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 045
-:DYNASTY: 鄧殿臣譯
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1245,7 +1273,6 @@
 :CBETA_ID:  W05n0046
 :CUSTOM_ID: ZB6u0058
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 046
-:DYNASTY: 鄧殿臣譯
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1270,7 +1297,6 @@
 :CBETA_ID:  W05n0047
 :CUSTOM_ID: ZB6u0059
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 047
-:DYNASTY: 鄧殿臣譯
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -1290,11 +1316,14 @@
 :CBETA_ID:  W05n0048
 :CUSTOM_ID: ZB6u0060
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 048
-:DYNASTY: 鄧殿臣．趙桐譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 鄧殿臣．趙桐
+***** 鄧殿臣
+:PROPERTIES:
+:FUNCTION: 譯
+:END:
+***** 趙桐
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -1315,13 +1344,12 @@
 :CBETA_ID:  W05n0049
 :CUSTOM_ID: ZB6u0061
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 049
-:DYNASTY: 徐紹強整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 徐紹強整
+***** 徐紹強
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1340,13 +1368,11 @@
 :CBETA_ID:  W05n0050
 :CUSTOM_ID: ZB6u0062
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 05, No. 050
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -1369,9 +1395,19 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 釋祖照集　趙文煥．侯沖整
+***** 釋祖照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1394,9 +1430,19 @@
 :END:
 **** extent: 4卷
 **** responsible: 
-***** 釋元照集　趙文煥．侯沖整
+***** 釋元照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1419,9 +1465,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 釋宗鏡述　侯沖整
+***** 釋宗鏡
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 述
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1435,13 +1486,12 @@
 :CBETA_ID:  W06n0054
 :CUSTOM_ID: ZB6u0066
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 054
-:DYNASTY: 侯沖整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 侯沖整
+***** 侯沖
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1460,13 +1510,12 @@
 :CBETA_ID:  W06n0055
 :CUSTOM_ID: ZB6u0067
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 055
-:DYNASTY: 侯沖整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 侯沖整
+***** 侯沖
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1480,13 +1529,16 @@
 :CBETA_ID:  W06n0056
 :CUSTOM_ID: ZB6u0068
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 056
-:DYNASTY: 弘景撰　方廣錩整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 弘景撰　方廣錩整
+***** 弘景
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 方廣錩
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1500,13 +1552,11 @@
 :CBETA_ID:  W06n0057
 :CUSTOM_ID: ZB6u0069
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 06, No. 057
-:DYNASTY: 侯沖
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 侯
+***** 侯沖
 :PROPERTIES:
-:FUNCTION: 沖
 :END:
 
 **** textual witnesses
@@ -1529,9 +1579,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 宗密注　方廣錩整
+***** 宗密
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 注
+:END:
+***** 方廣錩
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1545,13 +1600,16 @@
 :CBETA_ID:  W07n0059a
 :CUSTOM_ID: ZB6u0071
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059a
-:DYNASTY: 姚和尚撰　達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 姚和尚撰　達照整
+***** 姚和尚
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1570,13 +1628,16 @@
 :CBETA_ID:  W07n0059b
 :CUSTOM_ID: ZB6u0072
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 059b
-:DYNASTY: 姚和尚撰　達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 姚和尚撰　達照整
+***** 姚和尚
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 達照
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1594,9 +1655,14 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 通理大師集　達照整
+***** 通理大師
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 達照
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1610,13 +1676,16 @@
 :CBETA_ID:  W07n0061
 :CUSTOM_ID: ZB6u0074
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 061
-:DYNASTY: 沙門玄鑒集　侯沖整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 沙門玄鑒集　侯沖整
+***** 沙門玄鑒
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1635,13 +1704,16 @@
 :CBETA_ID:  W07n0062
 :CUSTOM_ID: ZB6u0075
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 062
-:DYNASTY: 沙門若愚述　侯沖整理
 :END:
 **** extent: 6卷
 **** responsible: 
-***** 沙門若愚述　侯沖整
+***** 沙門若愚
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 述
+:END:
+***** 侯沖
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1660,13 +1732,16 @@
 :CBETA_ID:  W07n0063
 :CUSTOM_ID: ZB6u0076
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 063
-:DYNASTY: 大內文雄．齊藤隆信整理
 :END:
 **** extent: 3卷
 **** responsible: 
-***** 大內文雄．齊藤隆信整
+***** 大內文雄
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
+:END:
+***** 齊藤隆信
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1685,13 +1760,12 @@
 :CBETA_ID:  W07n0064a
 :CUSTOM_ID: ZB6u0077
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064a
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1705,13 +1779,12 @@
 :CBETA_ID:  W07n0064b
 :CUSTOM_ID: ZB6u0078
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064b
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1725,13 +1798,12 @@
 :CBETA_ID:  W07n0064c
 :CUSTOM_ID: ZB6u0079
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064c
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1745,13 +1817,12 @@
 :CBETA_ID:  W07n0064d
 :CUSTOM_ID: ZB6u0080
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064d
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1765,13 +1836,12 @@
 :CBETA_ID:  W07n0064e
 :CUSTOM_ID: ZB6u0081
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064e
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1785,13 +1855,12 @@
 :CBETA_ID:  W07n0064f
 :CUSTOM_ID: ZB6u0082
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064f
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1805,13 +1874,12 @@
 :CBETA_ID:  W07n0064g
 :CUSTOM_ID: ZB6u0083
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064g
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1825,13 +1893,12 @@
 :CBETA_ID:  W07n0064h
 :CUSTOM_ID: ZB6u0084
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064h
-:DYNASTY: 張總整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 張總整
+***** 張總
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1850,13 +1917,11 @@
 :CBETA_ID:  W07n0065
 :CUSTOM_ID: ZB6u0085
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 065
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -1875,13 +1940,11 @@
 :CBETA_ID:  W07n0066
 :CUSTOM_ID: ZB6u0086
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 07, No. 066
-:DYNASTY: 末木文美士
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 末木文美
+***** 末木文美士
 :PROPERTIES:
-:FUNCTION: 士
 :END:
 
 **** textual witnesses
@@ -1895,13 +1958,12 @@
 :CBETA_ID:  W08n0067
 :CUSTOM_ID: ZB6u0087
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 067
-:DYNASTY: 悟緣　整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 悟緣　整
+***** 悟緣
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1919,9 +1981,19 @@
 :END:
 **** extent: 8卷
 **** responsible: 
-***** 思覺集　趙文煥．侯沖整
+***** 思覺
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 集
+:END:
+***** 趙文煥
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
+:END:
+***** 侯沖
+:PROPERTIES:
+:DYNASTY: ?
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1940,13 +2012,12 @@
 :CBETA_ID:  W08n0069
 :CUSTOM_ID: ZB6u0089
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 069
-:DYNASTY: 通源整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 通源整
+***** 通源
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -1960,13 +2031,11 @@
 :CBETA_ID:  W08n0070
 :CUSTOM_ID: ZB6u0090
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 070
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -1985,13 +2054,11 @@
 :CBETA_ID:  W08n0071
 :CUSTOM_ID: ZB6u0091
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 08, No. 071
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -2005,13 +2072,16 @@
 :CBETA_ID:  W09n0072
 :CUSTOM_ID: ZB6u0092
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 072
-:DYNASTY: 信行撰　西本照真整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 信行撰　西本照真整
+***** 信行
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 撰
+:END:
+***** 西本照真
+:PROPERTIES:
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2025,13 +2095,12 @@
 :CBETA_ID:  W09n0073a
 :CUSTOM_ID: ZB6u0093
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073a
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2050,13 +2119,12 @@
 :CBETA_ID:  W09n0073b
 :CUSTOM_ID: ZB6u0094
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073b
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2070,13 +2138,12 @@
 :CBETA_ID:  W09n0073c
 :CUSTOM_ID: ZB6u0095
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073c
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2090,13 +2157,12 @@
 :CBETA_ID:  W09n0073d
 :CUSTOM_ID: ZB6u0096
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073d
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2110,13 +2176,12 @@
 :CBETA_ID:  W09n0073e
 :CUSTOM_ID: ZB6u0097
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073e
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2130,13 +2195,12 @@
 :CBETA_ID:  W09n0073f
 :CUSTOM_ID: ZB6u0098
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073f
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2150,13 +2214,12 @@
 :CBETA_ID:  W09n0073g
 :CUSTOM_ID: ZB6u0099
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073g
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2170,13 +2233,12 @@
 :CBETA_ID:  W09n0073h
 :CUSTOM_ID: ZB6u0100
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 073h
-:DYNASTY: 達照整理
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 達照整
+***** 達照
 :PROPERTIES:
-:FUNCTION: 理
+:FUNCTION: 整理
 :END:
 
 **** textual witnesses
@@ -2195,7 +2257,6 @@
 :CBETA_ID:  W09n0074
 :CUSTOM_ID: ZB6u0101
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 074
-:DYNASTY: 任遠譯
 :END:
 **** extent: 1卷
 **** responsible: 
@@ -2220,11 +2281,14 @@
 :CBETA_ID:  W09n0075
 :CUSTOM_ID: ZB6u0102
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 075
-:DYNASTY: 克什曼德拉原著　任遠譯
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 克什曼德拉原著　任遠
+***** 克什曼德拉
+:PROPERTIES:
+:FUNCTION: 原著
+:END:
+***** 任遠
 :PROPERTIES:
 :FUNCTION: 譯
 :END:
@@ -2245,13 +2309,11 @@
 :CBETA_ID:  W09n0076
 :CUSTOM_ID: ZB6u0103
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 076
-:DYNASTY: 西本照真
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 西本照
+***** 西本照真
 :PROPERTIES:
-:FUNCTION: 真
 :END:
 
 **** textual witnesses
@@ -2270,13 +2332,11 @@
 :CBETA_ID:  W09n0077
 :CUSTOM_ID: ZB6u0104
 :SOURCE: Buddhist Texts not contained in the Tripitaka Vol. 09, No. 077
-:DYNASTY: 方廣錩
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 方廣
+***** 方廣錩
 :PROPERTIES:
-:FUNCTION: 錩
 :END:
 
 **** textual witnesses
@@ -2299,9 +2359,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2329,9 +2389,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2359,9 +2419,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2389,9 +2449,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2419,9 +2479,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2449,9 +2509,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2479,9 +2539,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2509,9 +2569,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2539,9 +2599,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2569,9 +2629,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2599,9 +2659,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2629,9 +2689,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2659,9 +2719,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2689,9 +2749,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2719,9 +2779,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2749,9 +2809,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2779,9 +2839,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2809,9 +2869,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2839,9 +2899,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2869,9 +2929,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2899,9 +2959,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2929,9 +2989,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2959,9 +3019,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -2989,9 +3049,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3019,9 +3079,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3049,9 +3109,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3079,9 +3139,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3109,9 +3169,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3139,9 +3199,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3169,9 +3229,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3199,9 +3259,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3229,9 +3289,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3259,9 +3319,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3289,9 +3349,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3319,9 +3379,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3349,9 +3409,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3379,9 +3439,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3409,9 +3469,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3439,9 +3499,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3469,9 +3529,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3499,9 +3559,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3529,9 +3589,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3559,9 +3619,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3589,9 +3649,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3610,7 +3670,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6u0149.org][ZB6u0149]]  [[cbeta:I/I01n0052/I01n0052.org][I01n0052]] 比丘道󱭪造像記
+*** [[mandoku:ZB6u0149.org][ZB6u0149]]  [[cbeta:I/I01n0052/I01n0052.org][I01n0052]] 比丘道瓊造像記
 :PROPERTIES: 
 :CBETA_ID:  I01n0052
 :CUSTOM_ID: ZB6u0149
@@ -3619,9 +3679,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3649,9 +3709,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3679,9 +3739,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3709,9 +3769,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3739,9 +3799,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3769,9 +3829,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3799,9 +3859,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3829,9 +3889,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3859,9 +3919,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3889,9 +3949,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3919,9 +3979,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3949,9 +4009,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -3979,9 +4039,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4009,9 +4069,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4039,9 +4099,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4059,9 +4119,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4089,9 +4149,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4119,9 +4179,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4149,9 +4209,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4179,9 +4239,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4209,9 +4269,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4239,9 +4299,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4269,9 +4329,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4299,9 +4359,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4329,9 +4389,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4359,9 +4419,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4389,9 +4449,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4419,9 +4479,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4449,9 +4509,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4479,9 +4539,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4509,9 +4569,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4539,9 +4599,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4569,9 +4629,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4599,9 +4659,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4629,9 +4689,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4659,9 +4719,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4689,9 +4749,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4719,9 +4779,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4749,9 +4809,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4779,9 +4839,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4809,9 +4869,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4839,9 +4899,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4869,9 +4929,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4899,9 +4959,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4929,9 +4989,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4959,9 +5019,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -4989,9 +5049,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5019,9 +5079,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5049,9 +5109,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5079,9 +5139,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5109,9 +5169,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5139,9 +5199,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5169,9 +5229,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5199,9 +5259,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
@@ -5229,9 +5289,9 @@
 :END:
 **** extent: 1卷
 **** responsible: 
-***** 顏娟英主
+***** 顏娟英
 :PROPERTIES:
-:FUNCTION: 編
+:FUNCTION: 主編
 :END:
 
 **** textual witnesses
