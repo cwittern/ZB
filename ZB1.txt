@@ -1,4 +1,4 @@
-#-*- mode: org; -*-
+# -*- mode: mandoku-view; -*-
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：1 經部
 * ZB1 經部
@@ -20,6 +20,7 @@
 
 **** textual witnesses
 ***** WYG
+
 *** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0002

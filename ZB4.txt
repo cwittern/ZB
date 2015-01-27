@@ -1,4 +1,4 @@
-#-*- mode: org; -*-
+# -*- mode: mandoku-view; -*-
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：4 集部
 * ZB4 集部
@@ -454,7 +454,6 @@
       :EXTENT: 2 卷
       :BOOK:   (14)
       :END:
-
 
 *** [[mandoku:ZB4b0016.org][ZB4b0016]] 徐孝穆集箋注
 :PROPERTIES:
