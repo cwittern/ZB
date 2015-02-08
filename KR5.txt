@@ -3,7 +3,7 @@
 
 * ZB5 道部
 ** ZB5a 洞真部
-** CMTS0101	本文類 Scripture
+# ** CMTS0101	本文類 Scripture
 *** [[mandoku:ZB5a0001.org][ZB5a0001]] 靈寶無量度人上品妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0001
@@ -1290,7 +1290,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0102	神符類 Shenfu Sacred Symbols
+# ** CMTS0102	神符類 Shenfu Sacred Symbols
 *** [[mandoku:ZB5a0079.org][ZB5a0079]] 三洞神符記
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0079
@@ -1417,7 +1417,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0103	玉訣類 Yujue Exegeses
+# ** CMTS0103	玉訣類 Yujue Exegeses
 *** [[mandoku:ZB5a0087.org][ZB5a0087]] 元始無量度人上品妙經四註
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0087
@@ -1985,6 +1985,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG 
 *** [[mandoku:ZB5a0115.org][ZB5a0115]] 黃帝陰符經註解
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0115
@@ -2703,7 +2704,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0104	靈圖類 Lingtu Diagrams
+# ** CMTS0104	靈圖類 Lingtu Diagrams
 *** [[mandoku:ZB5a0148.org][ZB5a0148]] 靈寶無量度人上品妙經符圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0148
@@ -3027,7 +3028,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0105	譜錄類 Pulu Annals
+# ** CMTS0105	譜錄類 Pulu Annals
 *** [[mandoku:ZB5a0165.org][ZB5a0165]] 上清三尊譜錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0165
@@ -3295,7 +3296,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0106	戒律類 Jielü Precepts	
+# ** CMTS0106	戒律類 Jielü Precepts	
 *** [[mandoku:ZB5a0178.org][ZB5a0178]] 太上洞真智慧上品大誡
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0178
@@ -3496,7 +3497,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0107	威儀類 Weiyi Solemn Rites
+# ** CMTS0107	威儀類 Weiyi Solemn Rites
 *** [[mandoku:ZB5a0190.org][ZB5a0190]] 太上靈寶朝天謝罪大懺
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0190
@@ -3960,7 +3961,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0108	方法類 Fangfa Techniques	
+# ** CMTS0108	方法類 Fangfa Techniques	
 *** [[mandoku:ZB5a0220.org][ZB5a0220]] 靈寶無量度人上經大法
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0220
@@ -5208,7 +5209,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
+# ** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
 *** [[mandoku:ZB5a0282.org][ZB5a0282]] 破迷正道歌
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0282
@@ -5587,7 +5588,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0110	記傳類 Jizhuan Hagiography 
+# ** CMTS0110	記傳類 Jizhuan Hagiography 
 *** [[mandoku:ZB5a0302.org][ZB5a0302]] 廣黃帝本行記
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0302
@@ -5989,7 +5990,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0111	讚頌類 Zansong Hymns	
+# ** CMTS0111	讚頌類 Zansong Hymns	
 *** [[mandoku:ZB5a0321.org][ZB5a0321]] 諸師真誥
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0321
@@ -6106,7 +6107,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0112	表奏類 Biaozou Memorials	
+# ** CMTS0112	表奏類 Biaozou Memorials	
 *** [[mandoku:ZB5a0327.org][ZB5a0327]] 宋真宗御製玉京集
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0327
@@ -6144,7 +6145,7 @@
 ***** SJB
 ***** ZHDZ
 ** ZB5b 洞玄部
-** CMTS0201	本文類 Scripture
+# ** CMTS0201	本文類 Scripture
 *** [[mandoku:ZB5b0001.org][ZB5b0001]] 靈寶天尊說洪恩靈濟真君妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0001
@@ -7278,7 +7279,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0202	神符類
+# ** CMTS0202	神符類
 *** [[mandoku:ZB5b0072.org][ZB5b0072]] 太上靈寶五符序
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0072
@@ -7428,7 +7429,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0203	玉訣類
+# ** CMTS0203	玉訣類
 *** [[mandoku:ZB5b0080.org][ZB5b0080]] 洞玄靈寶自然九天生神章經解義
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0080
@@ -8010,7 +8011,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0204	靈圖類
+# ** CMTS0204	靈圖類
 *** [[mandoku:ZB5b0113.org][ZB5b0113]] 上清長生寶鑑圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0113
@@ -8236,7 +8237,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0205	譜籙類
+# ** CMTS0205	譜籙類
 *** [[mandoku:ZB5b0126.org][ZB5b0126]] 上清後聖道君列紀
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0126
@@ -8466,7 +8467,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0206	戒律類
+# ** CMTS0206	戒律類
 *** [[mandoku:ZB5b0138.org][ZB5b0138]] 太上洞玄靈寶上品戒經
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0138
@@ -8656,7 +8657,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0207	威儀類
+# ** CMTS0207	威儀類
 *** [[mandoku:ZB5b0149.org][ZB5b0149]] 靈寶領教濟度金書目錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0149
@@ -10284,7 +10285,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0208	方法類
+# ** CMTS0208	方法類
 *** [[mandoku:ZB5b0249.org][ZB5b0249]] 靈寶玉鑑目錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0249
@@ -10737,7 +10738,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0209	眾術類
+# ** CMTS0209	眾術類
 *** [[mandoku:ZB5b0275.org][ZB5b0275]] 靈劍子
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0275
@@ -11102,7 +11103,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0210	記傳類
+# ** CMTS0210	記傳類
 *** [[mandoku:ZB5b0295.org][ZB5b0295]] 道教靈驗記　
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0295
@@ -11427,7 +11428,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0211	讚頌類
+# ** CMTS0211	讚頌類
 *** [[mandoku:ZB5b0312.org][ZB5b0312]] 玉音法事
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0312
@@ -11561,7 +11562,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0212	表奏類
+# ** CMTS0212	表奏類
 *** [[mandoku:ZB5b0320.org][ZB5b0320]] 赤松子章曆
 :PROPERTIES:
 :CUSTOM_ID: ZB5b0320
@@ -11657,7 +11658,7 @@
 ***** SJB
 ***** ZHDZ
 ** ZB5c 洞神部
-** CMTS0301	本文類 Scripture
+# ** CMTS0301	本文類 Scripture
 *** [[mandoku:ZB5c0001.org][ZB5c0001]] 太上老君說常清靜妙經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0001
@@ -12430,6 +12431,25 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** SB SB33n437 文始眞經
+:PROPERTIES:
+:CUSTOM_ID: SB33n437
+:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
+:EXTENT: 三卷
+:END:
+
+坿校勘記一卷
+
+
+****** responsible
+******* 張元濟
+:PROPERTIES:
+:FUNCTION: 撰校勘記
+:DYNASTY: 民國
+:END:  
+	
+***** CA H11-06-0029 文始真經
+
 *** [[mandoku:ZB5c0049.org][ZB5c0049]] 沖虛至德真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0049
@@ -12492,7 +12512,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0302　	神符類			　	　
+# ** CMTS0302　	神符類			　	　
 *** [[mandoku:ZB5c0052.org][ZB5c0052]] 太上無極大道自然真一五稱符上經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0052
@@ -12577,7 +12597,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0303　	玉訣類			　	　
+# ** CMTS0303　	玉訣類			　	　
 *** [[mandoku:ZB5c0057.org][ZB5c0057]] 大明太祖高皇帝御註道德真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0057
@@ -13737,25 +13757,6 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** SB33n437 文始眞經
-:PROPERTIES:
-:EXTENT: 三卷
-:END:
-
-坿校勘記一卷
-
-***** 張元濟
-:PROPERTIES:
-:FUNCTION: 撰校勘記
-:DYNASTY: 民國
-:END:
-
-**** textual witnesses
-***** SBCK
-:PROPERTIES:
-:EDITION: 常熟瞿氏鐵琴銅劍樓藏明刊本
-:END:
-
 *** [[mandoku:ZB5c0113.org][ZB5c0113]] 文始真經註
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0113
@@ -13883,7 +13884,12 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** [[mandoku:ZB3n0014.org][ZB3n0014]] 列子
+*** [[at:text/chant/H11-06-0027/H11-06-0027_001.txt][H11-06-0027]] 列子
+    :PROPERTIES:
+    :CUSTOM_ID:    H11-06-0027
+    :SOURCE: CHANT V44
+    :END:
+*** [[mandoku:ZB3n0014.org][ZB3n0014]] 列子 (晉)張湛 註、(唐)殷敬慎　釋文
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0014
 :SOURCE:   四庫全書 文淵閣版, V1055.15, p573
@@ -13913,7 +13919,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB5c0119.org][ZB5c0119]] 列子沖虛至德真經釋文
+***** DZ [[mandoku:ZB5c0119.org][ZB5c0119]] 列子沖虛至德真經釋文
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0119
 :TTC: 682
@@ -14644,7 +14650,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0304　	靈圖類			　	　
+# ** CMTS0304　	靈圖類			　	　
 *** [[mandoku:ZB5c0151.org][ZB5c0151]] 太上三元飛星冠禁金書玉籙圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0151
@@ -14759,7 +14765,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0305　	譜錄類			　	　
+# ** CMTS0305　	譜錄類			　	　
 *** [[mandoku:ZB5c0157.org][ZB5c0157]] 混元聖紀
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0157
@@ -15078,7 +15084,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0306　	戒律類			　	　
+# ** CMTS0306　	戒律類			　	　
 *** [[mandoku:ZB5c0172.org][ZB5c0172]] 太上老君戒經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0172
@@ -15199,7 +15205,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0307　	威儀類			　	　
+# ** CMTS0307　	威儀類			　	　
 *** [[mandoku:ZB5c0179.org][ZB5c0179]] 正一威儀經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0179
@@ -15637,7 +15643,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0308　	方法類			　	　
+# ** CMTS0308　	方法類			　	　
 *** [[mandoku:ZB5c0205.org][ZB5c0205]] 太清中黃真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0205
@@ -16713,7 +16719,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0309　	眾術類			　	　
+# ** CMTS0309　	眾術類			　	　
 *** [[mandoku:ZB5c0269.org][ZB5c0269]] 太清金液神丹經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0269
@@ -18155,7 +18161,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0310　	記傳類			　	　
+# ** CMTS0310　	記傳類			　	　
 *** [[mandoku:ZB5c0344.org][ZB5c0344]] 太上混元真錄
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0344
@@ -18544,7 +18550,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0311　	讚頌類			　	　
+# ** CMTS0311　	讚頌類			　	　
 *** [[mandoku:ZB5c0364.org][ZB5c0364]] 太上老君說常清靜經頌註
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0364
@@ -18680,7 +18686,7 @@ PROPERROR CH030861 DZ0877a x x 進延壽赤書表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-** CMTS0312　	表奏類			　	　
+# ** CMTS0312　	表奏類			　	　
 *** [[mandoku:ZB5c0371.org][ZB5c0371]] 大明御製玄教樂章
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0371
@@ -21241,6 +21247,11 @@ PROPERROR xx DZ1062 xx 進洞天海嶽表
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** AC [[at:text/chant/H11-06-0028/H11-06-0028_001.txt][H11-06-0028]] 太平經
+:PROPERTIES:
+:SOURCE: CHANT V60
+:CUSTOM_ID: H11-06-0028
+:END:
 *** [[mandoku:ZB5e0002.org][ZB5e0002]] 太平經
 :PROPERTIES:
 :CUSTOM_ID: ZB5e0002
@@ -28195,7 +28206,7 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
        :END:
 ***** textual witnesses
 ****** SJB
-** ZHDZ
+# ** ZHDZ
  CH0860 DZ1488 KX1510 360757a 道藏目錄祥注 ZHDZ00p0000 XWDZ00p0000 HFL　
 
 
@@ -28205,3 +28216,197 @@ PROPERROR xx DZ1222 xx xx 上清靈寳大法目録
  ZHDZ02p0296 xx 上清修行秘訣（擬）
 
  xx xx xx 玉清無極總真文昌大洞仙經序圖(元-衛琪) ZHDZ00p0000 XWDZ03p0743 HFL　
+** ZB5i 清代道教文獻
+# 『道藏輯要』藏外文獻
+*** JY006 元始大洞玉經 Yuanshi dadong yujing :excan:
+*** JY007 洞經示讀 Dongjing shidu :excan:
+*** JY008 元始大洞玉經 Yuanshi dadong yujing :excan:
+*** JY013 元始上帝毘盧遮耶說大洞救劫尊經 Yuanshi shangdi piluzheye shuo dadong jiujie zunjing :excan:
+*** JY045 太上玄元道德經解 Taishang xuanyuan daode jingjie :excan:
+*** JY047 太上道德寶章翼 Taishang daode baozhang yi :excan:
+*** JY052 道德經釋辭 Daodejing shici :excan:
+*** JY054 太上老君說常清靜真經 Taishang laojun shuo changqingjing zhenjing :excan:
+*** JY056 太上道德大天尊說道元一氣經 Taishang daode tianzun shuo daoyuan yiqi jing :excan:
+*** JY074 太上黃庭內景玉經 Taishang huangting neijing yujing :excan:
+*** JY075 黃庭內景經 Huangting neijing jing :excan:
+*** JY076 黃庭外景經 Huanting waijing jing :excan:
+*** JY081 太上感應篇箋注 Taishang ganyingpian jianzhu :excan:
+*** JY082 太上感應篇集注 Taishang ganyingpian jizhu :excan:
+*** JY087 高上玉皇本行集經 Gaoshang yuhuang benxing jijing :excan:
+*** JY090 太上洞玄靈寶紫微金格高上玉皇本行集經闡微 Taishang dongxuan lingbao ziwei jinge gaoshang yuhuang benxing jijing chanwei :excan:
+*** JY091 高上玉皇心印妙經 Gaoshang yuhuang xinyin miaojing :excan:
+*** JY092 終南八祖說心印妙經解 Zhongnan bazu shuo xinyin miao jingjie :excan:
+*** JY093 高上玉皇心印經 Gaoshang yuhuang xinyin jing :excan:
+*** JY094 玉皇心印經 Yuhuang xinyin jing :excan:
+*** JY098 玉清贊化九天演政心印集經  Yuqing zanhua jiutian yanzheng xinyin jijing :excan:
+*** JY099 玉清贊化九天演政心印寶懺 Yuqing zanhua jiutian yanzheng xinyin baochan  :excan:
+*** JY100 先天斗帝敕演無上玄功靈妙真經 Xiantian doudi chiyan wushang xuangong lingmiao zhenjing  :excan:
+*** JY101 九皇斗姥戒殺延生真經 Jiuhuang doumu jiesha yansheng zhenjing :excan:
+*** JY102 觀音大士蓮船經 Guanyin dashi lianchuan jing :excan:
+*** JY109 九皇新經註解 Jiuhuang xinjing zhujie :excan:
+*** JY110 玄宗正旨 Xuanzong zhengzhi :excan:
+*** JY111 浮黎鼻祖金華祕訣 Fulibizu jinhua bijue :excan:
+*** JY113 金碧古文龍虎上經 Jinbi guwen longhu shangjing	          :excan:
+*** JY114 唱道真言 Changdao zhenyan :excan:
+*** JY116 黃帝陰符經 Huangdi yinfu jing :excan:
+*** JY118 黃帝陰符經 Huangdi yinfu jing :excan:
+*** JY120 陰符玄解 Yinfu xuanjie :excan:
+*** JY130 五百靈官爵位姓氏總錄 Wubai lingguan juewei xingshi zonglu :excan:
+*** JY131 玉樞寶經 Yushu baojing :excan:
+*** JY133 南華真經註疏 Nanhua zhenjing zhushu :excan:
+*** JY139 參同契闡幽 Cantong qi chanyou :excan:
+*** JY140 參同契分章註 Cantong qi fenzhang zhu :excan:
+*** JY142 入藥鏡 Ruyao jing :excan:
+*** JY150 銅符鐵券 Tongfu tiequan :excan:
+*** JY152 太上靈寶淨明宗教錄 Taishang lingbao jingming zongjiao lu :excan:
+*** **JY153 化書 Huashu :excan:
+*** JY154 葛仙翁太極沖玄至道心傳 Ge xianweng taiji chongxuan zhidao xinchuan :excan:
+*** JY159 十六品經 Shiliupin jing :excan:
+*** JY160 呂祖本傳 Lüzu benzhuan :excan:
+*** JY161 金華宗旨 Jinhua zongzhi :excan:
+*** JY162 同參經 Tongcan jing :excan:
+*** JY163 五經合編 Wujing hebian :excan:
+*** JY164 呂帝文集 Lüdi wenji :excan:
+*** JY165 呂帝詩集 Lüdi shiji :excan:
+*** JY166 純陽三書 Chunyang sanshu :excan:
+*** JY167 易說 Yishuo :excan:
+*** JY168 語錄大觀 Yulu daguan :excan:
+*** JY169 微言摘要 Weiyan zhaiyao :excan:
+*** JY170 呂帝聖蹟紀要 Lüdi shengji jiyao :excan:
+*** JY171 天仙金丹心法 Tianxian jindan xinfa :excan:
+*** JY172 東園語錄 Dongyuan yulu :excan:
+*** JY178 金丹四百字 Jindan sibaizi :excan:
+*** JY180 悟真篇闡幽 Wuzhenpian chanyou :excan:
+*** JY185 瓊琯白真人集 Qiongguan bai zhenren ji :excan:
+*** JY192 太公陰符經 Taigong yinfu jing :excan:
+*** JY193 五篇靈文 Wupian lingwen :excan:
+*** JY203 孫不二元君法語 Sun bu'er yuanjun fayu :excan:
+*** JY204 孫不二元君傳述丹道祕書三卷 Sun bu'er yuanjun chuanshu dandao bishu sanjuan :excan:
+*** JY208 金液還丹印證圖詩 Jinye huandan yinzheng tushi :excan:
+*** JY231 仙佛合宗語錄 Xianfo hezong yulu :excan:
+*** JY232 天仙正理直論 Tianxian zhengli zhilun :excan:
+*** JY233 天仙正理直論淺說 Tianxian zhengli zhilun qianshuo :excan:
+*** JY234 金丹要訣 Jindan yaojue :excan:
+*** JY235 伍真人丹道九篇 Wu zhenren dandao jiupian :excan:
+*** JY236 張三丰先生全集 Zhang sanfeng xiansheng quanji :excan:
+*** JY241 養真集 Yangzhen ji :excan:
+*** JY243 玉詮 Yuquan :excan:
+*** JY244 真詮 Zhenquan :excan:
+*** JY245 心傳述證錄 Xinchuan shuzheng lu :excan:
+*** JY246 懺法大觀 Chanfa daguan :excan:
+*** JY247 三寶萬靈法懺 Sanbao wanling fachan :excan:
+*** JY249 漢丞相諸葛忠武侯集 Han chengxiang zhuge zhong wuhou ji :excan:
+*** JY250 太極圖說 Taiji tu shuo :excan:
+*** JY251 通書 Tongshu :excan:
+*** JY252 皇極經世書 Huangji jingshi shu :excan:
+*** JY253 擊壤集 Jirang ji :excan:
+*** JY254 文昌帝君本傳 Wenchang dijun benzhuan :excan:
+*** JY256 文帝孝經 Wendi xiaojing :excan:
+*** JY257 元皇大道真君救劫寶經 Yuanhuang dadao zhenjun jiujie baojing :excan:
+*** JY258 文昌延嗣經 Wenchang yansi jing :excan:
+*** JY259 陰騭文註 Yinzhi wen zhu :excan:
+*** JY260 關帝忠孝忠義經/三界伏魔關聖帝君忠孝忠義真經 Guandi zhongxiao zhongyi jing/sanjie fumo guansheng dijun zhongxiao zhongyi zhenjing :excan:
+*** JY261 關聖帝君本傳 Guansheng dijun benzhuan :excan:
+*** JY262 清微宏範道門功課 Qingwei hongfan daomen gongke :excan:
+*** JY263 太上玄門功課經 Taishang xuanmen gongke jing :excan:
+*** *JY264 太上三元賜福赦罪解厄消災延生保命妙經  Taishang sanyuan cifu shezui jie’e xiaozai yansheng baoming miaojing :excan:
+*** JY265 靈寶文檢 Lingbao wenjian :excan:
+*** JY266 心香妙語 Xinxiang miaoyu :excan:
+*** JY267 雅宜集 Yayi ji :excan:
+*** JY278 十戒功過格 Shijie gongguo ge :excan:
+*** JY279 警世功過格 Jingshi gongguo ge :excan:
+*** JY285 三壇圓滿天仙大戒略說 Santan yuanman tianxian dajie lüeshuo :excan:
+*** JY286 初真戒律 Chuzhen jielü :excan:
+*** JY287 中極戒 Zhongji jie :excan:
+*** JY293 二仙菴碑記 Erxian an beiji :excan:
+*** JY294 青羊宮碑記 Qingyang gong beiji :excan:
+*** JY297 華蓋山三仙真經 Huagai shan sanxian zhenjing :excan:
+*** JY308 青城山記 Qingcheng shan ji :excan:
+*** JY309 太上無極大道延壽集福消切寶懺  Taishang wuji dadao yanshou jifu xiaojie baochan :excan:
+*** JY310 天下名山記 Tianxia mingshan ji :excan:
+*** EX001 青玄濟煉鐵貫斛食 Qingxuan jilian tieguan hushi	          :excan:
+*** EX002 太上無極大道三十六部尊經 (啟請科儀) Taishang wuji dadao sanshiliu bu zunjing :excan:
+*** EX003 太上無極太道三十六部尊經註解 Taishang wuji dadao sanshiliu bu zunjing :excan:
+*** EX004 女丹合編 Nudan hebian_nd 	          :excan:
+*** EX005 太上洞玄靈寶玉樞調元應顯尊經 Taishang dongxuan lingbao yushu tiaoyuan yingxian xunjing :excan:
+** ZB5j 敦煌道教文獻
+*** ZH02_025 ZHDZ02p0296 敦煌抄本 上清修行秘訣（擬）
+*** ZH02_033 ZHDZ02p0352 敦煌抄本 紫文行事訣
+*** ZH03_006 ZHDZ03p0063 敦煌抄本 太上洞玄墅賣空洞墅章經
+*** ZH03_021 ZHDZ03p0273 敦煌抄本 太上洞玄靈寶下元黃錄簡文威儀經
+*** ZH03_024 ZHDZ03p0308 敦煌抄本 太上洞玄墅寶真文度人本行妙經
+*** ZH03_026 ZHDZ03p0325 敦煌抄本 太上洞玄墅寶元始無量度人上品妙經
+*** ZH04_010 ZHDZ04p0097 敦煌抄本 太上壼賣威儀洞玄真一自然經訣
+*** ZH04_014 ZHDZ04p0127 敦煌抄本 
+*** ZH04_016 ZHDZ04p0134 敦煌抄本
+*** ZH04_017 ZHDZ04p0136 敦煌抄本
+*** ZH04_029 ZHDZ04p0197 敦煌抄本
+*** ZH04_034 ZHDZ04p0242 敦煌抄本
+*** ZH04_047 ZHDZ04p0304 敦煌抄本
+*** ZH04_049 ZHDZ04p0312 敦煌抄本
+*** ZH04_092 ZHDZ04p0521 敦煌抄本
+*** ZH04_097 ZHDZ04p0652 敦煌抄本
+*** ZH04_099 ZHDZ04p0731 敦煌抄本
+*** ZH05_002 ZHDZ05p0021 敦煌抄本
+*** ZH05_005 ZHDZ05p0076 敦煌抄本
+*** ZH05_007 ZHDZ05p0082 敦煌抄本
+*** ZH05_015 ZHDZ05p0214 敦煌抄本
+*** ZH05_016 ZHDZ05p0267 敦煌抄本
+*** ZH05_027 ZHDZ05p0509 敦煌抄本
+*** ZH05_028 ZHDZ05p0519 敦煌抄本
+*** ZH05_033 ZHDZ05p0601 敦煌抄本
+*** ZH06_013 ZHDZ06p0086 敦煌抄本
+*** ZH06_029 ZHDZ06p0122 敦煌抄本
+*** ZH06_030 ZHDZ06p0125 敦煌抄本
+*** ZH06_031 ZHDZ06p0127 敦煌抄本
+*** ZH07_001 ZHDZ07p0001 敦煌抄本
+*** ZH08_001 ZHDZ08p0001 敦煌抄本
+*** ZH08_010 ZHDZ08p0181 敦煌抄本
+*** ZH08_012 ZHDZ08p0186 敦煌抄本
+*** ZH08_013 ZHDZ08p0207 敦煌抄本
+*** ZH08_034 ZHDZ08p0457 敦煌抄本
+*** ZH08_039 ZHDZ08p0487 敦煌抄本
+*** ZH08_040 ZHDZ08p0490 敦煌抄本
+*** ZH08_056 ZHDZ08p0550 敦煌抄本
+*** ZH08_064 ZHDZ08p0595 敦煌抄本
+*** ZH08_065 ZHDZ08p0597 敦煌抄本
+*** ZH09_003 ZHDZ09p0028 敦煌抄本
+*** ZH09_008 ZHDZ09p0169 敦煌抄本
+*** ZH09_009 ZHDZ09p0185 敦煌抄本
+*** ZH09_012 ZHDZ09p0220 敦煌抄本
+*** ZH09_013 ZHDZ09p0222 敦煌抄本
+*** ZH09_014 ZHDZ09p0228 敦煌抄本
+*** ZH28_002 ZHDZ28p0318 敦煌抄本
+*** ZH28_003 ZHDZ28p0337 敦煌抄本
+*** ZH30_002 ZHDZ30p0084 敦煌抄本
+*** ZH30_004 ZHDZ30p0119 敦煌抄本
+*** ZH30_011 ZHDZ30p0142 敦煌抄本
+*** ZH32_002 ZHDZ32p0037 敦煌抄本 靈棋卜法
+*** ZH42_002 ZHDZ42p0028 敦煌抄本
+*** ZH42_009 ZHDZ42p0089 敦煌抄本
+*** ZH42_030 ZHDZ42p0652 敦煌抄本
+*** ZH43_001 ZHDZ43p0001 敦煌抄本
+*** ZH43_039 ZHDZ43p0710 敦煌抄本
+*** ZH46_019 ZHDZ46p0288 敦煌抄本
+     81:ZH02_006 ZHDZ02p0049 xx	上清河圖內玄經
+    100:ZH02_025 ZHDZ02p0296 xx	
+    108:ZH02_033 ZHDZ02p0352 xx	紫文行事訣
+    112:ZH02_037 ZHDZ02p0392 xx	上清仙府x林經
+    202:ZH03_022 ZHDZ03p0317 xx	太上玄一真人說三途五苦勸誡經
+    203:ZH03_023 ZHDZ03p0322 xx	太上玄一真人說妙通轉神入定經
+    448:ZH08_008 ZHDZ08p0173 xx	太上洞玄寶元上經
+    461:ZH08_021 ZHDZ08p0371 xx	正一法文傳都功威儀
+    511:ZH09_011 ZHDZ09p0468 xx	道經異同字
+    512:ZH09_012 ZHDZ09p0480 xx	德經異同字
+    517:ZH09_017 ZHDZ09p0834 xx	唐玄宗御製道德真經疏(二)(唐玄宗)
+    526:ZH10_009 ZHDZ10p0512 xx	道德真經藏室纂微手鈔(元-薜致玄)
+    548:ZH12_008 ZHDZ12p0530 xx	道德會元(元-李道純)
+    566:ZH14_004 ZHDZ14p0850 xx	莊子翼附錄(明-焦竤)
+    617:ZH17_002 ZHDZ17p0022 xx	易象圖說外篇(元-張理)
+    678:ZH18_057 ZHDZ18p0461 xx	金華沖碧丹經秘旨(宋-白玉蟾)
+    823:ZH20_008 ZHDZ20p0659 xx	黃帝八十一難經纂圖句解
+   1082:ZH31_030 ZHDZ31p0491 xx	太上靈寶淨明飛仙度人經法釋例(晉-許遜)
+   1091:ZH31_039 ZHDZ31p0520 xx	太極祭煉內法議略(宋-鄭思肯)
+   1176:ZH32_058 ZHDZ32p0670 xx	太上三元飛星冠禁金書玉籙圖
+   1346:ZH44_064 ZHDZ44p0612 xx	大明御製玄教樂章
+   1390:ZH46_026 ZHDZ46p0387 xx	地衹上將溫太保傳補遺(蕭公瑾)

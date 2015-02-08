@@ -149,7 +149,7 @@
       :BOOK:   (7)
       :END:
 
-** ZB4b 別集類
+** ZB4b 別集類-漢六朝
 *** [[mandoku:ZB4b0001.org][ZB4b0001]] 揚子雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0001
@@ -513,7 +513,7 @@
        :DYNASTY:  清
        :FUNCTION: 注
        :END:
-
+** ZB4c 別集類-唐
 *** [[mandoku:ZB4b0017.org][ZB4b0017]] 東臯子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0017
@@ -3028,6 +3028,7 @@
 
 **** textual witnesses
 ***** WYG
+** ZB4d 別集類-宋
 *** [[mandoku:ZB4b0112.org][ZB4b0112]] 騎省集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0112
@@ -15317,6 +15318,7 @@
 
 **** textual witnesses
 ***** WYG
+** ZB4e 別集類-明
 *** [[mandoku:ZB4b0683.org][ZB4b0683]] 明太祖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0683
@@ -20345,6 +20347,7 @@
 
 **** textual witnesses
 ***** WYG
+** ZB4f 別集類-清
 *** [[mandoku:ZB4b0921.org][ZB4b0921]] 聖祖仁皇帝御製文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0921
@@ -21565,7 +21568,8 @@
 **** responsible: 呂祖謙
 **** textual witnesses
 ***** WYG
-** ZB4c 總集類
+** ZB4g 別集類-近
+** ZB4h 總集類
 *** [[at:text/chant/H12-10-0046/H12-10-0046_001.txt][H12-10-0046]] 文選
 
 **** responsible:
@@ -25197,7 +25201,7 @@
 
 **** textual witnesses
 ***** WYG
-** ZB4d 詩文評類
+** ZB4i 詩文評類
 *** [[mandoku:ZB4d/ZB4d0001/ZB4d0001.org][ZB4d0001]] 文心雕龍
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0001
@@ -26342,7 +26346,7 @@
 
 **** textual witnesses
 ***** WYG
-** ZB4e 詞曲類
+** ZB4j 詞曲類
 *** [[mandoku:ZB4e0001.org][ZB4e0001]] 珠玉詞
 :PROPERTIES:
 :CUSTOM_ID:  ZB4e0001
