@@ -6143,7 +6143,7 @@
 [[dzimg:0164/0164-004.tif][HFL 0164 004]]
 **** textual witnesses
 ***** SJB
-***** ZHDZ
+
 ** KR5b ZB5b 洞玄部
 # ** CMTS0201	本文類 Scripture
 *** KR5b0001 [[mandoku:ZB5b0001.org][ZB5b0001]] 靈寶天尊說洪恩靈濟真君妙經
@@ -14220,6 +14220,7 @@
       :PROPERTIES:
       :HAO:      默希子
       :FUNCTION: 注
+      :DYNASTY:  唐
       :END:
 **** textual witnesses
 ***** SJB
@@ -14237,14 +14238,8 @@
 :FUNCTION: 撰校勘記
 :DYNASTY: 民國
 :END:
+***** DUMMY
 
-
-**** responsible:
-***** 徐靈府
-:PROPERTIES:
-:FUNCTION: 注
-:DYNASTY: 唐
-:END:
 
 *** KR5c0136 [[mandoku:ZB5c0133.org][ZB5c0133]] 洞靈真經
 :PROPERTIES:
