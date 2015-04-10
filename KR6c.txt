@@ -4201,6 +4201,19 @@
 :WITID: wit99
 :END:
 
+*** T57n2201 金剛般若波羅蜜經開題
+:PROPERTIES:
+:CBETA_ID: T57n2201
+:lang@ja-rom: KONGŌHANNYAHARAMITSUKYŌ KAIDAI
+:lang@zh-py: (Jin gang ban ruo bo luo mi jing kai ti)
+:EXTENT: I
+:END:
+[[img:T/T57/00/T57-0001.tif][T57, p. 1]]
+**** responsible
+***** 空海
+:PROPERTIES:
+:lang@ja-rom: Kūkai
+:END:
 *** [[mandoku:ZB6c0101.org][ZB6c0101]]  [[cbeta:T/T40n1816/T40n1816.org][T40n1816]] 金剛般若論會釋
 :PROPERTIES: 
 :CBETA_ID:  T40n1816
@@ -4738,6 +4751,72 @@
 :WITID: wit15
 :END:
 
+*** T61n2236A 理趣經開題
+:PROPERTIES:
+:CBETA_ID: T61n2236A
+:lang@ja-rom: RISHUKYŌ KAIDAI
+:lang@zh-py: (Li qu jing kai ti)
+:EXTENT: I
+:END:
+[[img:T/T61/06/T61-0611.tif][T61, p.611]]
+**** responsible
+***** 空海
+:PROPERTIES:
+:lang@ja-rom: Kūkai
+:END:
+**** T61n2236B 理趣經開題
+:PROPERTIES:
+:CBETA_ID: T61n2236B
+:lang@ja-rom: RISHUKYŌ KAIDAI
+:lang@zh-py: (Li qu jing kai ti)
+:END:
+[[img:T/T61/06/T61-0611.tif][T61, p.611]]
+**** T61n2236C 理趣經開題
+:PROPERTIES:
+:CBETA_ID: T61n2236C
+:lang@ja-rom: RISHUKYŌ KAIDAI
+:lang@zh-py: (Li qu jing kai ti)
+:END:
+[[img:T/T61/06/T61-0612.tif][T61, p.612]]
+*** T61n2237 眞實經文句
+:PROPERTIES:
+:CBETA_ID: T61n2237
+:lang@ja-rom: SHINJITSUKYŌ MONGU
+:lang@zh-py: (Zhen shi jing wen ju)
+:EXTENT: I
+:END:
+[[img:T/T61/06/T61-0612.tif][T61, p.612]]
+**** responsible
+***** 空海
+:PROPERTIES:
+:lang@ja-rom: Kūkai
+:END:
+*** T61n2238 理趣經種子釋
+:PROPERTIES:
+:CBETA_ID: T61n2238
+:lang@ja-rom: RISHUKYŌ SHŪJI SHAKU
+:lang@zh-py: (Li qu jing zhong zi shi)
+:EXTENT: I
+:END:
+[[img:T/T61/06/T61-0615.tif][T61, p.615]]
+**** responsible
+***** 覺鑁
+:PROPERTIES:
+:lang@ja-rom: Kakuban
+:END:
+*** T61n2239 大樂經顯義抄
+:PROPERTIES:
+:CBETA_ID: T61n2239
+:lang@ja-rom: DAIRAKKYŌ KENGI SHŌ
+:lang@zh-py: (Da le jing xian yi chao)
+:EXTENT: III
+:END:
+[[img:T/T61/06/T61-0617.tif][T61, p.617]]
+**** responsible
+***** 濟暹
+:PROPERTIES:
+:lang@ja-rom: Saisen
+:END:
 *** [[mandoku:ZB6c0120.org][ZB6c0120]]  [[cbeta:T/T08n0244/T08n0244.org][T08n0244]] 佛說最上根本大樂金剛不空三昧大教王經
 :PROPERTIES: 
 :CBETA_ID:  T08n0244
@@ -6588,6 +6667,19 @@
 :WITID: wit99
 :END:
 
+*** T57n2202 般若心經述義
+:PROPERTIES:
+:CBETA_ID: T57n2202
+:lang@ja-rom: HANNYASHINGYŌ JUTSUGI
+:lang@zh-py: (Pan ruo xin jing shu yi)
+:EXTENT: I
+:END:
+[[img:T/T57/00/T57-0003.tif][T57, p. 3]]
+**** responsible
+***** 智光
+:PROPERTIES:
+:lang@ja-rom: Chikō
+:END:
 *** [[mandoku:ZB6c0191.org][ZB6c0191]]  [[cbeta:T/T85n2746/T85n2746.org][T85n2746]] 般若波羅蜜多心經還源述
 :PROPERTIES: 
 :CBETA_ID:  T85n2746
@@ -6616,6 +6708,45 @@
 :WITID: wit1
 :END:
 
+*** T57n2203A 般若心經祕鍵
+:PROPERTIES:
+:CBETA_ID: T57n2203A
+:lang@ja-rom: HANNYASHINGYŌ HIKEN
+:lang@zh-py: (Pan ruo xin jing mi jian)
+:EXTENT: I
+:END:
+[[img:T/T57/00/T57-0011.tif][T57, p. 11]]
+**** responsible
+***** 空海
+:PROPERTIES:
+:lang@ja-rom: Kūkai
+:END:
+*** T57n2203B 般若心經祕鍵略註
+:PROPERTIES:
+:CBETA_ID: T57n2203B
+:lang@ja-rom: HANNYASHINGYŌ HIKEN RYAKUCHŪ
+:lang@zh-py: (Pan ruo xin jing mi jian lüe zhu)
+:EXTENT: I
+:END:
+[[img:T/T57/00/T57-0013.tif][T57, p. 13]]
+**** responsible
+***** 覺鑁
+:PROPERTIES:
+:lang@ja-rom: Kakuban
+:END:
+*** T57n2204 般若心經祕鍵開門訣
+:PROPERTIES:
+:CBETA_ID: T57n2204
+:lang@ja-rom: HANNYASHINGYŌ HIKENKAIMON KETSU
+:lang@zh-py: (Pan ruo xin jing mi jian kai men jue)
+:EXTENT: III
+:END:
+[[img:T/T57/00/T57-0018.tif][T57, p. 18]]
+**** responsible
+***** 濟暹
+:PROPERTIES:
+:lang@ja-rom: Saisen
+:END:
 *** [[mandoku:ZB6c0193.org][ZB6c0193]]  [[cbeta:T/T08n0245/T08n0245.org][T08n0245]] 佛說仁王般若波羅蜜經
 :PROPERTIES: 
 :CBETA_ID:  T08n0245
@@ -7111,6 +7242,19 @@
 :WITID: wit1
 :END:
 
+*** T56n2200 仁王經開題
+:PROPERTIES:
+:CBETA_ID: T56n2200
+:lang@ja-rom: NINNŌGYŌ KAIDAI
+:lang@zh-py: (Ren wang jing kai ti)
+:EXTENT: I
+:END:
+[[img:T/T56/08/T56-0827.tif][T56, p.827]]
+**** responsible
+***** 空海
+:PROPERTIES:
+:lang@ja-rom: Kūkai
+:END:
 *** [[mandoku:ZB6c0209.org][ZB6c0209]]  [[cbeta:T/T08n0230/T08n0230.org][T08n0230]] 聖八千頌般若波羅蜜多一百八名真實圓義陀羅尼經
 :PROPERTIES: 
 :CBETA_ID:  T08n0230

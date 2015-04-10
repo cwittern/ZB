@@ -55,6 +55,19 @@
 :WITID: wit13
 :END:
 
+*** T65n2256 中觀論二十七品別釋
+:PROPERTIES:
+:CBETA_ID: T65n2256
+:lang@ja-rom: CHŪGAN RON NIJŪSHICHIHON BESSHAKU
+:lang@zh-py: (Zhong guan lun er shi qi pin bie shi)
+:EXTENT: I
+:END:
+[[img:T/T65/02/T65-0248.tif][T65, p.248]]
+**** responsible
+***** 快憲
+:PROPERTIES:
+:lang@ja-rom: Kaiken
+:END:
 *** [[mandoku:ZB6m0002.org][ZB6m0002]]  [[cbeta:T/T30n1565/T30n1565.org][T30n1565]] 順中論
 :PROPERTIES: 
 :CBETA_ID:  T30n1565
@@ -270,6 +283,19 @@
 :WITID: wit4
 :END:
 
+*** T65n2255 中論疏記
+:PROPERTIES:
+:CBETA_ID: T65n2255
+:lang@ja-rom: CHŪRONSHO KI
+:lang@zh-py: (Zhong lun shu ji)
+:EXTENT: VIII
+:END:
+[[img:T/T65/00/T65-0001.tif][T65, p. 1]]
+**** responsible
+***** 安澄
+:PROPERTIES:
+:lang@ja-rom: Anchō
+:END:
 *** [[mandoku:ZB6m0007.org][ZB6m0007]]  [[cbeta:T/T30n1568/T30n1568.org][T30n1568]] 十二門論
 :PROPERTIES: 
 :CBETA_ID:  T30n1568
@@ -380,6 +406,19 @@
 :WITID: wit49
 :END:
 
+*** T65n2257 十二門論疏聞思記
+:PROPERTIES:
+:CBETA_ID: T65n2257
+:lang@ja-rom: JŪNIMON RON SHO MONSHI KI
+:lang@zh-py: (Shi er men lun shu wen si ji)
+:EXTENT: I
+:END:
+[[img:T/T65/02/T65-0257.tif][T65, p.257]]
+**** responsible
+***** 藏海
+:PROPERTIES:
+:lang@ja-rom: Zōkai
+:END:
 *** [[mandoku:ZB6m0010.org][ZB6m0010]]  [[cbeta:T/T30n1569/T30n1569.org][T30n1569]] 百論
 :PROPERTIES: 
 :CBETA_ID:  T30n1569
@@ -930,6 +969,14 @@
 :WITID: wit25
 :END:
 
+*** T65n2258 掌珍量†
+:PROPERTIES:
+:CBETA_ID: T65n2258
+:lang@ja-rom: SHŌCHIN RYŌDŌ
+:lang@zh-py: (zhang zhen liang dao)
+:EXTENT: I
+:END:
+[[img:T/T65/02/T65-0266.tif][T65, p.266]]
 *** [[mandoku:ZB6m0022.org][ZB6m0022]]  [[cbeta:X/X46n0788/X46n0788.org][X46n0788]] 掌珍論疏
 :PROPERTIES: 
 :CBETA_ID:  X46n0788
@@ -984,6 +1031,58 @@
 :WITID: wit6
 :END:
 
+*** T70n2299 三論玄疏文義要
+:PROPERTIES:
+:CBETA_ID: T70n2299
+:lang@ja-rom: SANRON GENSHO MONGI YŌ
+:lang@zh-py: (San lun xuan shu wen yi yao)
+:EXTENT: X
+:END:
+[[img:T/T70/01/T70-0199.tif][T70, p.199]]
+**** responsible
+***** 珍海
+:PROPERTIES:
+:lang@ja-rom: Chinkai
+:END:
+*** T70n2300 三論玄義檢幽集
+:PROPERTIES:
+:CBETA_ID: T70n2300
+:lang@ja-rom: SANRONGENGI KENNYŪ SHŪ
+:lang@zh-py: (San lun xuan yi jian you ji)
+:EXTENT: VII
+:END:
+[[img:T/T70/03/T70-0379.tif][T70, p.379]]
+**** responsible
+***** 澄禪
+:PROPERTIES:
+:lang@ja-rom: Chōzen
+:END:
+*** T70n2301 三論玄義鈔
+:PROPERTIES:
+:CBETA_ID: T70n2301
+:lang@ja-rom: SANRONGENGI SHŌ
+:lang@zh-py: (San lun xuan yi chao)
+:EXTENT: III
+:END:
+[[img:T/T70/04/T70-0499.tif][T70, p.499]]
+**** responsible
+***** 貞海
+:PROPERTIES:
+:lang@ja-rom: Jōkai
+:END:
+*** T70n2302 三論玄義誘蒙
+:PROPERTIES:
+:CBETA_ID: T70n2302
+:lang@ja-rom: SANRON GENGI YŪMŌ
+:lang@zh-py: (San lun xuan yi you meng)
+:EXTENT: III
+:END:
+[[img:T/T70/05/T70-0532.tif][T70, p.532]]
+**** responsible
+***** 聞證
+:PROPERTIES:
+:lang@ja-rom: Monshō
+:END:
 *** [[mandoku:ZB6m0024.org][ZB6m0024]]  [[cbeta:T/T45n1853/T45n1853.org][T45n1853]] 大乘玄論
 :PROPERTIES: 
 :CBETA_ID:  T45n1853
@@ -1014,6 +1113,32 @@
 :WITID: wit6
 :END:
 
+*** T70n2303 大乘玄問答
+:PROPERTIES:
+:CBETA_ID: T70n2303
+:lang@ja-rom: DAIJŌGEM MONDŌ
+:lang@zh-py: (Da cheng xuan wen da)
+:EXTENT: XII
+:END:
+[[img:T/T70/05/T70-0569.tif][T70, p.569]]
+**** responsible
+***** 珍海
+:PROPERTIES:
+:lang@ja-rom: Chinkai
+:END:
+*** T70n2304 一乘義私記
+:PROPERTIES:
+:CBETA_ID: T70n2304
+:lang@ja-rom: ICHIJŌGI SHIKI
+:lang@zh-py: (Yi sheng yi si ji)
+:EXTENT: I
+:END:
+[[img:T/T70/06/T70-0637.tif][T70, p.637]]
+**** responsible
+***** 珍海
+:PROPERTIES:
+:lang@ja-rom: Chinkai
+:END:
 *** [[mandoku:ZB6m0025.org][ZB6m0025]]  [[cbeta:T/T45n1854/T45n1854.org][T45n1854]] 二諦義
 :PROPERTIES: 
 :CBETA_ID:  T45n1854
