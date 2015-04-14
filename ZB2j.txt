@@ -1,0 +1,43 @@
+#-*- mode: org; -*-
+#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+** ZB2j 時令類
+*** [[mandoku:ZB2j0001.org][ZB2j0001]] 歲時廣記
+:PROPERTIES:
+:CUSTOM_ID:  ZB2j0001
+:SOURCE:   四庫全書 文淵閣版, V467.1, p1
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+**** responsible:
+***** 陳元靚
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** [[mandoku:ZB2j0002.org][ZB2j0002]] 御定月令輯要
+:PROPERTIES:
+:CUSTOM_ID:  ZB2j0002
+:SOURCE:   四庫全書 文淵閣版, V467.2, p39
+:EXTENT: 24 卷
+:BOOK:   18
+:END:
+**** responsible:
+***** 李光地
+      :PROPERTIES:
+      :DYNASTY:  清
+      :FUNCTION: 奉敕撰
+      :DATES:    1642 - 1718
+      :END:
+
+**** textual witnesses
+***** WYG
+**** 卷首:圖說
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (18)
+      :END:
+
