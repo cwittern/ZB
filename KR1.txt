@@ -1,6 +1,7 @@
 #-*- mode: org; -*-
 #+DATE: 2013-09-05
 #+TITLE: 漢籍リポジトリ目録：1 經部
+#+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
 * ZB1 經部
 ** ZB1a 易類
 *** [[at:text/chant/H15-23-0084/H15-23-0084_001.txt][H15-23-0084]] 周易
@@ -5890,6 +5891,10 @@
 **** textual witnesses
 ***** WYG
 ** ZB1d 禮類
+   :PROPERTIES:
+   :COLUMNS:  %25ITEM %EXTENT %CUSTOM_ID
+   :END:
+
 *** [[at:text/chant/H15-26-0092/H15-26-0092_001.txt][H15-26-0092]] 周禮
 
 *** [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
