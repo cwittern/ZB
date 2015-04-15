@@ -3,11 +3,13 @@
 *** [[mandoku:ZB6n0001.org][ZB6n0001]]  [[cbeta:T/T30n1579/T30n1579.org][T30n1579]] 瑜伽師地論
 :PROPERTIES: 
 :CBETA_ID:  T30n1579
+:RELATED: T30n1580@論, T30n1581@論, T30n1582@論, T30n1583@論, T30n1584@論, T42n1828@疏, T43n1829@疏, T85n2801@古逸, T85n2802@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0001
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1579
 :DYNASTY: 唐
+:EXTENT:  100卷
 :END:
-**** extent: 100卷
 **** responsible: 
 ***** 彌勒菩薩
 :PROPERTIES:
@@ -88,11 +90,13 @@
 *** [[mandoku:ZB6n0002.org][ZB6n0002]]  [[cbeta:T/T30n1580/T30n1580.org][T30n1580]] 瑜伽師地論釋
 :PROPERTIES: 
 :CBETA_ID:  T30n1580
+:RELATED: T30n1579@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0002
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1580
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 最勝子
 :PROPERTIES:
@@ -138,11 +142,13 @@
 *** [[mandoku:ZB6n0003.org][ZB6n0003]]  [[cbeta:T/T30n1581/T30n1581.org][T30n1581]] 菩薩地持經
 :PROPERTIES: 
 :CBETA_ID:  T30n1581
+:RELATED: T30n1579-1.15@論, T30n1582@論, T85n2803@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0003
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1581
 :DYNASTY: 北涼
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 曇無讖
 :PROPERTIES:
@@ -203,11 +209,13 @@
 *** [[mandoku:ZB6n0004.org][ZB6n0004]]  [[cbeta:T/T30n1582/T30n1582.org][T30n1582]] 菩薩善戒經
 :PROPERTIES: 
 :CBETA_ID:  T30n1582
+:RELATED: T30n1579-1.15@論, T30n1581@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0004
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1582
 :DYNASTY: 劉宋
+:EXTENT:  9卷
 :END:
-**** extent: 9卷
 **** responsible: 
 ***** 求那跋摩
 :PROPERTIES:
@@ -248,11 +256,13 @@
 *** [[mandoku:ZB6n0005.org][ZB6n0005]]  [[cbeta:T/T30n1583/T30n1583.org][T30n1583]] 菩薩善戒經
 :PROPERTIES: 
 :CBETA_ID:  T30n1583
+:RELATED: T24n1499@律, T24n1500@律, T24n1501@律, T30n1579-1.15@論, T30n1581-10@論, T30n1582-11@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0005
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1583
 :DYNASTY: 劉宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 求那跋摩
 :PROPERTIES:
@@ -293,11 +303,13 @@
 *** [[mandoku:ZB6n0006.org][ZB6n0006]]  [[cbeta:T/T30n1584/T30n1584.org][T30n1584]] 決定藏論
 :PROPERTIES: 
 :CBETA_ID:  T30n1584
+:RELATED: T30n1579-2.1@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0006
 :SOURCE: Taisho Tripitaka Vol. 30, No. 1584
 :DYNASTY: 梁
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 真諦
 :PROPERTIES:
@@ -338,11 +350,13 @@
 *** [[mandoku:ZB6n0007.org][ZB6n0007]]  [[cbeta:T/T42n1828/T42n1828.org][T42n1828]] 瑜伽論記
 :PROPERTIES: 
 :CBETA_ID:  T42n1828
+:RELATED: T30n1579@論, T43n1829@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0007
 :SOURCE: Taisho Tripitaka Vol. 42, No. 1828
 :DYNASTY: 唐
+:EXTENT:  24卷
 :END:
-**** extent: 24卷
 **** responsible: 
 ***** 遁倫
 :PROPERTIES:
@@ -388,11 +402,13 @@
 *** [[mandoku:ZB6n0008.org][ZB6n0008]]  [[cbeta:T/T43n1829/T43n1829.org][T43n1829]] 瑜伽師地論略纂
 :PROPERTIES: 
 :CBETA_ID:  T43n1829
+:RELATED: T30n1579@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0008
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1829
 :DYNASTY: 唐
+:EXTENT:  16卷
 :END:
-**** extent: 16卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -428,11 +444,13 @@
 *** [[mandoku:ZB6n0009.org][ZB6n0009]]  [[cbeta:T/T85n2801/T85n2801.org][T85n2801]] 瑜伽師地論分門記
 :PROPERTIES: 
 :CBETA_ID:  T85n2801
+:RELATED: T30n1579@論
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0009
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2801
 :DYNASTY: 唐
+:EXTENT:  6卷
 :END:
-**** extent: 6卷
 **** responsible: 
 ***** 法成
 :PROPERTIES:
@@ -467,11 +485,12 @@
 *** [[mandoku:ZB6n0010.org][ZB6n0010]]  [[cbeta:T/T85n2802/T85n2802.org][T85n2802]] 瑜伽論手記
 :PROPERTIES: 
 :CBETA_ID:  T85n2802
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0010
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2802
 :DYNASTY: 唐
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 法成
 :PROPERTIES:
@@ -491,6 +510,8 @@
 *** T65n2259 瑜伽論問答
 :PROPERTIES:
 :CBETA_ID: T65n2259
+:RELATED: T30n1579@論
+:GENRE: 疏
 :lang@ja-rom: YUGA ROM MONDŌ
 :lang@zh-py: (Yu qie lun wen da)
 :EXTENT: VII
@@ -504,10 +525,12 @@
 *** [[mandoku:ZB6n0011.org][ZB6n0011]]  [[cbeta:T/T85n2803/T85n2803.org][T85n2803]] 地持義記卷第四
 :PROPERTIES: 
 :CBETA_ID:  T85n2803
+:RELATED: T30n1581@論
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0011
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2803
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -518,11 +541,12 @@
 *** [[mandoku:ZB6n0012.org][ZB6n0012]]  [[cbeta:X/X39n0704/X39n0704.org][X39n0704]] 地持論義記
 :PROPERTIES: 
 :CBETA_ID:  X39n0704
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0012
 :SOURCE: 卍 Xuzangjing Vol. 39, No. 704
 :DYNASTY: 隋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 慧遠
 :PROPERTIES:
@@ -543,11 +567,12 @@
 *** [[mandoku:ZB6n0013.org][ZB6n0013]]  [[cbeta:X/X47n0794/X47n0794.org][X47n0794]] 瑜伽論劫章頌
 :PROPERTIES: 
 :CBETA_ID:  X47n0794
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0013
 :SOURCE: 卍 Xuzangjing Vol. 47, No. 794
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -566,8 +591,8 @@
 :CUSTOM_ID: ZB6n0014
 :SOURCE: Jin Edition of the Canon Vol. 120, No. 1565
 :DYNASTY: 唐
+:EXTENT:  18卷
 :END:
-**** extent: 18卷
 **** responsible: 
 ***** 清素
 :PROPERTIES:
@@ -595,8 +620,8 @@
 :CUSTOM_ID: ZB6n0014
 :SOURCE: Jin Edition of the Canon Vol. 121, No. 1565
 :DYNASTY: 唐
+:EXTENT:  5卷
 :END:
-**** extent: 5卷
 **** responsible: 
 ***** 清素
 :PROPERTIES:
@@ -621,11 +646,13 @@
 *** [[mandoku:ZB6n0015.org][ZB6n0015]]  [[cbeta:T/T31n1585/T31n1585.org][T31n1585]] 成唯識論
 :PROPERTIES: 
 :CBETA_ID:  T31n1585
+:RELATED: T31n1586@論, T31n1587@論, T43n1830@疏, T43n1831@疏, T43n1832@疏, T43n1833@疏, T65n2262@疏, T66n2263@疏, T66n2264@疏, T66n2265@疏, T67n2266@疏, T68n2267@疏, T85n2804@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0015
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1585
 :DYNASTY: 唐
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 護法菩薩
 :PROPERTIES:
@@ -691,6 +718,8 @@
 *** T65n2262 成唯識論本文抄
 :PROPERTIES:
 :CBETA_ID: T65n2262
+:RELATED: T31n1585@論, T66n2263@疏, T66n2264@疏, T66n2265@疏, T68n2267@疏
+:GENRE: 疏
 :lang@ja-rom: JŌYUISHIKIRON HOMMON　SHŌ
 :lang@zh-py: (Cheng wei zhi lun ben wen chao)
 :EXTENT: XLV
@@ -699,6 +728,8 @@
 *** T66n2263 唯識論同學鈔
 :PROPERTIES:
 :CBETA_ID: T66n2263
+:RELATED: T31n1585@論, T65n2262@疏, T66n2264@疏, T66n2265@疏, T68n2267@疏
+:GENRE: 疏
 :lang@ja-rom: YUISHIKIRON DŌGAKUSHŌ
 :lang@zh-py: (Wei zhi lun tong xue chao)
 :EXTENT: LXVIII
@@ -712,6 +743,8 @@
 *** T66n2264 唯識論聞書
 :PROPERTIES:
 :CBETA_ID: T66n2264
+:RELATED: T31n1585@論, T65n2261@疏, T65n2262@疏, T66n2265@疏, T68n2267@疏
+:GENRE: 疏
 :lang@ja-rom: YUISHIKIRON KIKIGAKI
 :lang@zh-py: (Wei zhi lun wen shu)
 :EXTENT: XXVII
@@ -725,6 +758,8 @@
 *** T66n2265 唯識訓論日記
 :PROPERTIES:
 :CBETA_ID: T66n2265
+:RELATED: T31n1585@論, T65n2262@疏, T66n2263@疏, T66n2264@疏, T68n2267@疏
+:GENRE: 疏
 :lang@ja-rom: YUISHIKI KUNRON NIKI
 :lang@zh-py: (Wei zhi xun lun ri ji)
 :EXTENT: I
@@ -738,6 +773,8 @@
 *** T68n2267 成唯識論略疏
 :PROPERTIES:
 :CBETA_ID: T68n2267
+:RELATED: T31n1585@論, T65n2262@疏, T66n2263@疏, T66n2264@疏, T66n2265@疏
+:GENRE: 疏
 :lang@ja-rom: JŌYUISHIKIRON RYAKUSHO
 :lang@zh-py: (Cheng wei zhi lun lüe shu)
 :EXTENT: VI
@@ -751,11 +788,13 @@
 *** [[mandoku:ZB6n0016.org][ZB6n0016]]  [[cbeta:T/T31n1586/T31n1586.org][T31n1586]] 唯識三十論頌
 :PROPERTIES: 
 :CBETA_ID:  T31n1586
+:RELATED: T31n1585@論, T31n1587@論, T68n2268@疏, T85n2804@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0016
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1586
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -801,6 +840,8 @@
 *** T68n2268 注三十頌
 :PROPERTIES:
 :CBETA_ID: T68n2268
+:RELATED: T31n1586@論
+:GENRE: 疏
 :lang@ja-rom: CHŪ SANJŪJU
 :lang@zh-py: (Zhu san shi song)
 :EXTENT: I
@@ -814,11 +855,13 @@
 *** [[mandoku:ZB6n0017.org][ZB6n0017]]  [[cbeta:T/T31n1587/T31n1587.org][T31n1587]] 轉識論
 :PROPERTIES: 
 :CBETA_ID:  T31n1587
+:RELATED: T31n1585@論, T31n1586@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0017
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1587
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 真諦
 :PROPERTIES:
@@ -864,11 +907,12 @@
 *** [[mandoku:ZB6n0018.org][ZB6n0018]]  [[cbeta:T/T31n1618/T31n1618.org][T31n1618]] 顯識論
 :PROPERTIES: 
 :CBETA_ID:  T31n1618
+:GENRE: 論
 :CUSTOM_ID: ZB6n0018
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1618
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 真諦
 :PROPERTIES:
@@ -909,11 +953,13 @@
 *** [[mandoku:ZB6n0019.org][ZB6n0019]]  [[cbeta:T/T43n1830/T43n1830.org][T43n1830]] 成唯識論述記
 :PROPERTIES: 
 :CBETA_ID:  T43n1830
+:RELATED: T31n1585@論, T43n1832@疏, T43n1833@疏, T65n2260@疏, T67n2266@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0019
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1830
 :DYNASTY: 唐
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -974,6 +1020,8 @@
 *** T65n2260 成唯識論述記序釋
 :PROPERTIES:
 :CBETA_ID: T65n2260
+:RELATED: T43n1830@疏
+:GENRE: 疏
 :lang@ja-rom: JŌYUISHIKIRONJUKKI JOSHAKU
 :lang@zh-py: (Cheng wei zhi lun shu ji xu shi)
 :EXTENT: I
@@ -987,6 +1035,8 @@
 *** T67n2266 成唯識論述記集成編
 :PROPERTIES:
 :CBETA_ID: T67n2266
+:RELATED: T43n1830@疏
+:GENRE: 疏
 :lang@ja-rom: JŌYUISHIKIRONJUKKI JUJŌ　HEN
 :lang@zh-py: (Cheng wei zhi lun shu ji ji cheng bian)
 :EXTENT: XLV
@@ -1000,11 +1050,13 @@
 *** [[mandoku:ZB6n0020.org][ZB6n0020]]  [[cbeta:T/T43n1831/T43n1831.org][T43n1831]] 成唯識論掌中樞要
 :PROPERTIES: 
 :CBETA_ID:  T43n1831
+:RELATED: T31n1585@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0020
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1831
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -1050,11 +1102,13 @@
 *** [[mandoku:ZB6n0021.org][ZB6n0021]]  [[cbeta:T/T43n1832/T43n1832.org][T43n1832]] 成唯識論了義燈
 :PROPERTIES: 
 :CBETA_ID:  T43n1832
+:RELATED: T31n1585@論, T43n1830@疏, T65n2261@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0021
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1832
 :DYNASTY: 唐
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 惠沼
 :PROPERTIES:
@@ -1095,6 +1149,8 @@
 *** T65n2261 唯識義燈増明記
 :PROPERTIES:
 :CBETA_ID: T65n2261
+:RELATED: T43n1832@疏
+:GENRE: 疏
 :lang@ja-rom: YUISHIKI GITŌ ZŌMYŌ KI
 :lang@zh-py: (Wei zhi yi deng zeng ming ji)
 :EXTENT: IV
@@ -1108,11 +1164,13 @@
 *** [[mandoku:ZB6n0022.org][ZB6n0022]]  [[cbeta:T/T43n1833/T43n1833.org][T43n1833]] 成唯識論演祕
 :PROPERTIES: 
 :CBETA_ID:  T43n1833
+:RELATED: T43n1830@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0022
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1833
 :DYNASTY: 唐
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 智周
 :PROPERTIES:
@@ -1153,11 +1211,12 @@
 *** [[mandoku:ZB6n0023.org][ZB6n0023]]  [[cbeta:X/X48n0806/X48n0806.org][X48n0806]] 成唯識論料簡
 :PROPERTIES: 
 :CBETA_ID:  X48n0806
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0023
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 806
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -1178,11 +1237,12 @@
 *** [[mandoku:ZB6n0024.org][ZB6n0024]]  [[cbeta:X/X48n0808/X48n0808.org][X48n0808]] 成唯識論別抄
 :PROPERTIES: 
 :CBETA_ID:  X48n0808
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0024
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 808
 :DYNASTY: 唐
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -1203,11 +1263,12 @@
 *** [[mandoku:ZB6n0025.org][ZB6n0025]]  [[cbeta:X/X49n0810/X49n0810.org][X49n0810]] 成唯識論掌中樞要記
 :PROPERTIES: 
 :CBETA_ID:  X49n0810
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0025
 :SOURCE: 卍 Xuzangjing Vol. 49, No. 810
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智周
 :PROPERTIES:
@@ -1228,11 +1289,12 @@
 *** [[mandoku:ZB6n0026.org][ZB6n0026]]  [[cbeta:X/X49n0812/X49n0812.org][X49n0812]] 成唯識論了義燈記
 :PROPERTIES: 
 :CBETA_ID:  X49n0812
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0026
 :SOURCE: 卍 Xuzangjing Vol. 49, No. 812
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智周
 :PROPERTIES:
@@ -1253,11 +1315,12 @@
 *** [[mandoku:ZB6n0027.org][ZB6n0027]]  [[cbeta:X/X49n0814/X49n0814.org][X49n0814]] 成唯識論義蘊
 :PROPERTIES: 
 :CBETA_ID:  X49n0814
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0027
 :SOURCE: 卍 Xuzangjing Vol. 49, No. 814
 :DYNASTY: 唐
+:EXTENT:  5卷
 :END:
-**** extent: 5卷
 **** responsible: 
 ***** 道邑
 :PROPERTIES:
@@ -1278,11 +1341,12 @@
 *** [[mandoku:ZB6n0028.org][ZB6n0028]]  [[cbeta:X/X49n0815/X49n0815.org][X49n0815]] 成唯識論疏義演
 :PROPERTIES: 
 :CBETA_ID:  X49n0815
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0028
 :SOURCE: 卍 Xuzangjing Vol. 49, No. 815
 :DYNASTY: 唐
+:EXTENT:  12卷
 :END:
-**** extent: 12卷
 **** responsible: 
 ***** 如理
 :PROPERTIES:
@@ -1303,11 +1367,12 @@
 *** [[mandoku:ZB6n0029.org][ZB6n0029]]  [[cbeta:X/X50n0816/X50n0816.org][X50n0816]] 成唯識論演秘釋
 :PROPERTIES: 
 :CBETA_ID:  X50n0816
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0029
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 816
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 如理
 :PROPERTIES:
@@ -1328,10 +1393,11 @@
 *** [[mandoku:ZB6n0030.org][ZB6n0030]]  [[cbeta:X/X50n0817/X50n0817.org][X50n0817]] 註成唯識論
 :PROPERTIES: 
 :CBETA_ID:  X50n0817
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0030
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 817
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -1347,11 +1413,12 @@
 *** [[mandoku:ZB6n0031.org][ZB6n0031]]  [[cbeta:X/X50n0818/X50n0818.org][X50n0818]] 成唯識論學記
 :PROPERTIES: 
 :CBETA_ID:  X50n0818
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0031
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 818
 :DYNASTY: 新羅
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 太賢
 :PROPERTIES:
@@ -1372,11 +1439,12 @@
 *** [[mandoku:ZB6n0032.org][ZB6n0032]]  [[cbeta:X/X50n0819/X50n0819.org][X50n0819]] 成唯識論疏抄
 :PROPERTIES: 
 :CBETA_ID:  X50n0819
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0032
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 819
 :DYNASTY: 唐
+:EXTENT:  16卷
 :END:
-**** extent: 16卷
 **** responsible: 
 ***** 靈泰
 :PROPERTIES:
@@ -1402,11 +1470,12 @@
 *** [[mandoku:ZB6n0033.org][ZB6n0033]]  [[cbeta:X/X50n0820/X50n0820.org][X50n0820]] 成唯識論俗詮
 :PROPERTIES: 
 :CBETA_ID:  X50n0820
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0033
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 820
 :DYNASTY: 明
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 明昱俗
 :PROPERTIES:
@@ -1427,11 +1496,12 @@
 *** [[mandoku:ZB6n0034.org][ZB6n0034]]  [[cbeta:X/X50n0821/X50n0821.org][X50n0821]] 成唯識論集解
 :PROPERTIES: 
 :CBETA_ID:  X50n0821
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0034
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 821
 :DYNASTY: 明
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 通潤
 :PROPERTIES:
@@ -1452,11 +1522,12 @@
 *** [[mandoku:ZB6n0035.org][ZB6n0035]]  [[cbeta:X/X50n0822/X50n0822.org][X50n0822]] 成唯識論證義(第1卷-第3卷)
 :PROPERTIES: 
 :CBETA_ID:  X50n0822
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0035
 :SOURCE: 卍 Xuzangjing Vol. 50, No. 822
 :DYNASTY: 明
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 王肯堂
 :PROPERTIES:
@@ -1477,11 +1548,12 @@
 *** [[mandoku:ZB6n0035.org][ZB6n0035]]  [[cbeta:X/X51n0822/X51n0822.org][X51n0822]] 成唯識論證義(第4卷-第10卷)
 :PROPERTIES: 
 :CBETA_ID:  X51n0822
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0035
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 822
 :DYNASTY: 明
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 王肯堂
 :PROPERTIES:
@@ -1502,11 +1574,12 @@
 *** [[mandoku:ZB6n0036.org][ZB6n0036]]  [[cbeta:X/X51n0823/X51n0823.org][X51n0823]] 成唯識論自攷
 :PROPERTIES: 
 :CBETA_ID:  X51n0823
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0036
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 823
 :DYNASTY: 明
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 大惠
 :PROPERTIES:
@@ -1527,11 +1600,12 @@
 *** [[mandoku:ZB6n0037.org][ZB6n0037]]  [[cbeta:X/X51n0824/X51n0824.org][X51n0824]] 成唯識論觀心法要
 :PROPERTIES: 
 :CBETA_ID:  X51n0824
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0037
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 824
 :DYNASTY: 明
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -1552,11 +1626,12 @@
 *** [[mandoku:ZB6n0038.org][ZB6n0038]]  [[cbeta:X/X51n0825/X51n0825.org][X51n0825]] 成唯識論音響補遺科
 :PROPERTIES: 
 :CBETA_ID:  X51n0825
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0038
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 825
 :DYNASTY: 清
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 智素
 :PROPERTIES:
@@ -1577,11 +1652,12 @@
 *** [[mandoku:ZB6n0039.org][ZB6n0039]]  [[cbeta:X/X51n0826/X51n0826.org][X51n0826]] 成唯識論音響補遺
 :PROPERTIES: 
 :CBETA_ID:  X51n0826
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0039
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 826
 :DYNASTY: 清
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 智素
 :PROPERTIES:
@@ -1602,11 +1678,12 @@
 *** [[mandoku:ZB6n0040.org][ZB6n0040]]  [[cbeta:X/X51n0827/X51n0827.org][X51n0827]] 唯識三十論約意
 :PROPERTIES: 
 :CBETA_ID:  X51n0827
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0040
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 827
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -1627,11 +1704,12 @@
 *** [[mandoku:ZB6n0041.org][ZB6n0041]]  [[cbeta:X/X51n0828/X51n0828.org][X51n0828]] 唯識三十論直解
 :PROPERTIES: 
 :CBETA_ID:  X51n0828
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0041
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 828
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -1652,10 +1730,12 @@
 *** [[mandoku:ZB6n0042.org][ZB6n0042]]  [[cbeta:T/T85n2804/T85n2804.org][T85n2804]] 唯識三十論要釋
 :PROPERTIES: 
 :CBETA_ID:  T85n2804
+:RELATED: T31n1585@論, T31n1586@論
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0042
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2804
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -1671,11 +1751,13 @@
 *** [[mandoku:ZB6n0043.org][ZB6n0043]]  [[cbeta:T/T31n1588/T31n1588.org][T31n1588]] 唯識論
 :PROPERTIES: 
 :CBETA_ID:  T31n1588
+:RELATED: T31n1589@論, T31n1590@論, T31n1591@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0043
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1588
 :DYNASTY: 後魏
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -1726,11 +1808,13 @@
 *** [[mandoku:ZB6n0044.org][ZB6n0044]]  [[cbeta:T/T31n1589/T31n1589.org][T31n1589]] 大乘唯識論
 :PROPERTIES: 
 :CBETA_ID:  T31n1589
+:RELATED: T31n1588@論, T31n1590@論, T31n1591@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0044
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1589
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -1786,11 +1870,13 @@
 *** [[mandoku:ZB6n0045.org][ZB6n0045]]  [[cbeta:T/T31n1590/T31n1590.org][T31n1590]] 唯識二十論
 :PROPERTIES: 
 :CBETA_ID:  T31n1590
+:RELATED: T31n1588@論, T31n1589@論, T31n1591@論, T43n1834@疏
+:GENRE: 論
 :CUSTOM_ID: ZB6n0045
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1590
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -1836,11 +1922,13 @@
 *** [[mandoku:ZB6n0046.org][ZB6n0046]]  [[cbeta:T/T31n1591/T31n1591.org][T31n1591]] 成唯識寶生論
 :PROPERTIES: 
 :CBETA_ID:  T31n1591
+:RELATED: T31n1588@論, T31n1589@論, T31n1590@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0046
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1591
 :DYNASTY: 唐
+:EXTENT:  5卷
 :END:
-**** extent: 5卷
 **** responsible: 
 ***** 護法菩薩
 :PROPERTIES:
@@ -1891,11 +1979,13 @@
 *** [[mandoku:ZB6n0047.org][ZB6n0047]]  [[cbeta:T/T43n1834/T43n1834.org][T43n1834]] 唯識二十論述記
 :PROPERTIES: 
 :CBETA_ID:  T43n1834
+:RELATED: T31n1590@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0047
 :SOURCE: Taisho Tripitaka Vol. 43, No. 1834
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -1931,11 +2021,13 @@
 *** [[mandoku:ZB6n0048.org][ZB6n0048]]  [[cbeta:T/T31n1592/T31n1592.org][T31n1592]] 攝大乘論
 :PROPERTIES: 
 :CBETA_ID:  T31n1592
+:RELATED: T31n1593@論, T31n1594@論, T31n1595@論, T31n1596@論, T31n1597@論, T31n1598@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0048
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1592
 :DYNASTY: 後魏
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 阿僧伽
 :PROPERTIES:
@@ -1981,11 +2073,13 @@
 *** [[mandoku:ZB6n0049.org][ZB6n0049]]  [[cbeta:T/T31n1593/T31n1593.org][T31n1593]] 攝大乘論
 :PROPERTIES: 
 :CBETA_ID:  T31n1593
+:RELATED: T31n1592@論, T31n1594@論, T31n1595@論, T31n1596@論, T31n1597@論, T31n1598@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0049
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1593
 :DYNASTY: 陳
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2036,11 +2130,13 @@
 *** [[mandoku:ZB6n0050.org][ZB6n0050]]  [[cbeta:T/T31n1594/T31n1594.org][T31n1594]] 攝大乘論本
 :PROPERTIES: 
 :CBETA_ID:  T31n1594
+:RELATED: T31n1592@論, T31n1593@論, T31n1595@論, T31n1596@論, T31n1597@論, T31n1598@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0050
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1594
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2096,11 +2192,13 @@
 *** [[mandoku:ZB6n0051.org][ZB6n0051]]  [[cbeta:T/T31n1595/T31n1595.org][T31n1595]] 攝大乘論釋
 :PROPERTIES: 
 :CBETA_ID:  T31n1595
+:RELATED: T31n1592@論, T31n1593@論, T31n1594@論, T31n1596@論, T31n1597@論, T31n1598@論, T68n2269@疏, T85n2805@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0051
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1595
 :DYNASTY: 陳
+:EXTENT:  15卷
 :END:
-**** extent: 15卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -2151,6 +2249,8 @@
 *** T68n2269 攝大乘論釋略疏
 :PROPERTIES:
 :CBETA_ID: T68n2269
+:RELATED: T31n1595@論
+:GENRE: 疏
 :lang@ja-rom: SHŌDAIJŌRON SHAKU RYAKUSHO
 :lang@zh-py: (She da cheng lun shi lüe shu)
 :EXTENT: V
@@ -2164,11 +2264,13 @@
 *** [[mandoku:ZB6n0052.org][ZB6n0052]]  [[cbeta:T/T31n1596/T31n1596.org][T31n1596]] 攝大乘論釋論
 :PROPERTIES: 
 :CBETA_ID:  T31n1596
+:RELATED: T31n1592@論, T31n1593@論, T31n1594@論, T31n1595@論, T31n1597@論, T31n1598@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0052
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1596
 :DYNASTY: 隋
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -2218,11 +2320,13 @@
 *** [[mandoku:ZB6n0053.org][ZB6n0053]]  [[cbeta:T/T31n1597/T31n1597.org][T31n1597]] 攝大乘論釋
 :PROPERTIES: 
 :CBETA_ID:  T31n1597
+:RELATED: T31n1592@論, T31n1593@論, T31n1594@論, T31n1595@論, T31n1596@論, T31n1598@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0053
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1597
 :DYNASTY: 唐
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -2268,11 +2372,13 @@
 *** [[mandoku:ZB6n0054.org][ZB6n0054]]  [[cbeta:T/T31n1598/T31n1598.org][T31n1598]] 攝大乘論釋
 :PROPERTIES: 
 :CBETA_ID:  T31n1598
+:RELATED: T31n1592@論, T31n1593@論, T31n1594@論, T31n1595@論, T31n1596@論, T31n1597@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0054
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1598
 :DYNASTY: 唐
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 無性菩薩
 :PROPERTIES:
@@ -2318,10 +2424,12 @@
 *** [[mandoku:ZB6n0055.org][ZB6n0055]]  [[cbeta:T/T85n2805/T85n2805.org][T85n2805]] 攝大乘講疏卷第五．第七
 :PROPERTIES: 
 :CBETA_ID:  T85n2805
+:RELATED: T31n1595@論
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2805
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2337,10 +2445,11 @@
 *** [[mandoku:ZB6n0056.org][ZB6n0056]]  [[cbeta:T/T85n2806/T85n2806.org][T85n2806]] 攝大乘論抄
 :PROPERTIES: 
 :CBETA_ID:  T85n2806
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0056
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2806
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2351,10 +2460,11 @@
 *** [[mandoku:ZB6n0057.org][ZB6n0057]]  [[cbeta:T/T85n2807/T85n2807.org][T85n2807]] 攝大乘論章卷第一
 :PROPERTIES: 
 :CBETA_ID:  T85n2807
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0057
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2807
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2370,10 +2480,11 @@
 *** [[mandoku:ZB6n0058.org][ZB6n0058]]  [[cbeta:T/T85n2808/T85n2808.org][T85n2808]] 攝論章卷第一
 :PROPERTIES: 
 :CBETA_ID:  T85n2808
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0058
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2808
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2389,10 +2500,11 @@
 *** [[mandoku:ZB6n0059.org][ZB6n0059]]  [[cbeta:T/T85n2809/T85n2809.org][T85n2809]] 攝大乘義章卷第四
 :PROPERTIES: 
 :CBETA_ID:  T85n2809
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0059
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2809
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2403,11 +2515,13 @@
 *** [[mandoku:ZB6n0060.org][ZB6n0060]]  [[cbeta:T/T31n1599/T31n1599.org][T31n1599]] 中邊分別論
 :PROPERTIES: 
 :CBETA_ID:  T31n1599
+:RELATED: T31n1600@論, T31n1601@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0060
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1599
 :DYNASTY: 陳
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -2453,11 +2567,13 @@
 *** [[mandoku:ZB6n0061.org][ZB6n0061]]  [[cbeta:T/T31n1600/T31n1600.org][T31n1600]] 辯中邊論
 :PROPERTIES: 
 :CBETA_ID:  T31n1600
+:RELATED: T31n1599@論, T31n1601@論, T44n1835@疏
+:GENRE: 論
 :CUSTOM_ID: ZB6n0061
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1600
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -2503,11 +2619,13 @@
 *** [[mandoku:ZB6n0062.org][ZB6n0062]]  [[cbeta:T/T31n1601/T31n1601.org][T31n1601]] 辯中邊論頌
 :PROPERTIES: 
 :CBETA_ID:  T31n1601
+:RELATED: T31n1599@論, T31n1600@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0062
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1601
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 彌勒菩薩
 :PROPERTIES:
@@ -2553,11 +2671,12 @@
 *** [[mandoku:ZB6n0063.org][ZB6n0063]]  [[cbeta:T/T31n1616/T31n1616.org][T31n1616]] 十八空論
 :PROPERTIES: 
 :CBETA_ID:  T31n1616
+:GENRE: 論
 :CUSTOM_ID: ZB6n0063
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1616
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 龍樹菩薩
 :PROPERTIES:
@@ -2598,11 +2717,13 @@
 *** [[mandoku:ZB6n0064.org][ZB6n0064]]  [[cbeta:T/T44n1835/T44n1835.org][T44n1835]] 辯中邊論述記
 :PROPERTIES: 
 :CBETA_ID:  T44n1835
+:RELATED: T31n1600@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0064
 :SOURCE: Taisho Tripitaka Vol. 44, No. 1835
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -2628,11 +2749,12 @@
 *** [[mandoku:ZB6n0065.org][ZB6n0065]]  [[cbeta:X/X48n0797/X48n0797.org][X48n0797]] 中邊分別論疏
 :PROPERTIES: 
 :CBETA_ID:  X48n0797
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0065
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 797
 :DYNASTY: 新羅
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 元曉
 :PROPERTIES:
@@ -2653,11 +2775,13 @@
 *** [[mandoku:ZB6n0066.org][ZB6n0066]]  [[cbeta:T/T31n1602/T31n1602.org][T31n1602]] 顯揚聖教論
 :PROPERTIES: 
 :CBETA_ID:  T31n1602
+:RELATED: T31n1603@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0066
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1602
 :DYNASTY: 唐
+:EXTENT:  20卷
 :END:
-**** extent: 20卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2708,11 +2832,13 @@
 *** [[mandoku:ZB6n0067.org][ZB6n0067]]  [[cbeta:T/T31n1603/T31n1603.org][T31n1603]] 顯揚聖教論頌
 :PROPERTIES: 
 :CBETA_ID:  T31n1603
+:RELATED: T31n1602@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0067
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1603
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2753,11 +2879,12 @@
 *** [[mandoku:ZB6n0068.org][ZB6n0068]]  [[cbeta:T/T31n1617/T31n1617.org][T31n1617]] 三無性論
 :PROPERTIES: 
 :CBETA_ID:  T31n1617
+:GENRE: 論
 :CUSTOM_ID: ZB6n0068
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1617
 :DYNASTY: 陳
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 真諦
 :PROPERTIES:
@@ -2808,11 +2935,12 @@
 *** [[mandoku:ZB6n0069.org][ZB6n0069]]  [[cbeta:T/T31n1604/T31n1604.org][T31n1604]] 大乘莊嚴經論
 :PROPERTIES: 
 :CBETA_ID:  T31n1604
+:GENRE: 論
 :CUSTOM_ID: ZB6n0069
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1604
 :DYNASTY: 唐
+:EXTENT:  13卷
 :END:
-**** extent: 13卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2863,11 +2991,13 @@
 *** [[mandoku:ZB6n0070.org][ZB6n0070]]  [[cbeta:T/T31n1605/T31n1605.org][T31n1605]] 大乘阿毘達磨集論
 :PROPERTIES: 
 :CBETA_ID:  T31n1605
+:RELATED: T31n1606@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0070
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1605
 :DYNASTY: 唐
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -2913,11 +3043,13 @@
 *** [[mandoku:ZB6n0071.org][ZB6n0071]]  [[cbeta:T/T31n1606/T31n1606.org][T31n1606]] 大乘阿毘達磨雜集論
 :PROPERTIES: 
 :CBETA_ID:  T31n1606
+:RELATED: T31n1605@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0071
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1606
 :DYNASTY: 唐
+:EXTENT:  16卷
 :END:
-**** extent: 16卷
 **** responsible: 
 ***** 安慧菩薩
 :PROPERTIES:
@@ -2973,11 +3105,12 @@
 *** [[mandoku:ZB6n0072.org][ZB6n0072]]  [[cbeta:X/X48n0796/X48n0796.org][X48n0796]] 雜集論述記
 :PROPERTIES: 
 :CBETA_ID:  X48n0796
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0072
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 796
 :DYNASTY: 唐
+:EXTENT:  10卷
 :END:
-**** extent: 10卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -2998,11 +3131,12 @@
 *** [[mandoku:ZB6n0073.org][ZB6n0073]]  [[cbeta:T/T31n1607/T31n1607.org][T31n1607]] 六門教授習定論
 :PROPERTIES: 
 :CBETA_ID:  T31n1607
+:GENRE: 論
 :CUSTOM_ID: ZB6n0073
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1607
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 無著菩薩
 :PROPERTIES:
@@ -3053,11 +3187,13 @@
 *** [[mandoku:ZB6n0074.org][ZB6n0074]]  [[cbeta:T/T31n1608/T31n1608.org][T31n1608]] 業成就論
 :PROPERTIES: 
 :CBETA_ID:  T31n1608
+:RELATED: T31n1609@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0074
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1608
 :DYNASTY: 元魏
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -3103,11 +3239,13 @@
 *** [[mandoku:ZB6n0075.org][ZB6n0075]]  [[cbeta:T/T31n1609/T31n1609.org][T31n1609]] 大乘成業論
 :PROPERTIES: 
 :CBETA_ID:  T31n1609
+:RELATED: T31n1608@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0075
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1609
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -3153,11 +3291,12 @@
 *** [[mandoku:ZB6n0076.org][ZB6n0076]]  [[cbeta:T/T31n1610/T31n1610.org][T31n1610]] 佛性論
 :PROPERTIES: 
 :CBETA_ID:  T31n1610
+:GENRE: 論
 :CUSTOM_ID: ZB6n0076
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1610
 :DYNASTY: 陳
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -3203,11 +3342,12 @@
 *** [[mandoku:ZB6n0077.org][ZB6n0077]]  [[cbeta:T/T31n1611/T31n1611.org][T31n1611]] 究竟一乘寶性論
 :PROPERTIES: 
 :CBETA_ID:  T31n1611
+:GENRE: 論
 :CUSTOM_ID: ZB6n0077
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1611
 :DYNASTY: 後魏
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 勒那摩提
 :PROPERTIES:
@@ -3248,11 +3388,13 @@
 *** [[mandoku:ZB6n0078.org][ZB6n0078]]  [[cbeta:T/T31n1626/T31n1626.org][T31n1626]] 大乘法界無差別論
 :PROPERTIES: 
 :CBETA_ID:  T31n1626
+:RELATED: T31n1627@論, T44n1838@疏
+:GENRE: 論
 :CUSTOM_ID: ZB6n0078
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1626
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 堅慧菩薩
 :PROPERTIES:
@@ -3298,11 +3440,13 @@
 *** [[mandoku:ZB6n0079.org][ZB6n0079]]  [[cbeta:T/T31n1627/T31n1627.org][T31n1627]] 大乘法界無差別論
 :PROPERTIES: 
 :CBETA_ID:  T31n1627
+:RELATED: T31n1626@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0079
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1627
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 堅慧菩薩
 :PROPERTIES:
@@ -3333,11 +3477,13 @@
 *** [[mandoku:ZB6n0080.org][ZB6n0080]]  [[cbeta:T/T44n1838/T44n1838.org][T44n1838]] 大乘法界無差別論疏
 :PROPERTIES: 
 :CBETA_ID:  T44n1838
+:RELATED: T31n1626@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0080
 :SOURCE: Taisho Tripitaka Vol. 44, No. 1838
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 法藏
 :PROPERTIES:
@@ -3363,11 +3509,12 @@
 *** [[mandoku:ZB6n0081.org][ZB6n0081]]  [[cbeta:X/X46n0786/X46n0786.org][X46n0786]] 大乘法界無差別論疏領要鈔科
 :PROPERTIES: 
 :CBETA_ID:  X46n0786
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0081
 :SOURCE: 卍 Xuzangjing Vol. 46, No. 786
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 普觀
 :PROPERTIES:
@@ -3383,11 +3530,12 @@
 *** [[mandoku:ZB6n0082.org][ZB6n0082]]  [[cbeta:X/X46n0787/X46n0787.org][X46n0787]] 大乘法界無差別論疏領要鈔
 :PROPERTIES: 
 :CBETA_ID:  X46n0787
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0082
 :SOURCE: 卍 Xuzangjing Vol. 46, No. 787
 :DYNASTY: 宋
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 普觀
 :PROPERTIES:
@@ -3408,11 +3556,13 @@
 *** [[mandoku:ZB6n0083.org][ZB6n0083]]  [[cbeta:T/T31n1612/T31n1612.org][T31n1612]] 大乘五蘊論
 :PROPERTIES: 
 :CBETA_ID:  T31n1612
+:RELATED: T31n1613@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0083
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1612
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 世親菩薩
 :PROPERTIES:
@@ -3458,11 +3608,13 @@
 *** [[mandoku:ZB6n0084.org][ZB6n0084]]  [[cbeta:T/T31n1613/T31n1613.org][T31n1613]] 大乘廣五蘊論
 :PROPERTIES: 
 :CBETA_ID:  T31n1613
+:RELATED: T31n1612@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0084
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1613
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 安慧菩薩
 :PROPERTIES:
@@ -3508,11 +3660,13 @@
 *** [[mandoku:ZB6n0085.org][ZB6n0085]]  [[cbeta:T/T31n1614/T31n1614.org][T31n1614]] 大乘百法明門論
 :PROPERTIES: 
 :CBETA_ID:  T31n1614
+:RELATED: T44n1836@疏, T44n1837@疏, T85n2810@古逸
+:GENRE: 論
 :CUSTOM_ID: ZB6n0085
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1614
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 天親菩薩
 :PROPERTIES:
@@ -3558,11 +3712,13 @@
 *** [[mandoku:ZB6n0086.org][ZB6n0086]]  [[cbeta:T/T44n1836/T44n1836.org][T44n1836]] 大乘百法明門論解
 :PROPERTIES: 
 :CBETA_ID:  T44n1836
+:RELATED: T31n1614@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0086
 :SOURCE: Taisho Tripitaka Vol. 44, No. 1836
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -3593,11 +3749,13 @@
 *** [[mandoku:ZB6n0087.org][ZB6n0087]]  [[cbeta:T/T44n1837/T44n1837.org][T44n1837]] 大乘百法明門論疏
 :PROPERTIES: 
 :CBETA_ID:  T44n1837
+:RELATED: T31n1614@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0087
 :SOURCE: Taisho Tripitaka Vol. 44, No. 1837
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 大乘光
 :PROPERTIES:
@@ -3626,8 +3784,8 @@
 :CUSTOM_ID: ZB6n0088
 :SOURCE: Southern Hongwu Edition of the Canon Vol. 205, No. 1368
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 義忠
 :PROPERTIES:
@@ -3651,8 +3809,8 @@
 :CUSTOM_ID: ZB6n0089
 :SOURCE: Qianlong Edition of the Canon Vol. 149, No. 1629
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 玄奘
 :PROPERTIES:
@@ -3677,11 +3835,12 @@
 *** [[mandoku:ZB6n0090.org][ZB6n0090]]  [[cbeta:X/X48n0799/X48n0799.org][X48n0799]] 百法論顯幽鈔
 :PROPERTIES: 
 :CBETA_ID:  X48n0799
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0090
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 799
 :DYNASTY: 宋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 從芳
 :PROPERTIES:
@@ -3705,8 +3864,8 @@
 :CUSTOM_ID: ZB6n0091
 :SOURCE: Qianlong Edition of the Canon Vol. 153, No. 1635
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 德清
 :PROPERTIES:
@@ -3722,11 +3881,12 @@
 *** [[mandoku:ZB6n0092.org][ZB6n0092]]  [[cbeta:X/X48n0802/X48n0802.org][X48n0802]] 百法明門論論義
 :PROPERTIES: 
 :CBETA_ID:  X48n0802
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0092
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 802
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 德清
 :PROPERTIES:
@@ -3747,11 +3907,12 @@
 *** [[mandoku:ZB6n0093.org][ZB6n0093]]  [[cbeta:X/X48n0803/X48n0803.org][X48n0803]] 百法明門論纂
 :PROPERTIES: 
 :CBETA_ID:  X48n0803
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0093
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 803
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 廣益
 :PROPERTIES:
@@ -3772,11 +3933,12 @@
 *** [[mandoku:ZB6n0094.org][ZB6n0094]]  [[cbeta:X/X48n0804/X48n0804.org][X48n0804]] 百法明門論贅言
 :PROPERTIES: 
 :CBETA_ID:  X48n0804
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0094
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 804
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -3797,11 +3959,12 @@
 *** [[mandoku:ZB6n0095.org][ZB6n0095]]  [[cbeta:X/X48n0805/X48n0805.org][X48n0805]] 百法明門論直解
 :PROPERTIES: 
 :CBETA_ID:  X48n0805
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0095
 :SOURCE: 卍 Xuzangjing Vol. 48, No. 805
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -3822,11 +3985,13 @@
 *** [[mandoku:ZB6n0096.org][ZB6n0096]]  [[cbeta:T/T85n2810/T85n2810.org][T85n2810]] 大乘百法明門論開宗義記
 :PROPERTIES: 
 :CBETA_ID:  T85n2810
+:RELATED: T31n1614@論, T40n1812@疏, T85n2811@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0096
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2810
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 曇曠
 :PROPERTIES:
@@ -3862,10 +4027,12 @@
 *** [[mandoku:ZB6n0097.org][ZB6n0097]]  [[cbeta:T/T85n2811/T85n2811.org][T85n2811]] 大乘百法明門論開宗義記序釋
 :PROPERTIES: 
 :CBETA_ID:  T85n2811
+:RELATED: T85n2810@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0097
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2811
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3881,11 +4048,13 @@
 *** [[mandoku:ZB6n0098.org][ZB6n0098]]  [[cbeta:T/T85n2812/T85n2812.org][T85n2812]] 大乘百法明門論開宗義決
 :PROPERTIES: 
 :CBETA_ID:  T85n2812
+:RELATED: T85n2810@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0098
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2812
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 曇曠
 :PROPERTIES:
@@ -3921,11 +4090,12 @@
 *** [[mandoku:ZB6n0099.org][ZB6n0099]]  [[cbeta:T/T31n1615/T31n1615.org][T31n1615]] 王法正理論
 :PROPERTIES: 
 :CBETA_ID:  T31n1615
+:GENRE: 論
 :CUSTOM_ID: ZB6n0099
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1615
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 彌勒菩薩
 :PROPERTIES:
@@ -3976,11 +4146,12 @@
 *** [[mandoku:ZB6n0100.org][ZB6n0100]]  [[cbeta:T/T31n1619/T31n1619.org][T31n1619]] 無相思塵論
 :PROPERTIES: 
 :CBETA_ID:  T31n1619
+:GENRE: 論
 :CUSTOM_ID: ZB6n0100
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1619
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4026,11 +4197,13 @@
 *** [[mandoku:ZB6n0101.org][ZB6n0101]]  [[cbeta:T/T31n1624/T31n1624.org][T31n1624]] 觀所緣緣論
 :PROPERTIES: 
 :CBETA_ID:  T31n1624
+:RELATED: T31n1625@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0101
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1624
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4076,11 +4249,13 @@
 *** [[mandoku:ZB6n0102.org][ZB6n0102]]  [[cbeta:T/T31n1625/T31n1625.org][T31n1625]] 觀所緣論釋
 :PROPERTIES: 
 :CBETA_ID:  T31n1625
+:RELATED: T31n1624@論
+:GENRE: 論
 :CUSTOM_ID: ZB6n0102
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1625
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 護法菩薩
 :PROPERTIES:
@@ -4126,11 +4301,12 @@
 *** [[mandoku:ZB6n0103.org][ZB6n0103]]  [[cbeta:X/X51n0830/X51n0830.org][X51n0830]] 觀所緣緣論會釋
 :PROPERTIES: 
 :CBETA_ID:  X51n0830
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0103
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 830
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -4151,11 +4327,12 @@
 *** [[mandoku:ZB6n0104.org][ZB6n0104]]  [[cbeta:X/X51n0831/X51n0831.org][X51n0831]] 觀所緣緣論直解
 :PROPERTIES: 
 :CBETA_ID:  X51n0831
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0104
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 831
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -4176,11 +4353,12 @@
 *** [[mandoku:ZB6n0105.org][ZB6n0105]]  [[cbeta:X/X51n0832/X51n0832.org][X51n0832]] 觀所緣緣論釋記
 :PROPERTIES: 
 :CBETA_ID:  X51n0832
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0105
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 832
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -4201,11 +4379,12 @@
 *** [[mandoku:ZB6n0106.org][ZB6n0106]]  [[cbeta:X/X51n0833/X51n0833.org][X51n0833]] 觀所緣緣論釋直解
 :PROPERTIES: 
 :CBETA_ID:  X51n0833
+:GENRE: 疏
 :CUSTOM_ID: ZB6n0106
 :SOURCE: 卍 Xuzangjing Vol. 51, No. 833
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -4226,11 +4405,12 @@
 *** [[mandoku:ZB6n0107.org][ZB6n0107]]  [[cbeta:T/T31n1620/T31n1620.org][T31n1620]] 解捲論
 :PROPERTIES: 
 :CBETA_ID:  T31n1620
+:GENRE: 論
 :CUSTOM_ID: ZB6n0107
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1620
 :DYNASTY: 陳
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4276,11 +4456,12 @@
 *** [[mandoku:ZB6n0108.org][ZB6n0108]]  [[cbeta:T/T31n1621/T31n1621.org][T31n1621]] 掌中論
 :PROPERTIES: 
 :CBETA_ID:  T31n1621
+:GENRE: 論
 :CUSTOM_ID: ZB6n0108
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1621
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4326,11 +4507,12 @@
 *** [[mandoku:ZB6n0109.org][ZB6n0109]]  [[cbeta:T/T31n1622/T31n1622.org][T31n1622]] 取因假設論
 :PROPERTIES: 
 :CBETA_ID:  T31n1622
+:GENRE: 論
 :CUSTOM_ID: ZB6n0109
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1622
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4381,11 +4563,12 @@
 *** [[mandoku:ZB6n0110.org][ZB6n0110]]  [[cbeta:T/T31n1623/T31n1623.org][T31n1623]] 觀總相論頌
 :PROPERTIES: 
 :CBETA_ID:  T31n1623
+:GENRE: 論
 :CUSTOM_ID: ZB6n0110
 :SOURCE: Taisho Tripitaka Vol. 31, No. 1623
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 陳那菩薩
 :PROPERTIES:
@@ -4431,11 +4614,13 @@
 *** [[mandoku:ZB6n0111.org][ZB6n0111]]  [[cbeta:T/T44n1851/T44n1851.org][T44n1851]] 大乘義章
 :PROPERTIES: 
 :CBETA_ID:  T44n1851
+:RELATED: 
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0111
 :SOURCE: Taisho Tripitaka Vol. 44, No. 1851
 :DYNASTY: 隋
+:EXTENT:  20卷
 :END:
-**** extent: 20卷
 **** responsible: 
 ***** 慧遠
 :PROPERTIES:
@@ -4471,6 +4656,8 @@
 *** T70n2305 八識義章研習抄
 :PROPERTIES:
 :CBETA_ID: T70n2305
+:RELATED: T44n1851@諸宗
+:GENRE: 諸宗
 :lang@ja-rom: HASSHIKI GISHŌ KENJŪ SHŌ
 :lang@zh-py: (Ba zhi yi zhang yan xi chao)
 :EXTENT: III
@@ -4484,11 +4671,13 @@
 *** [[mandoku:ZB6n0112.org][ZB6n0112]]  [[cbeta:T/T45n1861/T45n1861.org][T45n1861]] 大乘法苑義林章
 :PROPERTIES: 
 :CBETA_ID:  T45n1861
+:RELATED: 
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0112
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1861
 :DYNASTY: 唐
+:EXTENT:  7卷
 :END:
-**** extent: 7卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -4524,11 +4713,12 @@
 *** [[mandoku:ZB6n0113.org][ZB6n0113]]  [[cbeta:X/X55n0882/X55n0882.org][X55n0882]] 大乘法苑義林章補闕
 :PROPERTIES: 
 :CBETA_ID:  X55n0882
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0113
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 882
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 慧沼
 :PROPERTIES:
@@ -4549,11 +4739,12 @@
 *** [[mandoku:ZB6n0114.org][ZB6n0114]]  [[cbeta:X/X55n0883/X55n0883.org][X55n0883]] 大乘法苑義林章決擇記
 :PROPERTIES: 
 :CBETA_ID:  X55n0883
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0114
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 883
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 智周
 :PROPERTIES:
@@ -4574,11 +4765,12 @@
 *** [[mandoku:ZB6n0115.org][ZB6n0115]]  [[cbeta:T/T45n1862/T45n1862.org][T45n1862]] 勸發菩提心集
 :PROPERTIES: 
 :CBETA_ID:  T45n1862
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0115
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1862
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 慧沼
 :PROPERTIES:
@@ -4604,11 +4796,12 @@
 *** [[mandoku:ZB6n0116.org][ZB6n0116]]  [[cbeta:T/T45n1863/T45n1863.org][T45n1863]] 能顯中邊慧日論
 :PROPERTIES: 
 :CBETA_ID:  T45n1863
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0116
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1863
 :DYNASTY: 唐
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 慧沼
 :PROPERTIES:
@@ -4639,11 +4832,13 @@
 *** [[mandoku:ZB6n0117.org][ZB6n0117]]  [[cbeta:T/T45n1864/T45n1864.org][T45n1864]] 大乘入道次第
 :PROPERTIES: 
 :CBETA_ID:  T45n1864
+:RELATED: T85n2823@古逸
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0117
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1864
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智周
 :PROPERTIES:
@@ -4679,11 +4874,13 @@
 *** [[mandoku:ZB6n0118.org][ZB6n0118]]  [[cbeta:T/T85n2823/T85n2823.org][T85n2823]] 大乘入道次第開決
 :PROPERTIES: 
 :CBETA_ID:  T85n2823
+:RELATED: T45n1864@諸宗
+:GENRE: 古逸
 :CUSTOM_ID: ZB6n0118
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2823
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 曇曠
 :PROPERTIES:
@@ -4709,11 +4906,12 @@
 *** [[mandoku:ZB6n0119.org][ZB6n0119]]  [[cbeta:T/T45n1865/T45n1865.org][T45n1865]] 八識規矩補註
 :PROPERTIES: 
 :CBETA_ID:  T45n1865
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0119
 :SOURCE: Taisho Tripitaka Vol. 45, No. 1865
 :DYNASTY: 明
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 普泰
 :PROPERTIES:
@@ -4729,11 +4927,12 @@
 *** [[mandoku:ZB6n0120.org][ZB6n0120]]  [[cbeta:X/X55n0890/X55n0890.org][X55n0890]] 八識規矩補註證義
 :PROPERTIES: 
 :CBETA_ID:  X55n0890
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0120
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 890
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -4754,11 +4953,12 @@
 *** [[mandoku:ZB6n0121.org][ZB6n0121]]  [[cbeta:X/X55n0891/X55n0891.org][X55n0891]] 八識規矩略說
 :PROPERTIES: 
 :CBETA_ID:  X55n0891
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0121
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 891
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 正誨
 :PROPERTIES:
@@ -4779,11 +4979,12 @@
 *** [[mandoku:ZB6n0122.org][ZB6n0122]]  [[cbeta:X/X55n0892/X55n0892.org][X55n0892]] 八識規矩頌解
 :PROPERTIES: 
 :CBETA_ID:  X55n0892
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0122
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 892
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 真可
 :PROPERTIES:
@@ -4804,11 +5005,12 @@
 *** [[mandoku:ZB6n0123.org][ZB6n0123]]  [[cbeta:X/X55n0893/X55n0893.org][X55n0893]] 八識規矩通說
 :PROPERTIES: 
 :CBETA_ID:  X55n0893
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0123
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 893
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 德清
 :PROPERTIES:
@@ -4829,11 +5031,12 @@
 *** [[mandoku:ZB6n0124.org][ZB6n0124]]  [[cbeta:X/X55n0894/X55n0894.org][X55n0894]] 八識規矩纂釋
 :PROPERTIES: 
 :CBETA_ID:  X55n0894
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0124
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 894
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 廣益
 :PROPERTIES:
@@ -4854,11 +5057,12 @@
 *** [[mandoku:ZB6n0125.org][ZB6n0125]]  [[cbeta:X/X55n0895/X55n0895.org][X55n0895]] 八識規矩直解
 :PROPERTIES: 
 :CBETA_ID:  X55n0895
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0125
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 895
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -4879,11 +5083,12 @@
 *** [[mandoku:ZB6n0126.org][ZB6n0126]]  [[cbeta:X/X55n0896/X55n0896.org][X55n0896]] 八識規矩淺說
 :PROPERTIES: 
 :CBETA_ID:  X55n0896
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0126
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 896
 :DYNASTY: 清
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 行舟
 :PROPERTIES:
@@ -4904,11 +5109,12 @@
 *** [[mandoku:ZB6n0127.org][ZB6n0127]]  [[cbeta:X/X55n0897/X55n0897.org][X55n0897]] 八識規矩頌注
 :PROPERTIES: 
 :CBETA_ID:  X55n0897
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0127
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 897
 :DYNASTY: 清
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 行舟
 :PROPERTIES:
@@ -4929,11 +5135,12 @@
 *** [[mandoku:ZB6n0128.org][ZB6n0128]]  [[cbeta:X/X55n0898/X55n0898.org][X55n0898]] 八識規矩論義
 :PROPERTIES: 
 :CBETA_ID:  X55n0898
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0128
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 898
 :DYNASTY: 清
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 性起
 :PROPERTIES:
@@ -4958,11 +5165,12 @@
 *** [[mandoku:ZB6n0129.org][ZB6n0129]]  [[cbeta:X/X55n0884/X55n0884.org][X55n0884]] 表無表章栖翫記
 :PROPERTIES: 
 :CBETA_ID:  X55n0884
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0129
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 884
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 守千
 :PROPERTIES:
@@ -4983,11 +5191,12 @@
 *** [[mandoku:ZB6n0130.org][ZB6n0130]]  [[cbeta:X/X55n0888/X55n0888.org][X55n0888]] 唯識開蒙問答
 :PROPERTIES: 
 :CBETA_ID:  X55n0888
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0130
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 888
 :DYNASTY: 元
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 雲峯
 :PROPERTIES:
@@ -5008,11 +5217,12 @@
 *** [[mandoku:ZB6n0131.org][ZB6n0131]]  [[cbeta:X/X55n0899/X55n0899.org][X55n0899]] 相宗八要
 :PROPERTIES: 
 :CBETA_ID:  X55n0899
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0131
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 899
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 洪恩
 :PROPERTIES:
@@ -5028,11 +5238,12 @@
 *** [[mandoku:ZB6n0132.org][ZB6n0132]]  [[cbeta:X/X55n0900/X55n0900.org][X55n0900]] 相宗八要解
 :PROPERTIES: 
 :CBETA_ID:  X55n0900
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0132
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 900
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 明昱
 :PROPERTIES:
@@ -5053,11 +5264,12 @@
 *** [[mandoku:ZB6n0133.org][ZB6n0133]]  [[cbeta:X/X55n0901/X55n0901.org][X55n0901]] 相宗八要直解
 :PROPERTIES: 
 :CBETA_ID:  X55n0901
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0133
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 901
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -5078,11 +5290,12 @@
 *** [[mandoku:ZB6n0134.org][ZB6n0134]]  [[cbeta:X/X55n0902/X55n0902.org][X55n0902]] 一乘佛性究竟論
 :PROPERTIES: 
 :CBETA_ID:  X55n0902
+:GENRE: 諸宗
 :CUSTOM_ID: ZB6n0134
 :SOURCE: 卍 Xuzangjing Vol. 55, No. 902
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 法寶
 :PROPERTIES:

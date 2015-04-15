@@ -3,11 +3,12 @@
 *** [[mandoku:ZB6f0001.org][ZB6f0001]]  [[cbeta:T/T11n0310/T11n0310.org][T11n0310]] 大寶積經
 :PROPERTIES: 
 :CBETA_ID:  T11n0310
+:GENRE: 經
 :CUSTOM_ID: ZB6f0001
 :SOURCE: Taisho Tripitaka Vol. 11, No. 310
 :DYNASTY: 唐
+:EXTENT:  120卷
 :END:
-**** extent: 120卷
 **** responsible: 
 ***** 菩提流志
 :PROPERTIES:
@@ -79,11 +80,13 @@
 *** [[mandoku:ZB6f0002.org][ZB6f0002]]  [[cbeta:T/T11n0311/T11n0311.org][T11n0311]] 大方廣三戒經
 :PROPERTIES: 
 :CBETA_ID:  T11n0311
+:RELATED: T13n0410-1@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0002
 :SOURCE: Taisho Tripitaka Vol. 11, No. 311
 :DYNASTY: 北涼
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 曇無讖
 :PROPERTIES:
@@ -134,11 +137,13 @@
 *** [[mandoku:ZB6f0003.org][ZB6f0003]]  [[cbeta:T/T11n0312/T11n0312.org][T11n0312]] 佛說如來不思議祕密大乘經
 :PROPERTIES: 
 :CBETA_ID:  T11n0312
+:RELATED: T11n0310-3@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0003
 :SOURCE: Taisho Tripitaka Vol. 11, No. 312
 :DYNASTY: 宋
+:EXTENT:  20卷
 :END:
-**** extent: 20卷
 **** responsible: 
 ***** 法護
 :PROPERTIES:
@@ -179,11 +184,13 @@
 *** [[mandoku:ZB6f0004.org][ZB6f0004]]  [[cbeta:T/T11n0313/T11n0313.org][T11n0313]] 阿閦佛國經
 :PROPERTIES: 
 :CBETA_ID:  T11n0313
+:RELATED: T11n0310-6@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0004
 :SOURCE: Taisho Tripitaka Vol. 11, No. 313
 :DYNASTY: 後漢
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 支婁迦讖
 :PROPERTIES:
@@ -229,11 +236,13 @@
 *** [[mandoku:ZB6f0005.org][ZB6f0005]]  [[cbeta:T/T11n0314/T11n0314.org][T11n0314]] 佛說大乘十法經
 :PROPERTIES: 
 :CBETA_ID:  T11n0314
+:RELATED: T11n0310-9@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0005
 :SOURCE: Taisho Tripitaka Vol. 11, No. 314
 :DYNASTY: 梁
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 僧伽婆羅
 :PROPERTIES:
@@ -279,11 +288,13 @@
 *** [[mandoku:ZB6f0006.org][ZB6f0006]]  [[cbeta:T/T11n0315a/T11n0315a.org][T11n0315a]] 佛說普門品經
 :PROPERTIES: 
 :CBETA_ID:  T11n0315a
+:RELATED: T11n0310-10@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0006
 :SOURCE: Taisho Tripitaka Vol. 11, No. 315a
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -309,11 +320,13 @@
 *** [[mandoku:ZB6f0007.org][ZB6f0007]]  [[cbeta:T/T11n0315b/T11n0315b.org][T11n0315b]] 佛說普門品經
 :PROPERTIES: 
 :CBETA_ID:  T11n0315b
+:RELATED: T11n0310-10@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0007
 :SOURCE: Taisho Tripitaka Vol. 11, No. 315b
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -349,11 +362,13 @@
 *** [[mandoku:ZB6f0008.org][ZB6f0008]]  [[cbeta:T/T11n0316/T11n0316.org][T11n0316]] 佛說大乘菩薩藏正法經
 :PROPERTIES: 
 :CBETA_ID:  T11n0316
+:RELATED: T11n0310-12@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0008
 :SOURCE: Taisho Tripitaka Vol. 11, No. 316
 :DYNASTY: 宋
+:EXTENT:  40卷
 :END:
-**** extent: 40卷
 **** responsible: 
 ***** 法護
 :PROPERTIES:
@@ -394,11 +409,13 @@
 *** [[mandoku:ZB6f0009.org][ZB6f0009]]  [[cbeta:T/T11n0317/T11n0317.org][T11n0317]] 佛說胞胎經
 :PROPERTIES: 
 :CBETA_ID:  T11n0317
+:RELATED: T11n0310-13@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0009
 :SOURCE: Taisho Tripitaka Vol. 11, No. 317
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -444,11 +461,13 @@
 *** [[mandoku:ZB6f0010.org][ZB6f0010]]  [[cbeta:T/T11n0318/T11n0318.org][T11n0318]] 文殊師利佛土嚴淨經
 :PROPERTIES: 
 :CBETA_ID:  T11n0318
+:RELATED: T11n0310-15@經, T11n0319@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0010
 :SOURCE: Taisho Tripitaka Vol. 11, No. 318
 :DYNASTY: 西晉
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -499,11 +518,13 @@
 *** [[mandoku:ZB6f0011.org][ZB6f0011]]  [[cbeta:T/T11n0319/T11n0319.org][T11n0319]] 大聖文殊師利菩薩佛剎功德莊嚴經
 :PROPERTIES: 
 :CBETA_ID:  T11n0319
+:RELATED: T11n0310-15@經, T11n0318@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0011
 :SOURCE: Taisho Tripitaka Vol. 11, No. 319
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 不空
 :PROPERTIES:
@@ -534,11 +555,13 @@
 *** [[mandoku:ZB6f0012.org][ZB6f0012]]  [[cbeta:T/T11n0320/T11n0320.org][T11n0320]] 父子合集經
 :PROPERTIES: 
 :CBETA_ID:  T11n0320
+:RELATED: T11n0310-16@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0012
 :SOURCE: Taisho Tripitaka Vol. 11, No. 320
 :DYNASTY: 宋
+:EXTENT:  20卷
 :END:
-**** extent: 20卷
 **** responsible: 
 ***** 日稱
 :PROPERTIES:
@@ -569,11 +592,13 @@
 *** [[mandoku:ZB6f0013.org][ZB6f0013]]  [[cbeta:T/T12n0321/T12n0321.org][T12n0321]] 佛說護國尊者所問大乘經
 :PROPERTIES: 
 :CBETA_ID:  T12n0321
+:RELATED: T11n0310-18@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0013
 :SOURCE: Taisho Tripitaka Vol. 12, No. 321
 :DYNASTY: 宋
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 施護
 :PROPERTIES:
@@ -624,11 +649,13 @@
 *** [[mandoku:ZB6f0014.org][ZB6f0014]]  [[cbeta:T/T12n0322/T12n0322.org][T12n0322]] 法鏡經
 :PROPERTIES: 
 :CBETA_ID:  T12n0322
+:RELATED: T11n0310-19@經, T12n0323@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0014
 :SOURCE: Taisho Tripitaka Vol. 12, No. 322
 :DYNASTY: 後漢
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 安玄
 :PROPERTIES:
@@ -679,11 +706,13 @@
 *** [[mandoku:ZB6f0015.org][ZB6f0015]]  [[cbeta:T/T12n0323/T12n0323.org][T12n0323]] 郁迦羅越問菩薩行經
 :PROPERTIES: 
 :CBETA_ID:  T12n0323
+:RELATED: T11n0310-19@經, T12n0322@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0015
 :SOURCE: Taisho Tripitaka Vol. 12, No. 323
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -734,11 +763,13 @@
 *** [[mandoku:ZB6f0016.org][ZB6f0016]]  [[cbeta:T/T12n0324/T12n0324.org][T12n0324]] 佛說幻士仁賢經
 :PROPERTIES: 
 :CBETA_ID:  T12n0324
+:RELATED: T11n0310-21@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0016
 :SOURCE: Taisho Tripitaka Vol. 12, No. 324
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -789,11 +820,13 @@
 *** [[mandoku:ZB6f0017.org][ZB6f0017]]  [[cbeta:T/T12n0325/T12n0325.org][T12n0325]] 佛說決定毘尼經
 :PROPERTIES: 
 :CBETA_ID:  T12n0325
+:RELATED: T11n0310-24@經, T12n0326@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0017
 :SOURCE: Taisho Tripitaka Vol. 12, No. 325
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 燉煌三藏
 :PROPERTIES:
@@ -844,11 +877,13 @@
 *** [[mandoku:ZB6f0018.org][ZB6f0018]]  [[cbeta:T/T12n0326/T12n0326.org][T12n0326]] 佛說三十五佛名禮懺文
 :PROPERTIES: 
 :CBETA_ID:  T12n0326
+:RELATED: T11n0310-24@經, T12n0325@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0018
 :SOURCE: Taisho Tripitaka Vol. 12, No. 326
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 不空
 :PROPERTIES:
@@ -889,11 +924,13 @@
 *** [[mandoku:ZB6f0019.org][ZB6f0019]]  [[cbeta:T/T12n0327/T12n0327.org][T12n0327]] 發覺淨心經
 :PROPERTIES: 
 :CBETA_ID:  T12n0327
+:RELATED: T11n0310-25@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0019
 :SOURCE: Taisho Tripitaka Vol. 12, No. 327
 :DYNASTY: 隋
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 闍那崛多
 :PROPERTIES:
@@ -939,11 +976,13 @@
 *** [[mandoku:ZB6f0020.org][ZB6f0020]]  [[cbeta:T/T12n0328/T12n0328.org][T12n0328]] 佛說須賴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0328
+:RELATED: T11n0310-27@經, T12n0329@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0020
 :SOURCE: Taisho Tripitaka Vol. 12, No. 328
 :DYNASTY: 曹魏
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 白延
 :PROPERTIES:
@@ -984,11 +1023,13 @@
 *** [[mandoku:ZB6f0021.org][ZB6f0021]]  [[cbeta:T/T12n0329/T12n0329.org][T12n0329]] 佛說須賴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0329
+:RELATED: T11n0310-27@經, T12n0328@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0021
 :SOURCE: Taisho Tripitaka Vol. 12, No. 329
 :DYNASTY: 前涼
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 支施崙
 :PROPERTIES:
@@ -1039,11 +1080,13 @@
 *** [[mandoku:ZB6f0022.org][ZB6f0022]]  [[cbeta:T/T12n0330/T12n0330.org][T12n0330]] 佛說菩薩修行經
 :PROPERTIES: 
 :CBETA_ID:  T12n0330
+:RELATED: T11n0310-28@經, T12n0331@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0022
 :SOURCE: Taisho Tripitaka Vol. 12, No. 330
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 白法祖
 :PROPERTIES:
@@ -1089,11 +1132,13 @@
 *** [[mandoku:ZB6f0023.org][ZB6f0023]]  [[cbeta:T/T12n0331/T12n0331.org][T12n0331]] 佛說無畏授所問大乘經
 :PROPERTIES: 
 :CBETA_ID:  T12n0331
+:RELATED: T11n0310-28@經, T12n0330@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0023
 :SOURCE: Taisho Tripitaka Vol. 12, No. 331
 :DYNASTY: 宋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 施護
 :PROPERTIES:
@@ -1134,11 +1179,13 @@
 *** [[mandoku:ZB6f0024.org][ZB6f0024]]  [[cbeta:T/T12n0332/T12n0332.org][T12n0332]] 佛說優填王經
 :PROPERTIES: 
 :CBETA_ID:  T12n0332
+:RELATED: T11n0310-29@經, T12n0333@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0024
 :SOURCE: Taisho Tripitaka Vol. 12, No. 332
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 法炬
 :PROPERTIES:
@@ -1184,11 +1231,13 @@
 *** [[mandoku:ZB6f0025.org][ZB6f0025]]  [[cbeta:T/T12n0333/T12n0333.org][T12n0333]] 佛說大乘日子王所問經
 :PROPERTIES: 
 :CBETA_ID:  T12n0333
+:RELATED: T11n0310-29@經, T12n0332@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0025
 :SOURCE: Taisho Tripitaka Vol. 12, No. 333
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 法天
 :PROPERTIES:
@@ -1229,11 +1278,13 @@
 *** [[mandoku:ZB6f0026.org][ZB6f0026]]  [[cbeta:T/T12n0334/T12n0334.org][T12n0334]] 佛說須摩提菩薩經
 :PROPERTIES: 
 :CBETA_ID:  T12n0334
+:RELATED: T11n0310-30@經, T12n0335@經, T12n0336@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0026
 :SOURCE: Taisho Tripitaka Vol. 12, No. 334
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1279,11 +1330,13 @@
 *** [[mandoku:ZB6f0027.org][ZB6f0027]]  [[cbeta:T/T12n0335/T12n0335.org][T12n0335]] 佛說須摩提菩薩經
 :PROPERTIES: 
 :CBETA_ID:  T12n0335
+:RELATED: T11n0310-30@經, T12n0334@經, T12n0336@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0027
 :SOURCE: Taisho Tripitaka Vol. 12, No. 335
 :DYNASTY: 姚秦
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 鳩摩羅什
 :PROPERTIES:
@@ -1319,11 +1372,13 @@
 *** [[mandoku:ZB6f0028.org][ZB6f0028]]  [[cbeta:T/T12n0336/T12n0336.org][T12n0336]] 須摩提經
 :PROPERTIES: 
 :CBETA_ID:  T12n0336
+:RELATED: T11n0310-30@經, T12n0334@經, T12n0335@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0028
 :SOURCE: Taisho Tripitaka Vol. 12, No. 336
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 菩提流志
 :PROPERTIES:
@@ -1339,11 +1394,13 @@
 *** [[mandoku:ZB6f0029.org][ZB6f0029]]  [[cbeta:T/T12n0337/T12n0337.org][T12n0337]] 佛說阿闍貰王女阿術達菩薩經
 :PROPERTIES: 
 :CBETA_ID:  T12n0337
+:RELATED: T11n0310-32@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0029
 :SOURCE: Taisho Tripitaka Vol. 12, No. 337
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1384,11 +1441,13 @@
 *** [[mandoku:ZB6f0030.org][ZB6f0030]]  [[cbeta:T/T12n0338/T12n0338.org][T12n0338]] 佛說離垢施女經
 :PROPERTIES: 
 :CBETA_ID:  T12n0338
+:RELATED: T11n0310-33@經, T12n0339@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0030
 :SOURCE: Taisho Tripitaka Vol. 12, No. 338
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1434,11 +1493,13 @@
 *** [[mandoku:ZB6f0031.org][ZB6f0031]]  [[cbeta:T/T12n0339/T12n0339.org][T12n0339]] 得無垢女經
 :PROPERTIES: 
 :CBETA_ID:  T12n0339
+:RELATED: T11n0310-33@經, T12n0338@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0031
 :SOURCE: Taisho Tripitaka Vol. 12, No. 339
 :DYNASTY: 元魏
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 瞿曇般若流支
 :PROPERTIES:
@@ -1484,11 +1545,13 @@
 *** [[mandoku:ZB6f0032.org][ZB6f0032]]  [[cbeta:T/T12n0340/T12n0340.org][T12n0340]] 文殊師利所說不思議佛境界經
 :PROPERTIES: 
 :CBETA_ID:  T12n0340
+:RELATED: T11n0310-35@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0032
 :SOURCE: Taisho Tripitaka Vol. 12, No. 340
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 菩提流志
 :PROPERTIES:
@@ -1539,11 +1602,13 @@
 *** [[mandoku:ZB6f0033.org][ZB6f0033]]  [[cbeta:T/T12n0341/T12n0341.org][T12n0341]] 聖善住意天子所問經
 :PROPERTIES: 
 :CBETA_ID:  T12n0341
+:RELATED: T11n0310-36@經, T12n0342@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0033
 :SOURCE: Taisho Tripitaka Vol. 12, No. 341
 :DYNASTY: 元魏
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 毘目智仙
 :PROPERTIES:
@@ -1603,11 +1668,13 @@
 *** [[mandoku:ZB6f0034.org][ZB6f0034]]  [[cbeta:T/T12n0342/T12n0342.org][T12n0342]] 佛說如幻三昧經
 :PROPERTIES: 
 :CBETA_ID:  T12n0342
+:RELATED: T11n0310-36@經, T12n0341@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0034
 :SOURCE: Taisho Tripitaka Vol. 12, No. 342
 :DYNASTY: 西晉
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1668,11 +1735,13 @@
 *** [[mandoku:ZB6f0035.org][ZB6f0035]]  [[cbeta:T/T12n0343/T12n0343.org][T12n0343]] 佛說太子刷護經
 :PROPERTIES: 
 :CBETA_ID:  T12n0343
+:RELATED: T11n0310-37@經, T12n0344@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0035
 :SOURCE: Taisho Tripitaka Vol. 12, No. 343
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1718,10 +1787,12 @@
 *** [[mandoku:ZB6f0036.org][ZB6f0036]]  [[cbeta:T/T12n0344/T12n0344.org][T12n0344]] 佛說太子和休經
 :PROPERTIES: 
 :CBETA_ID:  T12n0344
+:RELATED: T11n0310-37@經, T12n0343@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0036
 :SOURCE: Taisho Tripitaka Vol. 12, No. 344
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 失譯
 :PROPERTIES:
@@ -1767,11 +1838,13 @@
 *** [[mandoku:ZB6f0037.org][ZB6f0037]]  [[cbeta:T/T12n0345/T12n0345.org][T12n0345]] 慧上菩薩問大善權經
 :PROPERTIES: 
 :CBETA_ID:  T12n0345
+:RELATED: T11n0310-38@經, T12n0346@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0037
 :SOURCE: Taisho Tripitaka Vol. 12, No. 345
 :DYNASTY: 西晉
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -1822,11 +1895,13 @@
 *** [[mandoku:ZB6f0038.org][ZB6f0038]]  [[cbeta:T/T12n0346/T12n0346.org][T12n0346]] 佛說大方廣善巧方便經
 :PROPERTIES: 
 :CBETA_ID:  T12n0346
+:RELATED: T11n0310-38@經, T12n0345@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0038
 :SOURCE: Taisho Tripitaka Vol. 12, No. 346
 :DYNASTY: 宋
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 施護
 :PROPERTIES:
@@ -1872,11 +1947,13 @@
 *** [[mandoku:ZB6f0039.org][ZB6f0039]]  [[cbeta:T/T12n0347/T12n0347.org][T12n0347]] 大乘顯識經
 :PROPERTIES: 
 :CBETA_ID:  T12n0347
+:RELATED: T11n0310-39@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0039
 :SOURCE: Taisho Tripitaka Vol. 12, No. 347
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 地婆訶羅
 :PROPERTIES:
@@ -1927,11 +2004,13 @@
 *** [[mandoku:ZB6f0040.org][ZB6f0040]]  [[cbeta:T/T12n0348/T12n0348.org][T12n0348]] 佛說大乘方等要慧經
 :PROPERTIES: 
 :CBETA_ID:  T12n0348
+:RELATED: T11n0310-41@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0040
 :SOURCE: Taisho Tripitaka Vol. 12, No. 348
 :DYNASTY: 後漢
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 安世高
 :PROPERTIES:
@@ -1977,11 +2056,13 @@
 *** [[mandoku:ZB6f0041.org][ZB6f0041]]  [[cbeta:T/T12n0349/T12n0349.org][T12n0349]] 彌勒菩薩所問本願經
 :PROPERTIES: 
 :CBETA_ID:  T12n0349
+:RELATED: T11n0310-42@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0041
 :SOURCE: Taisho Tripitaka Vol. 12, No. 349
 :DYNASTY: 西晉
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 竺法護
 :PROPERTIES:
@@ -2022,11 +2103,13 @@
 *** [[mandoku:ZB6f0042.org][ZB6f0042]]  [[cbeta:T/T12n0350/T12n0350.org][T12n0350]] 佛說遺日摩尼寶經
 :PROPERTIES: 
 :CBETA_ID:  T12n0350
+:RELATED: T11n0310-43@經, T12n0351@經, T12n0352@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0042
 :SOURCE: Taisho Tripitaka Vol. 12, No. 350
 :DYNASTY: 後漢
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 支婁迦讖
 :PROPERTIES:
@@ -2072,10 +2155,12 @@
 *** [[mandoku:ZB6f0043.org][ZB6f0043]]  [[cbeta:T/T12n0351/T12n0351.org][T12n0351]] 佛說摩訶衍寶嚴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0351
+:RELATED: T11n0310-43@經, T12n0350@經, T12n0352@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0043
 :SOURCE: Taisho Tripitaka Vol. 12, No. 351
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 失譯
 :PROPERTIES:
@@ -2121,11 +2206,13 @@
 *** [[mandoku:ZB6f0044.org][ZB6f0044]]  [[cbeta:T/T12n0352/T12n0352.org][T12n0352]] 佛說大迦葉問大寶積正法經
 :PROPERTIES: 
 :CBETA_ID:  T12n0352
+:RELATED: T11n0310-43@經, T12n0350@經, T12n0351@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0044
 :SOURCE: Taisho Tripitaka Vol. 12, No. 352
 :DYNASTY: 宋
+:EXTENT:  5卷
 :END:
-**** extent: 5卷
 **** responsible: 
 ***** 施護
 :PROPERTIES:
@@ -2166,11 +2253,13 @@
 *** [[mandoku:ZB6f0045.org][ZB6f0045]]  [[cbeta:T/T12n0353/T12n0353.org][T12n0353]] 勝鬘師子吼一乘大方便方廣經
 :PROPERTIES: 
 :CBETA_ID:  T12n0353
+:RELATED: T11n0310-48@經, T37n1744@疏, T56n2185@疏, T85n2761@古逸, T85n2762@古逸, T85n2763@古逸
+:GENRE: 經
 :CUSTOM_ID: ZB6f0045
 :SOURCE: Taisho Tripitaka Vol. 12, No. 353
 :DYNASTY: 劉宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 求那跋陀羅
 :PROPERTIES:
@@ -2216,11 +2305,13 @@
 *** [[mandoku:ZB6f0046.org][ZB6f0046]]  [[cbeta:T/T12n0354/T12n0354.org][T12n0354]] 毘耶娑問經
 :PROPERTIES: 
 :CBETA_ID:  T12n0354
+:RELATED: T11n0310-49@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0046
 :SOURCE: Taisho Tripitaka Vol. 12, No. 354
 :DYNASTY: 元魏
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 瞿曇般若流支
 :PROPERTIES:
@@ -2266,11 +2357,13 @@
 *** [[mandoku:ZB6f0047.org][ZB6f0047]]  [[cbeta:T/T12n0355/T12n0355.org][T12n0355]] 入法界體性經
 :PROPERTIES: 
 :CBETA_ID:  T12n0355
+:RELATED: T12n0356@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0047
 :SOURCE: Taisho Tripitaka Vol. 12, No. 355
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 闍那崛多
 :PROPERTIES:
@@ -2311,11 +2404,13 @@
 *** [[mandoku:ZB6f0048.org][ZB6f0048]]  [[cbeta:T/T12n0356/T12n0356.org][T12n0356]] 佛說寶積三昧文殊師利菩薩問法身經
 :PROPERTIES: 
 :CBETA_ID:  T12n0356
+:RELATED: T12n0355@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0048
 :SOURCE: Taisho Tripitaka Vol. 12, No. 356
 :DYNASTY: 後漢
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 安世高
 :PROPERTIES:
@@ -2361,11 +2456,13 @@
 *** [[mandoku:ZB6f0049.org][ZB6f0049]]  [[cbeta:T/T12n0357/T12n0357.org][T12n0357]] 如來莊嚴智慧光明入一切佛境界經
 :PROPERTIES: 
 :CBETA_ID:  T12n0357
+:RELATED: T12n0358@經, T12n0359@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0049
 :SOURCE: Taisho Tripitaka Vol. 12, No. 357
 :DYNASTY: 元魏
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 曇摩流支
 :PROPERTIES:
@@ -2406,11 +2503,13 @@
 *** [[mandoku:ZB6f0050.org][ZB6f0050]]  [[cbeta:T/T12n0358/T12n0358.org][T12n0358]] 度一切諸佛境界智嚴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0358
+:RELATED: T12n0357@經, T12n0359@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0050
 :SOURCE: Taisho Tripitaka Vol. 12, No. 358
 :DYNASTY: 梁
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 僧伽婆羅
 :PROPERTIES:
@@ -2451,11 +2550,13 @@
 *** [[mandoku:ZB6f0051.org][ZB6f0051]]  [[cbeta:T/T12n0359/T12n0359.org][T12n0359]] 佛說大乘入諸佛境界智光明莊嚴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0359
+:RELATED: T12n0357@經, T12n0358@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0051
 :SOURCE: Taisho Tripitaka Vol. 12, No. 359
 :DYNASTY: 宋
+:EXTENT:  5卷
 :END:
-**** extent: 5卷
 **** responsible: 
 ***** 法護
 :PROPERTIES:
@@ -2481,11 +2582,13 @@
 *** [[mandoku:ZB6f0052.org][ZB6f0052]]  [[cbeta:T/T37n1744/T37n1744.org][T37n1744]] 勝鬘寶窟
 :PROPERTIES: 
 :CBETA_ID:  T37n1744
+:RELATED: T12n0353@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0052
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1744
 :DYNASTY: 隋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 吉藏
 :PROPERTIES:
@@ -2521,6 +2624,8 @@
 *** T56n2185 勝鬘經義疏
 :PROPERTIES:
 :CBETA_ID: T56n2185
+:RELATED: T12n0353@經
+:GENRE: 疏
 :lang@ja-rom: SHŌMANGYŌ GISHO
 :lang@zh-py: (Sheng man jing yi shu)
 :EXTENT: I
@@ -2529,10 +2634,12 @@
 *** [[mandoku:ZB6f0053.org][ZB6f0053]]  [[cbeta:T/T85n2761/T85n2761.org][T85n2761]] 勝鬘經記
 :PROPERTIES: 
 :CBETA_ID:  T85n2761
+:RELATED: T12n0353@經, T85n2762@古逸, T85n2763@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6f0053
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2761
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2548,10 +2655,12 @@
 *** [[mandoku:ZB6f0054.org][ZB6f0054]]  [[cbeta:T/T85n2762/T85n2762.org][T85n2762]] 勝鬘經疏
 :PROPERTIES: 
 :CBETA_ID:  T85n2762
+:RELATED: T12n0353@經, T85n2761@古逸, T85n2763@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6f0054
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2762
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 昭法師
 :PROPERTIES:
@@ -2572,10 +2681,12 @@
 *** [[mandoku:ZB6f0055.org][ZB6f0055]]  [[cbeta:T/T85n2763/T85n2763.org][T85n2763]] 挾注勝鬘經
 :PROPERTIES: 
 :CBETA_ID:  T85n2763
+:RELATED: T12n0353@經, T85n2761@古逸, T85n2762@古逸
+:GENRE: 古逸
 :CUSTOM_ID: ZB6f0055
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2763
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -2591,11 +2702,12 @@
 *** [[mandoku:ZB6f0056.org][ZB6f0056]]  [[cbeta:X/X19n0351/X19n0351.org][X19n0351]] 勝鬘經義記
 :PROPERTIES: 
 :CBETA_ID:  X19n0351
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0056
 :SOURCE: 卍 Xuzangjing Vol. 19, No. 351
 :DYNASTY: 隋
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 慧遠
 :PROPERTIES:
@@ -2616,11 +2728,12 @@
 *** [[mandoku:ZB6f0057.org][ZB6f0057]]  [[cbeta:X/X19n0352/X19n0352.org][X19n0352]] 勝鬘經述記
 :PROPERTIES: 
 :CBETA_ID:  X19n0352
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0057
 :SOURCE: 卍 Xuzangjing Vol. 19, No. 352
 :DYNASTY: 唐
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 大乘
 :PROPERTIES:
@@ -2645,11 +2758,12 @@
 *** [[mandoku:ZB6f0058.org][ZB6f0058]]  [[cbeta:X/X19n0353/X19n0353.org][X19n0353]] 勝鬘經疏義私鈔
 :PROPERTIES: 
 :CBETA_ID:  X19n0353
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0058
 :SOURCE: 卍 Xuzangjing Vol. 19, No. 353
 :DYNASTY: 日本
+:EXTENT:  6卷
 :END:
-**** extent: 6卷
 **** responsible: 
 ***** 聖德太子
 :PROPERTIES:
@@ -2675,11 +2789,13 @@
 *** [[mandoku:ZB6f0059.org][ZB6f0059]]  [[cbeta:T/T12n0360/T12n0360.org][T12n0360]] 佛說無量壽經
 :PROPERTIES: 
 :CBETA_ID:  T12n0360
+:RELATED: T11n0310-5@經, T12n0361@經, T12n0362@經, T12n0363@經, T12n0364@經, T37n1745@疏, T37n1746@疏, T37n1747@疏, T37n1748@疏, T57n2207@疏, T85n2759@古逸
+:GENRE: 經
 :CUSTOM_ID: ZB6f0059
 :SOURCE: Taisho Tripitaka Vol. 12, No. 360
 :DYNASTY: 曹魏
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 康僧鎧
 :PROPERTIES:
@@ -2725,11 +2841,13 @@
 *** [[mandoku:ZB6f0060.org][ZB6f0060]]  [[cbeta:T/T12n0361/T12n0361.org][T12n0361]] 佛說無量清淨平等覺經
 :PROPERTIES: 
 :CBETA_ID:  T12n0361
+:RELATED: T11n0310-5@經, T12n0360@經, T12n0362@經, T12n0363@經, T12n0364@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0060
 :SOURCE: Taisho Tripitaka Vol. 12, No. 361
 :DYNASTY: 後漢
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 支婁迦讖
 :PROPERTIES:
@@ -2780,11 +2898,13 @@
 *** [[mandoku:ZB6f0061.org][ZB6f0061]]  [[cbeta:T/T12n0362/T12n0362.org][T12n0362]] 佛說阿彌陀三耶三佛薩樓佛檀過度人道經
 :PROPERTIES: 
 :CBETA_ID:  T12n0362
+:RELATED: T11n0310-5@經, T12n0360@經, T12n0361@經, T12n0363@經, T12n0364@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0061
 :SOURCE: Taisho Tripitaka Vol. 12, No. 362
 :DYNASTY: 吳
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 支謙
 :PROPERTIES:
@@ -2825,11 +2945,13 @@
 *** [[mandoku:ZB6f0062.org][ZB6f0062]]  [[cbeta:T/T12n0363/T12n0363.org][T12n0363]] 佛說大乘無量壽莊嚴經
 :PROPERTIES: 
 :CBETA_ID:  T12n0363
+:RELATED: T11n0310-5@經, T12n0360@經, T12n0361@經, T12n0362@經, T12n0364@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0062
 :SOURCE: Taisho Tripitaka Vol. 12, No. 363
 :DYNASTY: 宋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 法賢
 :PROPERTIES:
@@ -2870,11 +2992,13 @@
 *** [[mandoku:ZB6f0063.org][ZB6f0063]]  [[cbeta:T/T12n0364/T12n0364.org][T12n0364]] 佛說大阿彌陀經
 :PROPERTIES: 
 :CBETA_ID:  T12n0364
+:RELATED: T11n0310-5@經, T12n0360@經, T12n0361@經, T12n0362@經, T12n0363@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0063
 :SOURCE: Taisho Tripitaka Vol. 12, No. 364
 :DYNASTY: 宋
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 王日休
 :PROPERTIES:
@@ -2895,11 +3019,13 @@
 *** [[mandoku:ZB6f0064.org][ZB6f0064]]  [[cbeta:T/T37n1745/T37n1745.org][T37n1745]] 無量壽經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1745
+:RELATED: T12n0360@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0064
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1745
 :DYNASTY: 隋
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 慧遠
 :PROPERTIES:
@@ -2920,11 +3046,13 @@
 *** [[mandoku:ZB6f0065.org][ZB6f0065]]  [[cbeta:T/T37n1746/T37n1746.org][T37n1746]] 無量壽經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1746
+:RELATED: T12n0360@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0065
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1746
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 吉藏
 :PROPERTIES:
@@ -2945,11 +3073,13 @@
 *** [[mandoku:ZB6f0066.org][ZB6f0066]]  [[cbeta:T/T37n1747/T37n1747.org][T37n1747]] 兩卷無量壽經宗要
 :PROPERTIES: 
 :CBETA_ID:  T37n1747
+:RELATED: T12n0360@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0066
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1747
 :DYNASTY: 新羅
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 元曉
 :PROPERTIES:
@@ -2970,11 +3100,13 @@
 *** [[mandoku:ZB6f0067.org][ZB6f0067]]  [[cbeta:T/T37n1748/T37n1748.org][T37n1748]] 無量壽經連義述文贊
 :PROPERTIES: 
 :CBETA_ID:  T37n1748
+:RELATED: T12n0360@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0067
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1748
 :DYNASTY: 新羅
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 璟興
 :PROPERTIES:
@@ -2995,10 +3127,12 @@
 *** [[mandoku:ZB6f0068.org][ZB6f0068]]  [[cbeta:T/T85n2759/T85n2759.org][T85n2759]] 無量壽經義記卷下
 :PROPERTIES: 
 :CBETA_ID:  T85n2759
+:RELATED: T12n0360@經
+:GENRE: 古逸
 :CUSTOM_ID: ZB6f0068
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2759
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3019,10 +3153,12 @@
 *** [[mandoku:ZB6f0069.org][ZB6f0069]]  [[cbeta:T/T85n2760/T85n2760.org][T85n2760]] 無量壽觀經義記
 :PROPERTIES: 
 :CBETA_ID:  T85n2760
+:RELATED: T12n0365@經
+:GENRE: 古逸
 :CUSTOM_ID: ZB6f0069
 :SOURCE: Taisho Tripitaka Vol. 85, No. 2760
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3038,11 +3174,13 @@
 *** [[mandoku:ZB6f0070.org][ZB6f0070]]  [[cbeta:T/T12n0365/T12n0365.org][T12n0365]] 佛說觀無量壽佛經
 :PROPERTIES: 
 :CBETA_ID:  T12n0365
+:RELATED: T37n1749@疏, T37n1750@疏, T37n1751@疏, T37n1752@疏, T37n1753@疏, T37n1754@疏, T57n2207@疏, T85n2760@古逸
+:GENRE: 經
 :CUSTOM_ID: ZB6f0070
 :SOURCE: Taisho Tripitaka Vol. 12, No. 365
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 畺良耶舍
 :PROPERTIES:
@@ -3093,11 +3231,13 @@
 *** [[mandoku:ZB6f0071.org][ZB6f0071]]  [[cbeta:T/T37n1749/T37n1749.org][T37n1749]] 觀無量壽經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1749
+:RELATED: T12n0365@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0071
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1749
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 慧遠
 :PROPERTIES:
@@ -3123,11 +3263,13 @@
 *** [[mandoku:ZB6f0072.org][ZB6f0072]]  [[cbeta:T/T37n1750/T37n1750.org][T37n1750]] 觀無量壽佛經疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1750
+:RELATED: T12n0365@經, T37n1751@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0072
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1750
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智顗
 :PROPERTIES:
@@ -3153,11 +3295,13 @@
 *** [[mandoku:ZB6f0073.org][ZB6f0073]]  [[cbeta:T/T37n1751/T37n1751.org][T37n1751]] 觀無量壽佛經疏妙宗鈔
 :PROPERTIES: 
 :CBETA_ID:  T37n1751
+:RELATED: T12n0365@經, T37n1750@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0073
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1751
 :DYNASTY: 宋
+:EXTENT:  6卷
 :END:
-**** extent: 6卷
 **** responsible: 
 ***** 知禮
 :PROPERTIES:
@@ -3188,11 +3332,13 @@
 *** [[mandoku:ZB6f0074.org][ZB6f0074]]  [[cbeta:T/T37n1752/T37n1752.org][T37n1752]] 觀無量壽經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1752
+:RELATED: T12n0365@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0074
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1752
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 吉藏
 :PROPERTIES:
@@ -3213,11 +3359,13 @@
 *** [[mandoku:ZB6f0075.org][ZB6f0075]]  [[cbeta:T/T37n1753/T37n1753.org][T37n1753]] 觀無量壽佛經疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1753
+:RELATED: T12n0365@經, T57n2208A@疏, T57n2209@疏
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0075
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1753
 :DYNASTY: 唐
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 善導
 :PROPERTIES:
@@ -3253,11 +3401,13 @@
 *** [[mandoku:ZB6f0076.org][ZB6f0076]]  [[cbeta:T/T37n1754/T37n1754.org][T37n1754]] 觀無量壽佛經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1754
+:RELATED: T12n0365@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0076
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1754
 :DYNASTY: 宋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 元照
 :PROPERTIES:
@@ -3283,6 +3433,7 @@
 *** T57n2208A 淨土疑端
 :PROPERTIES:
 :CBETA_ID: T57n2208A
+:GENRE: 疏
 :lang@ja-rom: JŌDO GITAN
 :lang@zh-py: (Jing tu yi duan)
 :EXTENT: IV
@@ -3291,6 +3442,7 @@
 *** T57n2208B 觀經義賢問愚答鈔
 :PROPERTIES:
 :CBETA_ID: T57n2208B
+:GENRE: 疏
 :lang@ja-rom: KANGYŌ GI KEMMON GUTŌ SHŌ
 :lang@zh-py: (Guan jing yi xian wen yu da chao)
 :EXTENT: I
@@ -3304,6 +3456,7 @@
 *** T57n2208C 觀經義拙疑巧答研覈鈔
 :PROPERTIES:
 :CBETA_ID: T57n2208C
+:GENRE: 疏
 :lang@ja-rom: KANGYŌ GI SETSUGI GYŌTŌ KENKAKU SHŌ
 :lang@zh-py: (Guan jing yi zhuo yi qiao da yan he chao)
 :EXTENT: I
@@ -3312,6 +3465,8 @@
 *** T57n2209 觀經疏傳通記
 :PROPERTIES:
 :CBETA_ID: T57n2209
+:RELATED: T37n1753@疏
+:GENRE: 疏
 :lang@ja-rom: KANGYŌSHO DENZŪ KI
 :lang@zh-py: (Guan jing shu zhuan tong ji)
 :EXTENT: XV
@@ -3325,11 +3480,13 @@
 *** [[mandoku:ZB6f0077.org][ZB6f0077]]  [[cbeta:T/T12n0366/T12n0366.org][T12n0366]] 佛說阿彌陀經
 :PROPERTIES: 
 :CBETA_ID:  T12n0366
+:RELATED: T12n0367@經, T37n1755@疏, T37n1756@疏, T37n1757@疏, T37n1758@疏, T37n1759@疏, T37n1760@疏, T37n1761@疏, T37n1762@疏, T57n2207@疏, T57n2210@疏
+:GENRE: 經
 :CUSTOM_ID: ZB6f0077
 :SOURCE: Taisho Tripitaka Vol. 12, No. 366
 :DYNASTY: 姚秦
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 鳩摩羅什
 :PROPERTIES:
@@ -3375,6 +3532,8 @@
 *** T57n2207 淨土三部經音義集
 :PROPERTIES:
 :CBETA_ID: T57n2207
+:RELATED: T12n0360@經, T12n0365@經, T12n0366@經
+:GENRE: 疏
 :lang@ja-rom: JŌDOSAMBUKYŌ ONGI SHŪ
 :lang@zh-py: (Jing tu san bu jing yin yi ji)
 :EXTENT: IV
@@ -3388,6 +3547,8 @@
 *** T57n2210 阿彌陀經略記
 :PROPERTIES:
 :CBETA_ID: T57n2210
+:RELATED: T12n0366@經
+:GENRE: 疏
 :lang@ja-rom: AMIDAKYŌ RYAKKI
 :lang@zh-py: (A mi tuo jing lüe ji)
 :EXTENT: I
@@ -3401,11 +3562,13 @@
 *** [[mandoku:ZB6f0078.org][ZB6f0078]]  [[cbeta:T/T12n0367/T12n0367.org][T12n0367]] 稱讚淨土佛攝受經
 :PROPERTIES: 
 :CBETA_ID:  T12n0367
+:RELATED: T12n0366@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0078
 :SOURCE: Taisho Tripitaka Vol. 12, No. 367
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 玄奘
 :PROPERTIES:
@@ -3446,11 +3609,13 @@
 *** [[mandoku:ZB6f0079.org][ZB6f0079]]  [[cbeta:T/T37n1755/T37n1755.org][T37n1755]] 阿彌陀經義記
 :PROPERTIES: 
 :CBETA_ID:  T37n1755
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0079
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1755
 :DYNASTY: 隋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智顗
 :PROPERTIES:
@@ -3476,11 +3641,13 @@
 *** [[mandoku:ZB6f0080.org][ZB6f0080]]  [[cbeta:T/T37n1756/T37n1756.org][T37n1756]] 阿彌陀經義述
 :PROPERTIES: 
 :CBETA_ID:  T37n1756
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0080
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1756
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 慧淨
 :PROPERTIES:
@@ -3506,11 +3673,13 @@
 *** [[mandoku:ZB6f0081.org][ZB6f0081]]  [[cbeta:T/T37n1757/T37n1757.org][T37n1757]] 阿彌陀經疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1757
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0081
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1757
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -3536,11 +3705,13 @@
 *** [[mandoku:ZB6f0082.org][ZB6f0082]]  [[cbeta:T/T37n1758/T37n1758.org][T37n1758]] 阿彌陀經通贊疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1758
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0082
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1758
 :DYNASTY: 唐
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 窺基
 :PROPERTIES:
@@ -3571,11 +3742,13 @@
 *** [[mandoku:ZB6f0083.org][ZB6f0083]]  [[cbeta:T/T37n1759/T37n1759.org][T37n1759]] 阿彌陀經疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1759
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0083
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1759
 :DYNASTY: 新羅
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 元曉
 :PROPERTIES:
@@ -3596,11 +3769,13 @@
 *** [[mandoku:ZB6f0084.org][ZB6f0084]]  [[cbeta:T/T37n1760/T37n1760.org][T37n1760]] 阿彌陀經疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1760
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0084
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1760
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智圓
 :PROPERTIES:
@@ -3626,11 +3801,13 @@
 *** [[mandoku:ZB6f0085.org][ZB6f0085]]  [[cbeta:T/T37n1761/T37n1761.org][T37n1761]] 阿彌陀經義疏
 :PROPERTIES: 
 :CBETA_ID:  T37n1761
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0085
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1761
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 元照
 :PROPERTIES:
@@ -3656,11 +3833,13 @@
 *** [[mandoku:ZB6f0086.org][ZB6f0086]]  [[cbeta:T/T37n1762/T37n1762.org][T37n1762]] 阿彌陀經要解
 :PROPERTIES: 
 :CBETA_ID:  T37n1762
+:RELATED: T12n0366@經
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0086
 :SOURCE: Taisho Tripitaka Vol. 37, No. 1762
 :DYNASTY: 明
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 智旭
 :PROPERTIES:
@@ -3686,11 +3865,12 @@
 *** [[mandoku:ZB6f0087.org][ZB6f0087]]  [[cbeta:T/T12n0368/T12n0368.org][T12n0368]] 拔一切業障根本得生淨土神呪
 :PROPERTIES: 
 :CBETA_ID:  T12n0368
+:GENRE: 經
 :CUSTOM_ID: ZB6f0087
 :SOURCE: Taisho Tripitaka Vol. 12, No. 368
 :DYNASTY: 劉宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 求那跋陀羅
 :PROPERTIES:
@@ -3721,10 +3901,11 @@
 *** [[mandoku:ZB6f0088.org][ZB6f0088]]  [[cbeta:T/T12n0369/T12n0369.org][T12n0369]] 阿彌陀佛說呪
 :PROPERTIES: 
 :CBETA_ID:  T12n0369
+:GENRE: 經
 :CUSTOM_ID: ZB6f0088
 :SOURCE: Taisho Tripitaka Vol. 12, No. 369
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 **** textual witnesses
 ***** CBETA
@@ -3735,10 +3916,11 @@
 *** [[mandoku:ZB6f0089.org][ZB6f0089]]  [[cbeta:T/T12n0370/T12n0370.org][T12n0370]] 阿彌陀鼓音聲王陀羅尼經
 :PROPERTIES: 
 :CBETA_ID:  T12n0370
+:GENRE: 經
 :CUSTOM_ID: ZB6f0089
 :SOURCE: Taisho Tripitaka Vol. 12, No. 370
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 失譯
 :PROPERTIES:
@@ -3784,11 +3966,13 @@
 *** [[mandoku:ZB6f0090.org][ZB6f0090]]  [[cbeta:T/T12n0371/T12n0371.org][T12n0371]] 觀世音菩薩授記經
 :PROPERTIES: 
 :CBETA_ID:  T12n0371
+:RELATED: T12n0372@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0090
 :SOURCE: Taisho Tripitaka Vol. 12, No. 371
 :DYNASTY: 宋
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 曇無竭
 :PROPERTIES:
@@ -3834,11 +4018,13 @@
 *** [[mandoku:ZB6f0091.org][ZB6f0091]]  [[cbeta:T/T12n0372/T12n0372.org][T12n0372]] 佛說如幻三摩地無量印法門經
 :PROPERTIES: 
 :CBETA_ID:  T12n0372
+:RELATED: T12n0371@經
+:GENRE: 經
 :CUSTOM_ID: ZB6f0091
 :SOURCE: Taisho Tripitaka Vol. 12, No. 372
 :DYNASTY: 宋
+:EXTENT:  3卷
 :END:
-**** extent: 3卷
 **** responsible: 
 ***** 施護
 :PROPERTIES:
@@ -3879,10 +4065,11 @@
 *** [[mandoku:ZB6f0092.org][ZB6f0092]]  [[cbeta:T/T12n0373/T12n0373.org][T12n0373]] 後出阿彌陀佛偈
 :PROPERTIES: 
 :CBETA_ID:  T12n0373
+:GENRE: 經
 :CUSTOM_ID: ZB6f0092
 :SOURCE: Taisho Tripitaka Vol. 12, No. 373
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 失譯
 :PROPERTIES:
@@ -3918,11 +4105,13 @@
 *** [[mandoku:ZB6f0093.org][ZB6f0093]]  [[cbeta:T/T26n1524/T26n1524.org][T26n1524]] 無量壽經優波提舍
 :PROPERTIES: 
 :CBETA_ID:  T26n1524
+:RELATED: T40n1819@疏
+:GENRE: 論
 :CUSTOM_ID: ZB6f0093
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1524
 :DYNASTY: 後魏
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 婆藪槃豆菩薩
 :PROPERTIES:
@@ -3963,11 +4152,13 @@
 *** [[mandoku:ZB6f0094.org][ZB6f0094]]  [[cbeta:T/T40n1819/T40n1819.org][T40n1819]] 無量壽經優婆提舍願生偈註
 :PROPERTIES: 
 :CBETA_ID:  T40n1819
+:RELATED: T26n1524@論
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0094
 :SOURCE: Taisho Tripitaka Vol. 40, No. 1819
 :DYNASTY: 北魏
+:EXTENT:  2卷
 :END:
-**** extent: 2卷
 **** responsible: 
 ***** 曇鸞
 :PROPERTIES:
@@ -3998,11 +4189,12 @@
 *** [[mandoku:ZB6f0095.org][ZB6f0095]]  [[cbeta:T/T26n1523/T26n1523.org][T26n1523]] 大寶積經論
 :PROPERTIES: 
 :CBETA_ID:  T26n1523
+:GENRE: 論
 :CUSTOM_ID: ZB6f0095
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1523
 :DYNASTY: 後魏
+:EXTENT:  4卷
 :END:
-**** extent: 4卷
 **** responsible: 
 ***** 菩提流支
 :PROPERTIES:
@@ -4048,11 +4240,12 @@
 *** [[mandoku:ZB6f0096.org][ZB6f0096]]  [[cbeta:T/T26n1525/T26n1525.org][T26n1525]] 彌勒菩薩所問經論
 :PROPERTIES: 
 :CBETA_ID:  T26n1525
+:GENRE: 論
 :CUSTOM_ID: ZB6f0096
 :SOURCE: Taisho Tripitaka Vol. 26, No. 1525
 :DYNASTY: 後魏
+:EXTENT:  9卷
 :END:
-**** extent: 9卷
 **** responsible: 
 ***** 菩提流支
 :PROPERTIES:
@@ -4093,11 +4286,12 @@
 *** [[mandoku:ZB6f0097.org][ZB6f0097]]  [[cbeta:X/X10n0264/X10n0264.org][X10n0264]] 大寶積經述
 :PROPERTIES: 
 :CBETA_ID:  X10n0264
+:GENRE: 疏
 :CUSTOM_ID: ZB6f0097
 :SOURCE: 卍 Xuzangjing Vol. 10, No. 264
 :DYNASTY: 唐
+:EXTENT:  1卷
 :END:
-**** extent: 1卷
 **** responsible: 
 ***** 徐鍔
 :PROPERTIES:
