@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB4a 楚辭類
-*** [[at:text/chant/H12-10-0047/H12-10-0047_001.txt][H12-10-0047]] 楚辭
+** KR4a ZB4a 楚辭類
+*** KR4a0001 [[at:text/chant/H12-10-0047/H12-10-0047_001.txt][H12-10-0047]] 楚辭
     :PROPERTIES:
     :CUSTOM_ID: H12-10-0047
     :END:
@@ -13,7 +13,7 @@
       :DATES:    fl. 89 - 158
       :END:
 
-*** [[mandoku:ZB4a0001.org][ZB4a0001]] 楚辭章句
+*** KR4a0002 [[mandoku:ZB4a0001.org][ZB4a0001]] 楚辭章句
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0001
 :SOURCE:   四庫全書 文淵閣版, V1062.1, p1
@@ -30,7 +30,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4a0002.org][ZB4a0002]] 楚詞補注
+*** KR4a0003 [[mandoku:ZB4a0002.org][ZB4a0002]] 楚詞補注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0002
 :SOURCE:   四庫全書 文淵閣版, V1062.2, p115
@@ -47,7 +47,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4a0003.org][ZB4a0003]] 楚辭集注
+*** KR4a0004 [[mandoku:ZB4a0003.org][ZB4a0003]] 楚辭集注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0003
 :SOURCE:   四庫全書 文淵閣版, V1062.3, p299
@@ -78,7 +78,7 @@
       :BOOK:   (6)
       :END:
 
-*** [[mandoku:ZB4a0004.org][ZB4a0004]] 離騷草木疏
+*** KR4a0005 [[mandoku:ZB4a0004.org][ZB4a0004]] 離騷草木疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0004
 :SOURCE:   四庫全書 文淵閣版, V1062.4, p455
@@ -95,7 +95,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4a0005.org][ZB4a0005]] 欽定補繪蕭雲從離騷全圖
+*** KR4a0006 [[mandoku:ZB4a0005.org][ZB4a0005]] 欽定補繪蕭雲從離騷全圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0005
 :SOURCE:   四庫全書 文淵閣版, V1062.5, p495
@@ -112,7 +112,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4a0006.org][ZB4a0006]] 山帶閣註楚辭
+*** KR4a0007 [[mandoku:ZB4a0006.org][ZB4a0006]] 山帶閣註楚辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB4a0006
 :SOURCE:   四庫全書 文淵閣版, V1062.6, p601

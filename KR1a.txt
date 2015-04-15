@@ -1,12 +1,12 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB1a 易類
-*** [[at:text/chant/H15-23-0084/H15-23-0084_001.txt][H15-23-0084]] 周易
+** KR1a ZB1a 易類
+*** KR1a0001 [[at:text/chant/H15-23-0084/H15-23-0084_001.txt][H15-23-0084]] 周易
     :PROPERTIES:
     :CUSTOM_ID: H15-23-0084
     :END:
 
-*** [[mandoku:ZB1a0001.org][ZB1a0001]] 子夏易傳
+*** KR1a0002 [[mandoku:ZB1a0001.org][ZB1a0001]] 子夏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0001
 :SOURCE:   四庫全書 文淵閣版, V7.1, p1
@@ -23,7 +23,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成註
+*** KR1a0003 [[mandoku:ZB1a0002.org][ZB1a0002]] 周易鄭康成註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0002
 :SOURCE:   四庫全書 文淵閣版, V7.2, p129
@@ -46,7 +46,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
+*** KR1a0004 [[mandoku:ZB1a0003.org][ZB1a0003]] 增補鄭氏周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0003
 :SOURCE:   四庫全書 文淵閣版, V7.3, p147
@@ -75,7 +75,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
+*** KR1a0005 [[mandoku:ZB1a0004.org][ZB1a0004]] 陸氏易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0004
 :SOURCE:   四庫全書 文淵閣版, V7.4, p185
@@ -97,7 +97,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0005.org][ZB1a0005]] 周易註
+*** KR1a0006 [[mandoku:ZB1a0005.org][ZB1a0005]] 周易註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0005
 :SOURCE:   四庫全書 文淵閣版, V7.5, p201
@@ -120,7 +120,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0006.org][ZB1a0006]] 周易註疏
+*** KR1a0007 [[mandoku:ZB1a0006.org][ZB1a0006]] 周易註疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0006
 :SOURCE:   四庫全書 文淵閣版, V7.6, p283
@@ -200,7 +200,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB1a0007.org][ZB1a0007]] 周易集解
+*** KR1a0008 [[mandoku:ZB1a0007.org][ZB1a0007]] 周易集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0007
 :SOURCE:   四庫全書 文淵閣版, V7.7, p603
@@ -216,7 +216,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0008.org][ZB1a0008]] 周易口訣義
+*** KR1a0009 [[mandoku:ZB1a0008.org][ZB1a0008]] 周易口訣義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0008
 :SOURCE:   四庫全書 文淵閣版, V8.1, p1
@@ -232,7 +232,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0009.org][ZB1a0009]] 周易擧正
+*** KR1a0010 [[mandoku:ZB1a0009.org][ZB1a0009]] 周易擧正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0009
 :SOURCE:   四庫全書 文淵閣版, V8.2, p105
@@ -248,7 +248,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0010.org][ZB1a0010]] 易數鈎隱圖
+*** KR1a0011 [[mandoku:ZB1a0010.org][ZB1a0010]] 易數鈎隱圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0010
 :SOURCE:   四庫全書 文淵閣版, V8.3, p125
@@ -272,7 +272,7 @@
      :BOOK:   (2)
      :END:
 
-*** [[mandoku:ZB1a0011.org][ZB1a0011]] 周易口義
+*** KR1a0012 [[mandoku:ZB1a0011.org][ZB1a0011]] 周易口義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0011
 :SOURCE:   四庫全書 文淵閣版, V8.4, p169
@@ -309,7 +309,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0012.org][ZB1a0012]] 溫公易說
+*** KR1a0013 [[mandoku:ZB1a0012.org][ZB1a0012]] 溫公易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0012
 :SOURCE:   四庫全書 文淵閣版, V8.5, p565
@@ -326,7 +326,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0013.org][ZB1a0013]] 橫渠易說
+*** KR1a0014 [[mandoku:ZB1a0013.org][ZB1a0013]] 橫渠易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0013
 :SOURCE:   四庫全書 文淵閣版, V8.6, p659
@@ -356,7 +356,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB1a0014.org][ZB1a0014]] 東坡易傳
+*** KR1a0015 [[mandoku:ZB1a0014.org][ZB1a0014]] 東坡易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0014
 :SOURCE:   四庫全書 文淵閣版, V9.1, p1
@@ -373,7 +373,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0015.org][ZB1a0015]] 伊川易傳
+*** KR1a0016 [[mandoku:ZB1a0015.org][ZB1a0015]] 伊川易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0015
 :SOURCE:   四庫全書 文淵閣版, V9.2, p155
@@ -390,7 +390,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0016.org][ZB1a0016]] 易學辨惑
+*** KR1a0017 [[mandoku:ZB1a0016.org][ZB1a0016]] 易學辨惑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0016
 :SOURCE:   四庫全書 文淵閣版, V9.3, p401
@@ -407,7 +407,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0017.org][ZB1a0017]] 了齋易說
+*** KR1a0018 [[mandoku:ZB1a0017.org][ZB1a0017]] 了齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0017
 :SOURCE:   四庫全書 文淵閣版, V9.4, p413
@@ -424,7 +424,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0018.org][ZB1a0018]] 吳園周易解
+*** KR1a0019 [[mandoku:ZB1a0018.org][ZB1a0018]] 吳園周易解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0018
 :SOURCE:   四庫全書 文淵閣版, V9.5, p459
@@ -448,7 +448,7 @@
      :BOOK:   (3)
      :END:
 
-*** [[mandoku:ZB1a0019.org][ZB1a0019]] 周易新講義
+*** KR1a0020 [[mandoku:ZB1a0019.org][ZB1a0019]] 周易新講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0019
 :SOURCE:   四庫全書 文淵閣版, V9.6, p577
@@ -465,7 +465,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0020.org][ZB1a0020]] 紫巖易傳
+*** KR1a0021 [[mandoku:ZB1a0020.org][ZB1a0020]] 紫巖易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0020
 :SOURCE:   四庫全書 文淵閣版, V10.1, p1
@@ -482,7 +482,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0021.org][ZB1a0021]] 讀易詳說
+*** KR1a0022 [[mandoku:ZB1a0021.org][ZB1a0021]] 讀易詳說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0021
 :SOURCE:   四庫全書 文淵閣版, V10.2, p263
@@ -499,7 +499,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0022.org][ZB1a0022]] 易小傳
+*** KR1a0023 [[mandoku:ZB1a0022.org][ZB1a0022]] 易小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0022
 :SOURCE:   四庫全書 文淵閣版, V10.3, p459
@@ -515,7 +515,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0023.org][ZB1a0023]] 漢上易傳
+*** KR1a0024 [[mandoku:ZB1a0023.org][ZB1a0023]] 漢上易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0023
 :SOURCE:   四庫全書 文淵閣版, V11.1, p1
@@ -546,7 +546,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0024.org][ZB1a0024]] 周易窺餘
+*** KR1a0025 [[mandoku:ZB1a0024.org][ZB1a0024]] 周易窺餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0024
 :SOURCE:   四庫全書 文淵閣版, V11.2, p395
@@ -563,7 +563,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0025.org][ZB1a0025]] 易璇璣
+*** KR1a0026 [[mandoku:ZB1a0025.org][ZB1a0025]] 易璇璣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0025
 :SOURCE:   四庫全書 文淵閣版, V11.3, p597
@@ -580,7 +580,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0026.org][ZB1a0026]] 易變體義
+*** KR1a0027 [[mandoku:ZB1a0026.org][ZB1a0026]] 易變體義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0026
 :SOURCE:   四庫全書 文淵閣版, V11.4, p627
@@ -597,7 +597,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0027.org][ZB1a0027]] 周易經傳集解
+*** KR1a0028 [[mandoku:ZB1a0027.org][ZB1a0027]] 周易經傳集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0027
 :SOURCE:   四庫全書 文淵閣版, V12.1, p1
@@ -614,7 +614,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0028.org][ZB1a0028]] 易原
+*** KR1a0029 [[mandoku:ZB1a0028.org][ZB1a0028]] 易原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0028
 :SOURCE:   四庫全書 文淵閣版, V12.2, p505
@@ -631,7 +631,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0029.org][ZB1a0029]] 周易古占法
+*** KR1a0030 [[mandoku:ZB1a0029.org][ZB1a0029]] 周易古占法
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0029
 :SOURCE:   四庫全書 文淵閣版, V12.3, p599
@@ -655,7 +655,7 @@
      :BOOK:   (1)
      :END:
 
-*** [[mandoku:ZB1a0030.org][ZB1a0030]] 原本周易本義
+*** KR1a0031 [[mandoku:ZB1a0030.org][ZB1a0030]] 原本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0030
 :SOURCE:   四庫全書 文淵閣版, V12.4, p625
@@ -679,7 +679,7 @@
      :BOOK:   (2)
      :END:
 
-*** [[mandoku:ZB1a0031.org][ZB1a0031]] 別本周易本義
+*** KR1a0032 [[mandoku:ZB1a0031.org][ZB1a0031]] 別本周易本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0031
 :SOURCE:   四庫全書 文淵閣版, V12.5, p705
@@ -702,7 +702,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
+*** KR1a0033 [[mandoku:ZB1a0032.org][ZB1a0032]] 郭氏傳家易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0032
 :SOURCE:   四庫全書 文淵閣版, V13.1, p1
@@ -719,7 +719,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0033.org][ZB1a0033]] 周易義海撮要
+*** KR1a0034 [[mandoku:ZB1a0033.org][ZB1a0033]] 周易義海撮要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0033
 :SOURCE:   四庫全書 文淵閣版, V13.2, p275
@@ -736,7 +736,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0034.org][ZB1a0034]] 南軒易說
+*** KR1a0035 [[mandoku:ZB1a0034.org][ZB1a0034]] 南軒易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0034
 :SOURCE:   四庫全書 文淵閣版, V13.3, p625
@@ -753,7 +753,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0035.org][ZB1a0035]] 復齋易說
+*** KR1a0036 [[mandoku:ZB1a0035.org][ZB1a0035]] 復齋易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0035
 :SOURCE:   四庫全書 文淵閣版, V13.4, p681
@@ -769,7 +769,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0036.org][ZB1a0036]] 楊氏易傳
+*** KR1a0037 [[mandoku:ZB1a0036.org][ZB1a0036]] 楊氏易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0036
 :SOURCE:   四庫全書 文淵閣版, V14.1, p1
@@ -786,7 +786,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0037.org][ZB1a0037]] 周易玩辭
+*** KR1a0038 [[mandoku:ZB1a0037.org][ZB1a0037]] 周易玩辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0037
 :SOURCE:   四庫全書 文淵閣版, V14.2, p215
@@ -803,7 +803,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0038.org][ZB1a0038]] 趙氏易說
+*** KR1a0039 [[mandoku:ZB1a0038.org][ZB1a0038]] 趙氏易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0038
 :SOURCE:   四庫全書 文淵閣版, V14.3, p449
@@ -820,7 +820,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0039.org][ZB1a0039]] 誠齋易傳
+*** KR1a0040 [[mandoku:ZB1a0039.org][ZB1a0039]] 誠齋易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0039
 :SOURCE:   四庫全書 文淵閣版, V14.4, p513
@@ -837,7 +837,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0040.org][ZB1a0040]] 大易粹言
+*** KR1a0041 [[mandoku:ZB1a0040.org][ZB1a0040]] 大易粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0040
 :SOURCE:   四庫全書 文淵閣版, V15.1, p1
@@ -860,7 +860,7 @@
      :BOOK:   (18)
      :END:
 
-*** [[mandoku:ZB1a0041.org][ZB1a0041]] 易圖說
+*** KR1a0042 [[mandoku:ZB1a0041.org][ZB1a0041]] 易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0041
 :SOURCE:   四庫全書 文淵閣版, V15.2, p753
@@ -877,7 +877,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0042.org][ZB1a0042]] 古周易
+*** KR1a0043 [[mandoku:ZB1a0042.org][ZB1a0042]] 古周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0042
 :SOURCE:   四庫全書 文淵閣版, V15.3, p779
@@ -894,7 +894,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0043.org][ZB1a0043]] 易傳燈
+*** KR1a0044 [[mandoku:ZB1a0043.org][ZB1a0043]] 易傳燈
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0043
 :SOURCE:   四庫全書 文淵閣版, V15.4, p809
@@ -910,7 +910,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0044.org][ZB1a0044]] 易裨傳
+*** KR1a0045 [[mandoku:ZB1a0044.org][ZB1a0044]] 易裨傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0044
 :SOURCE:   四庫全書 文淵閣版, V15.5, p851
@@ -933,7 +933,7 @@
      :BOOK:   (1)
      :END:
 
-*** [[mandoku:ZB1a0045.org][ZB1a0045]] 厚齋易學
+*** KR1a0046 [[mandoku:ZB1a0045.org][ZB1a0045]] 厚齋易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0045
 :SOURCE:   四庫全書 文淵閣版, V16.1, p1
@@ -975,7 +975,7 @@
      :BOOK:   (#)
      :END:
 
-*** [[mandoku:ZB1a0046.org][ZB1a0046]] 童溪易傳
+*** KR1a0047 [[mandoku:ZB1a0046.org][ZB1a0046]] 童溪易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0046
 :SOURCE:   四庫全書 文淵閣版, V17.1, p1
@@ -991,7 +991,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0047.org][ZB1a0047]] 周易總義
+*** KR1a0048 [[mandoku:ZB1a0047.org][ZB1a0047]] 周易總義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0047
 :SOURCE:   四庫全書 文淵閣版, V17.2, p379
@@ -1007,7 +1007,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0048.org][ZB1a0048]] 西谿易說
+*** KR1a0049 [[mandoku:ZB1a0048.org][ZB1a0048]] 西谿易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0048
 :SOURCE:   四庫全書 文淵閣版, V17.3, p621
@@ -1023,7 +1023,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0049.org][ZB1a0049]] 丙子學易編
+*** KR1a0050 [[mandoku:ZB1a0049.org][ZB1a0049]] 丙子學易編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0049
 :SOURCE:   四庫全書 文淵閣版, V17.4, p775
@@ -1040,7 +1040,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0050.org][ZB1a0050]] 易通
+*** KR1a0051 [[mandoku:ZB1a0050.org][ZB1a0050]] 易通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0050
 :SOURCE:   四庫全書 文淵閣版, V17.5, p797
@@ -1057,7 +1057,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0051.org][ZB1a0051]] 周易赴爻經傳訓解
+*** KR1a0052 [[mandoku:ZB1a0051.org][ZB1a0051]] 周易赴爻經傳訓解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0051
 :SOURCE:   四庫全書 文淵閣版, V18.1, p1
@@ -1074,7 +1074,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0052.org][ZB1a0052]] 易象意言
+*** KR1a0053 [[mandoku:ZB1a0052.org][ZB1a0052]] 易象意言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0052
 :SOURCE:   四庫全書 文淵閣版, V18.2, p107
@@ -1091,7 +1091,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0053.org][ZB1a0053]] 周易要義
+*** KR1a0054 [[mandoku:ZB1a0053.org][ZB1a0053]] 周易要義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0053
 :SOURCE:   四庫全書 文淵閣版, V18.3, p123
@@ -1108,7 +1108,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0054.org][ZB1a0054]] 易翼傳
+*** KR1a0055 [[mandoku:ZB1a0054.org][ZB1a0054]] 易翼傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0054
 :SOURCE:   四庫全書 文淵閣版, V18.4, p303
@@ -1125,7 +1125,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0055.org][ZB1a0055]] 文公易說
+*** KR1a0056 [[mandoku:ZB1a0055.org][ZB1a0055]] 文公易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0055
 :SOURCE:   四庫全書 文淵閣版, V18.5, p415
@@ -1142,7 +1142,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0056.org][ZB1a0056]] 易學啟蒙小傳
+*** KR1a0057 [[mandoku:ZB1a0056.org][ZB1a0056]] 易學啟蒙小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0056
 :SOURCE:   四庫全書 文淵閣版, V19.1, p1
@@ -1165,7 +1165,7 @@
      :BOOK:   (1)
      :END:
 
-*** [[mandoku:ZB1a0057.org][ZB1a0057]] 周易輯聞
+*** KR1a0058 [[mandoku:ZB1a0057.org][ZB1a0057]] 周易輯聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0057
 :SOURCE:   四庫全書 文淵閣版, V19.2, p25
@@ -1195,7 +1195,7 @@
      :BOOK:   1
      :END:
 
-*** [[mandoku:ZB1a0058.org][ZB1a0058]] 用易詳解
+*** KR1a0059 [[mandoku:ZB1a0058.org][ZB1a0058]] 用易詳解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0058
 :SOURCE:   四庫全書 文淵閣版, V19.3, p349
@@ -1212,7 +1212,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0059.org][ZB1a0059]] 淙山讀周易
+*** KR1a0060 [[mandoku:ZB1a0059.org][ZB1a0059]] 淙山讀周易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0059
 :SOURCE:   四庫全書 文淵閣版, V19.4, p579
@@ -1228,7 +1228,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0060.org][ZB1a0060]] 周易傳義附錄
+*** KR1a0061 [[mandoku:ZB1a0060.org][ZB1a0060]] 周易傳義附錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0060
 :SOURCE:   四庫全書 文淵閣版, V20.1, p1
@@ -1258,7 +1258,7 @@
      :BOOK:   (20)
      :END:
 
-*** [[mandoku:ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
+*** KR1a0062 [[mandoku:ZB1a0061.org][ZB1a0061]] 易學啟蒙通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0061
 :SOURCE:   四庫全書 文淵閣版, V20.2, p653
@@ -1274,7 +1274,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0062.org][ZB1a0062]] 三易備遺
+*** KR1a0063 [[mandoku:ZB1a0062.org][ZB1a0062]] 三易備遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0062
 :SOURCE:   四庫全書 文淵閣版, V20.3, p741
@@ -1290,7 +1290,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0063.org][ZB1a0063]] 周易集說
+*** KR1a0064 [[mandoku:ZB1a0063.org][ZB1a0063]] 周易集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0063
 :SOURCE:   四庫全書 文淵閣版, V21.1, p1
@@ -1307,7 +1307,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0064.org][ZB1a0064]] 讀易擧要
+*** KR1a0065 [[mandoku:ZB1a0064.org][ZB1a0064]] 讀易擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0064
 :SOURCE:   四庫全書 文淵閣版, V21.2, p395
@@ -1324,7 +1324,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0065.org][ZB1a0065]] 易象義
+*** KR1a0066 [[mandoku:ZB1a0065.org][ZB1a0065]] 易象義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0065
 :SOURCE:   四庫全書 文淵閣版, V21.3, p473
@@ -1347,7 +1347,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0066.org][ZB1a0066]] 易圖通變
+*** KR1a0067 [[mandoku:ZB1a0066.org][ZB1a0066]] 易圖通變
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0066
 :SOURCE:   四庫全書 文淵閣版, V21.4, p789
@@ -1371,7 +1371,7 @@
      :BOOK:   1
      :END:
 
-*** [[mandoku:ZB1a0067.org][ZB1a0067]] 讀易私言
+*** KR1a0068 [[mandoku:ZB1a0067.org][ZB1a0067]] 讀易私言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0067
 :SOURCE:   四庫全書 文淵閣版, V22.1, p1
@@ -1388,7 +1388,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0068.org][ZB1a0068]] 易附錄纂註
+*** KR1a0069 [[mandoku:ZB1a0068.org][ZB1a0068]] 易附錄纂註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0068
 :SOURCE:   四庫全書 文淵閣版, V22.2, p9
@@ -1404,7 +1404,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0069.org][ZB1a0069]] 周易啟蒙翼傳
+*** KR1a0070 [[mandoku:ZB1a0069.org][ZB1a0069]] 周易啟蒙翼傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0069
 :SOURCE:   四庫全書 文淵閣版, V22.3, p199
@@ -1420,7 +1420,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0070.org][ZB1a0070]] 易纂言
+*** KR1a0071 [[mandoku:ZB1a0070.org][ZB1a0070]] 易纂言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0070
 :SOURCE:   四庫全書 文淵閣版, V22.4, p399
@@ -1444,7 +1444,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0071.org][ZB1a0071]] 易纂言外翼
+*** KR1a0072 [[mandoku:ZB1a0071.org][ZB1a0071]] 易纂言外翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0071
 :SOURCE:   四庫全書 文淵閣版, V22.5, p595
@@ -1461,7 +1461,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0072.org][ZB1a0072]] 易源奧義
+*** KR1a0073 [[mandoku:ZB1a0072.org][ZB1a0072]] 易源奧義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0072
 :SOURCE:   四庫全書 文淵閣版, V22.6, p697
@@ -1484,7 +1484,7 @@
      :BOOK:   4
      :END:
 
-*** [[mandoku:ZB1a0073.org][ZB1a0073]] 周易程朱傳義折衷
+*** KR1a0074 [[mandoku:ZB1a0073.org][ZB1a0073]] 周易程朱傳義折衷
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0073
 :SOURCE:   四庫全書 文淵閣版, V23.1, p1
@@ -1500,7 +1500,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0074.org][ZB1a0074]] 周易衍義
+*** KR1a0075 [[mandoku:ZB1a0074.org][ZB1a0074]] 周易衍義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0074
 :SOURCE:   四庫全書 文淵閣版, V23.2, p447
@@ -1523,7 +1523,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0075.org][ZB1a0075]] 易學濫觴
+*** KR1a0076 [[mandoku:ZB1a0075.org][ZB1a0075]] 易學濫觴
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0075
 :SOURCE:   四庫全書 文淵閣版, V24.1, p1
@@ -1540,7 +1540,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0076.org][ZB1a0076]] 大易緝說
+*** KR1a0077 [[mandoku:ZB1a0076.org][ZB1a0076]] 大易緝說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0076
 :SOURCE:   四庫全書 文淵閣版, V24.2, p17
@@ -1563,7 +1563,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0077.org][ZB1a0077]] 周易本義通釋
+*** KR1a0078 [[mandoku:ZB1a0077.org][ZB1a0077]] 周易本義通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0077
 :SOURCE:   四庫全書 文淵閣版, V24.3, p305
@@ -1580,7 +1580,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0078.org][ZB1a0078]] 周易本義集成
+*** KR1a0079 [[mandoku:ZB1a0078.org][ZB1a0078]] 周易本義集成
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0078
 :SOURCE:   四庫全書 文淵閣版, V24.4, p577
@@ -1596,7 +1596,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0079.org][ZB1a0079]] 大易象數鈎深圖
+*** KR1a0080 [[mandoku:ZB1a0079.org][ZB1a0079]] 大易象數鈎深圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0079
 :SOURCE:   四庫全書 文淵閣版, V25.1, p1
@@ -1612,7 +1612,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0080.org][ZB1a0080]] 學易記
+*** KR1a0081 [[mandoku:ZB1a0080.org][ZB1a0080]] 學易記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0080
 :SOURCE:   四庫全書 文淵閣版, V25.2, p97
@@ -1635,7 +1635,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0081.org][ZB1a0081]] 周易集傳
+*** KR1a0082 [[mandoku:ZB1a0081.org][ZB1a0081]] 周易集傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0081
 :SOURCE:   四庫全書 文淵閣版, V25.3, p417
@@ -1652,7 +1652,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0082.org][ZB1a0082]] 讀易考原
+*** KR1a0083 [[mandoku:ZB1a0082.org][ZB1a0082]] 讀易考原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0082
 :SOURCE:   四庫全書 文淵閣版, V25.4, p509
@@ -1668,7 +1668,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0083.org][ZB1a0083]] 易精蘊大義
+*** KR1a0084 [[mandoku:ZB1a0083.org][ZB1a0083]] 易精蘊大義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0083
 :SOURCE:   四庫全書 文淵閣版, V25.5, p537
@@ -1684,7 +1684,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0084.org][ZB1a0084]] 易學變通
+*** KR1a0085 [[mandoku:ZB1a0084.org][ZB1a0084]] 易學變通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0084
 :SOURCE:   四庫全書 文淵閣版, V26.1, p1
@@ -1700,7 +1700,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0085.org][ZB1a0085]] 周易會通
+*** KR1a0086 [[mandoku:ZB1a0085.org][ZB1a0085]] 周易會通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0085
 :SOURCE:   四庫全書 文淵閣版, V26.2, p69
@@ -1730,7 +1730,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0086.org][ZB1a0086]] 周易圖說
+*** KR1a0087 [[mandoku:ZB1a0086.org][ZB1a0086]] 周易圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0086
 :SOURCE:   四庫全書 文淵閣版, V26.3, p617
@@ -1747,7 +1747,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0087.org][ZB1a0087]] 周易爻變易縕
+*** KR1a0088 [[mandoku:ZB1a0087.org][ZB1a0087]] 周易爻變易縕
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0087
 :SOURCE:   四庫全書 文淵閣版, V27.1, p1
@@ -1763,7 +1763,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0088.org][ZB1a0088]] 周易參義
+*** KR1a0089 [[mandoku:ZB1a0088.org][ZB1a0088]] 周易參義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0088
 :SOURCE:   四庫全書 文淵閣版, V27.2, p195
@@ -1780,7 +1780,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0089.org][ZB1a0089]] 周易文詮
+*** KR1a0090 [[mandoku:ZB1a0089.org][ZB1a0089]] 周易文詮
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0089
 :SOURCE:   四庫全書 文淵閣版, V27.3, p423
@@ -1798,7 +1798,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0090.org][ZB1a0090]] 周易傳義大全
+*** KR1a0091 [[mandoku:ZB1a0090.org][ZB1a0090]] 周易傳義大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0090
 :SOURCE:   四庫全書 文淵閣版, V28.1, p1
@@ -1815,7 +1815,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0091.org][ZB1a0091]] 易經蒙引
+*** KR1a0092 [[mandoku:ZB1a0091.org][ZB1a0091]] 易經蒙引
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0091
 :SOURCE:   四庫全書 文淵閣版, V29.1, p1
@@ -1832,7 +1832,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0092.org][ZB1a0092]] 讀易餘言
+*** KR1a0093 [[mandoku:ZB1a0092.org][ZB1a0092]] 讀易餘言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0092
 :SOURCE:   四庫全書 文淵閣版, V30.1, p1
@@ -1849,7 +1849,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0093.org][ZB1a0093]] 啟蒙意見
+*** KR1a0094 [[mandoku:ZB1a0093.org][ZB1a0093]] 啟蒙意見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0093
 :SOURCE:   四庫全書 文淵閣版, V30.2, p95
@@ -1866,7 +1866,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0094.org][ZB1a0094]] 易經存疑
+*** KR1a0095 [[mandoku:ZB1a0094.org][ZB1a0094]] 易經存疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0094
 :SOURCE:   四庫全書 文淵閣版, V30.3, p195
@@ -1883,7 +1883,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0095.org][ZB1a0095]] 周易辯錄
+*** KR1a0096 [[mandoku:ZB1a0095.org][ZB1a0095]] 周易辯錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0095
 :SOURCE:   四庫全書 文淵閣版, V31.1, p1
@@ -1900,7 +1900,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0096.org][ZB1a0096]] 易像鈔
+*** KR1a0097 [[mandoku:ZB1a0096.org][ZB1a0096]] 易像鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0096
 :SOURCE:   四庫全書 文淵閣版, V31.2, p131
@@ -1917,7 +1917,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0097.org][ZB1a0097]] 周易象旨決錄
+*** KR1a0098 [[mandoku:ZB1a0097.org][ZB1a0097]] 周易象旨決錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0097
 :SOURCE:   四庫全書 文淵閣版, V31.3, p421
@@ -1934,7 +1934,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0098.org][ZB1a0098]] 易象鈎解
+*** KR1a0099 [[mandoku:ZB1a0098.org][ZB1a0098]] 易象鈎解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0098
 :SOURCE:   四庫全書 文淵閣版, V31.4, p651
@@ -1951,7 +1951,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0099.org][ZB1a0099]] 周易集註
+*** KR1a0100 [[mandoku:ZB1a0099.org][ZB1a0099]] 周易集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0099
 :SOURCE:   四庫全書 文淵閣版, V32.1, p1
@@ -1975,7 +1975,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0100.org][ZB1a0100]] 讀易紀聞
+*** KR1a0101 [[mandoku:ZB1a0100.org][ZB1a0100]] 讀易紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0100
 :SOURCE:   四庫全書 文淵閣版, V32.2, p429
@@ -1991,7 +1991,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0101.org][ZB1a0101]] 葉八白易傳
+*** KR1a0102 [[mandoku:ZB1a0101.org][ZB1a0101]] 葉八白易傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0101
 :SOURCE:   四庫全書 文淵閣版, V32.3, p585
@@ -2007,7 +2007,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0102.org][ZB1a0102]] 讀易述
+*** KR1a0103 [[mandoku:ZB1a0102.org][ZB1a0102]] 讀易述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0102
 :SOURCE:   四庫全書 文淵閣版, V33.1, p1
@@ -2024,7 +2024,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0103.org][ZB1a0103]] 像象管見
+*** KR1a0104 [[mandoku:ZB1a0103.org][ZB1a0103]] 像象管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0103
 :SOURCE:   四庫全書 文淵閣版, V33.2, p559
@@ -2041,7 +2041,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0104.org][ZB1a0104]] 周易劄記
+*** KR1a0105 [[mandoku:ZB1a0104.org][ZB1a0104]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0104
 :SOURCE:   四庫全書 文淵閣版, V34.1, p1
@@ -2065,7 +2065,7 @@
      :BOOK:   (2)
      :END:
 
-*** [[mandoku:ZB1a0105.org][ZB1a0105]] 周易易簡說
+*** KR1a0106 [[mandoku:ZB1a0105.org][ZB1a0105]] 周易易簡說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0105
 :SOURCE:   四庫全書 文淵閣版, V34.2, p67
@@ -2082,7 +2082,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0106.org][ZB1a0106]] 易義古象通
+*** KR1a0107 [[mandoku:ZB1a0106.org][ZB1a0106]] 易義古象通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0106
 :SOURCE:   四庫全書 文淵閣版, V34.3, p171
@@ -2106,7 +2106,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0107.org][ZB1a0107]] 周易像象述
+*** KR1a0108 [[mandoku:ZB1a0107.org][ZB1a0107]] 周易像象述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0107
 :SOURCE:   四庫全書 文淵閣版, V34.4, p369
@@ -2130,7 +2130,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0108.org][ZB1a0108]] 易用
+*** KR1a0109 [[mandoku:ZB1a0108.org][ZB1a0108]] 易用
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0108
 :SOURCE:   四庫全書 文淵閣版, V35.1, p1
@@ -2146,7 +2146,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0109.org][ZB1a0109]] 易象正
+*** KR1a0110 [[mandoku:ZB1a0109.org][ZB1a0109]] 易象正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0109
 :SOURCE:   四庫全書 文淵閣版, V35.2, p101
@@ -2163,7 +2163,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀以
+*** KR1a0111 [[mandoku:ZB1a0110.org][ZB1a0110]] 兒易內儀以
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0110
 :SOURCE:   四庫全書 文淵閣版, V35.3, p457
@@ -2194,7 +2194,7 @@
      :BOOK:   (3)
      :END:
 
-*** [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考略
+*** KR1a0112 [[mandoku:ZB1a0111.org][ZB1a0111]] 卦變考略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0111
 :SOURCE:   四庫全書 文淵閣版, V35.4, p651
@@ -2211,7 +2211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0112.org][ZB1a0112]] 古周易訂詁
+*** KR1a0113 [[mandoku:ZB1a0112.org][ZB1a0112]] 古周易訂詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0112
 :SOURCE:   四庫全書 文淵閣版, V36.1, p1
@@ -2235,7 +2235,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
+*** KR1a0114 [[mandoku:ZB1a0113.org][ZB1a0113]] 周易玩辭困學記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0113
 :SOURCE:   四庫全書 文淵閣版, V36.2, p383
@@ -2259,7 +2259,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0114.org][ZB1a0114]] 易經通注
+*** KR1a0115 [[mandoku:ZB1a0114.org][ZB1a0114]] 易經通注
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0114
 :SOURCE:   四庫全書 文淵閣版, V37.1, p1
@@ -2282,7 +2282,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0115.org][ZB1a0115]] 日講易經解義
+*** KR1a0116 [[mandoku:ZB1a0115.org][ZB1a0115]] 日講易經解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0115
 :SOURCE:   四庫全書 文淵閣版, V37.2, p201
@@ -2304,7 +2304,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0116.org][ZB1a0116]] 御纂周易折中
+*** KR1a0117 [[mandoku:ZB1a0116.org][ZB1a0116]] 御纂周易折中
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0116
 :SOURCE:   四庫全書 文淵閣版, V38.1, p1
@@ -2328,7 +2328,7 @@
      :BOOK:   (20)
      :END:
 
-*** [[mandoku:ZB1a0117.org][ZB1a0117]] 御纂周易述義
+*** KR1a0118 [[mandoku:ZB1a0117.org][ZB1a0117]] 御纂周易述義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0117
 :SOURCE:   四庫全書 文淵閣版, V38.2, p595
@@ -2345,7 +2345,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0118.org][ZB1a0118]] 讀易大旨
+*** KR1a0119 [[mandoku:ZB1a0118.org][ZB1a0118]] 讀易大旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0118
 :SOURCE:   四庫全書 文淵閣版, V39.1, p1
@@ -2369,7 +2369,7 @@
      :BOOK:   (4)
      :END:
 
-*** [[mandoku:ZB1a0119.org][ZB1a0119]] 周易稗疏
+*** KR1a0120 [[mandoku:ZB1a0119.org][ZB1a0119]] 周易稗疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0119
 :SOURCE:   四庫全書 文淵閣版, V39.2, p133
@@ -2393,7 +2393,7 @@
      :BOOK:   (2)
      :END:
 
-*** [[mandoku:ZB1a0120.org][ZB1a0120]] 易酌
+*** KR1a0121 [[mandoku:ZB1a0120.org][ZB1a0120]] 易酌
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0120
 :SOURCE:   四庫全書 文淵閣版, V39.3, p165
@@ -2417,7 +2417,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0121.org][ZB1a0121]] 田間易學
+*** KR1a0122 [[mandoku:ZB1a0121.org][ZB1a0121]] 田間易學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0121
 :SOURCE:   四庫全書 文淵閣版, V39.4, p597
@@ -2441,7 +2441,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0122.org][ZB1a0122]] 易學象數論
+*** KR1a0123 [[mandoku:ZB1a0122.org][ZB1a0122]] 易學象數論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0122
 :SOURCE:   四庫全書 文淵閣版, V40.1, p1
@@ -2458,7 +2458,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0123.org][ZB1a0123]] 周易象辭
+*** KR1a0124 [[mandoku:ZB1a0123.org][ZB1a0123]] 周易象辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0123
 :SOURCE:   四庫全書 文淵閣版, V40.2, p155
@@ -2489,7 +2489,7 @@
      :BOOK:   (1)
      :END:
 
-*** [[mandoku:ZB1a0124.org][ZB1a0124]] 周易筮述
+*** KR1a0125 [[mandoku:ZB1a0124.org][ZB1a0124]] 周易筮述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0124
 :SOURCE:   四庫全書 文淵閣版, V41.1, p1
@@ -2505,7 +2505,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0125.org][ZB1a0125]] 仲氏易
+*** KR1a0126 [[mandoku:ZB1a0125.org][ZB1a0125]] 仲氏易
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0125
 :SOURCE:   四庫全書 文淵閣版, V41.2, p183
@@ -2522,7 +2522,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0126.org][ZB1a0126]] 推易始末
+*** KR1a0127 [[mandoku:ZB1a0126.org][ZB1a0126]] 推易始末
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0126
 :SOURCE:   四庫全書 文淵閣版, V41.3, p479
@@ -2539,7 +2539,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0127.org][ZB1a0127]] 春秋占筮書
+*** KR1a0128 [[mandoku:ZB1a0127.org][ZB1a0127]] 春秋占筮書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0127
 :SOURCE:   四庫全書 文淵閣版, V41.4, p519
@@ -2556,7 +2556,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0128.org][ZB1a0128]] 易小帖
+*** KR1a0129 [[mandoku:ZB1a0128.org][ZB1a0128]] 易小帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0128
 :SOURCE:   四庫全書 文淵閣版, V41.5, p549
@@ -2573,7 +2573,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0129.org][ZB1a0129]] 易俟
+*** KR1a0130 [[mandoku:ZB1a0129.org][ZB1a0129]] 易俟
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0129
 :SOURCE:   四庫全書 文淵閣版, V42.1, p1
@@ -2597,7 +2597,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0130.org][ZB1a0130]] 讀易日鈔
+*** KR1a0131 [[mandoku:ZB1a0130.org][ZB1a0130]] 讀易日鈔
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0130
 :SOURCE:   四庫全書 文淵閣版, V42.2, p261
@@ -2614,7 +2614,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0131.org][ZB1a0131]] 周易通論
+*** KR1a0132 [[mandoku:ZB1a0131.org][ZB1a0131]] 周易通論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0131
 :SOURCE:   四庫全書 文淵閣版, V42.3, p535
@@ -2631,7 +2631,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0132.org][ZB1a0132]] 周易觀彖
+*** KR1a0133 [[mandoku:ZB1a0132.org][ZB1a0132]] 周易觀彖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0132
 :SOURCE:   四庫全書 文淵閣版, V42.4, p611
@@ -2648,7 +2648,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0133.org][ZB1a0133]] 周易淺述
+*** KR1a0134 [[mandoku:ZB1a0133.org][ZB1a0133]] 周易淺述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0133
 :SOURCE:   四庫全書 文淵閣版, V43.1, p1
@@ -2678,7 +2678,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB1a0134.org][ZB1a0134]] 易原就正
+*** KR1a0135 [[mandoku:ZB1a0134.org][ZB1a0134]] 易原就正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0134
 :SOURCE:   四庫全書 文淵閣版, V43.2, p349
@@ -2701,7 +2701,7 @@
      :BOOK:   (10)
      :END:
 
-*** [[mandoku:ZB1a0135.org][ZB1a0135]] 大易通解
+*** KR1a0136 [[mandoku:ZB1a0135.org][ZB1a0135]] 大易通解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0135
 :SOURCE:   四庫全書 文淵閣版, V44.1, p1
@@ -2732,7 +2732,7 @@
      :BOOK:   (12)
      :END:
 
-*** [[mandoku:ZB1a0136.org][ZB1a0136]] 易經衷論
+*** KR1a0137 [[mandoku:ZB1a0136.org][ZB1a0136]] 易經衷論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0136
 :SOURCE:   四庫全書 文淵閣版, V44.2, p581
@@ -2749,7 +2749,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0137.org][ZB1a0137]] 易圖明辨
+*** KR1a0138 [[mandoku:ZB1a0137.org][ZB1a0137]] 易圖明辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0137
 :SOURCE:   四庫全書 文淵閣版, V44.3, p639
@@ -2766,7 +2766,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0138.org][ZB1a0138]] 合訂刪補大易集義粹言
+*** KR1a0139 [[mandoku:ZB1a0138.org][ZB1a0138]] 合訂刪補大易集義粹言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0138
 :SOURCE:   四庫全書 文淵閣版, V45.1, p1 - V46.1
@@ -2783,7 +2783,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0139.org][ZB1a0139]] 周易傳註
+*** KR1a0140 [[mandoku:ZB1a0139.org][ZB1a0139]] 周易傳註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0139
 :SOURCE:   四庫全書 文淵閣版, V47.1, p1
@@ -2807,7 +2807,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0140.org][ZB1a0140]] 周易劄記
+*** KR1a0141 [[mandoku:ZB1a0140.org][ZB1a0140]] 周易劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0140
 :SOURCE:   四庫全書 文淵閣版, V47.2, p209
@@ -2824,7 +2824,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0141.org][ZB1a0141]] 周易傳義合訂
+*** KR1a0142 [[mandoku:ZB1a0141.org][ZB1a0141]] 周易傳義合訂
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0141
 :SOURCE:   四庫全書 文淵閣版, V47.3, p249
@@ -2841,7 +2841,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0142.org][ZB1a0142]] 周易玩辭集解
+*** KR1a0143 [[mandoku:ZB1a0142.org][ZB1a0142]] 周易玩辭集解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0142
 :SOURCE:   四庫全書 文淵閣版, V47.4, p427
@@ -2865,7 +2865,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0143.org][ZB1a0143]] 惠氏易說
+*** KR1a0144 [[mandoku:ZB1a0143.org][ZB1a0143]] 惠氏易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0143
 :SOURCE:   四庫全書 文淵閣版, V47.5, p675
@@ -2882,7 +2882,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0144.org][ZB1a0144]] 周易函書約存
+*** KR1a0145 [[mandoku:ZB1a0144.org][ZB1a0144]] 周易函書約存
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0144
 :SOURCE:   四庫全書 文淵閣版, V48.1, p1
@@ -2938,7 +2938,7 @@
      :BOOK:   (7)
      :END:
 
-*** [[mandoku:ZB1a0145.org][ZB1a0145]] 易箋
+*** KR1a0146 [[mandoku:ZB1a0145.org][ZB1a0145]] 易箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0145
 :SOURCE:   四庫全書 文淵閣版, V49.1, p1
@@ -2954,7 +2954,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0146.org][ZB1a0146]] 學易初津
+*** KR1a0147 [[mandoku:ZB1a0146.org][ZB1a0146]] 學易初津
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0146
 :SOURCE:   四庫全書 文淵閣版, V49.2, p239
@@ -2970,7 +2970,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0146a.org][ZB1a0146a]] 易翼宗
+*** KR1a0148 [[mandoku:ZB1a0146a.org][ZB1a0146a]] 易翼宗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0146a
 :SOURCE:   四庫全書 文淵閣版, V49.3, p287
@@ -2984,7 +2984,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB1a0146b.org][ZB1a0146b]] 易翼說
+*** KR1a0149 [[mandoku:ZB1a0146b.org][ZB1a0146b]] 易翼說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0146b
 :SOURCE:   四庫全書 文淵閣版, V49.4, p471
@@ -2998,7 +2998,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB1a0147.org][ZB1a0147]] 周易孔義集說
+*** KR1a0150 [[mandoku:ZB1a0147.org][ZB1a0147]] 周易孔義集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0147
 :SOURCE:   四庫全書 文淵閣版, V50.1, p1
@@ -3015,7 +3015,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0148.org][ZB1a0148]] 易翼述信
+*** KR1a0151 [[mandoku:ZB1a0148.org][ZB1a0148]] 易翼述信
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0148
 :SOURCE:   四庫全書 文淵閣版, V50.2, p525
@@ -3032,7 +3032,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0149.org][ZB1a0149]] 周易淺釋
+*** KR1a0152 [[mandoku:ZB1a0149.org][ZB1a0149]] 周易淺釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0149
 :SOURCE:   四庫全書 文淵閣版, V51.1, p1
@@ -3049,7 +3049,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0150.org][ZB1a0150]] 周易洗心
+*** KR1a0153 [[mandoku:ZB1a0150.org][ZB1a0150]] 周易洗心
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0150
 :SOURCE:   四庫全書 文淵閣版, V51.2, p181
@@ -3073,7 +3073,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0151.org][ZB1a0151]] 豐川易說
+*** KR1a0154 [[mandoku:ZB1a0151.org][ZB1a0151]] 豐川易說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0151
 :SOURCE:   四庫全書 文淵閣版, V51.3, p383
@@ -3097,7 +3097,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB1a0152.org][ZB1a0152]] 周易述
+*** KR1a0155 [[mandoku:ZB1a0152.org][ZB1a0152]] 周易述
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0152
 :SOURCE:   四庫全書 文淵閣版, V52.1, p1
@@ -3114,7 +3114,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0153.org][ZB1a0153]] 易漢學
+*** KR1a0156 [[mandoku:ZB1a0153.org][ZB1a0153]] 易漢學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0153
 :SOURCE:   四庫全書 文淵閣版, V52.2, p301
@@ -3131,7 +3131,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0154.org][ZB1a0154]] 易例
+*** KR1a0157 [[mandoku:ZB1a0154.org][ZB1a0154]] 易例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0154
 :SOURCE:   四庫全書 文淵閣版, V52.3, p371
@@ -3148,7 +3148,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0155.org][ZB1a0155]] 易象大意存解
+*** KR1a0158 [[mandoku:ZB1a0155.org][ZB1a0155]] 易象大意存解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0155
 :SOURCE:   四庫全書 文淵閣版, V52.4, p421
@@ -3164,7 +3164,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0156.org][ZB1a0156]] 大易擇言
+*** KR1a0159 [[mandoku:ZB1a0156.org][ZB1a0156]] 大易擇言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0156
 :SOURCE:   四庫全書 文淵閣版, V52.5, p451
@@ -3181,7 +3181,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0157.org][ZB1a0157]] 周易辨畫
+*** KR1a0160 [[mandoku:ZB1a0157.org][ZB1a0157]] 周易辨畫
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0157
 :SOURCE:   四庫全書 文淵閣版, V53.1, p1
@@ -3197,7 +3197,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0158.org][ZB1a0158]] 周易圖書質疑
+*** KR1a0161 [[mandoku:ZB1a0158.org][ZB1a0158]] 周易圖書質疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0158
 :SOURCE:   四庫全書 文淵閣版, V53.2, p421
@@ -3214,7 +3214,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0159.org][ZB1a0159]] 周易章句證異
+*** KR1a0162 [[mandoku:ZB1a0159.org][ZB1a0159]] 周易章句證異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0159
 :SOURCE:   四庫全書 文淵閣版, V53.3, p671
@@ -3231,7 +3231,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0160.org][ZB1a0160]] 乾坤鑿度
+*** KR1a0163 [[mandoku:ZB1a0160.org][ZB1a0160]] 乾坤鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0160
 :SOURCE:   四庫全書 文淵閣版, V53.4, p821
@@ -3247,7 +3247,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0161.org][ZB1a0161]] 易緯稽覽圖
+*** KR1a0164 [[mandoku:ZB1a0161.org][ZB1a0161]] 易緯稽覽圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0161
 :SOURCE:   四庫全書 文淵閣版, V53.5, p840
@@ -3263,7 +3263,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0162.org][ZB1a0162]] 易緯辨終備
+*** KR1a0165 [[mandoku:ZB1a0162.org][ZB1a0162]] 易緯辨終備
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0162
 :SOURCE:   四庫全書 文淵閣版, V53.6, p864
@@ -3279,7 +3279,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0163.org][ZB1a0163]] 周易乾鑿度
+*** KR1a0166 [[mandoku:ZB1a0163.org][ZB1a0163]] 周易乾鑿度
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0163
 :SOURCE:   四庫全書 文淵閣版, V53.7, p866
@@ -3295,7 +3295,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0164.org][ZB1a0164]] 易緯通卦驗
+*** KR1a0167 [[mandoku:ZB1a0164.org][ZB1a0164]] 易緯通卦驗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0164
 :SOURCE:   四庫全書 文淵閣版, V53.8, p884
@@ -3311,7 +3311,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0165.org][ZB1a0165]] 易緯乾元序制記
+*** KR1a0168 [[mandoku:ZB1a0165.org][ZB1a0165]] 易緯乾元序制記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0165
 :SOURCE:   四庫全書 文淵閣版, V53.9, p899
@@ -3327,7 +3327,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0166.org][ZB1a0166]] 易緯是類謀
+*** KR1a0169 [[mandoku:ZB1a0166.org][ZB1a0166]] 易緯是類謀
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0166
 :SOURCE:   四庫全書 文淵閣版, V53.10, p903
@@ -3343,7 +3343,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1a0167.org][ZB1a0167]] 易緯坤靈圖
+*** KR1a0170 [[mandoku:ZB1a0167.org][ZB1a0167]] 易緯坤靈圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1a0167
 :SOURCE:   四庫全書 文淵閣版, V53.11, p909

@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB4i 詩文評類
-*** [[mandoku:ZB4d/ZB4d0001/ZB4d0001.org][ZB4d0001]] 文心雕龍
+** KR4i ZB4i 詩文評類
+*** KR4i0001 [[mandoku:ZB4d/ZB4d0001/ZB4d0001.org][ZB4d0001]] 文心雕龍
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0001
 :SOURCE:   四庫全書 文淵閣版, V1478.1, p1
@@ -19,7 +19,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0002.org][ZB4d0002]] 文心雕龍輯注
+*** KR4i0002 [[mandoku:ZB4d0002.org][ZB4d0002]] 文心雕龍輯注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0002
 :SOURCE:   四庫全書 文淵閣版, V1478.2, p71
@@ -37,7 +37,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0003.org][ZB4d0003]] 詩品
+*** KR4i0003 [[mandoku:ZB4d0003.org][ZB4d0003]] 詩品
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0003
 :SOURCE:   四庫全書 文淵閣版, V1478.3, p189
@@ -55,7 +55,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0004.org][ZB4d0004]] 文章緣起
+*** KR4i0004 [[mandoku:ZB4d0004.org][ZB4d0004]] 文章緣起
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0004
 :SOURCE:   四庫全書 文淵閣版, V1478.4, p203
@@ -85,7 +85,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0005.org][ZB4d0005]] 本事詩
+*** KR4i0005 [[mandoku:ZB4d0005.org][ZB4d0005]] 本事詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0005
 :SOURCE:   四庫全書 文淵閣版, V1478.5, p231
@@ -103,7 +103,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0006.org][ZB4d0006]] 六一詩話
+*** KR4i0006 [[mandoku:ZB4d0006.org][ZB4d0006]] 六一詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0006
 :SOURCE:   四庫全書 文淵閣版, V1478.6, p247
@@ -121,7 +121,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0007.org][ZB4d0007]] 續詩話
+*** KR4i0007 [[mandoku:ZB4d0007.org][ZB4d0007]] 續詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0007
 :SOURCE:   四庫全書 文淵閣版, V1478.7, p257
@@ -139,7 +139,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0008.org][ZB4d0008]] 中山詩話
+*** KR4i0008 [[mandoku:ZB4d0008.org][ZB4d0008]] 中山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0008
 :SOURCE:   四庫全書 文淵閣版, V1478.8, p265
@@ -157,7 +157,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0009.org][ZB4d0009]] 後山詩話
+*** KR4i0009 [[mandoku:ZB4d0009.org][ZB4d0009]] 後山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0009
 :SOURCE:   四庫全書 文淵閣版, V1478.9, p279
@@ -175,7 +175,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0010.org][ZB4d0010]] 臨漢隱居詩話
+*** KR4i0010 [[mandoku:ZB4d0010.org][ZB4d0010]] 臨漢隱居詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0010
 :SOURCE:   四庫全書 文淵閣版, V1478.10, p291
@@ -193,7 +193,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0011.org][ZB4d0011]] 優古堂詩話
+*** KR4i0011 [[mandoku:ZB4d0011.org][ZB4d0011]] 優古堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0011
 :SOURCE:   四庫全書 文淵閣版, V1478.11, p299
@@ -211,7 +211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0012.org][ZB4d0012]] 詩話總龜
+*** KR4i0012 [[mandoku:ZB4d0012.org][ZB4d0012]] 詩話總龜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0012
 :SOURCE:   四庫全書 文淵閣版, V1478.12, p329
@@ -241,7 +241,7 @@
       :BOOK:   (13)
       :END:
 
-*** SB14n318 花閒集
+*** KR4i0013 SB14n318 花閒集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n318
@@ -276,7 +276,7 @@
 [[krpimg:sbck/SB1/SB14n318/SB14n318_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n318/SB14n318_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB14n318/SB14n318_003-002.tif][冊 3]]
-*** [[mandoku:ZB4d0013.org][ZB4d0013]] 彥周詩話
+*** KR4i0014 [[mandoku:ZB4d0013.org][ZB4d0013]] 彥周詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0013
 :SOURCE:   四庫全書 文淵閣版, V1478.13, p907
@@ -294,7 +294,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0014.org][ZB4d0014]] 紫薇詩話
+*** KR4i0015 [[mandoku:ZB4d0014.org][ZB4d0014]] 紫薇詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0014
 :SOURCE:   四庫全書 文淵閣版, V1478.14, p927
@@ -312,7 +312,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0015.org][ZB4d0015]] 四六話
+*** KR4i0016 [[mandoku:ZB4d0015.org][ZB4d0015]] 四六話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0015
 :SOURCE:   四庫全書 文淵閣版, V1478.15, p941
@@ -330,7 +330,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0016.org][ZB4d0016]] 珊瑚鉤詩話
+*** KR4i0017 [[mandoku:ZB4d0016.org][ZB4d0016]] 珊瑚鉤詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0016
 :SOURCE:   四庫全書 文淵閣版, V1478.16, p961
@@ -347,7 +347,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0017.org][ZB4d0017]] 石林詩話
+*** KR4i0018 [[mandoku:ZB4d0017.org][ZB4d0017]] 石林詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0017
 :SOURCE:   四庫全書 文淵閣版, V1478.17, p985
@@ -365,7 +365,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0018.org][ZB4d0018]] 藏海詩話
+*** KR4i0019 [[mandoku:ZB4d0018.org][ZB4d0018]] 藏海詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0018
 :SOURCE:   四庫全書 文淵閣版, V1479.1, p1
@@ -383,7 +383,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0019.org][ZB4d0019]] 風月堂詩話
+*** KR4i0020 [[mandoku:ZB4d0019.org][ZB4d0019]] 風月堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0019
 :SOURCE:   四庫全書 文淵閣版, V1479.2, p13
@@ -401,7 +401,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0020.org][ZB4d0020]] 歲寒堂詩話
+*** KR4i0021 [[mandoku:ZB4d0020.org][ZB4d0020]] 歲寒堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0020
 :SOURCE:   四庫全書 文淵閣版, V1479.3, p31
@@ -419,7 +419,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0021.org][ZB4d0021]] 庚溪詩話
+*** KR4i0022 [[mandoku:ZB4d0021.org][ZB4d0021]] 庚溪詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0021
 :SOURCE:   四庫全書 文淵閣版, V1479.4, p53
@@ -437,7 +437,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0022.org][ZB4d0022]] 韻語陽秋
+*** KR4i0023 [[mandoku:ZB4d0022.org][ZB4d0022]] 韻語陽秋
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0022
 :SOURCE:   四庫全書 文淵閣版, V1479.5, p79
@@ -455,7 +455,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0023.org][ZB4d0023]] 䂬溪詩話
+*** KR4i0024 [[mandoku:ZB4d0023.org][ZB4d0023]] 䂬溪詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0023
 :SOURCE:   四庫全書 文淵閣版, V1479.6, p215
@@ -473,7 +473,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0024.org][ZB4d0024]] 唐詩紀事
+*** KR4i0025 [[mandoku:ZB4d0024.org][ZB4d0024]] 唐詩紀事
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0024
 :SOURCE:   四庫全書 文淵閣版, V1479.7, p257
@@ -498,7 +498,7 @@
       :BOOK:   (26)
       :END:
 
-*** [[mandoku:ZB4d0025.org][ZB4d0025]] 觀林詩話
+*** KR4i0026 [[mandoku:ZB4d0025.org][ZB4d0025]] 觀林詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0025
 :SOURCE:   四庫全書 文淵閣版, V1480.1, p1
@@ -515,7 +515,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0026.org][ZB4d0026]] 四六談麈
+*** KR4i0027 [[mandoku:ZB4d0026.org][ZB4d0026]] 四六談麈
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0026
 :SOURCE:   四庫全書 文淵閣版, V1480.2, p19
@@ -533,7 +533,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0027.org][ZB4d0027]] 環溪詩話
+*** KR4i0028 [[mandoku:ZB4d0027.org][ZB4d0027]] 環溪詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0027
 :SOURCE:   四庫全書 文淵閣版, V1480.3, p27
@@ -550,7 +550,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0028.org][ZB4d0028]] 漁隱叢話
+*** KR4i0029 [[mandoku:ZB4d0028.org][ZB4d0028]] 漁隱叢話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0028
 :SOURCE:   四庫全書 文淵閣版, V1480.4, p45
@@ -580,7 +580,7 @@
       :BOOK:   (9)
       :END:
 
-*** [[mandoku:ZB4d0029.org][ZB4d0029]] 竹坡詩詩
+*** KR4i0030 [[mandoku:ZB4d0029.org][ZB4d0029]] 竹坡詩詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0029
 :SOURCE:   四庫全書 文淵閣版, V1480.5, p665
@@ -598,7 +598,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0030.org][ZB4d0030]] 文則
+*** KR4i0031 [[mandoku:ZB4d0030.org][ZB4d0030]] 文則
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0030
 :SOURCE:   四庫全書 文淵閣版, V1480.6, p683
@@ -616,7 +616,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0031.org][ZB4d0031]] 二老堂詩話
+*** KR4i0032 [[mandoku:ZB4d0031.org][ZB4d0031]] 二老堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0031
 :SOURCE:   四庫全書 文淵閣版, V1480.7, p709
@@ -634,7 +634,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0032.org][ZB4d0032]] 誠齋詩話
+*** KR4i0033 [[mandoku:ZB4d0032.org][ZB4d0032]] 誠齋詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0032
 :SOURCE:   四庫全書 文淵閣版, V1480.8, p725
@@ -652,7 +652,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0033.org][ZB4d0033]] 餘師錄
+*** KR4i0034 [[mandoku:ZB4d0033.org][ZB4d0033]] 餘師錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0033
 :SOURCE:   四庫全書 文淵閣版, V1480.9, p747
@@ -670,7 +670,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0034.org][ZB4d0034]] 滄浪詩話
+*** KR4i0035 [[mandoku:ZB4d0034.org][ZB4d0034]] 滄浪詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0034
 :SOURCE:   四庫全書 文淵閣版, V1480.10, p809
@@ -688,7 +688,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0035.org][ZB4d0035]] 詩人玉屑
+*** KR4i0036 [[mandoku:ZB4d0035.org][ZB4d0035]] 詩人玉屑
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0035
 :SOURCE:   四庫全書 文淵閣版, V1481.1, p1
@@ -713,7 +713,7 @@
       :BOOK:   (10)
       :END:
 
-*** [[mandoku:ZB4d0036.org][ZB4d0036]] 後村詩話
+*** KR4i0037 [[mandoku:ZB4d0036.org][ZB4d0036]] 後村詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0036
 :SOURCE:   四庫全書 文淵閣版, V1481.2, p301
@@ -731,7 +731,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0037.org][ZB4d0037]] 娛書堂詩話
+*** KR4i0038 [[mandoku:ZB4d0037.org][ZB4d0037]] 娛書堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0037
 :SOURCE:   四庫全書 文淵閣版, V1481.3, p461
@@ -749,7 +749,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0038.org][ZB4d0038]] 荊溪林下偶談
+*** KR4i0039 [[mandoku:ZB4d0038.org][ZB4d0038]] 荊溪林下偶談
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0038
 :SOURCE:   四庫全書 文淵閣版, V1481.4, p485
@@ -767,7 +767,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0039.org][ZB4d0039]] 草堂詩話
+*** KR4i0040 [[mandoku:ZB4d0039.org][ZB4d0039]] 草堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0039
 :SOURCE:   四庫全書 文淵閣版, V1481.5, p519
@@ -785,7 +785,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0040.org][ZB4d0040]] 竹莊詩話
+*** KR4i0041 [[mandoku:ZB4d0040.org][ZB4d0040]] 竹莊詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0040
 :SOURCE:   四庫全書 文淵閣版, V1481.6, p549
@@ -802,7 +802,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0041.org][ZB4d0041]] 文章精義
+*** KR4i0042 [[mandoku:ZB4d0041.org][ZB4d0041]] 文章精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0041
 :SOURCE:   四庫全書 文淵閣版, V1481.7, p803
@@ -819,7 +819,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0042.org][ZB4d0042]] 浩然齋雅談
+*** KR4i0043 [[mandoku:ZB4d0042.org][ZB4d0042]] 浩然齋雅談
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0042
 :SOURCE:   四庫全書 文淵閣版, V1481.8, p813
@@ -837,7 +837,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0043.org][ZB4d0043]] 對床夜語
+*** KR4i0044 [[mandoku:ZB4d0043.org][ZB4d0043]] 對床夜語
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0043
 :SOURCE:   四庫全書 文淵閣版, V1481.9, p853
@@ -855,7 +855,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0044.org][ZB4d0044]] 詩林廣記
+*** KR4i0045 [[mandoku:ZB4d0044.org][ZB4d0044]] 詩林廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0044
 :SOURCE:   四庫全書 文淵閣版, V1482.1, p1
@@ -884,7 +884,7 @@
       :BOOK:   (4)
       :END:
 
-*** [[mandoku:ZB4d0045.org][ZB4d0045]] 文說
+*** KR4i0046 [[mandoku:ZB4d0045.org][ZB4d0045]] 文說
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0045
 :SOURCE:   四庫全書 文淵閣版, V1482.2, p243
@@ -901,7 +901,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0046.org][ZB4d0046]] 修辭鑑衡
+*** KR4i0047 [[mandoku:ZB4d0046.org][ZB4d0046]] 修辭鑑衡
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0046
 :SOURCE:   四庫全書 文淵閣版, V1482.3, p255
@@ -919,7 +919,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0047.org][ZB4d0047]] 金石例
+*** KR4i0048 [[mandoku:ZB4d0047.org][ZB4d0047]] 金石例
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0047
 :SOURCE:   四庫全書 文淵閣版, V1482.4, p289
@@ -937,7 +937,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0048.org][ZB4d0048]] 作義要訣
+*** KR4i0049 [[mandoku:ZB4d0048.org][ZB4d0048]] 作義要訣
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0048
 :SOURCE:   四庫全書 文淵閣版, V1482.5, p371
@@ -955,7 +955,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0049.org][ZB4d0049]] 墓銘舉例
+*** KR4i0050 [[mandoku:ZB4d0049.org][ZB4d0049]] 墓銘舉例
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0049
 :SOURCE:   四庫全書 文淵閣版, V1482.6, p379
@@ -973,7 +973,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0050.org][ZB4d0050]] 懷麓堂詩話
+*** KR4i0051 [[mandoku:ZB4d0050.org][ZB4d0050]] 懷麓堂詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0050
 :SOURCE:   四庫全書 文淵閣版, V1482.7, p435
@@ -991,7 +991,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0051.org][ZB4d0051]] 頣山詩話
+*** KR4i0052 [[mandoku:ZB4d0051.org][ZB4d0051]] 頣山詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0051
 :SOURCE:   四庫全書 文淵閣版, V1482.8, p459
@@ -1009,7 +1009,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0052.org][ZB4d0052]] 詩話補遺
+*** KR4i0053 [[mandoku:ZB4d0052.org][ZB4d0052]] 詩話補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0052
 :SOURCE:   四庫全書 文淵閣版, V1482.9, p473
@@ -1027,7 +1027,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0053.org][ZB4d0053]] 秇圃擷餘
+*** KR4i0054 [[mandoku:ZB4d0053.org][ZB4d0053]] 秇圃擷餘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0053
 :SOURCE:   四庫全書 文淵閣版, V1482.10, p509
@@ -1045,7 +1045,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0054.org][ZB4d0054]] 唐音癸籤
+*** KR4i0055 [[mandoku:ZB4d0054.org][ZB4d0054]] 唐音癸籤
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0054
 :SOURCE:   四庫全書 文淵閣版, V1482.11, p519
@@ -1063,7 +1063,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0055.org][ZB4d0055]] 歷代詩話
+*** KR4i0056 [[mandoku:ZB4d0055.org][ZB4d0055]] 歷代詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0055
 :SOURCE:   四庫全書 文淵閣版, V1483.1, p1
@@ -1080,7 +1080,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0056.org][ZB4d0056]] 金石要例
+*** KR4i0057 [[mandoku:ZB4d0056.org][ZB4d0056]] 金石要例
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0056
 :SOURCE:   四庫全書 文淵閣版, V1483.2, p819
@@ -1098,7 +1098,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0057.org][ZB4d0057]] 漁洋詩話
+*** KR4i0058 [[mandoku:ZB4d0057.org][ZB4d0057]] 漁洋詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0057
 :SOURCE:   四庫全書 文淵閣版, V1483.3, p831
@@ -1116,7 +1116,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0057a.org][ZB4d0057a]] 師友詩傳錄
+*** KR4i0059 [[mandoku:ZB4d0057a.org][ZB4d0057a]] 師友詩傳錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0057a
 :SOURCE:   四庫全書 文淵閣版, V1483.4, p881
@@ -1146,7 +1146,7 @@
       :FUNCTION: 編
       :END:
 
-*** [[mandoku:ZB4d0058.org][ZB4d0058]] 聲調譜
+*** KR4i0060 [[mandoku:ZB4d0058.org][ZB4d0058]] 聲調譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0058
 :SOURCE:   四庫全書 文淵閣版, V1483.5, p903
@@ -1164,7 +1164,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0059.org][ZB4d0059]] 談龍錄
+*** KR4i0061 [[mandoku:ZB4d0059.org][ZB4d0059]] 談龍錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0059
 :SOURCE:   四庫全書 文淵閣版, V1483.6, p913
@@ -1182,7 +1182,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0060.org][ZB4d0060]] 宋詩紀事
+*** KR4i0062 [[mandoku:ZB4d0060.org][ZB4d0060]] 宋詩紀事
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0060
 :SOURCE:   四庫全書 文淵閣版, V1484.1, p1 - V1485.1
@@ -1207,7 +1207,7 @@
       :BOOK:   (64)
       :END:
 
-*** [[mandoku:ZB4d0061.org][ZB4d0061]] 全閩詩話
+*** KR4i0063 [[mandoku:ZB4d0061.org][ZB4d0061]] 全閩詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0061
 :SOURCE:   四庫全書 文淵閣版, V1486.1, p1
@@ -1225,7 +1225,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4d0062.org][ZB4d0062]] 五代詩話
+*** KR4i0064 [[mandoku:ZB4d0062.org][ZB4d0062]] 五代詩話
 :PROPERTIES:
 :CUSTOM_ID:  ZB4d0062
 :SOURCE:   四庫全書 文淵閣版, V1486.2, p453

@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB3b 兵家類
-*** [[mandoku:ZB3b0001.org][ZB3b0001]] 握奇經
+** KR3b ZB3b 兵家類
+*** KR3b0001 [[mandoku:ZB3b0001.org][ZB3b0001]] 握奇經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0001
 :SOURCE:   四庫全書 文淵閣版, V726.1, p1
@@ -35,7 +35,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0002.org][ZB3b0002]] 六韜
+*** KR3b0002 [[mandoku:ZB3b0002.org][ZB3b0002]] 六韜
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0002
 :SOURCE:   四庫全書 文淵閣版, V726.2, p9
@@ -51,7 +51,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0003.org][ZB3b0003]] 孫子
+*** KR3b0003 [[mandoku:ZB3b0003.org][ZB3b0003]] 孫子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0003
 :SOURCE:   四庫全書 文淵閣版, V726.3, p43
@@ -68,7 +68,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
+*** KR3b0004 [[mandoku:ZB3b0004.org][ZB3b0004]] 吳子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0004
 :SOURCE:   四庫全書 文淵閣版, V726.4, p57
@@ -85,7 +85,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0005.org][ZB3b0005]] 司馬法
+*** KR3b0005 [[mandoku:ZB3b0005.org][ZB3b0005]] 司馬法
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0005
 :SOURCE:   四庫全書 文淵閣版, V726.5, p65
@@ -102,7 +102,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0006.org][ZB3b0006]] 尉繚子
+*** KR3b0006 [[mandoku:ZB3b0006.org][ZB3b0006]] 尉繚子
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0006
 :SOURCE:   四庫全書 文淵閣版, V726.6, p71
@@ -118,7 +118,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0007.org][ZB3b0007]] 黃石公三畧
+*** KR3b0007 [[mandoku:ZB3b0007.org][ZB3b0007]] 黃石公三畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0007
 :SOURCE:   四庫全書 文淵閣版, V726.7, p89
@@ -134,7 +134,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0008.org][ZB3b0008]] 三畧直解
+*** KR3b0008 [[mandoku:ZB3b0008.org][ZB3b0008]] 三畧直解
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0008
 :SOURCE:   四庫全書 文淵閣版, V726.8, p99
@@ -151,7 +151,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0009.org][ZB3b0009]] 黃石公素書
+*** KR3b0009 [[mandoku:ZB3b0009.org][ZB3b0009]] 黃石公素書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0009
 :SOURCE:   四庫全書 文淵閣版, V726.9, p127
@@ -173,7 +173,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0010.org][ZB3b0010]] 李衞公問對
+*** KR3b0010 [[mandoku:ZB3b0010.org][ZB3b0010]] 李衞公問對
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0010
 :SOURCE:   四庫全書 文淵閣版, V726.10, p143
@@ -190,7 +190,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0011.org][ZB3b0011]] 太白陰經
+*** KR3b0011 [[mandoku:ZB3b0011.org][ZB3b0011]] 太白陰經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0011
 :SOURCE:   四庫全書 文淵閣版, V726.11, p163
@@ -207,7 +207,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0012.org][ZB3b0012]] 武經總要
+*** KR3b0012 [[mandoku:ZB3b0012.org][ZB3b0012]] 武經總要
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0012
 :SOURCE:   四庫全書 文淵閣版, V726.12, p235
@@ -242,7 +242,7 @@
      :BOOK:   (18)
      :END:
 
-*** [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
+*** KR3b0013 [[mandoku:ZB3b0013.org][ZB3b0013]] 虎鈴經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0013
 :SOURCE:   四庫全書 文淵閣版, V727.1, p1
@@ -259,7 +259,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0014.org][ZB3b0014]] 何博士備論
+*** KR3b0014 [[mandoku:ZB3b0014.org][ZB3b0014]] 何博士備論
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0014
 :SOURCE:   四庫全書 文淵閣版, V727.2, p131
@@ -276,7 +276,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0015.org][ZB3b0015]] 守城錄
+*** KR3b0015 [[mandoku:ZB3b0015.org][ZB3b0015]] 守城錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0015
 :SOURCE:   四庫全書 文淵閣版, V727.3, p175
@@ -317,7 +317,7 @@
      :FUNCTION: 撰
      :END:
 
-*** [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
+*** KR3b0016 [[mandoku:ZB3b0016.org][ZB3b0016]] 武編
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0016
 :SOURCE:   四庫全書 文淵閣版, V727.4, p205
@@ -346,7 +346,7 @@
      :BOOK:   (4)
      :END:
 
-*** [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
+*** KR3b0017 [[mandoku:ZB3b0017.org][ZB3b0017]] 陣紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0017
 :SOURCE:   四庫全書 文淵閣版, V727.5, p675
@@ -362,7 +362,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
+*** KR3b0018 [[mandoku:ZB3b0018.org][ZB3b0018]] 江南經畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0018
 :SOURCE:   四庫全書 文淵閣版, V728.1, p1
@@ -379,7 +379,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB3b0019.org][ZB3b0019]] 紀效新書
+*** KR3b0019 [[mandoku:ZB3b0019.org][ZB3b0019]] 紀效新書
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0019
 :SOURCE:   四庫全書 文淵閣版, V728.2, p487
@@ -403,7 +403,7 @@
      :BOOK:   (6)
      :END:
 
-*** [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
+*** KR3b0020 [[mandoku:ZB3b0020.org][ZB3b0020]] 練兵實紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB3b0020
 :SOURCE:   四庫全書 文淵閣版, V728.3, p687

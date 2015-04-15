@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB2h 史鈔類
-*** [[mandoku:ZB2h0001.org][ZB2h0001]] 兩漢博聞
+** KR2h ZB2h 史鈔類
+*** KR2h0001 [[mandoku:ZB2h0001.org][ZB2h0001]] 兩漢博聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB2h0001
 :SOURCE:   四庫全書 文淵閣版, V461.1, p1
@@ -18,7 +18,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2h0002.org][ZB2h0002]] 通鑑總類
+*** KR2h0002 [[mandoku:ZB2h0002.org][ZB2h0002]] 通鑑總類
 :PROPERTIES:
 :CUSTOM_ID:  ZB2h0002
 :SOURCE:   四庫全書 文淵閣版, V461.2, p201 - V462.1
@@ -34,7 +34,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2h0003.org][ZB2h0003]] 南史識小錄
+*** KR2h0003 [[mandoku:ZB2h0003.org][ZB2h0003]] 南史識小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2h0003
 :SOURCE:   四庫全書 文淵閣版, V462.2, p483

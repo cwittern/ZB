@@ -1,12 +1,12 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB1j 小學類
-*** [[at:text/chant/H16-28-0100/H16-28-0100_001.txt][H16-28-0100]] 爾雅
+** KR1j ZB1j 小學類
+*** KR1j0001 [[at:text/chant/H16-28-0100/H16-28-0100_001.txt][H16-28-0100]] 爾雅
     :PROPERTIES:
     :_RESP:    
     :CUSTOM_ID: H16-28-0100
     :END:
-*** SB21n326 爾雅疏
+*** KR1j0002 SB21n326 爾雅疏
 :PROPERTIES:
 :EXTENT: 十卷
 :_RESP:    （宋）邢昺
@@ -26,7 +26,7 @@
 :EDITION: 宋刊本
 :END:
 
-*** ZB1j0001 爾雅注疏
+*** KR1j0003 ZB1j0001 爾雅注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0001
 :SOURCE:   四庫全書 文淵閣版, V221.1, p1
@@ -69,7 +69,7 @@
      :FUNCTION: 撰
      :END:
 
-*** ZB1j0002 爾雅註
+*** KR1j0004 ZB1j0002 爾雅註
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0002
 :SOURCE:   四庫全書 文淵閣版, V221.2, p237
@@ -87,7 +87,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0003 輶軒使者絕代語釋別國方言
+*** KR1j0005 ZB1j0003 輶軒使者絕代語釋別國方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0003
 :SOURCE:   四庫全書 文淵閣版, V221.3, p281
@@ -111,7 +111,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0004 釋名
+*** KR1j0006 ZB1j0004 釋名
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0004
 :SOURCE:   四庫全書 文淵閣版, V221.4, p383
@@ -129,7 +129,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0005 廣雅
+*** KR1j0007 ZB1j0005 廣雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0005
 :SOURCE:   四庫全書 文淵閣版, V221.5, p425
@@ -147,7 +147,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0006 匡謬正俗
+*** KR1j0008 ZB1j0006 匡謬正俗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0006
 :SOURCE:   四庫全書 文淵閣版, V221.6, p471
@@ -165,7 +165,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0007 羣經音辨
+*** KR1j0009 ZB1j0007 羣經音辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0007
 :SOURCE:   四庫全書 文淵閣版, V222.1, p1
@@ -183,7 +183,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0008 埤雅
+*** KR1j0010 ZB1j0008 埤雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0008
 :SOURCE:   四庫全書 文淵閣版, V222.2, p59
@@ -208,7 +208,7 @@
      :BOOK:   (6)
      :END:
 
-*** ZB1j0009 爾雅翼
+*** KR1j0011 ZB1j0009 爾雅翼
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0009
 :SOURCE:   四庫全書 文淵閣版, V222.3, p239
@@ -232,7 +232,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0010 駢雅
+*** KR1j0012 ZB1j0010 駢雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0010
 :SOURCE:   四庫全書 文淵閣版, V222.4, p515
@@ -250,7 +250,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0011 字詁
+*** KR1j0013 ZB1j0011 字詁
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0011
 :SOURCE:   四庫全書 文淵閣版, V222.5, p549
@@ -268,7 +268,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0012 續方言
+*** KR1j0014 ZB1j0012 續方言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0012
 :SOURCE:   四庫全書 文淵閣版, V222.6, p585
@@ -286,7 +286,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0013 別雅
+*** KR1j0015 ZB1j0013 別雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0013
 :SOURCE:   四庫全書 文淵閣版, V222.7, p607
@@ -304,7 +304,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0014 急就篇
+*** KR1j0016 ZB1j0014 急就篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0014
 :SOURCE:   四庫全書 文淵閣版, V223.1, p1
@@ -334,7 +334,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0015 說文解字
+*** KR1j0017 ZB1j0015 說文解字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0015
 :SOURCE:   四庫全書 文淵閣版, V223.2, p63
@@ -358,7 +358,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0016 說文繫傳
+*** KR1j0018 ZB1j0016 說文繫傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0016
 :SOURCE:   四庫全書 文淵閣版, V223.3, p385
@@ -382,7 +382,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0017 說文繫傳考異
+*** KR1j0019 ZB1j0017 說文繫傳考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0017
 :SOURCE:   四庫全書 文淵閣版, V223.4, p791
@@ -407,7 +407,7 @@
      :BOOK:   (2)
      :END:
 
-*** ZB1j0018 說文解字篆韻譜
+*** KR1j0020 ZB1j0018 說文解字篆韻譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0018
 :SOURCE:   四庫全書 文淵閣版, V223.5, p849
@@ -425,7 +425,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0019 重修玉篇
+*** KR1j0021 ZB1j0019 重修玉篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0019
 :SOURCE:   四庫全書 文淵閣版, V224.1, p1
@@ -481,7 +481,7 @@
      :BOOK:   (6)
      :END:
 
-*** ZB1j0020 千祿字書
+*** KR1j0022 ZB1j0020 千祿字書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0020
 :SOURCE:   四庫全書 文淵閣版, V224.2, p243
@@ -499,7 +499,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0021 五經文字
+*** KR1j0023 ZB1j0021 五經文字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0021
 :SOURCE:   四庫全書 文淵閣版, V224.3, p251
@@ -517,7 +517,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0022 九經字樣
+*** KR1j0024 ZB1j0022 九經字樣
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0022
 :SOURCE:   四庫全書 文淵閣版, V224.4, p295
@@ -535,7 +535,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0023 汗簡
+*** KR1j0025 ZB1j0023 汗簡
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0023
 :SOURCE:   四庫全書 文淵閣版, V224.5, p307
@@ -560,7 +560,7 @@
      :BOOK:   (3)
      :END:
 
-*** ZB1j0024 佩觽
+*** KR1j0026 ZB1j0024 佩觽
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0024
 :SOURCE:   四庫全書 文淵閣版, V224.6, p377
@@ -578,7 +578,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0025 古文四聲韻
+*** KR1j0027 ZB1j0025 古文四聲韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0025
 :SOURCE:   四庫全書 文淵閣版, V224.7, p413
@@ -596,7 +596,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0026 類篇
+*** KR1j0028 ZB1j0026 類篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0026
 :SOURCE:   四庫全書 文淵閣版, V225.1, p1
@@ -614,7 +614,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0027 歷代鐘鼎彝器款識法帖
+*** KR1j0029 ZB1j0027 歷代鐘鼎彝器款識法帖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0027
 :SOURCE:   四庫全書 文淵閣版, V225.2, p503
@@ -632,7 +632,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0028 復古編
+*** KR1j0030 ZB1j0028 復古編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0028
 :SOURCE:   四庫全書 文淵閣版, V225.3, p679
@@ -650,7 +650,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0029 班馬字類
+*** KR1j0031 ZB1j0029 班馬字類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0029
 :SOURCE:   四庫全書 文淵閣版, V225.4, p749
@@ -668,7 +668,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0030 漢隸字源
+*** KR1j0032 ZB1j0030 漢隸字源
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0030
 :SOURCE:   四庫全書 文淵閣版, V225.5, p791
@@ -686,7 +686,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0031 六書故
+*** KR1j0033 ZB1j0031 六書故
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0031
 :SOURCE:   四庫全書 文淵閣版, V226.1, p1
@@ -711,7 +711,7 @@
      :BOOK:   (12)
      :END:
 
-*** ZB1j0032 字通
+*** KR1j0034 ZB1j0032 字通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0032
 :SOURCE:   四庫全書 文淵閣版, V226.2, p2
@@ -728,7 +728,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0033 龍龕手鑑
+*** KR1j0035 ZB1j0033 龍龕手鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0033
 :SOURCE:   四庫全書 文淵閣版, V226.3, p647
@@ -746,7 +746,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0034 六書統
+*** KR1j0036 ZB1j0034 六書統
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0034
 :SOURCE:   四庫全書 文淵閣版, V227.1, p1
@@ -763,7 +763,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0035 周秦刻石釋音
+*** KR1j0037 ZB1j0035 周秦刻石釋音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0035
 :SOURCE:   四庫全書 文淵閣版, V228.1, p1
@@ -781,7 +781,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0036 字鑑
+*** KR1j0038 ZB1j0036 字鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0036
 :SOURCE:   四庫全書 文淵閣版, V228.2, p17
@@ -799,7 +799,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0037 說文字原
+*** KR1j0039 ZB1j0037 說文字原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0037
 :SOURCE:   四庫全書 文淵閣版, V228.3, p75
@@ -817,7 +817,7 @@
 
 **** textual witnesses
 ***** WYG
-*** no id 六書正譌
+*** KR1j0040 no id 六書正譌
 :PROPERTIES:
 :SOURCE:   四庫全書 文淵閣版, V228.4, p106
 :EXTENT: 5 卷
@@ -835,7 +835,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0038 漢隸分韻
+*** KR1j0041 ZB1j0038 漢隸分韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0038
 :SOURCE:   四庫全書 文淵閣版, V228.5, p183
@@ -851,7 +851,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0039 六書本義
+*** KR1j0042 ZB1j0039 六書本義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0039
 :SOURCE:   四庫全書 文淵閣版, V228.6, p285
@@ -882,7 +882,7 @@
      :BOOK:   (4)
      :END:
 
-*** ZB1j0040 奇字韻
+*** KR1j0043 ZB1j0040 奇字韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0040
 :SOURCE:   四庫全書 文淵閣版, V228.7, p375
@@ -900,7 +900,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0041 古音駢字
+*** KR1j0044 ZB1j0041 古音駢字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0041
 :SOURCE:   四庫全書 文淵閣版, V228.8, p399
@@ -937,7 +937,7 @@
      :FUNCTION: 撰
      :END:
 
-*** ZB1j0042 俗書刋誤
+*** KR1j0045 ZB1j0042 俗書刋誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0042
 :SOURCE:   四庫全書 文淵閣版, V228.9, p539
@@ -955,7 +955,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0043 字㝈
+*** KR1j0046 ZB1j0043 字㝈
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0043
 :SOURCE:   四庫全書 文淵閣版, V228.10, p587
@@ -972,7 +972,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0044 御定康熙字典
+*** KR1j0047 ZB1j0044 御定康熙字典
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0044
 :SOURCE:   四庫全書 文淵閣版, V229.1, p1 - V231.1
@@ -1039,7 +1039,7 @@
      :BOOK:   (40)
      :END:
 
-*** ZB1j0045 御製增訂清文鑑
+*** KR1j0048 ZB1j0045 御製增訂清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0045
 :SOURCE:   四庫全書 文淵閣版, V232.1, p1 - V233.1
@@ -1079,7 +1079,7 @@
      :BOOK:   (41)
      :END:
 
-*** ZB1j0046 御製滿珠蒙古漢字三合切音清文鑑
+*** KR1j0049 ZB1j0046 御製滿珠蒙古漢字三合切音清文鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0046
 :SOURCE:   四庫全書 文淵閣版, V234.1, p1
@@ -1098,7 +1098,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0047 欽定西域同文志
+*** KR1j0050 ZB1j0047 欽定西域同文志
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0047
 :SOURCE:   四庫全書 文淵閣版, V235.1, p1
@@ -1117,7 +1117,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0048 隸辨
+*** KR1j0051 ZB1j0048 隸辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0048
 :SOURCE:   四庫全書 文淵閣版, V235.2, p431
@@ -1135,7 +1135,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0049 篆隸考異
+*** KR1j0052 ZB1j0049 篆隸考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0049
 :SOURCE:   四庫全書 文淵閣版, V235.3, p845
@@ -1153,7 +1153,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0050 原本廣韻
+*** KR1j0053 ZB1j0050 原本廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0050
 :SOURCE:   四庫全書 文淵閣版, V236.1, p1
@@ -1169,7 +1169,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0051 重修廣韻
+*** KR1j0054 ZB1j0051 重修廣韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0051
 :SOURCE:   四庫全書 文淵閣版, V236.2, p223
@@ -1193,7 +1193,7 @@
 
 **** textual witnesses
 ***** WYG
-*** SB11n024 大廣益會玉篇
+*** KR1j0055 SB11n024 大廣益會玉篇
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB11n024
@@ -1221,7 +1221,7 @@
 [[krpimg:sbck/SB1/SB11n024/SB11n024_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB11n024/SB11n024_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB11n024/SB11n024_003-002.tif][冊 3]]
-*** ZB1j0052 集韻
+*** KR1j0056 ZB1j0052 集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0052
 :SOURCE:   四庫全書 文淵閣版, V236.3, p433
@@ -1245,7 +1245,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0053 切韻指掌圖
+*** KR1j0057 ZB1j0053 切韻指掌圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0053
 :SOURCE:   四庫全書 文淵閣版, V237.1, p1
@@ -1276,7 +1276,7 @@
      :FUNCTION: 撰
      :END:
 
-*** ZB1j0054 韻補
+*** KR1j0058 ZB1j0054 韻補
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0054
 :SOURCE:   四庫全書 文淵閣版, V237.2, p55
@@ -1294,7 +1294,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0055 附釋文互註禮部韻略
+*** KR1j0059 ZB1j0055 附釋文互註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0055
 :SOURCE:   四庫全書 文淵閣版, V237.3, p133
@@ -1319,7 +1319,7 @@
      :BOOK:   1
      :END:
 
-*** ZB1j0056 增修互註禮部韻略
+*** KR1j0060 ZB1j0056 增修互註禮部韻略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0056
 :SOURCE:   四庫全書 文淵閣版, V237.4, p333
@@ -1343,7 +1343,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0057 增修校正押韻釋疑
+*** KR1j0061 ZB1j0057 增修校正押韻釋疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0057
 :SOURCE:   四庫全書 文淵閣版, V237.5, p587
@@ -1374,7 +1374,7 @@
      :BOOK:   (5)
      :END:
 
-*** ZB1j0058 九經補韻
+*** KR1j0062 ZB1j0058 九經補韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0058
 :SOURCE:   四庫全書 文淵閣版, V237.6, p767
@@ -1391,7 +1391,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0059 五音集韻
+*** KR1j0063 ZB1j0059 五音集韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0059
 :SOURCE:   四庫全書 文淵閣版, V238.1, p1
@@ -1409,7 +1409,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0060 古今韻會擧要
+*** KR1j0064 ZB1j0060 古今韻會擧要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0060
 :SOURCE:   四庫全書 文淵閣版, V238.2, p357
@@ -1439,7 +1439,7 @@
      :BOOK:   (12)
      :END:
 
-*** ZB1j0061 四聲全形等子
+*** KR1j0065 ZB1j0061 四聲全形等子
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0061
 :SOURCE:   四庫全書 文淵閣版, V238.3, p837
@@ -1455,7 +1455,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0062 經史正音切韻指南
+*** KR1j0066 ZB1j0062 經史正音切韻指南
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0062
 :SOURCE:   四庫全書 文淵閣版, V238.4, p853
@@ -1473,7 +1473,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0063 洪武正韻
+*** KR1j0067 ZB1j0063 洪武正韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0063
 :SOURCE:   四庫全書 文淵閣版, V239.1, p1
@@ -1497,7 +1497,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0064 古音叢目
+*** KR1j0068 ZB1j0064 古音叢目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0064
 :SOURCE:   四庫全書 文淵閣版, V239.2, p241
@@ -1536,7 +1536,7 @@
      :BOOK:   (3)
      :END:
 
-*** ZB1j0065 古音略例
+*** KR1j0069 ZB1j0065 古音略例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0065
 :SOURCE:   四庫全書 文淵閣版, V239.3, p333
@@ -1554,7 +1554,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0066 轉注古音略
+*** KR1j0070 ZB1j0066 轉注古音略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0066
 :SOURCE:   四庫全書 文淵閣版, V239.4, p349
@@ -1572,7 +1572,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0067 毛詩古音考
+*** KR1j0071 ZB1j0067 毛詩古音考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0067
 :SOURCE:   四庫全書 文淵閣版, V239.5, p403
@@ -1590,7 +1590,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0068 屈宋古音義
+*** KR1j0072 ZB1j0068 屈宋古音義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0068
 :SOURCE:   四庫全書 文淵閣版, V239.6, p519
@@ -1608,7 +1608,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0069 御定音韻闡微
+*** KR1j0073 ZB1j0069 御定音韻闡微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0069
 :SOURCE:   四庫全書 文淵閣版, V240.1, p1
@@ -1634,7 +1634,7 @@
      :BOOK:   (12)
      :END:
 
-*** ZB1j0070 欽定同文韻統
+*** KR1j0074 ZB1j0070 欽定同文韻統
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0070
 :SOURCE:   四庫全書 文淵閣版, V240.2, p359
@@ -1658,7 +1658,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0071 欽定叶韻彙輯
+*** KR1j0075 ZB1j0071 欽定叶韻彙輯
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0071
 :SOURCE:   四庫全書 文淵閣版, V240.3, p449
@@ -1682,7 +1682,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0072 欽定音韻述微
+*** KR1j0076 ZB1j0072 欽定音韻述微
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0072
 :SOURCE:   四庫全書 文淵閣版, V240.4, p853
@@ -1701,7 +1701,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0073 音論
+*** KR1j0077 ZB1j0073 音論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0073
 :SOURCE:   四庫全書 文淵閣版, V241.1, p1
@@ -1719,7 +1719,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0074 詩本音
+*** KR1j0078 ZB1j0074 詩本音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0074
 :SOURCE:   四庫全書 文淵閣版, V241.2, p33
@@ -1737,7 +1737,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0075 易音
+*** KR1j0079 ZB1j0075 易音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0075
 :SOURCE:   四庫全書 文淵閣版, V241.3, p143
@@ -1755,7 +1755,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0076 唐韻正
+*** KR1j0080 ZB1j0076 唐韻正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0076
 :SOURCE:   四庫全書 文淵閣版, V241.4, p167
@@ -1773,7 +1773,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0077 古音表
+*** KR1j0081 ZB1j0077 古音表
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0077
 :SOURCE:   四庫全書 文淵閣版, V241.5, p521
@@ -1791,7 +1791,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0078 韻補正
+*** KR1j0082 ZB1j0078 韻補正
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0078
 :SOURCE:   四庫全書 文淵閣版, V241.6, p535
@@ -1809,7 +1809,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0079 古今通韻
+*** KR1j0083 ZB1j0079 古今通韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0079
 :SOURCE:   四庫全書 文淵閣版, V242.1, p1
@@ -1827,7 +1827,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0080 易韻
+*** KR1j0084 ZB1j0080 易韻
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0080
 :SOURCE:   四庫全書 文淵閣版, V242.2, p297
@@ -1845,7 +1845,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0081 孫氏唐韻考
+*** KR1j0085 ZB1j0081 孫氏唐韻考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0081
 :SOURCE:   四庫全書 文淵閣版, V242.3, p337
@@ -1863,7 +1863,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1j0082 古韻標準
+*** KR1j0086 ZB1j0082 古韻標準
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0082
 :SOURCE:   四庫全書 文淵閣版, V242.4, p438
@@ -1888,7 +1888,7 @@
      :BOOK:   (2)
      :END:
 
-*** ZB1j0083 六藝綱目
+*** KR1j0087 ZB1j0083 六藝綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB1j0083
 :SOURCE:   四庫全書 文淵閣版, V242.5, p581

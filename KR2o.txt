@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB2o 史評類
-*** [[mandoku:ZB2o0001.org][ZB2o0001]] 史通
+** KR2o ZB2o 史評類
+*** KR2o0001 [[mandoku:ZB2o0001.org][ZB2o0001]] 史通
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0001
 :SOURCE:   四庫全書 文淵閣版, V685.1, p1
@@ -18,7 +18,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0002.org][ZB2o0002]] 史通通釋
+*** KR2o0002 [[mandoku:ZB2o0002.org][ZB2o0002]] 史通通釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0002
 :SOURCE:   四庫全書 文淵閣版, V685.2, p157
@@ -42,7 +42,7 @@
       :BOOK:   (10)
       :END:
 
-*** [[mandoku:ZB2o0003.org][ZB2o0003]] 唐鑑
+*** KR2o0003 [[mandoku:ZB2o0003.org][ZB2o0003]] 唐鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0003
 :SOURCE:   四庫全書 文淵閣版, V685.3, p469
@@ -65,7 +65,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0004.org][ZB2o0004]] 唐史論斷
+*** KR2o0004 [[mandoku:ZB2o0004.org][ZB2o0004]] 唐史論斷
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0004
 :SOURCE:   四庫全書 文淵閣版, V685.4, p639
@@ -89,7 +89,7 @@
       :BOOK:   (3)
       :END:
 
-*** [[mandoku:ZB2o0005.org][ZB2o0005]] 唐書直筆
+*** KR2o0005 [[mandoku:ZB2o0005.org][ZB2o0005]] 唐書直筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0005
 :SOURCE:   四庫全書 文淵閣版, V685.5, p703
@@ -107,7 +107,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0006.org][ZB2o0006]] 通鑑問疑
+*** KR2o0006 [[mandoku:ZB2o0006.org][ZB2o0006]] 通鑑問疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0006
 :SOURCE:   四庫全書 文淵閣版, V686.1, p1
@@ -123,7 +123,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0007.org][ZB2o0007]] 三國雜事
+*** KR2o0007 [[mandoku:ZB2o0007.org][ZB2o0007]] 三國雜事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0007
 :SOURCE:   四庫全書 文淵閣版, V686.2, p13
@@ -140,7 +140,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0008.org][ZB2o0008]] 經幄管見
+*** KR2o0008 [[mandoku:ZB2o0008.org][ZB2o0008]] 經幄管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0008
 :SOURCE:   四庫全書 文淵閣版, V686.3, p29
@@ -157,7 +157,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0009.org][ZB2o0009]] 涉史隨筆
+*** KR2o0009 [[mandoku:ZB2o0009.org][ZB2o0009]] 涉史隨筆
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0009
 :SOURCE:   四庫全書 文淵閣版, V686.4, p75
@@ -174,7 +174,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0010.org][ZB2o0010]] 六朝通鑑博議
+*** KR2o0010 [[mandoku:ZB2o0010.org][ZB2o0010]] 六朝通鑑博議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0010
 :SOURCE:   四庫全書 文淵閣版, V686.5, p95
@@ -191,7 +191,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0011.org][ZB2o0011]] 宋大事記講義
+*** KR2o0011 [[mandoku:ZB2o0011.org][ZB2o0011]] 宋大事記講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0011
 :SOURCE:   四庫全書 文淵閣版, V686.6, p185
@@ -207,7 +207,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0012.org][ZB2o0012]] 兩漢筆記
+*** KR2o0012 [[mandoku:ZB2o0012.org][ZB2o0012]] 兩漢筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0012
 :SOURCE:   四庫全書 文淵閣版, V686.7, p413
@@ -223,7 +223,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0013.org][ZB2o0013]] 舊聞證誤
+*** KR2o0013 [[mandoku:ZB2o0013.org][ZB2o0013]] 舊聞證誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0013
 :SOURCE:   四庫全書 文淵閣版, V686.8, p571
@@ -240,7 +240,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0014.org][ZB2o0014]] 通鑑答問
+*** KR2o0014 [[mandoku:ZB2o0014.org][ZB2o0014]] 通鑑答問
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0014
 :SOURCE:   四庫全書 文淵閣版, V686.9, p617
@@ -257,7 +257,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0015.org][ZB2o0015]] 歷代名賢確論
+*** KR2o0015 [[mandoku:ZB2o0015.org][ZB2o0015]] 歷代名賢確論
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0015
 :SOURCE:   四庫全書 文淵閣版, V687.1, p1
@@ -273,7 +273,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0016.org][ZB2o0016]] 歷代通略
+*** KR2o0016 [[mandoku:ZB2o0016.org][ZB2o0016]] 歷代通略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0016
 :SOURCE:   四庫全書 文淵閣版, V688.1, p1
@@ -297,7 +297,7 @@
       :BOOK:   (4)
       :END:
 
-*** [[mandoku:ZB2o0017.org][ZB2o0017]] 十七史纂古今通要
+*** KR2o0017 [[mandoku:ZB2o0017.org][ZB2o0017]] 十七史纂古今通要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0017
 :SOURCE:   四庫全書 文淵閣版, V688.2, p111
@@ -313,7 +313,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0018.org][ZB2o0018]] 學史
+*** KR2o0018 [[mandoku:ZB2o0018.org][ZB2o0018]] 學史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0018
 :SOURCE:   四庫全書 文淵閣版, V688.3, p337
@@ -330,7 +330,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0019.org][ZB2o0019]] 史糾
+*** KR2o0019 [[mandoku:ZB2o0019.org][ZB2o0019]] 史糾
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0019
 :SOURCE:   四庫全書 文淵閣版, V688.4, p451
@@ -347,7 +347,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0020.org][ZB2o0020]] 御批資治通鑑綱目
+*** KR2o0020 [[mandoku:ZB2o0020.org][ZB2o0020]] 御批資治通鑑綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0020
 :SOURCE:   四庫全書 文淵閣版, V689.1, p1 - V691.1
@@ -377,7 +377,7 @@
       :BOOK:   (66)
       :END:
 
-*** [[mandoku:ZB2o0021.org][ZB2o0021]] 御批資治通鑑綱目前編
+*** KR2o0021 [[mandoku:ZB2o0021.org][ZB2o0021]] 御批資治通鑑綱目前編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0021
 :SOURCE:   四庫全書 文淵閣版, V692.1, p1
@@ -414,7 +414,7 @@
       :BOOK:   (16)
       :END:
 
-*** [[mandoku:ZB2o0022.org][ZB2o0022]] 御批續資治通鑑綱目
+*** KR2o0022 [[mandoku:ZB2o0022.org][ZB2o0022]] 御批續資治通鑑綱目
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0022
 :SOURCE:   四庫全書 文淵閣版, V693.1, p1 - V694.1
@@ -449,7 +449,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0023.org][ZB2o0023]] 評鑑闡要
+*** KR2o0023 [[mandoku:ZB2o0023.org][ZB2o0023]] 評鑑闡要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0023
 :SOURCE:   四庫全書 文淵閣版, V694.2, p417
@@ -472,7 +472,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2o0024.org][ZB2o0024]] 欽定古今儲貳金鑑
+*** KR2o0024 [[mandoku:ZB2o0024.org][ZB2o0024]] 欽定古今儲貳金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2o0024
 :SOURCE:   四庫全書 文淵閣版, V694.3, p583

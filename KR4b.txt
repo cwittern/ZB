@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB4b 別集類-漢六朝
-*** [[mandoku:ZB4b0001.org][ZB4b0001]] 揚子雲集
+** KR4b ZB4b 別集類-漢六朝
+*** KR4b0001 [[mandoku:ZB4b0001.org][ZB4b0001]] 揚子雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0001
 :SOURCE:   四庫全書 文淵閣版, V1063.1, p1
@@ -25,7 +25,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0002.org][ZB4b0002]] 蔡中郎集
+*** KR4b0002 [[mandoku:ZB4b0002.org][ZB4b0002]] 蔡中郎集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0002
 :SOURCE:   四庫全書 文淵閣版, V1063.2, p137
@@ -43,7 +43,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0003.org][ZB4b0003]] 孔北海集
+*** KR4b0003 [[mandoku:ZB4b0003.org][ZB4b0003]] 孔北海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0003
 :SOURCE:   四庫全書 文淵閣版, V1063.3, p231
@@ -68,7 +68,7 @@
       :BOOK:   (1)
       :END:
 
-*** [[mandoku:ZB4b0004.org][ZB4b0004]] 曹子建集
+*** KR4b0004 [[mandoku:ZB4b0004.org][ZB4b0004]] 曹子建集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0004
 :SOURCE:   四庫全書 文淵閣版, V1063.4, p263
@@ -93,7 +93,7 @@
       :BOOK:   (2)
       :END:
 
-*** [[mandoku:ZB4b0005.org][ZB4b0005]] 嵇中散集
+*** KR4b0005 [[mandoku:ZB4b0005.org][ZB4b0005]] 嵇中散集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0005
 :SOURCE:   四庫全書 文淵閣版, V1063.5, p329
@@ -111,7 +111,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0006.org][ZB4b0006]] 陸士龍集
+*** KR4b0006 [[mandoku:ZB4b0006.org][ZB4b0006]] 陸士龍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0006
 :SOURCE:   四庫全書 文淵閣版, V1063.6, p389
@@ -136,7 +136,7 @@
       :BOOK:   (4)
       :END:
 
-*** [[mandoku:ZB4b0007.org][ZB4b0007]] 陶淵明集
+*** KR4b0007 [[mandoku:ZB4b0007.org][ZB4b0007]] 陶淵明集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0007
 :SOURCE:   四庫全書 文淵閣版, V1063.7, p467
@@ -161,7 +161,7 @@
       :BOOK:   (2)
       :END:
 
-*** SB14n115 箋註陶淵明集
+*** KR4b0008 SB14n115 箋註陶淵明集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n115
@@ -194,7 +194,7 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB14n115/SB14n115_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n115/SB14n115_002-002.tif][冊 2]]
-*** [[mandoku:ZB4b0008.org][ZB4b0008]] 璇璣圖詩讀法
+*** KR4b0009 [[mandoku:ZB4b0008.org][ZB4b0008]] 璇璣圖詩讀法
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0008
 :SOURCE:   四庫全書 文淵閣版, V1063.8, p529
@@ -211,7 +211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0009.org][ZB4b0009]] 鮑明遠集
+*** KR4b0010 [[mandoku:ZB4b0009.org][ZB4b0009]] 鮑明遠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0009
 :SOURCE:   四庫全書 文淵閣版, V1063.9, p563
@@ -229,7 +229,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0010.org][ZB4b0010]] 謝宣域集
+*** KR4b0011 [[mandoku:ZB4b0010.org][ZB4b0010]] 謝宣域集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0010
 :SOURCE:   四庫全書 文淵閣版, V1063.10, p611
@@ -247,7 +247,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0011.org][ZB4b0011]] 昭明太子集
+*** KR4b0012 [[mandoku:ZB4b0011.org][ZB4b0011]] 昭明太子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0011
 :SOURCE:   四庫全書 文淵閣版, V1063.11, p647
@@ -267,7 +267,7 @@
 ***** WYG
 # *** [[mandoku:ZB4b0011a.org][ZB4b0011a]] 漢至五代
 # *** [[mandoku:ZB4b0011b.org][ZB4b0011b]] 昭明太子集
-*** [[mandoku:ZB4b0012.org][ZB4b0012]] 何水部集
+*** KR4b0013 [[mandoku:ZB4b0012.org][ZB4b0012]] 何水部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0012
 :SOURCE:   四庫全書 文淵閣版, V1063.12, p691
@@ -284,7 +284,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0013.org][ZB4b0013]] 江文通集
+*** KR4b0014 [[mandoku:ZB4b0013.org][ZB4b0013]] 江文通集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0013
 :SOURCE:   四庫全書 文淵閣版, V1063.13, p713
@@ -308,7 +308,7 @@
 
 **** textual witnesses
 ***** WYG
-*** SB14n119 梁江文通文集
+*** KR4b0015 SB14n119 梁江文通文集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n119
@@ -342,7 +342,7 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB14n119/SB14n119_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n119/SB14n119_002-002.tif][冊 2]]
-*** [[mandoku:ZB4b0014.org][ZB4b0014]] 庾開府集箋註
+*** KR4b0016 [[mandoku:ZB4b0014.org][ZB4b0014]] 庾開府集箋註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0014
 :SOURCE:   四庫全書 文淵閣版, V1064.1, p1
@@ -366,7 +366,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB4b0015.org][ZB4b0015]] 庾子山集
+*** KR4b0017 [[mandoku:ZB4b0015.org][ZB4b0015]] 庾子山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0015
 :SOURCE:   四庫全書 文淵閣版, V1064.2, p279
@@ -397,7 +397,7 @@
       :BOOK:   (14)
       :END:
 
-*** [[mandoku:ZB4b0016.org][ZB4b0016]] 徐孝穆集箋注
+*** KR4b0018 [[mandoku:ZB4b0016.org][ZB4b0016]] 徐孝穆集箋注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0016
 :SOURCE:   四庫全書 文淵閣版, V1064.3, p791

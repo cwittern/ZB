@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB2d 別史類
-*** [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
+** KR2d ZB2d 別史類
+*** KR2d0001 [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0002
 :SOURCE:   四庫全書 文淵閣版, V370.1, p1
@@ -18,7 +18,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0003.org][ZB2d0003]] 東觀漢記
+*** KR2d0002 [[mandoku:ZB2d0003.org][ZB2d0003]] 東觀漢記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0003
 :SOURCE:   四庫全書 文淵閣版, V370.2, p65
@@ -36,7 +36,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0004.org][ZB2d0004]] 建康實錄
+*** KR2d0003 [[mandoku:ZB2d0004.org][ZB2d0004]] 建康實錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0004
 :SOURCE:   四庫全書 文淵閣版, V370.3, p225
@@ -53,7 +53,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
+*** KR2d0004 [[mandoku:ZB2d0005.org][ZB2d0005]] 隆平集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0005
 :SOURCE:   四庫全書 文淵閣版, V371.1, p1
@@ -71,7 +71,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0006.org][ZB2d0006]] 古史
+*** KR2d0005 [[mandoku:ZB2d0006.org][ZB2d0006]] 古史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0006
 :SOURCE:   四庫全書 文淵閣版, V371.2, p205
@@ -89,7 +89,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
+*** KR2d0006 [[mandoku:ZB2d0007.org][ZB2d0007]] 通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0007
 :SOURCE:   四庫全書 文淵閣版, V372.1, p1 - V381.1
@@ -107,7 +107,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0008.org][ZB2d0008]] 東都事略
+*** KR2d0007 [[mandoku:ZB2d0008.org][ZB2d0008]] 東都事略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0008
 :SOURCE:   四庫全書 文淵閣版, V382.1, p1
@@ -125,7 +125,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0009.org][ZB2d0009]] 路史
+*** KR2d0008 [[mandoku:ZB2d0009.org][ZB2d0009]] 路史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0009
 :SOURCE:   四庫全書 文淵閣版, V383.1, p1
@@ -143,7 +143,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0010.org][ZB2d0010]] 欽定書訂契丹國志
+*** KR2d0009 [[mandoku:ZB2d0010.org][ZB2d0010]] 欽定書訂契丹國志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0010
 :SOURCE:   四庫全書 文淵閣版, V383.2, p655
@@ -168,7 +168,7 @@
       :BOOK:   (6)
       :END:
 
-*** [[mandoku:ZB2d0011.org][ZB2d0011]] 欽定重訂大金國志
+*** KR2d0010 [[mandoku:ZB2d0011.org][ZB2d0011]] 欽定重訂大金國志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0011
 :SOURCE:   四庫全書 文淵閣版, V383.3, p805
@@ -193,7 +193,7 @@
       :BOOK:   (8)
       :END:
 
-*** [[mandoku:ZB2d0012.org][ZB2d0012]] 古今紀要
+*** KR2d0011 [[mandoku:ZB2d0012.org][ZB2d0012]] 古今紀要
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0012
 :SOURCE:   四庫全書 文淵閣版, V384.1, p1
@@ -211,7 +211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0013.org][ZB2d0013]] 蕭氏續後漢書
+*** KR2d0012 [[mandoku:ZB2d0013.org][ZB2d0013]] 蕭氏續後漢書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0013
 :SOURCE:   四庫全書 文淵閣版, V384.2, p385
@@ -242,7 +242,7 @@
       :BOOK:   (12)
       :END:
 
-*** [[mandoku:ZB2d0014.org][ZB2d0014]] 郝氏續後漢書
+*** KR2d0013 [[mandoku:ZB2d0014.org][ZB2d0014]] 郝氏續後漢書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0014
 :SOURCE:   四庫全書 文淵閣版, V385.1, p1 - V386.1
@@ -266,7 +266,7 @@
 
 **** textual witnesses
 ***** WYG
-*** SB32n412 元朝秘史
+*** KR2d0014 SB32n412 元朝秘史
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n412
@@ -302,7 +302,7 @@
 [[krpimg:sbck/SB3/SB32n412/SB32n412_008-002.tif][冊 8]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_009-002.tif][冊 9]]
 [[krpimg:sbck/SB3/SB32n412/SB32n412_010-002.tif][冊 10]]
-*** [[mandoku:ZB2d0015.org][ZB2d0015]] 春秋別典
+*** KR2d0015 [[mandoku:ZB2d0015.org][ZB2d0015]] 春秋別典
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0015
 :SOURCE:   四庫全書 文淵閣版, V386.2, p589
@@ -319,7 +319,7 @@
 
 **** textual witnesses
 ***** WYG
-*** SB32n413 明史鈔略殘
+*** KR2d0016 SB32n413 明史鈔略殘
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n413
@@ -348,7 +348,7 @@
 [[krpimg:sbck/SB3/SB32n413/SB32n413_002-002.tif][冊 2]]
 [[krpimg:sbck/SB3/SB32n413/SB32n413_003-002.tif][冊 3]]
 
-*** SB32n414 罪惟錄
+*** KR2d0017 SB32n414 罪惟錄
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB32n414
@@ -434,7 +434,7 @@
 [[krpimg:sbck/SB3/SB32n414/SB32n414_059-002.tif][冊 59]]
 [[krpimg:sbck/SB3/SB32n414/SB32n414_060-002.tif][冊 60]]
 
-*** SB32n415 東山國語
+*** KR2d0018 SB32n415 東山國語
     :PROPERTIES:
     :_RESP:    （明）查繼佐,（明）沈仲方
     :EXTENT: 不分卷
@@ -465,7 +465,7 @@
 [[krpimg:sbck/SB3/SB32n415/SB32n415_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB32n415/SB32n415_002-002.tif][冊 2]]
 
-*** [[mandoku:ZB2d0016.org][ZB2d0016]] 御定歷代紀事年表
+*** KR2d0019 [[mandoku:ZB2d0016.org][ZB2d0016]] 御定歷代紀事年表
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0016
 :SOURCE:   四庫全書 文淵閣版, V387.1, p1 - V391.1
@@ -502,7 +502,7 @@
       :BOOK:   (98)
       :END:
 
-*** [[mandoku:ZB2d0017.org][ZB2d0017]] 欽定續通志
+*** KR2d0020 [[mandoku:ZB2d0017.org][ZB2d0017]] 欽定續通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0017
 :SOURCE:   四庫全書 文淵閣版, V392.1, p1 - V401.1
@@ -527,7 +527,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0018.org][ZB2d0018]] 補歷代史表
+*** KR2d0021 [[mandoku:ZB2d0018.org][ZB2d0018]] 補歷代史表
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0018
 :SOURCE:   四庫全書 文淵閣版, V402.1, p1
@@ -545,7 +545,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0019.org][ZB2d0019]] 後漢書補逸
+*** KR2d0022 [[mandoku:ZB2d0019.org][ZB2d0019]] 後漢書補逸
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0019
 :SOURCE:   四庫全書 文淵閣版, V402.2, p325
@@ -563,7 +563,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2d0020.org][ZB2d0020]] 春秋戰國異辭
+*** KR2d0023 [[mandoku:ZB2d0020.org][ZB2d0020]] 春秋戰國異辭
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0020
 :SOURCE:   四庫全書 文淵閣版, V403.1, p1
@@ -595,7 +595,7 @@
       :BOOK:   (28)
       :END:
 
-*** [[mandoku:ZB2d0021.org][ZB2d0021]] 尚史
+*** KR2d0024 [[mandoku:ZB2d0021.org][ZB2d0021]] 尚史
 :PROPERTIES:
 :CUSTOM_ID:  ZB2d0021
 :SOURCE:   四庫全書 文淵閣版, V404.1, p1 - V405.1

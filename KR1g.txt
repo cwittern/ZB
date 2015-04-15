@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB1g 五經總義類
-*** [[mandoku:ZB1g0001.org][ZB1g0001]] 駁五經異義
+** KR1g ZB1g 五經總義類
+*** KR1g0001 [[mandoku:ZB1g0001.org][ZB1g0001]] 駁五經異義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0001
 :SOURCE:   四庫全書 文淵閣版, V182.12, p295
@@ -31,7 +31,7 @@
      :BOOK:   (2)
      :END:
 
-*** [[mandoku:ZB1g0002.org][ZB1g0002]] 鄭志
+*** KR1g0002 [[mandoku:ZB1g0002.org][ZB1g0002]] 鄭志
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0002
 :SOURCE:   四庫全書 文淵閣版, V182.13, p325
@@ -48,7 +48,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0003.org][ZB1g0003]] 經典釋文
+*** KR1g0003 [[mandoku:ZB1g0003.org][ZB1g0003]] 經典釋文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0003
 :SOURCE:   四庫全書 文淵閣版, V182.14, p355
@@ -65,7 +65,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0004.org][ZB1g0004]] 公是七經小傳
+*** KR1g0004 [[mandoku:ZB1g0004.org][ZB1g0004]] 公是七經小傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0004
 :SOURCE:   四庫全書 文淵閣版, V183.1, p1
@@ -82,7 +82,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0005.org][ZB1g0005]] 程氏經說
+*** KR1g0005 [[mandoku:ZB1g0005.org][ZB1g0005]] 程氏經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0005
 :SOURCE:   四庫全書 文淵閣版, V183.2, p45
@@ -99,7 +99,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0006.org][ZB1g0006]] 六經圖
+*** KR1g0006 [[mandoku:ZB1g0006.org][ZB1g0006]] 六經圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0006
 :SOURCE:   四庫全書 文淵閣版, V183.3, p137
@@ -121,7 +121,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0007.org][ZB1g0007]] 六經正誤
+*** KR1g0007 [[mandoku:ZB1g0007.org][ZB1g0007]] 六經正誤
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0007
 :SOURCE:   四庫全書 文淵閣版, V183.4, p455
@@ -137,7 +137,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
+*** KR1g0008 [[mandoku:ZB1g0008.org][ZB1g0008]] 九經三傳沿革例
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0008
 :SOURCE:   四庫全書 文淵閣版, V183.5, p559
@@ -154,7 +154,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0009.org][ZB1g0009]] 融堂四書管見
+*** KR1g0009 [[mandoku:ZB1g0009.org][ZB1g0009]] 融堂四書管見
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0009
 :SOURCE:   四庫全書 文淵閣版, V183.6, p579
@@ -170,7 +170,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0010.org][ZB1g0010]] 四如講稿
+*** KR1g0010 [[mandoku:ZB1g0010.org][ZB1g0010]] 四如講稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0010
 :SOURCE:   四庫全書 文淵閣版, V183.7, p737
@@ -187,7 +187,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0011.org][ZB1g0011]] 六經奧論
+*** KR1g0011 [[mandoku:ZB1g0011.org][ZB1g0011]] 六經奧論
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0011
 :SOURCE:   四庫全書 文淵閣版, V184.1, p1
@@ -211,7 +211,7 @@
      :BOOK:   (5)
      :END:
 
-*** [[mandoku:ZB1g0012.org][ZB1g0012]] 明本排字九經直音
+*** KR1g0012 [[mandoku:ZB1g0012.org][ZB1g0012]] 明本排字九經直音
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0012
 :SOURCE:   四庫全書 文淵閣版, V184.2, p123
@@ -226,7 +226,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0013.org][ZB1g0013]] 五經說
+*** KR1g0013 [[mandoku:ZB1g0013.org][ZB1g0013]] 五經說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0013
 :SOURCE:   四庫全書 文淵閣版, V184.3, p245
@@ -243,7 +243,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0014.org][ZB1g0014]] 十一經問對
+*** KR1g0014 [[mandoku:ZB1g0014.org][ZB1g0014]] 十一經問對
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0014
 :SOURCE:   四庫全書 文淵閣版, V184.4, p343
@@ -259,7 +259,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0015.org][ZB1g0015]] 五經蠡測
+*** KR1g0015 [[mandoku:ZB1g0015.org][ZB1g0015]] 五經蠡測
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0015
 :SOURCE:   四庫全書 文淵閣版, V184.5, p433
@@ -275,7 +275,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0016.org][ZB1g0016]] 簡端錄
+*** KR1g0016 [[mandoku:ZB1g0016.org][ZB1g0016]] 簡端錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0016
 :SOURCE:   四庫全書 文淵閣版, V184.6, p539
@@ -292,7 +292,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0017.org][ZB1g0017]] 五經稽疑
+*** KR1g0017 [[mandoku:ZB1g0017.org][ZB1g0017]] 五經稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0017
 :SOURCE:   四庫全書 文淵閣版, V184.7, p679
@@ -309,7 +309,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB1g0018.org][ZB1g0018]] 經典稽疑
+*** KR1g0018 [[mandoku:ZB1g0018.org][ZB1g0018]] 經典稽疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0018
 :SOURCE:   四庫全書 文淵閣版, V184.8, p779
@@ -326,7 +326,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0019 欽定繙譯五經四書
+*** KR1g0019 ZB1g0019 欽定繙譯五經四書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0019
 :SOURCE:   四庫全書 文淵閣版, V185.1, p1 - V189.1
@@ -431,7 +431,7 @@
      :BOOK:   (7)
      :END:
 
-*** ZB1g0020 七經孟子考文補遺
+*** KR1g0020 ZB1g0020 七經孟子考文補遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0020
 :SOURCE:   四庫全書 文淵閣版, V190.1, p1
@@ -453,7 +453,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0021 九經誤字
+*** KR1g0021 ZB1g0021 九經誤字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0021
 :SOURCE:   四庫全書 文淵閣版, V191.1, p1
@@ -470,7 +470,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0022 經問
+*** KR1g0022 ZB1g0022 經問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0022
 :SOURCE:   四庫全書 文淵閣版, V191.2, p7
@@ -500,7 +500,7 @@
      :FUNCTION: 輯
      :END:
 
-*** ZB1g0023 十三經義疑
+*** KR1g0023 ZB1g0023 十三經義疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0023
 :SOURCE:   四庫全書 文淵閣版, V191.3, p251
@@ -516,7 +516,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0024 九經古義
+*** KR1g0024 ZB1g0024 九經古義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0024
 :SOURCE:   四庫全書 文淵閣版, V191.4, p359
@@ -533,7 +533,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0025 經稗
+*** KR1g0025 ZB1g0025 經稗
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0025
 :SOURCE:   四庫全書 文淵閣版, V191.5, p503
@@ -550,7 +550,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0026 十三經注疏正字
+*** KR1g0026 ZB1g0026 十三經注疏正字
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0026
 :SOURCE:   四庫全書 文淵閣版, V192.1, p1
@@ -567,7 +567,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0027 朱子五經語類
+*** KR1g0027 ZB1g0027 朱子五經語類
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0027
 :SOURCE:   四庫全書 文淵閣版, V193.1, p1
@@ -613,7 +613,7 @@
      :BOOK:   (5)
      :END:
 
-*** ZB1g0028 羣經補義
+*** KR1g0028 ZB1g0028 羣經補義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0028
 :SOURCE:   四庫全書 文淵閣版, V194.1, p1
@@ -630,7 +630,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0029 經咫
+*** KR1g0029 ZB1g0029 經咫
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0029
 :SOURCE:   四庫全書 文淵閣版, V194.2, p61
@@ -647,7 +647,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0030 九經辨字瀆蒙
+*** KR1g0030 ZB1g0030 九經辨字瀆蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0030
 :SOURCE:   四庫全書 文淵閣版, V194.3, p93
@@ -664,7 +664,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0031 古經解鉤沉
+*** KR1g0031 ZB1g0031 古經解鉤沉
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0031
 :SOURCE:   四庫全書 文淵閣版, V194.4, p353
@@ -681,7 +681,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1g0032 古微書
+*** KR1g0032 ZB1g0032 古微書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1g0032
 :SOURCE:   四庫全書 文淵閣版, V194.5, p807

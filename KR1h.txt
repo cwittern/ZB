@@ -1,12 +1,12 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB1h 四書類
-*** [[at:text/chant/H15-21-0080/H15-21-0080_001.txt][H15-21-0080]] 孟子
+** KR1h ZB1h 四書類
+*** KR1h0001 [[at:text/chant/H15-21-0080/H15-21-0080_001.txt][H15-21-0080]] 孟子
     :PROPERTIES:
     :CUSTOM_ID: H15-21-0080
     :END:
 
-*** ZB1h0001 孟子注疏
+*** KR1h0002 ZB1h0001 孟子注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0001
 :SOURCE:   四庫全書 文淵閣版, V195.1, p1
@@ -43,12 +43,12 @@
      :FUNCTION: 撰
      :END:
 
-*** [[at:text/chant/H15-21-0081/H15-21-0081_001.txt][H15-21-0081]] 論語
+*** KR1h0003 [[at:text/chant/H15-21-0081/H15-21-0081_001.txt][H15-21-0081]] 論語
     :PROPERTIES:
     :CUSTOM_ID: H15-21-0081
     :END:
 
-*** ZB1h0002 論語集解義疏
+*** KR1h0004 ZB1h0002 論語集解義疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0002
 :SOURCE:   四庫全書 文淵閣版, V195.2, p333
@@ -71,7 +71,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0003 論語注疏
+*** KR1h0005 ZB1h0003 論語注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0003
 :SOURCE:   四庫全書 文淵閣版, V195.3, p525
@@ -119,7 +119,7 @@
      :FUNCTION: 撰
      :END:
 
-*** ZB1h0004 論語筆解
+*** KR1h0006 ZB1h0004 論語筆解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0004
 :SOURCE:   四庫全書 文淵閣版, V196.1, p1
@@ -142,7 +142,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0005 孟子音義
+*** KR1h0007 ZB1h0005 孟子音義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0005
 :SOURCE:   四庫全書 文淵閣版, V196.2, p29
@@ -159,7 +159,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0006 論語拾遺
+*** KR1h0008 ZB1h0006 論語拾遺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0006
 :SOURCE:   四庫全書 文淵閣版, V196.3, p45
@@ -176,7 +176,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0007 孟子解
+*** KR1h0009 ZB1h0007 孟子解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0007
 :SOURCE:   四庫全書 文淵閣版, V196.4, p53
@@ -193,7 +193,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0008 論語全解
+*** KR1h0010 ZB1h0008 論語全解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0008
 :SOURCE:   四庫全書 文淵閣版, V196.5, p63
@@ -210,7 +210,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0009 孟子傳
+*** KR1h0011 ZB1h0009 孟子傳
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0009
 :SOURCE:   四庫全書 文淵閣版, V196.6, p229
@@ -227,7 +227,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0010 尊孟辨
+*** KR1h0012 ZB1h0010 尊孟辨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0010
 :SOURCE:   四庫全書 文淵閣版, V196.7, p517
@@ -259,7 +259,7 @@
      :BOOK:   (1)
      :END:
 
-*** ZB1h0011 大學
+*** KR1h0013 ZB1h0011 大學
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0011
 :SOURCE:   四庫全書 文淵閣版, V197.1, p1
@@ -300,7 +300,7 @@
      :BOOK:   (#6)
      :END:
 
-*** ZB1h0012 四書或問
+*** KR1h0014 ZB1h0012 四書或問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0012
 :SOURCE:   四庫全書 文淵閣版, V197.2, p215
@@ -317,7 +317,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0013 論孟精義
+*** KR1h0015 ZB1h0013 論孟精義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0013
 :SOURCE:   四庫全書 文淵閣版, V198.1, p1
@@ -353,7 +353,7 @@
      :BOOK:   (3)
      :END:
 
-*** ZB1h0014 中庸輯略
+*** KR1h0016 ZB1h0014 中庸輯略
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0014
 :SOURCE:   四庫全書 文淵閣版, V198.2, p555
@@ -376,7 +376,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0015 石鼓論語答問
+*** KR1h0017 ZB1h0015 石鼓論語答問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0015
 :SOURCE:   四庫全書 文淵閣版, V199.1, p1
@@ -393,7 +393,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0016 論語意原
+*** KR1h0018 ZB1h0016 論語意原
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0016
 :SOURCE:   四庫全書 文淵閣版, V199.2, p111
@@ -410,7 +410,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0017 癸巳論語解
+*** KR1h0019 ZB1h0017 癸巳論語解
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0017
 :SOURCE:   四庫全書 文淵閣版, V199.3, p189
@@ -427,7 +427,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0018 癸巳孟子說
+*** KR1h0020 ZB1h0018 癸巳孟子說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0018
 :SOURCE:   四庫全書 文淵閣版, V199.4, p321
@@ -444,7 +444,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0019 蒙齋中庸講義
+*** KR1h0021 ZB1h0019 蒙齋中庸講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0019
 :SOURCE:   四庫全書 文淵閣版, V199.5, p553
@@ -461,7 +461,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0020 四書集編
+*** KR1h0022 ZB1h0020 四書集編
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0020
 :SOURCE:   四庫全書 文淵閣版, V200.1, p1
@@ -508,7 +508,7 @@
      :BOOK:   (4)
      :END:
 
-*** ZB1h0021 孟子集疏
+*** KR1h0023 ZB1h0021 孟子集疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0021
 :SOURCE:   四庫全書 文淵閣版, V200.2, p383
@@ -525,7 +525,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0022 論語集說
+*** KR1h0024 ZB1h0022 論語集說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0022
 :SOURCE:   四庫全書 文淵閣版, V200.3, p557
@@ -541,7 +541,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0023 中庸指歸
+*** KR1h0025 ZB1h0023 中庸指歸
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0023
 :SOURCE:   四庫全書 文淵閣版, V200.4, p713
@@ -579,7 +579,7 @@
      :BOOK:   (1)
      :END:
 
-*** ZB1h0024 四書纂疏
+*** KR1h0026 ZB1h0024 四書纂疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0024
 :SOURCE:   四庫全書 文淵閣版, V201.1, p1
@@ -619,7 +619,7 @@
      :BOOK:   (7)
      :END:
 
-*** ZB1h0025 大學疏義
+*** KR1h0027 ZB1h0025 大學疏義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0025
 :SOURCE:   四庫全書 文淵閣版, V202.1, p1
@@ -636,7 +636,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0026 論孟集註考證
+*** KR1h0028 ZB1h0026 論孟集註考證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0026
 :SOURCE:   四庫全書 文淵閣版, V202.2, p35
@@ -665,7 +665,7 @@
      :BOOK:   (3)
      :END:
 
-*** ZB1h0027 四書集義精要
+*** KR1h0029 ZB1h0027 四書集義精要
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0027
 :SOURCE:   四庫全書 文淵閣版, V202.3, p149
@@ -682,7 +682,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0028 四書辨疑
+*** KR1h0030 ZB1h0028 四書辨疑
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0028
 :SOURCE:   四庫全書 文淵閣版, V202.4, p331
@@ -706,7 +706,7 @@
      :BOOK:   (6)
      :END:
 
-*** ZB1h0029 讀四書叢說
+*** KR1h0031 ZB1h0029 讀四書叢說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0029
 :SOURCE:   四庫全書 文淵閣版, V202.5, p529
@@ -723,7 +723,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0030 四書通
+*** KR1h0032 ZB1h0030 四書通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0030
 :SOURCE:   四庫全書 文淵閣版, V203.1, p1
@@ -764,7 +764,7 @@
      :BOOK:   (6)
      :END:
 
-*** ZB1h0031 四書通證
+*** KR1h0033 ZB1h0031 四書通證
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0031
 :SOURCE:   四庫全書 文淵閣版, V203.2, p637
@@ -804,7 +804,7 @@
      :BOOK:   (#1)
      :END:
 
-*** ZB1h0032 四書疑節
+*** KR1h0034 ZB1h0032 四書疑節
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0032
 :SOURCE:   四庫全書 文淵閣版, V203.3, p745
@@ -820,7 +820,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0033 四書經疑貫通
+*** KR1h0035 ZB1h0033 四書經疑貫通
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0033
 :SOURCE:   四庫全書 文淵閣版, V203.4, p891
@@ -837,7 +837,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0034 四書纂箋
+*** KR1h0036 ZB1h0034 四書纂箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0034
 :SOURCE:   四庫全書 文淵閣版, V204.1, p1
@@ -877,7 +877,7 @@
      :BOOK:   (5)
      :END:
 
-*** ZB1h0035 四書通旨
+*** KR1h0037 ZB1h0035 四書通旨
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0035
 :SOURCE:   四庫全書 文淵閣版, V204.2, p507
@@ -893,7 +893,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0036 四書管窺
+*** KR1h0038 ZB1h0036 四書管窺
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0036
 :SOURCE:   四庫全書 文淵閣版, V204.3, p675
@@ -909,7 +909,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0037 大學中庸集說啟蒙
+*** KR1h0039 ZB1h0037 大學中庸集說啟蒙
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0037
 :SOURCE:   四庫全書 文淵閣版, V204.4, p961
@@ -937,7 +937,7 @@
      :BOOK:   (2)
      :END:
 
-*** SB31n405 中庸說殘
+*** KR1h0040 SB31n405 中庸說殘
 :PROPERTIES:
 :EXTENT: 三卷
 :CUSTOM_ID: SB31n405
@@ -956,7 +956,7 @@
 :EDITION: 海鹽張氏涉園照存京都東福寺藏宋槧本
 :END:
 
-*** ZB1h0038 四書大全
+*** KR1h0041 ZB1h0038 四書大全
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0038
 :SOURCE:   四庫全書 文淵閣版, V205.1, p1
@@ -1009,7 +1009,7 @@
      :BOOK:   (2)
      :END:
 
-*** ZB1h0039 四書蒙引
+*** KR1h0042 ZB1h0039 四書蒙引
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0039
 :SOURCE:   四庫全書 文淵閣版, V206.1, p1
@@ -1039,7 +1039,7 @@
      :FUNCTION: 編
      :END:
 
-*** ZB1h0040 四書因問
+*** KR1h0043 ZB1h0040 四書因問
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0040
 :SOURCE:   四庫全書 文淵閣版, V206.2, p753
@@ -1056,7 +1056,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0041 問辨錄
+*** KR1h0044 ZB1h0041 問辨錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0041
 :SOURCE:   四庫全書 文淵閣版, V207.1, p1
@@ -1073,7 +1073,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0042 論語類考
+*** KR1h0045 ZB1h0042 論語類考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0042
 :SOURCE:   四庫全書 文淵閣版, V207.2, p97
@@ -1090,7 +1090,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0043 孟子雜記
+*** KR1h0046 ZB1h0043 孟子雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0043
 :SOURCE:   四庫全書 文淵閣版, V207.3, p289
@@ -1107,7 +1107,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0044 學庸正說
+*** KR1h0047 ZB1h0044 學庸正說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0044
 :SOURCE:   四庫全書 文淵閣版, V207.4, p357
@@ -1124,7 +1124,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0045 論語商
+*** KR1h0048 ZB1h0045 論語商
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0045
 :SOURCE:   四庫全書 文淵閣版, V207.5, p431
@@ -1141,7 +1141,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0046 論語學案
+*** KR1h0049 ZB1h0046 論語學案
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0046
 :SOURCE:   四庫全書 文淵閣版, V207.6, p505
@@ -1158,7 +1158,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0047 四書留書
+*** KR1h0050 ZB1h0047 四書留書
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0047
 :SOURCE:   四庫全書 文淵閣版, V207.7, p709
@@ -1174,7 +1174,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0048 日講四書解義
+*** KR1h0051 ZB1h0048 日講四書解義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0048
 :SOURCE:   四庫全書 文淵閣版, V208.1, p1
@@ -1190,7 +1190,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0049 四書近指
+*** KR1h0052 ZB1h0049 四書近指
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0049
 :SOURCE:   四庫全書 文淵閣版, V208.2, p649
@@ -1207,7 +1207,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0050 孟子師說
+*** KR1h0053 ZB1h0050 孟子師說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0050
 :SOURCE:   四庫全書 文淵閣版, V208.3, p831
@@ -1224,7 +1224,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0051 大學翼眞
+*** KR1h0054 ZB1h0051 大學翼眞
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0051
 :SOURCE:   四庫全書 文淵閣版, V208.4, p905
@@ -1241,7 +1241,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0052 四書講義困勉錄
+*** KR1h0055 ZB1h0052 四書講義困勉錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0052
 :SOURCE:   四庫全書 文淵閣版, V209.1, p1
@@ -1258,7 +1258,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0053 松陽講義
+*** KR1h0056 ZB1h0053 松陽講義
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0053
 :SOURCE:   四庫全書 文淵閣版, V209.2, p839
@@ -1275,7 +1275,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0054 榕村四書說
+*** KR1h0057 ZB1h0054 榕村四書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0054
 :SOURCE:   四庫全書 文淵閣版, V210.1, p1
@@ -1322,7 +1322,7 @@
      :BOOK:   (1)
      :END:
 
-*** ZB1h0055 論語稽求篇
+*** KR1h0058 ZB1h0055 論語稽求篇
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0055
 :SOURCE:   四庫全書 文淵閣版, V210.2, p133
@@ -1339,7 +1339,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0056 四書賸言
+*** KR1h0059 ZB1h0056 四書賸言
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0056
 :SOURCE:   四庫全書 文淵閣版, V210.3, p207
@@ -1369,7 +1369,7 @@
      :FUNCTION: 編
      :END:
 
-*** ZB1h0057 大學證文
+*** KR1h0060 ZB1h0057 大學證文
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0057
 :SOURCE:   四庫全書 文淵閣版, V210.4, p277
@@ -1386,7 +1386,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0058 四書釋地
+*** KR1h0061 ZB1h0058 四書釋地
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0058
 :SOURCE:   四庫全書 文淵閣版, V210.5, p315
@@ -1424,7 +1424,7 @@
      :BOOK:   (5)
      :END:
 
-*** ZB1h0059 四書劄記
+*** KR1h0062 ZB1h0059 四書劄記
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0059
 :SOURCE:   四庫全書 文淵閣版, V210.6, p483
@@ -1441,7 +1441,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0060 此木軒四書說
+*** KR1h0063 ZB1h0060 此木軒四書說
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0060
 :SOURCE:   四庫全書 文淵閣版, V210.7, p521
@@ -1458,7 +1458,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0061 四書逸箋
+*** KR1h0064 ZB1h0061 四書逸箋
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0061
 :SOURCE:   四庫全書 文淵閣版, V210.8, p657
@@ -1475,7 +1475,7 @@
 
 **** textual witnesses
 ***** WYG
-*** ZB1h0062 鄉黨圖考
+*** KR1h0065 ZB1h0062 鄉黨圖考
 :PROPERTIES:
 :CUSTOM_ID:  ZB1h0062
 :SOURCE:   四庫全書 文淵閣版, V210.9, p713

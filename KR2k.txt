@@ -1,7 +1,7 @@
 #-*- mode: org; -*-
 #+COLUMNS: %30ITEM %15CUSTOM_ID
-** ZB2k 地理類
-*** [[mandoku:ZB2k0001.org][ZB2k0001]] 三輔黃圖
+** KR2k ZB2k 地理類
+*** KR2k0001 [[mandoku:ZB2k0001.org][ZB2k0001]] 三輔黃圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0001
 :SOURCE:   四庫全書 文淵閣版, V468.1, p1
@@ -17,7 +17,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0002.org][ZB2k0002]] 禁扁
+*** KR2k0002 [[mandoku:ZB2k0002.org][ZB2k0002]] 禁扁
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0002
 :SOURCE:   四庫全書 文淵閣版, V468.2, p37
@@ -34,7 +34,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0003.org][ZB2k0003]] 元和郡縣志
+*** KR2k0003 [[mandoku:ZB2k0003.org][ZB2k0003]] 元和郡縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0003
 :SOURCE:   四庫全書 文淵閣版, V468.3, p131
@@ -52,7 +52,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0004.org][ZB2k0004]] 太平寰宇記
+*** KR2k0004 [[mandoku:ZB2k0004.org][ZB2k0004]] 太平寰宇記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0004
 :SOURCE:   四庫全書 文淵閣版, V469.1, p1 - V470.1
@@ -70,7 +70,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0005.org][ZB2k0005]] 元豐九域志
+*** KR2k0005 [[mandoku:ZB2k0005.org][ZB2k0005]] 元豐九域志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0005
 :SOURCE:   四庫全書 文淵閣版, V471.1, p1
@@ -95,7 +95,7 @@
       :BOOK:   (7)
       :END:
 
-*** [[mandoku:ZB2k0006.org][ZB2k0006]] 輿地廣記
+*** KR2k0006 [[mandoku:ZB2k0006.org][ZB2k0006]] 輿地廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0006
 :SOURCE:   四庫全書 文淵閣版, V471.2, p233
@@ -113,7 +113,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0007.org][ZB2k0007]] 方輿勝覽
+*** KR2k0007 [[mandoku:ZB2k0007.org][ZB2k0007]] 方輿勝覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0007
 :SOURCE:   四庫全書 文淵閣版, V471.3, p521
@@ -145,7 +145,7 @@
       :BOOK:   (22)
       :END:
 
-*** [[mandoku:ZB2k0008.org][ZB2k0008]] 明一統志
+*** KR2k0008 [[mandoku:ZB2k0008.org][ZB2k0008]] 明一統志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0008
 :SOURCE:   四庫全書 文淵閣版, V472.1, p1 - V473.1
@@ -163,7 +163,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0009.org][ZB2k0009]] 大清一統志
+*** KR2k0009 [[mandoku:ZB2k0009.org][ZB2k0009]] 大清一統志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0009
 :SOURCE:   四庫全書 文淵閣版, V474.1, p1 - V483.1
@@ -181,7 +181,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0010.org][ZB2k0010]] 吳群圖經續記
+*** KR2k0010 [[mandoku:ZB2k0010.org][ZB2k0010]] 吳群圖經續記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0010
 :SOURCE:   四庫全書 文淵閣版, V484.1, p1
@@ -199,7 +199,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0011.org][ZB2k0011]] 乾道臨安志
+*** KR2k0011 [[mandoku:ZB2k0011.org][ZB2k0011]] 乾道臨安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0011
 :SOURCE:   四庫全書 文淵閣版, V484.2, p53
@@ -217,7 +217,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0012.org][ZB2k0012]] 淳熙三山志
+*** KR2k0012 [[mandoku:ZB2k0012.org][ZB2k0012]] 淳熙三山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0012
 :SOURCE:   四庫全書 文淵閣版, V484.3, p109
@@ -234,7 +234,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0013.org][ZB2k0013]] 吳郡志
+*** KR2k0013 [[mandoku:ZB2k0013.org][ZB2k0013]] 吳郡志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0013
 :SOURCE:   四庫全書 文淵閣版, V485.1, p1
@@ -252,7 +252,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0014.org][ZB2k0014]] 新安志
+*** KR2k0014 [[mandoku:ZB2k0014.org][ZB2k0014]] 新安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0014
 :SOURCE:   四庫全書 文淵閣版, V485.2, p337
@@ -270,7 +270,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0015.org][ZB2k0015]] 剡錄
+*** KR2k0015 [[mandoku:ZB2k0015.org][ZB2k0015]] 剡錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0015
 :SOURCE:   四庫全書 文淵閣版, V485.3, p527
@@ -288,7 +288,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0016.org][ZB2k0016]] 會稽志
+*** KR2k0016 [[mandoku:ZB2k0016.org][ZB2k0016]] 會稽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0016
 :SOURCE:   四庫全書 文淵閣版, V486.1, p1
@@ -318,7 +318,7 @@
       :FUNCTION: 撰
       :END:
 
-*** [[mandoku:ZB2k0018.org][ZB2k0018]] 赤城志
+*** KR2k0017 [[mandoku:ZB2k0018.org][ZB2k0018]] 赤城志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0018
 :SOURCE:   四庫全書 文淵閣版, V486.2, p567
@@ -336,7 +336,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0019.org][ZB2k0019]] 寶慶四明志
+*** KR2k0018 [[mandoku:ZB2k0019.org][ZB2k0019]] 寶慶四明志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0019
 :SOURCE:   四庫全書 文淵閣版, V487.1, p1
@@ -383,7 +383,7 @@
 **** responsible: 梅應發
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0021.org][ZB2k0021]] 海鹽瞰水志
+*** KR2k0019 [[mandoku:ZB2k0021.org][ZB2k0021]] 海鹽瞰水志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0021
 :SOURCE:   四庫全書 文淵閣版, V487.2, p493
@@ -400,7 +400,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0022.org][ZB2k0022]] 景定嚴州續志
+*** KR2k0020 [[mandoku:ZB2k0022.org][ZB2k0022]] 景定嚴州續志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0022
 :SOURCE:   四庫全書 文淵閣版, V487.3, p523
@@ -424,7 +424,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0023.org][ZB2k0023]] 景定建康志
+*** KR2k0021 [[mandoku:ZB2k0023.org][ZB2k0023]] 景定建康志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0023
 :SOURCE:   四庫全書 文淵閣版, V488.1, p1 - V489.1
@@ -449,7 +449,7 @@
       :BOOK:   (28)
       :END:
 
-*** [[mandoku:ZB2k0024.org][ZB2k0024]] 咸淳臨安志
+*** KR2k0022 [[mandoku:ZB2k0024.org][ZB2k0024]] 咸淳臨安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0024
 :SOURCE:   四庫全書 文淵閣版, V490.1, p1
@@ -466,7 +466,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0025.org][ZB2k0025]] 至元嘉禾志
+*** KR2k0023 [[mandoku:ZB2k0025.org][ZB2k0025]] 至元嘉禾志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0025
 :SOURCE:   四庫全書 文淵閣版, V491.1, p1
@@ -483,7 +483,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0026.org][ZB2k0026]] 昌國州圖志
+*** KR2k0024 [[mandoku:ZB2k0026.org][ZB2k0026]] 昌國州圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0026
 :SOURCE:   四庫全書 文淵閣版, V491.2, p267
@@ -500,7 +500,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0027.org][ZB2k0027]] 延祐四明志
+*** KR2k0025 [[mandoku:ZB2k0027.org][ZB2k0027]] 延祐四明志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0027
 :SOURCE:   四庫全書 文淵閣版, V491.3, p319
@@ -518,7 +518,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0028.org][ZB2k0028]] 齊乘
+*** KR2k0026 [[mandoku:ZB2k0028.org][ZB2k0028]] 齊乘
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0028
 :SOURCE:   四庫全書 文淵閣版, V491.4, p685
@@ -543,7 +543,7 @@
       :BOOK:   (6)
       :END:
 
-*** [[mandoku:ZB2k0029.org][ZB2k0029]] 至大金陵新志
+*** KR2k0027 [[mandoku:ZB2k0029.org][ZB2k0029]] 至大金陵新志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0029
 :SOURCE:   四庫全書 文淵閣版, V492.1, p1
@@ -560,7 +560,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0030.org][ZB2k0030]] 無錫縣志
+*** KR2k0028 [[mandoku:ZB2k0030.org][ZB2k0030]] 無錫縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0030
 :SOURCE:   四庫全書 文淵閣版, V492.2, p653
@@ -576,7 +576,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0031.org][ZB2k0031]] 姑蘇志
+*** KR2k0029 [[mandoku:ZB2k0031.org][ZB2k0031]] 姑蘇志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0031
 :SOURCE:   四庫全書 文淵閣版, V493.1, p1
@@ -594,7 +594,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0032.org][ZB2k0032]] 武功縣志
+*** KR2k0030 [[mandoku:ZB2k0032.org][ZB2k0032]] 武功縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0032
 :SOURCE:   四庫全書 文淵閣版, V494.1, p1
@@ -612,7 +612,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0033.org][ZB2k0033]] 朝邑縣志
+*** KR2k0031 [[mandoku:ZB2k0033.org][ZB2k0033]] 朝邑縣志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0033
 :SOURCE:   四庫全書 文淵閣版, V494.2, p47
@@ -630,7 +630,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0034.org][ZB2k0034]] 嶺海輿圖
+*** KR2k0032 [[mandoku:ZB2k0034.org][ZB2k0034]] 嶺海輿圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0034
 :SOURCE:   四庫全書 文淵閣版, V494.3, p61
@@ -648,7 +648,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0035.org][ZB2k0035]] 滇略
+*** KR2k0033 [[mandoku:ZB2k0035.org][ZB2k0035]] 滇略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0035
 :SOURCE:   四庫全書 文淵閣版, V494.4, p97
@@ -666,7 +666,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0036.org][ZB2k0036]] 吳興備志
+*** KR2k0034 [[mandoku:ZB2k0036.org][ZB2k0036]] 吳興備志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0036
 :SOURCE:   四庫全書 文淵閣版, V494.5, p251
@@ -684,7 +684,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0037.org][ZB2k0037]] 欽定熱河志
+*** KR2k0035 [[mandoku:ZB2k0037.org][ZB2k0037]] 欽定熱河志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0037
 :SOURCE:   四庫全書 文淵閣版, V495.1, p1 - V496.1
@@ -708,7 +708,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0038.org][ZB2k0038]] 欽定日下舊聞考
+*** KR2k0036 [[mandoku:ZB2k0038.org][ZB2k0038]] 欽定日下舊聞考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0038
 :SOURCE:   四庫全書 文淵閣版, V497.1, p1 - V499.1
@@ -733,7 +733,7 @@
 
 **** textual witnesses
 ***** WYG
-*** SB32n418 天下郡國利病書
+*** KR2k0037 SB32n418 天下郡國利病書
     :PROPERTIES:
     :_RESP:    （淸）顧炎武,（淸）錢邦彥
     :EXTENT:   不分卷
@@ -812,7 +812,7 @@
 [[krpimg:sbck/SB3/SB32n418/SB32n418_048-002.tif][冊 48]]
 [[krpimg:sbck/SB3/SB32n418/SB32n418_049-002.tif][冊 49]]
 [[krpimg:sbck/SB3/SB32n418/SB32n418_050-002.tif][冊 50]]
-*** [[mandoku:ZB2k0039.org][ZB2k0039]] 欽定滿洲源流考
+*** KR2k0038 [[mandoku:ZB2k0039.org][ZB2k0039]] 欽定滿洲源流考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0039
 :SOURCE:   四庫全書 文淵閣版, V499.2, p451
@@ -837,7 +837,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0040.org][ZB2k0040]] 欽定皇輿西域圖志
+*** KR2k0039 [[mandoku:ZB2k0040.org][ZB2k0040]] 欽定皇輿西域圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0040
 :SOURCE:   四庫全書 文淵閣版, V500.1, p1
@@ -874,7 +874,7 @@
       :BOOK:   (24)
       :END:
 
-*** [[mandoku:ZB2k0041.org][ZB2k0041]] 欽定盛京通志
+*** KR2k0040 [[mandoku:ZB2k0041.org][ZB2k0041]] 欽定盛京通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0041
 :SOURCE:   四庫全書 文淵閣版, V501.1, p1 - V503.1
@@ -898,7 +898,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0042.org][ZB2k0042]] 畿輔通志
+*** KR2k0041 [[mandoku:ZB2k0042.org][ZB2k0042]] 畿輔通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0042
 :SOURCE:   四庫全書 文淵閣版, V504.1, p1 - V506.1
@@ -928,7 +928,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB2k0042a.org][ZB2k0042a]] 福建通志
-*** [[mandoku:ZB2k0043.org][ZB2k0043]] 江南通志
+*** KR2k0042 [[mandoku:ZB2k0043.org][ZB2k0043]] 江南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0043
 :SOURCE:   四庫全書 文淵閣版, V507.1, p1 - V512.1
@@ -958,7 +958,7 @@
       :BOOK:   (140)
       :END:
 
-*** [[mandoku:ZB2k0044.org][ZB2k0044]] 江西通志
+*** KR2k0043 [[mandoku:ZB2k0044.org][ZB2k0044]] 江西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0044
 :SOURCE:   四庫全書 文淵閣版, V513.1, p1 - V518.1
@@ -995,7 +995,7 @@
       :BOOK:   (138)
       :END:
 
-*** [[mandoku:ZB2k0045.org][ZB2k0045]] 浙江通志
+*** KR2k0044 [[mandoku:ZB2k0045.org][ZB2k0045]] 浙江通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0045
 :SOURCE:   四庫全書 文淵閣版, V519.1, p1 - V526.1
@@ -1026,7 +1026,7 @@
       :BOOK:   (150)
       :END:
 
-*** [[mandoku:ZB2k0046.org][ZB2k0046]] 福建通志
+*** KR2k0045 [[mandoku:ZB2k0046.org][ZB2k0046]] 福建通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0046
 :SOURCE:   四庫全書 文淵閣版, V527.1, p1 - V530.1
@@ -1064,7 +1064,7 @@
       :BOOK:   (68)
       :END:
 
-*** [[mandoku:ZB2k0047.org][ZB2k0047]] 湖廣通志
+*** KR2k0046 [[mandoku:ZB2k0047.org][ZB2k0047]] 湖廣通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0047
 :SOURCE:   四庫全書 文淵閣版, V531.1, p1 - V534.1
@@ -1095,7 +1095,7 @@
       :BOOK:   (78)
       :END:
 
-*** [[mandoku:ZB2k0048.org][ZB2k0048]] 河南通志
+*** KR2k0047 [[mandoku:ZB2k0048.org][ZB2k0048]] 河南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0048
 :SOURCE:   四庫全書 文淵閣版, V535.1, p1 - V538.1
@@ -1130,7 +1130,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0049.org][ZB2k0049]] 山東通志
+*** KR2k0048 [[mandoku:ZB2k0049.org][ZB2k0049]] 山東通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0049
 :SOURCE:   四庫全書 文淵閣版, V539.1, p1 - V541.1
@@ -1160,7 +1160,7 @@
       :BOOK:   (58)
       :END:
 
-*** [[mandoku:ZB2k0050.org][ZB2k0050]] 山西通志
+*** KR2k0049 [[mandoku:ZB2k0050.org][ZB2k0050]] 山西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0050
 :SOURCE:   四庫全書 文淵閣版, V542.1, p1 - V550.1
@@ -1184,7 +1184,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0051.org][ZB2k0051]] 陝西通志
+*** KR2k0050 [[mandoku:ZB2k0051.org][ZB2k0051]] 陝西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0051
 :SOURCE:   四庫全書 文淵閣版, V551.1, p1 - V556.1
@@ -1207,7 +1207,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0052.org][ZB2k0052]] 甘肅通志
+*** KR2k0051 [[mandoku:ZB2k0052.org][ZB2k0052]] 甘肅通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0052
 :SOURCE:   四庫全書 文淵閣版, V557.1, p1 - V558.1
@@ -1238,7 +1238,7 @@
       :BOOK:   (34)
       :END:
 
-*** [[mandoku:ZB2k0053.org][ZB2k0053]] 四川通志
+*** KR2k0052 [[mandoku:ZB2k0053.org][ZB2k0053]] 四川通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0053
 :SOURCE:   四庫全書 文淵閣版, V559.1, p1 - V561.1
@@ -1269,7 +1269,7 @@
       :BOOK:   (48)
       :END:
 
-*** [[mandoku:ZB2k0054.org][ZB2k0054]] 廣東通志
+*** KR2k0053 [[mandoku:ZB2k0054.org][ZB2k0054]] 廣東通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0054
 :SOURCE:   四庫全書 文淵閣版, V562.1, p1 - V564.1
@@ -1293,7 +1293,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0055.org][ZB2k0055]] 廣西通志
+*** KR2k0054 [[mandoku:ZB2k0055.org][ZB2k0055]] 廣西通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0055
 :SOURCE:   四庫全書 文淵閣版, V565.1, p1 - V568.1
@@ -1331,7 +1331,7 @@
       :BOOK:   (78)
       :END:
 
-*** [[mandoku:ZB2k0056.org][ZB2k0056]] 雲南通志
+*** KR2k0055 [[mandoku:ZB2k0056.org][ZB2k0056]] 雲南通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0056
 :SOURCE:   四庫全書 文淵閣版, V569.1, p1 - V570.1
@@ -1355,7 +1355,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0057.org][ZB2k0057]] 貴州通志
+*** KR2k0056 [[mandoku:ZB2k0057.org][ZB2k0057]] 貴州通志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0057
 :SOURCE:   四庫全書 文淵閣版, V571.1, p1 - V572.1
@@ -1379,7 +1379,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0058.org][ZB2k0058]] 歷代帝王宅京記
+*** KR2k0057 [[mandoku:ZB2k0058.org][ZB2k0058]] 歷代帝王宅京記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0058
 :SOURCE:   四庫全書 文淵閣版, V572.2, p571
@@ -1397,7 +1397,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0059.org][ZB2k0059]] 水經注
+*** KR2k0058 [[mandoku:ZB2k0059.org][ZB2k0059]] 水經注
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0059
 :SOURCE:   四庫全書 文淵閣版, V573.1, p1
@@ -1422,7 +1422,7 @@
       :BOOK:   (18)
       :END:
 
-*** [[mandoku:ZB2k0060.org][ZB2k0060]] 水經注集釋訂訛
+*** KR2k0059 [[mandoku:ZB2k0060.org][ZB2k0060]] 水經注集釋訂訛
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0060
 :SOURCE:   四庫全書 文淵閣版, V574.1, p1
@@ -1439,7 +1439,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0061.org][ZB2k0061]] 水經注釋
+*** KR2k0060 [[mandoku:ZB2k0061.org][ZB2k0061]] 水經注釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0061
 :SOURCE:   四庫全書 文淵閣版, V575.1, p1
@@ -1478,7 +1478,7 @@
       :BOOK:   8
       :END:
 
-*** [[mandoku:ZB2k0062.org][ZB2k0062]] 吳中水利書
+*** KR2k0061 [[mandoku:ZB2k0062.org][ZB2k0062]] 吳中水利書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0062
 :SOURCE:   四庫全書 文淵閣版, V576.1, p1
@@ -1496,7 +1496,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0063.org][ZB2k0063]] 四明它山水利備覽
+*** KR2k0062 [[mandoku:ZB2k0063.org][ZB2k0063]] 四明它山水利備覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0063
 :SOURCE:   四庫全書 文淵閣版, V576.2, p15
@@ -1514,7 +1514,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0064.org][ZB2k0064]] 河防通議
+*** KR2k0063 [[mandoku:ZB2k0064.org][ZB2k0064]] 河防通議
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0064
 :SOURCE:   四庫全書 文淵閣版, V576.3, p43
@@ -1532,7 +1532,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0065.org][ZB2k0065]] 治河圖略
+*** KR2k0064 [[mandoku:ZB2k0065.org][ZB2k0065]] 治河圖略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0065
 :SOURCE:   四庫全書 文淵閣版, V576.4, p71
@@ -1550,7 +1550,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0066.org][ZB2k0066]] 浙西水利書
+*** KR2k0065 [[mandoku:ZB2k0066.org][ZB2k0066]] 浙西水利書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0066
 :SOURCE:   四庫全書 文淵閣版, V576.5, p83
@@ -1567,7 +1567,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0067.org][ZB2k0067]] 河防一覽
+*** KR2k0066 [[mandoku:ZB2k0067.org][ZB2k0067]] 河防一覽
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0067
 :SOURCE:   四庫全書 文淵閣版, V576.6, p137
@@ -1585,7 +1585,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0068.org][ZB2k0068]] 三吳水利錄
+*** KR2k0067 [[mandoku:ZB2k0068.org][ZB2k0068]] 三吳水利錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0068
 :SOURCE:   四庫全書 文淵閣版, V576.7, p517
@@ -1610,7 +1610,7 @@
       :BOOK:   (1)
       :END:
 
-*** [[mandoku:ZB2k0069.org][ZB2k0069]] 北河紀
+*** KR2k0068 [[mandoku:ZB2k0069.org][ZB2k0069]] 北河紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0069
 :SOURCE:   四庫全書 文淵閣版, V576.8, p567
@@ -1642,7 +1642,7 @@
       :BOOK:   (5)
       :END:
 
-*** [[mandoku:ZB2k0070.org][ZB2k0070]] 敬止集
+*** KR2k0069 [[mandoku:ZB2k0070.org][ZB2k0070]] 敬止集
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0070
 :SOURCE:   四庫全書 文淵閣版, V577.1, p1
@@ -1659,7 +1659,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0071.org][ZB2k0071]] 三吳水考
+*** KR2k0070 [[mandoku:ZB2k0071.org][ZB2k0071]] 三吳水考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0071
 :SOURCE:   四庫全書 文淵閣版, V577.2, p87
@@ -1682,7 +1682,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0072.org][ZB2k0072]] 吳中水利全書
+*** KR2k0071 [[mandoku:ZB2k0072.org][ZB2k0072]] 吳中水利全書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0072
 :SOURCE:   四庫全書 文淵閣版, V578.1, p1
@@ -1707,7 +1707,7 @@
       :BOOK:   (22)
       :END:
 
-*** [[mandoku:ZB2k0073.org][ZB2k0073]] 欽定河源紀略
+*** KR2k0072 [[mandoku:ZB2k0073.org][ZB2k0073]] 欽定河源紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0073
 :SOURCE:   四庫全書 文淵閣版, V579.1, p1
@@ -1739,7 +1739,7 @@
       :BOOK:   (16)
       :END:
 
-*** [[mandoku:ZB2k0074.org][ZB2k0074]] 崑崙河源考
+*** KR2k0073 [[mandoku:ZB2k0074.org][ZB2k0074]] 崑崙河源考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0074
 :SOURCE:   四庫全書 文淵閣版, V579.2, p317
@@ -1757,7 +1757,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0075.org][ZB2k0075]] 兩河清彙
+*** KR2k0074 [[mandoku:ZB2k0075.org][ZB2k0075]] 兩河清彙
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0075
 :SOURCE:   四庫全書 文淵閣版, V579.3, p347
@@ -1782,7 +1782,7 @@
       :BOOK:   (4)
       :END:
 
-*** [[mandoku:ZB2k0076.org][ZB2k0076]] 居濟一得
+*** KR2k0075 [[mandoku:ZB2k0076.org][ZB2k0076]] 居濟一得
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0076
 :SOURCE:   四庫全書 文淵閣版, V579.4, p485
@@ -1800,7 +1800,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0077.org][ZB2k0077]] 治河奏績書
+*** KR2k0076 [[mandoku:ZB2k0077.org][ZB2k0077]] 治河奏績書
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0077
 :SOURCE:   四庫全書 文淵閣版, V579.5, p613
@@ -1837,7 +1837,7 @@
       :FUNCTION: 編述
       :END:
 
-*** [[mandoku:ZB2k0078.org][ZB2k0078]] 直隸河渠志
+*** KR2k0077 [[mandoku:ZB2k0078.org][ZB2k0078]] 直隸河渠志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0078
 :SOURCE:   四庫全書 文淵閣版, V579.6, p781
@@ -1855,7 +1855,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0079.org][ZB2k0079]] 行水金鑑
+*** KR2k0078 [[mandoku:ZB2k0079.org][ZB2k0079]] 行水金鑑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0079
 :SOURCE:   四庫全書 文淵閣版, V580.1, p1 - V582.1
@@ -1873,7 +1873,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0080.org][ZB2k0080]] 水道提綱
+*** KR2k0079 [[mandoku:ZB2k0080.org][ZB2k0080]] 水道提綱
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0080
 :SOURCE:   四庫全書 文淵閣版, V583.1, p1
@@ -1891,7 +1891,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0081.org][ZB2k0081]] 海塘錄
+*** KR2k0080 [[mandoku:ZB2k0081.org][ZB2k0081]] 海塘錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0081
 :SOURCE:   四庫全書 文淵閣版, V583.2, p317
@@ -1916,7 +1916,7 @@
       :BOOK:   (12)
       :END:
 
-*** [[mandoku:ZB2k0082.org][ZB2k0082]] 籌海圖編
+*** KR2k0081 [[mandoku:ZB2k0082.org][ZB2k0082]] 籌海圖編
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0082
 :SOURCE:   四庫全書 文淵閣版, V584.1, p1
@@ -1934,7 +1934,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0083.org][ZB2k0083]] 鄭開陽雜著
+*** KR2k0082 [[mandoku:ZB2k0083.org][ZB2k0083]] 鄭開陽雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0083
 :SOURCE:   四庫全書 文淵閣版, V584.2, p443
@@ -1952,7 +1952,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0084.org][ZB2k0084]] 南嶽小錄
+*** KR2k0083 [[mandoku:ZB2k0084.org][ZB2k0084]] 南嶽小錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0084
 :SOURCE:   四庫全書 文淵閣版, V585.1, p1
@@ -1969,7 +1969,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0085.org][ZB2k0085]] 廬山記
+*** KR2k0084 [[mandoku:ZB2k0085.org][ZB2k0085]] 廬山記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0085
 :SOURCE:   四庫全書 文淵閣版, V585.2, p13
@@ -2000,7 +2000,7 @@
       :FUNCTION: 撰
       :END:
 
-*** [[mandoku:ZB2k0086.org][ZB2k0086]] 赤松山志
+*** KR2k0085 [[mandoku:ZB2k0086.org][ZB2k0086]] 赤松山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0086
 :SOURCE:   四庫全書 文淵閣版, V585.3, p45
@@ -2018,7 +2018,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB2k0086a.org][ZB2k0086a]] 大清一統志
-*** [[mandoku:ZB2k0087.org][ZB2k0087]] 西湖遊覽志
+*** KR2k0086 [[mandoku:ZB2k0087.org][ZB2k0087]] 西湖遊覽志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0087
 :SOURCE:   四庫全書 文淵閣版, V585.4, p59
@@ -2043,7 +2043,7 @@
       :BOOK:   12
       :END:
 
-*** [[mandoku:ZB2k0088.org][ZB2k0088]] 桂勝
+*** KR2k0087 [[mandoku:ZB2k0088.org][ZB2k0088]] 桂勝
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0088
 :SOURCE:   四庫全書 文淵閣版, V585.5, p637
@@ -2068,7 +2068,7 @@
       :BOOK:   2
       :END:
 
-*** [[mandoku:ZB2k0089.org][ZB2k0089]] 欽定盤山志
+*** KR2k0088 [[mandoku:ZB2k0089.org][ZB2k0089]] 欽定盤山志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0089
 :SOURCE:   四庫全書 文淵閣版, V586.1, p1
@@ -2105,7 +2105,7 @@
       :BOOK:   (6)
       :END:
 
-*** [[mandoku:ZB2k0090.org][ZB2k0090]] 西湖志纂
+*** KR2k0089 [[mandoku:ZB2k0090.org][ZB2k0090]] 西湖志纂
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0090
 :SOURCE:   四庫全書 文淵閣版, V586.2, p337
@@ -2142,7 +2142,7 @@
       :BOOK:   (5)
       :END:
 
-*** [[mandoku:ZB2k0091.org][ZB2k0091]] 洛陽伽藍記
+*** KR2k0090 [[mandoku:ZB2k0091.org][ZB2k0091]] 洛陽伽藍記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0091
 :SOURCE:   四庫全書 文淵閣版, V587.1, p1
@@ -2160,7 +2160,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0092.org][ZB2k0092]] 吳地記
+*** KR2k0091 [[mandoku:ZB2k0092.org][ZB2k0092]] 吳地記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0092
 :SOURCE:   四庫全書 文淵閣版, V587.2, p53
@@ -2189,7 +2189,7 @@
       :FUNCTION: 撰
       :END:
 
-*** [[mandoku:ZB2k0093.org][ZB2k0093]] 長安志
+*** KR2k0092 [[mandoku:ZB2k0093.org][ZB2k0093]] 長安志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0093
 :SOURCE:   四庫全書 文淵閣版, V587.3, p73
@@ -2207,7 +2207,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0094.org][ZB2k0094]] 洛陽名園記
+*** KR2k0093 [[mandoku:ZB2k0094.org][ZB2k0094]] 洛陽名園記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0094
 :SOURCE:   四庫全書 文淵閣版, V587.4, p239
@@ -2224,7 +2224,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0095.org][ZB2k0095]] 雍錄
+*** KR2k0094 [[mandoku:ZB2k0095.org][ZB2k0095]] 雍錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0095
 :SOURCE:   四庫全書 文淵閣版, V587.5, p249
@@ -2242,7 +2242,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0096.org][ZB2k0096]] 洞霄圖志
+*** KR2k0095 [[mandoku:ZB2k0096.org][ZB2k0096]] 洞霄圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0096
 :SOURCE:   四庫全書 文淵閣版, V587.6, p405
@@ -2260,7 +2260,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0097.org][ZB2k0097]] 長安志圖
+*** KR2k0096 [[mandoku:ZB2k0097.org][ZB2k0097]] 長安志圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0097
 :SOURCE:   四庫全書 文淵閣版, V587.7, p469
@@ -2277,7 +2277,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0098.org][ZB2k0098]] 汴京遺蹟志
+*** KR2k0097 [[mandoku:ZB2k0098.org][ZB2k0098]] 汴京遺蹟志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0098
 :SOURCE:   四庫全書 文淵閣版, V587.8, p513
@@ -2295,7 +2295,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0099.org][ZB2k0099]] 武林梵志
+*** KR2k0098 [[mandoku:ZB2k0099.org][ZB2k0099]] 武林梵志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0099
 :SOURCE:   四庫全書 文淵閣版, V588.1, p1
@@ -2312,7 +2312,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0100.org][ZB2k0100]] 江城名蹟
+*** KR2k0099 [[mandoku:ZB2k0100.org][ZB2k0100]] 江城名蹟
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0100
 :SOURCE:   四庫全書 文淵閣版, V588.2, p287
@@ -2330,7 +2330,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0101.org][ZB2k0101]] 營平二州地名記
+*** KR2k0100 [[mandoku:ZB2k0101.org][ZB2k0101]] 營平二州地名記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0101
 :SOURCE:   四庫全書 文淵閣版, V588.3, p375
@@ -2348,7 +2348,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0102.org][ZB2k0102]] 金鰲退食筆記
+*** KR2k0101 [[mandoku:ZB2k0102.org][ZB2k0102]] 金鰲退食筆記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0102
 :SOURCE:   四庫全書 文淵閣版, V588.4, p401
@@ -2366,7 +2366,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0103.org][ZB2k0103]] 石柱記箋釋
+*** KR2k0102 [[mandoku:ZB2k0103.org][ZB2k0103]] 石柱記箋釋
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0103
 :SOURCE:   四庫全書 文淵閣版, V588.5, p433
@@ -2384,7 +2384,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0104.org][ZB2k0104]] 關中勝蹟圖志
+*** KR2k0103 [[mandoku:ZB2k0104.org][ZB2k0104]] 關中勝蹟圖志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0104
 :SOURCE:   四庫全書 文淵閣版, V588.6, p479
@@ -2402,7 +2402,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0105.org][ZB2k0105]] 南方草木狀
+*** KR2k0104 [[mandoku:ZB2k0105.org][ZB2k0105]] 南方草木狀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0105
 :SOURCE:   四庫全書 文淵閣版, V589.1, p1
@@ -2420,7 +2420,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0106.org][ZB2k0106]] 荊楚嵗時記
+*** KR2k0105 [[mandoku:ZB2k0106.org][ZB2k0106]] 荊楚嵗時記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0106
 :SOURCE:   四庫全書 文淵閣版, V589.2, p13
@@ -2438,7 +2438,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0107.org][ZB2k0107]] 北戶錄
+*** KR2k0106 [[mandoku:ZB2k0107.org][ZB2k0107]] 北戶錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0107
 :SOURCE:   四庫全書 文淵閣版, V589.3, p29
@@ -2462,7 +2462,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0108.org][ZB2k0108]] 桂林風土記
+*** KR2k0107 [[mandoku:ZB2k0108.org][ZB2k0108]] 桂林風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0108
 :SOURCE:   四庫全書 文淵閣版, V589.4, p63
@@ -2480,7 +2480,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0109.org][ZB2k0109]] 嶺表錄異
+*** KR2k0108 [[mandoku:ZB2k0109.org][ZB2k0109]] 嶺表錄異
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0109
 :SOURCE:   四庫全書 文淵閣版, V589.5, p79
@@ -2497,7 +2497,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0110.org][ZB2k0110]] 益部方物略記
+*** KR2k0109 [[mandoku:ZB2k0110.org][ZB2k0110]] 益部方物略記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0110
 :SOURCE:   四庫全書 文淵閣版, V589.6, p99
@@ -2515,7 +2515,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0111.org][ZB2k0111]] 岳陽風土記
+*** KR2k0110 [[mandoku:ZB2k0111.org][ZB2k0111]] 岳陽風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0111
 :SOURCE:   四庫全書 文淵閣版, V589.7, p109
@@ -2532,7 +2532,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0112.org][ZB2k0112]] 東京夢華錄
+*** KR2k0111 [[mandoku:ZB2k0112.org][ZB2k0112]] 東京夢華錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0112
 :SOURCE:   四庫全書 文淵閣版, V589.8, p125
@@ -2550,7 +2550,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0113.org][ZB2k0113]] 六朝事迹編類
+*** KR2k0112 [[mandoku:ZB2k0113.org][ZB2k0113]] 六朝事迹編類
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0113
 :SOURCE:   四庫全書 文淵閣版, V589.9, p175
@@ -2568,7 +2568,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0114.org][ZB2k0114]] 會稽三賦
+*** KR2k0113 [[mandoku:ZB2k0114.org][ZB2k0114]] 會稽三賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0114
 :SOURCE:   四庫全書 文淵閣版, V589.10, p251
@@ -2598,7 +2598,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0115.org][ZB2k0115]] 中吳紀聞
+*** KR2k0114 [[mandoku:ZB2k0115.org][ZB2k0115]] 中吳紀聞
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0115
 :SOURCE:   四庫全書 文淵閣版, V589.11, p289
@@ -2616,7 +2616,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0116.org][ZB2k0116]] 桂海虞衡志
+*** KR2k0115 [[mandoku:ZB2k0116.org][ZB2k0116]] 桂海虞衡志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0116
 :SOURCE:   四庫全書 文淵閣版, V589.12, p365
@@ -2634,7 +2634,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0117.org][ZB2k0117]] 嶺外代答
+*** KR2k0116 [[mandoku:ZB2k0117.org][ZB2k0117]] 嶺外代答
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0117
 :SOURCE:   四庫全書 文淵閣版, V589.13, p389
@@ -2652,7 +2652,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0118.org][ZB2k0118]] 都城紀勝
+*** KR2k0117 [[mandoku:ZB2k0118.org][ZB2k0118]] 都城紀勝
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0118
 :SOURCE:   四庫全書 文淵閣版, V590.1, p1
@@ -2669,7 +2669,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0119.org][ZB2k0119]] 夢梁錄
+*** KR2k0118 [[mandoku:ZB2k0119.org][ZB2k0119]] 夢梁錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0119
 :SOURCE:   四庫全書 文淵閣版, V590.2, p13
@@ -2687,7 +2687,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0120.org][ZB2k0120]] 武林舊事
+*** KR2k0119 [[mandoku:ZB2k0120.org][ZB2k0120]] 武林舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0120
 :SOURCE:   四庫全書 文淵閣版, V590.3, p173
@@ -2705,7 +2705,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0121.org][ZB2k0121]] 增補武林舊事
+*** KR2k0120 [[mandoku:ZB2k0121.org][ZB2k0121]] 增補武林舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0121
 :SOURCE:   四庫全書 文淵閣版, V590.4, p301
@@ -2729,7 +2729,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0122.org][ZB2k0122]] 嵗華紀麗譜
+*** KR2k0121 [[mandoku:ZB2k0122.org][ZB2k0122]] 嵗華紀麗譜
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0122
 :SOURCE:   四庫全書 文淵閣版, V590.5, p433
@@ -2760,7 +2760,7 @@
       :BOOK:   (1)
       :END:
 
-*** [[mandoku:ZB2k0123.org][ZB2k0123]] 吳中舊事
+*** KR2k0122 [[mandoku:ZB2k0123.org][ZB2k0123]] 吳中舊事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0123
 :SOURCE:   四庫全書 文淵閣版, V590.6, p443
@@ -2778,7 +2778,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0124.org][ZB2k0124]] 平江記事
+*** KR2k0123 [[mandoku:ZB2k0124.org][ZB2k0124]] 平江記事
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0124
 :SOURCE:   四庫全書 文淵閣版, V590.7, p459
@@ -2796,7 +2796,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0125.org][ZB2k0125]] 江漢叢談
+*** KR2k0124 [[mandoku:ZB2k0125.org][ZB2k0125]] 江漢叢談
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0125
 :SOURCE:   四庫全書 文淵閣版, V590.8, p471
@@ -2814,7 +2814,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0126.org][ZB2k0126]] 閩中海錯疏
+*** KR2k0125 [[mandoku:ZB2k0126.org][ZB2k0126]] 閩中海錯疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0126
 :SOURCE:   四庫全書 文淵閣版, V590.9, p499
@@ -2832,7 +2832,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0127.org][ZB2k0127]] 蜀中廣記
+*** KR2k0126 [[mandoku:ZB2k0127.org][ZB2k0127]] 蜀中廣記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0127
 :SOURCE:   四庫全書 文淵閣版, V591.1, p1 - V592.1
@@ -2850,7 +2850,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0128.org][ZB2k0128]] 益部談資
+*** KR2k0127 [[mandoku:ZB2k0128.org][ZB2k0128]] 益部談資
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0128
 :SOURCE:   四庫全書 文淵閣版, V592.2, p735
@@ -2867,7 +2867,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0129.org][ZB2k0129]] 顏山雜記
+*** KR2k0128 [[mandoku:ZB2k0129.org][ZB2k0129]] 顏山雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0129
 :SOURCE:   四庫全書 文淵閣版, V592.3, p759
@@ -2885,7 +2885,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0130.org][ZB2k0130]] 嶺南風物記
+*** KR2k0129 [[mandoku:ZB2k0130.org][ZB2k0130]] 嶺南風物記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0130
 :SOURCE:   四庫全書 文淵閣版, V592.4, p827
@@ -2915,7 +2915,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0131.org][ZB2k0131]] 龍沙紀略
+*** KR2k0130 [[mandoku:ZB2k0131.org][ZB2k0131]] 龍沙紀略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0131
 :SOURCE:   四庫全書 文淵閣版, V592.5, p841
@@ -2932,7 +2932,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0132.org][ZB2k0132]] 臺海使槎錄
+*** KR2k0131 [[mandoku:ZB2k0132.org][ZB2k0132]] 臺海使槎錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0132
 :SOURCE:   四庫全書 文淵閣版, V592.6, p861
@@ -2950,7 +2950,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0133.org][ZB2k0133]] 東城雜記
+*** KR2k0132 [[mandoku:ZB2k0133.org][ZB2k0133]] 東城雜記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0133
 :SOURCE:   四庫全書 文淵閣版, V592.7, p985
@@ -2968,7 +2968,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0134.org][ZB2k0134]] 遊城南記
+*** KR2k0133 [[mandoku:ZB2k0134.org][ZB2k0134]] 遊城南記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0134
 :SOURCE:   四庫全書 文淵閣版, V593.1, p1
@@ -2986,7 +2986,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0135.org][ZB2k0135]] 河朔訪古記
+*** KR2k0134 [[mandoku:ZB2k0135.org][ZB2k0135]] 河朔訪古記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0135
 :SOURCE:   四庫全書 文淵閣版, V593.2, p17
@@ -3003,7 +3003,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0136.org][ZB2k0136]] 徐霞客遊記
+*** KR2k0135 [[mandoku:ZB2k0136.org][ZB2k0136]] 徐霞客遊記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0136
 :SOURCE:   四庫全書 文淵閣版, V593.3, p61
@@ -3021,7 +3021,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0137.org][ZB2k0137]] 佛國記
+*** KR2k0136 [[mandoku:ZB2k0137.org][ZB2k0137]] 佛國記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0137
 :SOURCE:   四庫全書 文淵閣版, V593.4, p611
@@ -3039,7 +3039,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0138.org][ZB2k0138]] 大唐西域記
+*** KR2k0137 [[mandoku:ZB2k0138.org][ZB2k0138]] 大唐西域記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0138
 :SOURCE:   四庫全書 文淵閣版, V593.5, p635
@@ -3063,7 +3063,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0139.org][ZB2k0139]] 宣和奉使高麗圖經
+*** KR2k0138 [[mandoku:ZB2k0139.org][ZB2k0139]] 宣和奉使高麗圖經
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0139
 :SOURCE:   四庫全書 文淵閣版, V593.6, p811
@@ -3088,7 +3088,7 @@
       :BOOK:   (4)
       :END:
 
-*** [[mandoku:ZB2k0140.org][ZB2k0140]] 諸蕃志
+*** KR2k0139 [[mandoku:ZB2k0140.org][ZB2k0140]] 諸蕃志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0140
 :SOURCE:   四庫全書 文淵閣版, V594.1, p1
@@ -3106,7 +3106,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0141.org][ZB2k0141]] 溪蠻叢笑
+*** KR2k0140 [[mandoku:ZB2k0141.org][ZB2k0141]] 溪蠻叢笑
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0141
 :SOURCE:   四庫全書 文淵閣版, V594.2, p43
@@ -3123,7 +3123,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0142.org][ZB2k0142]] 眞臘風土記
+*** KR2k0141 [[mandoku:ZB2k0142.org][ZB2k0142]] 眞臘風土記
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0142
 :SOURCE:   四庫全書 文淵閣版, V594.3, p53
@@ -3141,7 +3141,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0143.org][ZB2k0143]] 島夷誌略
+*** KR2k0142 [[mandoku:ZB2k0143.org][ZB2k0143]] 島夷誌略
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0143
 :SOURCE:   四庫全書 文淵閣版, V594.4, p71
@@ -3158,7 +3158,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0144.org][ZB2k0144]] 朝鮮賦
+*** KR2k0143 [[mandoku:ZB2k0144.org][ZB2k0144]] 朝鮮賦
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0144
 :SOURCE:   四庫全書 文淵閣版, V594.5, p105
@@ -3176,7 +3176,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0145.org][ZB2k0145]] 海語
+*** KR2k0144 [[mandoku:ZB2k0145.org][ZB2k0145]] 海語
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0145
 :SOURCE:   四庫全書 文淵閣版, V594.6, p117
@@ -3200,7 +3200,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0146.org][ZB2k0146]] 東西洋考
+*** KR2k0145 [[mandoku:ZB2k0146.org][ZB2k0146]] 東西洋考
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0146
 :SOURCE:   四庫全書 文淵閣版, V594.7, p137
@@ -3218,7 +3218,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0147.org][ZB2k0147]] 職方外紀
+*** KR2k0146 [[mandoku:ZB2k0147.org][ZB2k0147]] 職方外紀
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0147
 :SOURCE:   四庫全書 文淵閣版, V594.8, p279
@@ -3243,7 +3243,7 @@
       :BOOK:   (1)
       :END:
 
-*** [[mandoku:ZB2k0148.org][ZB2k0148]] 赤雅
+*** KR2k0147 [[mandoku:ZB2k0148.org][ZB2k0148]] 赤雅
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0148
 :SOURCE:   四庫全書 文淵閣版, V594.9, p337
@@ -3261,7 +3261,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0149.org][ZB2k0149]] 朝鮮志
+*** KR2k0148 [[mandoku:ZB2k0149.org][ZB2k0149]] 朝鮮志
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0149
 :SOURCE:   四庫全書 文淵閣版, V594.10, p369
@@ -3278,7 +3278,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0150.org][ZB2k0150]] 皇清職貢圖
+*** KR2k0149 [[mandoku:ZB2k0150.org][ZB2k0150]] 皇清職貢圖
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0150
 :SOURCE:   四庫全書 文淵閣版, V594.11, p395
@@ -3297,7 +3297,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0151.org][ZB2k0151]] 坤輿圖說
+*** KR2k0150 [[mandoku:ZB2k0151.org][ZB2k0151]] 坤輿圖說
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0151
 :SOURCE:   四庫全書 文淵閣版, V594.12, p729
@@ -3315,7 +3315,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0152.org][ZB2k0152]] 異域錄
+*** KR2k0151 [[mandoku:ZB2k0152.org][ZB2k0152]] 異域錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0152
 :SOURCE:   四庫全書 文淵閣版, V594.13, p793
@@ -3333,7 +3333,7 @@
 
 **** textual witnesses
 ***** WYG
-*** [[mandoku:ZB2k0153.org][ZB2k0153]] 海國聞見錄
+*** KR2k0152 [[mandoku:ZB2k0153.org][ZB2k0153]] 海國聞見錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB2k0153
 :SOURCE:   四庫全書 文淵閣版, V594.14, p847
