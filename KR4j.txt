@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB4j 詞曲類
 *** [[mandoku:ZB4e0001.org][ZB4e0001]] 珠玉詞
 :PROPERTIES:
@@ -237,6 +237,7 @@
 :EXTENT: 1 卷
 :BOOK:   (1)
 :_RESP:    （宋）謝逸
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 謝逸
@@ -1597,6 +1598,7 @@
 :EXTENT: 1 卷
 :BOOK:   (1)
 :_RESP:    （宋）沈義父
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 沈義父
@@ -1835,6 +1837,7 @@
 :EXTENT: 100 卷
 :BOOK:   72
 :_RESP:    （清）王太岳
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 王太岳

@@ -1,11 +1,10 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1e 春秋類
-  :PROPERTIES:
-  :COLUMNS:  %30ITEM %10EXTENT %40_RESP
-  :END:
 *** [[at:text/chant/H15-24-0086/H15-24-0086_001.txt][H15-24-0086]] 春秋左傳
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H15-24-0086
     :END:
 
 *** SB11n007 春秋經傳集解
@@ -56,6 +55,7 @@
 :PROPERTIES:
 :EXTENT: 三十六卷
 :_RESP:    （唐）孔穎達
+:CUSTOM_ID: SB21n325
 :END:
 
 **** responsible:
@@ -156,6 +156,7 @@
    :PROPERTIES:
    :ZB_ID:    ZB1e0002
    :_RESP:    
+   :CUSTOM_ID: H15-24-0085
    :END:
 *** [[mandoku:ZB1e0002.org][ZB1e0002]] 春秋公羊傳注疏
 :PROPERTIES:
@@ -248,6 +249,7 @@
 *** [[at:text/chant/H15-24-0087/H15-24-0087_001.txt][H15-24-0087]] 春秋穀梁傳
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H15-24-0087
     :END:
 *** [[mandoku:ZB1e0003.org][ZB1e0003]] 春秋穀梁注疏
 :PROPERTIES:
@@ -945,6 +947,7 @@
 :PROPERTIES:
 :EXTENT: 六卷
 :_RESP:    （宋）呂祖謙,（民國）胡文楷
+:CUSTOM_ID: SB21n332
 :END:
 
 坿校勘記一卷

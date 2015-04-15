@@ -1,7 +1,10 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB4a 楚辭類
 *** [[at:text/chant/H12-10-0047/H12-10-0047_001.txt][H12-10-0047]] 楚辭
+    :PROPERTIES:
+    :CUSTOM_ID: H12-10-0047
+    :END:
 **** responsible:
 ***** 王逸
       :PROPERTIES:

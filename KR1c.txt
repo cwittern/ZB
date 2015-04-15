@@ -1,4 +1,5 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1c 詩類
 *** [[mandoku:ZB1b0056.org][ZB1b0056]] 詩序
 :PROPERTIES:
@@ -24,6 +25,9 @@
 **** textual witnesses
 ***** WYG
 *** [[at:text/chant/H15-27-0095/H15-27-0095_001.txt][H15-27-0095]] 毛詩
+    :PROPERTIES:
+    :CUSTOM_ID: H15-27-0095
+    :END:
 *** [[mandoku:ZB1b0057.org][ZB1b0057]] 毛詩注疏
 :PROPERTIES:
 :CUSTOM_ID:  ZB1b0057
@@ -205,6 +209,7 @@
 *** SB31n403 詩集傳
 :PROPERTIES:
 :EXTENT: 二十卷
+:CUSTOM_ID: SB31n403
 :END:
 
 **** responsible:

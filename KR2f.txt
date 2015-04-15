@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB2f 詔令奏議類
 *** [[mandoku:ZB2f0001.org][ZB2f0001]] 太祖高皇帝聖訓
 :PROPERTIES:
@@ -49,6 +49,7 @@
 :PROPERTIES:
 :EXTENT: 二十卷
 :_RESP:    （宋）錢若水
+:CUSTOM_ID: SB32n411
 :END:
 
 **** responsible:

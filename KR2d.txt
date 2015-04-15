@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB2d 別史類
 *** [[mandoku:ZB2d0002.org][ZB2d0002]] 逸周書
 :PROPERTIES:
@@ -439,6 +439,7 @@
     :_RESP:    （明）查繼佐,（明）沈仲方
     :EXTENT: 不分卷
     :ZB_ID:    SB32n415
+    :CUSTOM_ID: SB32n415
     :END:
 **** 人物
 ***** 查繼佐

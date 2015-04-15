@@ -1,16 +1,16 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1j 小學類
-  :PROPERTIES:
-  :COLUMNS:  %30ITEM %10EXTENT %40_RESP
-  :END:
 *** [[at:text/chant/H16-28-0100/H16-28-0100_001.txt][H16-28-0100]] 爾雅
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H16-28-0100
     :END:
 *** SB21n326 爾雅疏
 :PROPERTIES:
 :EXTENT: 十卷
 :_RESP:    （宋）邢昺
+:CUSTOM_ID: SB21n326
 :END:
 
 **** responsible:
@@ -823,6 +823,7 @@
 :EXTENT: 5 卷
 :BOOK:   2
 :_RESP:    （元）周伯琦
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 周伯琦

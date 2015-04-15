@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB2b 編年類
 *** [[mandoku:ZB2b0001.org][ZB2b0001]] 竹書紀年
 :PROPERTIES:
@@ -718,6 +718,7 @@
 :PROPERTIES:
 :EXTENT: 四卷
 :_RESP:    （宋）章衡
+:CUSTOM_ID: SB32n410
 :END:
 
 **** responsible:

@@ -1,6 +1,10 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1h 四書類
 *** [[at:text/chant/H15-21-0080/H15-21-0080_001.txt][H15-21-0080]] 孟子
+    :PROPERTIES:
+    :CUSTOM_ID: H15-21-0080
+    :END:
 
 *** ZB1h0001 孟子注疏
 :PROPERTIES:
@@ -40,6 +44,9 @@
      :END:
 
 *** [[at:text/chant/H15-21-0081/H15-21-0081_001.txt][H15-21-0081]] 論語
+    :PROPERTIES:
+    :CUSTOM_ID: H15-21-0081
+    :END:
 
 *** ZB1h0002 論語集解義疏
 :PROPERTIES:
@@ -933,6 +940,7 @@
 *** SB31n405 中庸說殘
 :PROPERTIES:
 :EXTENT: 三卷
+:CUSTOM_ID: SB31n405
 :END:
 
 **** responsible:
@@ -947,7 +955,6 @@
 :PROPERTIES:
 :EDITION: 海鹽張氏涉園照存京都東福寺藏宋槧本
 :END:
-
 
 *** ZB1h0038 四書大全
 :PROPERTIES:

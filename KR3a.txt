@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB3a 儒家類
 *** [[mandoku:ZB3a0001.org][ZB3a0001]] 孔子家語
 :PROPERTIES:
@@ -570,6 +570,7 @@
 :PROPERTIES:
 :EXTENT: 三卷
 :_RESP:    （宋）張載,（民國）張元濟
+:CUSTOM_ID: SB23n352
 :END:
 
 後錄二卷
@@ -718,6 +719,7 @@
 :PROPERTIES:
 :EXTENT: 三卷
 :_RESP:    （元）程端禮
+:CUSTOM_ID: SB23n354
 :END:
 
 綱領一卷
@@ -1888,6 +1890,7 @@
 *** [[at:text/chant/H21-01-0102/H21-01-0102_001.txt][H21-01-0102]] 周昭周子
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H21-01-0102
     :END:
 
 *** [[mandoku:ZB3a0084.org][ZB3a0084]] 周子抄釋

@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB2k 地理類
 *** [[mandoku:ZB2k0001.org][ZB2k0001]] 三輔黃圖
 :PROPERTIES:
@@ -738,6 +738,7 @@
     :_RESP:    （淸）顧炎武,（淸）錢邦彥
     :EXTENT:   不分卷
     :ZB_ID:    SB32n418
+    :CUSTOM_ID: SB32n418
     :END:
 坿顧亭林先生年譜一卷
 **** 人物

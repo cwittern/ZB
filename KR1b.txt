@@ -1,9 +1,14 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1b 書類
 *** [[at:text/chant/H15-25-0089/H15-25-0089_001.txt][H15-25-0089]] 尚書
+    :PROPERTIES:
+    :CUSTOM_ID: H15-25-0089
+    :END:
 *** SB31n399 尚書正義
 :PROPERTIES:
 :EXTENT: 二十卷
+:CUSTOM_ID: SB31n399
 :END:
 
 **** responsible:

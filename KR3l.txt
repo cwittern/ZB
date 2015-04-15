@@ -1,5 +1,5 @@
 #-*- mode: org; -*-
-#+COLUMNS: %30ITEM %10EXTENT %40_RESP
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB3l 小說家類
 *** [[mandoku:ZB3l0001.org][ZB3l0001]] 西京雜記
 :PROPERTIES:
@@ -153,6 +153,7 @@
 :BOOK:   (1)
 :DATE:   838
 :_RESP:    （唐）趙璘
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 趙璘
@@ -1604,6 +1605,7 @@
 :EXTENT: 1 卷
 :BOOK:   (1)
 :_RESP:    （元）姚桐壽
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 姚桐壽
@@ -2016,6 +2018,7 @@
 :EXTENT: 1 卷
 :BOOK:   (1)
 :_RESP:    （唐）谷神子
+:CUSTOM_ID: noid
 :END:
 **** responsible:
 ***** 谷神子

@@ -1,12 +1,10 @@
 #-*- mode: org; -*-
+#+COLUMNS: %30ITEM %15CUSTOM_ID
 ** ZB1d 禮類
-  :PROPERTIES:
-  :COLUMNS:  %25ITEM %10EXTENT %40_RESP
-  :END:
-
 *** [[at:text/chant/H15-26-0092/H15-26-0092_001.txt][H15-26-0092]] 周禮
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H15-26-0092
     :END:
 
 *** [[mandoku:ZB1d0001.org][ZB1d0001]] 周禮注疏
@@ -493,12 +491,14 @@
 *** [[at:text/chant/H15-26-0091/H15-26-0091_001.txt][H15-26-0091]] 儀禮
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H15-26-0091
     :END:
 
 *** SB21n324 儀禮疏
 :PROPERTIES:
 :EXTENT: 五十卷
 :_RESP:    （唐）賈公彥
+:CUSTOM_ID: SB21n324
 :END:
 
 **** responsible:
@@ -1038,6 +1038,7 @@
 *** [[at:text/chant/H15-26-0094/H15-26-0094_001.txt][H15-26-0094]] 禮記
     :PROPERTIES:
     :_RESP:    
+    :CUSTOM_ID: H15-26-0094
     :END:
 *** [[mandoku:ZB1d0047.org][ZB1d0047]] 禮記注疏
 :PROPERTIES:
@@ -1124,6 +1125,7 @@
 :PROPERTIES:
 :EXTENT: 三十三卷
 :_RESP:    （宋）魏了翁
+:CUSTOM_ID: SB21n330
 :END:
 
 坿校勘記一卷
@@ -1238,6 +1240,7 @@
 :PROPERTIES:
 :EXTENT: 九卷
 :_RESP:    （唐）孔穎達
+:CUSTOM_ID: SB21n400
 :END:
 
 **** responsible:
