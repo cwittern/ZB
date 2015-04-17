@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
-** KR6a ZB6a 阿含部類
-*** KR6a0001 [[mandoku:ZB6a0001.org][ZB6a0001]] [[cbeta:T/T01n0001/T01n0001.org][T01n0001]] 長阿含經
+** ZB6a 阿含部類
+*** [[mandoku:ZB6a0001.org][ZB6a0001]] [[cbeta:T/T01n0001/T01n0001.org][T01n0001]] 長阿含經
 :PROPERTIES: 
 :CBETA_ID:  T01n0001
 :RELATED: T01n0002@經, T01n0003@經, T01n0004@經, T01n0005@經, T01n0006@經, T01n0007@經, T01n0008@經, T01n0009@經, T01n0010@經, T01n0011@經, T01n0012@經, T01n0013@經, T01n0014@經, T01n0015@經, T01n0016@經, T01n0017@經, T01n0018@經, T01n0019@經, T01n0020@經, T01n0021@經, T01n0022@經, T01n0023@經, T01n0024@經, T01n0025@經, T01n0045-52@經
@@ -66,7 +66,7 @@
 :WITID: wit15
 :END:
 
-*** KR6a0002 [[mandoku:ZB6a0002.org][ZB6a0002]]  [[cbeta:T/T01n0002/T01n0002.org][T01n0002]] 七佛經
+*** [[mandoku:ZB6a0002.org][ZB6a0002]]  [[cbeta:T/T01n0002/T01n0002.org][T01n0002]] 七佛經
 :PROPERTIES: 
 :CBETA_ID:  T01n0002
 :RELATED: T01n0001-1@經, T01n0003@經, T01n0004@經
@@ -113,7 +113,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0003 [[mandoku:ZB6a0003.org][ZB6a0003]]  [[cbeta:T/T01n0003/T01n0003.org][T01n0003]] 毘婆尸佛經
+*** [[mandoku:ZB6a0003.org][ZB6a0003]]  [[cbeta:T/T01n0003/T01n0003.org][T01n0003]] 毘婆尸佛經
 :PROPERTIES: 
 :CBETA_ID:  T01n0003
 :RELATED: T01n0001-1@經, T01n0002@經, T01n0004@經
@@ -160,7 +160,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0004 [[mandoku:ZB6a0004.org][ZB6a0004]]  [[cbeta:T/T01n0004/T01n0004.org][T01n0004]] 七佛父母姓字經
+*** [[mandoku:ZB6a0004.org][ZB6a0004]]  [[cbeta:T/T01n0004/T01n0004.org][T01n0004]] 七佛父母姓字經
 :PROPERTIES: 
 :CBETA_ID:  T01n0004
 :RELATED: T01n0001-1@經, T01n0002@經, T01n0003@經
@@ -201,7 +201,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0005 [[mandoku:ZB6a0005.org][ZB6a0005]]  [[cbeta:T/T01n0005/T01n0005.org][T01n0005]] 佛般泥洹經
+*** [[mandoku:ZB6a0005.org][ZB6a0005]]  [[cbeta:T/T01n0005/T01n0005.org][T01n0005]] 佛般泥洹經
 :PROPERTIES: 
 :CBETA_ID:  T01n0005
 :RELATED: T01n0001-2@經, T01n0006@經, T01n0007@經
@@ -248,7 +248,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0006 [[mandoku:ZB6a0006.org][ZB6a0006]]  [[cbeta:T/T01n0006/T01n0006.org][T01n0006]] 般泥洹經
+*** [[mandoku:ZB6a0006.org][ZB6a0006]]  [[cbeta:T/T01n0006/T01n0006.org][T01n0006]] 般泥洹經
 :PROPERTIES: 
 :CBETA_ID:  T01n0006
 :RELATED: T01n0001-2@經, T01n0005@經, T01n0007@經
@@ -299,7 +299,7 @@
 :WITID: wit14
 :END:
 
-*** KR6a0007 [[mandoku:ZB6a0007.org][ZB6a0007]]  [[cbeta:T/T01n0007/T01n0007.org][T01n0007]] 大般涅槃經
+*** [[mandoku:ZB6a0007.org][ZB6a0007]]  [[cbeta:T/T01n0007/T01n0007.org][T01n0007]] 大般涅槃經
 :PROPERTIES: 
 :CBETA_ID:  T01n0007
 :RELATED: T01n0001-2@經, T01n0005@經, T01n0006@經
@@ -346,7 +346,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0008 [[mandoku:ZB6a0008.org][ZB6a0008]]  [[cbeta:T/T01n0008/T01n0008.org][T01n0008]] 大堅固婆羅門緣起經
+*** [[mandoku:ZB6a0008.org][ZB6a0008]]  [[cbeta:T/T01n0008/T01n0008.org][T01n0008]] 大堅固婆羅門緣起經
 :PROPERTIES: 
 :CBETA_ID:  T01n0008
 :RELATED: T01n0001-3@經
@@ -393,7 +393,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0009 [[mandoku:ZB6a0009.org][ZB6a0009]]  [[cbeta:T/T01n0009/T01n0009.org][T01n0009]] 人仙經
+*** [[mandoku:ZB6a0009.org][ZB6a0009]]  [[cbeta:T/T01n0009/T01n0009.org][T01n0009]] 人仙經
 :PROPERTIES: 
 :CBETA_ID:  T01n0009
 :RELATED: T01n0001-4@經
@@ -440,7 +440,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0010 [[mandoku:ZB6a0010.org][ZB6a0010]]  [[cbeta:T/T01n0010/T01n0010.org][T01n0010]] 白衣金幢二婆羅門緣起經
+*** [[mandoku:ZB6a0010.org][ZB6a0010]]  [[cbeta:T/T01n0010/T01n0010.org][T01n0010]] 白衣金幢二婆羅門緣起經
 :PROPERTIES: 
 :CBETA_ID:  T01n0010
 :RELATED: T01n0001-5@經, T01n0026-154@經
@@ -487,7 +487,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0011 [[mandoku:ZB6a0011.org][ZB6a0011]]  [[cbeta:T/T01n0011/T01n0011.org][T01n0011]] 尼拘陀梵志經
+*** [[mandoku:ZB6a0011.org][ZB6a0011]]  [[cbeta:T/T01n0011/T01n0011.org][T01n0011]] 尼拘陀梵志經
 :PROPERTIES: 
 :CBETA_ID:  T01n0011
 :RELATED: T01n0001-8@經, T01n0026-104@經
@@ -534,7 +534,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0012 [[mandoku:ZB6a0012.org][ZB6a0012]]  [[cbeta:T/T01n0012/T01n0012.org][T01n0012]] 大集法門經
+*** [[mandoku:ZB6a0012.org][ZB6a0012]]  [[cbeta:T/T01n0012/T01n0012.org][T01n0012]] 大集法門經
 :PROPERTIES: 
 :CBETA_ID:  T01n0012
 :RELATED: T01n0001-6@經
@@ -581,7 +581,7 @@
 :WITID: wit10
 :END:
 
-*** KR6a0013 [[mandoku:ZB6a0013.org][ZB6a0013]]  [[cbeta:T/T01n0013/T01n0013.org][T01n0013]] 長阿含十報法經
+*** [[mandoku:ZB6a0013.org][ZB6a0013]]  [[cbeta:T/T01n0013/T01n0013.org][T01n0013]] 長阿含十報法經
 :PROPERTIES: 
 :CBETA_ID:  T01n0013
 :RELATED: T01n0001-10@經
@@ -628,7 +628,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0014 [[mandoku:ZB6a0014.org][ZB6a0014]]  [[cbeta:T/T01n0014/T01n0014.org][T01n0014]] 人本欲生經
+*** [[mandoku:ZB6a0014.org][ZB6a0014]]  [[cbeta:T/T01n0014/T01n0014.org][T01n0014]] 人本欲生經
 :PROPERTIES: 
 :CBETA_ID:  T01n0014
 :RELATED: T01n0001-13@經, T01n0026-97@經, T01n0052@經, T33n1693@疏
@@ -685,7 +685,7 @@
 :WITID: wit13
 :END:
 
-*** KR6a0015 [[mandoku:ZB6a0015.org][ZB6a0015]]  [[cbeta:T/T01n0015/T01n0015.org][T01n0015]] 帝釋所問經
+*** [[mandoku:ZB6a0015.org][ZB6a0015]]  [[cbeta:T/T01n0015/T01n0015.org][T01n0015]] 帝釋所問經
 :PROPERTIES: 
 :CBETA_ID:  T01n0015
 :RELATED: T01n0001-14@經, T01n0026-134@經
@@ -732,7 +732,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0016 [[mandoku:ZB6a0016.org][ZB6a0016]]  [[cbeta:T/T01n0016/T01n0016.org][T01n0016]] 尸迦羅越六方禮經
+*** [[mandoku:ZB6a0016.org][ZB6a0016]]  [[cbeta:T/T01n0016/T01n0016.org][T01n0016]] 尸迦羅越六方禮經
 :PROPERTIES: 
 :CBETA_ID:  T01n0016
 :RELATED: T01n0001-16@經, T01n0017@經, T01n0026-135@經
@@ -779,7 +779,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0017 [[mandoku:ZB6a0017.org][ZB6a0017]]  [[cbeta:T/T01n0017/T01n0017.org][T01n0017]] 善生子經
+*** [[mandoku:ZB6a0017.org][ZB6a0017]]  [[cbeta:T/T01n0017/T01n0017.org][T01n0017]] 善生子經
 :PROPERTIES: 
 :CBETA_ID:  T01n0017
 :RELATED: T01n0001-16@經, T01n0016@經, T01n0026-135@經
@@ -826,7 +826,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0018 [[mandoku:ZB6a0018.org][ZB6a0018]]  [[cbeta:T/T01n0018/T01n0018.org][T01n0018]] 信佛功德經
+*** [[mandoku:ZB6a0018.org][ZB6a0018]]  [[cbeta:T/T01n0018/T01n0018.org][T01n0018]] 信佛功德經
 :PROPERTIES: 
 :CBETA_ID:  T01n0018
 :RELATED: T01n0001-18@經
@@ -873,7 +873,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0019 [[mandoku:ZB6a0019.org][ZB6a0019]]  [[cbeta:T/T01n0019/T01n0019.org][T01n0019]] 大三摩惹經
+*** [[mandoku:ZB6a0019.org][ZB6a0019]]  [[cbeta:T/T01n0019/T01n0019.org][T01n0019]] 大三摩惹經
 :PROPERTIES: 
 :CBETA_ID:  T01n0019
 :RELATED: T01n0001-19@經, T02n0099-1192@經, T02n0100-105@經
@@ -920,7 +920,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0020 [[mandoku:ZB6a0020.org][ZB6a0020]]  [[cbeta:T/T01n0020/T01n0020.org][T01n0020]] 佛開解梵志阿颰經
+*** [[mandoku:ZB6a0020.org][ZB6a0020]]  [[cbeta:T/T01n0020/T01n0020.org][T01n0020]] 佛開解梵志阿颰經
 :PROPERTIES: 
 :CBETA_ID:  T01n0020
 :RELATED: T01n0001-20@經
@@ -972,7 +972,7 @@
 :WITID: wit14
 :END:
 
-*** KR6a0021 [[mandoku:ZB6a0021.org][ZB6a0021]]  [[cbeta:T/T01n0021/T01n0021.org][T01n0021]] 梵網六十二見經
+*** [[mandoku:ZB6a0021.org][ZB6a0021]]  [[cbeta:T/T01n0021/T01n0021.org][T01n0021]] 梵網六十二見經
 :PROPERTIES: 
 :CBETA_ID:  T01n0021
 :RELATED: T01n0001-21@經
@@ -1019,7 +1019,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0022 [[mandoku:ZB6a0022.org][ZB6a0022]]  [[cbeta:T/T01n0022/T01n0022.org][T01n0022]] 寂志果經
+*** [[mandoku:ZB6a0022.org][ZB6a0022]]  [[cbeta:T/T01n0022/T01n0022.org][T01n0022]] 寂志果經
 :PROPERTIES: 
 :CBETA_ID:  T01n0022
 :RELATED: T01n0001-27@經, T02n0125-43@經
@@ -1066,7 +1066,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0023 [[mandoku:ZB6a0023.org][ZB6a0023]]  [[cbeta:T/T01n0023/T01n0023.org][T01n0023]] 大樓炭經
+*** [[mandoku:ZB6a0023.org][ZB6a0023]]  [[cbeta:T/T01n0023/T01n0023.org][T01n0023]] 大樓炭經
 :PROPERTIES: 
 :CBETA_ID:  T01n0023
 :RELATED: T01n0001-30@經, T01n0024@經, T01n0025@經
@@ -1127,7 +1127,7 @@
 :WITID: wit16
 :END:
 
-*** KR6a0024 [[mandoku:ZB6a0024.org][ZB6a0024]]  [[cbeta:T/T01n0024/T01n0024.org][T01n0024]] 起世經
+*** [[mandoku:ZB6a0024.org][ZB6a0024]]  [[cbeta:T/T01n0024/T01n0024.org][T01n0024]] 起世經
 :PROPERTIES: 
 :CBETA_ID:  T01n0024
 :RELATED: T01n0001-30@經, T01n0023@經, T01n0025@經
@@ -1174,7 +1174,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0025 [[mandoku:ZB6a0025.org][ZB6a0025]]  [[cbeta:T/T01n0025/T01n0025.org][T01n0025]] 起世因本經
+*** [[mandoku:ZB6a0025.org][ZB6a0025]]  [[cbeta:T/T01n0025/T01n0025.org][T01n0025]] 起世因本經
 :PROPERTIES: 
 :CBETA_ID:  T01n0025
 :RELATED: T01n0001-30@經, T01n0023@經, T01n0024@經
@@ -1221,7 +1221,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0026 [[mandoku:ZB6a0026.org][ZB6a0026]]  [[cbeta:T/T01n0026/T01n0026.org][T01n0026]] 中阿含經
+*** [[mandoku:ZB6a0026.org][ZB6a0026]]  [[cbeta:T/T01n0026/T01n0026.org][T01n0026]] 中阿含經
 :PROPERTIES: 
 :CBETA_ID:  T01n0026
 :RELATED: T01n0010@經, T01n0011@經, T01n0014@經, T01n0015@經, T01n0016@經, T01n0017@經, T01n0027@經, T01n0028@經, T01n0029@經, T01n0030@經, T01n0031@經, T01n0032@經, T01n0033@經, T01n0034@經, T01n0035@經, T01n0036@經, T01n0037@經, T01n0038@經, T01n0039@經, T01n0040@經, T01n0041@經, T01n0042@經, T01n0043@經, T01n0044@經, T01n0045@經, T01n0046@經, T01n0047@經, T01n0048@經, T01n0049@經, T01n0050@經, T01n0051@經, T01n0052@經, T01n0053@經, T01n0054@經, T01n0055@經, T01n0056@經, T01n0057@經, T01n0058@經, T01n0059@經, T01n0060@經, T01n0061@經, T01n0062@經, T01n0063@經, T01n0064@經, T01n0065@經, T01n0066@經, T01n0067@經, T01n0068@經, T01n0069@經, T01n0070@經, T01n0071@經, T01n0072@經, T01n0073@經, T01n0074@經, T01n0075@經, T01n0076@經, T01n0077@經, T01n0078@經, T01n0079@經, T01n0080@經, T01n0081@經, T01n0082@經, T01n0083@經, T01n0084@經, T01n0085@經, T01n0086@經, T01n0087@經, T01n0088@經, T01n0089@經, T01n0090@經, T01n0091@經, T01n0092@經, T01n0093@經, T01n0094@經
@@ -1308,7 +1308,7 @@
 :WITID: wit20
 :END:
 
-*** KR6a0027 [[mandoku:ZB6a0027.org][ZB6a0027]]  [[cbeta:T/T01n0027/T01n0027.org][T01n0027]] 七知經
+*** [[mandoku:ZB6a0027.org][ZB6a0027]]  [[cbeta:T/T01n0027/T01n0027.org][T01n0027]] 七知經
 :PROPERTIES: 
 :CBETA_ID:  T01n0027
 :RELATED: T01n0026-1@經, T02n0125-39@經
@@ -1350,7 +1350,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0028 [[mandoku:ZB6a0028.org][ZB6a0028]]  [[cbeta:T/T01n0028/T01n0028.org][T01n0028]] 園生樹經
+*** [[mandoku:ZB6a0028.org][ZB6a0028]]  [[cbeta:T/T01n0028/T01n0028.org][T01n0028]] 園生樹經
 :PROPERTIES: 
 :CBETA_ID:  T01n0028
 :RELATED: T01n0026-2@經, T02n0125-39@經
@@ -1392,7 +1392,7 @@
 :WITID: wit10
 :END:
 
-*** KR6a0029 [[mandoku:ZB6a0029.org][ZB6a0029]]  [[cbeta:T/T01n0029/T01n0029.org][T01n0029]] 鹹水喻經
+*** [[mandoku:ZB6a0029.org][ZB6a0029]]  [[cbeta:T/T01n0029/T01n0029.org][T01n0029]] 鹹水喻經
 :PROPERTIES: 
 :CBETA_ID:  T01n0029
 :RELATED: T01n0026-4@經, T02n0125-39@經
@@ -1433,7 +1433,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0030 [[mandoku:ZB6a0030.org][ZB6a0030]]  [[cbeta:T/T01n0030/T01n0030.org][T01n0030]] 薩鉢多酥哩踰捺野經
+*** [[mandoku:ZB6a0030.org][ZB6a0030]]  [[cbeta:T/T01n0030/T01n0030.org][T01n0030]] 薩鉢多酥哩踰捺野經
 :PROPERTIES: 
 :CBETA_ID:  T01n0030
 :RELATED: T01n0026-8@經, T02n0125-40@經
@@ -1475,7 +1475,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0031 [[mandoku:ZB6a0031.org][ZB6a0031]]  [[cbeta:T/T01n0031/T01n0031.org][T01n0031]] 一切流攝守因經
+*** [[mandoku:ZB6a0031.org][ZB6a0031]]  [[cbeta:T/T01n0031/T01n0031.org][T01n0031]] 一切流攝守因經
 :PROPERTIES: 
 :CBETA_ID:  T01n0031
 :RELATED: T01n0026-10@經, T02n0125-40@經
@@ -1517,7 +1517,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0032 [[mandoku:ZB6a0032.org][ZB6a0032]]  [[cbeta:T/T01n0032/T01n0032.org][T01n0032]] 四諦經
+*** [[mandoku:ZB6a0032.org][ZB6a0032]]  [[cbeta:T/T01n0032/T01n0032.org][T01n0032]] 四諦經
 :PROPERTIES: 
 :CBETA_ID:  T01n0032
 :RELATED: T01n0026-31@經, T02n0125-27@經
@@ -1559,7 +1559,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0033 [[mandoku:ZB6a0033.org][ZB6a0033]]  [[cbeta:T/T01n0033/T01n0033.org][T01n0033]] 恒水經
+*** [[mandoku:ZB6a0033.org][ZB6a0033]]  [[cbeta:T/T01n0033/T01n0033.org][T01n0033]] 恒水經
 :PROPERTIES: 
 :CBETA_ID:  T01n0033
 :RELATED: T01n0026-37@經, T01n0034@經, T01n0035@經
@@ -1601,7 +1601,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0034 [[mandoku:ZB6a0034.org][ZB6a0034]]  [[cbeta:T/T01n0034/T01n0034.org][T01n0034]] 法海經
+*** [[mandoku:ZB6a0034.org][ZB6a0034]]  [[cbeta:T/T01n0034/T01n0034.org][T01n0034]] 法海經
 :PROPERTIES: 
 :CBETA_ID:  T01n0034
 :RELATED: T01n0026-37@經, T01n0033@經, T01n0035@經
@@ -1643,7 +1643,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0035 [[mandoku:ZB6a0035.org][ZB6a0035]]  [[cbeta:T/T01n0035/T01n0035.org][T01n0035]] 海八德經
+*** [[mandoku:ZB6a0035.org][ZB6a0035]]  [[cbeta:T/T01n0035/T01n0035.org][T01n0035]] 海八德經
 :PROPERTIES: 
 :CBETA_ID:  T01n0035
 :RELATED: T01n0026-37@經, T01n0033@經, T01n0034@經
@@ -1690,7 +1690,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0036 [[mandoku:ZB6a0036.org][ZB6a0036]]  [[cbeta:T/T01n0036/T01n0036.org][T01n0036]] 本相猗致經
+*** [[mandoku:ZB6a0036.org][ZB6a0036]]  [[cbeta:T/T01n0036/T01n0036.org][T01n0036]] 本相猗致經
 :PROPERTIES: 
 :CBETA_ID:  T01n0036
 :RELATED: T01n0026-51@經, T01n0037@經
@@ -1732,7 +1732,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0037 [[mandoku:ZB6a0037.org][ZB6a0037]]  [[cbeta:T/T01n0037/T01n0037.org][T01n0037]] 緣本致經
+*** [[mandoku:ZB6a0037.org][ZB6a0037]]  [[cbeta:T/T01n0037/T01n0037.org][T01n0037]] 緣本致經
 :PROPERTIES: 
 :CBETA_ID:  T01n0037
 :RELATED: T01n0026-51@經, T01n0036@經
@@ -1773,7 +1773,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0038 [[mandoku:ZB6a0038.org][ZB6a0038]]  [[cbeta:T/T01n0038/T01n0038.org][T01n0038]] 輪王七寶經
+*** [[mandoku:ZB6a0038.org][ZB6a0038]]  [[cbeta:T/T01n0038/T01n0038.org][T01n0038]] 輪王七寶經
 :PROPERTIES: 
 :CBETA_ID:  T01n0038
 :RELATED: T01n0026-58@經, T02n0099-721@經, T02n0125-39@經
@@ -1815,7 +1815,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0039 [[mandoku:ZB6a0039.org][ZB6a0039]]  [[cbeta:T/T01n0039/T01n0039.org][T01n0039]] 頂生王故事經
+*** [[mandoku:ZB6a0039.org][ZB6a0039]]  [[cbeta:T/T01n0039/T01n0039.org][T01n0039]] 頂生王故事經
 :PROPERTIES: 
 :CBETA_ID:  T01n0039
 :RELATED: T01n0026-60@經, T01n0040@經
@@ -1857,7 +1857,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0040 [[mandoku:ZB6a0040.org][ZB6a0040]]  [[cbeta:T/T01n0040/T01n0040.org][T01n0040]] 文陀竭王經
+*** [[mandoku:ZB6a0040.org][ZB6a0040]]  [[cbeta:T/T01n0040/T01n0040.org][T01n0040]] 文陀竭王經
 :PROPERTIES: 
 :CBETA_ID:  T01n0040
 :RELATED: T01n0026-60@經, T01n0039@經
@@ -1899,7 +1899,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0041 [[mandoku:ZB6a0041.org][ZB6a0041]]  [[cbeta:T/T01n0041/T01n0041.org][T01n0041]] 頻婆娑羅王經
+*** [[mandoku:ZB6a0041.org][ZB6a0041]]  [[cbeta:T/T01n0041/T01n0041.org][T01n0041]] 頻婆娑羅王經
 :PROPERTIES: 
 :CBETA_ID:  T01n0041
 :RELATED: T01n0026-62@經
@@ -1941,7 +1941,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0042 [[mandoku:ZB6a0042.org][ZB6a0042]]  [[cbeta:T/T01n0042/T01n0042.org][T01n0042]] 鐵城泥犁經
+*** [[mandoku:ZB6a0042.org][ZB6a0042]]  [[cbeta:T/T01n0042/T01n0042.org][T01n0042]] 鐵城泥犁經
 :PROPERTIES: 
 :CBETA_ID:  T01n0042
 :RELATED: T01n0026-64@經, T01n0043@經, T02n0125-32@經
@@ -1983,7 +1983,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0043 [[mandoku:ZB6a0043.org][ZB6a0043]]  [[cbeta:T/T01n0043/T01n0043.org][T01n0043]] 閻羅王五天使者經
+*** [[mandoku:ZB6a0043.org][ZB6a0043]]  [[cbeta:T/T01n0043/T01n0043.org][T01n0043]] 閻羅王五天使者經
 :PROPERTIES: 
 :CBETA_ID:  T01n0043
 :RELATED: T01n0026-64@經, T01n0042@經, T02n0125-32@經
@@ -2030,7 +2030,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0044 [[mandoku:ZB6a0044.org][ZB6a0044]]  [[cbeta:T/T01n0044/T01n0044.org][T01n0044]] 古來世時經
+*** [[mandoku:ZB6a0044.org][ZB6a0044]]  [[cbeta:T/T01n0044/T01n0044.org][T01n0044]] 古來世時經
 :PROPERTIES: 
 :CBETA_ID:  T01n0044
 :RELATED: T01n0026-66@經
@@ -2076,7 +2076,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0045 [[mandoku:ZB6a0045.org][ZB6a0045]]  [[cbeta:T/T01n0045/T01n0045.org][T01n0045]] 大正句王經
+*** [[mandoku:ZB6a0045.org][ZB6a0045]]  [[cbeta:T/T01n0045/T01n0045.org][T01n0045]] 大正句王經
 :PROPERTIES: 
 :CBETA_ID:  T01n0045
 :RELATED: T01n0001-2@經, T01n0026-68@經
@@ -2123,7 +2123,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0046 [[mandoku:ZB6a0046.org][ZB6a0046]]  [[cbeta:T/T01n0046/T01n0046.org][T01n0046]] 阿那律八念經
+*** [[mandoku:ZB6a0046.org][ZB6a0046]]  [[cbeta:T/T01n0046/T01n0046.org][T01n0046]] 阿那律八念經
 :PROPERTIES: 
 :CBETA_ID:  T01n0046
 :RELATED: T01n0026-74@經, T02n0125-41@經
@@ -2170,7 +2170,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0047 [[mandoku:ZB6a0047.org][ZB6a0047]]  [[cbeta:T/T01n0047/T01n0047.org][T01n0047]] 離睡經
+*** [[mandoku:ZB6a0047.org][ZB6a0047]]  [[cbeta:T/T01n0047/T01n0047.org][T01n0047]] 離睡經
 :PROPERTIES: 
 :CBETA_ID:  T01n0047
 :RELATED: T01n0026-83@經
@@ -2212,7 +2212,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0048 [[mandoku:ZB6a0048.org][ZB6a0048]]  [[cbeta:T/T01n0048/T01n0048.org][T01n0048]] 是法非法經
+*** [[mandoku:ZB6a0048.org][ZB6a0048]]  [[cbeta:T/T01n0048/T01n0048.org][T01n0048]] 是法非法經
 :PROPERTIES: 
 :CBETA_ID:  T01n0048
 :RELATED: T01n0026-85@經
@@ -2259,7 +2259,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0049 [[mandoku:ZB6a0049.org][ZB6a0049]]  [[cbeta:T/T01n0049/T01n0049.org][T01n0049]] 求欲經
+*** [[mandoku:ZB6a0049.org][ZB6a0049]]  [[cbeta:T/T01n0049/T01n0049.org][T01n0049]] 求欲經
 :PROPERTIES: 
 :CBETA_ID:  T01n0049
 :RELATED: T01n0026-87@經, T02n0125-25@經
@@ -2306,7 +2306,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0050 [[mandoku:ZB6a0050.org][ZB6a0050]]  [[cbeta:T/T01n0050/T01n0050.org][T01n0050]] 受歲經
+*** [[mandoku:ZB6a0050.org][ZB6a0050]]  [[cbeta:T/T01n0050/T01n0050.org][T01n0050]] 受歲經
 :PROPERTIES: 
 :CBETA_ID:  T01n0050
 :RELATED: T01n0026-89@經
@@ -2348,7 +2348,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0051 [[mandoku:ZB6a0051.org][ZB6a0051]]  [[cbeta:T/T01n0051/T01n0051.org][T01n0051]] 梵志計水淨經
+*** [[mandoku:ZB6a0051.org][ZB6a0051]]  [[cbeta:T/T01n0051/T01n0051.org][T01n0051]] 梵志計水淨經
 :PROPERTIES: 
 :CBETA_ID:  T01n0051
 :RELATED: T01n0026-93@經, T02n0099-1185@經, T02n0100-99@經, T02n0125-13@經
@@ -2389,7 +2389,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0052 [[mandoku:ZB6a0052.org][ZB6a0052]]  [[cbeta:T/T01n0052/T01n0052.org][T01n0052]] 大生義經
+*** [[mandoku:ZB6a0052.org][ZB6a0052]]  [[cbeta:T/T01n0052/T01n0052.org][T01n0052]] 大生義經
 :PROPERTIES: 
 :CBETA_ID:  T01n0052
 :RELATED: T01n0001-13@經, T01n0014@經, T01n0026-97@經
@@ -2436,7 +2436,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0053 [[mandoku:ZB6a0053.org][ZB6a0053]]  [[cbeta:T/T01n0053/T01n0053.org][T01n0053]] 苦陰經
+*** [[mandoku:ZB6a0053.org][ZB6a0053]]  [[cbeta:T/T01n0053/T01n0053.org][T01n0053]] 苦陰經
 :PROPERTIES: 
 :CBETA_ID:  T01n0053
 :RELATED: T01n0026-99@經, T02n0125-21@經
@@ -2477,7 +2477,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0054 [[mandoku:ZB6a0054.org][ZB6a0054]]  [[cbeta:T/T01n0054/T01n0054.org][T01n0054]] 釋摩男本四子經
+*** [[mandoku:ZB6a0054.org][ZB6a0054]]  [[cbeta:T/T01n0054/T01n0054.org][T01n0054]] 釋摩男本四子經
 :PROPERTIES: 
 :CBETA_ID:  T01n0054
 :RELATED: T01n0026-100@經, T01n0055@經
@@ -2519,7 +2519,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0055 [[mandoku:ZB6a0055.org][ZB6a0055]]  [[cbeta:T/T01n0055/T01n0055.org][T01n0055]] 苦陰因事經
+*** [[mandoku:ZB6a0055.org][ZB6a0055]]  [[cbeta:T/T01n0055/T01n0055.org][T01n0055]] 苦陰因事經
 :PROPERTIES: 
 :CBETA_ID:  T01n0055
 :RELATED: T01n0026-100@經, T01n0054@經
@@ -2566,7 +2566,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0056 [[mandoku:ZB6a0056.org][ZB6a0056]]  [[cbeta:T/T01n0056/T01n0056.org][T01n0056]] 樂想經
+*** [[mandoku:ZB6a0056.org][ZB6a0056]]  [[cbeta:T/T01n0056/T01n0056.org][T01n0056]] 樂想經
 :PROPERTIES: 
 :CBETA_ID:  T01n0056
 :RELATED: T01n0026-106@經
@@ -2608,7 +2608,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0057 [[mandoku:ZB6a0057.org][ZB6a0057]]  [[cbeta:T/T01n0057/T01n0057.org][T01n0057]] 漏分布經
+*** [[mandoku:ZB6a0057.org][ZB6a0057]]  [[cbeta:T/T01n0057/T01n0057.org][T01n0057]] 漏分布經
 :PROPERTIES: 
 :CBETA_ID:  T01n0057
 :RELATED: T01n0026-111@經
@@ -2650,7 +2650,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0058 [[mandoku:ZB6a0058.org][ZB6a0058]]  [[cbeta:T/T01n0058/T01n0058.org][T01n0058]] 阿耨風經
+*** [[mandoku:ZB6a0058.org][ZB6a0058]]  [[cbeta:T/T01n0058/T01n0058.org][T01n0058]] 阿耨風經
 :PROPERTIES: 
 :CBETA_ID:  T01n0058
 :RELATED: T01n0026-112@經
@@ -2697,7 +2697,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0059 [[mandoku:ZB6a0059.org][ZB6a0059]]  [[cbeta:T/T01n0059/T01n0059.org][T01n0059]] 諸法本經
+*** [[mandoku:ZB6a0059.org][ZB6a0059]]  [[cbeta:T/T01n0059/T01n0059.org][T01n0059]] 諸法本經
 :PROPERTIES: 
 :CBETA_ID:  T01n0059
 :RELATED: T01n0026-113@經
@@ -2739,7 +2739,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0060 [[mandoku:ZB6a0060.org][ZB6a0060]]  [[cbeta:T/T01n0060/T01n0060.org][T01n0060]] 瞿曇彌記果經
+*** [[mandoku:ZB6a0060.org][ZB6a0060]]  [[cbeta:T/T01n0060/T01n0060.org][T01n0060]] 瞿曇彌記果經
 :PROPERTIES: 
 :CBETA_ID:  T01n0060
 :RELATED: T01n0026-116@經
@@ -2786,7 +2786,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0061 [[mandoku:ZB6a0061.org][ZB6a0061]]  [[cbeta:T/T01n0061/T01n0061.org][T01n0061]] 受新歲經
+*** [[mandoku:ZB6a0061.org][ZB6a0061]]  [[cbeta:T/T01n0061/T01n0061.org][T01n0061]] 受新歲經
 :PROPERTIES: 
 :CBETA_ID:  T01n0061
 :RELATED: T01n0026-121@經, T01n0062@經, T01n0063@經, T02n0099-1212@經, T02n0100-228@經, T02n0125-32@經
@@ -2808,7 +2808,7 @@
 :WITID: wit1
 :END:
 
-*** KR6a0062 [[mandoku:ZB6a0062.org][ZB6a0062]]  [[cbeta:T/T01n0062/T01n0062.org][T01n0062]] 新歲經
+*** [[mandoku:ZB6a0062.org][ZB6a0062]]  [[cbeta:T/T01n0062/T01n0062.org][T01n0062]] 新歲經
 :PROPERTIES: 
 :CBETA_ID:  T01n0062
 :RELATED: T01n0026-121@經, T01n0061@經, T01n0063@經, T02n0099-1212@經, T02n0100-228@經, T02n0125-32@經
@@ -2850,7 +2850,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0063 [[mandoku:ZB6a0063.org][ZB6a0063]]  [[cbeta:T/T01n0063/T01n0063.org][T01n0063]] 解夏經
+*** [[mandoku:ZB6a0063.org][ZB6a0063]]  [[cbeta:T/T01n0063/T01n0063.org][T01n0063]] 解夏經
 :PROPERTIES: 
 :CBETA_ID:  T01n0063
 :RELATED: T01n0026-121@經, T01n0061@經, T01n0062@經, T02n0099-1212@經, T02n0100-228@經, T02n0125-32@經
@@ -2897,7 +2897,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0064 [[mandoku:ZB6a0064.org][ZB6a0064]]  [[cbeta:T/T01n0064/T01n0064.org][T01n0064]] 瞻婆比丘經
+*** [[mandoku:ZB6a0064.org][ZB6a0064]]  [[cbeta:T/T01n0064/T01n0064.org][T01n0064]] 瞻婆比丘經
 :PROPERTIES: 
 :CBETA_ID:  T01n0064
 :RELATED: T01n0026-122@經
@@ -2944,7 +2944,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0065 [[mandoku:ZB6a0065.org][ZB6a0065]]  [[cbeta:T/T01n0065/T01n0065.org][T01n0065]] 伏婬經
+*** [[mandoku:ZB6a0065.org][ZB6a0065]]  [[cbeta:T/T01n0065/T01n0065.org][T01n0065]] 伏婬經
 :PROPERTIES: 
 :CBETA_ID:  T01n0065
 :RELATED: T01n0026-126@經
@@ -2986,7 +2986,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0066 [[mandoku:ZB6a0066.org][ZB6a0066]]  [[cbeta:T/T01n0066/T01n0066.org][T01n0066]] 魔嬈亂經
+*** [[mandoku:ZB6a0066.org][ZB6a0066]]  [[cbeta:T/T01n0066/T01n0066.org][T01n0066]] 魔嬈亂經
 :PROPERTIES: 
 :CBETA_ID:  T01n0066
 :RELATED: T01n0026-131@經, T01n0067@經
@@ -3032,7 +3032,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0067 [[mandoku:ZB6a0067.org][ZB6a0067]]  [[cbeta:T/T01n0067/T01n0067.org][T01n0067]] 弊魔試目連經
+*** [[mandoku:ZB6a0067.org][ZB6a0067]]  [[cbeta:T/T01n0067/T01n0067.org][T01n0067]] 弊魔試目連經
 :PROPERTIES: 
 :CBETA_ID:  T01n0067
 :RELATED: T01n0026-131@經, T01n0066@經
@@ -3079,7 +3079,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0068 [[mandoku:ZB6a0068.org][ZB6a0068]]  [[cbeta:T/T01n0068/T01n0068.org][T01n0068]] 賴吒和羅經
+*** [[mandoku:ZB6a0068.org][ZB6a0068]]  [[cbeta:T/T01n0068/T01n0068.org][T01n0068]] 賴吒和羅經
 :PROPERTIES: 
 :CBETA_ID:  T01n0068
 :RELATED: T01n0026-132@經, T01n0069@經
@@ -3126,7 +3126,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0069 [[mandoku:ZB6a0069.org][ZB6a0069]]  [[cbeta:T/T01n0069/T01n0069.org][T01n0069]] 護國經
+*** [[mandoku:ZB6a0069.org][ZB6a0069]]  [[cbeta:T/T01n0069/T01n0069.org][T01n0069]] 護國經
 :PROPERTIES: 
 :CBETA_ID:  T01n0069
 :RELATED: T01n0026-132@經, T01n0068@經
@@ -3168,7 +3168,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0070 [[mandoku:ZB6a0070.org][ZB6a0070]]  [[cbeta:T/T01n0070/T01n0070.org][T01n0070]] 數經
+*** [[mandoku:ZB6a0070.org][ZB6a0070]]  [[cbeta:T/T01n0070/T01n0070.org][T01n0070]] 數經
 :PROPERTIES: 
 :CBETA_ID:  T01n0070
 :RELATED: T01n0026-144@經
@@ -3215,7 +3215,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0071 [[mandoku:ZB6a0071.org][ZB6a0071]]  [[cbeta:T/T01n0071/T01n0071.org][T01n0071]] 梵志頞波羅延問種尊經
+*** [[mandoku:ZB6a0071.org][ZB6a0071]]  [[cbeta:T/T01n0071/T01n0071.org][T01n0071]] 梵志頞波羅延問種尊經
 :PROPERTIES: 
 :CBETA_ID:  T01n0071
 :RELATED: T01n0026-151@經
@@ -3262,7 +3262,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0072 [[mandoku:ZB6a0072.org][ZB6a0072]]  [[cbeta:T/T01n0072/T01n0072.org][T01n0072]] 三歸五戒慈心厭離功德經
+*** [[mandoku:ZB6a0072.org][ZB6a0072]]  [[cbeta:T/T01n0072/T01n0072.org][T01n0072]] 三歸五戒慈心厭離功德經
 :PROPERTIES: 
 :CBETA_ID:  T01n0072
 :RELATED: T01n0026-115@經, T01n0073@經, T01n0074@經, T02n0125-27@經
@@ -3303,7 +3303,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0073 [[mandoku:ZB6a0073.org][ZB6a0073]]  [[cbeta:T/T01n0073/T01n0073.org][T01n0073]] 須達經
+*** [[mandoku:ZB6a0073.org][ZB6a0073]]  [[cbeta:T/T01n0073/T01n0073.org][T01n0073]] 須達經
 :PROPERTIES: 
 :CBETA_ID:  T01n0073
 :RELATED: T01n0026-155@經, T01n0072@經, T01n0074@經, T02n0125-27@經
@@ -3345,7 +3345,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0074 [[mandoku:ZB6a0074.org][ZB6a0074]]  [[cbeta:T/T01n0074/T01n0074.org][T01n0074]] 長者施報經
+*** [[mandoku:ZB6a0074.org][ZB6a0074]]  [[cbeta:T/T01n0074/T01n0074.org][T01n0074]] 長者施報經
 :PROPERTIES: 
 :CBETA_ID:  T01n0074
 :RELATED: T01n0026-155@經, T01n0072@經, T01n0073@經, T02n0125-27@經
@@ -3392,7 +3392,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0075 [[mandoku:ZB6a0075.org][ZB6a0075]]  [[cbeta:T/T01n0075/T01n0075.org][T01n0075]] 佛為黃竹園老婆羅門說學經
+*** [[mandoku:ZB6a0075.org][ZB6a0075]]  [[cbeta:T/T01n0075/T01n0075.org][T01n0075]] 佛為黃竹園老婆羅門說學經
 :PROPERTIES: 
 :CBETA_ID:  T01n0075
 :RELATED: T01n0026-157@經
@@ -3433,7 +3433,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0076 [[mandoku:ZB6a0076.org][ZB6a0076]]  [[cbeta:T/T01n0076/T01n0076.org][T01n0076]] 梵摩渝經
+*** [[mandoku:ZB6a0076.org][ZB6a0076]]  [[cbeta:T/T01n0076/T01n0076.org][T01n0076]] 梵摩渝經
 :PROPERTIES: 
 :CBETA_ID:  T01n0076
 :RELATED: T01n0026-161@經
@@ -3480,7 +3480,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0077 [[mandoku:ZB6a0077.org][ZB6a0077]]  [[cbeta:T/T01n0077/T01n0077.org][T01n0077]] 尊上經
+*** [[mandoku:ZB6a0077.org][ZB6a0077]]  [[cbeta:T/T01n0077/T01n0077.org][T01n0077]] 尊上經
 :PROPERTIES: 
 :CBETA_ID:  T01n0077
 :RELATED: T01n0026-166@經
@@ -3527,7 +3527,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0078 [[mandoku:ZB6a0078.org][ZB6a0078]]  [[cbeta:T/T01n0078/T01n0078.org][T01n0078]] 兜調經
+*** [[mandoku:ZB6a0078.org][ZB6a0078]]  [[cbeta:T/T01n0078/T01n0078.org][T01n0078]] 兜調經
 :PROPERTIES: 
 :CBETA_ID:  T01n0078
 :RELATED: T01n0026-170@經, T01n0079@經, T01n0080@經, T01n0081@經
@@ -3568,7 +3568,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0079 [[mandoku:ZB6a0079.org][ZB6a0079]]  [[cbeta:T/T01n0079/T01n0079.org][T01n0079]] 鸚鵡經
+*** [[mandoku:ZB6a0079.org][ZB6a0079]]  [[cbeta:T/T01n0079/T01n0079.org][T01n0079]] 鸚鵡經
 :PROPERTIES: 
 :CBETA_ID:  T01n0079
 :RELATED: T01n0026-170@經, T01n0078@經, T01n0080@經, T01n0081@經
@@ -3615,7 +3615,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0080 [[mandoku:ZB6a0080.org][ZB6a0080]]  [[cbeta:T/T01n0080/T01n0080.org][T01n0080]] 佛為首迦長者說業報差別經
+*** [[mandoku:ZB6a0080.org][ZB6a0080]]  [[cbeta:T/T01n0080/T01n0080.org][T01n0080]] 佛為首迦長者說業報差別經
 :PROPERTIES: 
 :CBETA_ID:  T01n0080
 :RELATED: T01n0026-170@經, T01n0078@經, T01n0079@經, T01n0081@經
@@ -3662,7 +3662,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0081 [[mandoku:ZB6a0081.org][ZB6a0081]]  [[cbeta:T/T01n0081/T01n0081.org][T01n0081]] 分別善惡報應經
+*** [[mandoku:ZB6a0081.org][ZB6a0081]]  [[cbeta:T/T01n0081/T01n0081.org][T01n0081]] 分別善惡報應經
 :PROPERTIES: 
 :CBETA_ID:  T01n0081
 :RELATED: T01n0026-170@經, T01n0078@經, T01n0079@經, T01n0080@經
@@ -3709,7 +3709,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0082 [[mandoku:ZB6a0082.org][ZB6a0082]]  [[cbeta:T/T01n0082/T01n0082.org][T01n0082]] 意經
+*** [[mandoku:ZB6a0082.org][ZB6a0082]]  [[cbeta:T/T01n0082/T01n0082.org][T01n0082]] 意經
 :PROPERTIES: 
 :CBETA_ID:  T01n0082
 :RELATED: T01n0026-172@經
@@ -3751,7 +3751,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0083 [[mandoku:ZB6a0083.org][ZB6a0083]]  [[cbeta:T/T01n0083/T01n0083.org][T01n0083]] 應法經
+*** [[mandoku:ZB6a0083.org][ZB6a0083]]  [[cbeta:T/T01n0083/T01n0083.org][T01n0083]] 應法經
 :PROPERTIES: 
 :CBETA_ID:  T01n0083
 :RELATED: T01n0026-175@經
@@ -3798,7 +3798,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0084 [[mandoku:ZB6a0084.org][ZB6a0084]]  [[cbeta:T/T01n0084/T01n0084.org][T01n0084]] 分別布施經
+*** [[mandoku:ZB6a0084.org][ZB6a0084]]  [[cbeta:T/T01n0084/T01n0084.org][T01n0084]] 分別布施經
 :PROPERTIES: 
 :CBETA_ID:  T01n0084
 :RELATED: T01n0026-180@經
@@ -3830,7 +3830,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0085 [[mandoku:ZB6a0085.org][ZB6a0085]]  [[cbeta:T/T01n0085/T01n0085.org][T01n0085]] 息諍因緣經
+*** [[mandoku:ZB6a0085.org][ZB6a0085]]  [[cbeta:T/T01n0085/T01n0085.org][T01n0085]] 息諍因緣經
 :PROPERTIES: 
 :CBETA_ID:  T01n0085
 :RELATED: T01n0026-196@經
@@ -3877,7 +3877,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0086 [[mandoku:ZB6a0086.org][ZB6a0086]]  [[cbeta:T/T01n0086/T01n0086.org][T01n0086]] 泥犁經
+*** [[mandoku:ZB6a0086.org][ZB6a0086]]  [[cbeta:T/T01n0086/T01n0086.org][T01n0086]] 泥犁經
 :PROPERTIES: 
 :CBETA_ID:  T01n0086
 :RELATED: T01n0026-199@經
@@ -3924,7 +3924,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0087 [[mandoku:ZB6a0087.org][ZB6a0087]]  [[cbeta:T/T01n0087/T01n0087.org][T01n0087]] 齋經
+*** [[mandoku:ZB6a0087.org][ZB6a0087]]  [[cbeta:T/T01n0087/T01n0087.org][T01n0087]] 齋經
 :PROPERTIES: 
 :CBETA_ID:  T01n0087
 :RELATED: T01n0026-202@經, T01n0088@經, T01n0089@經
@@ -3971,7 +3971,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0088 [[mandoku:ZB6a0088.org][ZB6a0088]]  [[cbeta:T/T01n0088/T01n0088.org][T01n0088]] 優陂夷墮舍迦經
+*** [[mandoku:ZB6a0088.org][ZB6a0088]]  [[cbeta:T/T01n0088/T01n0088.org][T01n0088]] 優陂夷墮舍迦經
 :PROPERTIES: 
 :CBETA_ID:  T01n0088
 :RELATED: T01n0026-202@經, T01n0087@經, T01n0089@經
@@ -4017,7 +4017,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0089 [[mandoku:ZB6a0089.org][ZB6a0089]]  [[cbeta:T/T01n0089/T01n0089.org][T01n0089]] 八關齋經
+*** [[mandoku:ZB6a0089.org][ZB6a0089]]  [[cbeta:T/T01n0089/T01n0089.org][T01n0089]] 八關齋經
 :PROPERTIES: 
 :CBETA_ID:  T01n0089
 :RELATED: T01n0026-202@經, T01n0087@經, T01n0088@經
@@ -4064,7 +4064,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0090 [[mandoku:ZB6a0090.org][ZB6a0090]]  [[cbeta:T/T01n0090/T01n0090.org][T01n0090]] 鞞摩肅經
+*** [[mandoku:ZB6a0090.org][ZB6a0090]]  [[cbeta:T/T01n0090/T01n0090.org][T01n0090]] 鞞摩肅經
 :PROPERTIES: 
 :CBETA_ID:  T01n0090
 :RELATED: T01n0026-209@經
@@ -4111,7 +4111,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0091 [[mandoku:ZB6a0091.org][ZB6a0091]]  [[cbeta:T/T01n0091/T01n0091.org][T01n0091]] 婆羅門子命終愛念不離經
+*** [[mandoku:ZB6a0091.org][ZB6a0091]]  [[cbeta:T/T01n0091/T01n0091.org][T01n0091]] 婆羅門子命終愛念不離經
 :PROPERTIES: 
 :CBETA_ID:  T01n0091
 :RELATED: T01n0026-216@經, T02n0125-13@經
@@ -4158,7 +4158,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0092 [[mandoku:ZB6a0092.org][ZB6a0092]]  [[cbeta:T/T01n0092/T01n0092.org][T01n0092]] 十支居士八城人經
+*** [[mandoku:ZB6a0092.org][ZB6a0092]]  [[cbeta:T/T01n0092/T01n0092.org][T01n0092]] 十支居士八城人經
 :PROPERTIES: 
 :CBETA_ID:  T01n0092
 :RELATED: T01n0026-217@經
@@ -4200,7 +4200,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0093 [[mandoku:ZB6a0093.org][ZB6a0093]]  [[cbeta:T/T01n0093/T01n0093.org][T01n0093]] 邪見經
+*** [[mandoku:ZB6a0093.org][ZB6a0093]]  [[cbeta:T/T01n0093/T01n0093.org][T01n0093]] 邪見經
 :PROPERTIES: 
 :CBETA_ID:  T01n0093
 :RELATED: T01n0026-220@經
@@ -4246,7 +4246,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0094 [[mandoku:ZB6a0094.org][ZB6a0094]]  [[cbeta:T/T01n0094/T01n0094.org][T01n0094]] 箭喻經
+*** [[mandoku:ZB6a0094.org][ZB6a0094]]  [[cbeta:T/T01n0094/T01n0094.org][T01n0094]] 箭喻經
 :PROPERTIES: 
 :CBETA_ID:  T01n0094
 :RELATED: T01n0026-221@經
@@ -4287,7 +4287,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0095 [[mandoku:ZB6a0095.org][ZB6a0095]]  [[cbeta:T/T01n0095/T01n0095.org][T01n0095]] 蟻喻經
+*** [[mandoku:ZB6a0095.org][ZB6a0095]]  [[cbeta:T/T01n0095/T01n0095.org][T01n0095]] 蟻喻經
 :PROPERTIES: 
 :CBETA_ID:  T01n0095
 :GENRE: 經
@@ -4318,7 +4318,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0096 [[mandoku:ZB6a0096.org][ZB6a0096]]  [[cbeta:T/T01n0096/T01n0096.org][T01n0096]] 治意經
+*** [[mandoku:ZB6a0096.org][ZB6a0096]]  [[cbeta:T/T01n0096/T01n0096.org][T01n0096]] 治意經
 :PROPERTIES: 
 :CBETA_ID:  T01n0096
 :GENRE: 經
@@ -4363,7 +4363,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0097 [[mandoku:ZB6a0097.org][ZB6a0097]]  [[cbeta:T/T01n0097/T01n0097.org][T01n0097]] 廣義法門經
+*** [[mandoku:ZB6a0097.org][ZB6a0097]]  [[cbeta:T/T01n0097/T01n0097.org][T01n0097]] 廣義法門經
 :PROPERTIES: 
 :CBETA_ID:  T01n0097
 :RELATED: T01n0098@經
@@ -4405,7 +4405,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0098 [[mandoku:ZB6a0098.org][ZB6a0098]]  [[cbeta:T/T01n0098/T01n0098.org][T01n0098]] 普法義經
+*** [[mandoku:ZB6a0098.org][ZB6a0098]]  [[cbeta:T/T01n0098/T01n0098.org][T01n0098]] 普法義經
 :PROPERTIES: 
 :CBETA_ID:  T01n0098
 :RELATED: T01n0097@經
@@ -4457,7 +4457,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0099 [[mandoku:ZB6a0099.org][ZB6a0099]]  [[cbeta:T/T02n0099/T02n0099.org][T02n0099]] 雜阿含經
+*** [[mandoku:ZB6a0099.org][ZB6a0099]]  [[cbeta:T/T02n0099/T02n0099.org][T02n0099]] 雜阿含經
 :PROPERTIES: 
 :CBETA_ID:  T02n0099
 :RELATED: T01n0019@經, T01n0038@經, T01n0051@經, T01n0061@經, T01n0062@經, T01n0063@經, T02n0100@經, T02n0100@經, T02n0102@經, T02n0103@經, T02n0104@經, T02n0105@經, T02n0106@經, T02n0107@經, T02n0108@經, T02n0109@經, T02n0110@經, T02n0111@經, T02n0112@經, T02n0113@經, T02n0114@經, T02n0115@經, T02n0116@經, T02n0117@經, T02n0118@經, T02n0119@經, T02n0120@經, T02n0121@經, T02n0122@經, T02n0123@經, T02n0124@經
@@ -4529,7 +4529,7 @@
 :WITID: wit21
 :END:
 
-*** KR6a0100 [[mandoku:ZB6a0100.org][ZB6a0100]]  [[cbeta:T/T02n0100/T02n0100.org][T02n0100]] 別譯雜阿含經
+*** [[mandoku:ZB6a0100.org][ZB6a0100]]  [[cbeta:T/T02n0100/T02n0100.org][T02n0100]] 別譯雜阿含經
 :PROPERTIES: 
 :CBETA_ID:  T02n0100
 :RELATED: T01n0019@經, T01n0051@經, T01n0061@經, T01n0062@經, T01n0063@經, T02n0099@經, T02n0114@經, T02n0115@經, T02n0116@經, T02n0117@經, T02n0118@經, T02n0119@經, T02n0120@經, T02n0121@經, T02n0122@經
@@ -4585,7 +4585,7 @@
 :WITID: wit21
 :END:
 
-*** KR6a0101 [[mandoku:ZB6a0101.org][ZB6a0101]]  [[cbeta:T/T02n0101/T02n0101.org][T02n0101]] 雜阿含經
+*** [[mandoku:ZB6a0101.org][ZB6a0101]]  [[cbeta:T/T02n0101/T02n0101.org][T02n0101]] 雜阿含經
 :PROPERTIES: 
 :CBETA_ID:  T02n0101
 :RELATED: T02n0111@經
@@ -4636,7 +4636,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0102 [[mandoku:ZB6a0102.org][ZB6a0102]]  [[cbeta:T/T02n0102/T02n0102.org][T02n0102]] 佛說五蘊皆空經
+*** [[mandoku:ZB6a0102.org][ZB6a0102]]  [[cbeta:T/T02n0102/T02n0102.org][T02n0102]] 佛說五蘊皆空經
 :PROPERTIES: 
 :CBETA_ID:  T02n0102
 :RELATED: T02n0099-33@經, T02n0099-34@經
@@ -4678,7 +4678,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0103 [[mandoku:ZB6a0103.org][ZB6a0103]]  [[cbeta:T/T02n0103/T02n0103.org][T02n0103]] 佛說聖法印經
+*** [[mandoku:ZB6a0103.org][ZB6a0103]]  [[cbeta:T/T02n0103/T02n0103.org][T02n0103]] 佛說聖法印經
 :PROPERTIES: 
 :CBETA_ID:  T02n0103
 :RELATED: T02n0099-80@經, T02n0104@經
@@ -4720,7 +4720,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0104 [[mandoku:ZB6a0104.org][ZB6a0104]]  [[cbeta:T/T02n0104/T02n0104.org][T02n0104]] 佛說法印經
+*** [[mandoku:ZB6a0104.org][ZB6a0104]]  [[cbeta:T/T02n0104/T02n0104.org][T02n0104]] 佛說法印經
 :PROPERTIES: 
 :CBETA_ID:  T02n0104
 :RELATED: T02n0099-80@經, T02n0103@經
@@ -4752,7 +4752,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0105 [[mandoku:ZB6a0105.org][ZB6a0105]]  [[cbeta:T/T02n0105/T02n0105.org][T02n0105]] 五陰譬喻經
+*** [[mandoku:ZB6a0105.org][ZB6a0105]]  [[cbeta:T/T02n0105/T02n0105.org][T02n0105]] 五陰譬喻經
 :PROPERTIES: 
 :CBETA_ID:  T02n0105
 :RELATED: T02n0099-265@經, T02n0106@經
@@ -4799,7 +4799,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0106 [[mandoku:ZB6a0106.org][ZB6a0106]]  [[cbeta:T/T02n0106/T02n0106.org][T02n0106]] 佛說水沫所漂經
+*** [[mandoku:ZB6a0106.org][ZB6a0106]]  [[cbeta:T/T02n0106/T02n0106.org][T02n0106]] 佛說水沫所漂經
 :PROPERTIES: 
 :CBETA_ID:  T02n0106
 :RELATED: T02n0099-265@經, T02n0105@經
@@ -4846,7 +4846,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0107 [[mandoku:ZB6a0107.org][ZB6a0107]]  [[cbeta:T/T02n0107/T02n0107.org][T02n0107]] 佛說不自守意經
+*** [[mandoku:ZB6a0107.org][ZB6a0107]]  [[cbeta:T/T02n0107/T02n0107.org][T02n0107]] 佛說不自守意經
 :PROPERTIES: 
 :CBETA_ID:  T02n0107
 :RELATED: T02n0099-277@經
@@ -4888,7 +4888,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0108 [[mandoku:ZB6a0108.org][ZB6a0108]]  [[cbeta:T/T02n0108/T02n0108.org][T02n0108]] 佛說滿願子經
+*** [[mandoku:ZB6a0108.org][ZB6a0108]]  [[cbeta:T/T02n0108/T02n0108.org][T02n0108]] 佛說滿願子經
 :PROPERTIES: 
 :CBETA_ID:  T02n0108
 :RELATED: T02n0099-311@經
@@ -4929,7 +4929,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0109 [[mandoku:ZB6a0109.org][ZB6a0109]]  [[cbeta:T/T02n0109/T02n0109.org][T02n0109]] 佛說轉法輪經
+*** [[mandoku:ZB6a0109.org][ZB6a0109]]  [[cbeta:T/T02n0109/T02n0109.org][T02n0109]] 佛說轉法輪經
 :PROPERTIES: 
 :CBETA_ID:  T02n0109
 :RELATED: T02n0099-379@經, T02n0110@經
@@ -4971,7 +4971,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0110 [[mandoku:ZB6a0110.org][ZB6a0110]]  [[cbeta:T/T02n0110/T02n0110.org][T02n0110]] 佛說三轉法輪經
+*** [[mandoku:ZB6a0110.org][ZB6a0110]]  [[cbeta:T/T02n0110/T02n0110.org][T02n0110]] 佛說三轉法輪經
 :PROPERTIES: 
 :CBETA_ID:  T02n0110
 :RELATED: T02n0099-379@經, T02n0109@經
@@ -5013,7 +5013,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0111 [[mandoku:ZB6a0111.org][ZB6a0111]]  [[cbeta:T/T02n0111/T02n0111.org][T02n0111]] 佛說相應相可經
+*** [[mandoku:ZB6a0111.org][ZB6a0111]]  [[cbeta:T/T02n0111/T02n0111.org][T02n0111]] 佛說相應相可經
 :PROPERTIES: 
 :CBETA_ID:  T02n0111
 :RELATED: T02n0099-449@經, T02n0099-450@經, T02n0101-20@經
@@ -5055,7 +5055,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0112 [[mandoku:ZB6a0112.org][ZB6a0112]]  [[cbeta:T/T02n0112/T02n0112.org][T02n0112]] 佛說八正道經
+*** [[mandoku:ZB6a0112.org][ZB6a0112]]  [[cbeta:T/T02n0112/T02n0112.org][T02n0112]] 佛說八正道經
 :PROPERTIES: 
 :CBETA_ID:  T02n0112
 :RELATED: T02n0099-784@經, T02n0099-785@經
@@ -5097,7 +5097,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0113 [[mandoku:ZB6a0113.org][ZB6a0113]]  [[cbeta:T/T02n0113/T02n0113.org][T02n0113]] 佛說難提釋經
+*** [[mandoku:ZB6a0113.org][ZB6a0113]]  [[cbeta:T/T02n0113/T02n0113.org][T02n0113]] 佛說難提釋經
 :PROPERTIES: 
 :CBETA_ID:  T02n0113
 :RELATED: T02n0099-857@經
@@ -5144,7 +5144,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0114 [[mandoku:ZB6a0114.org][ZB6a0114]]  [[cbeta:T/T02n0114/T02n0114.org][T02n0114]] 佛說馬有三相經
+*** [[mandoku:ZB6a0114.org][ZB6a0114]]  [[cbeta:T/T02n0114/T02n0114.org][T02n0114]] 佛說馬有三相經
 :PROPERTIES: 
 :CBETA_ID:  T02n0114
 :RELATED: T02n0099-920@經, T02n0100-146@經
@@ -5186,7 +5186,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0115 [[mandoku:ZB6a0115.org][ZB6a0115]]  [[cbeta:T/T02n0115/T02n0115.org][T02n0115]] 佛說馬有八態譬人經
+*** [[mandoku:ZB6a0115.org][ZB6a0115]]  [[cbeta:T/T02n0115/T02n0115.org][T02n0115]] 佛說馬有八態譬人經
 :PROPERTIES: 
 :CBETA_ID:  T02n0115
 :RELATED: T02n0099-924@經, T02n0100@經, T02n0149@經
@@ -5233,7 +5233,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0116 [[mandoku:ZB6a0116.org][ZB6a0116]]  [[cbeta:T/T02n0116/T02n0116.org][T02n0116]] 佛說戒德香經
+*** [[mandoku:ZB6a0116.org][ZB6a0116]]  [[cbeta:T/T02n0116/T02n0116.org][T02n0116]] 佛說戒德香經
 :PROPERTIES: 
 :CBETA_ID:  T02n0116
 :RELATED: T02n0099-1073@經, T02n0100-12@經, T02n0117@經, T02n0125-23@經
@@ -5285,7 +5285,7 @@
 :WITID: wit15
 :END:
 
-*** KR6a0117 [[mandoku:ZB6a0117.org][ZB6a0117]]  [[cbeta:T/T02n0117/T02n0117.org][T02n0117]] 佛說戒香經
+*** [[mandoku:ZB6a0117.org][ZB6a0117]]  [[cbeta:T/T02n0117/T02n0117.org][T02n0117]] 佛說戒香經
 :PROPERTIES: 
 :CBETA_ID:  T02n0117
 :RELATED: T02n0099-1073@經, T02n0100-12@經, T02n0116@經, T02n0125-23@經
@@ -5327,7 +5327,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0118 [[mandoku:ZB6a0118.org][ZB6a0118]]  [[cbeta:T/T02n0118/T02n0118.org][T02n0118]] 佛說鴦掘摩經
+*** [[mandoku:ZB6a0118.org][ZB6a0118]]  [[cbeta:T/T02n0118/T02n0118.org][T02n0118]] 佛說鴦掘摩經
 :PROPERTIES: 
 :CBETA_ID:  T02n0118
 :RELATED: T02n0099-1077@經, T02n0100-16@經, T02n0119@經, T02n0120@經, T02n0125-38@經
@@ -5374,7 +5374,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0119 [[mandoku:ZB6a0119.org][ZB6a0119]]  [[cbeta:T/T02n0119/T02n0119.org][T02n0119]] 佛說鴦崛髻經
+*** [[mandoku:ZB6a0119.org][ZB6a0119]]  [[cbeta:T/T02n0119/T02n0119.org][T02n0119]] 佛說鴦崛髻經
 :PROPERTIES: 
 :CBETA_ID:  T02n0119
 :RELATED: T02n0099-1077@經, T02n0100-16@經, T02n0118@經, T02n0120@經, T02n0125-38@經
@@ -5421,7 +5421,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0120 [[mandoku:ZB6a0120.org][ZB6a0120]]  [[cbeta:T/T02n0120/T02n0120.org][T02n0120]] 央掘魔羅經
+*** [[mandoku:ZB6a0120.org][ZB6a0120]]  [[cbeta:T/T02n0120/T02n0120.org][T02n0120]] 央掘魔羅經
 :PROPERTIES: 
 :CBETA_ID:  T02n0120
 :RELATED: T02n0099-1077@經, T02n0100-16@經, T02n0118@經, T02n0119@經, T02n0125-38@經
@@ -5473,7 +5473,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0121 [[mandoku:ZB6a0121.org][ZB6a0121]]  [[cbeta:T/T02n0121/T02n0121.org][T02n0121]] 佛說月喻經
+*** [[mandoku:ZB6a0121.org][ZB6a0121]]  [[cbeta:T/T02n0121/T02n0121.org][T02n0121]] 佛說月喻經
 :PROPERTIES: 
 :CBETA_ID:  T02n0121
 :RELATED: T02n0099-1136@經, T02n0100-111@經
@@ -5520,7 +5520,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0122 [[mandoku:ZB6a0122.org][ZB6a0122]]  [[cbeta:T/T02n0122/T02n0122.org][T02n0122]] 佛說波斯匿王太后崩塵土坌身經
+*** [[mandoku:ZB6a0122.org][ZB6a0122]]  [[cbeta:T/T02n0122/T02n0122.org][T02n0122]] 佛說波斯匿王太后崩塵土坌身經
 :PROPERTIES: 
 :CBETA_ID:  T02n0122
 :RELATED: T02n0099-1227@經, T02n0100-54@經, T02n0125-26@經
@@ -5562,7 +5562,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0123 [[mandoku:ZB6a0123.org][ZB6a0123]]  [[cbeta:T/T02n0123/T02n0123.org][T02n0123]] 佛說放牛經
+*** [[mandoku:ZB6a0123.org][ZB6a0123]]  [[cbeta:T/T02n0123/T02n0123.org][T02n0123]] 佛說放牛經
 :PROPERTIES: 
 :CBETA_ID:  T02n0123
 :RELATED: T02n0099-1248@經, T02n0124@經, T02n0125-49@經
@@ -5609,7 +5609,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0124 [[mandoku:ZB6a0124.org][ZB6a0124]]  [[cbeta:T/T02n0124/T02n0124.org][T02n0124]] 緣起經
+*** [[mandoku:ZB6a0124.org][ZB6a0124]]  [[cbeta:T/T02n0124/T02n0124.org][T02n0124]] 緣起經
 :PROPERTIES: 
 :CBETA_ID:  T02n0124
 :RELATED: T02n0099-1248@經, T02n0123@經, T02n0125-49@經
@@ -5651,7 +5651,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0125 [[mandoku:ZB6a0125.org][ZB6a0125]]  [[cbeta:F/F03n0089/F03n0089.org][F03n0089]] 佛說恒水流樹經
+*** [[mandoku:ZB6a0125.org][ZB6a0125]]  [[cbeta:F/F03n0089/F03n0089.org][F03n0089]] 佛說恒水流樹經
 :PROPERTIES: 
 :CBETA_ID:  F03n0089
 :CUSTOM_ID: ZB6a0125
@@ -5676,7 +5676,7 @@
 :WITID: wit99
 :END:
 
-*** KR6a0126 [[mandoku:ZB6a0126.org][ZB6a0126]]  [[cbeta:T/T02n0125/T02n0125.org][T02n0125]] 增壹阿含經
+*** [[mandoku:ZB6a0126.org][ZB6a0126]]  [[cbeta:T/T02n0125/T02n0125.org][T02n0125]] 增壹阿含經
 :PROPERTIES: 
 :CBETA_ID:  T02n0125
 :RELATED: T01n0022@經, T01n0027@經, T01n0028@經, T01n0029@經, T01n0030@經, T01n0031@經, T01n0032@經, T01n0038@經, T01n0042@經, T01n0043@經, T01n0046@經, T01n0049@經, T01n0051@經, T01n0053@經, T01n0061@經, T01n0062@經, T01n0063@經, T01n0072@經, T01n0073@經, T01n0074@經, T01n0091@經, T02n0116@經, T02n0117@經, T02n0118@經, T02n0119@經, T02n0120@經, T02n0122@經, T02n0123@經, T02n0124@經, T02n0126@經, T02n0127@經, T02n0128@經, T02n0129@經, T02n0130@經, T02n0131@經, T02n0132@經, T02n0133@經, T02n0134@經, T02n0135@經, T02n0136@經, T02n0137@經, T02n0138@經, T02n0139@經, T02n0140@經, T02n0141@經, T02n0142@經, T02n0143@經, T02n0144@經, T02n0145@經, T02n0146@經, T02n0147@經, T02n0148@經
@@ -5738,7 +5738,7 @@
 :WITID: wit15
 :END:
 
-*** KR6a0127 [[mandoku:ZB6a0127.org][ZB6a0127]]  [[cbeta:T/T02n0126/T02n0126.org][T02n0126]] 佛說阿羅漢具德經
+*** [[mandoku:ZB6a0127.org][ZB6a0127]]  [[cbeta:T/T02n0126/T02n0126.org][T02n0126]] 佛說阿羅漢具德經
 :PROPERTIES: 
 :CBETA_ID:  T02n0126
 :RELATED: T02n0125@經
@@ -5785,7 +5785,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0128 [[mandoku:ZB6a0128.org][ZB6a0128]]  [[cbeta:T/T02n0127/T02n0127.org][T02n0127]] 佛說四人出現世間經
+*** [[mandoku:ZB6a0128.org][ZB6a0128]]  [[cbeta:T/T02n0127/T02n0127.org][T02n0127]] 佛說四人出現世間經
 :PROPERTIES: 
 :CBETA_ID:  T02n0127
 :RELATED: T02n0125-26@經
@@ -5827,7 +5827,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0129 [[mandoku:ZB6a0129.org][ZB6a0129]]  [[cbeta:T/T02n0128a/T02n0128a.org][T02n0128a]] 須摩提女經
+*** [[mandoku:ZB6a0129.org][ZB6a0129]]  [[cbeta:T/T02n0128a/T02n0128a.org][T02n0128a]] 須摩提女經
 :PROPERTIES: 
 :CBETA_ID:  T02n0128a
 :RELATED: T02n0125-30@經, T02n0129@經, T02n0130@經
@@ -5859,7 +5859,7 @@
 :WITID: wit4
 :END:
 
-*** KR6a0130 [[mandoku:ZB6a0130.org][ZB6a0130]]  [[cbeta:T/T02n0128b/T02n0128b.org][T02n0128b]] 須摩提女經
+*** [[mandoku:ZB6a0130.org][ZB6a0130]]  [[cbeta:T/T02n0128b/T02n0128b.org][T02n0128b]] 須摩提女經
 :PROPERTIES: 
 :CBETA_ID:  T02n0128b
 :RELATED: T02n0125-30@經, T02n0129@經, T02n0130@經
@@ -5896,7 +5896,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0131 [[mandoku:ZB6a0131.org][ZB6a0131]]  [[cbeta:T/T02n0129/T02n0129.org][T02n0129]] 佛說三摩竭經
+*** [[mandoku:ZB6a0131.org][ZB6a0131]]  [[cbeta:T/T02n0129/T02n0129.org][T02n0129]] 佛說三摩竭經
 :PROPERTIES: 
 :CBETA_ID:  T02n0129
 :RELATED: T02n0125-30@經, T02n0128@經, T02n0130@經
@@ -5938,7 +5938,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0132 [[mandoku:ZB6a0132.org][ZB6a0132]]  [[cbeta:T/T02n0130/T02n0130.org][T02n0130]] 佛說給孤長者女得度因緣經
+*** [[mandoku:ZB6a0132.org][ZB6a0132]]  [[cbeta:T/T02n0130/T02n0130.org][T02n0130]] 佛說給孤長者女得度因緣經
 :PROPERTIES: 
 :CBETA_ID:  T02n0130
 :RELATED: T02n0125-30@經, T02n0128@經, T02n0129@經
@@ -5985,7 +5985,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0133 [[mandoku:ZB6a0133.org][ZB6a0133]]  [[cbeta:T/T02n0131/T02n0131.org][T02n0131]] 佛說婆羅門避死經
+*** [[mandoku:ZB6a0133.org][ZB6a0133]]  [[cbeta:T/T02n0131/T02n0131.org][T02n0131]] 佛說婆羅門避死經
 :PROPERTIES: 
 :CBETA_ID:  T02n0131
 :RELATED: T02n0125-31@經
@@ -6027,7 +6027,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0134 [[mandoku:ZB6a0134.org][ZB6a0134]]  [[cbeta:T/T02n0132a/T02n0132a.org][T02n0132a]] 佛說食施獲五福報經
+*** [[mandoku:ZB6a0134.org][ZB6a0134]]  [[cbeta:T/T02n0132a/T02n0132a.org][T02n0132a]] 佛說食施獲五福報經
 :PROPERTIES: 
 :CBETA_ID:  T02n0132a
 :RELATED: T02n0125-22@經
@@ -6058,7 +6058,7 @@
 :WITID: wit4
 :END:
 
-*** KR6a0135 [[mandoku:ZB6a0135.org][ZB6a0135]]  [[cbeta:T/T02n0132b/T02n0132b.org][T02n0132b]] 施食獲五福報經
+*** [[mandoku:ZB6a0135.org][ZB6a0135]]  [[cbeta:T/T02n0132b/T02n0132b.org][T02n0132b]] 施食獲五福報經
 :PROPERTIES: 
 :CBETA_ID:  T02n0132b
 :RELATED: T02n0125-22@經
@@ -6094,7 +6094,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0136 [[mandoku:ZB6a0136.org][ZB6a0136]]  [[cbeta:T/T02n0133/T02n0133.org][T02n0133]] 頻毘娑羅王詣佛供養經
+*** [[mandoku:ZB6a0136.org][ZB6a0136]]  [[cbeta:T/T02n0133/T02n0133.org][T02n0133]] 頻毘娑羅王詣佛供養經
 :PROPERTIES: 
 :CBETA_ID:  T02n0133
 :RELATED: T02n0125-34@經
@@ -6141,7 +6141,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0137 [[mandoku:ZB6a0137.org][ZB6a0137]]  [[cbeta:T/T02n0134/T02n0134.org][T02n0134]] 佛說長者子六過出家經
+*** [[mandoku:ZB6a0137.org][ZB6a0137]]  [[cbeta:T/T02n0134/T02n0134.org][T02n0134]] 佛說長者子六過出家經
 :PROPERTIES: 
 :CBETA_ID:  T02n0134
 :RELATED: T02n0125-35@經
@@ -6183,7 +6183,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0138 [[mandoku:ZB6a0138.org][ZB6a0138]]  [[cbeta:T/T02n0135/T02n0135.org][T02n0135]] 佛說力士移山經
+*** [[mandoku:ZB6a0138.org][ZB6a0138]]  [[cbeta:T/T02n0135/T02n0135.org][T02n0135]] 佛說力士移山經
 :PROPERTIES: 
 :CBETA_ID:  T02n0135
 :RELATED: T02n0125-42@經, T02n0136@經
@@ -6230,7 +6230,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0139 [[mandoku:ZB6a0139.org][ZB6a0139]]  [[cbeta:T/T02n0136/T02n0136.org][T02n0136]] 佛說四未曾有法經
+*** [[mandoku:ZB6a0139.org][ZB6a0139]]  [[cbeta:T/T02n0136/T02n0136.org][T02n0136]] 佛說四未曾有法經
 :PROPERTIES: 
 :CBETA_ID:  T02n0136
 :RELATED: T02n0125-42@經, T02n0135@經
@@ -6272,7 +6272,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0140 [[mandoku:ZB6a0140.org][ZB6a0140]]  [[cbeta:T/T02n0137/T02n0137.org][T02n0137]] 舍利弗摩訶目連遊四衢經
+*** [[mandoku:ZB6a0140.org][ZB6a0140]]  [[cbeta:T/T02n0137/T02n0137.org][T02n0137]] 舍利弗摩訶目連遊四衢經
 :PROPERTIES: 
 :CBETA_ID:  T02n0137
 :RELATED: T02n0125-45@經
@@ -6319,7 +6319,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0141 [[mandoku:ZB6a0141.org][ZB6a0141]]  [[cbeta:T/T02n0138/T02n0138.org][T02n0138]] 佛說十一想思念如來經
+*** [[mandoku:ZB6a0141.org][ZB6a0141]]  [[cbeta:T/T02n0138/T02n0138.org][T02n0138]] 佛說十一想思念如來經
 :PROPERTIES: 
 :CBETA_ID:  T02n0138
 :RELATED: T02n0125-49@經
@@ -6361,7 +6361,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0142 [[mandoku:ZB6a0142.org][ZB6a0142]]  [[cbeta:T/T02n0139/T02n0139.org][T02n0139]] 佛說四泥犁經
+*** [[mandoku:ZB6a0142.org][ZB6a0142]]  [[cbeta:T/T02n0139/T02n0139.org][T02n0139]] 佛說四泥犁經
 :PROPERTIES: 
 :CBETA_ID:  T02n0139
 :RELATED: T02n0125-50@經
@@ -6408,7 +6408,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0143 [[mandoku:ZB6a0143.org][ZB6a0143]]  [[cbeta:T/T02n0140/T02n0140.org][T02n0140]] 阿那邠邸化七子經
+*** [[mandoku:ZB6a0143.org][ZB6a0143]]  [[cbeta:T/T02n0140/T02n0140.org][T02n0140]] 阿那邠邸化七子經
 :PROPERTIES: 
 :CBETA_ID:  T02n0140
 :RELATED: T02n0125-51@經
@@ -6455,7 +6455,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0144 [[mandoku:ZB6a0144.org][ZB6a0144]]  [[cbeta:T/T02n0141/T02n0141.org][T02n0141]] 佛說阿遬達經
+*** [[mandoku:ZB6a0144.org][ZB6a0144]]  [[cbeta:T/T02n0141/T02n0141.org][T02n0141]] 佛說阿遬達經
 :PROPERTIES: 
 :CBETA_ID:  T02n0141
 :RELATED: T02n0125-51@經, T02n0142@經, T02n0143@經
@@ -6502,7 +6502,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0145 [[mandoku:ZB6a0145.org][ZB6a0145]]  [[cbeta:T/T02n0142a/T02n0142a.org][T02n0142a]] 佛說玉耶女經
+*** [[mandoku:ZB6a0145.org][ZB6a0145]]  [[cbeta:T/T02n0142a/T02n0142a.org][T02n0142a]] 佛說玉耶女經
 :PROPERTIES: 
 :CBETA_ID:  T02n0142a
 :RELATED: T02n0125-51@經, T02n0141@經, T02n0143@經
@@ -6533,7 +6533,7 @@
 :WITID: wit4
 :END:
 
-*** KR6a0146 [[mandoku:ZB6a0146.org][ZB6a0146]]  [[cbeta:T/T02n0142b/T02n0142b.org][T02n0142b]] 玉耶女經
+*** [[mandoku:ZB6a0146.org][ZB6a0146]]  [[cbeta:T/T02n0142b/T02n0142b.org][T02n0142b]] 玉耶女經
 :PROPERTIES: 
 :CBETA_ID:  T02n0142b
 :RELATED: T02n0125-51@經, T02n0141@經, T02n0143@經
@@ -6569,7 +6569,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0147 [[mandoku:ZB6a0147.org][ZB6a0147]]  [[cbeta:T/T02n0143/T02n0143.org][T02n0143]] 玉耶經
+*** [[mandoku:ZB6a0147.org][ZB6a0147]]  [[cbeta:T/T02n0143/T02n0143.org][T02n0143]] 玉耶經
 :PROPERTIES: 
 :CBETA_ID:  T02n0143
 :RELATED: T02n0125-51@經, T02n0141@經, T02n0142@經
@@ -6616,7 +6616,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0148 [[mandoku:ZB6a0148.org][ZB6a0148]]  [[cbeta:T/T02n0144/T02n0144.org][T02n0144]] 佛說大愛道般泥洹經
+*** [[mandoku:ZB6a0148.org][ZB6a0148]]  [[cbeta:T/T02n0144/T02n0144.org][T02n0144]] 佛說大愛道般泥洹經
 :PROPERTIES: 
 :CBETA_ID:  T02n0144
 :RELATED: T02n0125-52@經, T02n0145@經
@@ -6663,7 +6663,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0149 [[mandoku:ZB6a0149.org][ZB6a0149]]  [[cbeta:T/T02n0145/T02n0145.org][T02n0145]] 佛母般泥洹經
+*** [[mandoku:ZB6a0149.org][ZB6a0149]]  [[cbeta:T/T02n0145/T02n0145.org][T02n0145]] 佛母般泥洹經
 :PROPERTIES: 
 :CBETA_ID:  T02n0145
 :RELATED: T02n0125-52@經, T02n0144@經
@@ -6710,7 +6710,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0150 [[mandoku:ZB6a0150.org][ZB6a0150]]  [[cbeta:T/T02n0146/T02n0146.org][T02n0146]] 舍衛國王夢見十事經
+*** [[mandoku:ZB6a0150.org][ZB6a0150]]  [[cbeta:T/T02n0146/T02n0146.org][T02n0146]] 舍衛國王夢見十事經
 :PROPERTIES: 
 :CBETA_ID:  T02n0146
 :RELATED: T02n0125-52@經, T02n0147@經, T02n0148@經
@@ -6751,7 +6751,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0151 [[mandoku:ZB6a0151.org][ZB6a0151]]  [[cbeta:T/T02n0147/T02n0147.org][T02n0147]] 佛說舍衛國王十夢經
+*** [[mandoku:ZB6a0151.org][ZB6a0151]]  [[cbeta:T/T02n0147/T02n0147.org][T02n0147]] 佛說舍衛國王十夢經
 :PROPERTIES: 
 :CBETA_ID:  T02n0147
 :RELATED: T02n0125-52@經, T02n0146@經, T02n0148@經
@@ -6782,7 +6782,7 @@
 :WITID: wit4
 :END:
 
-*** KR6a0152 [[mandoku:ZB6a0152.org][ZB6a0152]]  [[cbeta:T/T02n0148/T02n0148.org][T02n0148]] 國王不梨先泥十夢經
+*** [[mandoku:ZB6a0152.org][ZB6a0152]]  [[cbeta:T/T02n0148/T02n0148.org][T02n0148]] 國王不梨先泥十夢經
 :PROPERTIES: 
 :CBETA_ID:  T02n0148
 :RELATED: T02n0125-52@經, T02n0146@經, T02n0147@經
@@ -6824,7 +6824,7 @@
 :WITID: wit12
 :END:
 
-*** KR6a0153 [[mandoku:ZB6a0153.org][ZB6a0153]]  [[cbeta:T/T02n0149/T02n0149.org][T02n0149]] 佛說阿難同學經
+*** [[mandoku:ZB6a0153.org][ZB6a0153]]  [[cbeta:T/T02n0149/T02n0149.org][T02n0149]] 佛說阿難同學經
 :PROPERTIES: 
 :CBETA_ID:  T02n0149
 :RELATED: T02n0115@經
@@ -6871,7 +6871,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0154 [[mandoku:ZB6a0154.org][ZB6a0154]]  [[cbeta:T/T02n0150A/T02n0150A.org][T02n0150A]] 七處三觀經
+*** [[mandoku:ZB6a0154.org][ZB6a0154]]  [[cbeta:T/T02n0150A/T02n0150A.org][T02n0150A]] 七處三觀經
 :PROPERTIES: 
 :CBETA_ID:  T02n0150A
 :GENRE: 經
@@ -6912,7 +6912,7 @@
 :WITID: wit11
 :END:
 
-*** KR6a0155 [[mandoku:ZB6a0155.org][ZB6a0155]]  [[cbeta:T/T02n0150B/T02n0150B.org][T02n0150B]] 九橫經
+*** [[mandoku:ZB6a0155.org][ZB6a0155]]  [[cbeta:T/T02n0150B/T02n0150B.org][T02n0150B]] 九橫經
 :PROPERTIES: 
 :CBETA_ID:  T02n0150B
 :GENRE: 經
@@ -6958,7 +6958,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0156 [[mandoku:ZB6a0156.org][ZB6a0156]]  [[cbeta:T/T02n0151/T02n0151.org][T02n0151]] 佛說阿含正行經
+*** [[mandoku:ZB6a0156.org][ZB6a0156]]  [[cbeta:T/T02n0151/T02n0151.org][T02n0151]] 佛說阿含正行經
 :PROPERTIES: 
 :CBETA_ID:  T02n0151
 :GENRE: 經
@@ -7004,7 +7004,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0157 [[mandoku:ZB6a0157.org][ZB6a0157]]  [[cbeta:T/T25n1505/T25n1505.org][T25n1505]] 四阿鋡暮抄解
+*** [[mandoku:ZB6a0157.org][ZB6a0157]]  [[cbeta:T/T25n1505/T25n1505.org][T25n1505]] 四阿鋡暮抄解
 :PROPERTIES: 
 :CBETA_ID:  T25n1505
 :RELATED: T25n1506@論
@@ -7061,7 +7061,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0158 [[mandoku:ZB6a0158.org][ZB6a0158]]  [[cbeta:T/T25n1506/T25n1506.org][T25n1506]] 三法度論
+*** [[mandoku:ZB6a0158.org][ZB6a0158]]  [[cbeta:T/T25n1506/T25n1506.org][T25n1506]] 三法度論
 :PROPERTIES: 
 :CBETA_ID:  T25n1506
 :RELATED: T25n1505@論
@@ -7118,7 +7118,7 @@
 :WITID: wit8
 :END:
 
-*** KR6a0159 [[mandoku:ZB6a0159.org][ZB6a0159]]  [[cbeta:T/T25n1507/T25n1507.org][T25n1507]] 分別功德論
+*** [[mandoku:ZB6a0159.org][ZB6a0159]]  [[cbeta:T/T25n1507/T25n1507.org][T25n1507]] 分別功德論
 :PROPERTIES: 
 :CBETA_ID:  T25n1507
 :GENRE: 論
@@ -7168,7 +7168,7 @@
 :WITID: wit13
 :END:
 
-*** KR6a0160 [[mandoku:ZB6a0160.org][ZB6a0160]]  [[cbeta:T/T25n1508/T25n1508.org][T25n1508]] 阿含口解十二因緣經
+*** [[mandoku:ZB6a0160.org][ZB6a0160]]  [[cbeta:T/T25n1508/T25n1508.org][T25n1508]] 阿含口解十二因緣經
 :PROPERTIES: 
 :CBETA_ID:  T25n1508
 :GENRE: 論
@@ -7218,7 +7218,7 @@
 :WITID: wit25
 :END:
 
-*** KR6a0161 [[mandoku:ZB6a0161.org][ZB6a0161]]  [[cbeta:T/T33n1693/T33n1693.org][T33n1693]] 人本欲生經註
+*** [[mandoku:ZB6a0161.org][ZB6a0161]]  [[cbeta:T/T33n1693/T33n1693.org][T33n1693]] 人本欲生經註
 :PROPERTIES: 
 :CBETA_ID:  T33n1693
 :RELATED: T01n0014@經
@@ -7250,7 +7250,7 @@
 :WITID: wit99
 :END:
 
-*** KR6a0162 [[mandoku:ZB6a0162.org][ZB6a0162]]  [[cbeta:T/T33n1694/T33n1694.org][T33n1694]] 陰持入經註
+*** [[mandoku:ZB6a0162.org][ZB6a0162]]  [[cbeta:T/T33n1694/T33n1694.org][T33n1694]] 陰持入經註
 :PROPERTIES: 
 :CBETA_ID:  T33n1694
 :RELATED: T15n0603@經
