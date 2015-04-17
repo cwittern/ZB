@@ -1347,9 +1347,7 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0064 [[at:text/chant/H11-06-0032/H11-06-0032_001.txt][H11-06-0032]] 老子
-
-*** KR5c0065 [[mandoku:ZB5c0064.org][ZB5c0064]] 道德真經註(一)
+*** KR5c0064 [[mandoku:ZB5c0064.org][ZB5c0064]] 道德真經註(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0064
 :TTC: 72 - 74
@@ -1370,7 +1368,7 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0066 [[mandoku:ZB5c0065.org][ZB5c0065]] 道德真經解(一)
+*** KR5c0065 [[mandoku:ZB5c0065.org][ZB5c0065]] 道德真經解(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0065
 :TTC: 647
@@ -1390,7 +1388,7 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0067 [[mandoku:ZB5c0066.org][ZB5c0066]] 道德真經四子古道集解
+*** KR5c0066 [[mandoku:ZB5c0066.org][ZB5c0066]] 道德真經四子古道集解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0066
 :TTC: 654
@@ -1427,7 +1425,7 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 ****** Comments
 
 
-*** KR5c0068 [[mandoku:ZB5c0067.org][ZB5c0067]] 道德真經傳(一)
+*** KR5c0067 [[mandoku:ZB5c0067.org][ZB5c0067]] 道德真經傳(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0067
 :TTC: 287 - 288
@@ -1447,6 +1445,11 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+*** KR5c0068 [[at:text/chant/H11-06-0032/H11-06-0032_001.txt][H11-06-0032]] 老子
+    :PROPERTIES:
+    :SOURCE:   《道藏》王弼《注》本《老子》正文
+    :END:
+
 *** KR5c0069 [[mandoku:ZB5c0068.org][ZB5c0068]] 道德真經傳(二)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0068
