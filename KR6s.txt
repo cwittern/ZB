@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
-** ZB6s 事彙部類
-*** [[mandoku:ZB6s0001.org][ZB6s0001]]  [[cbeta:T/T53n2121/T53n2121.org][T53n2121]] 經律異相
+** KR6s ZB6s 事彙部類
+*** KR6s0001 [[mandoku:ZB6s0001.org][ZB6s0001]]  [[cbeta:T/T53n2121/T53n2121.org][T53n2121]] 經律異相
 :PROPERTIES: 
 :CBETA_ID:  T53n2121
 :GENRE: 事彙
@@ -56,7 +56,7 @@
 :WITID: wit22
 :END:
 
-*** [[mandoku:ZB6s0002.org][ZB6s0002]]  [[cbeta:T/T53n2122/T53n2122.org][T53n2122]] 法苑珠林
+*** KR6s0002 [[mandoku:ZB6s0002.org][ZB6s0002]]  [[cbeta:T/T53n2122/T53n2122.org][T53n2122]] 法苑珠林
 :PROPERTIES: 
 :CBETA_ID:  T53n2122
 :GENRE: 事彙
@@ -122,7 +122,7 @@
 :WITID: wit14
 :END:
 
-*** [[mandoku:ZB6s0003.org][ZB6s0003]]  [[cbeta:T/T54n2123/T54n2123.org][T54n2123]] 諸經要集
+*** KR6s0003 [[mandoku:ZB6s0003.org][ZB6s0003]]  [[cbeta:T/T54n2123/T54n2123.org][T54n2123]] 諸經要集
 :PROPERTIES: 
 :CBETA_ID:  T54n2123
 :GENRE: 事彙
@@ -183,7 +183,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0004.org][ZB6s0004]]  [[cbeta:T/T54n2124/T54n2124.org][T54n2124]] 法門名義集
+*** KR6s0004 [[mandoku:ZB6s0004.org][ZB6s0004]]  [[cbeta:T/T54n2124/T54n2124.org][T54n2124]] 法門名義集
 :PROPERTIES: 
 :CBETA_ID:  T54n2124
 :GENRE: 事彙
@@ -209,7 +209,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0005.org][ZB6s0005]]  [[cbeta:T/T54n2127/T54n2127.org][T54n2127]] 釋氏要覽
+*** KR6s0005 [[mandoku:ZB6s0005.org][ZB6s0005]]  [[cbeta:T/T54n2127/T54n2127.org][T54n2127]] 釋氏要覽
 :PROPERTIES: 
 :CBETA_ID:  T54n2127
 :GENRE: 事彙
@@ -240,7 +240,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0006.org][ZB6s0006]]  [[cbeta:J/J21nB109/J21nB109.org][J21nB109]] 大藏一覽
+*** KR6s0006 [[mandoku:ZB6s0006.org][ZB6s0006]]  [[cbeta:J/J21nB109/J21nB109.org][J21nB109]] 大藏一覽
 :PROPERTIES: 
 :CBETA_ID:  J21nB109
 :CUSTOM_ID: ZB6s0006
@@ -274,8 +274,8 @@
 :WITID: wit9
 :END:
 
-*** [[mandoku:ZB6s0007.org][ZB6s0007]]  [[cbeta:P/P181n1615/P181n1615.org][P181n1615]] 大明三藏法數
-*** [[mandoku:ZB6s0008.org][ZB6s0008]]  [[cbeta:P/P189n1630/P189n1630.org][P189n1630]] 教乘法數（選錄序文）
+*** KR6s0007 [[mandoku:ZB6s0007.org][ZB6s0007]]  [[cbeta:P/P181n1615/P181n1615.org][P181n1615]] 大明三藏法數
+*** KR6s0008 [[mandoku:ZB6s0008.org][ZB6s0008]]  [[cbeta:P/P189n1630/P189n1630.org][P189n1630]] 教乘法數（選錄序文）
 :PROPERTIES: 
 :CBETA_ID:  P189n1630
 :CUSTOM_ID: ZB6s0008
@@ -295,7 +295,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0009.org][ZB6s0009]]  [[cbeta:L/L162n1666/L162n1666.org][L162n1666]] 重訂教乘法數（選錄序文）
+*** KR6s0009 [[mandoku:ZB6s0009.org][ZB6s0009]]  [[cbeta:L/L162n1666/L162n1666.org][L162n1666]] 重訂教乘法數（選錄序文）
 :PROPERTIES: 
 :CBETA_ID:  L162n1666
 :CUSTOM_ID: ZB6s0009
@@ -320,7 +320,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0010.org][ZB6s0010]]  [[cbeta:C/C056n1163/C056n1163.org][C056n1163]] 一切經音義
+*** KR6s0010 [[mandoku:ZB6s0010.org][ZB6s0010]]  [[cbeta:C/C056n1163/C056n1163.org][C056n1163]] 一切經音義
 :PROPERTIES: 
 :CBETA_ID:  C056n1163
 :CUSTOM_ID: ZB6s0010
@@ -345,7 +345,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0011.org][ZB6s0011]]  [[cbeta:A/A091n1066/A091n1066.org][A091n1066]] 新譯大方廣佛華嚴經音義
+*** KR6s0011 [[mandoku:ZB6s0011.org][ZB6s0011]]  [[cbeta:A/A091n1066/A091n1066.org][A091n1066]] 新譯大方廣佛華嚴經音義
 :PROPERTIES: 
 :CBETA_ID:  A091n1066
 :CUSTOM_ID: ZB6s0011
@@ -370,7 +370,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0012.org][ZB6s0012]]  [[cbeta:K/K32n1064/K32n1064.org][K32n1064]] 新譯大方廣佛華嚴經音義
+*** KR6s0012 [[mandoku:ZB6s0012.org][ZB6s0012]]  [[cbeta:K/K32n1064/K32n1064.org][K32n1064]] 新譯大方廣佛華嚴經音義
 :PROPERTIES: 
 :CBETA_ID:  K32n1064
 :CUSTOM_ID: ZB6s0012
@@ -395,7 +395,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0013.org][ZB6s0013]]  [[cbeta:T/T54n2128/T54n2128.org][T54n2128]] 一切經音義
+*** KR6s0013 [[mandoku:ZB6s0013.org][ZB6s0013]]  [[cbeta:T/T54n2128/T54n2128.org][T54n2128]] 一切經音義
 :PROPERTIES: 
 :CBETA_ID:  T54n2128
 :GENRE: 事彙
@@ -451,7 +451,7 @@
 :WITID: wit65
 :END:
 
-*** [[mandoku:ZB6s0014.org][ZB6s0014]]  [[cbeta:T/T54n2129/T54n2129.org][T54n2129]] 續一切經音義
+*** KR6s0014 [[mandoku:ZB6s0014.org][ZB6s0014]]  [[cbeta:T/T54n2129/T54n2129.org][T54n2129]] 續一切經音義
 :PROPERTIES: 
 :CBETA_ID:  T54n2129
 :GENRE: 事彙
@@ -487,7 +487,7 @@
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6s0015.org][ZB6s0015]]  [[cbeta:K/K34n1257/K34n1257.org][K34n1257]] 新集藏經音義隨函錄
+*** KR6s0015 [[mandoku:ZB6s0015.org][ZB6s0015]]  [[cbeta:K/K34n1257/K34n1257.org][K34n1257]] 新集藏經音義隨函錄
 :PROPERTIES: 
 :CBETA_ID:  K34n1257
 :CUSTOM_ID: ZB6s0015
@@ -517,7 +517,7 @@
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6s0016.org][ZB6s0016]]  [[cbeta:C/C059n1169/C059n1169.org][C059n1169]] 紹興重雕大藏音
+*** KR6s0016 [[mandoku:ZB6s0016.org][ZB6s0016]]  [[cbeta:C/C059n1169/C059n1169.org][C059n1169]] 紹興重雕大藏音
 :PROPERTIES: 
 :CBETA_ID:  C059n1169
 :CUSTOM_ID: ZB6s0016
@@ -542,7 +542,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0017.org][ZB6s0017]]  [[cbeta:J/J19nB048/J19nB048.org][J19nB048]] 北京五大部直音會韻
+*** KR6s0017 [[mandoku:ZB6s0017.org][ZB6s0017]]  [[cbeta:J/J19nB048/J19nB048.org][J19nB048]] 北京五大部直音會韻
 :PROPERTIES: 
 :CBETA_ID:  J19nB048
 :CUSTOM_ID: ZB6s0017
@@ -567,7 +567,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0018.org][ZB6s0018]]  [[cbeta:T/T54n2130/T54n2130.org][T54n2130]] 翻梵語
+*** KR6s0018 [[mandoku:ZB6s0018.org][ZB6s0018]]  [[cbeta:T/T54n2130/T54n2130.org][T54n2130]] 翻梵語
 :PROPERTIES: 
 :CBETA_ID:  T54n2130
 :GENRE: 事彙
@@ -607,7 +607,7 @@
 :WITID: wit15
 :END:
 
-*** [[mandoku:ZB6s0019.org][ZB6s0019]]  [[cbeta:T/T54n2131/T54n2131.org][T54n2131]] 翻譯名義集
+*** KR6s0019 [[mandoku:ZB6s0019.org][ZB6s0019]]  [[cbeta:T/T54n2131/T54n2131.org][T54n2131]] 翻譯名義集
 :PROPERTIES: 
 :CBETA_ID:  T54n2131
 :GENRE: 事彙
@@ -663,7 +663,7 @@
 :WITID: wit14
 :END:
 
-*** [[mandoku:ZB6s0020.org][ZB6s0020]]  [[cbeta:T/T54n2132/T54n2132.org][T54n2132]] 悉曇字記
+*** KR6s0020 [[mandoku:ZB6s0020.org][ZB6s0020]]  [[cbeta:T/T54n2132/T54n2132.org][T54n2132]] 悉曇字記
 :PROPERTIES: 
 :CBETA_ID:  T54n2132
 :GENRE: 事彙
@@ -694,7 +694,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0021.org][ZB6s0021]]  [[cbeta:T/T54n2133A/T54n2133A.org][T54n2133A]] 梵語千字文
+*** KR6s0021 [[mandoku:ZB6s0021.org][ZB6s0021]]  [[cbeta:T/T54n2133A/T54n2133A.org][T54n2133A]] 梵語千字文
 :PROPERTIES: 
 :CBETA_ID:  T54n2133A
 :GENRE: 事彙
@@ -725,7 +725,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0022.org][ZB6s0022]]  [[cbeta:T/T54n2133B/T54n2133B.org][T54n2133B]] 梵語千字文
+*** KR6s0022 [[mandoku:ZB6s0022.org][ZB6s0022]]  [[cbeta:T/T54n2133B/T54n2133B.org][T54n2133B]] 梵語千字文
 :PROPERTIES: 
 :CBETA_ID:  T54n2133B
 :GENRE: 事彙
@@ -751,7 +751,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0023.org][ZB6s0023]]  [[cbeta:T/T54n2134/T54n2134.org][T54n2134]] 唐梵文字
+*** KR6s0023 [[mandoku:ZB6s0023.org][ZB6s0023]]  [[cbeta:T/T54n2134/T54n2134.org][T54n2134]] 唐梵文字
 :PROPERTIES: 
 :CBETA_ID:  T54n2134
 :GENRE: 事彙
@@ -802,7 +802,7 @@
 :WITID: wit14
 :END:
 
-*** [[mandoku:ZB6s0024.org][ZB6s0024]]  [[cbeta:T/T54n2135/T54n2135.org][T54n2135]] 梵語雜名
+*** KR6s0024 [[mandoku:ZB6s0024.org][ZB6s0024]]  [[cbeta:T/T54n2135/T54n2135.org][T54n2135]] 梵語雜名
 :PROPERTIES: 
 :CBETA_ID:  T54n2135
 :GENRE: 事彙
@@ -848,7 +848,7 @@
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6s0025.org][ZB6s0025]]  [[cbeta:T/T54n2136/T54n2136.org][T54n2136]] 唐梵兩語雙對集
+*** KR6s0025 [[mandoku:ZB6s0025.org][ZB6s0025]]  [[cbeta:T/T54n2136/T54n2136.org][T54n2136]] 唐梵兩語雙對集
 :PROPERTIES: 
 :CBETA_ID:  T54n2136
 :GENRE: 事彙
@@ -883,7 +883,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0026.org][ZB6s0026]]  [[cbeta:T/T85n2817/T85n2817.org][T85n2817]] 大乘經纂要義
+*** KR6s0026 [[mandoku:ZB6s0026.org][ZB6s0026]]  [[cbeta:T/T85n2817/T85n2817.org][T85n2817]] 大乘經纂要義
 :PROPERTIES: 
 :CBETA_ID:  T85n2817
 :GENRE: 古逸
@@ -908,7 +908,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0027.org][ZB6s0027]]  [[cbeta:T/T85n2818/T85n2818.org][T85n2818]] 大乘二十二問本
+*** KR6s0027 [[mandoku:ZB6s0027.org][ZB6s0027]]  [[cbeta:T/T85n2818/T85n2818.org][T85n2818]] 大乘二十二問本
 :PROPERTIES: 
 :CBETA_ID:  T85n2818
 :GENRE: 古逸
@@ -933,7 +933,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0028.org][ZB6s0028]]  [[cbeta:T/T85n2819/T85n2819.org][T85n2819]] 諸經要抄
+*** KR6s0028 [[mandoku:ZB6s0028.org][ZB6s0028]]  [[cbeta:T/T85n2819/T85n2819.org][T85n2819]] 諸經要抄
 :PROPERTIES: 
 :CBETA_ID:  T85n2819
 :GENRE: 古逸
@@ -953,7 +953,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0029.org][ZB6s0029]]  [[cbeta:T/T85n2820/T85n2820.org][T85n2820]] 菩薩藏修道眾經抄卷第十二
+*** KR6s0029 [[mandoku:ZB6s0029.org][ZB6s0029]]  [[cbeta:T/T85n2820/T85n2820.org][T85n2820]] 菩薩藏修道眾經抄卷第十二
 :PROPERTIES: 
 :CBETA_ID:  T85n2820
 :GENRE: 古逸
@@ -973,7 +973,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0030.org][ZB6s0030]]  [[cbeta:T/T85n2821/T85n2821.org][T85n2821]] 諸經要略文
+*** KR6s0030 [[mandoku:ZB6s0030.org][ZB6s0030]]  [[cbeta:T/T85n2821/T85n2821.org][T85n2821]] 諸經要略文
 :PROPERTIES: 
 :CBETA_ID:  T85n2821
 :GENRE: 古逸
@@ -993,7 +993,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0031.org][ZB6s0031]]  [[cbeta:T/T85n2822/T85n2822.org][T85n2822]] 大乘要語
+*** KR6s0031 [[mandoku:ZB6s0031.org][ZB6s0031]]  [[cbeta:T/T85n2822/T85n2822.org][T85n2822]] 大乘要語
 :PROPERTIES: 
 :CBETA_ID:  T85n2822
 :GENRE: 古逸
@@ -1008,7 +1008,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0032.org][ZB6s0032]]  [[cbeta:T/T85n2825/T85n2825.org][T85n2825]] 真言要決卷第一．第三
+*** KR6s0032 [[mandoku:ZB6s0032.org][ZB6s0032]]  [[cbeta:T/T85n2825/T85n2825.org][T85n2825]] 真言要決卷第一．第三
 :PROPERTIES: 
 :CBETA_ID:  T85n2825
 :GENRE: 古逸
@@ -1033,7 +1033,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0033.org][ZB6s0033]]  [[cbeta:T/T85n2841/T85n2841.org][T85n2841]] 大佛略懺
+*** KR6s0033 [[mandoku:ZB6s0033.org][ZB6s0033]]  [[cbeta:T/T85n2841/T85n2841.org][T85n2841]] 大佛略懺
 :PROPERTIES: 
 :CBETA_ID:  T85n2841
 :GENRE: 古逸
@@ -1053,7 +1053,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0034.org][ZB6s0034]]  [[cbeta:T/T85n2842/T85n2842.org][T85n2842]] 印沙佛文
+*** KR6s0034 [[mandoku:ZB6s0034.org][ZB6s0034]]  [[cbeta:T/T85n2842/T85n2842.org][T85n2842]] 印沙佛文
 :PROPERTIES: 
 :CBETA_ID:  T85n2842
 :GENRE: 古逸
@@ -1068,7 +1068,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0035.org][ZB6s0035]]  [[cbeta:T/T85n2843/T85n2843.org][T85n2843]] 大悲啟請
+*** KR6s0035 [[mandoku:ZB6s0035.org][ZB6s0035]]  [[cbeta:T/T85n2843/T85n2843.org][T85n2843]] 大悲啟請
 :PROPERTIES: 
 :CBETA_ID:  T85n2843
 :GENRE: 古逸
@@ -1088,7 +1088,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0036.org][ZB6s0036]]  [[cbeta:T/T85n2844/T85n2844.org][T85n2844]] 文殊師利菩薩無相十禮
+*** KR6s0036 [[mandoku:ZB6s0036.org][ZB6s0036]]  [[cbeta:T/T85n2844/T85n2844.org][T85n2844]] 文殊師利菩薩無相十禮
 :PROPERTIES: 
 :CBETA_ID:  T85n2844
 :GENRE: 古逸
@@ -1103,7 +1103,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0037.org][ZB6s0037]]  [[cbeta:T/T85n2845/T85n2845.org][T85n2845]] 押座文類
+*** KR6s0037 [[mandoku:ZB6s0037.org][ZB6s0037]]  [[cbeta:T/T85n2845/T85n2845.org][T85n2845]] 押座文類
 :PROPERTIES: 
 :CBETA_ID:  T85n2845
 :GENRE: 古逸
@@ -1128,7 +1128,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0038.org][ZB6s0038]]  [[cbeta:T/T85n2846/T85n2846.org][T85n2846]] 祈願文
+*** KR6s0038 [[mandoku:ZB6s0038.org][ZB6s0038]]  [[cbeta:T/T85n2846/T85n2846.org][T85n2846]] 祈願文
 :PROPERTIES: 
 :CBETA_ID:  T85n2846
 :GENRE: 古逸
@@ -1143,7 +1143,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0039.org][ZB6s0039]]  [[cbeta:T/T85n2847/T85n2847.org][T85n2847]] 祈願文
+*** KR6s0039 [[mandoku:ZB6s0039.org][ZB6s0039]]  [[cbeta:T/T85n2847/T85n2847.org][T85n2847]] 祈願文
 :PROPERTIES: 
 :CBETA_ID:  T85n2847
 :GENRE: 古逸
@@ -1158,7 +1158,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0040.org][ZB6s0040]]  [[cbeta:T/T85n2848/T85n2848.org][T85n2848]] 迴向文
+*** KR6s0040 [[mandoku:ZB6s0040.org][ZB6s0040]]  [[cbeta:T/T85n2848/T85n2848.org][T85n2848]] 迴向文
 :PROPERTIES: 
 :CBETA_ID:  T85n2848
 :GENRE: 古逸
@@ -1173,7 +1173,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0041.org][ZB6s0041]]  [[cbeta:T/T85n2849/T85n2849.org][T85n2849]] 大乘四齋日
+*** KR6s0041 [[mandoku:ZB6s0041.org][ZB6s0041]]  [[cbeta:T/T85n2849/T85n2849.org][T85n2849]] 大乘四齋日
 :PROPERTIES: 
 :CBETA_ID:  T85n2849
 :GENRE: 古逸
@@ -1193,7 +1193,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0042.org][ZB6s0042]]  [[cbeta:T/T85n2850/T85n2850.org][T85n2850]] 地藏菩薩十齋日
+*** KR6s0042 [[mandoku:ZB6s0042.org][ZB6s0042]]  [[cbeta:T/T85n2850/T85n2850.org][T85n2850]] 地藏菩薩十齋日
 :PROPERTIES: 
 :CBETA_ID:  T85n2850
 :GENRE: 古逸
@@ -1208,7 +1208,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0043.org][ZB6s0043]]  [[cbeta:T/T85n2851/T85n2851.org][T85n2851]] 和菩薩戒文
+*** KR6s0043 [[mandoku:ZB6s0043.org][ZB6s0043]]  [[cbeta:T/T85n2851/T85n2851.org][T85n2851]] 和菩薩戒文
 :PROPERTIES: 
 :CBETA_ID:  T85n2851
 :GENRE: 古逸
@@ -1223,7 +1223,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0044.org][ZB6s0044]]  [[cbeta:T/T85n2852/T85n2852.org][T85n2852]] 入布薩堂說偈文等
+*** KR6s0044 [[mandoku:ZB6s0044.org][ZB6s0044]]  [[cbeta:T/T85n2852/T85n2852.org][T85n2852]] 入布薩堂說偈文等
 :PROPERTIES: 
 :CBETA_ID:  T85n2852
 :GENRE: 古逸
@@ -1238,7 +1238,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0045.org][ZB6s0045]]  [[cbeta:T/T85n2853/T85n2853.org][T85n2853]] 布薩文等
+*** KR6s0045 [[mandoku:ZB6s0045.org][ZB6s0045]]  [[cbeta:T/T85n2853/T85n2853.org][T85n2853]] 布薩文等
 :PROPERTIES: 
 :CBETA_ID:  T85n2853
 :GENRE: 古逸
@@ -1253,7 +1253,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0046.org][ZB6s0046]]  [[cbeta:T/T85n2854/T85n2854.org][T85n2854]] 禮懺文
+*** KR6s0046 [[mandoku:ZB6s0046.org][ZB6s0046]]  [[cbeta:T/T85n2854/T85n2854.org][T85n2854]] 禮懺文
 :PROPERTIES: 
 :CBETA_ID:  T85n2854
 :GENRE: 古逸
@@ -1273,7 +1273,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0047.org][ZB6s0047]]  [[cbeta:T/T85n2855/T85n2855.org][T85n2855]] 禮懺文
+*** KR6s0047 [[mandoku:ZB6s0047.org][ZB6s0047]]  [[cbeta:T/T85n2855/T85n2855.org][T85n2855]] 禮懺文
 :PROPERTIES: 
 :CBETA_ID:  T85n2855
 :GENRE: 古逸
@@ -1293,7 +1293,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0048.org][ZB6s0048]]  [[cbeta:T/T85n2856/T85n2856.org][T85n2856]] 禮懺文
+*** KR6s0048 [[mandoku:ZB6s0048.org][ZB6s0048]]  [[cbeta:T/T85n2856/T85n2856.org][T85n2856]] 禮懺文
 :PROPERTIES: 
 :CBETA_ID:  T85n2856
 :GENRE: 古逸
@@ -1313,7 +1313,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0049.org][ZB6s0049]]  [[cbeta:T/T85n2857/T85n2857.org][T85n2857]] 索法號義󰀃諷誦文
+*** KR6s0049 [[mandoku:ZB6s0049.org][ZB6s0049]]  [[cbeta:T/T85n2857/T85n2857.org][T85n2857]] 索法號義󰀃諷誦文
 :PROPERTIES: 
 :CBETA_ID:  T85n2857
 :GENRE: 古逸
@@ -1328,7 +1328,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0050.org][ZB6s0050]]  [[cbeta:T/T85n2858/T85n2858.org][T85n2858]] 大目乾連冥間救母變文并圖
+*** KR6s0050 [[mandoku:ZB6s0050.org][ZB6s0050]]  [[cbeta:T/T85n2858/T85n2858.org][T85n2858]] 大目乾連冥間救母變文并圖
 :PROPERTIES: 
 :CBETA_ID:  T85n2858
 :GENRE: 古逸
@@ -1343,7 +1343,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0051.org][ZB6s0051]]  [[cbeta:T/T85n2859/T85n2859.org][T85n2859]] 惠遠外傳
+*** KR6s0051 [[mandoku:ZB6s0051.org][ZB6s0051]]  [[cbeta:T/T85n2859/T85n2859.org][T85n2859]] 惠遠外傳
 :PROPERTIES: 
 :CBETA_ID:  T85n2859
 :GENRE: 古逸
@@ -1363,7 +1363,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0052.org][ZB6s0052]]  [[cbeta:T/T85n2860/T85n2860.org][T85n2860]] 府君存惠傳
+*** KR6s0052 [[mandoku:ZB6s0052.org][ZB6s0052]]  [[cbeta:T/T85n2860/T85n2860.org][T85n2860]] 府君存惠傳
 :PROPERTIES: 
 :CBETA_ID:  T85n2860
 :GENRE: 古逸
@@ -1378,7 +1378,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0053.org][ZB6s0053]]  [[cbeta:T/T85n2861/T85n2861.org][T85n2861]] 泉州千佛新著諸祖師頌
+*** KR6s0053 [[mandoku:ZB6s0053.org][ZB6s0053]]  [[cbeta:T/T85n2861/T85n2861.org][T85n2861]] 泉州千佛新著諸祖師頌
 :PROPERTIES: 
 :CBETA_ID:  T85n2861
 :GENRE: 古逸
@@ -1393,7 +1393,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0054.org][ZB6s0054]]  [[cbeta:T/T85n2862/T85n2862.org][T85n2862]] 大蕃沙洲釋門教法和尚洪󰀃修功德記
+*** KR6s0054 [[mandoku:ZB6s0054.org][ZB6s0054]]  [[cbeta:T/T85n2862/T85n2862.org][T85n2862]] 大蕃沙洲釋門教法和尚洪󰀃修功德記
 :PROPERTIES: 
 :CBETA_ID:  T85n2862
 :GENRE: 古逸
@@ -1413,7 +1413,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0055.org][ZB6s0055]]  [[cbeta:T/T85n2863/T85n2863.org][T85n2863]] 王梵志詩集
+*** KR6s0055 [[mandoku:ZB6s0055.org][ZB6s0055]]  [[cbeta:T/T85n2863/T85n2863.org][T85n2863]] 王梵志詩集
 :PROPERTIES: 
 :CBETA_ID:  T85n2863
 :GENRE: 古逸
@@ -1433,7 +1433,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0056.org][ZB6s0056]]  [[cbeta:T/T85n2864/T85n2864.org][T85n2864]] 進旨
+*** KR6s0056 [[mandoku:ZB6s0056.org][ZB6s0056]]  [[cbeta:T/T85n2864/T85n2864.org][T85n2864]] 進旨
 :PROPERTIES: 
 :CBETA_ID:  T85n2864
 :GENRE: 古逸
@@ -1448,7 +1448,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0057.org][ZB6s0057]]  [[cbeta:K/K35n1258/K35n1258.org][K35n1258]] 御製蓮華心輪迴文偈頌
+*** KR6s0057 [[mandoku:ZB6s0057.org][ZB6s0057]]  [[cbeta:K/K35n1258/K35n1258.org][K35n1258]] 御製蓮華心輪迴文偈頌
 :PROPERTIES: 
 :CBETA_ID:  K35n1258
 :CUSTOM_ID: ZB6s0057
@@ -1473,7 +1473,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0058.org][ZB6s0058]]  [[cbeta:K/K35n1259/K35n1259.org][K35n1259]] 御製秘藏詮
+*** KR6s0058 [[mandoku:ZB6s0058.org][ZB6s0058]]  [[cbeta:K/K35n1259/K35n1259.org][K35n1259]] 御製秘藏詮
 :PROPERTIES: 
 :CBETA_ID:  K35n1259
 :CUSTOM_ID: ZB6s0058
@@ -1498,7 +1498,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0059.org][ZB6s0059]]  [[cbeta:K/K35n1260/K35n1260.org][K35n1260]] 御製逍遙詠
+*** KR6s0059 [[mandoku:ZB6s0059.org][ZB6s0059]]  [[cbeta:K/K35n1260/K35n1260.org][K35n1260]] 御製逍遙詠
 :PROPERTIES: 
 :CBETA_ID:  K35n1260
 :CUSTOM_ID: ZB6s0059
@@ -1523,7 +1523,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0060.org][ZB6s0060]]  [[cbeta:K/K35n1261/K35n1261.org][K35n1261]] 御製緣識
+*** KR6s0060 [[mandoku:ZB6s0060.org][ZB6s0060]]  [[cbeta:K/K35n1261/K35n1261.org][K35n1261]] 御製緣識
 :PROPERTIES: 
 :CBETA_ID:  K35n1261
 :CUSTOM_ID: ZB6s0060
@@ -1548,7 +1548,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0061.org][ZB6s0061]]  [[cbeta:C/C073n1679/C073n1679.org][C073n1679]] 御製佛賦
+*** KR6s0061 [[mandoku:ZB6s0061.org][ZB6s0061]]  [[cbeta:C/C073n1679/C073n1679.org][C073n1679]] 御製佛賦
 :PROPERTIES: 
 :CBETA_ID:  C073n1679
 :CUSTOM_ID: ZB6s0061
@@ -1573,7 +1573,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0062.org][ZB6s0062]]  [[cbeta:C/C073n1680/C073n1680.org][C073n1680]] 御製詮源歌
+*** KR6s0062 [[mandoku:ZB6s0062.org][ZB6s0062]]  [[cbeta:C/C073n1680/C073n1680.org][C073n1680]] 御製詮源歌
 :PROPERTIES: 
 :CBETA_ID:  C073n1680
 :CUSTOM_ID: ZB6s0062
@@ -1598,7 +1598,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0063.org][ZB6s0063]]  [[cbeta:P/P178n1610/P178n1610.org][P178n1610]] 大明太宗文皇帝御製序讚文
+*** KR6s0063 [[mandoku:ZB6s0063.org][ZB6s0063]]  [[cbeta:P/P178n1610/P178n1610.org][P178n1610]] 大明太宗文皇帝御製序讚文
 :PROPERTIES: 
 :CBETA_ID:  P178n1610
 :CUSTOM_ID: ZB6s0063
@@ -1618,7 +1618,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0064.org][ZB6s0064]]  [[cbeta:P/P178n1611/P178n1611.org][P178n1611]] 諸佛世尊如來菩薩尊者神僧名經
+*** KR6s0064 [[mandoku:ZB6s0064.org][ZB6s0064]]  [[cbeta:P/P178n1611/P178n1611.org][P178n1611]] 諸佛世尊如來菩薩尊者神僧名經
 :PROPERTIES: 
 :CBETA_ID:  P178n1611
 :CUSTOM_ID: ZB6s0064
@@ -1643,7 +1643,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0065.org][ZB6s0065]]  [[cbeta:P/P179n1612/P179n1612.org][P179n1612]] 諸佛世尊如來菩薩尊者名稱歌曲
+*** KR6s0065 [[mandoku:ZB6s0065.org][ZB6s0065]]  [[cbeta:P/P179n1612/P179n1612.org][P179n1612]] 諸佛世尊如來菩薩尊者名稱歌曲
 :PROPERTIES: 
 :CBETA_ID:  P179n1612
 :CUSTOM_ID: ZB6s0065
@@ -1668,7 +1668,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0066.org][ZB6s0066]]  [[cbeta:G/G083n2073/G083n2073.org][G083n2073]] 大明太宗文皇帝御製文殊讚
+*** KR6s0066 [[mandoku:ZB6s0066.org][ZB6s0066]]  [[cbeta:G/G083n2073/G083n2073.org][G083n2073]] 大明太宗文皇帝御製文殊讚
 :PROPERTIES: 
 :CBETA_ID:  G083n2073
 :CUSTOM_ID: ZB6s0066
@@ -1688,7 +1688,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0067.org][ZB6s0067]]  [[cbeta:G/G083n2075/G083n2075.org][G083n2075]] 御製釋迦牟尼佛讚
+*** KR6s0067 [[mandoku:ZB6s0067.org][ZB6s0067]]  [[cbeta:G/G083n2075/G083n2075.org][G083n2075]] 御製釋迦牟尼佛讚
 :PROPERTIES: 
 :CBETA_ID:  G083n2075
 :CUSTOM_ID: ZB6s0067
@@ -1708,7 +1708,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0068.org][ZB6s0068]]  [[cbeta:X/X65n1281/X65n1281.org][X65n1281]] 御製揀魔辨異錄
+*** KR6s0068 [[mandoku:ZB6s0068.org][ZB6s0068]]  [[cbeta:X/X65n1281/X65n1281.org][X65n1281]] 御製揀魔辨異錄
 :PROPERTIES: 
 :CBETA_ID:  X65n1281
 :GENRE: 諸宗
@@ -1734,7 +1734,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0069.org][ZB6s0069]]  [[cbeta:X/X68n1319/X68n1319.org][X68n1319]] 御選語錄
+*** KR6s0069 [[mandoku:ZB6s0069.org][ZB6s0069]]  [[cbeta:X/X68n1319/X68n1319.org][X68n1319]] 御選語錄
 :PROPERTIES: 
 :CBETA_ID:  X68n1319
 :GENRE: 諸宗
@@ -1760,7 +1760,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0070.org][ZB6s0070]]  [[cbeta:L/L164n1668/L164n1668.org][L164n1668]] 御錄宗鏡大綱
+*** KR6s0070 [[mandoku:ZB6s0070.org][ZB6s0070]]  [[cbeta:L/L164n1668/L164n1668.org][L164n1668]] 御錄宗鏡大綱
 :PROPERTIES: 
 :CBETA_ID:  L164n1668
 :CUSTOM_ID: ZB6s0070
@@ -1785,7 +1785,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0071.org][ZB6s0071]]  [[cbeta:L/L164n1669/L164n1669.org][L164n1669]] 御錄經海一滴
+*** KR6s0071 [[mandoku:ZB6s0071.org][ZB6s0071]]  [[cbeta:L/L164n1669/L164n1669.org][L164n1669]] 御錄經海一滴
 :PROPERTIES: 
 :CBETA_ID:  L164n1669
 :CUSTOM_ID: ZB6s0071
@@ -1810,7 +1810,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0072.org][ZB6s0072]]  [[cbeta:T/T54n2137/T54n2137.org][T54n2137]] 金七十論
+*** KR6s0072 [[mandoku:ZB6s0072.org][ZB6s0072]]  [[cbeta:T/T54n2137/T54n2137.org][T54n2137]] 金七十論
 :PROPERTIES: 
 :CBETA_ID:  T54n2137
 :GENRE: 事彙
@@ -1851,7 +1851,7 @@
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6s0073.org][ZB6s0073]]  [[cbeta:T/T54n2138/T54n2138.org][T54n2138]] 勝宗十句義論
+*** KR6s0073 [[mandoku:ZB6s0073.org][ZB6s0073]]  [[cbeta:T/T54n2138/T54n2138.org][T54n2138]] 勝宗十句義論
 :PROPERTIES: 
 :CBETA_ID:  T54n2138
 :GENRE: 事彙
@@ -1897,7 +1897,7 @@
 :WITID: wit11
 :END:
 
-*** [[mandoku:ZB6s0074.org][ZB6s0074]]  [[cbeta:T/T54n2139/T54n2139.org][T54n2139]] 老子化胡經
+*** KR6s0074 [[mandoku:ZB6s0074.org][ZB6s0074]]  [[cbeta:T/T54n2139/T54n2139.org][T54n2139]] 老子化胡經
 :PROPERTIES: 
 :CBETA_ID:  T54n2139
 :GENRE: 事彙
@@ -1912,7 +1912,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0075.org][ZB6s0075]]  [[cbeta:L/L153n1636/L153n1636.org][L153n1636]] 莊子內篇註
+*** KR6s0075 [[mandoku:ZB6s0075.org][ZB6s0075]]  [[cbeta:L/L153n1636/L153n1636.org][L153n1636]] 莊子內篇註
 :PROPERTIES: 
 :CBETA_ID:  L153n1636
 :CUSTOM_ID: ZB6s0075
@@ -1937,7 +1937,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0076.org][ZB6s0076]]  [[cbeta:F/F29n1098/F29n1098.org][F29n1098]] 高上玉皇本行集經髓
+*** KR6s0076 [[mandoku:ZB6s0076.org][ZB6s0076]]  [[cbeta:F/F29n1098/F29n1098.org][F29n1098]] 高上玉皇本行集經髓
 :PROPERTIES: 
 :CBETA_ID:  F29n1098
 :CUSTOM_ID: ZB6s0076
@@ -1961,7 +1961,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0077.org][ZB6s0077]]  [[cbeta:F/F29n1099/F29n1099.org][F29n1099]] 無上玉皇心印經
+*** KR6s0077 [[mandoku:ZB6s0077.org][ZB6s0077]]  [[cbeta:F/F29n1099/F29n1099.org][F29n1099]] 無上玉皇心印經
 :PROPERTIES: 
 :CBETA_ID:  F29n1099
 :CUSTOM_ID: ZB6s0077
@@ -1980,7 +1980,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0078.org][ZB6s0078]]  [[cbeta:T/T54n2140/T54n2140.org][T54n2140]] 摩尼教下部讚
+*** KR6s0078 [[mandoku:ZB6s0078.org][ZB6s0078]]  [[cbeta:T/T54n2140/T54n2140.org][T54n2140]] 摩尼教下部讚
 :PROPERTIES: 
 :CBETA_ID:  T54n2140
 :GENRE: 事彙
@@ -1995,7 +1995,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0079.org][ZB6s0079]]  [[cbeta:T/T54n2141A/T54n2141A.org][T54n2141A]] 摩尼光佛教法儀略
+*** KR6s0079 [[mandoku:ZB6s0079.org][ZB6s0079]]  [[cbeta:T/T54n2141A/T54n2141A.org][T54n2141A]] 摩尼光佛教法儀略
 :PROPERTIES: 
 :CBETA_ID:  T54n2141A
 :GENRE: 事彙
@@ -2016,7 +2016,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0080.org][ZB6s0080]]  [[cbeta:T/T54n2141B/T54n2141B.org][T54n2141B]] 波斯教殘經
+*** KR6s0080 [[mandoku:ZB6s0080.org][ZB6s0080]]  [[cbeta:T/T54n2141B/T54n2141B.org][T54n2141B]] 波斯教殘經
 :PROPERTIES: 
 :CBETA_ID:  T54n2141B
 :GENRE: 事彙
@@ -2031,7 +2031,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0081.org][ZB6s0081]]  [[cbeta:T/T54n2142/T54n2142.org][T54n2142]] 序聽迷詩所經
+*** KR6s0081 [[mandoku:ZB6s0081.org][ZB6s0081]]  [[cbeta:T/T54n2142/T54n2142.org][T54n2142]] 序聽迷詩所經
 :PROPERTIES: 
 :CBETA_ID:  T54n2142
 :GENRE: 事彙
@@ -2046,7 +2046,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0082.org][ZB6s0082]]  [[cbeta:T/T54n2143/T54n2143.org][T54n2143]] 景教三威蒙度讚
+*** KR6s0082 [[mandoku:ZB6s0082.org][ZB6s0082]]  [[cbeta:T/T54n2143/T54n2143.org][T54n2143]] 景教三威蒙度讚
 :PROPERTIES: 
 :CBETA_ID:  T54n2143
 :GENRE: 事彙
@@ -2061,7 +2061,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0083.org][ZB6s0083]]  [[cbeta:T/T54n2144/T54n2144.org][T54n2144]] 大秦景教流行中國碑頌
+*** KR6s0083 [[mandoku:ZB6s0083.org][ZB6s0083]]  [[cbeta:T/T54n2144/T54n2144.org][T54n2144]] 大秦景教流行中國碑頌
 :PROPERTIES: 
 :CBETA_ID:  T54n2144
 :CUSTOM_ID: ZB6s0083
@@ -2086,7 +2086,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0084.org][ZB6s0084]]  [[cbeta:T/T55n2145/T55n2145.org][T55n2145]] 出三藏記集
+*** KR6s0084 [[mandoku:ZB6s0084.org][ZB6s0084]]  [[cbeta:T/T55n2145/T55n2145.org][T55n2145]] 出三藏記集
 :PROPERTIES: 
 :CBETA_ID:  T55n2145
 :GENRE: 目録
@@ -2132,7 +2132,7 @@
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6s0085.org][ZB6s0085]]  [[cbeta:T/T55n2146/T55n2146.org][T55n2146]] 眾經目錄
+*** KR6s0085 [[mandoku:ZB6s0085.org][ZB6s0085]]  [[cbeta:T/T55n2146/T55n2146.org][T55n2146]] 眾經目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2146
 :GENRE: 目録
@@ -2178,7 +2178,7 @@
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6s0086.org][ZB6s0086]]  [[cbeta:T/T55n2147/T55n2147.org][T55n2147]] 眾經目錄
+*** KR6s0086 [[mandoku:ZB6s0086.org][ZB6s0086]]  [[cbeta:T/T55n2147/T55n2147.org][T55n2147]] 眾經目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2147
 :GENRE: 目録
@@ -2219,7 +2219,7 @@
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6s0087.org][ZB6s0087]]  [[cbeta:T/T55n2148/T55n2148.org][T55n2148]] 眾經目錄
+*** KR6s0087 [[mandoku:ZB6s0087.org][ZB6s0087]]  [[cbeta:T/T55n2148/T55n2148.org][T55n2148]] 眾經目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2148
 :GENRE: 目録
@@ -2250,7 +2250,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0088.org][ZB6s0088]]  [[cbeta:T/T55n2149/T55n2149.org][T55n2149]] 大唐內典錄
+*** KR6s0088 [[mandoku:ZB6s0088.org][ZB6s0088]]  [[cbeta:T/T55n2149/T55n2149.org][T55n2149]] 大唐內典錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2149
 :GENRE: 目録
@@ -2301,7 +2301,7 @@
 :WITID: wit14
 :END:
 
-*** [[mandoku:ZB6s0089.org][ZB6s0089]]  [[cbeta:T/T55n2150/T55n2150.org][T55n2150]] 續大唐內典錄
+*** KR6s0089 [[mandoku:ZB6s0089.org][ZB6s0089]]  [[cbeta:T/T55n2150/T55n2150.org][T55n2150]] 續大唐內典錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2150
 :GENRE: 目録
@@ -2342,7 +2342,7 @@
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6s0090.org][ZB6s0090]]  [[cbeta:T/T55n2151/T55n2151.org][T55n2151]] 古今譯經圖紀
+*** KR6s0090 [[mandoku:ZB6s0090.org][ZB6s0090]]  [[cbeta:T/T55n2151/T55n2151.org][T55n2151]] 古今譯經圖紀
 :PROPERTIES: 
 :CBETA_ID:  T55n2151
 :GENRE: 目録
@@ -2388,7 +2388,7 @@
 :WITID: wit22
 :END:
 
-*** [[mandoku:ZB6s0091.org][ZB6s0091]]  [[cbeta:T/T55n2152/T55n2152.org][T55n2152]] 續古今譯經圖紀
+*** KR6s0091 [[mandoku:ZB6s0091.org][ZB6s0091]]  [[cbeta:T/T55n2152/T55n2152.org][T55n2152]] 續古今譯經圖紀
 :PROPERTIES: 
 :CBETA_ID:  T55n2152
 :GENRE: 目録
@@ -2429,7 +2429,7 @@
 :WITID: wit11
 :END:
 
-*** [[mandoku:ZB6s0092.org][ZB6s0092]]  [[cbeta:T/T55n2153/T55n2153.org][T55n2153]] 大周刊定眾經目錄
+*** KR6s0092 [[mandoku:ZB6s0092.org][ZB6s0092]]  [[cbeta:T/T55n2153/T55n2153.org][T55n2153]] 大周刊定眾經目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2153
 :GENRE: 目録
@@ -2475,7 +2475,7 @@
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6s0093.org][ZB6s0093]]  [[cbeta:T/T55n2154/T55n2154.org][T55n2154]] 開元釋教錄
+*** KR6s0093 [[mandoku:ZB6s0093.org][ZB6s0093]]  [[cbeta:T/T55n2154/T55n2154.org][T55n2154]] 開元釋教錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2154
 :GENRE: 目録
@@ -2531,7 +2531,7 @@
 :WITID: wit13
 :END:
 
-*** [[mandoku:ZB6s0094.org][ZB6s0094]]  [[cbeta:T/T55n2155/T55n2155.org][T55n2155]] 開元釋教錄略出
+*** KR6s0094 [[mandoku:ZB6s0094.org][ZB6s0094]]  [[cbeta:T/T55n2155/T55n2155.org][T55n2155]] 開元釋教錄略出
 :PROPERTIES: 
 :CBETA_ID:  T55n2155
 :GENRE: 目録
@@ -2572,7 +2572,7 @@
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6s0095.org][ZB6s0095]]  [[cbeta:A/A097n1276/A097n1276.org][A097n1276]] 大唐開元釋教廣品歷章(第3卷-第20卷)
+*** KR6s0095 [[mandoku:ZB6s0095.org][ZB6s0095]]  [[cbeta:A/A097n1276/A097n1276.org][A097n1276]] 大唐開元釋教廣品歷章(第3卷-第20卷)
 :PROPERTIES: 
 :CBETA_ID:  A097n1276
 :CUSTOM_ID: ZB6s0095
@@ -2597,7 +2597,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0096.org][ZB6s0096]]  [[cbeta:T/T55n2156/T55n2156.org][T55n2156]] 大唐貞元續開元釋教錄
+*** KR6s0096 [[mandoku:ZB6s0096.org][ZB6s0096]]  [[cbeta:T/T55n2156/T55n2156.org][T55n2156]] 大唐貞元續開元釋教錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2156
 :GENRE: 目録
@@ -2628,7 +2628,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0097.org][ZB6s0097]]  [[cbeta:T/T55n2157/T55n2157.org][T55n2157]] 貞元新定釋教目錄
+*** KR6s0097 [[mandoku:ZB6s0097.org][ZB6s0097]]  [[cbeta:T/T55n2157/T55n2157.org][T55n2157]] 貞元新定釋教目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2157
 :GENRE: 目録
@@ -2694,7 +2694,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0098.org][ZB6s0098]]  [[cbeta:T/T55n2158/T55n2158.org][T55n2158]] 續貞元釋教錄
+*** KR6s0098 [[mandoku:ZB6s0098.org][ZB6s0098]]  [[cbeta:T/T55n2158/T55n2158.org][T55n2158]] 續貞元釋教錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2158
 :GENRE: 目録
@@ -2725,7 +2725,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0099.org][ZB6s0099]]  [[cbeta:A/A110n1499/A110n1499.org][A110n1499]] 天聖釋教總錄
+*** KR6s0099 [[mandoku:ZB6s0099.org][ZB6s0099]]  [[cbeta:A/A110n1499/A110n1499.org][A110n1499]] 天聖釋教總錄
 :PROPERTIES: 
 :CBETA_ID:  A110n1499
 :CUSTOM_ID: ZB6s0099
@@ -2750,7 +2750,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0100.org][ZB6s0100]]  [[cbeta:A/A111n1501/A111n1501.org][A111n1501]] 大中祥符法寶錄(第3卷-第20卷)
+*** KR6s0100 [[mandoku:ZB6s0100.org][ZB6s0100]]  [[cbeta:A/A111n1501/A111n1501.org][A111n1501]] 大中祥符法寶錄(第3卷-第20卷)
 :PROPERTIES: 
 :CBETA_ID:  A111n1501
 :CUSTOM_ID: ZB6s0100
@@ -2775,7 +2775,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0101.org][ZB6s0101]]  [[cbeta:A/A112n1502/A112n1502.org][A112n1502]] 景祐新修法寶錄
+*** KR6s0101 [[mandoku:ZB6s0101.org][ZB6s0101]]  [[cbeta:A/A112n1502/A112n1502.org][A112n1502]] 景祐新修法寶錄
 :PROPERTIES: 
 :CBETA_ID:  A112n1502
 :CUSTOM_ID: ZB6s0101
@@ -2800,7 +2800,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0102.org][ZB6s0102]]  [[cbeta:L/L143n1608/L143n1608.org][L143n1608]] 大藏聖教法寶標目
+*** KR6s0102 [[mandoku:ZB6s0102.org][ZB6s0102]]  [[cbeta:L/L143n1608/L143n1608.org][L143n1608]] 大藏聖教法寶標目
 :PROPERTIES: 
 :CBETA_ID:  L143n1608
 :CUSTOM_ID: ZB6s0102
@@ -2825,7 +2825,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0103.org][ZB6s0103]]  [[cbeta:C/C106n1937/C106n1937.org][C106n1937]] 大明重刊三藏聖教目錄
+*** KR6s0103 [[mandoku:ZB6s0103.org][ZB6s0103]]  [[cbeta:C/C106n1937/C106n1937.org][C106n1937]] 大明重刊三藏聖教目錄
 :PROPERTIES: 
 :CBETA_ID:  C106n1937
 :CUSTOM_ID: ZB6s0103
@@ -2850,7 +2850,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0104.org][ZB6s0104]]  [[cbeta:J/J31nB271/J31nB271.org][J31nB271]] 閱藏知津
+*** KR6s0104 [[mandoku:ZB6s0104.org][ZB6s0104]]  [[cbeta:J/J31nB271/J31nB271.org][J31nB271]] 閱藏知津
 :PROPERTIES: 
 :CBETA_ID:  J31nB271
 :CUSTOM_ID: ZB6s0104
@@ -2875,7 +2875,7 @@
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6s0105.org][ZB6s0105]]  [[cbeta:T/T55n2159/T55n2159.org][T55n2159]] 傳教大師將來台州錄
+*** KR6s0105 [[mandoku:ZB6s0105.org][ZB6s0105]]  [[cbeta:T/T55n2159/T55n2159.org][T55n2159]] 傳教大師將來台州錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2159
 :GENRE: 目録
@@ -2896,7 +2896,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0106.org][ZB6s0106]]  [[cbeta:T/T55n2160/T55n2160.org][T55n2160]] 傳教大師將來越州錄
+*** KR6s0106 [[mandoku:ZB6s0106.org][ZB6s0106]]  [[cbeta:T/T55n2160/T55n2160.org][T55n2160]] 傳教大師將來越州錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2160
 :GENRE: 目録
@@ -2927,7 +2927,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0107.org][ZB6s0107]]  [[cbeta:T/T55n2161/T55n2161.org][T55n2161]] 御請來目錄
+*** KR6s0107 [[mandoku:ZB6s0107.org][ZB6s0107]]  [[cbeta:T/T55n2161/T55n2161.org][T55n2161]] 御請來目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2161
 :GENRE: 目録
@@ -2958,7 +2958,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0108.org][ZB6s0108]]  [[cbeta:T/T55n2162/T55n2162.org][T55n2162]] 根本大和尚真跡策子等目錄
+*** KR6s0108 [[mandoku:ZB6s0108.org][ZB6s0108]]  [[cbeta:T/T55n2162/T55n2162.org][T55n2162]] 根本大和尚真跡策子等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2162
 :GENRE: 目録
@@ -2983,7 +2983,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0109.org][ZB6s0109]]  [[cbeta:T/T55n2163/T55n2163.org][T55n2163]] 常曉和尚請來目錄
+*** KR6s0109 [[mandoku:ZB6s0109.org][ZB6s0109]]  [[cbeta:T/T55n2163/T55n2163.org][T55n2163]] 常曉和尚請來目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2163
 :GENRE: 目録
@@ -3029,7 +3029,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0110.org][ZB6s0110]]  [[cbeta:T/T55n2164/T55n2164.org][T55n2164]] 靈巖寺和尚請來法門道具等目錄
+*** KR6s0110 [[mandoku:ZB6s0110.org][ZB6s0110]]  [[cbeta:T/T55n2164/T55n2164.org][T55n2164]] 靈巖寺和尚請來法門道具等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2164
 :GENRE: 目録
@@ -3075,7 +3075,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0111.org][ZB6s0111]]  [[cbeta:T/T55n2165/T55n2165.org][T55n2165]] 日本國承和五年入唐求法目錄
+*** KR6s0111 [[mandoku:ZB6s0111.org][ZB6s0111]]  [[cbeta:T/T55n2165/T55n2165.org][T55n2165]] 日本國承和五年入唐求法目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2165
 :GENRE: 目録
@@ -3101,7 +3101,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0112.org][ZB6s0112]]  [[cbeta:T/T55n2166/T55n2166.org][T55n2166]] 慈覺大師在唐送進錄
+*** KR6s0112 [[mandoku:ZB6s0112.org][ZB6s0112]]  [[cbeta:T/T55n2166/T55n2166.org][T55n2166]] 慈覺大師在唐送進錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2166
 :GENRE: 目録
@@ -3122,7 +3122,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0113.org][ZB6s0113]]  [[cbeta:T/T55n2167/T55n2167.org][T55n2167]] 入唐新求聖教目錄
+*** KR6s0113 [[mandoku:ZB6s0113.org][ZB6s0113]]  [[cbeta:T/T55n2167/T55n2167.org][T55n2167]] 入唐新求聖教目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2167
 :GENRE: 目録
@@ -3158,7 +3158,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0114.org][ZB6s0114]]  [[cbeta:T/T55n2168A/T55n2168A.org][T55n2168A]] 惠運禪師將來教法目錄
+*** KR6s0114 [[mandoku:ZB6s0114.org][ZB6s0114]]  [[cbeta:T/T55n2168A/T55n2168A.org][T55n2168A]] 惠運禪師將來教法目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2168A
 :GENRE: 目録
@@ -3194,7 +3194,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0115.org][ZB6s0115]]  [[cbeta:T/T55n2168B/T55n2168B.org][T55n2168B]] 惠運律師書目錄
+*** KR6s0115 [[mandoku:ZB6s0115.org][ZB6s0115]]  [[cbeta:T/T55n2168B/T55n2168B.org][T55n2168B]] 惠運律師書目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2168B
 :GENRE: 目録
@@ -3230,7 +3230,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0116.org][ZB6s0116]]  [[cbeta:T/T55n2169/T55n2169.org][T55n2169]] 開元寺求得經疏記等目錄
+*** KR6s0116 [[mandoku:ZB6s0116.org][ZB6s0116]]  [[cbeta:T/T55n2169/T55n2169.org][T55n2169]] 開元寺求得經疏記等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2169
 :GENRE: 目録
@@ -3251,7 +3251,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0117.org][ZB6s0117]]  [[cbeta:T/T55n2170/T55n2170.org][T55n2170]] 福州溫州台州求得經律論疏記外書等目錄
+*** KR6s0117 [[mandoku:ZB6s0117.org][ZB6s0117]]  [[cbeta:T/T55n2170/T55n2170.org][T55n2170]] 福州溫州台州求得經律論疏記外書等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2170
 :GENRE: 目録
@@ -3277,7 +3277,7 @@
 :WITID: wit4
 :END:
 
-*** [[mandoku:ZB6s0118.org][ZB6s0118]]  [[cbeta:T/T55n2171/T55n2171.org][T55n2171]] 青龍寺求法目錄
+*** KR6s0118 [[mandoku:ZB6s0118.org][ZB6s0118]]  [[cbeta:T/T55n2171/T55n2171.org][T55n2171]] 青龍寺求法目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2171
 :GENRE: 目録
@@ -3298,7 +3298,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0119.org][ZB6s0119]]  [[cbeta:T/T55n2172/T55n2172.org][T55n2172]] 日本比丘圓珍入唐求法目錄
+*** KR6s0119 [[mandoku:ZB6s0119.org][ZB6s0119]]  [[cbeta:T/T55n2172/T55n2172.org][T55n2172]] 日本比丘圓珍入唐求法目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2172
 :GENRE: 目録
@@ -3319,7 +3319,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0120.org][ZB6s0120]]  [[cbeta:T/T55n2173/T55n2173.org][T55n2173]] 智證大師請來目錄
+*** KR6s0120 [[mandoku:ZB6s0120.org][ZB6s0120]]  [[cbeta:T/T55n2173/T55n2173.org][T55n2173]] 智證大師請來目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2173
 :GENRE: 目録
@@ -3360,7 +3360,7 @@
 :WITID: wit51
 :END:
 
-*** [[mandoku:ZB6s0121.org][ZB6s0121]]  [[cbeta:T/T55n2174A/T55n2174A.org][T55n2174A]] 新書寫請來法門等目錄
+*** KR6s0121 [[mandoku:ZB6s0121.org][ZB6s0121]]  [[cbeta:T/T55n2174A/T55n2174A.org][T55n2174A]] 新書寫請來法門等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2174A
 :GENRE: 目録
@@ -3401,7 +3401,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0122.org][ZB6s0122]]  [[cbeta:T/T55n2174B/T55n2174B.org][T55n2174B]] 禪林寺宗叡僧正目錄
+*** KR6s0122 [[mandoku:ZB6s0122.org][ZB6s0122]]  [[cbeta:T/T55n2174B/T55n2174B.org][T55n2174B]] 禪林寺宗叡僧正目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2174B
 :GENRE: 目録
@@ -3416,7 +3416,7 @@
 :WITID: wit1
 :END:
 
-*** [[mandoku:ZB6s0123.org][ZB6s0123]]  [[cbeta:T/T55n2175/T55n2175.org][T55n2175]] 錄外經等目錄
+*** KR6s0123 [[mandoku:ZB6s0123.org][ZB6s0123]]  [[cbeta:T/T55n2175/T55n2175.org][T55n2175]] 錄外經等目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2175
 :GENRE: 目録
@@ -3441,7 +3441,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0124.org][ZB6s0124]]  [[cbeta:T/T55n2176/T55n2176.org][T55n2176]] 諸阿闍梨真言密教部類總錄
+*** KR6s0124 [[mandoku:ZB6s0124.org][ZB6s0124]]  [[cbeta:T/T55n2176/T55n2176.org][T55n2176]] 諸阿闍梨真言密教部類總錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2176
 :GENRE: 目録
@@ -3472,7 +3472,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0125.org][ZB6s0125]]  [[cbeta:T/T55n2177/T55n2177.org][T55n2177]] 華嚴宗章疏并因明錄
+*** KR6s0125 [[mandoku:ZB6s0125.org][ZB6s0125]]  [[cbeta:T/T55n2177/T55n2177.org][T55n2177]] 華嚴宗章疏并因明錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2177
 :GENRE: 目録
@@ -3503,7 +3503,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0126.org][ZB6s0126]]  [[cbeta:T/T55n2178/T55n2178.org][T55n2178]] 天台宗章疏
+*** KR6s0126 [[mandoku:ZB6s0126.org][ZB6s0126]]  [[cbeta:T/T55n2178/T55n2178.org][T55n2178]] 天台宗章疏
 :PROPERTIES: 
 :CBETA_ID:  T55n2178
 :GENRE: 目録
@@ -3534,7 +3534,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0127.org][ZB6s0127]]  [[cbeta:T/T55n2179/T55n2179.org][T55n2179]] 三論宗章疏
+*** KR6s0127 [[mandoku:ZB6s0127.org][ZB6s0127]]  [[cbeta:T/T55n2179/T55n2179.org][T55n2179]] 三論宗章疏
 :PROPERTIES: 
 :CBETA_ID:  T55n2179
 :GENRE: 目録
@@ -3565,7 +3565,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0128.org][ZB6s0128]]  [[cbeta:T/T55n2180/T55n2180.org][T55n2180]] 法相宗章疏
+*** KR6s0128 [[mandoku:ZB6s0128.org][ZB6s0128]]  [[cbeta:T/T55n2180/T55n2180.org][T55n2180]] 法相宗章疏
 :PROPERTIES: 
 :CBETA_ID:  T55n2180
 :GENRE: 目録
@@ -3596,7 +3596,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0129.org][ZB6s0129]]  [[cbeta:T/T55n2181/T55n2181.org][T55n2181]] 注進法相宗章疏
+*** KR6s0129 [[mandoku:ZB6s0129.org][ZB6s0129]]  [[cbeta:T/T55n2181/T55n2181.org][T55n2181]] 注進法相宗章疏
 :PROPERTIES: 
 :CBETA_ID:  T55n2181
 :GENRE: 目録
@@ -3627,7 +3627,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0130.org][ZB6s0130]]  [[cbeta:T/T55n2182/T55n2182.org][T55n2182]] 律宗章疏
+*** KR6s0130 [[mandoku:ZB6s0130.org][ZB6s0130]]  [[cbeta:T/T55n2182/T55n2182.org][T55n2182]] 律宗章疏
 :PROPERTIES: 
 :CBETA_ID:  T55n2182
 :GENRE: 目録
@@ -3658,7 +3658,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0131.org][ZB6s0131]]  [[cbeta:T/T55n2183/T55n2183.org][T55n2183]] 東域傳燈目錄
+*** KR6s0131 [[mandoku:ZB6s0131.org][ZB6s0131]]  [[cbeta:T/T55n2183/T55n2183.org][T55n2183]] 東域傳燈目錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2183
 :GENRE: 目録
@@ -3694,7 +3694,7 @@
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6s0132.org][ZB6s0132]]  [[cbeta:T/T55n2184/T55n2184.org][T55n2184]] 新編諸宗教藏總錄
+*** KR6s0132 [[mandoku:ZB6s0132.org][ZB6s0132]]  [[cbeta:T/T55n2184/T55n2184.org][T55n2184]] 新編諸宗教藏總錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2184
 :CUSTOM_ID: ZB6s0132
@@ -3724,7 +3724,7 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6s0133.org][ZB6s0133]]  [[cbeta:K/K38n1402/K38n1402.org][K38n1402]] 高麗國新雕大藏校正別錄
+*** KR6s0133 [[mandoku:ZB6s0133.org][ZB6s0133]]  [[cbeta:K/K38n1402/K38n1402.org][K38n1402]] 高麗國新雕大藏校正別錄
 :PROPERTIES: 
 :CBETA_ID:  K38n1402
 :CUSTOM_ID: ZB6s0133

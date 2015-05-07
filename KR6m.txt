@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
-** ZB6m 中觀部類
-*** [[mandoku:ZB6m0001.org][ZB6m0001]]  [[cbeta:T/T30n1564/T30n1564.org][T30n1564]] 中論
+** KR6m ZB6m 中觀部類
+*** KR6m0001 [[mandoku:ZB6m0001.org][ZB6m0001]]  [[cbeta:T/T30n1564/T30n1564.org][T30n1564]] 中論
 :PROPERTIES: 
 :CBETA_ID:  T30n1564
 :RELATED: T30n1565@論, T30n1566@論, T30n1567@論, T42n1824@疏, T65n2256@疏
@@ -57,7 +57,7 @@
 :WITID: wit13
 :END:
 
-*** T65n2256 中觀論二十七品別釋
+*** KR6m0002 T65n2256 中觀論二十七品別釋
 :PROPERTIES:
 :CBETA_ID: T65n2256
 :RELATED: T30n1564@論
@@ -72,7 +72,7 @@
 :PROPERTIES:
 :lang@ja-rom: Kaiken
 :END:
-*** [[mandoku:ZB6m0002.org][ZB6m0002]]  [[cbeta:T/T30n1565/T30n1565.org][T30n1565]] 順中論
+*** KR6m0003 [[mandoku:ZB6m0002.org][ZB6m0002]]  [[cbeta:T/T30n1565/T30n1565.org][T30n1565]] 順中論
 :PROPERTIES: 
 :CBETA_ID:  T30n1565
 :RELATED: T30n1564@論, T30n1566@論, T30n1567@論
@@ -129,7 +129,7 @@
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0003.org][ZB6m0003]]  [[cbeta:T/T30n1566/T30n1566.org][T30n1566]] 般若燈論釋
+*** KR6m0004 [[mandoku:ZB6m0003.org][ZB6m0003]]  [[cbeta:T/T30n1566/T30n1566.org][T30n1566]] 般若燈論釋
 :PROPERTIES: 
 :CBETA_ID:  T30n1566
 :RELATED: T30n1564@論, T30n1565@論, T30n1567@論
@@ -186,7 +186,7 @@
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0004.org][ZB6m0004]]  大乘中觀釋論
+*** KR6m0005 [[mandoku:ZB6m0004.org][ZB6m0004]]  大乘中觀釋論
 :PROPERTIES: 
 :CBETA_ID:  T30n1567
 :RELATED: T30n1564@論, T30n1565@論, T30n1566@論
@@ -290,7 +290,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0006.org][ZB6m0006]]  [[cbeta:T/T42n1824/T42n1824.org][T42n1824]] 中觀論疏
+*** KR6m0006 [[mandoku:ZB6m0006.org][ZB6m0006]]  [[cbeta:T/T42n1824/T42n1824.org][T42n1824]] 中觀論疏
 :PROPERTIES: 
 :CBETA_ID:  T42n1824
 :RELATED: T30n1564@論, T65n2255@疏
@@ -317,7 +317,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit4
 :END:
 
-*** T65n2255 中論疏記
+*** KR6m0007 T65n2255 中論疏記
 :PROPERTIES:
 :CBETA_ID: T65n2255
 :RELATED: T42n1824@疏
@@ -332,7 +332,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Anchō
 :END:
-*** [[mandoku:ZB6m0007.org][ZB6m0007]]  [[cbeta:T/T30n1568/T30n1568.org][T30n1568]] 十二門論
+*** KR6m0008 [[mandoku:ZB6m0007.org][ZB6m0007]]  [[cbeta:T/T30n1568/T30n1568.org][T30n1568]] 十二門論
 :PROPERTIES: 
 :CBETA_ID:  T30n1568
 :RELATED: T42n1825@疏, T42n1826@疏
@@ -379,7 +379,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6m0008.org][ZB6m0008]]  [[cbeta:T/T42n1825/T42n1825.org][T42n1825]] 十二門論疏
+*** KR6m0009 [[mandoku:ZB6m0008.org][ZB6m0008]]  [[cbeta:T/T42n1825/T42n1825.org][T42n1825]] 十二門論疏
 :PROPERTIES: 
 :CBETA_ID:  T42n1825
 :RELATED: T30n1568@論, T42n1826@疏, T65n2257@疏
@@ -416,7 +416,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0009.org][ZB6m0009]]  [[cbeta:T/T42n1826/T42n1826.org][T42n1826]] 十二門論宗致義記
+*** KR6m0010 [[mandoku:ZB6m0009.org][ZB6m0009]]  [[cbeta:T/T42n1826/T42n1826.org][T42n1826]] 十二門論宗致義記
 :PROPERTIES: 
 :CBETA_ID:  T42n1826
 :RELATED: T30n1568@論, T42n1825@疏
@@ -448,7 +448,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit49
 :END:
 
-*** T65n2257 十二門論疏聞思記
+*** KR6m0011 T65n2257 十二門論疏聞思記
 :PROPERTIES:
 :CBETA_ID: T65n2257
 :RELATED: T42n1825@疏
@@ -463,7 +463,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Zōkai
 :END:
-*** [[mandoku:ZB6m0010.org][ZB6m0010]]  [[cbeta:T/T30n1569/T30n1569.org][T30n1569]] 百論
+*** KR6m0012 [[mandoku:ZB6m0010.org][ZB6m0010]]  [[cbeta:T/T30n1569/T30n1569.org][T30n1569]] 百論
 :PROPERTIES: 
 :CBETA_ID:  T30n1569
 :RELATED: T30n1570@論, T30n1571@論, T42n1827@疏
@@ -515,7 +515,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit11
 :END:
 
-*** [[mandoku:ZB6m0011.org][ZB6m0011]]  [[cbeta:T/T42n1827/T42n1827.org][T42n1827]] 百論疏
+*** KR6m0013 [[mandoku:ZB6m0011.org][ZB6m0011]]  [[cbeta:T/T42n1827/T42n1827.org][T42n1827]] 百論疏
 :PROPERTIES: 
 :CBETA_ID:  T42n1827
 :RELATED: T30n1569@論
@@ -547,7 +547,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0012.org][ZB6m0012]]  [[cbeta:T/T30n1570/T30n1570.org][T30n1570]] 廣百論本
+*** KR6m0014 [[mandoku:ZB6m0012.org][ZB6m0012]]  [[cbeta:T/T30n1570/T30n1570.org][T30n1570]] 廣百論本
 :PROPERTIES: 
 :CBETA_ID:  T30n1570
 :RELATED: T30n1569@論, T30n1571@論
@@ -599,7 +599,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0013.org][ZB6m0013]]  [[cbeta:T/T30n1571/T30n1571.org][T30n1571]] 大乘廣百論釋論
+*** KR6m0015 [[mandoku:ZB6m0013.org][ZB6m0013]]  [[cbeta:T/T30n1571/T30n1571.org][T30n1571]] 大乘廣百論釋論
 :PROPERTIES: 
 :CBETA_ID:  T30n1571
 :RELATED: T30n1569@論, T30n1570@論, T85n2800@古逸
@@ -661,7 +661,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit8
 :END:
 
-*** [[mandoku:ZB6m0014.org][ZB6m0014]]  [[cbeta:T/T85n2800/T85n2800.org][T85n2800]] 廣百論疏卷第一
+*** KR6m0016 [[mandoku:ZB6m0014.org][ZB6m0014]]  [[cbeta:T/T85n2800/T85n2800.org][T85n2800]] 廣百論疏卷第一
 :PROPERTIES: 
 :CBETA_ID:  T85n2800
 :RELATED: T30n1571@論
@@ -688,7 +688,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0015.org][ZB6m0015]]  [[cbeta:T/T30n1572/T30n1572.org][T30n1572]] 百字論
+*** KR6m0017 [[mandoku:ZB6m0015.org][ZB6m0015]]  [[cbeta:T/T30n1572/T30n1572.org][T30n1572]] 百字論
 :PROPERTIES: 
 :CBETA_ID:  T30n1572
 :GENRE: 論
@@ -739,7 +739,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0016.org][ZB6m0016]]  [[cbeta:T/T30n1573/T30n1573.org][T30n1573]] 壹輸盧迦論
+*** KR6m0018 [[mandoku:ZB6m0016.org][ZB6m0016]]  [[cbeta:T/T30n1573/T30n1573.org][T30n1573]] 壹輸盧迦論
 :PROPERTIES: 
 :CBETA_ID:  T30n1573
 :GENRE: 論
@@ -790,7 +790,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0017.org][ZB6m0017]]  [[cbeta:T/T30n1574/T30n1574.org][T30n1574]] 大乘破有論
+*** KR6m0019 [[mandoku:ZB6m0017.org][ZB6m0017]]  [[cbeta:T/T30n1574/T30n1574.org][T30n1574]] 大乘破有論
 :PROPERTIES: 
 :CBETA_ID:  T30n1574
 :GENRE: 論
@@ -826,7 +826,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit12
 :END:
 
-*** [[mandoku:ZB6m0018.org][ZB6m0018]]  [[cbeta:T/T30n1575/T30n1575.org][T30n1575]] 六十頌如理論
+*** KR6m0020 [[mandoku:ZB6m0018.org][ZB6m0018]]  [[cbeta:T/T30n1575/T30n1575.org][T30n1575]] 六十頌如理論
 :PROPERTIES: 
 :CBETA_ID:  T30n1575
 :GENRE: 論
@@ -877,7 +877,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0019.org][ZB6m0019]]  [[cbeta:T/T30n1576/T30n1576.org][T30n1576]] 大乘二十頌論
+*** KR6m0021 [[mandoku:ZB6m0019.org][ZB6m0019]]  [[cbeta:T/T30n1576/T30n1576.org][T30n1576]] 大乘二十頌論
 :PROPERTIES: 
 :CBETA_ID:  T30n1576
 :GENRE: 論
@@ -928,7 +928,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0020.org][ZB6m0020]]  [[cbeta:T/T30n1577/T30n1577.org][T30n1577]] 大丈夫論
+*** KR6m0022 [[mandoku:ZB6m0020.org][ZB6m0020]]  [[cbeta:T/T30n1577/T30n1577.org][T30n1577]] 大丈夫論
 :PROPERTIES: 
 :CBETA_ID:  T30n1577
 :GENRE: 論
@@ -979,7 +979,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** [[mandoku:ZB6m0021.org][ZB6m0021]]  [[cbeta:T/T30n1578/T30n1578.org][T30n1578]] 大乘掌珍論
+*** KR6m0023 [[mandoku:ZB6m0021.org][ZB6m0021]]  [[cbeta:T/T30n1578/T30n1578.org][T30n1578]] 大乘掌珍論
 :PROPERTIES: 
 :CBETA_ID:  T30n1578
 :RELATED: T65n2258@疏
@@ -1031,7 +1031,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit25
 :END:
 
-*** T65n2258 掌珍量†
+*** KR6m0024 T65n2258 掌珍量†
 :PROPERTIES:
 :CBETA_ID: T65n2258
 :RELATED: T30n1578@論
@@ -1041,7 +1041,7 @@ This text is assembled from two sources, need to handle this carefully!
 :EXTENT: I
 :END:
 [[img:T/T65/02/T65-0266.tif][T65, p.266]]
-*** [[mandoku:ZB6m0022.org][ZB6m0022]]  [[cbeta:X/X46n0788/X46n0788.org][X46n0788]] 掌珍論疏
+*** KR6m0025 [[mandoku:ZB6m0022.org][ZB6m0022]]  [[cbeta:X/X46n0788/X46n0788.org][X46n0788]] 掌珍論疏
 :PROPERTIES: 
 :CBETA_ID:  X46n0788
 :GENRE: 疏
@@ -1061,7 +1061,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0023.org][ZB6m0023]]  [[cbeta:T/T45n1852/T45n1852.org][T45n1852]] 三論玄義
+*** KR6m0026 [[mandoku:ZB6m0023.org][ZB6m0023]]  [[cbeta:T/T45n1852/T45n1852.org][T45n1852]] 三論玄義
 :PROPERTIES: 
 :CBETA_ID:  T45n1852
 :RELATED: T70n2300@諸宗, T70n2301@諸宗, T70n2302@諸宗
@@ -1098,7 +1098,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** T70n2299 三論玄疏文義要
+*** KR6m0027 T70n2299 三論玄疏文義要
 :PROPERTIES:
 :CBETA_ID: T70n2299
 :GENRE: 諸宗
@@ -1112,7 +1112,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** T70n2300 三論玄義檢幽集
+*** KR6m0028 T70n2300 三論玄義檢幽集
 :PROPERTIES:
 :CBETA_ID: T70n2300
 :RELATED: T45n1852@諸宗, T70n2301@諸宗, T70n2302@諸宗
@@ -1127,7 +1127,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Chōzen
 :END:
-*** T70n2301 三論玄義鈔
+*** KR6m0029 T70n2301 三論玄義鈔
 :PROPERTIES:
 :CBETA_ID: T70n2301
 :RELATED: T45n1852@諸宗, T70n2300@諸宗, T70n2302@諸宗
@@ -1142,7 +1142,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Jōkai
 :END:
-*** T70n2302 三論玄義誘蒙
+*** KR6m0030 T70n2302 三論玄義誘蒙
 :PROPERTIES:
 :CBETA_ID: T70n2302
 :RELATED: T45n1852@諸宗, T70n2300@諸宗, T70n2301@諸宗
@@ -1157,7 +1157,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Monshō
 :END:
-*** [[mandoku:ZB6m0024.org][ZB6m0024]]  [[cbeta:T/T45n1853/T45n1853.org][T45n1853]] 大乘玄論
+*** KR6m0031 [[mandoku:ZB6m0024.org][ZB6m0024]]  [[cbeta:T/T45n1853/T45n1853.org][T45n1853]] 大乘玄論
 :PROPERTIES: 
 :CBETA_ID:  T45n1853
 :RELATED: T70n2303@諸宗
@@ -1189,7 +1189,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** T70n2303 大乘玄問答
+*** KR6m0032 T70n2303 大乘玄問答
 :PROPERTIES:
 :CBETA_ID: T70n2303
 :RELATED: T45n1853@諸宗, T70n2304@諸宗
@@ -1204,7 +1204,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** T70n2304 一乘義私記
+*** KR6m0033 T70n2304 一乘義私記
 :PROPERTIES:
 :CBETA_ID: T70n2304
 :RELATED: T45n1853@諸宗, T70n2303@諸宗
@@ -1219,7 +1219,7 @@ This text is assembled from two sources, need to handle this carefully!
 :PROPERTIES:
 :lang@ja-rom: Chinkai
 :END:
-*** [[mandoku:ZB6m0025.org][ZB6m0025]]  [[cbeta:T/T45n1854/T45n1854.org][T45n1854]] 二諦義
+*** KR6m0034 [[mandoku:ZB6m0025.org][ZB6m0025]]  [[cbeta:T/T45n1854/T45n1854.org][T45n1854]] 二諦義
 :PROPERTIES: 
 :CBETA_ID:  T45n1854
 :GENRE: 諸宗
@@ -1255,7 +1255,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0026.org][ZB6m0026]]  [[cbeta:T/T45n1855/T45n1855.org][T45n1855]] 三論遊意義
+*** KR6m0035 [[mandoku:ZB6m0026.org][ZB6m0026]]  [[cbeta:T/T45n1855/T45n1855.org][T45n1855]] 三論遊意義
 :PROPERTIES: 
 :CBETA_ID:  T45n1855
 :GENRE: 諸宗
@@ -1286,7 +1286,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0027.org][ZB6m0027]]  [[cbeta:T/T45n1856/T45n1856.org][T45n1856]] 鳩摩羅什法師大義
+*** KR6m0036 [[mandoku:ZB6m0027.org][ZB6m0027]]  [[cbeta:T/T45n1856/T45n1856.org][T45n1856]] 鳩摩羅什法師大義
 :PROPERTIES: 
 :CBETA_ID:  T45n1856
 :GENRE: 諸宗
@@ -1321,7 +1321,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0028.org][ZB6m0028]]  [[cbeta:T/T45n1857/T45n1857.org][T45n1857]] 寶藏論
+*** KR6m0037 [[mandoku:ZB6m0028.org][ZB6m0028]]  [[cbeta:T/T45n1857/T45n1857.org][T45n1857]] 寶藏論
 :PROPERTIES: 
 :CBETA_ID:  T45n1857
 :GENRE: 諸宗
@@ -1352,7 +1352,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6m0029.org][ZB6m0029]]  [[cbeta:T/T45n1858/T45n1858.org][T45n1858]] 肇論
+*** KR6m0038 [[mandoku:ZB6m0029.org][ZB6m0029]]  [[cbeta:T/T45n1858/T45n1858.org][T45n1858]] 肇論
 :PROPERTIES: 
 :CBETA_ID:  T45n1858
 :RELATED: T45n1859@諸宗, T45n1860@諸宗
@@ -1384,7 +1384,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit6
 :END:
 
-*** [[mandoku:ZB6m0030.org][ZB6m0030]]  [[cbeta:T/T45n1859/T45n1859.org][T45n1859]] 肇論疏
+*** KR6m0039 [[mandoku:ZB6m0030.org][ZB6m0030]]  [[cbeta:T/T45n1859/T45n1859.org][T45n1859]] 肇論疏
 :PROPERTIES: 
 :CBETA_ID:  T45n1859
 :RELATED: T45n1858@諸宗
@@ -1421,7 +1421,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit13
 :END:
 
-*** [[mandoku:ZB6m0031.org][ZB6m0031]]  [[cbeta:T/T45n1860/T45n1860.org][T45n1860]] 肇論新疏
+*** KR6m0040 [[mandoku:ZB6m0031.org][ZB6m0031]]  [[cbeta:T/T45n1860/T45n1860.org][T45n1860]] 肇論新疏
 :PROPERTIES: 
 :CBETA_ID:  T45n1860
 :RELATED: T45n1858@諸宗
@@ -1453,7 +1453,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit49
 :END:
 
-*** [[mandoku:ZB6m0032.org][ZB6m0032]]  [[cbeta:X/X54n0866/X54n0866.org][X54n0866]] 肇論疏
+*** KR6m0041 [[mandoku:ZB6m0032.org][ZB6m0032]]  [[cbeta:X/X54n0866/X54n0866.org][X54n0866]] 肇論疏
 :PROPERTIES: 
 :CBETA_ID:  X54n0866
 :GENRE: 諸宗
@@ -1479,7 +1479,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0033.org][ZB6m0033]]  [[cbeta:X/X54n0868/X54n0868.org][X54n0868]] 肇論疏科
+*** KR6m0042 [[mandoku:ZB6m0033.org][ZB6m0033]]  [[cbeta:X/X54n0868/X54n0868.org][X54n0868]] 肇論疏科
 :PROPERTIES: 
 :CBETA_ID:  X54n0868
 :GENRE: 諸宗
@@ -1505,7 +1505,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0034.org][ZB6m0034]]  [[cbeta:X/X54n0869/X54n0869.org][X54n0869]] 夾科肇論序注
+*** KR6m0043 [[mandoku:ZB6m0034.org][ZB6m0034]]  [[cbeta:X/X54n0869/X54n0869.org][X54n0869]] 夾科肇論序注
 :PROPERTIES: 
 :CBETA_ID:  X54n0869
 :GENRE: 諸宗
@@ -1531,7 +1531,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0035.org][ZB6m0035]]  [[cbeta:X/X54n0870/X54n0870.org][X54n0870]] 注肇論疏
+*** KR6m0044 [[mandoku:ZB6m0035.org][ZB6m0035]]  [[cbeta:X/X54n0870/X54n0870.org][X54n0870]] 注肇論疏
 :PROPERTIES: 
 :CBETA_ID:  X54n0870
 :GENRE: 諸宗
@@ -1557,7 +1557,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0036.org][ZB6m0036]]  [[cbeta:X/X54n0872/X54n0872.org][X54n0872]] 肇論新疏游刃
+*** KR6m0045 [[mandoku:ZB6m0036.org][ZB6m0036]]  [[cbeta:X/X54n0872/X54n0872.org][X54n0872]] 肇論新疏游刃
 :PROPERTIES: 
 :CBETA_ID:  X54n0872
 :GENRE: 諸宗
@@ -1583,7 +1583,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0037.org][ZB6m0037]]  [[cbeta:X/X54n0873/X54n0873.org][X54n0873]] 肇論略註
+*** KR6m0046 [[mandoku:ZB6m0037.org][ZB6m0037]]  [[cbeta:X/X54n0873/X54n0873.org][X54n0873]] 肇論略註
 :PROPERTIES: 
 :CBETA_ID:  X54n0873
 :GENRE: 諸宗
@@ -1609,7 +1609,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0038.org][ZB6m0038]]  [[cbeta:X/X54n0878/X54n0878.org][X54n0878]] 物不遷正量證
+*** KR6m0047 [[mandoku:ZB6m0038.org][ZB6m0038]]  [[cbeta:X/X54n0878/X54n0878.org][X54n0878]] 物不遷正量證
 :PROPERTIES: 
 :CBETA_ID:  X54n0878
 :GENRE: 諸宗
@@ -1635,7 +1635,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0039.org][ZB6m0039]]  [[cbeta:X/X54n0879/X54n0879.org][X54n0879]] 物不遷正量論
+*** KR6m0048 [[mandoku:ZB6m0039.org][ZB6m0039]]  [[cbeta:X/X54n0879/X54n0879.org][X54n0879]] 物不遷正量論
 :PROPERTIES: 
 :CBETA_ID:  X54n0879
 :GENRE: 諸宗
@@ -1661,7 +1661,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0040.org][ZB6m0040]]  [[cbeta:X/X54n0880/X54n0880.org][X54n0880]] 物不遷論辯解
+*** KR6m0049 [[mandoku:ZB6m0040.org][ZB6m0040]]  [[cbeta:X/X54n0880/X54n0880.org][X54n0880]] 物不遷論辯解
 :PROPERTIES: 
 :CBETA_ID:  X54n0880
 :GENRE: 諸宗
@@ -1687,7 +1687,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0041.org][ZB6m0041]]  [[cbeta:X/X46n0784/X46n0784.org][X46n0784]] 大乘四論玄義
+*** KR6m0050 [[mandoku:ZB6m0041.org][ZB6m0041]]  [[cbeta:X/X46n0784/X46n0784.org][X46n0784]] 大乘四論玄義
 :PROPERTIES: 
 :CBETA_ID:  X46n0784
 :GENRE: 疏
@@ -1713,7 +1713,7 @@ This text is assembled from two sources, need to handle this carefully!
 :WITID: wit99
 :END:
 
-*** [[mandoku:ZB6m0042.org][ZB6m0042]]  [[cbeta:X/X54n0876/X54n0876.org][X54n0876]] 三論略章
+*** KR6m0051 [[mandoku:ZB6m0042.org][ZB6m0042]]  [[cbeta:X/X54n0876/X54n0876.org][X54n0876]] 三論略章
 :PROPERTIES: 
 :CBETA_ID:  X54n0876
 :GENRE: 諸宗
