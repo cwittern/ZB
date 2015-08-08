@@ -166,7 +166,49 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0007 [[mandoku:ZB4b0118.org][ZB4b0118]] 小畜集
+
+*** KR4d0007 [[mandoku:ZB3m0006.org][ZB3m0006]] 法藏碎金錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0006
+:SOURCE:   四庫全書 文淵閣版, V1052.2, p425
+:EXTENT: 10 卷
+:BOOK:   8
+:DATE:   980
+:END:
+**** responsible:
+***** 晁迥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+**** textual witnesses
+***** WYG
+*** KR4d0008 [[mandoku:ZB3m0007.org][ZB3m0007]] 道院集要
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0007
+:SOURCE:   四庫全書 文淵閣版, V1052.3, p611
+:EXTENT: 3 卷
+:BOOK:   1
+:DATE:   980
+:END:
+**** responsible:
+***** 晁迥
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 撰
+      :END:
+
+***** 王古
+      :PROPERTIES:
+      :DYNASTY:  宋
+      :FUNCTION: 編
+      :END:
+
+**** textual witnesses
+***** WYG
+
+*** KR4d0009 [[mandoku:ZB4b0118.org][ZB4b0118]] 小畜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0118
 :SOURCE:   四庫全書 文淵閣版, V1086.1, p1
@@ -184,7 +226,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0008 SB14n187 王黃州小畜外集殘
+*** KR4d0010 SB14n187 王黃州小畜外集殘
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n187
@@ -210,7 +252,7 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB14n187/SB14n187_001-002.tif][冊 1]]
-*** KR4d0009 [[mandoku:ZB4b0119.org][ZB4b0119]] 南陽集
+*** KR4d0011 [[mandoku:ZB4b0119.org][ZB4b0119]] 南陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0119
 :SOURCE:   四庫全書 文淵閣版, V1086.2, p303
@@ -228,7 +270,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0010 [[mandoku:ZB4b0120.org][ZB4b0120]] 武夷新集
+*** KR4d0012 [[mandoku:ZB4b0120.org][ZB4b0120]] 武夷新集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0120
 :SOURCE:   四庫全書 文淵閣版, V1086.3, p351
@@ -246,7 +288,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0011 [[mandoku:ZB4b0121.org][ZB4b0121]] 林和靖集
+*** KR4d0013 [[mandoku:ZB4b0121.org][ZB4b0121]] 林和靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0121
 :SOURCE:   四庫全書 文淵閣版, V1086.4, p615
@@ -264,7 +306,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0012 [[mandoku:ZB4b0122.org][ZB4b0122]] 穆參軍集
+*** KR4d0014 [[mandoku:ZB4b0122.org][ZB4b0122]] 穆參軍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0122
 :SOURCE:   四庫全書 文淵閣版, V1087.1, p1
@@ -289,7 +331,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0013 SB14n189 河南穆公集
+*** KR4d0015 SB14n189 河南穆公集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n189
@@ -323,7 +365,7 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB14n189/SB14n189_001-002.tif][冊 1]]
-*** KR4d0014 [[mandoku:ZB4b0123.org][ZB4b0123]] 元獻遺文
+*** KR4d0016 [[mandoku:ZB4b0123.org][ZB4b0123]] 元獻遺文
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0123
 :SOURCE:   四庫全書 文淵閣版, V1087.2, p31
@@ -347,7 +389,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0015 [[mandoku:ZB4b0124.org][ZB4b0124]] 文莊集
+*** KR4d0017 [[mandoku:ZB4b0124.org][ZB4b0124]] 文莊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0124
 :SOURCE:   四庫全書 文淵閣版, V1087.3, p45
@@ -365,7 +407,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0016 [[mandoku:ZB4b0125.org][ZB4b0125]] 春卿遺稿
+*** KR4d0018 [[mandoku:ZB4b0125.org][ZB4b0125]] 春卿遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0125
 :SOURCE:   四庫全書 文淵閣版, V1087.4, p339
@@ -395,7 +437,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0017 [[mandoku:ZB4b0126.org][ZB4b0126]] 東觀集
+*** KR4d0019 [[mandoku:ZB4b0126.org][ZB4b0126]] 東觀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0126
 :SOURCE:   四庫全書 文淵閣版, V1087.5, p349
@@ -413,7 +455,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0018 [[mandoku:ZB4b0127.org][ZB4b0127]] 元憲集
+*** KR4d0020 [[mandoku:ZB4b0127.org][ZB4b0127]] 元憲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0127
 :SOURCE:   四庫全書 文淵閣版, V1087.6, p401
@@ -431,7 +473,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0019 [[mandoku:ZB4b0128.org][ZB4b0128]] 景文集
+*** KR4d0021 [[mandoku:ZB4b0128.org][ZB4b0128]] 景文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0128
 :SOURCE:   四庫全書 文淵閣版, V1088.1, p1
@@ -449,7 +491,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0020 [[mandoku:ZB4b0129.org][ZB4b0129]] 文恭集
+*** KR4d0022 [[mandoku:ZB4b0129.org][ZB4b0129]] 文恭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0129
 :SOURCE:   四庫全書 文淵閣版, V1088.2, p609
@@ -467,7 +509,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0021 [[mandoku:ZB4b0130.org][ZB4b0130]] 武溪集
+*** KR4d0023 [[mandoku:ZB4b0130.org][ZB4b0130]] 武溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0130
 :SOURCE:   四庫全書 文淵閣版, V1089.1, p1
@@ -491,7 +533,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0022 [[mandoku:ZB4b0131.org][ZB4b0131]] 安陽集
+*** KR4d0024 [[mandoku:ZB4b0131.org][ZB4b0131]] 安陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0131
 :SOURCE:   四庫全書 文淵閣版, V1089.2, p215
@@ -509,7 +551,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0023 [[mandoku:ZB4b0132.org][ZB4b0132]] 范文正集
+*** KR4d0025 [[mandoku:ZB4b0132.org][ZB4b0132]] 范文正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0132
 :SOURCE:   四庫全書 文淵閣版, V1089.3, p551
@@ -553,7 +595,7 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4d0024 [[mandoku:ZB4b0133.org][ZB4b0133]] 河南集
+*** KR4d0026 [[mandoku:ZB4b0133.org][ZB4b0133]] 河南集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0133
 :SOURCE:   四庫全書 文淵閣版, V1090.1, p1
@@ -578,7 +620,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0025 [[mandoku:ZB4b0134.org][ZB4b0134]] 孫明復小集
+*** KR4d0027 [[mandoku:ZB4b0134.org][ZB4b0134]] 孫明復小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0134
 :SOURCE:   四庫全書 文淵閣版, V1090.2, p157
@@ -596,7 +638,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0026 [[mandoku:ZB4b0135.org][ZB4b0135]] 徂徠集
+*** KR4d0028 [[mandoku:ZB4b0135.org][ZB4b0135]] 徂徠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0135
 :SOURCE:   四庫全書 文淵閣版, V1090.3, p181
@@ -621,7 +663,7 @@
       :BOOK:   (7)
       :END:
 
-*** KR4d0027 [[mandoku:ZB4b0136.org][ZB4b0136]] 端明集
+*** KR4d0029 [[mandoku:ZB4b0136.org][ZB4b0136]] 端明集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0136
 :SOURCE:   四庫全書 文淵閣版, V1090.4, p337
@@ -639,7 +681,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0028 [[mandoku:ZB4b0137.org][ZB4b0137]] 祠部集
+*** KR4d0030 [[mandoku:ZB4b0137.org][ZB4b0137]] 祠部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0137
 :SOURCE:   四庫全書 文淵閣版, V1091.1, p1
@@ -657,7 +699,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0029 [[mandoku:ZB4b0138.org][ZB4b0138]] 鐔津集
+*** KR4d0031 [[mandoku:ZB4b0138.org][ZB4b0138]] 鐔津集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0138
 :SOURCE:   四庫全書 文淵閣版, V1091.2, p397
@@ -675,7 +717,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0030 [[mandoku:ZB4b0139.org][ZB4b0139]] 祖英集
+*** KR4d0032 [[mandoku:ZB4b0139.org][ZB4b0139]] 祖英集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0139
 :SOURCE:   四庫全書 文淵閣版, V1091.3, p641
@@ -693,7 +735,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0031 SB24n376 雪竇顯和尚明覺大師頌古集
+*** KR4d0033 SB24n376 雪竇顯和尚明覺大師頌古集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n376
@@ -723,7 +765,7 @@
 **** 电子版
 [[krpimg:sbck/SB2/SB24n376/SB24n376_001-002.tif][冊 1]] fix pages
 [[krpimg:sbck/SB2/SB24n376/SB24n376_002-002.tif][冊 2]]
-*** KR4d0032 [[mandoku:ZB4b0140.org][ZB4b0140]] 蘇學士集
+*** KR4d0034 [[mandoku:ZB4b0140.org][ZB4b0140]] 蘇學士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0140
 :SOURCE:   四庫全書 文淵閣版, V1092.1, p1
@@ -741,7 +783,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0033 [[mandoku:ZB4b0141.org][ZB4b0141]] 蘇魏公文集
+*** KR4d0035 [[mandoku:ZB4b0141.org][ZB4b0141]] 蘇魏公文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0141
 :SOURCE:   四庫全書 文淵閣版, V1092.2, p127
@@ -765,7 +807,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0034 SB34n447 沈氏三先生文集
+*** KR4d0036 SB34n447 沈氏三先生文集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB34n447
@@ -798,7 +840,7 @@
 [[krpimg:sbck/SB3/SB34n447/SB34n447_006-002.tif][冊 6]]
 [[krpimg:sbck/SB3/SB34n447/SB34n447_007-002.tif][冊 7]]
 [[krpimg:sbck/SB3/SB34n447/SB34n447_008-002.tif][冊 8]]
-*** KR4d0035 [[mandoku:ZB4b0142.org][ZB4b0142]] 伐檀集
+*** KR4d0037 [[mandoku:ZB4b0142.org][ZB4b0142]] 伐檀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0142
 :SOURCE:   四庫全書 文淵閣版, V1092.3, p761
@@ -815,7 +857,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0036 [[mandoku:ZB4b0143.org][ZB4b0143]] 華陽集
+*** KR4d0038 [[mandoku:ZB4b0143.org][ZB4b0143]] 華陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0143
 :SOURCE:   四庫全書 文淵閣版, V1093.1, p1
@@ -840,7 +882,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0037 [[mandoku:ZB4b0144.org][ZB4b0144]] 古靈集
+*** KR4d0039 [[mandoku:ZB4b0144.org][ZB4b0144]] 古靈集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0144
 :SOURCE:   四庫全書 文淵閣版, V1093.2, p497
@@ -871,7 +913,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0038 [[mandoku:ZB4b0145.org][ZB4b0145]] 傳家集
+*** KR4d0040 [[mandoku:ZB4b0145.org][ZB4b0145]] 傳家集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0145
 :SOURCE:   四庫全書 文淵閣版, V1094.1, p1
@@ -889,7 +931,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0039 [[mandoku:ZB4b0146.org][ZB4b0146]] 清獻集
+*** KR4d0041 [[mandoku:ZB4b0146.org][ZB4b0146]] 清獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0146
 :SOURCE:   四庫全書 文淵閣版, V1094.2, p739
@@ -907,7 +949,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0040 [[mandoku:ZB4b0147.org][ZB4b0147]] 盱江集
+*** KR4d0042 [[mandoku:ZB4b0147.org][ZB4b0147]] 盱江集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0147
 :SOURCE:   四庫全書 文淵閣版, V1095.1, p1
@@ -951,7 +993,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0041 [[mandoku:ZB4b0148.org][ZB4b0148]] 金氏文集
+*** KR4d0043 [[mandoku:ZB4b0148.org][ZB4b0148]] 金氏文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0148
 :SOURCE:   四庫全書 文淵閣版, V1095.2, p351
@@ -969,7 +1011,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0042 [[mandoku:ZB4b0149.org][ZB4b0149]] 公是集
+*** KR4d0044 [[mandoku:ZB4b0149.org][ZB4b0149]] 公是集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0149
 :SOURCE:   四庫全書 文淵閣版, V1095.3, p401
@@ -987,7 +1029,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0043 [[mandoku:ZB4b0150.org][ZB4b0150]] 彭城集
+*** KR4d0045 [[mandoku:ZB4b0150.org][ZB4b0150]] 彭城集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0150
 :SOURCE:   四庫全書 文淵閣版, V1096.1, p1
@@ -1005,7 +1047,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0044 [[mandoku:ZB4b0151.org][ZB4b0151]] 邕州小集
+*** KR4d0046 [[mandoku:ZB4b0151.org][ZB4b0151]] 邕州小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0151
 :SOURCE:   四庫全書 文淵閣版, V1096.2, p393
@@ -1023,7 +1065,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0045 [[mandoku:ZB4b0152.org][ZB4b0152]] 都官集
+*** KR4d0047 [[mandoku:ZB4b0152.org][ZB4b0152]] 都官集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0152
 :SOURCE:   四庫全書 文淵閣版, V1096.3, p405
@@ -1041,7 +1083,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0046 [[mandoku:ZB4b0153.org][ZB4b0153]] 丹淵集
+*** KR4d0048 [[mandoku:ZB4b0153.org][ZB4b0153]] 丹淵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0153
 :SOURCE:   四庫全書 文淵閣版, V1096.4, p553
@@ -1072,7 +1114,7 @@
       :BOOK:   (10)
       :END:
 
-*** KR4d0047 [[mandoku:ZB4b0154.org][ZB4b0154]] 西溪集
+*** KR4d0049 [[mandoku:ZB4b0154.org][ZB4b0154]] 西溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0154
 :SOURCE:   四庫全書 文淵閣版, V1097.1, p1
@@ -1090,7 +1132,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0048 [[mandoku:ZB4b0155.org][ZB4b0155]] 鄖溪集
+*** KR4d0050 [[mandoku:ZB4b0155.org][ZB4b0155]] 鄖溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0155
 :SOURCE:   四庫全書 文淵閣版, V1097.2, p109
@@ -1108,7 +1150,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0049 [[mandoku:ZB4b0156.org][ZB4b0156]] 錢塘集
+*** KR4d0051 [[mandoku:ZB4b0156.org][ZB4b0156]] 錢塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0156
 :SOURCE:   四庫全書 文淵閣版, V1097.3, p379
@@ -1126,7 +1168,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0050 [[mandoku:ZB4b0157.org][ZB4b0157]] 淨德集
+*** KR4d0052 [[mandoku:ZB4b0157.org][ZB4b0157]] 淨德集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0157
 :SOURCE:   四庫全書 文淵閣版, V1098.1, p1
@@ -1144,7 +1186,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0051 [[mandoku:ZB4b0158.org][ZB4b0158]] 安岳集
+*** KR4d0053 [[mandoku:ZB4b0158.org][ZB4b0158]] 安岳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0158
 :SOURCE:   四庫全書 文淵閣版, V1098.2, p289
@@ -1162,7 +1204,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0052 [[mandoku:ZB4b0159.org][ZB4b0159]] 元豐類藁
+*** KR4d0054 [[mandoku:ZB4b0159.org][ZB4b0159]] 元豐類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0159
 :SOURCE:   四庫全書 文淵閣版, V1098.3, p345
@@ -1187,7 +1229,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0053 [[mandoku:ZB4b0160.org][ZB4b0160]] 龍學文集
+*** KR4d0055 [[mandoku:ZB4b0160.org][ZB4b0160]] 龍學文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0160
 :SOURCE:   四庫全書 文淵閣版, V1098.4, p791
@@ -1218,7 +1260,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0054 [[mandoku:ZB4b0161.org][ZB4b0161]] 宛陵集
+*** KR4d0056 [[mandoku:ZB4b0161.org][ZB4b0161]] 宛陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0161
 :SOURCE:   四庫全書 文淵閣版, V1099.1, p1
@@ -1250,7 +1292,7 @@
       :BOOK:   (20)
       :END:
 
-*** KR4d0055 [[mandoku:ZB4b0162.org][ZB4b0162]] 忠肅集
+*** KR4d0057 [[mandoku:ZB4b0162.org][ZB4b0162]] 忠肅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0162
 :SOURCE:   四庫全書 文淵閣版, V1099.2, p443
@@ -1268,7 +1310,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0056 [[mandoku:ZB4b0163.org][ZB4b0163]] 無爲集
+*** KR4d0058 [[mandoku:ZB4b0163.org][ZB4b0163]] 無爲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0163
 :SOURCE:   四庫全書 文淵閣版, V1099.3, p679
@@ -1291,7 +1333,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0057 [[mandoku:ZB4b0164.org][ZB4b0164]] 王魏公集
+*** KR4d0059 [[mandoku:ZB4b0164.org][ZB4b0164]] 王魏公集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0164
 :SOURCE:   四庫全書 文淵閣版, V1100.1, p1
@@ -1308,7 +1350,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0058 [[mandoku:ZB4b0165.org][ZB4b0165]] 范太史集
+*** KR4d0060 [[mandoku:ZB4b0165.org][ZB4b0165]] 范太史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0165
 :SOURCE:   四庫全書 文淵閣版, V1100.2, p83
@@ -1326,7 +1368,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0059 [[mandoku:ZB4b0166.org][ZB4b0166]] 潞公文集
+*** KR4d0061 [[mandoku:ZB4b0166.org][ZB4b0166]] 潞公文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0166
 :SOURCE:   四庫全書 文淵閣版, V1100.3, p573
@@ -1344,7 +1386,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0060 [[mandoku:ZB4b0167.org][ZB4b0167]] 擊壤集
+*** KR4d0062 [[mandoku:ZB4b0167.org][ZB4b0167]] 擊壤集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0167
 :SOURCE:   四庫全書 文淵閣版, V1101.1, p1
@@ -1362,7 +1404,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0061 [[mandoku:ZB4b0168.org][ZB4b0168]] 鄱陽集
+*** KR4d0063 [[mandoku:ZB4b0168.org][ZB4b0168]] 鄱陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0168
 :SOURCE:   四庫全書 文淵閣版, V1101.2, p173
@@ -1380,7 +1422,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0062 [[mandoku:ZB4b0169.org][ZB4b0169]] 曲阜集
+*** KR4d0064 [[mandoku:ZB4b0169.org][ZB4b0169]] 曲阜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0169
 :SOURCE:   四庫全書 文淵閣版, V1101.3, p325
@@ -1404,7 +1446,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0063 [[mandoku:ZB4b0170.org][ZB4b0170]] 周元公集
+*** KR4d0065 [[mandoku:ZB4b0170.org][ZB4b0170]] 周元公集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0170
 :SOURCE:   四庫全書 文淵閣版, V1101.4, p415
@@ -1428,7 +1470,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0064 [[mandoku:ZB4b0171.org][ZB4b0171]] 南陽集
+*** KR4d0066 [[mandoku:ZB4b0171.org][ZB4b0171]] 南陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0171
 :SOURCE:   四庫全書 文淵閣版, V1101.5, p503
@@ -1460,7 +1502,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0065 [[mandoku:ZB4b0172.org][ZB4b0172]] 節孝集
+*** KR4d0067 [[mandoku:ZB4b0172.org][ZB4b0172]] 節孝集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0172
 :SOURCE:   四庫全書 文淵閣版, V1101.6, p779
@@ -1478,7 +1520,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0066 [[mandoku:ZB4b0173.org][ZB4b0173]] 文忠集
+*** KR4d0068 [[mandoku:ZB4b0173.org][ZB4b0173]] 文忠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0173
 :SOURCE:   四庫全書 文淵閣版, V1102.1, p1 - V1103.1
@@ -1523,7 +1565,7 @@
       :BOOK:   (34)
       :END:
 
-*** KR4d0067 [[mandoku:ZB4b0174.org][ZB4b0174]] 歐陽文粹
+*** KR4d0069 [[mandoku:ZB4b0174.org][ZB4b0174]] 歐陽文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0174
 :SOURCE:   四庫全書 文淵閣版, V1103.2, p643
@@ -1555,7 +1597,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0068 [[mandoku:ZB4b0175.org][ZB4b0175]] 樂全集
+*** KR4d0070 [[mandoku:ZB4b0175.org][ZB4b0175]] 樂全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0175
 :SOURCE:   四庫全書 文淵閣版, V1104.1, p1
@@ -1580,7 +1622,7 @@
       :BOOK:   (22)
       :END:
 
-*** KR4d0069 [[mandoku:ZB4b0176.org][ZB4b0176]] 范忠宣集
+*** KR4d0071 [[mandoku:ZB4b0176.org][ZB4b0176]] 范忠宣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0176
 :SOURCE:   四庫全書 文淵閣版, V1104.2, p541
@@ -1632,7 +1674,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0070 [[mandoku:ZB4b0177.org][ZB4b0177]] 嘉祐集
+*** KR4d0072 [[mandoku:ZB4b0177.org][ZB4b0177]] 嘉祐集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0177
 :SOURCE:   四庫全書 文淵閣版, V1104.3, p845
@@ -1663,7 +1705,7 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4d0071 [[mandoku:ZB4b0178.org][ZB4b0178]] 臨川文集
+*** KR4d0073 [[mandoku:ZB4b0178.org][ZB4b0178]] 臨川文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0178
 :SOURCE:   四庫全書 文淵閣版, V1105.1, p1
@@ -1681,7 +1723,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0072 [[mandoku:ZB4b0179.org][ZB4b0179]] 王荊公詩注
+*** KR4d0074 [[mandoku:ZB4b0179.org][ZB4b0179]] 王荊公詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0179
 :SOURCE:   四庫全書 文淵閣版, V1106.1, p1
@@ -1706,7 +1748,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0073 [[mandoku:ZB4b0180.org][ZB4b0180]] 廣陵集
+*** KR4d0075 [[mandoku:ZB4b0180.org][ZB4b0180]] 廣陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0180
 :SOURCE:   四庫全書 文淵閣版, V1106.2, p393
@@ -1731,7 +1773,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0074 [[mandoku:ZB4b0181.org][ZB4b0181]] 東坡全集
+*** KR4d0076 [[mandoku:ZB4b0181.org][ZB4b0181]] 東坡全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0181
 :SOURCE:   四庫全書 文淵閣版, V1107.1, p1 - V1108.1
@@ -1782,7 +1824,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0075 [[mandoku:ZB4b0182.org][ZB4b0182]] 東坡詩集註
+*** KR4d0077 [[mandoku:ZB4b0182.org][ZB4b0182]] 東坡詩集註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0182
 :SOURCE:   四庫全書 文淵閣版, V1109.1, p1
@@ -1807,7 +1849,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0076 SB14n202 增刊校正王狀元集註分類東坡先生詩
+*** KR4d0078 SB14n202 增刊校正王狀元集註分類東坡先生詩
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n202
@@ -1855,7 +1897,7 @@
 [[krpimg:sbck/SB1/SB14n202/SB14n202_008-002.tif][冊 8]]
 [[krpimg:sbck/SB1/SB14n202/SB14n202_009-002.tif][冊 9]]
 [[krpimg:sbck/SB1/SB14n202/SB14n202_010-002.tif][冊 10]]
-*** KR4d0077 SB14n203 經進東坡文集事略
+*** KR4d0079 SB14n203 經進東坡文集事略
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n203
@@ -1896,7 +1938,7 @@
 [[krpimg:sbck/SB1/SB14n203/SB14n203_008-002.tif][冊 8]]
 [[krpimg:sbck/SB1/SB14n203/SB14n203_009-002.tif][冊 9]]
 [[krpimg:sbck/SB1/SB14n203/SB14n203_010-002.tif][冊 10]]
-*** KR4d0078 [[mandoku:ZB4b0183.org][ZB4b0183]] 施註蘇詩
+*** KR4d0080 [[mandoku:ZB4b0183.org][ZB4b0183]] 施註蘇詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0183
 :SOURCE:   四庫全書 文淵閣版, V1110.1, p1
@@ -2029,7 +2071,7 @@
       :BOOK:   (26)
       :END:
 
-*** KR4d0079 [[mandoku:ZB4b0184.org][ZB4b0184]] 蘇詩補註
+*** KR4d0081 [[mandoku:ZB4b0184.org][ZB4b0184]] 蘇詩補註
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0184
 :SOURCE:   四庫全書 文淵閣版, V1111.1, p1
@@ -2068,7 +2110,7 @@
       :BOOK:   (40)
       :END:
 
-*** KR4d0080 [[mandoku:ZB4b0185.org][ZB4b0185]] 欒城集
+*** KR4d0082 [[mandoku:ZB4b0185.org][ZB4b0185]] 欒城集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0185
 :SOURCE:   四庫全書 文淵閣版, V1112.1, p1
@@ -2107,7 +2149,7 @@
       :BOOK:   (34)
       :END:
 
-*** KR4d0081 SB14n205 欒城應詔集
+*** KR4d0083 SB14n205 欒城應詔集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n205
@@ -2134,7 +2176,7 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB14n205/SB14n205_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n205/SB14n205_002-002.tif][冊 2]]
-*** KR4d0082 [[mandoku:ZB4b0186.org][ZB4b0186]] 山谷集
+*** KR4d0084 [[mandoku:ZB4b0186.org][ZB4b0186]] 山谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0186
 :SOURCE:   四庫全書 文淵閣版, V1113.1, p1
@@ -2212,7 +2254,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0083 [[mandoku:ZB4b0187.org][ZB4b0187]] 山谷內集詩注
+*** KR4d0085 [[mandoku:ZB4b0187.org][ZB4b0187]] 山谷內集詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0187
 :SOURCE:   四庫全書 文淵閣版, V1114.1, p1
@@ -2244,7 +2286,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0084 [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
+*** KR4d0086 [[mandoku:ZB4b0187b.org][ZB4b0187b]] 山谷外集詩注
      :PROPERTIES:
      :TYPE:   appendix
      :EXTENT: 17 卷
@@ -2279,7 +2321,7 @@
       :FUNCTION: 注
       :END:
 
-*** KR4d0085 [[mandoku:ZB4b0188.org][ZB4b0188]] 後山集
+*** KR4d0087 [[mandoku:ZB4b0188.org][ZB4b0188]] 後山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0188
 :SOURCE:   四庫全書 文淵閣版, V1114.2, p511
@@ -2297,7 +2339,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0086 [[mandoku:ZB4b0189.org][ZB4b0189]] 后山詩注
+*** KR4d0088 [[mandoku:ZB4b0189.org][ZB4b0189]] 后山詩注
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0189
 :SOURCE:   四庫全書 文淵閣版, V1114.3, p741
@@ -2321,7 +2363,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0087 [[mandoku:ZB4b0190.org][ZB4b0190]] 柯山集
+*** KR4d0089 [[mandoku:ZB4b0190.org][ZB4b0190]] 柯山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0190
 :SOURCE:   四庫全書 文淵閣版, V1115.1, p1
@@ -2339,7 +2381,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0088 SB14n208 張右史文集
+*** KR4d0090 SB14n208 張右史文集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n208
@@ -2376,7 +2418,7 @@
 [[krpimg:sbck/SB1/SB14n208/SB14n208_010-002.tif][冊 10]]
 [[krpimg:sbck/SB1/SB14n208/SB14n208_011-002.tif][冊 11]]
 [[krpimg:sbck/SB1/SB14n208/SB14n208_012-002.tif][冊 12]]
-*** KR4d0089 [[mandoku:ZB4b0191.org][ZB4b0191]] 淮海集
+*** KR4d0091 [[mandoku:ZB4b0191.org][ZB4b0191]] 淮海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0191
 :SOURCE:   四庫全書 文淵閣版, V1115.2, p427
@@ -2408,7 +2450,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0090 [[mandoku:ZB4b0192.org][ZB4b0192]] 濟南集
+*** KR4d0092 [[mandoku:ZB4b0192.org][ZB4b0192]] 濟南集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0192
 :SOURCE:   四庫全書 文淵閣版, V1115.3, p701
@@ -2426,7 +2468,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0091 [[mandoku:ZB4b0193.org][ZB4b0193]] 參寥子詩集
+*** KR4d0093 [[mandoku:ZB4b0193.org][ZB4b0193]] 參寥子詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0193
 :SOURCE:   四庫全書 文淵閣版, V1116.1, p1
@@ -2443,7 +2485,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0092 [[mandoku:ZB4b0194.org][ZB4b0194]] 寶晉英光集
+*** KR4d0094 [[mandoku:ZB4b0194.org][ZB4b0194]] 寶晉英光集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0194
 :SOURCE:   四庫全書 文淵閣版, V1116.2, p91
@@ -2461,7 +2503,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0093 [[mandoku:ZB4b0195.org][ZB4b0195]] 石門文字禪
+*** KR4d0095 [[mandoku:ZB4b0195.org][ZB4b0195]] 石門文字禪
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0195
 :SOURCE:   四庫全書 文淵閣版, V1116.3, p143
@@ -2485,7 +2527,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0094 [[mandoku:ZB4b0196.org][ZB4b0196]] 青山集
+*** KR4d0096 [[mandoku:ZB4b0196.org][ZB4b0196]] 青山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0196
 :SOURCE:   四庫全書 文淵閣版, V1116.4, p571
@@ -2509,7 +2551,7 @@
       :BOOK:   (7)
       :END:
 
-*** KR4d0095 [[mandoku:ZB4b0197.org][ZB4b0197]] 青山續集
+*** KR4d0097 [[mandoku:ZB4b0197.org][ZB4b0197]] 青山續集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0197
 :SOURCE:   四庫全書 文淵閣版, V1116.5, p757
@@ -2526,7 +2568,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0096 [[mandoku:ZB4b0198.org][ZB4b0198]] 畫墁集
+*** KR4d0098 [[mandoku:ZB4b0198.org][ZB4b0198]] 畫墁集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0198
 :SOURCE:   四庫全書 文淵閣版, V1117.1, p1
@@ -2543,7 +2585,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0097 [[mandoku:ZB4b0199.org][ZB4b0199]] 陶山集
+*** KR4d0099 [[mandoku:ZB4b0199.org][ZB4b0199]] 陶山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0199
 :SOURCE:   四庫全書 文淵閣版, V1117.2, p55
@@ -2561,7 +2603,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0098 [[mandoku:ZB4b0200.org][ZB4b0200]] 倚松詩集
+*** KR4d0100 [[mandoku:ZB4b0200.org][ZB4b0200]] 倚松詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0200
 :SOURCE:   四庫全書 文淵閣版, V1117.3, p199
@@ -2578,7 +2620,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0099 [[mandoku:ZB4b0201.org][ZB4b0201]] 長興集
+*** KR4d0101 [[mandoku:ZB4b0201.org][ZB4b0201]] 長興集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0201
 :SOURCE:   四庫全書 文淵閣版, V1117.4, p263
@@ -2596,7 +2638,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0100 [[mandoku:ZB4b0202.org][ZB4b0202]] 西塘集
+*** KR4d0102 [[mandoku:ZB4b0202.org][ZB4b0202]] 西塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0202
 :SOURCE:   四庫全書 文淵閣版, V1117.5, p361
@@ -2621,7 +2663,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0101 [[mandoku:ZB4b0203.org][ZB4b0203]] 雲巢編
+*** KR4d0103 [[mandoku:ZB4b0203.org][ZB4b0203]] 雲巢編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0203
 :SOURCE:   四庫全書 文淵閣版, V1117.6, p515
@@ -2639,7 +2681,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0102 [[mandoku:ZB4b0204.org][ZB4b0204]] 景迂生集
+*** KR4d0104 [[mandoku:ZB4b0204.org][ZB4b0204]] 景迂生集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0204
 :SOURCE:   四庫全書 文淵閣版, V1118.1, p1
@@ -2663,7 +2705,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0103 [[mandoku:ZB4b0205.org][ZB4b0205]] 雞肋集
+*** KR4d0105 [[mandoku:ZB4b0205.org][ZB4b0205]] 雞肋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0205
 :SOURCE:   四庫全書 文淵閣版, V1118.2, p407
@@ -2687,7 +2729,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0104 [[mandoku:ZB4b0206.org][ZB4b0206]] 樂圃餘藁
+*** KR4d0106 [[mandoku:ZB4b0206.org][ZB4b0206]] 樂圃餘藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0206
 :SOURCE:   四庫全書 文淵閣版, V1119.1, p1
@@ -2725,7 +2767,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0105 [[mandoku:ZB4b0207.org][ZB4b0207]] 龍雲集
+*** KR4d0107 [[mandoku:ZB4b0207.org][ZB4b0207]] 龍雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0207
 :SOURCE:   四庫全書 文淵閣版, V1119.2, p63
@@ -2757,7 +2799,7 @@
       :END:
 
 # *** [[mandoku:ZB4b0207a.org][ZB4b0207a]] 南宋建炎至德祐
-*** KR4d0106 [[mandoku:ZB4b0208.org][ZB4b0208]] 雲溪居士集
+*** KR4d0108 [[mandoku:ZB4b0208.org][ZB4b0208]] 雲溪居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0208
 :SOURCE:   四庫全書 文淵閣版, V1119.3, p339
@@ -2775,7 +2817,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0107 [[mandoku:ZB4b0209.org][ZB4b0209]] 演山集
+*** KR4d0109 [[mandoku:ZB4b0209.org][ZB4b0209]] 演山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0209
 :SOURCE:   四庫全書 文淵閣版, V1120.1, p1
@@ -2806,7 +2848,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0108 [[mandoku:ZB4b0210.org][ZB4b0210]] 姑溪居士前集
+*** KR4d0110 [[mandoku:ZB4b0210.org][ZB4b0210]] 姑溪居士前集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0210
 :SOURCE:   四庫全書 文淵閣版, V1120.2, p391
@@ -2838,7 +2880,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0109 [[mandoku:ZB4b0211.org][ZB4b0211]] 潏水集
+*** KR4d0111 [[mandoku:ZB4b0211.org][ZB4b0211]] 潏水集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0211
 :SOURCE:   四庫全書 文淵閣版, V1121.1, p1
@@ -2855,7 +2897,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0110 [[mandoku:ZB4b0212.org][ZB4b0212]] 道鄉集
+*** KR4d0112 [[mandoku:ZB4b0212.org][ZB4b0212]] 道鄉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0212
 :SOURCE:   四庫全書 文淵閣版, V1121.2, p161
@@ -2873,7 +2915,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0111 [[mandoku:ZB4b0213.org][ZB4b0213]] 學易集
+*** KR4d0113 [[mandoku:ZB4b0213.org][ZB4b0213]] 學易集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0213
 :SOURCE:   四庫全書 文淵閣版, V1121.3, p533
@@ -2891,7 +2933,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0112 [[mandoku:ZB4b0214.org][ZB4b0214]] 游廌山集
+*** KR4d0114 [[mandoku:ZB4b0214.org][ZB4b0214]] 游廌山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0214
 :SOURCE:   四庫全書 文淵閣版, V1121.4, p627
@@ -2909,7 +2951,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0113 [[mandoku:ZB4b0215.org][ZB4b0215]] 西臺集
+*** KR4d0115 [[mandoku:ZB4b0215.org][ZB4b0215]] 西臺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0215
 :SOURCE:   四庫全書 文淵閣版, V1122.1, p1
@@ -2927,7 +2969,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0114 [[mandoku:ZB4b0216.org][ZB4b0216]] 樂靜集
+*** KR4d0116 [[mandoku:ZB4b0216.org][ZB4b0216]] 樂靜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0216
 :SOURCE:   四庫全書 文淵閣版, V1122.2, p257
@@ -2945,7 +2987,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0115 [[mandoku:ZB4b0217.org][ZB4b0217]] 北湖集
+*** KR4d0117 [[mandoku:ZB4b0217.org][ZB4b0217]] 北湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0217
 :SOURCE:   四庫全書 文淵閣版, V1122.3, p415
@@ -2963,7 +3005,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0116 [[mandoku:ZB4b0218.org][ZB4b0218]] 溪堂集
+*** KR4d0118 [[mandoku:ZB4b0218.org][ZB4b0218]] 溪堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0218
 :SOURCE:   四庫全書 文淵閣版, V1122.4, p473
@@ -2981,7 +3023,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB4b0218a.org][ZB4b0218a]] 溪堂詞
-*** KR4d0117 [[mandoku:ZB4b0219.org][ZB4b0219]] 竹友集
+*** KR4d0119 [[mandoku:ZB4b0219.org][ZB4b0219]] 竹友集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0219
 :SOURCE:   四庫全書 文淵閣版, V1122.5, p559
@@ -3000,7 +3042,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB4b0219a.org][ZB4b0219a]] 北宋建隆至靖康
-*** KR4d0118 [[mandoku:ZB4b0220.org][ZB4b0220]] 日涉園集
+*** KR4d0120 [[mandoku:ZB4b0220.org][ZB4b0220]] 日涉園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0220
 :SOURCE:   四庫全書 文淵閣版, V1122.6, p615
@@ -3017,7 +3059,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0119 [[mandoku:ZB4b0221.org][ZB4b0221]] 灌園集
+*** KR4d0121 [[mandoku:ZB4b0221.org][ZB4b0221]] 灌園集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0221
 :SOURCE:   四庫全書 文淵閣版, V1123.1, p1
@@ -3035,7 +3077,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0120 [[mandoku:ZB4b0222.org][ZB4b0222]] 慶湖遺老詩集
+*** KR4d0122 [[mandoku:ZB4b0222.org][ZB4b0222]] 慶湖遺老詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0222
 :SOURCE:   四庫全書 文淵閣版, V1123.2, p193
@@ -3074,7 +3116,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0121 [[mandoku:ZB4b0223.org][ZB4b0223]] 摛文堂集
+*** KR4d0123 [[mandoku:ZB4b0223.org][ZB4b0223]] 摛文堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0223
 :SOURCE:   四庫全書 文淵閣版, V1123.3, p297
@@ -3099,7 +3141,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0122 [[mandoku:ZB4b0224.org][ZB4b0224]] 襄陵文集
+*** KR4d0124 [[mandoku:ZB4b0224.org][ZB4b0224]] 襄陵文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0224
 :SOURCE:   四庫全書 文淵閣版, V1123.4, p491
@@ -3116,7 +3158,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0123 [[mandoku:ZB4b0225.org][ZB4b0225]] 浮沚集
+*** KR4d0125 [[mandoku:ZB4b0225.org][ZB4b0225]] 浮沚集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0225
 :SOURCE:   四庫全書 文淵閣版, V1123.5, p599
@@ -3134,7 +3176,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0124 [[mandoku:ZB4b0226.org][ZB4b0226]] 東堂集
+*** KR4d0126 [[mandoku:ZB4b0226.org][ZB4b0226]] 東堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0226
 :SOURCE:   四庫全書 文淵閣版, V1123.6, p695
@@ -3151,7 +3193,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0125 [[mandoku:ZB4b0227.org][ZB4b0227]] 給事集
+*** KR4d0127 [[mandoku:ZB4b0227.org][ZB4b0227]] 給事集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0227
 :SOURCE:   四庫全書 文淵閣版, V1124.1, p1
@@ -3169,7 +3211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0126 [[mandoku:ZB4b0228.org][ZB4b0228]] 劉左史集
+*** KR4d0128 [[mandoku:ZB4b0228.org][ZB4b0228]] 劉左史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0228
 :SOURCE:   四庫全書 文淵閣版, V1124.2, p57
@@ -3187,7 +3229,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0127 [[mandoku:ZB4b0229.org][ZB4b0229]] 竹隱畸士集
+*** KR4d0129 [[mandoku:ZB4b0229.org][ZB4b0229]] 竹隱畸士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0229
 :SOURCE:   四庫全書 文淵閣版, V1124.3, p113
@@ -3205,7 +3247,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0128 [[mandoku:ZB4b0230.org][ZB4b0230]] 眉山集
+*** KR4d0130 [[mandoku:ZB4b0230.org][ZB4b0230]] 眉山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0230
 :SOURCE:   四庫全書 文淵閣版, V1124.4, p271
@@ -3235,7 +3277,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0129 [[mandoku:ZB4b0231.org][ZB4b0231]] 洪龜父集
+*** KR4d0131 [[mandoku:ZB4b0231.org][ZB4b0231]] 洪龜父集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0231
 :SOURCE:   四庫全書 文淵閣版, V1124.5, p395
@@ -3253,7 +3295,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0130 [[mandoku:ZB4b0232.org][ZB4b0232]] 跨鼇集
+*** KR4d0132 [[mandoku:ZB4b0232.org][ZB4b0232]] 跨鼇集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0232
 :SOURCE:   四庫全書 文淵閣版, V1124.6, p421
@@ -3271,7 +3313,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0131 [[mandoku:ZB4b0233.org][ZB4b0233]] 忠愍集
+*** KR4d0133 [[mandoku:ZB4b0233.org][ZB4b0233]] 忠愍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0233
 :SOURCE:   四庫全書 文淵閣版, V1124.7, p657
@@ -3296,7 +3338,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0132 [[mandoku:ZB4b0234.org][ZB4b0234]] 忠肅集
+*** KR4d0134 [[mandoku:ZB4b0234.org][ZB4b0234]] 忠肅集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0234
 :SOURCE:   四庫全書 文淵閣版, V1124.8, p695
@@ -3320,7 +3362,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0133 [[mandoku:ZB4b0235.org][ZB4b0235]] 宗忠簡集
+*** KR4d0135 [[mandoku:ZB4b0235.org][ZB4b0235]] 宗忠簡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0235
 :SOURCE:   四庫全書 文淵閣版, V1125.1, p1
@@ -3350,7 +3392,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0134 [[mandoku:ZB4b0236.org][ZB4b0236]] 龜山集
+*** KR4d0136 [[mandoku:ZB4b0236.org][ZB4b0236]] 龜山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0236
 :SOURCE:   四庫全書 文淵閣版, V1125.2, p101
@@ -3368,7 +3410,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0135 SB23n353 龜山先生語錄
+*** KR4d0137 SB23n353 龜山先生語錄
 :PROPERTIES:
 :EXTENT: 四卷
 :_RESP:    （宋）楊時,（民國）張元濟
@@ -3396,7 +3438,7 @@
 :EDITION: 常熟瞿氏鐵琴銅劍樓藏宋刊本
 :END:
 
-*** KR4d0136 [[mandoku:ZB4b0237.org][ZB4b0237]] 梁谿集
+*** KR4d0138 [[mandoku:ZB4b0237.org][ZB4b0237]] 梁谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0237
 :SOURCE:   四庫全書 文淵閣版, V1125.3, p491 - V1126.1
@@ -3441,7 +3483,7 @@
        :FUNCTION: 撰
        :END:
 
-*** KR4d0137 [[mandoku:ZB4b0238.org][ZB4b0238]] 初寮集
+*** KR4d0139 [[mandoku:ZB4b0238.org][ZB4b0238]] 初寮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0238
 :SOURCE:   四庫全書 文淵閣版, V1127.1, p1
@@ -3458,7 +3500,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0138 [[mandoku:ZB4b0239.org][ZB4b0239]] 橫塘集
+*** KR4d0140 [[mandoku:ZB4b0239.org][ZB4b0239]] 橫塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0239
 :SOURCE:   四庫全書 文淵閣版, V1127.2, p163
@@ -3476,7 +3518,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0139 [[mandoku:ZB4b0240.org][ZB4b0240]] 西渡集
+*** KR4d0141 [[mandoku:ZB4b0240.org][ZB4b0240]] 西渡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0240
 :SOURCE:   四庫全書 文淵閣版, V1127.3, p353
@@ -3507,7 +3549,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0140 [[mandoku:ZB4b0241.org][ZB4b0241]] 老圃集
+*** KR4d0142 [[mandoku:ZB4b0241.org][ZB4b0241]] 老圃集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0241
 :SOURCE:   四庫全書 文淵閣版, V1127.4, p377
@@ -3524,7 +3566,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0141 [[mandoku:ZB4b0242.org][ZB4b0242]] 丹陽集
+*** KR4d0143 [[mandoku:ZB4b0242.org][ZB4b0242]] 丹陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0242
 :SOURCE:   四庫全書 文淵閣版, V1127.5, p397
@@ -3542,7 +3584,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0142 [[mandoku:ZB4b0243.org][ZB4b0243]] 毗陵集
+*** KR4d0144 [[mandoku:ZB4b0243.org][ZB4b0243]] 毗陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0243
 :SOURCE:   四庫全書 文淵閣版, V1127.6, p669
@@ -3560,7 +3602,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0143 [[mandoku:ZB4b0244.org][ZB4b0244]] 浮溪集
+*** KR4d0145 [[mandoku:ZB4b0244.org][ZB4b0244]] 浮溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0244
 :SOURCE:   四庫全書 文淵閣版, V1128.1, p1
@@ -3578,7 +3620,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0144 [[mandoku:ZB4b0245.org][ZB4b0245]] 浮溪文粹
+*** KR4d0146 [[mandoku:ZB4b0245.org][ZB4b0245]] 浮溪文粹
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0245
 :SOURCE:   四庫全書 文淵閣版, V1128.2, p335
@@ -3609,7 +3651,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0145 [[mandoku:ZB4b0246.org][ZB4b0246]] 莊簡集
+*** KR4d0147 [[mandoku:ZB4b0246.org][ZB4b0246]] 莊簡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0246
 :SOURCE:   四庫全書 文淵閣版, V1128.3, p429
@@ -3627,7 +3669,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0146 [[mandoku:ZB4b0247.org][ZB4b0247]] 忠正德文集
+*** KR4d0148 [[mandoku:ZB4b0247.org][ZB4b0247]] 忠正德文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0247
 :SOURCE:   四庫全書 文淵閣版, V1128.4, p635
@@ -3645,7 +3687,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0147 [[mandoku:ZB4b0248.org][ZB4b0248]] 東窻集
+*** KR4d0149 [[mandoku:ZB4b0248.org][ZB4b0248]] 東窻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0248
 :SOURCE:   四庫全書 文淵閣版, V1129.1, p1
@@ -3662,7 +3704,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0148 [[mandoku:ZB4b0249.org][ZB4b0249]] 忠惠集
+*** KR4d0150 [[mandoku:ZB4b0249.org][ZB4b0249]] 忠惠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0249
 :SOURCE:   四庫全書 文淵閣版, V1129.2, p181
@@ -3687,7 +3729,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0149 [[mandoku:ZB4b0250.org][ZB4b0250]] 松隱集
+*** KR4d0151 [[mandoku:ZB4b0250.org][ZB4b0250]] 松隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0250
 :SOURCE:   四庫全書 文淵閣版, V1129.3, p319
@@ -3705,7 +3747,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0150 [[mandoku:ZB4b0251.org][ZB4b0251]] 建康集
+*** KR4d0152 [[mandoku:ZB4b0251.org][ZB4b0251]] 建康集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0251
 :SOURCE:   四庫全書 文淵閣版, V1129.4, p587
@@ -3723,7 +3765,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0151 [[mandoku:ZB4b0252.org][ZB4b0252]] 簡齋集
+*** KR4d0153 [[mandoku:ZB4b0252.org][ZB4b0252]] 簡齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0252
 :SOURCE:   四庫全書 文淵閣版, V1129.5, p663
@@ -3741,7 +3783,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0152 SB14n213 增廣箋註簡齋詩集
+*** KR4d0154 SB14n213 增廣箋註簡齋詩集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n213
@@ -3777,7 +3819,7 @@
 [[krpimg:sbck/SB1/SB14n213/SB14n213_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB14n213/SB14n213_003-002.tif][冊 3]]
 [[krpimg:sbck/SB1/SB14n213/SB14n213_004-002.tif][冊 4]]
-*** KR4d0153 SB14n214 簡齋詩外集
+*** KR4d0155 SB14n214 簡齋詩外集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n214
@@ -3803,7 +3845,7 @@
 
 **** 电子版
 [[krpimg:sbck/SB1/SB14n214/SB14n214_001-002.tif][冊 1]]
-*** KR4d0154 [[mandoku:ZB4b0253.org][ZB4b0253]] 北山集
+*** KR4d0156 [[mandoku:ZB4b0253.org][ZB4b0253]] 北山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0253
 :SOURCE:   四庫全書 文淵閣版, V1130.1, p1
@@ -3821,7 +3863,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0155 [[mandoku:ZB4b0254.org][ZB4b0254]] 檆溪居士集
+*** KR4d0157 [[mandoku:ZB4b0254.org][ZB4b0254]] 檆溪居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0254
 :SOURCE:   四庫全書 文淵閣版, V1130.2, p403
@@ -3839,7 +3881,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0156 [[mandoku:ZB4b0255.org][ZB4b0255]] 筠谿集
+*** KR4d0158 [[mandoku:ZB4b0255.org][ZB4b0255]] 筠谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0255
 :SOURCE:   四庫全書 文淵閣版, V1130.3, p583
@@ -3871,7 +3913,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0157 [[mandoku:ZB4b0256.org][ZB4b0256]] 華陽集
+*** KR4d0159 [[mandoku:ZB4b0256.org][ZB4b0256]] 華陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0256
 :SOURCE:   四庫全書 文淵閣版, V1131.1, p1
@@ -3889,7 +3931,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0158 [[mandoku:ZB4b0257.org][ZB4b0257]] 忠穆集
+*** KR4d0160 [[mandoku:ZB4b0257.org][ZB4b0257]] 忠穆集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0257
 :SOURCE:   四庫全書 文淵閣版, V1131.2, p257
@@ -3907,7 +3949,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0159 [[mandoku:ZB4b0258.org][ZB4b0258]] 紫微集
+*** KR4d0161 [[mandoku:ZB4b0258.org][ZB4b0258]] 紫微集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0258
 :SOURCE:   四庫全書 文淵閣版, V1131.3, p339
@@ -3924,7 +3966,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0160 [[mandoku:ZB4b0259.org][ZB4b0259]] 苕溪集
+*** KR4d0162 [[mandoku:ZB4b0259.org][ZB4b0259]] 苕溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0259
 :SOURCE:   四庫全書 文淵閣版, V1132.1, p1
@@ -3942,7 +3984,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0161 [[mandoku:ZB4b0260.org][ZB4b0260]] 東牟集
+*** KR4d0163 [[mandoku:ZB4b0260.org][ZB4b0260]] 東牟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0260
 :SOURCE:   四庫全書 文淵閣版, V1132.2, p297
@@ -3960,7 +4002,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0162 [[mandoku:ZB4b0261.org][ZB4b0261]] 相山集
+*** KR4d0164 [[mandoku:ZB4b0261.org][ZB4b0261]] 相山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0261
 :SOURCE:   四庫全書 文淵閣版, V1132.3, p521
@@ -3978,7 +4020,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0163 [[mandoku:ZB4b0262.org][ZB4b0262]] 三餘集
+*** KR4d0165 [[mandoku:ZB4b0262.org][ZB4b0262]] 三餘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0262
 :SOURCE:   四庫全書 文淵閣版, V1132.4, p757
@@ -3996,7 +4038,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0164 [[mandoku:ZB4b0263.org][ZB4b0263]] 大隱集
+*** KR4d0166 [[mandoku:ZB4b0263.org][ZB4b0263]] 大隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0263
 :SOURCE:   四庫全書 文淵閣版, V1133.1, p1
@@ -4013,7 +4055,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0165 [[mandoku:ZB4b0264.org][ZB4b0264]] 龜谿集
+*** KR4d0167 [[mandoku:ZB4b0264.org][ZB4b0264]] 龜谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0264
 :SOURCE:   四庫全書 文淵閣版, V1133.2, p115
@@ -4031,7 +4073,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0166 [[mandoku:ZB4b0265.org][ZB4b0265]] 栟櫚集
+*** KR4d0168 [[mandoku:ZB4b0265.org][ZB4b0265]] 栟櫚集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0265
 :SOURCE:   四庫全書 文淵閣版, V1133.3, p257
@@ -4049,7 +4091,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0167 [[mandoku:ZB4b0266.org][ZB4b0266]] 默成文集
+*** KR4d0169 [[mandoku:ZB4b0266.org][ZB4b0266]] 默成文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0266
 :SOURCE:   四庫全書 文淵閣版, V1133.4, p373
@@ -4066,7 +4108,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0168 [[mandoku:ZB4b0267.org][ZB4b0267]] 鄱陽集
+*** KR4d0170 [[mandoku:ZB4b0267.org][ZB4b0267]] 鄱陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0267
 :SOURCE:   四庫全書 文淵閣版, V1133.5, p391
@@ -4084,7 +4126,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0169 [[mandoku:ZB4b0268.org][ZB4b0268]] 韋齋集
+*** KR4d0171 [[mandoku:ZB4b0268.org][ZB4b0268]] 韋齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0268
 :SOURCE:   四庫全書 文淵閣版, V1133.6, p425
@@ -4128,7 +4170,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0170 [[mandoku:ZB4b0269.org][ZB4b0269]] 澹齋集
+*** KR4d0172 [[mandoku:ZB4b0269.org][ZB4b0269]] 澹齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0269
 :SOURCE:   四庫全書 文淵閣版, V1133.7, p561
@@ -4152,7 +4194,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0171 [[mandoku:ZB4b0270.org][ZB4b0270]] 陵陽集
+*** KR4d0173 [[mandoku:ZB4b0270.org][ZB4b0270]] 陵陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0270
 :SOURCE:   四庫全書 文淵閣版, V1133.8, p763
@@ -4169,7 +4211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0172 [[mandoku:ZB4b0271.org][ZB4b0271]] 灊山集
+*** KR4d0174 [[mandoku:ZB4b0271.org][ZB4b0271]] 灊山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0271
 :SOURCE:   四庫全書 文淵閣版, V1133.9, p809
@@ -4187,7 +4229,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0173 [[mandoku:ZB4b0272.org][ZB4b0272]] 雲溪集
+*** KR4d0175 [[mandoku:ZB4b0272.org][ZB4b0272]] 雲溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0272
 :SOURCE:   四庫全書 文淵閣版, V1134.1, p1
@@ -4204,7 +4246,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0174 [[mandoku:ZB4b0273.org][ZB4b0273]] 廬溪文集
+*** KR4d0176 [[mandoku:ZB4b0273.org][ZB4b0273]] 廬溪文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0273
 :SOURCE:   四庫全書 文淵閣版, V1134.2, p97
@@ -4236,7 +4278,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0175 [[mandoku:ZB4b0274.org][ZB4b0274]] 屏山集
+*** KR4d0177 [[mandoku:ZB4b0274.org][ZB4b0274]] 屏山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0274
 :SOURCE:   四庫全書 文淵閣版, V1134.3, p351
@@ -4267,7 +4309,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0176 [[mandoku:ZB4b0275.org][ZB4b0275]] 北海集
+*** KR4d0178 [[mandoku:ZB4b0275.org][ZB4b0275]] 北海集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0275
 :SOURCE:   四庫全書 文淵閣版, V1134.4, p521
@@ -4292,7 +4334,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0177 [[mandoku:ZB4b0276.org][ZB4b0276]] 鴻慶居士集
+*** KR4d0179 [[mandoku:ZB4b0276.org][ZB4b0276]] 鴻慶居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0276
 :SOURCE:   四庫全書 文淵閣版, V1135.1, p1
@@ -4310,7 +4352,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0178 [[mandoku:ZB4b0277.org][ZB4b0277]] 內簡尺牘
+*** KR4d0180 [[mandoku:ZB4b0277.org][ZB4b0277]] 內簡尺牘
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0277
 :SOURCE:   四庫全書 文淵閣版, V1135.2, p467
@@ -4334,7 +4376,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0179 [[mandoku:ZB4b0278.org][ZB4b0278]] 崧菴集
+*** KR4d0181 [[mandoku:ZB4b0278.org][ZB4b0278]] 崧菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0278
 :SOURCE:   四庫全書 文淵閣版, V1135.3, p577
@@ -4351,7 +4393,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0180 [[mandoku:ZB4b0279.org][ZB4b0279]] 豫章文集
+*** KR4d0182 [[mandoku:ZB4b0279.org][ZB4b0279]] 豫章文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0279
 :SOURCE:   四庫全書 文淵閣版, V1135.4, p641
@@ -4382,7 +4424,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0181 [[mandoku:ZB4b0280.org][ZB4b0280]] 藏海居士集
+*** KR4d0183 [[mandoku:ZB4b0280.org][ZB4b0280]] 藏海居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0280
 :SOURCE:   四庫全書 文淵閣版, V1135.5, p783
@@ -4400,7 +4442,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0182 [[mandoku:ZB4b0281.org][ZB4b0281]] 和靖集
+*** KR4d0184 [[mandoku:ZB4b0281.org][ZB4b0281]] 和靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0281
 :SOURCE:   四庫全書 文淵閣版, V1136.1, p1
@@ -4418,7 +4460,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0183 [[mandoku:ZB4b0282.org][ZB4b0282]] 王著作集
+*** KR4d0185 [[mandoku:ZB4b0282.org][ZB4b0282]] 王著作集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0282
 :SOURCE:   四庫全書 文淵閣版, V1136.2, p63
@@ -4442,7 +4484,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0184 [[mandoku:ZB4b0283.org][ZB4b0283]] 郴江百詠
+*** KR4d0186 [[mandoku:ZB4b0283.org][ZB4b0283]] 郴江百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0283
 :SOURCE:   四庫全書 文淵閣版, V1136.3, p109
@@ -4460,7 +4502,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0185 [[mandoku:ZB4b0284.org][ZB4b0284]] 雙溪集
+*** KR4d0187 [[mandoku:ZB4b0284.org][ZB4b0284]] 雙溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0284
 :SOURCE:   四庫全書 文淵閣版, V1136.4, p121
@@ -4478,7 +4520,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0186 [[mandoku:ZB4b0285.org][ZB4b0285]] 少陽集
+*** KR4d0188 [[mandoku:ZB4b0285.org][ZB4b0285]] 少陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0285
 :SOURCE:   四庫全書 文淵閣版, V1136.5, p283
@@ -4496,7 +4538,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0187 [[mandoku:ZB4b0286.org][ZB4b0286]] 歐陽修撰集
+*** KR4d0189 [[mandoku:ZB4b0286.org][ZB4b0286]] 歐陽修撰集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0286
 :SOURCE:   四庫全書 文淵閣版, V1136.6, p333
@@ -4527,7 +4569,7 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4d0188 [[mandoku:ZB4b0287.org][ZB4b0287]] 東溪集
+*** KR4d0190 [[mandoku:ZB4b0287.org][ZB4b0287]] 東溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0287
 :SOURCE:   四庫全書 文淵閣版, V1136.7, p427
@@ -4558,7 +4600,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0189 [[mandoku:ZB4b0288.org][ZB4b0288]] 岳武穆遺文
+*** KR4d0191 [[mandoku:ZB4b0288.org][ZB4b0288]] 岳武穆遺文
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0288
 :SOURCE:   四庫全書 文淵閣版, V1136.8, p459
@@ -4582,7 +4624,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0190 [[mandoku:ZB4b0289.org][ZB4b0289]] 茶山集
+*** KR4d0192 [[mandoku:ZB4b0289.org][ZB4b0289]] 茶山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0289
 :SOURCE:   四庫全書 文淵閣版, V1136.9, p473
@@ -4600,7 +4642,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0191 [[mandoku:ZB4b0290.org][ZB4b0290]] 雪溪集
+*** KR4d0193 [[mandoku:ZB4b0290.org][ZB4b0290]] 雪溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0290
 :SOURCE:   四庫全書 文淵閣版, V1136.10, p547
@@ -4618,7 +4660,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0192 [[mandoku:ZB4b0291.org][ZB4b0291]] 蘆川歸來集
+*** KR4d0194 [[mandoku:ZB4b0291.org][ZB4b0291]] 蘆川歸來集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0291
 :SOURCE:   四庫全書 文淵閣版, V1136.11, p581
@@ -4643,7 +4685,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0193 [[mandoku:ZB4b0292.org][ZB4b0292]] 東萊詩集
+*** KR4d0195 [[mandoku:ZB4b0292.org][ZB4b0292]] 東萊詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0292
 :SOURCE:   四庫全書 文淵閣版, V1136.12, p679
@@ -4661,7 +4703,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0194 [[mandoku:ZB4b0293.org][ZB4b0293]] 澹菴文集
+*** KR4d0196 [[mandoku:ZB4b0293.org][ZB4b0293]] 澹菴文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0293
 :SOURCE:   四庫全書 文淵閣版, V1137.1, p1
@@ -4686,7 +4728,7 @@
       :BOOK:   (3)
       :END:
 
-*** KR4d0195 [[mandoku:ZB4b0294.org][ZB4b0294]] 五峯集
+*** KR4d0197 [[mandoku:ZB4b0294.org][ZB4b0294]] 五峯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0294
 :SOURCE:   四庫全書 文淵閣版, V1137.2, p87
@@ -4709,7 +4751,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0196 [[mandoku:ZB4b0295.org][ZB4b0295]] 斐然集
+*** KR4d0198 [[mandoku:ZB4b0295.org][ZB4b0295]] 斐然集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0295
 :SOURCE:   四庫全書 文淵閣版, V1137.3, p257
@@ -4727,7 +4769,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0197 [[mandoku:ZB4b0296.org][ZB4b0296]] 大隱居士詩集
+*** KR4d0199 [[mandoku:ZB4b0296.org][ZB4b0296]] 大隱居士詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0296
 :SOURCE:   四庫全書 文淵閣版, V1137.4, p755
@@ -4744,7 +4786,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0198 [[mandoku:ZB4b0297.org][ZB4b0297]] 浮山集
+*** KR4d0200 [[mandoku:ZB4b0297.org][ZB4b0297]] 浮山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0297
 :SOURCE:   四庫全書 文淵閣版, V1137.5, p785
@@ -4762,7 +4804,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0199 [[mandoku:ZB4b0298.org][ZB4b0298]] 北山集
+*** KR4d0201 [[mandoku:ZB4b0298.org][ZB4b0298]] 北山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0298
 :SOURCE:   四庫全書 文淵閣版, V1138.1, p1
@@ -4786,7 +4828,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0200 [[mandoku:ZB4b0299.org][ZB4b0299]] 橫浦集
+*** KR4d0202 [[mandoku:ZB4b0299.org][ZB4b0299]] 橫浦集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0299
 :SOURCE:   四庫全書 文淵閣版, V1138.2, p293
@@ -4810,7 +4852,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0201 [[mandoku:ZB4b0300.org][ZB4b0300]] 湖山集
+*** KR4d0203 [[mandoku:ZB4b0300.org][ZB4b0300]] 湖山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0300
 :SOURCE:   四庫全書 文淵閣版, V1138.3, p445
@@ -4828,7 +4870,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0202 [[mandoku:ZB4b0301.org][ZB4b0301]] 文定集
+*** KR4d0204 [[mandoku:ZB4b0301.org][ZB4b0301]] 文定集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0301
 :SOURCE:   四庫全書 文淵閣版, V1138.4, p585
@@ -4846,7 +4888,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0203 [[mandoku:ZB4b0302.org][ZB4b0302]] 縉雲文集
+*** KR4d0205 [[mandoku:ZB4b0302.org][ZB4b0302]] 縉雲文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0302
 :SOURCE:   四庫全書 文淵閣版, V1138.5, p825
@@ -4877,7 +4919,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0204 [[mandoku:ZB4b0303.org][ZB4b0303]] 嵩山集
+*** KR4d0206 [[mandoku:ZB4b0303.org][ZB4b0303]] 嵩山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0303
 :SOURCE:   四庫全書 文淵閣版, V1139.1, p1
@@ -4894,7 +4936,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0205 [[mandoku:ZB4b0304.org][ZB4b0304]] 默堂集
+*** KR4d0207 [[mandoku:ZB4b0304.org][ZB4b0304]] 默堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0304
 :SOURCE:   四庫全書 文淵閣版, V1139.2, p299
@@ -4917,7 +4959,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0206 [[mandoku:ZB4b0305.org][ZB4b0305]] 知稼翁集
+*** KR4d0208 [[mandoku:ZB4b0305.org][ZB4b0305]] 知稼翁集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0305
 :SOURCE:   四庫全書 文淵閣版, V1139.3, p541
@@ -4935,7 +4977,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0207 [[mandoku:ZB4b0306.org][ZB4b0306]] 唯室集
+*** KR4d0209 [[mandoku:ZB4b0306.org][ZB4b0306]] 唯室集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0306
 :SOURCE:   四庫全書 文淵閣版, V1139.4, p615
@@ -4960,7 +5002,7 @@
       :BOOK:   (3)
       :END:
 
-*** KR4d0208 [[mandoku:ZB4b0307.org][ZB4b0307]] 漢濱集
+*** KR4d0210 [[mandoku:ZB4b0307.org][ZB4b0307]] 漢濱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0307
 :SOURCE:   四庫全書 文淵閣版, V1139.5, p661
@@ -4977,7 +5019,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0209 [[mandoku:ZB4b0308.org][ZB4b0308]] 香溪集
+*** KR4d0211 [[mandoku:ZB4b0308.org][ZB4b0308]] 香溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0308
 :SOURCE:   四庫全書 文淵閣版, V1140.1, p1
@@ -4995,7 +5037,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0210 [[mandoku:ZB4b0309.org][ZB4b0309]] 鄭忠肅奏議遺集
+*** KR4d0212 [[mandoku:ZB4b0309.org][ZB4b0309]] 鄭忠肅奏議遺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0309
 :SOURCE:   四庫全書 文淵閣版, V1140.2, p189
@@ -5013,7 +5055,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0211 [[mandoku:ZB4b0310.org][ZB4b0310]] 雲莊集
+*** KR4d0213 [[mandoku:ZB4b0310.org][ZB4b0310]] 雲莊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0310
 :SOURCE:   四庫全書 文淵閣版, V1140.3, p225
@@ -5030,7 +5072,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0212 [[mandoku:ZB4b0311.org][ZB4b0311]] 竹軒雜著
+*** KR4d0214 [[mandoku:ZB4b0311.org][ZB4b0311]] 竹軒雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0311
 :SOURCE:   四庫全書 文淵閣版, V1140.4, p307
@@ -5047,7 +5089,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0213 [[mandoku:ZB4b0312.org][ZB4b0312]] 拙齋文集
+*** KR4d0215 [[mandoku:ZB4b0312.org][ZB4b0312]] 拙齋文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0312
 :SOURCE:   四庫全書 文淵閣版, V1140.5, p369
@@ -5079,7 +5121,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0214 [[mandoku:ZB4b0313.org][ZB4b0313]] 于湖集
+*** KR4d0216 [[mandoku:ZB4b0313.org][ZB4b0313]] 于湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0313
 :SOURCE:   四庫全書 文淵閣版, V1140.6, p539
@@ -5104,7 +5146,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0215 [[mandoku:ZB4b0314.org][ZB4b0314]] 太倉稊米集
+*** KR4d0217 [[mandoku:ZB4b0314.org][ZB4b0314]] 太倉稊米集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0314
 :SOURCE:   四庫全書 文淵閣版, V1141.1, p1
@@ -5122,7 +5164,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0216 [[mandoku:ZB4b0315.org][ZB4b0315]] 夾漈遺稿
+*** KR4d0218 [[mandoku:ZB4b0315.org][ZB4b0315]] 夾漈遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0315
 :SOURCE:   四庫全書 文淵閣版, V1141.2, p505
@@ -5140,7 +5182,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0217 [[mandoku:ZB4b0316.org][ZB4b0316]] 鄮峰眞隱漫錄
+*** KR4d0219 [[mandoku:ZB4b0316.org][ZB4b0316]] 鄮峰眞隱漫錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0316
 :SOURCE:   四庫全書 文淵閣版, V1141.3, p529
@@ -5158,7 +5200,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0218 [[mandoku:ZB4b0317.org][ZB4b0317]] 海陵集
+*** KR4d0220 [[mandoku:ZB4b0317.org][ZB4b0317]] 海陵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0317
 :SOURCE:   四庫全書 文淵閣版, V1142.1, p1
@@ -5181,7 +5223,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0219 [[mandoku:ZB4b0318.org][ZB4b0318]] 燕堂詩稿
+*** KR4d0221 [[mandoku:ZB4b0318.org][ZB4b0318]] 燕堂詩稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0318
 :SOURCE:   四庫全書 文淵閣版, V1142.2, p193
@@ -5199,7 +5241,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0220 [[mandoku:ZB4b0319.org][ZB4b0319]] 竹洲集
+*** KR4d0222 [[mandoku:ZB4b0319.org][ZB4b0319]] 竹洲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0319
 :SOURCE:   四庫全書 文淵閣版, V1142.3, p207
@@ -5224,7 +5266,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0221 [[mandoku:ZB4b0320.org][ZB4b0320]] 高峯文集
+*** KR4d0223 [[mandoku:ZB4b0320.org][ZB4b0320]] 高峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0320
 :SOURCE:   四庫全書 文淵閣版, V1142.4, p303
@@ -5242,7 +5284,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0222 [[mandoku:ZB4b0321.org][ZB4b0321]] 羅鄂州小集
+*** KR4d0224 [[mandoku:ZB4b0321.org][ZB4b0321]] 羅鄂州小集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0321
 :SOURCE:   四庫全書 文淵閣版, V1142.5, p461
@@ -5267,7 +5309,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0223 [[mandoku:ZB4b0322.org][ZB4b0322]] 艾軒集
+*** KR4d0225 [[mandoku:ZB4b0322.org][ZB4b0322]] 艾軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0322
 :SOURCE:   四庫全書 文淵閣版, V1142.6, p551
@@ -5298,7 +5340,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0224 [[mandoku:ZB4b0323.org][ZB4b0323]] 晦菴集
+*** KR4d0226 [[mandoku:ZB4b0323.org][ZB4b0323]] 晦菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0323
 :SOURCE:   四庫全書 文淵閣版, V1143.1, p1 - V1146.1
@@ -5337,7 +5379,7 @@
       :BOOK:   (100)
       :END:
 
-*** KR4d0225 [[mandoku:ZB4b0324.org][ZB4b0324]] 文忠集
+*** KR4d0227 [[mandoku:ZB4b0324.org][ZB4b0324]] 文忠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0324
 :SOURCE:   四庫全書 文淵閣版, V1147.1, p1 - V1149.1
@@ -5375,7 +5417,7 @@
       :BOOK:   (78)
       :END:
 
-*** KR4d0226 [[mandoku:ZB4b0325.org][ZB4b0325]] 雲山集
+*** KR4d0228 [[mandoku:ZB4b0325.org][ZB4b0325]] 雲山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0325
 :SOURCE:   四庫全書 文淵閣版, V1149.2, p343
@@ -5393,7 +5435,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0227 [[mandoku:ZB4b0326.org][ZB4b0326]] 梁谿遺稿
+*** KR4d0229 [[mandoku:ZB4b0326.org][ZB4b0326]] 梁谿遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0326
 :SOURCE:   四庫全書 文淵閣版, V1149.3, p509
@@ -5417,7 +5459,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0228 [[mandoku:ZB4b0327.org][ZB4b0327]] 方舟集
+*** KR4d0230 [[mandoku:ZB4b0327.org][ZB4b0327]] 方舟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0327
 :SOURCE:   四庫全書 文淵閣版, V1149.4, p529
@@ -5435,7 +5477,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0229 [[mandoku:ZB4b0328.org][ZB4b0328]] 網山集
+*** KR4d0231 [[mandoku:ZB4b0328.org][ZB4b0328]] 網山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0328
 :SOURCE:   四庫全書 文淵閣版, V1149.5, p853
@@ -5453,7 +5495,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0230 [[mandoku:ZB4b0329.org][ZB4b0329]] 東萊集
+*** KR4d0232 [[mandoku:ZB4b0329.org][ZB4b0329]] 東萊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0329
 :SOURCE:   四庫全書 文淵閣版, V1150.1, p1
@@ -5504,7 +5546,7 @@
       :BOOK:   (20)
       :END:
 
-*** KR4d0231 [[mandoku:ZB4b0330.org][ZB4b0330]] 止齋集
+*** KR4d0233 [[mandoku:ZB4b0330.org][ZB4b0330]] 止齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0330
 :SOURCE:   四庫全書 文淵閣版, V1150.2, p493
@@ -5535,7 +5577,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0232 [[mandoku:ZB4b0331.org][ZB4b0331]] 格齋四六
+*** KR4d0234 [[mandoku:ZB4b0331.org][ZB4b0331]] 格齋四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0331
 :SOURCE:   四庫全書 文淵閣版, V1151.1, p1
@@ -5552,7 +5594,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0233 [[mandoku:ZB4b0332d.org][ZB4b0332d]] 梅溪集
+*** KR4d0235 [[mandoku:ZB4b0332d.org][ZB4b0332d]] 梅溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0332
 :SOURCE:   四庫全書 文淵閣版, V1151.2, p45
@@ -5619,7 +5661,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0234 [[mandoku:ZB4b0333.org][ZB4b0333]] 香山集
+*** KR4d0236 [[mandoku:ZB4b0333.org][ZB4b0333]] 香山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0333
 :SOURCE:   四庫全書 文淵閣版, V1151.3, p639
@@ -5636,7 +5678,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0235 [[mandoku:ZB4b0334.org][ZB4b0334]] 蒙隱集
+*** KR4d0237 [[mandoku:ZB4b0334.org][ZB4b0334]] 蒙隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0334
 :SOURCE:   四庫全書 文淵閣版, V1151.4, p751
@@ -5654,7 +5696,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0236 [[mandoku:ZB4b0335.org][ZB4b0335]] 宮教集
+*** KR4d0238 [[mandoku:ZB4b0335.org][ZB4b0335]] 宮教集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0335
 :SOURCE:   四庫全書 文淵閣版, V1151.5, p779
@@ -5672,7 +5714,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0237 [[mandoku:ZB4b0336.org][ZB4b0336]] 倪石陵書
+*** KR4d0239 [[mandoku:ZB4b0336.org][ZB4b0336]] 倪石陵書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0336
 :SOURCE:   四庫全書 文淵閣版, V1152.1, p1
@@ -5696,7 +5738,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0238 [[mandoku:ZB4b0337.org][ZB4b0337]] 樂軒集
+*** KR4d0240 [[mandoku:ZB4b0337.org][ZB4b0337]] 樂軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0337
 :SOURCE:   四庫全書 文淵閣版, V1152.2, p27
@@ -5719,7 +5761,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0239 [[mandoku:ZB4b0338.org][ZB4b0338]] 定庵類稿
+*** KR4d0241 [[mandoku:ZB4b0338.org][ZB4b0338]] 定庵類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0338
 :SOURCE:   四庫全書 文淵閣版, V1152.3, p119
@@ -5737,7 +5779,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0240 [[mandoku:ZB4b0339.org][ZB4b0339]] 澹軒集
+*** KR4d0242 [[mandoku:ZB4b0339.org][ZB4b0339]] 澹軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0339
 :SOURCE:   四庫全書 文淵閣版, V1152.4, p197
@@ -5755,7 +5797,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0241 [[mandoku:ZB4b0340.org][ZB4b0340]] 攻媿集
+*** KR4d0243 [[mandoku:ZB4b0340.org][ZB4b0340]] 攻媿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0340
 :SOURCE:   四庫全書 文淵閣版, V1152.5, p263 - V1153.1
@@ -5773,7 +5815,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0242 [[mandoku:ZB4b0341.org][ZB4b0341]] 尊白堂集
+*** KR4d0244 [[mandoku:ZB4b0341.org][ZB4b0341]] 尊白堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0341
 :SOURCE:   四庫全書 文淵閣版, V1154.1, p1
@@ -5791,7 +5833,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0243 [[mandoku:ZB4b0342.org][ZB4b0342]] 東塘集
+*** KR4d0245 [[mandoku:ZB4b0342.org][ZB4b0342]] 東塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0342
 :SOURCE:   四庫全書 文淵閣版, V1154.2, p141
@@ -5809,7 +5851,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0244 [[mandoku:ZB4b0343.org][ZB4b0343]] 涉齋集
+*** KR4d0246 [[mandoku:ZB4b0343.org][ZB4b0343]] 涉齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0343
 :SOURCE:   四庫全書 文淵閣版, V1154.3, p405
@@ -5826,7 +5868,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0245 [[mandoku:ZB4b0344.org][ZB4b0344]] 義豐集
+*** KR4d0247 [[mandoku:ZB4b0344.org][ZB4b0344]] 義豐集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0344
 :SOURCE:   四庫全書 文淵閣版, V1154.4, p537
@@ -5843,7 +5885,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0246 [[mandoku:ZB4b0345.org][ZB4b0345]] 蠹齋鉛刀編
+*** KR4d0248 [[mandoku:ZB4b0345.org][ZB4b0345]] 蠹齋鉛刀編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0345
 :SOURCE:   四庫全書 文淵閣版, V1154.5, p571
@@ -5867,7 +5909,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0247 [[mandoku:ZB4b0346.org][ZB4b0346]] 乾道稿
+*** KR4d0249 [[mandoku:ZB4b0346.org][ZB4b0346]] 乾道稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0346
 :SOURCE:   四庫全書 文淵閣版, V1155.1, p1
@@ -5899,7 +5941,7 @@
       :BOOK:   2
       :END:
 
-*** KR4d0248 [[mandoku:ZB4b0347.org][ZB4b0347]] 雙溪類槀
+*** KR4d0250 [[mandoku:ZB4b0347.org][ZB4b0347]] 雙溪類槀
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0347
 :SOURCE:   四庫全書 文淵閣版, V1155.2, p411
@@ -5917,7 +5959,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0249 [[mandoku:ZB4b0348.org][ZB4b0348]] 止堂集
+*** KR4d0251 [[mandoku:ZB4b0348.org][ZB4b0348]] 止堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0348
 :SOURCE:   四庫全書 文淵閣版, V1155.3, p759
@@ -5935,7 +5977,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0250 [[mandoku:ZB4b0349.org][ZB4b0349]] 緣督集
+*** KR4d0252 [[mandoku:ZB4b0349.org][ZB4b0349]] 緣督集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0349
 :SOURCE:   四庫全書 文淵閣版, V1156.1, p1
@@ -5952,7 +5994,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0251 [[mandoku:ZB4b0350.org][ZB4b0350]] 象山集
+*** KR4d0253 [[mandoku:ZB4b0350.org][ZB4b0350]] 象山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0350
 :SOURCE:   四庫全書 文淵閣版, V1156.2, p237
@@ -5997,7 +6039,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0252 [[mandoku:ZB4b0351.org][ZB4b0351]] 慈湖遺書
+*** KR4d0254 [[mandoku:ZB4b0351.org][ZB4b0351]] 慈湖遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0351
 :SOURCE:   四庫全書 文淵閣版, V1156.3, p605
@@ -6022,7 +6064,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0253 [[mandoku:ZB4b0352.org][ZB4b0352]] 絜齋集
+*** KR4d0255 [[mandoku:ZB4b0352.org][ZB4b0352]] 絜齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0352
 :SOURCE:   四庫全書 文淵閣版, V1157.1, p1
@@ -6040,7 +6082,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0254 [[mandoku:ZB4b0353.org][ZB4b0353]] 雲莊集
+*** KR4d0256 [[mandoku:ZB4b0353.org][ZB4b0353]] 雲莊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0353
 :SOURCE:   四庫全書 文淵閣版, V1157.2, p331
@@ -6064,7 +6106,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0255 [[mandoku:ZB4b0354.org][ZB4b0354]] 舒文靖集
+*** KR4d0257 [[mandoku:ZB4b0354.org][ZB4b0354]] 舒文靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0354
 :SOURCE:   四庫全書 文淵閣版, V1157.3, p507
@@ -6081,7 +6123,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0256 [[mandoku:ZB4b0355.org][ZB4b0355]] 定齋集
+*** KR4d0258 [[mandoku:ZB4b0355.org][ZB4b0355]] 定齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0355
 :SOURCE:   四庫全書 文淵閣版, V1157.4, p563
@@ -6098,7 +6140,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0257 [[mandoku:ZB4b0356.org][ZB4b0356]] 九華集
+*** KR4d0259 [[mandoku:ZB4b0356.org][ZB4b0356]] 九華集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0356
 :SOURCE:   四庫全書 文淵閣版, V1158.1, p1
@@ -6123,7 +6165,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0258 [[mandoku:ZB4b0357.org][ZB4b0357]] 野處類藁
+*** KR4d0260 [[mandoku:ZB4b0357.org][ZB4b0357]] 野處類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0357
 :SOURCE:   四庫全書 文淵閣版, V1158.2, p223
@@ -6141,7 +6183,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0259 [[mandoku:ZB4b0358.org][ZB4b0358]] 盤洲文集
+*** KR4d0261 [[mandoku:ZB4b0358.org][ZB4b0358]] 盤洲文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0358
 :SOURCE:   四庫全書 文淵閣版, V1158.3, p243
@@ -6166,7 +6208,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0260 [[mandoku:ZB4b0359.org][ZB4b0359]] 應齋雜著
+*** KR4d0262 [[mandoku:ZB4b0359.org][ZB4b0359]] 應齋雜著
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0359
 :SOURCE:   四庫全書 文淵閣版, V1159.1, p1
@@ -6183,7 +6225,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0261 [[mandoku:ZB4b0360.org][ZB4b0360]] 芸庵類藁
+*** KR4d0263 [[mandoku:ZB4b0360.org][ZB4b0360]] 芸庵類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0360
 :SOURCE:   四庫全書 文淵閣版, V1159.2, p69
@@ -6200,7 +6242,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0262 [[mandoku:ZB4b0361.org][ZB4b0361]] 浪語集
+*** KR4d0264 [[mandoku:ZB4b0361.org][ZB4b0361]] 浪語集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0361
 :SOURCE:   四庫全書 文淵閣版, V1159.3, p143
@@ -6224,7 +6266,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0263 [[mandoku:ZB4b0362.org][ZB4b0362]] 石湖詩集
+*** KR4d0265 [[mandoku:ZB4b0362.org][ZB4b0362]] 石湖詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0362
 :SOURCE:   四庫全書 文淵閣版, V1159.4, p593
@@ -6242,7 +6284,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0264 [[mandoku:ZB4b0363.org][ZB4b0363]] 誠齋集
+*** KR4d0266 [[mandoku:ZB4b0363.org][ZB4b0363]] 誠齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0363
 :SOURCE:   四庫全書 文淵閣版, V1160.1, p1 - V1161.1
@@ -6266,7 +6308,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0265 [[mandoku:ZB4b0364.org][ZB4b0364]] 劎南詩槀
+*** KR4d0267 [[mandoku:ZB4b0364.org][ZB4b0364]] 劎南詩槀
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0364
 :SOURCE:   四庫全書 文淵閣版, V1162.1, p1 - V1163.1
@@ -6290,7 +6332,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0266 [[mandoku:ZB4b0365.org][ZB4b0365]] 渭南文集
+*** KR4d0268 [[mandoku:ZB4b0365.org][ZB4b0365]] 渭南文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0365
 :SOURCE:   四庫全書 文淵閣版, V1163.2, p307
@@ -6321,7 +6363,7 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4d0267 SB14n225 澗谷精選陸放翁詩集前集
+*** KR4d0269 SB14n225 澗谷精選陸放翁詩集前集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n225
@@ -6368,7 +6410,7 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB14n225/SB14n225_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n225/SB14n225_002-002.tif][冊 2]]
-*** KR4d0268 [[mandoku:ZB4b0366.org][ZB4b0366]] 放翁詩選
+*** KR4d0270 [[mandoku:ZB4b0366.org][ZB4b0366]] 放翁詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0366
 :SOURCE:   四庫全書 文淵閣版, V1163.3, p727
@@ -6416,7 +6458,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0269 [[mandoku:ZB4b0367.org][ZB4b0367]] 金陸百詠
+*** KR4d0271 [[mandoku:ZB4b0367.org][ZB4b0367]] 金陸百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0367
 :SOURCE:   四庫全書 文淵閣版, V1164.1, p1
@@ -6433,7 +6475,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0270 [[mandoku:ZB4b0368.org][ZB4b0368]] 頤菴居士集
+*** KR4d0272 [[mandoku:ZB4b0368.org][ZB4b0368]] 頤菴居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0368
 :SOURCE:   四庫全書 文淵閣版, V1164.2, p17
@@ -6450,7 +6492,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0271 [[mandoku:ZB4b0369.org][ZB4b0369]] 水心集
+*** KR4d0273 [[mandoku:ZB4b0369.org][ZB4b0369]] 水心集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0369
 :SOURCE:   四庫全書 文淵閣版, V1164.3, p33
@@ -6474,7 +6516,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0272 [[mandoku:ZB4b0370.org][ZB4b0370]] 南湖集
+*** KR4d0274 [[mandoku:ZB4b0370.org][ZB4b0370]] 南湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0370
 :SOURCE:   四庫全書 文淵閣版, V1164.4, p527
@@ -6492,7 +6534,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0273 [[mandoku:ZB4b0371.org][ZB4b0371]] 南澗甲乙稿
+*** KR4d0275 [[mandoku:ZB4b0371.org][ZB4b0371]] 南澗甲乙稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0371
 :SOURCE:   四庫全書 文淵閣版, V1165.1, p1
@@ -6510,7 +6552,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0274 [[mandoku:ZB4b0372.org][ZB4b0372]] 自鳴集
+*** KR4d0276 [[mandoku:ZB4b0372.org][ZB4b0372]] 自鳴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0372
 :SOURCE:   四庫全書 文淵閣版, V1165.2, p379
@@ -6528,7 +6570,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0275 [[mandoku:ZB4b0373.org][ZB4b0373]] 客亭類稿
+*** KR4d0277 [[mandoku:ZB4b0373.org][ZB4b0373]] 客亭類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0373
 :SOURCE:   四庫全書 文淵閣版, V1165.3, p427
@@ -6545,7 +6587,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0276 [[mandoku:ZB4b0374.org][ZB4b0374]] 石屏詩集
+*** KR4d0278 [[mandoku:ZB4b0374.org][ZB4b0374]] 石屏詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0374
 :SOURCE:   四庫全書 文淵閣版, V1165.4, p549
@@ -6575,7 +6617,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0277 [[mandoku:ZB4b0375.org][ZB4b0375]] 蓬峯集
+*** KR4d0279 [[mandoku:ZB4b0375.org][ZB4b0375]] 蓬峯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0375
 :SOURCE:   四庫全書 文淵閣版, V1165.5, p661
@@ -6593,7 +6635,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0278 [[mandoku:ZB4b0376.org][ZB4b0376]] 江湖長翁集
+*** KR4d0280 [[mandoku:ZB4b0376.org][ZB4b0376]] 江湖長翁集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0376
 :SOURCE:   四庫全書 文淵閣版, V1166.1, p1
@@ -6611,7 +6653,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0279 [[mandoku:ZB4b0377.org][ZB4b0377]] 燭湖集
+*** KR4d0281 [[mandoku:ZB4b0377.org][ZB4b0377]] 燭湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0377
 :SOURCE:   四庫全書 文淵閣版, V1166.2, p521
@@ -6636,7 +6678,7 @@
       :BOOK:   (10)
       :END:
 
-*** KR4d0280 [[mandoku:ZB4b0378.org][ZB4b0378]] 昌谷集
+*** KR4d0282 [[mandoku:ZB4b0378.org][ZB4b0378]] 昌谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0378
 :SOURCE:   四庫全書 文淵閣版, V1167.1, p1
@@ -6654,7 +6696,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0281 [[mandoku:ZB4b0379.org][ZB4b0379]] 省齋集
+*** KR4d0283 [[mandoku:ZB4b0379.org][ZB4b0379]] 省齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0379
 :SOURCE:   四庫全書 文淵閣版, V1167.2, p271
@@ -6686,7 +6728,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0282 [[mandoku:ZB4b0380.org][ZB4b0380]] 南軒集
+*** KR4d0284 [[mandoku:ZB4b0380.org][ZB4b0380]] 南軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0380
 :SOURCE:   四庫全書 文淵閣版, V1167.3, p413
@@ -6710,7 +6752,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0283 [[mandoku:ZB4b0381.org][ZB4b0381]] 勉齋集
+*** KR4d0285 [[mandoku:ZB4b0381.org][ZB4b0381]] 勉齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0381
 :SOURCE:   四庫全書 文淵閣版, V1168.1, p1
@@ -6728,7 +6770,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0284 [[mandoku:ZB4b0382.org][ZB4b0382]] 北溪大全集
+*** KR4d0286 [[mandoku:ZB4b0382.org][ZB4b0382]] 北溪大全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0382
 :SOURCE:   四庫全書 文淵閣版, V1168.2, p501
@@ -6759,7 +6801,7 @@
       :BOOK:   (16)
       :END:
 
-*** KR4d0285 [[mandoku:ZB4b0383.org][ZB4b0383]] 山房集
+*** KR4d0287 [[mandoku:ZB4b0383.org][ZB4b0383]] 山房集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0383
 :SOURCE:   四庫全書 文淵閣版, V1169.1, p1
@@ -6784,7 +6826,7 @@
       :BOOK:   (5)
       :END:
 
-*** KR4d0286 [[mandoku:ZB4b0384.org][ZB4b0384]] 橘山四六
+*** KR4d0288 [[mandoku:ZB4b0384.org][ZB4b0384]] 橘山四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0384
 :SOURCE:   四庫全書 文淵閣版, V1169.2, p133
@@ -6807,7 +6849,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0287 [[mandoku:ZB4b0385.org][ZB4b0385]] 竹齋詩集
+*** KR4d0289 [[mandoku:ZB4b0385.org][ZB4b0385]] 竹齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0385
 :SOURCE:   四庫全書 文淵閣版, V1169.3, p423
@@ -6832,7 +6874,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0288 [[mandoku:ZB4b0386.org][ZB4b0386]] 後樂集
+*** KR4d0290 [[mandoku:ZB4b0386.org][ZB4b0386]] 後樂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0386
 :SOURCE:   四庫全書 文淵閣版, V1169.4, p463
@@ -6850,7 +6892,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0289 [[mandoku:ZB4b0387.org][ZB4b0387]] 華亭百詠
+*** KR4d0291 [[mandoku:ZB4b0387.org][ZB4b0387]] 華亭百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0387
 :SOURCE:   四庫全書 文淵閣版, V1170.1, p1
@@ -6867,7 +6909,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0290 [[mandoku:ZB4b0388.org][ZB4b0388]] 梅山續藁
+*** KR4d0292 [[mandoku:ZB4b0388.org][ZB4b0388]] 梅山續藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0388
 :SOURCE:   四庫全書 文淵閣版, V1170.2, p11
@@ -6884,7 +6926,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0291 [[mandoku:ZB4b0389.org][ZB4b0389]] 菊磵集
+*** KR4d0293 [[mandoku:ZB4b0389.org][ZB4b0389]] 菊磵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0389
 :SOURCE:   四庫全書 文淵閣版, V1170.3, p119
@@ -6952,7 +6994,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0292 [[mandoku:ZB4b0390.org][ZB4b0390]] 性善堂稿
+*** KR4d0294 [[mandoku:ZB4b0390.org][ZB4b0390]] 性善堂稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0390
 :SOURCE:   四庫全書 文淵閣版, V1170.4, p151
@@ -6970,7 +7012,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0293 [[mandoku:ZB4b0391.org][ZB4b0391]] 漫塘集
+*** KR4d0295 [[mandoku:ZB4b0391.org][ZB4b0391]] 漫塘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0391
 :SOURCE:   四庫全書 文淵閣版, V1170.5, p275
@@ -6988,7 +7030,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0294 [[mandoku:ZB4b0392.org][ZB4b0392]] 克齋集
+*** KR4d0296 [[mandoku:ZB4b0392.org][ZB4b0392]] 克齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0392
 :SOURCE:   四庫全書 文淵閣版, V1171.1, p1
@@ -7006,7 +7048,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0295 [[mandoku:ZB4b0393.org][ZB4b0393]] 芳蘭軒集
+*** KR4d0297 [[mandoku:ZB4b0393.org][ZB4b0393]] 芳蘭軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0393
 :SOURCE:   四庫全書 文淵閣版, V1171.2, p145
@@ -7025,7 +7067,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB4b0393a.org][ZB4b0393a]] 芳蘭軒集
-*** KR4d0296 [[mandoku:ZB4b0393a.org][ZB4b0393a]] 二薇亭詩集
+*** KR4d0298 [[mandoku:ZB4b0393a.org][ZB4b0393a]] 二薇亭詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0393a
 :SOURCE:   四庫全書 文淵閣版, V1171.3, p159
@@ -7043,7 +7085,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0297 [[mandoku:ZB4b0394.org][ZB4b0394]] 西巖集
+*** KR4d0299 [[mandoku:ZB4b0394.org][ZB4b0394]] 西巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0394
 :SOURCE:   四庫全書 文淵閣版, V1171.4, p171
@@ -7061,7 +7103,7 @@
 **** textual witnesses
 ***** WYG
 # *** [[mandoku:ZB4b0394a.org][ZB4b0394a]] 西巖集
-*** KR4d0298 [[mandoku:ZB4b0394a.org][ZB4b0394a]] 清苑齋詩集
+*** KR4d0300 [[mandoku:ZB4b0394a.org][ZB4b0394a]] 清苑齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0394a
 :SOURCE:   四庫全書 文淵閣版, V1171.5, p189
@@ -7079,7 +7121,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0299 [[mandoku:ZB4b0395.org][ZB4b0395]] 瓜廬集
+*** KR4d0301 [[mandoku:ZB4b0395.org][ZB4b0395]] 瓜廬集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0395
 :SOURCE:   四庫全書 文淵閣版, V1171.6, p205
@@ -7097,7 +7139,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0300 [[mandoku:ZB4b0396.org][ZB4b0396]] 洺水集
+*** KR4d0302 [[mandoku:ZB4b0396.org][ZB4b0396]] 洺水集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0396
 :SOURCE:   四庫全書 文淵閣版, V1171.7, p221
@@ -7115,7 +7157,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0301 [[mandoku:ZB4b0397.org][ZB4b0397]] 龍川集
+*** KR4d0303 [[mandoku:ZB4b0397.org][ZB4b0397]] 龍川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0397
 :SOURCE:   四庫全書 文淵閣版, V1171.8, p497
@@ -7133,7 +7175,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0302 [[mandoku:ZB4b0398.org][ZB4b0398]] 龍洲集
+*** KR4d0304 [[mandoku:ZB4b0398.org][ZB4b0398]] 龍洲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0398
 :SOURCE:   四庫全書 文淵閣版, V1172.1, p1
@@ -7151,7 +7193,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0303 [[mandoku:ZB4b0399.org][ZB4b0399]] 鶴山集
+*** KR4d0305 [[mandoku:ZB4b0399.org][ZB4b0399]] 鶴山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0399
 :SOURCE:   四庫全書 文淵閣版, V1172.2, p75 - V1173.1
@@ -7171,7 +7213,7 @@
 ***** WYG
 # *** [[mandoku:ZB4b0399a.org][ZB4b0399a]] 南宋建炎至德祐
 # *** [[mandoku:ZB4b0399b.org][ZB4b0399b]] 鶴山集
-*** KR4d0304 [[mandoku:ZB4b0400.org][ZB4b0400]] 西山文集
+*** KR4d0306 [[mandoku:ZB4b0400.org][ZB4b0400]] 西山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0400
 :SOURCE:   四庫全書 文淵閣版, V1174.1, p1
@@ -7189,7 +7231,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0305 [[mandoku:ZB4b0401.org][ZB4b0401]] 方泉詩集
+*** KR4d0307 [[mandoku:ZB4b0401.org][ZB4b0401]] 方泉詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0401
 :SOURCE:   四庫全書 文淵閣版, V1175.1, p1
@@ -7206,7 +7248,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0306 [[mandoku:ZB4b0402.org][ZB4b0402]] 東山詩選
+*** KR4d0308 [[mandoku:ZB4b0402.org][ZB4b0402]] 東山詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0402
 :SOURCE:   四庫全書 文淵閣版, V1175.2, p39
@@ -7223,7 +7265,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0307 [[mandoku:ZB4b0403.org][ZB4b0403]] 白石道人詩集
+*** KR4d0309 [[mandoku:ZB4b0403.org][ZB4b0403]] 白石道人詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0403
 :SOURCE:   四庫全書 文淵閣版, V1175.3, p63
@@ -7255,7 +7297,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0308 [[mandoku:ZB4b0404.org][ZB4b0404]] 野谷詩稿
+*** KR4d0310 [[mandoku:ZB4b0404.org][ZB4b0404]] 野谷詩稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0404
 :SOURCE:   四庫全書 文淵閣版, V1175.4, p89
@@ -7273,7 +7315,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0309 [[mandoku:ZB4b0405.org][ZB4b0405]] 平齋集
+*** KR4d0311 [[mandoku:ZB4b0405.org][ZB4b0405]] 平齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0405
 :SOURCE:   四庫全書 文淵閣版, V1175.5, p133
@@ -7290,7 +7332,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0310 [[mandoku:ZB4b0406.org][ZB4b0406]] 蒙齋集
+*** KR4d0312 [[mandoku:ZB4b0406.org][ZB4b0406]] 蒙齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0406
 :SOURCE:   四庫全書 文淵閣版, V1175.6, p331
@@ -7308,7 +7350,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0311 [[mandoku:ZB4b0407.org][ZB4b0407]] 康範詩集
+*** KR4d0313 [[mandoku:ZB4b0407.org][ZB4b0407]] 康範詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0407
 :SOURCE:   四庫全書 文淵閣版, V1175.7, p573
@@ -7347,7 +7389,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0312 [[mandoku:ZB4b0408.org][ZB4b0408]] 清獻集
+*** KR4d0314 [[mandoku:ZB4b0408.org][ZB4b0408]] 清獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0408
 :SOURCE:   四庫全書 文淵閣版, V1175.8, p599
@@ -7365,7 +7407,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0313 [[mandoku:ZB4b0409.org][ZB4b0409]] 鶴林集
+*** KR4d0315 [[mandoku:ZB4b0409.org][ZB4b0409]] 鶴林集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0409
 :SOURCE:   四庫全書 文淵閣版, V1176.1, p1
@@ -7383,7 +7425,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0314 [[mandoku:ZB4b0410.org][ZB4b0410]] 東澗集
+*** KR4d0316 [[mandoku:ZB4b0410.org][ZB4b0410]] 東澗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0410
 :SOURCE:   四庫全書 文淵閣版, V1176.2, p397
@@ -7401,7 +7443,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0315 [[mandoku:ZB4b0411.org][ZB4b0411]] 方是閒居士小稿
+*** KR4d0317 [[mandoku:ZB4b0411.org][ZB4b0411]] 方是閒居士小稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0411
 :SOURCE:   四庫全書 文淵閣版, V1176.3, p565
@@ -7418,7 +7460,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0316 [[mandoku:ZB4b0412.org][ZB4b0412]] 翠微南征錄
+*** KR4d0318 [[mandoku:ZB4b0412.org][ZB4b0412]] 翠微南征錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0412
 :SOURCE:   四庫全書 文淵閣版, V1176.4, p625
@@ -7435,7 +7477,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0317 [[mandoku:ZB4b0413.org][ZB4b0413]] 浣川集
+*** KR4d0319 [[mandoku:ZB4b0413.org][ZB4b0413]] 浣川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0413
 :SOURCE:   四庫全書 文淵閣版, V1176.5, p687
@@ -7452,7 +7494,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0318 [[mandoku:ZB4b0414.org][ZB4b0414]] 漁墅類稿
+*** KR4d0320 [[mandoku:ZB4b0414.org][ZB4b0414]] 漁墅類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0414
 :SOURCE:   四庫全書 文淵閣版, V1176.6, p769
@@ -7469,7 +7511,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0319 [[mandoku:ZB4b0415.org][ZB4b0415]] 安晚堂集
+*** KR4d0321 [[mandoku:ZB4b0415.org][ZB4b0415]] 安晚堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0415
 :SOURCE:   四庫全書 文淵閣版, V1176.7, p845
@@ -7487,7 +7529,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0320 [[mandoku:ZB4b0416.org][ZB4b0416]] 滄洲塵罐編
+*** KR4d0322 [[mandoku:ZB4b0416.org][ZB4b0416]] 滄洲塵罐編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0416
 :SOURCE:   四庫全書 文淵閣版, V1176.8, p889
@@ -7505,7 +7547,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0321 [[mandoku:ZB4b0417.org][ZB4b0417]] 四六標準
+*** KR4d0323 [[mandoku:ZB4b0417.org][ZB4b0417]] 四六標準
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0417
 :SOURCE:   四庫全書 文淵閣版, V1177.1, p1
@@ -7528,7 +7570,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0322 [[mandoku:ZB4b0418.org][ZB4b0418]] 篔窗集
+*** KR4d0324 [[mandoku:ZB4b0418.org][ZB4b0418]] 篔窗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0418
 :SOURCE:   四庫全書 文淵閣版, V1178.1, p1
@@ -7546,7 +7588,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0323 [[mandoku:ZB4b0419.org][ZB4b0419]] 友林乙稿
+*** KR4d0325 [[mandoku:ZB4b0419.org][ZB4b0419]] 友林乙稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0419
 :SOURCE:   四庫全書 文淵閣版, V1178.2, p89
@@ -7563,7 +7605,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0324 [[mandoku:ZB4b0420.org][ZB4b0420]] 方壺存稿
+*** KR4d0326 [[mandoku:ZB4b0420.org][ZB4b0420]] 方壺存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0420
 :SOURCE:   四庫全書 文淵閣版, V1178.3, p117
@@ -7580,7 +7622,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0325 [[mandoku:ZB4b0421.org][ZB4b0421]] 鐵菴集
+*** KR4d0327 [[mandoku:ZB4b0421.org][ZB4b0421]] 鐵菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0421
 :SOURCE:   四庫全書 文淵閣版, V1178.4, p145
@@ -7598,7 +7640,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0326 [[mandoku:ZB4b0422.org][ZB4b0422]] 壺山四六
+*** KR4d0328 [[mandoku:ZB4b0422.org][ZB4b0422]] 壺山四六
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0422
 :SOURCE:   四庫全書 文淵閣版, V1178.5, p333
@@ -7615,7 +7657,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0327 [[mandoku:ZB4b0423.org][ZB4b0423]] 默齋遺稿
+*** KR4d0329 [[mandoku:ZB4b0423.org][ZB4b0423]] 默齋遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0423
 :SOURCE:   四庫全書 文淵閣版, V1178.6, p365
@@ -7633,7 +7675,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0328 [[mandoku:ZB4b0424.org][ZB4b0424]] 履齋遺稿
+*** KR4d0330 [[mandoku:ZB4b0424.org][ZB4b0424]] 履齋遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0424
 :SOURCE:   四庫全書 文淵閣版, V1178.7, p389
@@ -7664,7 +7706,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0329 SB24n387 三山鄭菊山先生淸雋集
+*** KR4d0331 SB24n387 三山鄭菊山先生淸雋集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n387
@@ -7706,7 +7748,7 @@
 
 **** 电子版
 [[krpimg:sbck/SB2/SB24n387/SB24n387_001-002.tif][冊 1]]
-*** KR4d0330 [[mandoku:ZB4b0425.org][ZB4b0425]] 臞軒集
+*** KR4d0332 [[mandoku:ZB4b0425.org][ZB4b0425]] 臞軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0425
 :SOURCE:   四庫全書 文淵閣版, V1178.8, p441
@@ -7724,7 +7766,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0331 [[mandoku:ZB4b0426.org][ZB4b0426]] 東野農歌集
+*** KR4d0333 [[mandoku:ZB4b0426.org][ZB4b0426]] 東野農歌集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0426
 :SOURCE:   四庫全書 文淵閣版, V1178.9, p683
@@ -7742,7 +7784,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0332 [[mandoku:ZB4b0427.org][ZB4b0427]] 敝帚藁畧
+*** KR4d0334 [[mandoku:ZB4b0427.org][ZB4b0427]] 敝帚藁畧
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0427
 :SOURCE:   四庫全書 文淵閣版, V1178.10, p703
@@ -7760,7 +7802,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0333 [[mandoku:ZB4b0428.org][ZB4b0428]] 清正存稿
+*** KR4d0335 [[mandoku:ZB4b0428.org][ZB4b0428]] 清正存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0428
 :SOURCE:   四庫全書 文淵閣版, V1178.11, p805
@@ -7796,7 +7838,7 @@
 **** responsible: 陳公昉
 **** textual witnesses
 ***** WYG
-*** KR4d0334 [[mandoku:ZB4b0430.org][ZB4b0430]] 寒松閣集
+*** KR4d0336 [[mandoku:ZB4b0430.org][ZB4b0430]] 寒松閣集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0430
 :SOURCE:   四庫全書 文淵閣版, V1179.1, p1
@@ -7813,7 +7855,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0335 [[mandoku:ZB4b0431.org][ZB4b0431]] 滄浪集
+*** KR4d0337 [[mandoku:ZB4b0431.org][ZB4b0431]] 滄浪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0431
 :SOURCE:   四庫全書 文淵閣版, V1179.2, p27
@@ -7831,7 +7873,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0336 [[mandoku:ZB4b0432.org][ZB4b0432]] 泠然齋詩集
+*** KR4d0338 [[mandoku:ZB4b0432.org][ZB4b0432]] 泠然齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0432
 :SOURCE:   四庫全書 文淵閣版, V1179.3, p69
@@ -7848,7 +7890,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0337 [[mandoku:ZB4b0433.org][ZB4b0433]] 可齋雜藁
+*** KR4d0339 [[mandoku:ZB4b0433.org][ZB4b0433]] 可齋雜藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0433
 :SOURCE:   四庫全書 文淵閣版, V1179.4, p163
@@ -7881,7 +7923,7 @@
       :BOOK:   (26)
       :END:
 
-*** KR4d0338 [[mandoku:ZB4b0434.org][ZB4b0434]] 後村集
+*** KR4d0340 [[mandoku:ZB4b0434.org][ZB4b0434]] 後村集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0434
 :SOURCE:   四庫全書 文淵閣版, V1180.1, p1
@@ -7899,7 +7941,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0339 SB24n388 先天集
+*** KR4d0341 SB24n388 先天集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n388
@@ -7926,7 +7968,7 @@
 **** 电子版
 [[krpimg:sbck/SB2/SB24n388/SB24n388_001-002.tif][冊 1]]
 [[krpimg:sbck/SB2/SB24n388/SB24n388_002-002.tif][冊 2]]
-*** KR4d0340 [[mandoku:ZB4b0435.org][ZB4b0435]] 澗泉集
+*** KR4d0342 [[mandoku:ZB4b0435.org][ZB4b0435]] 澗泉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0435
 :SOURCE:   四庫全書 文淵閣版, V1180.2, p563
@@ -7944,7 +7986,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0341 [[mandoku:ZB4b0436.org][ZB4b0436]] 矩山存稿
+*** KR4d0343 [[mandoku:ZB4b0436.org][ZB4b0436]] 矩山存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0436
 :SOURCE:   四庫全書 文淵閣版, V1181.1, p1
@@ -7969,7 +8011,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0342 [[mandoku:ZB4b0437.org][ZB4b0437]] 雪窗集
+*** KR4d0344 [[mandoku:ZB4b0437.org][ZB4b0437]] 雪窗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0437
 :SOURCE:   四庫全書 文淵閣版, V1181.2, p61
@@ -8001,7 +8043,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0343 [[mandoku:ZB4b0438.org][ZB4b0438]] 文溪集
+*** KR4d0345 [[mandoku:ZB4b0438.org][ZB4b0438]] 文溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0438
 :SOURCE:   四庫全書 文淵閣版, V1181.3, p113
@@ -8026,7 +8068,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0344 [[mandoku:ZB4b0439.org][ZB4b0439]] 庸齋集
+*** KR4d0346 [[mandoku:ZB4b0439.org][ZB4b0439]] 庸齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0439
 :SOURCE:   四庫全書 文淵閣版, V1181.4, p235
@@ -8044,7 +8086,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0345 [[mandoku:ZB4b0440.org][ZB4b0440]] 彝齋文編
+*** KR4d0347 [[mandoku:ZB4b0440.org][ZB4b0440]] 彝齋文編
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0440
 :SOURCE:   四庫全書 文淵閣版, V1181.5, p305
@@ -8062,7 +8104,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0346 [[mandoku:ZB4b0441.org][ZB4b0441]] 張氏拙軒集
+*** KR4d0348 [[mandoku:ZB4b0441.org][ZB4b0441]] 張氏拙軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0441
 :SOURCE:   四庫全書 文淵閣版, V1181.6, p369
@@ -8079,7 +8121,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0347 [[mandoku:ZB4b0442.org][ZB4b0442]] 玉楮集
+*** KR4d0349 [[mandoku:ZB4b0442.org][ZB4b0442]] 玉楮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0442
 :SOURCE:   四庫全書 文淵閣版, V1181.7, p441
@@ -8097,7 +8139,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0348 [[mandoku:ZB4b0443.org][ZB4b0443]] 靈巖集
+*** KR4d0350 [[mandoku:ZB4b0443.org][ZB4b0443]] 靈巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0443
 :SOURCE:   四庫全書 文淵閣版, V1181.8, p501
@@ -8114,7 +8156,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0349 [[mandoku:ZB4b0444.org][ZB4b0444]] 楳埜集
+*** KR4d0351 [[mandoku:ZB4b0444.org][ZB4b0444]] 楳埜集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0444
 :SOURCE:   四庫全書 文淵閣版, V1181.9, p599
@@ -8132,7 +8174,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0350 [[mandoku:ZB4b0445.org][ZB4b0445]] 恥堂存稿
+*** KR4d0352 [[mandoku:ZB4b0445.org][ZB4b0445]] 恥堂存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0445
 :SOURCE:   四庫全書 文淵閣版, V1182.1, p1
@@ -8150,7 +8192,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0351 [[mandoku:ZB4b0446.org][ZB4b0446]] 秋崖集
+*** KR4d0353 [[mandoku:ZB4b0446.org][ZB4b0446]] 秋崖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0446
 :SOURCE:   四庫全書 文淵閣版, V1182.2, p131
@@ -8168,7 +8210,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0352 [[mandoku:ZB4b0447.org][ZB4b0447]] 藝隱橫舟稿
+*** KR4d0354 [[mandoku:ZB4b0447.org][ZB4b0447]] 藝隱橫舟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0447
 :SOURCE:   四庫全書 文淵閣版, V1182.3, p617
@@ -8192,7 +8234,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0353 [[mandoku:ZB4b0448.org][ZB4b0448]] 蒙川遺稿
+*** KR4d0355 [[mandoku:ZB4b0448.org][ZB4b0448]] 蒙川遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0448
 :SOURCE:   四庫全書 文淵閣版, V1182.4, p639
@@ -8216,7 +8258,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0354 [[mandoku:ZB4b0449.org][ZB4b0449]] 雪磯叢稿
+*** KR4d0356 [[mandoku:ZB4b0449.org][ZB4b0449]] 雪磯叢稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0449
 :SOURCE:   四庫全書 文淵閣版, V1182.5, p689
@@ -8233,7 +8275,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0355 [[mandoku:ZB4b0450.org][ZB4b0450]] 北礀集
+*** KR4d0357 [[mandoku:ZB4b0450.org][ZB4b0450]] 北礀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0450
 :SOURCE:   四庫全書 文淵閣版, V1183.1, p1
@@ -8250,7 +8292,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0356 [[mandoku:ZB4b0451.org][ZB4b0451]] 西塍集
+*** KR4d0358 [[mandoku:ZB4b0451.org][ZB4b0451]] 西塍集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0451
 :SOURCE:   四庫全書 文淵閣版, V1183.2, p175
@@ -8268,7 +8310,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0357 [[mandoku:ZB4b0452.org][ZB4b0452]] 梅屋集
+*** KR4d0359 [[mandoku:ZB4b0452.org][ZB4b0452]] 梅屋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0452
 :SOURCE:   四庫全書 文淵閣版, V1183.3, p187
@@ -8286,7 +8328,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0358 [[mandoku:ZB4b0453.org][ZB4b0453]] 孝詩
+*** KR4d0360 [[mandoku:ZB4b0453.org][ZB4b0453]] 孝詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0453
 :SOURCE:   四庫全書 文淵閣版, V1183.4, p213
@@ -8304,7 +8346,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0359 [[mandoku:ZB4b0454.org][ZB4b0454]] 字溪集
+*** KR4d0361 [[mandoku:ZB4b0454.org][ZB4b0454]] 字溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0454
 :SOURCE:   四庫全書 文淵閣版, V1183.5, p253
@@ -8329,7 +8371,7 @@
       :BOOK:   (7)
       :END:
 
-*** KR4d0360 [[mandoku:ZB4b0455.org][ZB4b0455]] 勿齋集
+*** KR4d0362 [[mandoku:ZB4b0455.org][ZB4b0455]] 勿齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0455
 :SOURCE:   四庫全書 文淵閣版, V1183.6, p473
@@ -8346,7 +8388,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0361 [[mandoku:ZB4b0456.org][ZB4b0456]] 巽齋文集
+*** KR4d0363 [[mandoku:ZB4b0456.org][ZB4b0456]] 巽齋文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0456
 :SOURCE:   四庫全書 文淵閣版, V1183.7, p501
@@ -8363,7 +8405,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0362 [[mandoku:ZB4b0457.org][ZB4b0457]] 雪坡集
+*** KR4d0364 [[mandoku:ZB4b0457.org][ZB4b0457]] 雪坡集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0457
 :SOURCE:   四庫全書 文淵閣版, V1184.1, p1
@@ -8387,7 +8429,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0363 [[mandoku:ZB4b0458.org][ZB4b0458]] 文山集
+*** KR4d0365 [[mandoku:ZB4b0458.org][ZB4b0458]] 文山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0458
 :SOURCE:   四庫全書 文淵閣版, V1184.2, p359
@@ -8405,7 +8447,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0364 [[mandoku:ZB4b0459.org][ZB4b0459]] 文信國集杜詩
+*** KR4d0366 [[mandoku:ZB4b0459.org][ZB4b0459]] 文信國集杜詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0459
 :SOURCE:   四庫全書 文淵閣版, V1184.3, p805
@@ -8423,7 +8465,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0365 [[mandoku:ZB4b0460.org][ZB4b0460]] 叠山集
+*** KR4d0367 [[mandoku:ZB4b0460.org][ZB4b0460]] 叠山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0460
 :SOURCE:   四庫全書 文淵閣版, V1184.4, p843
@@ -8441,7 +8483,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0366 [[mandoku:ZB4b0461.org][ZB4b0461]] 本堂集
+*** KR4d0368 [[mandoku:ZB4b0461.org][ZB4b0461]] 本堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0461
 :SOURCE:   四庫全書 文淵閣版, V1185.1, p1
@@ -8459,7 +8501,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0367 [[mandoku:ZB4b0462.org][ZB4b0462]] 端平詩雋
+*** KR4d0369 [[mandoku:ZB4b0462.org][ZB4b0462]] 端平詩雋
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0462
 :SOURCE:   四庫全書 文淵閣版, V1185.2, p525
@@ -8483,7 +8525,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0368 [[mandoku:ZB4b0463.org][ZB4b0463]] 竹溪鬳齋十一藁續集
+*** KR4d0370 [[mandoku:ZB4b0463.org][ZB4b0463]] 竹溪鬳齋十一藁續集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0463
 :SOURCE:   四庫全書 文淵閣版, V1185.3, p553
@@ -8507,7 +8549,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0369 [[mandoku:ZB4b0464.org][ZB4b0464]] 魯齋集
+*** KR4d0371 [[mandoku:ZB4b0464.org][ZB4b0464]] 魯齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0464
 :SOURCE:   四庫全書 文淵閣版, V1186.1, p1
@@ -8525,7 +8567,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0370 [[mandoku:ZB4b0465.org][ZB4b0465]] 潛山集
+*** KR4d0372 [[mandoku:ZB4b0465.org][ZB4b0465]] 潛山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0465
 :SOURCE:   四庫全書 文淵閣版, V1186.2, p293
@@ -8543,7 +8585,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0371 SB24n390 蕭氷厓詩集拾遺
+*** KR4d0373 SB24n390 蕭氷厓詩集拾遺
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n390
@@ -8570,7 +8612,7 @@
 **** 电子版
 [[krpimg:sbck/SB2/SB24n390/SB24n390_001-002.tif][冊 1]]
 [[krpimg:sbck/SB2/SB24n390/SB24n390_002-002.tif][冊 2]]
-*** KR4d0372 [[mandoku:ZB4b0466.org][ZB4b0466]] 須溪集
+*** KR4d0374 [[mandoku:ZB4b0466.org][ZB4b0466]] 須溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0466
 :SOURCE:   四庫全書 文淵閣版, V1186.3, p401
@@ -8588,7 +8630,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0373 [[mandoku:ZB4b0467.org][ZB4b0467]] 須溪四景詩集
+*** KR4d0375 [[mandoku:ZB4b0467.org][ZB4b0467]] 須溪四景詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0467
 :SOURCE:   四庫全書 文淵閣版, V1186.4, p637
@@ -8606,7 +8648,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0374 [[mandoku:ZB4b0468.org][ZB4b0468]] 葦航漫游稿
+*** KR4d0376 [[mandoku:ZB4b0468.org][ZB4b0468]] 葦航漫游稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0468
 :SOURCE:   四庫全書 文淵閣版, V1186.5, p663
@@ -8623,7 +8665,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0375 [[mandoku:ZB4b0469.org][ZB4b0469]] 蘭臯集
+*** KR4d0377 [[mandoku:ZB4b0469.org][ZB4b0469]] 蘭臯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0469
 :SOURCE:   四庫全書 文淵閣版, V1186.6, p719
@@ -8641,7 +8683,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0376 [[mandoku:ZB4b0470.org][ZB4b0470]] 雲泉詩
+*** KR4d0378 [[mandoku:ZB4b0470.org][ZB4b0470]] 雲泉詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0470
 :SOURCE:   四庫全書 文淵閣版, V1186.7, p737
@@ -8658,7 +8700,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0377 [[mandoku:ZB4b0471.org][ZB4b0471]] 嘉禾百咏
+*** KR4d0379 [[mandoku:ZB4b0471.org][ZB4b0471]] 嘉禾百咏
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0471
 :SOURCE:   四庫全書 文淵閣版, V1186.8, p765
@@ -8675,7 +8717,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0378 [[mandoku:ZB4b0472.org][ZB4b0472]] 柳塘外集
+*** KR4d0380 [[mandoku:ZB4b0472.org][ZB4b0472]] 柳塘外集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0472
 :SOURCE:   四庫全書 文淵閣版, V1186.9, p783
@@ -8693,7 +8735,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0379 [[mandoku:ZB4b0473.org][ZB4b0473]] 碧梧玩芳集
+*** KR4d0381 [[mandoku:ZB4b0473.org][ZB4b0473]] 碧梧玩芳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0473
 :SOURCE:   四庫全書 文淵閣版, V1187.1, p1
@@ -8711,7 +8753,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0380 [[mandoku:ZB4b0474.org][ZB4b0474]] 四明文獻集
+*** KR4d0382 [[mandoku:ZB4b0474.org][ZB4b0474]] 四明文獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0474
 :SOURCE:   四庫全書 文淵閣版, V1187.2, p181
@@ -8741,7 +8783,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0381 [[mandoku:ZB4b0475.org][ZB4b0475]] 覆瓿集
+*** KR4d0383 [[mandoku:ZB4b0475.org][ZB4b0475]] 覆瓿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0475
 :SOURCE:   四庫全書 文淵閣版, V1187.3, p275
@@ -8759,7 +8801,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0382 [[mandoku:ZB4b0476.org][ZB4b0476]] 閬風集
+*** KR4d0384 [[mandoku:ZB4b0476.org][ZB4b0476]] 閬風集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0476
 :SOURCE:   四庫全書 文淵閣版, V1187.4, p323
@@ -8777,7 +8819,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0383 [[mandoku:ZB4b0477.org][ZB4b0477]] 北遊集
+*** KR4d0385 [[mandoku:ZB4b0477.org][ZB4b0477]] 北遊集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0477
 :SOURCE:   四庫全書 文淵閣版, V1187.5, p449
@@ -8794,7 +8836,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0384 [[mandoku:ZB4b0478.org][ZB4b0478]] 秋堂集
+*** KR4d0386 [[mandoku:ZB4b0478.org][ZB4b0478]] 秋堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0478
 :SOURCE:   四庫全書 文淵閣版, V1187.6, p475
@@ -8819,7 +8861,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0385 [[mandoku:ZB4b0479.org][ZB4b0479]] 蛟峯文集
+*** KR4d0387 [[mandoku:ZB4b0479.org][ZB4b0479]] 蛟峯文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0479
 :SOURCE:   四庫全書 文淵閣版, V1187.7, p495
@@ -8870,7 +8912,7 @@
       :FUNCTION: 續輯
       :END:
 
-*** KR4d0386 [[mandoku:ZB4b0480.org][ZB4b0480]] 秋聲集
+*** KR4d0388 [[mandoku:ZB4b0480.org][ZB4b0480]] 秋聲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0480
 :SOURCE:   四庫全書 文淵閣版, V1187.8, p627
@@ -8888,7 +8930,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0387 [[mandoku:ZB4b0481.org][ZB4b0481]] 牟氏陵陽集
+*** KR4d0389 [[mandoku:ZB4b0481.org][ZB4b0481]] 牟氏陵陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0481
 :SOURCE:   四庫全書 文淵閣版, V1188.1, p1
@@ -8906,7 +8948,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0388 [[mandoku:ZB4b0482.org][ZB4b0482]] 湖山類稿
+*** KR4d0390 [[mandoku:ZB4b0482.org][ZB4b0482]] 湖山類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0482
 :SOURCE:   四庫全書 文淵閣版, V1188.2, p221
@@ -8938,7 +8980,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0389 [[mandoku:ZB4b0483.org][ZB4b0483]] 晞髮集
+*** KR4d0391 [[mandoku:ZB4b0483.org][ZB4b0483]] 晞髮集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0483
 :SOURCE:   四庫全書 文淵閣版, V1188.3, p281
@@ -9010,7 +9052,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0390 [[mandoku:ZB4b0484.org][ZB4b0484]] 潛齋集
+*** KR4d0392 [[mandoku:ZB4b0484.org][ZB4b0484]] 潛齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0484
 :SOURCE:   四庫全書 文淵閣版, V1188.4, p365
@@ -9047,7 +9089,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0391 [[mandoku:ZB4b0485.org][ZB4b0485]] 梅巖文集
+*** KR4d0393 [[mandoku:ZB4b0485.org][ZB4b0485]] 梅巖文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0485
 :SOURCE:   四庫全書 文淵閣版, V1188.5, p531
@@ -9077,7 +9119,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0392 [[mandoku:ZB4b0486.org][ZB4b0486]] 四如集
+*** KR4d0394 [[mandoku:ZB4b0486.org][ZB4b0486]] 四如集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0486
 :SOURCE:   四庫全書 文淵閣版, V1188.6, p591
@@ -9102,7 +9144,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0393 [[mandoku:ZB4b0487.org][ZB4b0487]] 霽山文集
+*** KR4d0395 [[mandoku:ZB4b0487.org][ZB4b0487]] 霽山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0487
 :SOURCE:   四庫全書 文淵閣版, V1188.7, p687
@@ -9126,7 +9168,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0394 [[mandoku:ZB4b0488.org][ZB4b0488]] 勿軒集
+*** KR4d0396 [[mandoku:ZB4b0488.org][ZB4b0488]] 勿軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0488
 :SOURCE:   四庫全書 文淵閣版, V1188.8, p761
@@ -9150,7 +9192,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0395 [[mandoku:ZB4b0489.org][ZB4b0489]] 古梅遺稿
+*** KR4d0397 [[mandoku:ZB4b0489.org][ZB4b0489]] 古梅遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0489
 :SOURCE:   四庫全書 文淵閣版, V1188.9, p841
@@ -9168,7 +9210,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0396 [[mandoku:ZB4b0490.org][ZB4b0490]] 佩韋齋集
+*** KR4d0398 [[mandoku:ZB4b0490.org][ZB4b0490]] 佩韋齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0490
 :SOURCE:   四庫全書 文淵閣版, V1189.1, p1
@@ -9185,7 +9227,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0397 [[mandoku:ZB4b0491.org][ZB4b0491]] 廬山集
+*** KR4d0399 [[mandoku:ZB4b0491.org][ZB4b0491]] 廬山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0491
 :SOURCE:   四庫全書 文淵閣版, V1189.2, p167
@@ -9210,7 +9252,7 @@
       :BOOK:   (3)
       :END:
 
-*** KR4d0398 [[mandoku:ZB4b0492.org][ZB4b0492]] 西湖百詠
+*** KR4d0400 [[mandoku:ZB4b0492.org][ZB4b0492]] 西湖百詠
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0492
 :SOURCE:   四庫全書 文淵閣版, V1189.3, p233
@@ -9234,7 +9276,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0399 [[mandoku:ZB4b0493.org][ZB4b0493]] 則堂集
+*** KR4d0401 [[mandoku:ZB4b0493.org][ZB4b0493]] 則堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0493
 :SOURCE:   四庫全書 文淵閣版, V1189.4, p273
@@ -9252,7 +9294,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0400 [[mandoku:ZB4b0494.org][ZB4b0494]] 富山遺稿
+*** KR4d0402 [[mandoku:ZB4b0494.org][ZB4b0494]] 富山遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0494
 :SOURCE:   四庫全書 文淵閣版, V1189.5, p365
@@ -9269,7 +9311,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0401 [[mandoku:ZB4b0495.org][ZB4b0495]] 眞山民集
+*** KR4d0403 [[mandoku:ZB4b0495.org][ZB4b0495]] 眞山民集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0495
 :SOURCE:   四庫全書 文淵閣版, V1189.6, p447
@@ -9286,7 +9328,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0402 [[mandoku:ZB4b0496.org][ZB4b0496]] 百正集
+*** KR4d0404 [[mandoku:ZB4b0496.org][ZB4b0496]] 百正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0496
 :SOURCE:   四庫全書 文淵閣版, V1189.7, p463
@@ -9304,7 +9346,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0403 [[mandoku:ZB4b0497.org][ZB4b0497]] 月洞吟
+*** KR4d0405 [[mandoku:ZB4b0497.org][ZB4b0497]] 月洞吟
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0497
 :SOURCE:   四庫全書 文淵閣版, V1189.8, p489
@@ -9321,7 +9363,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0404 [[mandoku:ZB4b0498.org][ZB4b0498]] 伯牙琴
+*** KR4d0406 [[mandoku:ZB4b0498.org][ZB4b0498]] 伯牙琴
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0498
 :SOURCE:   四庫全書 文淵閣版, V1189.9, p501
@@ -9346,7 +9388,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0405 [[mandoku:ZB4b0499.org][ZB4b0499]] 存雅堂遺稿
+*** KR4d0407 [[mandoku:ZB4b0499.org][ZB4b0499]] 存雅堂遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0499
 :SOURCE:   四庫全書 文淵閣版, V1189.10, p525
@@ -9370,7 +9412,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0406 [[mandoku:ZB4b0500.org][ZB4b0500]] 吾汶藁
+*** KR4d0408 [[mandoku:ZB4b0500.org][ZB4b0500]] 吾汶藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0500
 :SOURCE:   四庫全書 文淵閣版, V1189.11, p561
@@ -9387,7 +9429,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0407 [[mandoku:ZB4b0501.org][ZB4b0501]] 在軒集
+*** KR4d0409 [[mandoku:ZB4b0501.org][ZB4b0501]] 在軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0501
 :SOURCE:   四庫全書 文淵閣版, V1189.12, p629
@@ -9405,7 +9447,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0408 [[mandoku:ZB4b0502.org][ZB4b0502]] 紫巖詩選
+*** KR4d0410 [[mandoku:ZB4b0502.org][ZB4b0502]] 紫巖詩選
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0502
 :SOURCE:   四庫全書 文淵閣版, V1189.13, p653
@@ -9428,7 +9470,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0409 [[mandoku:ZB4b0503.org][ZB4b0503]] 九華詩集
+*** KR4d0411 [[mandoku:ZB4b0503.org][ZB4b0503]] 九華詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0503
 :SOURCE:   四庫全書 文淵閣版, V1189.14, p687
@@ -9453,7 +9495,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0410 [[mandoku:ZB4b0504.org][ZB4b0504]] 寧極齋稿
+*** KR4d0412 [[mandoku:ZB4b0504.org][ZB4b0504]] 寧極齋稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0504
 :SOURCE:   四庫全書 文淵閣版, V1189.15, p713
@@ -9484,7 +9526,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0411 [[mandoku:ZB4b0505.org][ZB4b0505]] 自堂存藁
+*** KR4d0413 [[mandoku:ZB4b0505.org][ZB4b0505]] 自堂存藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0505
 :SOURCE:   四庫全書 文淵閣版, V1189.16, p739
@@ -9501,7 +9543,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0412 [[mandoku:ZB4b0506.org][ZB4b0506]] 仁山文集
+*** KR4d0414 [[mandoku:ZB4b0506.org][ZB4b0506]] 仁山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0506
 :SOURCE:   四庫全書 文淵閣版, V1189.17, p783
@@ -9519,7 +9561,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0413 [[mandoku:ZB4b0507.org][ZB4b0507]] 心泉學詩稿
+*** KR4d0415 [[mandoku:ZB4b0507.org][ZB4b0507]] 心泉學詩稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0507
 :SOURCE:   四庫全書 文淵閣版, V1189.18, p835
@@ -9537,7 +9579,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0414 [[mandoku:ZB4b0508.org][ZB4b0508]] 拙軒集
+*** KR4d0416 [[mandoku:ZB4b0508.org][ZB4b0508]] 拙軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0508
 :SOURCE:   四庫全書 文淵閣版, V1190.1, p1
@@ -9555,7 +9597,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0415 [[mandoku:ZB4b0509.org][ZB4b0509]] 滏水集
+*** KR4d0417 [[mandoku:ZB4b0509.org][ZB4b0509]] 滏水集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0509
 :SOURCE:   四庫全書 文淵閣版, V1190.2, p55
@@ -9580,7 +9622,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0416 [[mandoku:ZB4b0510.org][ZB4b0510]] 滹南集
+*** KR4d0418 [[mandoku:ZB4b0510.org][ZB4b0510]] 滹南集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0510
 :SOURCE:   四庫全書 文淵閣版, V1190.3, p267
@@ -9605,7 +9647,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0417 [[mandoku:ZB4b0511.org][ZB4b0511]] 莊靖集
+*** KR4d0419 [[mandoku:ZB4b0511.org][ZB4b0511]] 莊靖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0511
 :SOURCE:   四庫全書 文淵閣版, V1190.4, p519
@@ -9622,7 +9664,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0418 [[mandoku:ZB4b0512.org][ZB4b0512]] 遺山集
+*** KR4d0420 [[mandoku:ZB4b0512.org][ZB4b0512]] 遺山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0512
 :SOURCE:   四庫全書 文淵閣版, V1191.1, p1
@@ -9647,7 +9689,7 @@
       :BOOK:   (18)
       :END:
 
-*** KR4d0419 [[mandoku:ZB4b0513.org][ZB4b0513]] 湛然居士集
+*** KR4d0421 [[mandoku:ZB4b0513.org][ZB4b0513]] 湛然居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0513
 :SOURCE:   四庫全書 文淵閣版, V1191.2, p487
@@ -9665,7 +9707,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0420 [[mandoku:ZB4b0514.org][ZB4b0514]] 藏春集
+*** KR4d0422 [[mandoku:ZB4b0514.org][ZB4b0514]] 藏春集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0514
 :SOURCE:   四庫全書 文淵閣版, V1191.3, p633
@@ -9695,7 +9737,7 @@
       :FUNCTION: 編
       :END:
 
-*** KR4d0421 [[mandoku:ZB4b0515.org][ZB4b0515]] 淮陽集
+*** KR4d0423 [[mandoku:ZB4b0515.org][ZB4b0515]] 淮陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0515
 :SOURCE:   四庫全書 文淵閣版, V1191.4, p703
@@ -9720,7 +9762,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0422 [[mandoku:ZB4b0516.org][ZB4b0516]] 陵川集
+*** KR4d0424 [[mandoku:ZB4b0516.org][ZB4b0516]] 陵川集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0516
 :SOURCE:   四庫全書 文淵閣版, V1192.1, p1
@@ -9738,7 +9780,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0423 [[mandoku:ZB4b0517.org][ZB4b0517]] 歸田類稿
+*** KR4d0425 [[mandoku:ZB4b0517.org][ZB4b0517]] 歸田類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0517
 :SOURCE:   四庫全書 文淵閣版, V1192.2, p471
@@ -9756,7 +9798,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0424 [[mandoku:ZB4b0518.org][ZB4b0518]] 白雲集
+*** KR4d0426 [[mandoku:ZB4b0518.org][ZB4b0518]] 白雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0518
 :SOURCE:   四庫全書 文淵閣版, V1192.3, p663
@@ -9773,7 +9815,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0425 [[mandoku:ZB4b0519.org][ZB4b0519]] 稼村類藁
+*** KR4d0427 [[mandoku:ZB4b0519.org][ZB4b0519]] 稼村類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0519
 :SOURCE:   四庫全書 文淵閣版, V1193.1, p1
@@ -9791,7 +9833,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0426 [[mandoku:ZB4b0520.org][ZB4b0520]] 桐江續集
+*** KR4d0428 [[mandoku:ZB4b0520.org][ZB4b0520]] 桐江續集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0520
 :SOURCE:   四庫全書 文淵閣版, V1193.2, p219
@@ -9809,7 +9851,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0427 [[mandoku:ZB4b0521.org][ZB4b0521]] 野趣有聲畫
+*** KR4d0429 [[mandoku:ZB4b0521.org][ZB4b0521]] 野趣有聲畫
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0521
 :SOURCE:   四庫全書 文淵閣版, V1193.3, p729
@@ -9826,7 +9868,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0428 [[mandoku:ZB4b0522.org][ZB4b0522]] 月屋漫稿
+*** KR4d0430 [[mandoku:ZB4b0522.org][ZB4b0522]] 月屋漫稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0522
 :SOURCE:   四庫全書 文淵閣版, V1193.4, p777
@@ -9843,7 +9885,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0429 [[mandoku:ZB4b0523.org][ZB4b0523]] 剡源文集
+*** KR4d0431 [[mandoku:ZB4b0523.org][ZB4b0523]] 剡源文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0523
 :SOURCE:   四庫全書 文淵閣版, V1194.1, p1
@@ -9861,7 +9903,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0430 [[mandoku:ZB4b0524.org][ZB4b0524]] 剩語
+*** KR4d0432 [[mandoku:ZB4b0524.org][ZB4b0524]] 剩語
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0524
 :SOURCE:   四庫全書 文淵閣版, V1194.2, p397
@@ -9878,7 +9920,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0431 [[mandoku:ZB4b0525.org][ZB4b0525]] 養蒙文集
+*** KR4d0433 [[mandoku:ZB4b0525.org][ZB4b0525]] 養蒙文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0525
 :SOURCE:   四庫全書 文淵閣版, V1194.3, p429
@@ -9896,7 +9938,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0432 [[mandoku:ZB4b0526.org][ZB4b0526]] 牆東類稿
+*** KR4d0434 [[mandoku:ZB4b0526.org][ZB4b0526]] 牆東類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0526
 :SOURCE:   四庫全書 文淵閣版, V1194.4, p527
@@ -9914,7 +9956,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0433 [[mandoku:ZB4b0527.org][ZB4b0527]] 青山集
+*** KR4d0435 [[mandoku:ZB4b0527.org][ZB4b0527]] 青山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0527
 :SOURCE:   四庫全書 文淵閣版, V1195.1, p1
@@ -9932,7 +9974,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0434 [[mandoku:ZB4b0528.org][ZB4b0528]] 桂隱文集
+*** KR4d0436 [[mandoku:ZB4b0528.org][ZB4b0528]] 桂隱文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0528
 :SOURCE:   四庫全書 文淵閣版, V1195.2, p115
@@ -9963,7 +10005,7 @@
       :BOOK:   4
       :END:
 
-*** KR4d0435 [[mandoku:ZB4b0529.org][ZB4b0529]] 水雲村槀
+*** KR4d0437 [[mandoku:ZB4b0529.org][ZB4b0529]] 水雲村槀
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0529
 :SOURCE:   四庫全書 文淵閣版, V1195.3, p335
@@ -9981,7 +10023,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0436 [[mandoku:ZB4b0530.org][ZB4b0530]] 巴西集
+*** KR4d0438 [[mandoku:ZB4b0530.org][ZB4b0530]] 巴西集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0530
 :SOURCE:   四庫全書 文淵閣版, V1195.4, p507
@@ -9999,7 +10041,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0437 [[mandoku:ZB4b0531.org][ZB4b0531]] 屏巖小稿
+*** KR4d0439 [[mandoku:ZB4b0531.org][ZB4b0531]] 屏巖小稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0531
 :SOURCE:   四庫全書 文淵閣版, V1195.5, p579
@@ -10016,7 +10058,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0438 [[mandoku:ZB4b0532.org][ZB4b0532]] 玉斗山人集
+*** KR4d0440 [[mandoku:ZB4b0532.org][ZB4b0532]] 玉斗山人集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0532
 :SOURCE:   四庫全書 文淵閣版, V1195.6, p627
@@ -10033,7 +10075,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0439 [[mandoku:ZB4b0533.org][ZB4b0533]] 谷響集
+*** KR4d0441 [[mandoku:ZB4b0533.org][ZB4b0533]] 谷響集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0533
 :SOURCE:   四庫全書 文淵閣版, V1195.7, p659
@@ -10050,7 +10092,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0440 [[mandoku:ZB4b0534.org][ZB4b0534]] 竹素山房詩集
+*** KR4d0442 [[mandoku:ZB4b0534.org][ZB4b0534]] 竹素山房詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0534
 :SOURCE:   四庫全書 文淵閣版, V1195.8, p739
@@ -10075,7 +10117,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0441 [[mandoku:ZB4b0535.org][ZB4b0535]] 紫山大全集
+*** KR4d0443 [[mandoku:ZB4b0535.org][ZB4b0535]] 紫山大全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0535
 :SOURCE:   四庫全書 文淵閣版, V1196.1, p1
@@ -10092,7 +10134,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0442 [[mandoku:ZB4b0536.org][ZB4b0536]] 松鄉集
+*** KR4d0444 [[mandoku:ZB4b0536.org][ZB4b0536]] 松鄉集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0536
 :SOURCE:   四庫全書 文淵閣版, V1196.2, p487
@@ -10110,7 +10152,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0443 [[mandoku:ZB4b0537.org][ZB4b0537]] 松雪齋集
+*** KR4d0445 [[mandoku:ZB4b0537.org][ZB4b0537]] 松雪齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0537
 :SOURCE:   四庫全書 文淵閣版, V1196.3, p597
@@ -10135,7 +10177,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0444 [[mandoku:ZB4b0538.org][ZB4b0538]] 吳文正集
+*** KR4d0446 [[mandoku:ZB4b0538.org][ZB4b0538]] 吳文正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0538
 :SOURCE:   四庫全書 文淵閣版, V1197.1, p1
@@ -10166,7 +10208,7 @@
       :BOOK:   (42)
       :END:
 
-*** KR4d0445 [[mandoku:ZB4b0539.org][ZB4b0539]] 金淵集
+*** KR4d0447 [[mandoku:ZB4b0539.org][ZB4b0539]] 金淵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0539
 :SOURCE:   四庫全書 文淵閣版, V1198.1, p1
@@ -10184,7 +10226,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0446 [[mandoku:ZB4b0540.org][ZB4b0540]] 山村遺集
+*** KR4d0448 [[mandoku:ZB4b0540.org][ZB4b0540]] 山村遺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0540
 :SOURCE:   四庫全書 文淵閣版, V1198.2, p63
@@ -10208,7 +10250,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0447 [[mandoku:ZB4b0541.org][ZB4b0541]] 湛淵集
+*** KR4d0449 [[mandoku:ZB4b0541.org][ZB4b0541]] 湛淵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0541
 :SOURCE:   四庫全書 文淵閣版, V1198.3, p87
@@ -10239,7 +10281,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0448 [[mandoku:ZB4b0542.org][ZB4b0542]] 牧潛集
+*** KR4d0450 [[mandoku:ZB4b0542.org][ZB4b0542]] 牧潛集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0542
 :SOURCE:   四庫全書 文淵閣版, V1198.4, p107
@@ -10257,7 +10299,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0449 [[mandoku:ZB4b0543.org][ZB4b0543]] 小亨集
+*** KR4d0451 [[mandoku:ZB4b0543.org][ZB4b0543]] 小亨集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0543
 :SOURCE:   四庫全書 文淵閣版, V1198.5, p159
@@ -10275,7 +10317,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0450 [[mandoku:ZB4b0544.org][ZB4b0544]] 還山遺稿
+*** KR4d0452 [[mandoku:ZB4b0544.org][ZB4b0544]] 還山遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0544
 :SOURCE:   四庫全書 文淵閣版, V1198.6, p219
@@ -10313,7 +10355,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0451 [[mandoku:ZB4b0545.org][ZB4b0545]] 魯齋遺書
+*** KR4d0453 [[mandoku:ZB4b0545.org][ZB4b0545]] 魯齋遺書
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0545
 :SOURCE:   四庫全書 文淵閣版, V1198.7, p273
@@ -10331,7 +10373,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0452 [[mandoku:ZB4b0546.org][ZB4b0546]] 靜修集
+*** KR4d0454 [[mandoku:ZB4b0546.org][ZB4b0546]] 靜修集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0546
 :SOURCE:   四庫全書 文淵閣版, V1198.8, p481
@@ -10356,7 +10398,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0453 [[mandoku:ZB4b0547.org][ZB4b0547]] 青崖集
+*** KR4d0455 [[mandoku:ZB4b0547.org][ZB4b0547]] 青崖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0547
 :SOURCE:   四庫全書 文淵閣版, V1198.9, p689
@@ -10374,7 +10416,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0454 [[mandoku:ZB4b0548.org][ZB4b0548]] 養吾齋集
+*** KR4d0456 [[mandoku:ZB4b0548.org][ZB4b0548]] 養吾齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0548
 :SOURCE:   四庫全書 文淵閣版, V1199.1, p1
@@ -10391,7 +10433,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0455 [[mandoku:ZB4b0549.org][ZB4b0549]] 存悔齋稿
+*** KR4d0457 [[mandoku:ZB4b0549.org][ZB4b0549]] 存悔齋稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0549
 :SOURCE:   四庫全書 文淵閣版, V1199.2, p323
@@ -10422,7 +10464,7 @@
       :FUNCTION: 輯
       :END:
 
-*** KR4d0456 [[mandoku:ZB4b0550.org][ZB4b0550]] 雙溪醉隱集
+*** KR4d0458 [[mandoku:ZB4b0550.org][ZB4b0550]] 雙溪醉隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0550
 :SOURCE:   四庫全書 文淵閣版, V1199.3, p355
@@ -10439,7 +10481,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0457 [[mandoku:ZB4b0551.org][ZB4b0551]] 東庵集
+*** KR4d0459 [[mandoku:ZB4b0551.org][ZB4b0551]] 東庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0551
 :SOURCE:   四庫全書 文淵閣版, V1199.4, p493
@@ -10457,7 +10499,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0458 [[mandoku:ZB4b0552.org][ZB4b0552]] 白雲集
+*** KR4d0460 [[mandoku:ZB4b0552.org][ZB4b0552]] 白雲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0552
 :SOURCE:   四庫全書 文淵閣版, V1199.5, p529
@@ -10488,7 +10530,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0459 [[mandoku:ZB4b0553.org][ZB4b0553]] 畏齋集
+*** KR4d0461 [[mandoku:ZB4b0553.org][ZB4b0553]] 畏齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0553
 :SOURCE:   四庫全書 文淵閣版, V1199.6, p609
@@ -10506,7 +10548,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0460 [[mandoku:ZB4b0554.org][ZB4b0554]] 默庵集
+*** KR4d0462 [[mandoku:ZB4b0554.org][ZB4b0554]] 默庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0554
 :SOURCE:   四庫全書 文淵閣版, V1199.7, p707
@@ -10524,7 +10566,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0461 [[mandoku:ZB4b0555.org][ZB4b0555]] 雲峯集
+*** KR4d0463 [[mandoku:ZB4b0555.org][ZB4b0555]] 雲峯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0555
 :SOURCE:   四庫全書 文淵閣版, V1199.8, p735
@@ -10542,7 +10584,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0462 [[mandoku:ZB4b0556.org][ZB4b0556]] 秋澗集
+*** KR4d0464 [[mandoku:ZB4b0556.org][ZB4b0556]] 秋澗集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0556
 :SOURCE:   四庫全書 文淵閣版, V1200.1, p1 - V1201.1
@@ -10560,7 +10602,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0463 [[mandoku:ZB4b0557.org][ZB4b0557]] 牧庵集
+*** KR4d0465 [[mandoku:ZB4b0557.org][ZB4b0557]] 牧庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0557
 :SOURCE:   四庫全書 文淵閣版, V1201.2, p401
@@ -10591,7 +10633,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0464 [[mandoku:ZB4b0558.org][ZB4b0558]] 雪樓集
+*** KR4d0466 [[mandoku:ZB4b0558.org][ZB4b0558]] 雪樓集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0558
 :SOURCE:   四庫全書 文淵閣版, V1202.1, p1
@@ -10629,7 +10671,7 @@
       :FUNCTION: 編錄
       :END:
 
-*** KR4d0465 [[mandoku:ZB4b0559.org][ZB4b0559]] 曹文貞公詩集
+*** KR4d0467 [[mandoku:ZB4b0559.org][ZB4b0559]] 曹文貞公詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0559
 :SOURCE:   四庫全書 文淵閣版, V1202.2, p475
@@ -10654,7 +10696,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0466 [[mandoku:ZB4b0560.org][ZB4b0560]] 芳谷集
+*** KR4d0468 [[mandoku:ZB4b0560.org][ZB4b0560]] 芳谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0560
 :SOURCE:   四庫全書 文淵閣版, V1202.3, p543
@@ -10671,7 +10713,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0467 [[mandoku:ZB4b0561.org][ZB4b0561]] 陳剛中詩集
+*** KR4d0469 [[mandoku:ZB4b0561.org][ZB4b0561]] 陳剛中詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0561
 :SOURCE:   四庫全書 文淵閣版, V1202.4, p613
@@ -10696,7 +10738,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0468 [[mandoku:ZB4b0562.org][ZB4b0562]] 秋巖詩集
+*** KR4d0470 [[mandoku:ZB4b0562.org][ZB4b0562]] 秋巖詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0562
 :SOURCE:   四庫全書 文淵閣版, V1202.5, p673
@@ -10714,7 +10756,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0469 [[mandoku:ZB4b0563.org][ZB4b0563]] 玉井樵唱
+*** KR4d0471 [[mandoku:ZB4b0563.org][ZB4b0563]] 玉井樵唱
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0563
 :SOURCE:   四庫全書 文淵閣版, V1202.6, p693
@@ -10731,7 +10773,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0470 [[mandoku:ZB4b0564.org][ZB4b0564]] 蘭軒集
+*** KR4d0472 [[mandoku:ZB4b0564.org][ZB4b0564]] 蘭軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0564
 :SOURCE:   四庫全書 文淵閣版, V1202.7, p727
@@ -10749,7 +10791,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0471 [[mandoku:ZB4b0565.org][ZB4b0565]] 清容居士集
+*** KR4d0473 [[mandoku:ZB4b0565.org][ZB4b0565]] 清容居士集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0565
 :SOURCE:   四庫全書 文淵閣版, V1203.1, p1
@@ -10767,7 +10809,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0472 [[mandoku:ZB4b0566.org][ZB4b0566]] 此山詩集
+*** KR4d0474 [[mandoku:ZB4b0566.org][ZB4b0566]] 此山詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0566
 :SOURCE:   四庫全書 文淵閣版, V1204.1, p1
@@ -10791,7 +10833,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0473 [[mandoku:ZB4b0567.org][ZB4b0567]] 霞外詩集
+*** KR4d0475 [[mandoku:ZB4b0567.org][ZB4b0567]] 霞外詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0567
 :SOURCE:   四庫全書 文淵閣版, V1204.2, p55
@@ -10808,7 +10850,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0474 [[mandoku:ZB4b0568.org][ZB4b0568]] 申齋集
+*** KR4d0476 [[mandoku:ZB4b0568.org][ZB4b0568]] 申齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0568
 :SOURCE:   四庫全書 文淵閣版, V1204.3, p171
@@ -10831,7 +10873,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0475 [[mandoku:ZB4b0569.org][ZB4b0569]] 西巖集
+*** KR4d0477 [[mandoku:ZB4b0569.org][ZB4b0569]] 西巖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0569
 :SOURCE:   四庫全書 文淵閣版, V1204.4, p361
@@ -10849,7 +10891,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0476 [[mandoku:ZB4b0570.org][ZB4b0570]] 蒲室集
+*** KR4d0478 [[mandoku:ZB4b0570.org][ZB4b0570]] 蒲室集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0570
 :SOURCE:   四庫全書 文淵閣版, V1204.5, p525
@@ -10866,7 +10908,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0477 [[mandoku:ZB4b0571.org][ZB4b0571]] 弁山小隱吟錄
+*** KR4d0479 [[mandoku:ZB4b0571.org][ZB4b0571]] 弁山小隱吟錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0571
 :SOURCE:   四庫全書 文淵閣版, V1205.1, p1
@@ -10883,7 +10925,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0478 [[mandoku:ZB4b0572.org][ZB4b0572]] 續軒渠集
+*** KR4d0480 [[mandoku:ZB4b0572.org][ZB4b0572]] 續軒渠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0572
 :SOURCE:   四庫全書 文淵閣版, V1205.2, p57
@@ -10914,7 +10956,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0479 [[mandoku:ZB4b0573.org][ZB4b0573]] 定宇集
+*** KR4d0481 [[mandoku:ZB4b0573.org][ZB4b0573]] 定宇集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0573
 :SOURCE:   四庫全書 文淵閣版, V1205.3, p151
@@ -10946,7 +10988,7 @@
       :BOOK:   (12)
       :END:
 
-*** KR4d0480 [[mandoku:ZB4b0575.org][ZB4b0575]] 艮齋詩集
+*** KR4d0482 [[mandoku:ZB4b0575.org][ZB4b0575]] 艮齋詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0575
 :SOURCE:   四庫全書 文淵閣版, V1205.4, p451
@@ -10963,7 +11005,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0481 [[mandoku:ZB4b0576.org][ZB4b0576]] 知非堂稿
+*** KR4d0483 [[mandoku:ZB4b0576.org][ZB4b0576]] 知非堂稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0576
 :SOURCE:   四庫全書 文淵閣版, V1205.5, p523
@@ -10981,7 +11023,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0482 [[mandoku:ZB4b0577.org][ZB4b0577]] 雲林集
+*** KR4d0484 [[mandoku:ZB4b0577.org][ZB4b0577]] 雲林集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0577
 :SOURCE:   四庫全書 文淵閣版, V1205.6, p595
@@ -10999,7 +11041,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0483 [[mandoku:ZB4b0578.org][ZB4b0578]] 梅花字字香
+*** KR4d0485 [[mandoku:ZB4b0578.org][ZB4b0578]] 梅花字字香
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0578
 :SOURCE:   四庫全書 文淵閣版, V1205.7, p667
@@ -11029,7 +11071,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0484 [[mandoku:ZB4b0579.org][ZB4b0579]] 中庵集
+*** KR4d0486 [[mandoku:ZB4b0579.org][ZB4b0579]] 中庵集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0579
 :SOURCE:   四庫全書 文淵閣版, V1206.1, p1
@@ -11047,7 +11089,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0485 [[mandoku:ZB4b0580.org][ZB4b0580]] 文忠集
+*** KR4d0487 [[mandoku:ZB4b0580.org][ZB4b0580]] 文忠集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0580
 :SOURCE:   四庫全書 文淵閣版, V1206.2, p201
@@ -11065,7 +11107,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0486 [[mandoku:ZB4b0581.org][ZB4b0581]] 靜春堂詩集
+*** KR4d0488 [[mandoku:ZB4b0581.org][ZB4b0581]] 靜春堂詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0581
 :SOURCE:   四庫全書 文淵閣版, V1206.3, p263
@@ -11090,7 +11132,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0487 [[mandoku:ZB4b0582.org][ZB4b0582]] 惟實集
+*** KR4d0489 [[mandoku:ZB4b0582.org][ZB4b0582]] 惟實集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0582
 :SOURCE:   四庫全書 文淵閣版, V1206.4, p295
@@ -11108,7 +11150,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0488 [[mandoku:ZB4b0583.org][ZB4b0583]] 勤齋集
+*** KR4d0490 [[mandoku:ZB4b0583.org][ZB4b0583]] 勤齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0583
 :SOURCE:   四庫全書 文淵閣版, V1206.5, p377
@@ -11126,7 +11168,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0489 [[mandoku:ZB4b0584.org][ZB4b0584]] 石田文集
+*** KR4d0491 [[mandoku:ZB4b0584.org][ZB4b0584]] 石田文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0584
 :SOURCE:   四庫全書 文淵閣版, V1206.6, p459
@@ -11151,7 +11193,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0490 [[mandoku:ZB4b0585.org][ZB4b0585]] 榘菴集
+*** KR4d0492 [[mandoku:ZB4b0585.org][ZB4b0585]] 榘菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0585
 :SOURCE:   四庫全書 文淵閣版, V1206.7, p659
@@ -11169,7 +11211,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0491 [[mandoku:ZB4b0586.org][ZB4b0586]] 道園學古錄
+*** KR4d0493 [[mandoku:ZB4b0586.org][ZB4b0586]] 道園學古錄
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0586
 :SOURCE:   四庫全書 文淵閣版, V1207.1, p1
@@ -11187,7 +11229,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0492 [[mandoku:ZB4b0587.org][ZB4b0587]] 道園遺稿
+*** KR4d0494 [[mandoku:ZB4b0587.org][ZB4b0587]] 道園遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0587
 :SOURCE:   四庫全書 文淵閣版, V1207.2, p707
@@ -11211,7 +11253,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0493 [[mandoku:ZB4b0588.org][ZB4b0588]] 楊仲弘集
+*** KR4d0495 [[mandoku:ZB4b0588.org][ZB4b0588]] 楊仲弘集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0588
 :SOURCE:   四庫全書 文淵閣版, V1208.1, p1
@@ -11229,7 +11271,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0494 [[mandoku:ZB4b0589.org][ZB4b0589]] 范德機詩集
+*** KR4d0496 [[mandoku:ZB4b0589.org][ZB4b0589]] 范德機詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0589
 :SOURCE:   四庫全書 文淵閣版, V1208.2, p67
@@ -11247,7 +11289,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0495 [[mandoku:ZB4b0590.org][ZB4b0590]] 文安集
+*** KR4d0497 [[mandoku:ZB4b0590.org][ZB4b0590]] 文安集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0590
 :SOURCE:   四庫全書 文淵閣版, V1208.3, p149
@@ -11278,7 +11320,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0496 [[mandoku:ZB4b0591.org][ZB4b0591]] 翠寒集
+*** KR4d0498 [[mandoku:ZB4b0591.org][ZB4b0591]] 翠寒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0591
 :SOURCE:   四庫全書 文淵閣版, V1208.4, p303
@@ -11296,7 +11338,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0497 [[mandoku:ZB4b0592.org][ZB4b0592]] 檜亭集
+*** KR4d0499 [[mandoku:ZB4b0592.org][ZB4b0592]] 檜亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0592
 :SOURCE:   四庫全書 文淵閣版, V1208.5, p335
@@ -11325,7 +11367,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0498 [[mandoku:ZB4b0593.org][ZB4b0593]] 伊濱集
+*** KR4d0500 [[mandoku:ZB4b0593.org][ZB4b0593]] 伊濱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0593
 :SOURCE:   四庫全書 文淵閣版, V1208.6, p391
@@ -11342,7 +11384,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0499 [[mandoku:ZB4b0594.org][ZB4b0594]] 淵穎集
+*** KR4d0501 [[mandoku:ZB4b0594.org][ZB4b0594]] 淵穎集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0594
 :SOURCE:   四庫全書 文淵閣版, V1209.1, p1
@@ -11373,7 +11415,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0500 [[mandoku:ZB4b0595.org][ZB4b0595]] 文獻集
+*** KR4d0502 [[mandoku:ZB4b0595.org][ZB4b0595]] 文獻集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0595
 :SOURCE:   四庫全書 文淵閣版, V1209.2, p215
@@ -11397,7 +11439,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0501 SB14n247 金華黃先生文集
+*** KR4d0503 SB14n247 金華黃先生文集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n247
@@ -11441,7 +11483,7 @@
 [[krpimg:sbck/SB1/SB14n247/SB14n247_010-002.tif][冊 10]]
 [[krpimg:sbck/SB1/SB14n247/SB14n247_011-002.tif][冊 11]]
 [[krpimg:sbck/SB1/SB14n247/SB14n247_012-002.tif][冊 12]]
-*** KR4d0502 [[mandoku:ZB4b0596.org][ZB4b0596]] 圭齋文集
+*** KR4d0504 [[mandoku:ZB4b0596.org][ZB4b0596]] 圭齋文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0596
 :SOURCE:   四庫全書 文淵閣版, V1210.1, p1
@@ -11466,7 +11508,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0503 [[mandoku:ZB4b0597.org][ZB4b0597]] 待制集
+*** KR4d0505 [[mandoku:ZB4b0597.org][ZB4b0597]] 待制集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0597
 :SOURCE:   四庫全書 文淵閣版, V1210.2, p177
@@ -11497,7 +11539,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0504 [[mandoku:ZB4b0598.org][ZB4b0598]] 所安遺集
+*** KR4d0506 [[mandoku:ZB4b0598.org][ZB4b0598]] 所安遺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0598
 :SOURCE:   四庫全書 文淵閣版, V1210.3, p543
@@ -11515,7 +11557,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0505 [[mandoku:ZB4b0599.org][ZB4b0599]] 閑居叢稿
+*** KR4d0507 [[mandoku:ZB4b0599.org][ZB4b0599]] 閑居叢稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0599
 :SOURCE:   四庫全書 文淵閣版, V1210.4, p567
@@ -11539,7 +11581,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0506 [[mandoku:ZB4b0600.org][ZB4b0600]] 至正集
+*** KR4d0508 [[mandoku:ZB4b0600.org][ZB4b0600]] 至正集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0600
 :SOURCE:   四庫全書 文淵閣版, V1211.1, p1
@@ -11564,7 +11606,7 @@
       :BOOK:   (18)
       :END:
 
-*** KR4d0507 [[mandoku:ZB4b0601.org][ZB4b0601]] 圭塘小藁
+*** KR4d0509 [[mandoku:ZB4b0601.org][ZB4b0601]] 圭塘小藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0601
 :SOURCE:   四庫全書 文淵閣版, V1211.2, p579
@@ -11608,7 +11650,7 @@
       :FUNCTION: 編
       :END:
 
-*** KR4d0508 [[mandoku:ZB4b0602.org][ZB4b0602]] 禮部集
+*** KR4d0510 [[mandoku:ZB4b0602.org][ZB4b0602]] 禮部集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0602
 :SOURCE:   四庫全書 文淵閣版, V1212.1, p1
@@ -11633,7 +11675,7 @@
       :BOOK:   (10)
       :END:
 
-*** KR4d0509 [[mandoku:ZB4b0603.org][ZB4b0603]] 積齋集
+*** KR4d0511 [[mandoku:ZB4b0603.org][ZB4b0603]] 積齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0603
 :SOURCE:   四庫全書 文淵閣版, V1212.2, p311
@@ -11650,7 +11692,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0510 [[mandoku:ZB4b0604.org][ZB4b0604]] 燕石集
+*** KR4d0512 [[mandoku:ZB4b0604.org][ZB4b0604]] 燕石集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0604
 :SOURCE:   四庫全書 文淵閣版, V1212.3, p367
@@ -11667,7 +11709,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0511 [[mandoku:ZB4b0605.org][ZB4b0605]] 秋聲集
+*** KR4d0513 [[mandoku:ZB4b0605.org][ZB4b0605]] 秋聲集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0605
 :SOURCE:   四庫全書 文淵閣版, V1212.4, p523
@@ -11685,7 +11727,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0512 [[mandoku:ZB4b0606.org][ZB4b0606]] 雁門集
+*** KR4d0514 [[mandoku:ZB4b0606.org][ZB4b0606]] 雁門集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0606
 :SOURCE:   四庫全書 文淵閣版, V1212.5, p565
@@ -11703,7 +11745,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0513 [[mandoku:ZB4b0607.org][ZB4b0607]] 杏庭摘槀
+*** KR4d0515 [[mandoku:ZB4b0607.org][ZB4b0607]] 杏庭摘槀
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0607
 :SOURCE:   四庫全書 文淵閣版, V1212.6, p665
@@ -11721,7 +11763,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0514 [[mandoku:ZB4b0608.org][ZB4b0608]] 安雅堂集
+*** KR4d0516 [[mandoku:ZB4b0608.org][ZB4b0608]] 安雅堂集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0608
 :SOURCE:   四庫全書 文淵閣版, V1213.1, p1
@@ -11744,7 +11786,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0515 [[mandoku:ZB4b0609.org][ZB4b0609]] 傅與礪集
+*** KR4d0517 [[mandoku:ZB4b0609.org][ZB4b0609]] 傅與礪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0609
 :SOURCE:   四庫全書 文淵閣版, V1213.2, p181
@@ -11780,7 +11822,7 @@
       :BOOK:   (#)
       :END:
 
-*** KR4d0516 [[mandoku:ZB4b0610.org][ZB4b0610]] 瓢泉吟稿
+*** KR4d0518 [[mandoku:ZB4b0610.org][ZB4b0610]] 瓢泉吟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0610
 :SOURCE:   四庫全書 文淵閣版, V1213.3, p373
@@ -11798,7 +11840,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0517 SB14n250 薩天錫詩集
+*** KR4d0519 SB14n250 薩天錫詩集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n250
@@ -11825,7 +11867,7 @@
 **** 电子版
 [[krpimg:sbck/SB1/SB14n250/SB14n250_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n250/SB14n250_002-002.tif][冊 2]]
-*** KR4d0518 SB24n392 存復齋文集
+*** KR4d0520 SB24n392 存復齋文集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n392
@@ -11852,7 +11894,7 @@
 **** 电子版
 [[krpimg:sbck/SB2/SB24n392/SB24n392_001-002.tif][冊 1]]
 [[krpimg:sbck/SB2/SB24n392/SB24n392_002-002.tif][冊 2]]
-*** KR4d0519 [[mandoku:ZB4b0611.org][ZB4b0611]] 筠軒集
+*** KR4d0521 [[mandoku:ZB4b0611.org][ZB4b0611]] 筠軒集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0611
 :SOURCE:   四庫全書 文淵閣版, V1213.4, p427
@@ -11869,7 +11911,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0520 [[mandoku:ZB4b0612.org][ZB4b0612]] 俟菴集
+*** KR4d0522 [[mandoku:ZB4b0612.org][ZB4b0612]] 俟菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0612
 :SOURCE:   四庫全書 文淵閣版, V1213.5, p597
@@ -11901,7 +11943,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0521 [[mandoku:ZB4b0613.org][ZB4b0613]] 滋溪文稿
+*** KR4d0523 [[mandoku:ZB4b0613.org][ZB4b0613]] 滋溪文稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0613
 :SOURCE:   四庫全書 文淵閣版, V1214.1, p1
@@ -11926,7 +11968,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0522 [[mandoku:ZB4b0614.org][ZB4b0614]] 青陽集
+*** KR4d0524 [[mandoku:ZB4b0614.org][ZB4b0614]] 青陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0614
 :SOURCE:   四庫全書 文淵閣版, V1214.2, p361
@@ -11944,7 +11986,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0523 [[mandoku:ZB4b0615.org][ZB4b0615]] 鯨背吟集
+*** KR4d0525 [[mandoku:ZB4b0615.org][ZB4b0615]] 鯨背吟集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0615
 :SOURCE:   四庫全書 文淵閣版, V1214.3, p427
@@ -11962,7 +12004,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0524 [[mandoku:ZB4b0616.org][ZB4b0616]] 經濟文集
+*** KR4d0526 [[mandoku:ZB4b0616.org][ZB4b0616]] 經濟文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0616
 :SOURCE:   四庫全書 文淵閣版, V1214.4, p433
@@ -11986,7 +12028,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0525 [[mandoku:ZB4b0617.org][ZB4b0617]] 近光集
+*** KR4d0527 [[mandoku:ZB4b0617.org][ZB4b0617]] 近光集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0617
 :SOURCE:   四庫全書 文淵閣版, V1214.5, p505
@@ -12011,7 +12053,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0526 [[mandoku:ZB4b0618.org][ZB4b0618]] 純白齋類稿
+*** KR4d0528 [[mandoku:ZB4b0618.org][ZB4b0618]] 純白齋類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0618
 :SOURCE:   四庫全書 文淵閣版, V1214.6, p551
@@ -12029,7 +12071,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0527 [[mandoku:ZB4b0619.org][ZB4b0619]] 圭峯集
+*** KR4d0529 [[mandoku:ZB4b0619.org][ZB4b0619]] 圭峯集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0619
 :SOURCE:   四庫全書 文淵閣版, V1214.7, p687
@@ -12053,7 +12095,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0528 [[mandoku:ZB4b0620.org][ZB4b0620]] 蜕菴集
+*** KR4d0530 [[mandoku:ZB4b0620.org][ZB4b0620]] 蜕菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0620
 :SOURCE:   四庫全書 文淵閣版, V1215.1, p1
@@ -12071,7 +12113,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0529 [[mandoku:ZB4b0621.org][ZB4b0621]] 五峰集
+*** KR4d0531 [[mandoku:ZB4b0621.org][ZB4b0621]] 五峰集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0621
 :SOURCE:   四庫全書 文淵閣版, V1215.2, p91
@@ -12089,7 +12131,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0530 [[mandoku:ZB4b0622.org][ZB4b0622]] 野處集
+*** KR4d0532 [[mandoku:ZB4b0622.org][ZB4b0622]] 野處集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0622
 :SOURCE:   四庫全書 文淵閣版, V1215.3, p185
@@ -12107,7 +12149,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0531 [[mandoku:ZB4b0623.org][ZB4b0623]] 夢觀集
+*** KR4d0533 [[mandoku:ZB4b0623.org][ZB4b0623]] 夢觀集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0623
 :SOURCE:   四庫全書 文淵閣版, V1215.4, p227
@@ -12124,7 +12166,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0532 [[mandoku:ZB4b0624.org][ZB4b0624]] 金臺集
+*** KR4d0534 [[mandoku:ZB4b0624.org][ZB4b0624]] 金臺集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0624
 :SOURCE:   四庫全書 文淵閣版, V1215.5, p261
@@ -12141,7 +12183,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0533 [[mandoku:ZB4b0625.org][ZB4b0625]] 子淵詩集
+*** KR4d0535 [[mandoku:ZB4b0625.org][ZB4b0625]] 子淵詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0625
 :SOURCE:   四庫全書 文淵閣版, V1215.6, p307
@@ -12158,7 +12200,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0534 [[mandoku:ZB4b0626.org][ZB4b0626]] 午溪集
+*** KR4d0536 [[mandoku:ZB4b0626.org][ZB4b0626]] 午溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0626
 :SOURCE:   四庫全書 文淵閣版, V1215.7, p355
@@ -12175,7 +12217,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0535 [[mandoku:ZB4b0627.org][ZB4b0627]] 葯房樵唱
+*** KR4d0537 [[mandoku:ZB4b0627.org][ZB4b0627]] 葯房樵唱
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0627
 :SOURCE:   四庫全書 文淵閣版, V1215.8, p419
@@ -12201,7 +12243,7 @@
       :END:
 
 # *** [[mandoku:ZB4b0627a.org][ZB4b0627a]] 金至元
-*** KR4d0536 [[mandoku:ZB4b0628.org][ZB4b0628]] 栲栳山人詩集
+*** KR4d0538 [[mandoku:ZB4b0628.org][ZB4b0628]] 栲栳山人詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0628
 :SOURCE:   四庫全書 文淵閣版, V1215.9, p459
@@ -12219,7 +12261,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0537 [[mandoku:ZB4b0629.org][ZB4b0629]] 梅花道人遺墨
+*** KR4d0539 [[mandoku:ZB4b0629.org][ZB4b0629]] 梅花道人遺墨
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0629
 :SOURCE:   四庫全書 文淵閣版, V1215.10, p491
@@ -12243,7 +12285,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0538 [[mandoku:ZB4b0630.org][ZB4b0630]] 玩齋集
+*** KR4d0540 [[mandoku:ZB4b0630.org][ZB4b0630]] 玩齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0630
 :SOURCE:   四庫全書 文淵閣版, V1215.11, p509
@@ -12281,7 +12323,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0539 [[mandoku:ZB4b0631.org][ZB4b0631]] 羽庭集
+*** KR4d0541 [[mandoku:ZB4b0631.org][ZB4b0631]] 羽庭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0631
 :SOURCE:   四庫全書 文淵閣版, V1216.1, p1
@@ -12298,7 +12340,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0540 [[mandoku:ZB4b0632.org][ZB4b0632]] 不繫舟漁集
+*** KR4d0542 [[mandoku:ZB4b0632.org][ZB4b0632]] 不繫舟漁集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0632
 :SOURCE:   四庫全書 文淵閣版, V1216.2, p121
@@ -12322,7 +12364,7 @@
       :BOOK:   (6)
       :END:
 
-*** KR4d0541 [[mandoku:ZB4b0633.org][ZB4b0633]] 居竹軒詩集
+*** KR4d0543 [[mandoku:ZB4b0633.org][ZB4b0633]] 居竹軒詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0633
 :SOURCE:   四庫全書 文淵閣版, V1216.3, p277
@@ -12339,7 +12381,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0542 [[mandoku:ZB4b0634.org][ZB4b0634]] 句曲外史集
+*** KR4d0544 [[mandoku:ZB4b0634.org][ZB4b0634]] 句曲外史集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0634
 :SOURCE:   四庫全書 文淵閣版, V1216.4, p351
@@ -12378,7 +12420,7 @@
       :BOOK:   (3)
       :END:
 
-*** KR4d0543 [[mandoku:ZB4b0635.org][ZB4b0635]] 僑吳集
+*** KR4d0545 [[mandoku:ZB4b0635.org][ZB4b0635]] 僑吳集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0635
 :SOURCE:   四庫全書 文淵閣版, V1216.5, p421
@@ -12409,7 +12451,7 @@
       :BOOK:   (8)
       :END:
 
-*** KR4d0544 [[mandoku:ZB4b0636.org][ZB4b0636]] 詠物詩
+*** KR4d0546 [[mandoku:ZB4b0636.org][ZB4b0636]] 詠物詩
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0636
 :SOURCE:   四庫全書 文淵閣版, V1216.6, p619
@@ -12426,7 +12468,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0545 [[mandoku:ZB4b0637.org][ZB4b0637]] 鹿皮子集
+*** KR4d0547 [[mandoku:ZB4b0637.org][ZB4b0637]] 鹿皮子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0637
 :SOURCE:   四庫全書 文淵閣版, V1216.7, p635
@@ -12451,7 +12493,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0546 [[mandoku:ZB4b0638.org][ZB4b0638]] 林外野言
+*** KR4d0548 [[mandoku:ZB4b0638.org][ZB4b0638]] 林外野言
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0638
 :SOURCE:   四庫全書 文淵閣版, V1216.8, p699
@@ -12469,7 +12511,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0547 [[mandoku:ZB4b0639.org][ZB4b0639]] 傲軒吟稿
+*** KR4d0549 [[mandoku:ZB4b0639.org][ZB4b0639]] 傲軒吟稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0639
 :SOURCE:   四庫全書 文淵閣版, V1216.9, p725
@@ -12486,7 +12528,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0548 [[mandoku:ZB4b0640.org][ZB4b0640]] 師山集
+*** KR4d0550 [[mandoku:ZB4b0640.org][ZB4b0640]] 師山集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0640
 :SOURCE:   四庫全書 文淵閣版, V1217.1, p1
@@ -12519,7 +12561,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0549 [[mandoku:ZB4b0641.org][ZB4b0641]] 友石山人遺稿
+*** KR4d0551 [[mandoku:ZB4b0641.org][ZB4b0641]] 友石山人遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0641
 :SOURCE:   四庫全書 文淵閣版, V1217.2, p129
@@ -12543,7 +12585,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0550 [[mandoku:ZB4b0642.org][ZB4b0642]] 聞過齋集
+*** KR4d0552 [[mandoku:ZB4b0642.org][ZB4b0642]] 聞過齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0642
 :SOURCE:   四庫全書 文淵閣版, V1217.3, p143
@@ -12567,7 +12609,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0551 [[mandoku:ZB4b0643.org][ZB4b0643]] 學言稿
+*** KR4d0553 [[mandoku:ZB4b0643.org][ZB4b0643]] 學言稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0643
 :SOURCE:   四庫全書 文淵閣版, V1217.4, p253
@@ -12584,7 +12626,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0552 [[mandoku:ZB4b0644.org][ZB4b0644]] 北郭集
+*** KR4d0554 [[mandoku:ZB4b0644.org][ZB4b0644]] 北郭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0644
 :SOURCE:   四庫全書 文淵閣版, V1217.5, p317
@@ -12627,7 +12669,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0553 [[mandoku:ZB4b0645.org][ZB4b0645]] 玉笥集
+*** KR4d0555 [[mandoku:ZB4b0645.org][ZB4b0645]] 玉笥集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0645
 :SOURCE:   四庫全書 文淵閣版, V1217.6, p365
@@ -12646,7 +12688,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0554 [[mandoku:ZB4b0646.org][ZB4b0646]] 青村遺稿
+*** KR4d0556 [[mandoku:ZB4b0646.org][ZB4b0646]] 青村遺稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0646
 :SOURCE:   四庫全書 文淵閣版, V1217.7, p473
@@ -12670,7 +12712,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0555 [[mandoku:ZB4b0647.org][ZB4b0647]] 鶴年詩集
+*** KR4d0557 [[mandoku:ZB4b0647.org][ZB4b0647]] 鶴年詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0647
 :SOURCE:   四庫全書 文淵閣版, V1217.8, p493
@@ -12695,7 +12737,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0556 [[mandoku:ZB4b0648.org][ZB4b0648]] 貞素齋集
+*** KR4d0558 [[mandoku:ZB4b0648.org][ZB4b0648]] 貞素齋集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0648
 :SOURCE:   四庫全書 文淵閣版, V1217.9, p547
@@ -12720,7 +12762,7 @@
       :BOOK:   (3)
       :END:
 
-*** KR4d0557 [[mandoku:ZB4b0649.org][ZB4b0649]] 一山文集
+*** KR4d0559 [[mandoku:ZB4b0649.org][ZB4b0649]] 一山文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0649
 :SOURCE:   四庫全書 文淵閣版, V1217.10, p685
@@ -12743,7 +12785,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0558 [[mandoku:ZB4b0650.org][ZB4b0650]] 江月松風集
+*** KR4d0560 [[mandoku:ZB4b0650.org][ZB4b0650]] 江月松風集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0650
 :SOURCE:   四庫全書 文淵閣版, V1217.11, p795
@@ -12760,7 +12802,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0559 [[mandoku:ZB4b0651.org][ZB4b0651]] 龜巢稿
+*** KR4d0561 [[mandoku:ZB4b0651.org][ZB4b0651]] 龜巢稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0651
 :SOURCE:   四庫全書 文淵閣版, V1218.1, p1
@@ -12778,7 +12820,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0560 [[mandoku:ZB4b0652.org][ZB4b0652]] 石初集
+*** KR4d0562 [[mandoku:ZB4b0652.org][ZB4b0652]] 石初集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0652
 :SOURCE:   四庫全書 文淵閣版, V1218.2, p457
@@ -12796,7 +12838,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0561 [[mandoku:ZB4b0653.org][ZB4b0653]] 山窗餘稿
+*** KR4d0563 [[mandoku:ZB4b0653.org][ZB4b0653]] 山窗餘稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0653
 :SOURCE:   四庫全書 文淵閣版, V1218.3, p535
@@ -12813,7 +12855,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0562 [[mandoku:ZB4b0654.org][ZB4b0654]] 梧溪集
+*** KR4d0564 [[mandoku:ZB4b0654.org][ZB4b0654]] 梧溪集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0654
 :SOURCE:   四庫全書 文淵閣版, V1218.4, p563
@@ -12831,7 +12873,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0563 [[mandoku:ZB4b0655.org][ZB4b0655]] 吾吾類稿
+*** KR4d0565 [[mandoku:ZB4b0655.org][ZB4b0655]] 吾吾類稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0655
 :SOURCE:   四庫全書 文淵閣版, V1219.1, p1
@@ -12848,7 +12890,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0564 [[mandoku:ZB4b0656.org][ZB4b0656]] 樵雲獨唱
+*** KR4d0566 [[mandoku:ZB4b0656.org][ZB4b0656]] 樵雲獨唱
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0656
 :SOURCE:   四庫全書 文淵閣版, V1219.2, p45
@@ -12867,7 +12909,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0565 [[mandoku:ZB4b0657.org][ZB4b0657]] 桐山老農集
+*** KR4d0567 [[mandoku:ZB4b0657.org][ZB4b0657]] 桐山老農集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0657
 :SOURCE:   四庫全書 文淵閣版, V1219.3, p123
@@ -12885,7 +12927,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0566 [[mandoku:ZB4b0658.org][ZB4b0658]] 靜思集
+*** KR4d0568 [[mandoku:ZB4b0658.org][ZB4b0658]] 靜思集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0658
 :SOURCE:   四庫全書 文淵閣版, V1219.4, p155
@@ -12902,7 +12944,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0567 [[mandoku:ZB4b0659.org][ZB4b0659]] 九靈山房集
+*** KR4d0569 [[mandoku:ZB4b0659.org][ZB4b0659]] 九靈山房集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0659
 :SOURCE:   四庫全書 文淵閣版, V1219.5, p253
@@ -12934,7 +12976,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0568 [[mandoku:ZB4b0660.org][ZB4b0660]] 灤京雜咏
+*** KR4d0570 [[mandoku:ZB4b0660.org][ZB4b0660]] 灤京雜咏
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0660
 :SOURCE:   四庫全書 文淵閣版, V1219.6, p617
@@ -12951,7 +12993,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0569 [[mandoku:ZB4b0661.org][ZB4b0661]] 雲陽集
+*** KR4d0571 [[mandoku:ZB4b0661.org][ZB4b0661]] 雲陽集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0661
 :SOURCE:   四庫全書 文淵閣版, V1219.7, p629
@@ -12968,7 +13010,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0570 [[mandoku:ZB4b0662.org][ZB4b0662]] 南湖集
+*** KR4d0572 [[mandoku:ZB4b0662.org][ZB4b0662]] 南湖集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0662
 :SOURCE:   四庫全書 文淵閣版, V1220.1, p1
@@ -12985,7 +13027,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0571 [[mandoku:ZB4b0663.org][ZB4b0663]] 佩玉齋類藁
+*** KR4d0573 [[mandoku:ZB4b0663.org][ZB4b0663]] 佩玉齋類藁
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0663
 :SOURCE:   四庫全書 文淵閣版, V1220.2, p49
@@ -13003,7 +13045,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0572 [[mandoku:ZB4b0664.org][ZB4b0664]] 玉山璞稿
+*** KR4d0574 [[mandoku:ZB4b0664.org][ZB4b0664]] 玉山璞稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0664
 :SOURCE:   四庫全書 文淵閣版, V1220.3, p127
@@ -13021,7 +13063,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0573 SB14n253 倪雲林先生詩集
+*** KR4d0575 SB14n253 倪雲林先生詩集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB14n253
@@ -13050,7 +13092,7 @@
 [[krpimg:sbck/SB1/SB14n253/SB14n253_001-002.tif][冊 1]]
 [[krpimg:sbck/SB1/SB14n253/SB14n253_002-002.tif][冊 2]]
 [[krpimg:sbck/SB1/SB14n253/SB14n253_003-002.tif][冊 3]]
-*** KR4d0574 [[mandoku:ZB4b0665.org][ZB4b0665]] 清閟閣全集
+*** KR4d0576 [[mandoku:ZB4b0665.org][ZB4b0665]] 清閟閣全集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0665
 :SOURCE:   四庫全書 文淵閣版, V1220.4, p151
@@ -13074,7 +13116,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0575 [[mandoku:ZB4b0666.org][ZB4b0666]] 麟原文集
+*** KR4d0577 [[mandoku:ZB4b0666.org][ZB4b0666]] 麟原文集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0666
 :SOURCE:   四庫全書 文淵閣版, V1220.5, p357
@@ -13111,7 +13153,7 @@
       :BOOK:   (#)
       :END:
 
-*** KR4d0576 [[mandoku:ZB4b0667.org][ZB4b0667]] 來鶴亭集
+*** KR4d0578 [[mandoku:ZB4b0667.org][ZB4b0667]] 來鶴亭集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0667
 :SOURCE:   四庫全書 文淵閣版, V1220.6, p569
@@ -13135,7 +13177,7 @@
       :BOOK:   (2)
       :END:
 
-*** KR4d0577 [[mandoku:ZB4b0668.org][ZB4b0668]] 雲松巢集
+*** KR4d0579 [[mandoku:ZB4b0668.org][ZB4b0668]] 雲松巢集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0668
 :SOURCE:   四庫全書 文淵閣版, V1220.7, p621
@@ -13152,7 +13194,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0578 [[mandoku:ZB4b0669.org][ZB4b0669]] 環谷集
+*** KR4d0580 [[mandoku:ZB4b0669.org][ZB4b0669]] 環谷集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0669
 :SOURCE:   四庫全書 文淵閣版, V1220.8, p649
@@ -13170,7 +13212,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0579 [[mandoku:ZB4b0670.org][ZB4b0670]] 性情集
+*** KR4d0581 [[mandoku:ZB4b0670.org][ZB4b0670]] 性情集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0670
 :SOURCE:   四庫全書 文淵閣版, V1221.1, p1
@@ -13188,7 +13230,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0580 [[mandoku:ZB4b0671.org][ZB4b0671]] 花谿集
+*** KR4d0582 [[mandoku:ZB4b0671.org][ZB4b0671]] 花谿集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0671
 :SOURCE:   四庫全書 文淵閣版, V1221.2, p43
@@ -13211,7 +13253,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0581 [[mandoku:ZB4b0672.org][ZB4b0672]] 樗隱集
+*** KR4d0583 [[mandoku:ZB4b0672.org][ZB4b0672]] 樗隱集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0672
 :SOURCE:   四庫全書 文淵閣版, V1221.3, p111
@@ -13228,7 +13270,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0582 [[mandoku:ZB4b0673.org][ZB4b0673]] 東山存稿
+*** KR4d0584 [[mandoku:ZB4b0673.org][ZB4b0673]] 東山存稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0673
 :SOURCE:   四庫全書 文淵閣版, V1221.4, p159
@@ -13259,7 +13301,7 @@
       :FUNCTION: 撰
       :END:
 
-*** KR4d0583 [[mandoku:ZB4b0674.org][ZB4b0674]] 東維子集
+*** KR4d0585 [[mandoku:ZB4b0674.org][ZB4b0674]] 東維子集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0674
 :SOURCE:   四庫全書 文淵閣版, V1221.5, p373
@@ -13291,7 +13333,7 @@
       :BOOK:   (14)
       :END:
 
-*** KR4d0584 [[mandoku:ZB4b0675.org][ZB4b0675]] 鐵崖古樂府
+*** KR4d0586 [[mandoku:ZB4b0675.org][ZB4b0675]] 鐵崖古樂府
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0675
 :SOURCE:   四庫全書 文淵閣版, V1222.1, p1
@@ -13322,7 +13364,7 @@
       :BOOK:   (4)
       :END:
 
-*** KR4d0585 [[mandoku:ZB4b0676.org][ZB4b0676]] 復古詩集
+*** KR4d0587 [[mandoku:ZB4b0676.org][ZB4b0676]] 復古詩集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0676
 :SOURCE:   四庫全書 文淵閣版, V1222.2, p123
@@ -13346,7 +13388,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0586 SB34n457 蟻術詩選
+*** KR4d0588 SB34n457 蟻術詩選
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB34n457
@@ -13380,7 +13422,7 @@
 **** 电子版
 [[krpimg:sbck/SB3/SB34n457/SB34n457_001-002.tif][冊 1]]
 [[krpimg:sbck/SB3/SB34n457/SB34n457_002-002.tif][冊 2]]
-*** KR4d0587 [[mandoku:ZB4b0677.org][ZB4b0677]] 麗則遺音
+*** KR4d0589 [[mandoku:ZB4b0677.org][ZB4b0677]] 麗則遺音
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0677
 :SOURCE:   四庫全書 文淵閣版, V1222.3, p145
@@ -13411,7 +13453,7 @@
       :BOOK:   (1)
       :END:
 
-*** KR4d0588 [[mandoku:ZB4b0678.org][ZB4b0678]] 夷白齋稿
+*** KR4d0590 [[mandoku:ZB4b0678.org][ZB4b0678]] 夷白齋稿
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0678
 :SOURCE:   四庫全書 文淵閣版, V1222.4, p181
@@ -13436,7 +13478,7 @@
       :BOOK:   (7)
       :END:
 
-*** KR4d0589 [[mandoku:ZB4b0679.org][ZB4b0679]] 庸菴集
+*** KR4d0591 [[mandoku:ZB4b0679.org][ZB4b0679]] 庸菴集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0679
 :SOURCE:   四庫全書 文淵閣版, V1222.5, p395
@@ -13453,7 +13495,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0590 [[mandoku:ZB4b0680.org][ZB4b0680]] 可閒老人集
+*** KR4d0592 [[mandoku:ZB4b0680.org][ZB4b0680]] 可閒老人集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0680
 :SOURCE:   四庫全書 文淵閣版, V1222.6, p499
@@ -13471,7 +13513,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0591 SB24n395 張光弼詩集
+*** KR4d0593 SB24n395 張光弼詩集
 :PROPERTIES:
 :TYPE:  text
 :CUSTOM_ID: SB24n395
@@ -13498,7 +13540,7 @@
 **** 电子版
 [[krpimg:sbck/SB2/SB24n395/SB24n395_001-002.tif][冊 1]]
 [[krpimg:sbck/SB2/SB24n395/SB24n395_002-002.tif][冊 2]]
-*** KR4d0592 [[mandoku:ZB4b0681.org][ZB4b0681]] 石門集
+*** KR4d0594 [[mandoku:ZB4b0681.org][ZB4b0681]] 石門集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0681
 :SOURCE:   四庫全書 文淵閣版, V1222.7, p619
@@ -13516,7 +13558,7 @@
 
 **** textual witnesses
 ***** WYG
-*** KR4d0593 [[mandoku:ZB4b0682.org][ZB4b0682]] 玉笥集
+*** KR4d0595 [[mandoku:ZB4b0682.org][ZB4b0682]] 玉笥集
 :PROPERTIES:
 :CUSTOM_ID:  ZB4b0682
 :SOURCE:   四庫全書 文淵閣版, V1222.8, p667
