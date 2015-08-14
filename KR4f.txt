@@ -1619,16 +1619,16 @@
       :END:
 
 # *** [[mandoku:ZB4b0963.org][ZB4b0963]] 宋文鑑
-:PROPERTIES:
-:CUSTOM_ID:  ZB4b0963
-:SOURCE:   四庫全書 文淵閣版
-:DYNASTY: 宋
-:RESP: 呂祖謙
-:END:
-**** dynasty: 宋
-**** responsible: 呂祖謙
-**** textual witnesses
-***** WYG
+# :PROPERTIES:
+# :CUSTOM_ID:  ZB4b0963
+# :SOURCE:   四庫全書 文淵閣版
+# :DYNASTY: 宋
+# :RESP: 呂祖謙
+# :END:
+# **** dynasty: 宋
+# **** responsible: 呂祖謙
+# **** textual witnesses
+# ***** WYG
 *** KR4f0052 SB14n281 惜抱軒文集
 :PROPERTIES:
 :TYPE:  text
