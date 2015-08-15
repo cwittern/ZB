@@ -296,7 +296,7 @@
 :WITID: wit99
 :END:
 
-*** KR6q0012 [[mandoku:ZB6q0012.org][ZB6q0012]]  [[cbeta:X/X80n1565/X80n1565.org][X80n1565]] 五燈會元
+*** KR6q0012 [[mandoku:ZB6q0012.org][ZB6q0012]]  [[cbeta:X/X80n1565/X80n1565.org][X80n1565]] ZB3m0011 五燈會元
 :PROPERTIES: 
 :CBETA_ID:  X80n1565
 :GENRE: 史傳
@@ -321,6 +321,21 @@
 :PROPERTIES: 
 :WITID: wit9
 :END:
+
+***** WYG [[mandoku:ZB3m0011.org][ZB3m0011]] 五燈會元
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0011
+:SOURCE:   四庫全書 文淵閣版, V1053.1, p1
+:EXTENT: 20 卷
+:BOOK:   20
+:END:
+****** responsible:
+******* 釋普濟
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:END:
+
 
 *** KR6q0013 [[mandoku:ZB6q0013.org][ZB6q0013]]  [[cbeta:X/X80n1566/X80n1566.org][X80n1566]] 五燈會元續略
 :PROPERTIES: 
@@ -1021,7 +1036,7 @@
 :WITID: wit99
 :END:
 
-*** KR6q0040 [[mandoku:ZB6q0040.org][ZB6q0040]]  [[cbeta:X/X79n1560/X79n1560.org][X79n1560]] 禪林僧寶傳
+*** KR6q0040 [[mandoku:ZB6q0040.org][ZB6q0040]]  [[cbeta:X/X79n1560/X79n1560.org][X79n1560]] ZB3m0008 禪林僧寶傳
 :PROPERTIES: 
 :CBETA_ID:  X79n1560
 :GENRE: 史傳
@@ -1046,6 +1061,49 @@
 :PROPERTIES: 
 :WITID: wit99
 :END:
+
+***** WYG [[mandoku:ZB3m0008.org][ZB3m0008]] 禪林僧寶傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0008
+:SOURCE:   四庫全書 文淵閣版, V1052.4, p639
+:EXTENT: 30 卷
+:BOOK:   6
+:END:
+****** responsible:
+******* 釋惠洪
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1071 - 1128
+       	:END:
+
+****** [[mandoku:ZB3m0008b.org][ZB3m0008b]] (附)補禪林僧寶傳
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (6)
+       	:END:
+******* responsible:
+******** 釋慶老
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:END:
+
+****** [[mandoku:ZB3m0008a.org][ZB3m0008a]] 臨濟宗旨
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (6)
+       	:END:
+******* responsible:
+******** 釋惠洪
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1071 - 1128
+       	:END:
+
 
 *** KR6q0041 [[mandoku:ZB6q0041.org][ZB6q0041]]  [[cbeta:X/X79n1561/X79n1561.org][X79n1561]] 僧寶正續傳
 :PROPERTIES: 

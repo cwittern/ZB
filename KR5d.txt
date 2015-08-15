@@ -189,7 +189,7 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0013 [[mandoku:ZB5d0013.org][ZB5d0013]] 古文龍虎經註疏
+*** KR5d0013 [[mandoku:ZB5d0013.org][ZB5d0013]] ZB3n0040 古文龍虎經註疏
 :PROPERTIES:
 :EXTRA_ID: DZJY:JY112
 :END:
@@ -210,6 +210,22 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0040.org][ZB3n0040]] 古文龍虎經註疏
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0040
+:SOURCE:   四庫全書 文淵閣版, V1061.3, p535
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 王道
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1487 - 1547
+       	:END:
+
+
 ***** DZJY  JY112 金碧古文龍虎上經  Jinbi guwen longhu shangjing	:can:
 :PROPERTIES:
 :EXTENT:  3 juan
@@ -294,7 +310,7 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0018 [[mandoku:ZB5d0018.org][ZB5d0018]] 周易參同契(三)
+*** KR5d0018 [[mandoku:ZB5d0018.org][ZB5d0018]] ZB3n0025 周易參同契(三)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0018
 :ZB_ID: ZB3n0025
@@ -320,7 +336,7 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-***** WYG
+***** WYG ZB3n0025 周易參同契考異
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0025
 :SOURCE:   四庫全書 文淵閣版, V1058.6, p557
@@ -328,7 +344,7 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 :BOOK:   1
 :END:
 
-*** KR5d0019 [[mandoku:ZB5d0019.org][ZB5d0019]] 周易參同契分章通真義
+*** KR5d0019 [[mandoku:ZB5d0019.org][ZB5d0019]] ZB3n0024 周易參同契分章通真義
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0019
 :TTC: 329
@@ -351,6 +367,21 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0024.org][ZB3n0024]] 周易參同契通眞義
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0024
+:SOURCE:   四庫全書 文淵閣版, V1058.5, p509
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 彭曉
+       	:PROPERTIES:
+       	:DYNASTY:  後蜀
+       	:FUNCTION: 撰
+       	:END:
+
+
 *** KR5d0020 [[mandoku:ZB5d0020.org][ZB5d0020]] 周易參同契鼎器歌明鏡圖
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0020
@@ -423,7 +454,8 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 
 **** textual witnesses
 ***** WYG
-*** KR5d0024 [[mandoku:ZB5d0023.org][ZB5d0023]] 周易參同契釋疑　　　
+
+*** KR5d0024 [[mandoku:ZB5d0023.org][ZB5d0023]] ZB3n0027 周易參同契釋疑　　　
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0023
 :TTC: 703
@@ -443,7 +475,30 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0025 [[mandoku:ZB5d0024.org][ZB5d0024]] 周易參同契解
+***** WYG ZB3n0027 周易參同契發揮
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0027
+:SOURCE:   四庫全書 文淵閣版, V1058.8, p625
+:EXTENT: 3 卷
+:BOOK:   4
+:END:
+****** responsible:
+******* 俞琰
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1258 - 1314
+       	:END:
+
+****** 釋疑
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (4)
+       	:END:
+
+
+*** KR5d0025 [[mandoku:ZB5d0024.org][ZB5d0024]] ZB3n0026 周易參同契解
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0024
 :TTC: 702 - 703
@@ -466,6 +521,23 @@ DZJ0: [[dzjy:JY112/JY112_01.txt][JY112 金碧古文龍虎上經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG ZB3n0026 周易參同契解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0026
+:SOURCE:   四庫全書 文淵閣版, V1058.7, p581
+:EXTENT: 3 卷
+:BOOK:   2
+:END:
+****** responsible:
+******* 陳顯微
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    fl. 1254
+       	:END:
+
+
+
 ***** DZJY  *JY141 參同契  Cantong qi					:can:
 :PROPERTIES:
 :EXTENT:  3 juan
@@ -518,7 +590,7 @@ DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0028 [[mandoku:ZB5d0026.org][ZB5d0026]] 易外別傳
+*** KR5d0028 [[mandoku:ZB5d0026.org][ZB5d0026]] ZB3n0041 易外別傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0026
 :TTC: 764
@@ -538,6 +610,22 @@ DZJ0: [[dzjy:JY141/JY141_01.txt][JY141 參同契 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0041.org][ZB3n0041]] 易外別傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0041
+:SOURCE:   四庫全書 文淵閣版, V1061.4, p577
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 俞琰
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1258 - 1314
+       	:END:
+
+
 *** KR5d0029 [[mandoku:ZB3n0042.org][ZB3n0042]] 席上腐談
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0042
@@ -663,7 +751,7 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0036 [[mandoku:ZB5d0033.org][ZB5d0033]] 真誥
+*** KR5d0036 [[mandoku:ZB5d0033.org][ZB5d0033]] ZB3n0032 真誥
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0033
 :TTC: 198 - 200
@@ -686,6 +774,22 @@ PROPERROR xx DZ1013 xx x 河圖
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0032.org][ZB3n0032]] 眞誥
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0032
+:SOURCE:   四庫全書 文淵閣版, V1059.3, p313
+:EXTENT: 20 卷
+:BOOK:   6
+:END:
+****** responsible:
+******* 陶弘景
+       	:PROPERTIES:
+       	:DYNASTY:  梁
+       	:FUNCTION: 撰
+       	:DATES:    456 - 536
+       	:END:
+
+
 ***** DZJY  *JY237 真誥  Zhengao					:can:
 :PROPERTIES:
 :EXTENT:  3 juan
@@ -969,7 +1073,7 @@ DZJ0: [[dzjy:JY238/JY238_01.txt][JY238 道樞 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0049 [[mandoku:ZB5d0044.org][ZB5d0044]] 天隱子
+*** KR5d0049 [[mandoku:ZB5d0044.org][ZB5d0044]] ZB3n0035 天隱子
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0044
 :TTC: 303
@@ -990,6 +1094,14 @@ DZJ0: [[dzjy:JY238/JY238_01.txt][JY238 道樞 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0035.org][ZB3n0035]] (附)天隱子
+      :PROPERTIES:
+      :CUSTOM_ID: ZB3n0035
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (1)
+      :END:
+
 ***** DZJY  JY158 天隱子  Tianyin zi					:can:
 :PROPERTIES:
 :EXTENT:  4 fols.
@@ -1026,7 +1138,7 @@ DZJ0: [[dzjy:JY158/JY158_01.txt][JY158 天隱子 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0051 [[mandoku:ZB5d0046.org][ZB5d0046]] 無能子
+*** KR5d0051 [[mandoku:ZB5d0046.org][ZB5d0046]] ZB3n0036 無能子
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0046
 :TTC: 317 - 318
@@ -1042,7 +1154,22 @@ DZJ0: [[dzjy:JY158/JY158_01.txt][JY158 天隱子 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0052 [[mandoku:ZB5d0047.org][ZB5d0047]] 玄真子(外篇)
+***** WYG  [[mandoku:ZB3n0036.org][ZB3n0036]] 无能子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0036
+:SOURCE:   四庫全書 文淵閣版, V1059.7, p567
+:EXTENT: 3 卷
+:BOOK:   (1)
+:END:
+****** responsible:
+******* 闕名
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:END:
+
+
+*** KR5d0052 [[mandoku:ZB5d0047.org][ZB5d0047]] ZB3n0034 玄真子(外篇)
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0047
 :TTC: 304 - 305
@@ -1063,6 +1190,22 @@ DZJ0: [[dzjy:JY158/JY158_01.txt][JY158 天隱子 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0034.org][ZB3n0034]] 玄眞子
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0034
+:SOURCE:   四庫全書 文淵閣版, V1059.6, p549
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 張志和
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:DATES:    8th cent
+       	:END:
+
+
 ***** DZJY  JY157 玄真子  Xuanzhen zi					:can:
 :PROPERTIES:
 :EXTENT:  17 fols.
@@ -1137,7 +1280,7 @@ DZJ0: [[dzjy:JY156/JY156_01.txt][JY156 劉子]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5d0055 [[mandoku:ZB5d0050.org][ZB5d0050]] 雲笈七籤
+*** KR5d0055 [[mandoku:ZB5d0050.org][ZB5d0050]] ZB3n0038 雲笈七籤
 :PROPERTIES:
 :CUSTOM_ID: ZB5d0050
 :TTC: 943 - 945
@@ -1159,6 +1302,22 @@ DZJ0: [[dzjy:JY156/JY156_01.txt][JY156 劉子]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0038.org][ZB3n0038]] 雲笈七籤
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0038
+:SOURCE:   四庫全書 文淵閣版, V1060.1, p1 - V1061.1
+:EXTENT: 122 卷
+:BOOK:   48
+:END:
+****** responsible:
+******* 張君房
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    fl. 1004
+       	:END:
+
+
 ***** DZJY  *JY242 雲笈七籤  Yunji qiqian				:can:
 :PROPERTIES:
 :EXTENT:  13 juan

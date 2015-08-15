@@ -410,7 +410,7 @@ DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
 ****** Comments
 
 
-*** KR5f0019 [[mandoku:ZB5f0019.org][ZB5f0019]] 抱朴子內篇
+*** KR5f0019 [[mandoku:ZB5f0019.org][ZB5f0019]] ZB3n0030 抱朴子內篇
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0019
 :TTC: 70 - 71
@@ -432,19 +432,20 @@ DZJ0: [[dzjy:JY143/JY143_01.txt][JY143 淮南鴻烈解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-***** DZJY  *JY144 抱朴子內篇  Baopu zi neipian				:can:
+***** WYG  [[mandoku:ZB3n0030.org][ZB3n0030]] 抱朴子內外篇
 :PROPERTIES:
-:EXTENT:  168 fols.
-:LODGE:  虛 9
-:KZ:  11: 4813-96
-:CT:  1185
-:DZ: DZ1185 / JY144
+:CUSTOM_ID:  ZB3n0030
+:SOURCE:   四庫全書 文淵閣版, V1059.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
 :END:
-抱朴子內篇 
-DZJ0: [[dzjy:JY144/JY144_01.txt][JY144 抱朴子內篇 ]]
-****** Work notes
-
-****** Comments
+****** responsible:
+******* 葛洪
+       	:PROPERTIES:
+       	:DYNASTY:  晉
+       	:FUNCTION: 撰
+       	:DATES:    ca. 250 - ca. 330
+       	:END:
 
 
 *** KR5f0020 [[mandoku:ZB5f0020.org][ZB5f0020]] 抱朴子別旨
@@ -465,7 +466,7 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5f0021 [[mandoku:ZB5f0021.org][ZB5f0021]] 抱朴子外篇　
+*** KR5f0021 [[mandoku:ZB5f0021.org][ZB5f0021]] ZB3n0030a 抱朴子外篇　
 :PROPERTIES:
 :CUSTOM_ID: ZB5f0021
 :TTC: 71 - 72
@@ -487,6 +488,14 @@ PROPERROR CH0625 DZ1186 KX1208 x 抱樸子別旨 // 抱朴子別旨
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0030a.org][ZB3n0030a]] 外篇
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0030a
+:SOURCE:   四庫全書 文淵閣版, V1059.1, p124
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+
 ***** DZJY  *JY145 抱朴子外篇  Baopu zi waipian				:can:
 :PROPERTIES:
 :EXTENT:  17 fols.

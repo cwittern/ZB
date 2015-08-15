@@ -1005,7 +1005,7 @@ DZJ0: [[dzjy:JY084/JY084_01.txt][JY084 西昇經 ]]
 ****** Comments
 
 
-*** KR5c0048 [[mandoku:ZB5c0048.org][ZB5c0048]] 無上妙道文始真經
+*** KR5c0048 [[mandoku:ZB5c0048.org][ZB5c0048]] ZB3n0013 無上妙道文始真經
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0048
 :TTC: 737 - 738
@@ -1367,7 +1367,7 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0065 [[mandoku:ZB5c0064.org][ZB5c0064]] 道德真經註(一)
+*** KR5c0065 [[mandoku:ZB5c0064.org][ZB5c0064]] ZB3n0003 道德真經註(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0064
 :TTC: 72 - 74
@@ -1388,6 +1388,28 @@ DZJ0: [[dzjy:JY070/JY070_01.txt][JY070 太上無極大道自然真一五稱符�
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0003.org][ZB3n0003]] 老子道德經
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0003
+:SOURCE:   四庫全書 文淵閣版, V1055.4, p45
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 河上公
+       	:PROPERTIES:
+       	:DYNASTY:  漢
+       	:FUNCTION: 注
+       	:END:
+
+****** 篇目
+	:PROPERTIES:
+	:TYPE:   appendix
+	:EXTENT: 1 卷
+	:BOOK:   (1)
+	:END:
+
+
 *** KR5c0066 [[mandoku:ZB5c0065.org][ZB5c0065]] 道德真經解(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0065
@@ -1554,7 +1576,7 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0073 [[mandoku:ZB5c0072.org][ZB5c0072]] 道德真經註(二)
+*** KR5c0073 [[mandoku:ZB5c0072.org][ZB5c0072]] ZB3n0005 道德真經註(二)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0072
 :TTC: 77 - 78
@@ -1575,7 +1597,7 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-***** WYG
+***** WYG [[mandoku:ZB3n0005.org][ZB3n0005]] 老子道德經
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0005
 :SOURCE:   四庫全書 文淵閣版, V1055.6, p137
@@ -1583,17 +1605,17 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 :BOOK:   2
 :ZB_ID: ZB5c0072
 :END:
-**** responsible:
-***** 王弼
-      :PROPERTIES:
-      :DYNASTY:  魏
-      :FUNCTION: 注
-      :DATES:    226 - 249
-      :END:
+****** responsible:
+******* 王弼
+       	:PROPERTIES:
+       	:DYNASTY:  魏
+       	:FUNCTION: 注
+       	:DATES:    226 - 249
+       	:END:
 
 
 
-*** KR5c0074 [[mandoku:ZB5c0073.org][ZB5c0073]] 道德真經註(三)
+*** KR5c0074 [[mandoku:ZB5c0073.org][ZB5c0073]] ZB3n0006 道德真經註(三)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0073
 :TTC: 646 - 647
@@ -1613,6 +1635,22 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0006.org][ZB3n0006]] 老子解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0006
+:SOURCE:   四庫全書 文淵閣版, V1055.7, p187
+:EXTENT: 2 卷
+:BOOK:   2
+:END:
+****** responsible:
+******* 蘇轍
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    1039 - 1113
+       	:END:
+
+
 *** KR5c0075 [[mandoku:ZB5c0074.org][ZB5c0074]] 道德真經新註
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0074
@@ -1675,7 +1713,7 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
       :END:
 
 
-*** KR5c0078 [[mandoku:ZB5c0075.org][ZB5c0075]] 道德真經指歸
+*** KR5c0078 [[mandoku:ZB5c0075.org][ZB5c0075]] ZB3n0004 道德真經指歸
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0075
 :TTC: 289 - 290
@@ -1701,6 +1739,22 @@ DZJ0: [[dzjy:JY046/JY046_01.txt][JY046 太上道德真經四子古道集解 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0004.org][ZB3n0004]] 道德指歸論
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0004
+:SOURCE:   四庫全書 文淵閣版, V1055.5, p75
+:EXTENT: 6 卷
+:BOOK:   2
+:END:
+****** responsible:
+******* 嚴遵
+       	:PROPERTIES:
+       	:DYNASTY:  漢
+       	:FUNCTION: 撰
+       	:DATES:    -1st cent
+       	:END:
+
+
 *** KR5c0079 [[mandoku:ZB5c0076.org][ZB5c0076]] 道德真經疏義(一)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0076
@@ -1945,7 +1999,7 @@ DZJ0: [[dzjy:JY048/JY048_01.txt][JY048 太上道德真經章句訓頌 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0091 [[mandoku:ZB5c0088.org][ZB5c0088]] 道德真經註(四)
+*** KR5c0091 [[mandoku:ZB5c0088.org][ZB5c0088]] ZB3n0008 道德真經註(四)
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0088
 :TTC: 666 - 667
@@ -1968,6 +2022,21 @@ DZJ0: [[dzjy:JY048/JY048_01.txt][JY048 太上道德真經章句訓頌 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0008.org][ZB3n0008]] 道德眞經注
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0008
+:SOURCE:   四庫全書 文淵閣版, V1055.9, p257
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+****** responsible:
+******* 吳澄
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    1249 - 1331
+      :END:
+
 # *CH030334	3090	道德真經集解序說(宋-董思靖)　	12/0821	21/0545	　	　
 ***** DZJY  *JY053 道德真經註  Daode zhenjing zhu			:can:
 :PROPERTIES:
@@ -2656,7 +2725,7 @@ DZJ0: [[dzjy:JY134/JY134_01.txt][JY134 文始真經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0121 [[mandoku:ZB5c0116.org][ZB5c0116]] 沖虛至德真經解
+*** KR5c0121 [[mandoku:ZB5c0116.org][ZB5c0116]] ZB3n0015 沖虛至德真經解
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0116
 :TTC: 682 - 683
@@ -2677,6 +2746,21 @@ DZJ0: [[dzjy:JY134/JY134_01.txt][JY134 文始真經 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0015.org][ZB3n0015]] 沖虛至德眞經解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0015
+:SOURCE:   四庫全書 文淵閣版, V1055.16, p651
+:EXTENT: 8 卷
+:BOOK:   4
+:END:
+****** responsible:
+******* 江遹
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:END:
+
+
 ***** DZJY  JY135 沖虛至德真經解  Chongxu zhide zhenjing jie		:can:
 :PROPERTIES:
 :EXTENT:  3 juan
@@ -2687,12 +2771,12 @@ DZJ0: [[dzjy:JY134/JY134_01.txt][JY134 文始真經 ]]
 :END:
 沖虛至德真經解 
 DZJ0: [[dzjy:JY135/JY135_01.txt][JY135 沖虛至德真經解 ]]
-****** Work notes
-******* DONE img missing
+******** Work notes
+********* DONE img missing
     CLOSED: [2011-10-26 Wed 13:37]
 img CK-KZ135_03p001a.png and CK-KZ135_03p001b.png missing
 added these two files from the CTDZJY files
-****** Comments
+******** Comments
 
 
 *** KR5c0122 [[mandoku:ZB5c0117.org][ZB5c0117]] 沖虛至德真經義解
@@ -2802,7 +2886,7 @@ added these two files from the CTDZJY files
 ***** ZHDZ
 *** KR5c0126 [[at:text/chant/H11-06-0033/H11-06-0033_001.txt][H11-06-0033]] 莊子
 
-*** KR5c0127 [[mandoku:ZB5c0120.org][ZB5c0120]] 南華真經義海纂微
+*** KR5c0127 [[mandoku:ZB5c0120.org][ZB5c0120]] ZB3n0019 南華真經義海纂微
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0120
 :TTC: 676 - 678
@@ -2823,7 +2907,22 @@ added these two files from the CTDZJY files
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0128 [[mandoku:ZB5c0121.org][ZB5c0121]] 南華真經口義　
+***** WYG  [[mandoku:ZB3n0019.org][ZB3n0019]] 南華眞經義海纂微
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0019
+:SOURCE:   四庫全書 文淵閣版, V1057.1, p1
+:EXTENT: 106 卷
+:BOOK:   32
+:END:
+****** responsible:
+******* 褚伯秀
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:END:
+
+
+*** KR5c0128 [[mandoku:ZB5c0121.org][ZB5c0121]] ZB3n0018 南華真經口義　
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0121
 :TTC: 675 - 676
@@ -2850,6 +2949,21 @@ added these two files from the CTDZJY files
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG [[mandoku:ZB3n0018.org][ZB3n0018]] 莊子口義
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0018
+:SOURCE:   四庫全書 文淵閣版, V1056.3, p355
+:EXTENT: 10 卷
+:BOOK:   10
+:DATE:   1235
+:END:
+****** responsible:
+******* 林希逸
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:END:
+
 *** KR5c0129 [[mandoku:ZB5c0122.org][ZB5c0122]] 南華真經章句音義
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0122
@@ -2991,7 +3105,7 @@ added these two files from the CTDZJY files
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5c0136 [[mandoku:ZB5c0129.org][ZB5c0129]] 南華真經新傳
+*** KR5c0136 [[mandoku:ZB5c0129.org][ZB5c0129]] ZB3n0017 南華真經新傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0129
 :TTC: 671 - 673
@@ -3012,6 +3126,22 @@ added these two files from the CTDZJY files
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0017.org][ZB3n0017]] 南華眞經眞傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0017
+:SOURCE:   四庫全書 文淵閣版, V1056.2, p169
+:EXTENT: 19 卷
+:BOOK:   8
+:END:
+****** responsible:
+******* 王雱
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    d. 1076
+       	:END:
+
+
 *** KR5c0137 [[mandoku:ZB5c0130.org][ZB5c0130]] 南華真經拾遺
 :PROPERTIES:
 :CUSTOM_ID: ZB5c0130
@@ -3033,6 +3163,13 @@ added these two files from the CTDZJY files
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG ZB3n0017a 拾遺
+      :PROPERTIES:
+      :TYPE:   appendix
+      :EXTENT: 1 卷
+      :BOOK:   (8)
+      :END:
+
 *** KR5c0138 [[mandoku:ZB3n0016.org][ZB3n0016]] 莊子注
 :PROPERTIES:
 :CUSTOM_ID:  ZB3n0016

@@ -536,7 +536,7 @@
 :WITID: wit9
 :END:
 
-*** KR6r0013 [[mandoku:ZB6r0013.org][ZB6r0013]]  [[cbeta:T/T49n2036/T49n2036.org][T49n2036]] 佛祖歷代通載
+*** KR6r0013 [[mandoku:ZB6r0013.org][ZB6r0013]]  [[cbeta:T/T49n2036/T49n2036.org][T49n2036]] ZB3m0013 佛祖歷代通載
 :PROPERTIES: 
 :CBETA_ID:  T49n2036
 :GENRE: 史傳
@@ -577,7 +577,22 @@
 :WITID: wit14
 :END:
 
-*** KR6r0014 [[mandoku:ZB6r0014.org][ZB6r0014]]  [[cbeta:T/T49n2037/T49n2037.org][T49n2037]] 釋氏稽古略
+***** WYG [[mandoku:ZB3m0013.org][ZB3m0013]] 佛祖歷代通載
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0013
+:SOURCE:   四庫全書 文淵閣版, V1054.2, p221
+:EXTENT: 22 卷
+:BOOK:   20
+:END:
+****** responsible:
+******* 釋念常
+       	:PROPERTIES:
+       	:DYNASTY:  元
+       	:FUNCTION: 撰
+       	:DATES:    1282 - 1341
+       	:END:
+
+*** KR6r0014 [[mandoku:ZB6r0014.org][ZB6r0014]]  [[cbeta:T/T49n2037/T49n2037.org][T49n2037]] ZB3m0012 釋氏稽古略
 :PROPERTIES: 
 :CBETA_ID:  T49n2037
 :GENRE: 史傳
@@ -612,6 +627,21 @@
 :PROPERTIES: 
 :WITID: wit6
 :END:
+
+***** WYG [[mandoku:ZB3m0012.org][ZB3m0012]] 釋氏稽古畧
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0012
+:SOURCE:   四庫全書 文淵閣版, V1054.1, p1
+:EXTENT: 4 卷
+:BOOK:   4
+:END:
+**** responsible:
+***** 釋覺岸
+      :PROPERTIES:
+      :DYNASTY:  元
+      :FUNCTION: 撰
+      :DATES:    fl. 1534
+      :END:
 
 *** KR6r0015 [[mandoku:ZB6r0015.org][ZB6r0015]]  [[cbeta:T/T49n2038/T49n2038.org][T49n2038]] 釋鑑稽古略續集
 :PROPERTIES: 
@@ -1971,7 +2001,7 @@
 :WITID: wit13
 :END:
 
-*** KR6r0054 [[mandoku:ZB6r0054.org][ZB6r0054]]  [[cbeta:T/T50n2061/T50n2061.org][T50n2061]] 宋高僧傳
+*** KR6r0054 [[mandoku:ZB6r0054.org][ZB6r0054]]  [[cbeta:T/T50n2061/T50n2061.org][T50n2061]] ZB3m0005 宋高僧傳
 :PROPERTIES: 
 :CBETA_ID:  T50n2061
 :GENRE: 史傳
@@ -2011,6 +2041,22 @@
 :PROPERTIES: 
 :WITID: wit22
 :END:
+
+***** WYG [[mandoku:ZB3m0005.org][ZB3m0005]] 宋高僧傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0005
+:SOURCE:   四庫全書 文淵閣版, V1052.1, p1
+:EXTENT: 30 卷
+:BOOK:   14
+:END:
+****** responsible:
+******* 釋贊寧
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:DATES:    918 - 999
+       	:END:
+
 
 *** KR6r0055 [[mandoku:ZB6r0055.org][ZB6r0055]]  [[cbeta:T/T50n2062/T50n2062.org][T50n2062]] 大明高僧傳
 :PROPERTIES: 
@@ -3064,7 +3110,7 @@
 :WITID: wit99
 :END:
 
-*** KR6r0092 [[mandoku:ZB6r0092.org][ZB6r0092]]  [[cbeta:X/X83n1577/X83n1577.org][X83n1577]] 羅湖野錄
+*** KR6r0092 [[mandoku:ZB6r0092.org][ZB6r0092]] [[cbeta:X/X83n1577/X83n1577.org][X83n1577]] ZB3m0010 羅湖野錄
 :PROPERTIES: 
 :CBETA_ID:  X83n1577
 :GENRE: 史傳
@@ -3089,6 +3135,22 @@
 :PROPERTIES: 
 :WITID: wit99
 :END:
+
+***** WYG [[mandoku:ZB3m0010.org][ZB3m0010]] 羅湖野錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0010
+:SOURCE:   四庫全書 文淵閣版, V1052.6, p873
+:EXTENT: 4 卷
+:BOOK:   2
+:END:
+****** responsible:
+******* 釋曉瑩
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    fl. 1155 - 1160
+       	:END:
+
 
 *** KR6r0093 [[mandoku:ZB6r0093.org][ZB6r0093]]  [[cbeta:X/X86n1610/X86n1610.org][X86n1610]] 雲臥紀譚
 :PROPERTIES: 
@@ -4505,7 +4567,7 @@
 :WITID: wit6
 :END:
 
-*** KR6r0137 [[mandoku:ZB6r0137.org][ZB6r0137]]  [[cbeta:T/T52n2102/T52n2102.org][T52n2102]] 弘明集
+*** KR6r0137 [[mandoku:ZB6r0137.org][ZB6r0137]] [[cbeta:T/T52n2102/T52n2102.org][T52n2102]] ZB3m0001 弘明集
 :PROPERTIES: 
 :CBETA_ID:  T52n2102
 :GENRE: 史傳
@@ -4566,7 +4628,29 @@
 :WITID: wit18
 :END:
 
-*** KR6r0138 [[mandoku:ZB6r0138.org][ZB6r0138]]  [[cbeta:T/T52n2103/T52n2103.org][T52n2103]] 廣弘明集
+***** WYG  [[mandoku:ZB3m0001.org][ZB3m0001]] 弘明集
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0001
+:SOURCE:   四庫全書 文淵閣版, V1048.1, p1
+:EXTENT: 14 卷
+:BOOK:   6
+:END:
+****** responsible:
+******* 釋僧祐
+       	:PROPERTIES:
+       	:DYNASTY:  梁
+       	:FUNCTION: 撰
+       	:DATES:    445 - 518
+       	:END:
+
+******** 附音釋
+       	  :PROPERTIES:
+       	  :TYPE:   appendix
+       	  :BOOK:   (6)
+       	  :END:
+
+
+*** KR6r0138 [[mandoku:ZB6r0138.org][ZB6r0138]] [[cbeta:T/T52n2103/T52n2103.org][T52n2103]] ZB3m0002 廣弘明集
 :PROPERTIES: 
 :CBETA_ID:  T52n2103
 :GENRE: 史傳
@@ -4622,7 +4706,30 @@
 :WITID: wit49
 :END:
 
-*** KR6r0139 [[mandoku:ZB6r0139.org][ZB6r0139]]  [[cbeta:T/T52n2104/T52n2104.org][T52n2104]] 集古今佛道論衡
+***** WYG [[mandoku:ZB3m0002.org][ZB3m0002]] 廣弘明集
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0002
+:SOURCE:   四庫全書 文淵閣版, V1048.2, p219
+:EXTENT: 30 卷
+:BOOK:   14
+:END:
+****** responsible:
+******* 釋道宣
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:DATES:    596 - 667
+       	:END:
+
+****** 音釋
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (14)
+       	:END:
+
+
+*** KR6r0139 [[mandoku:ZB6r0139.org][ZB6r0139]] [[cbeta:T/T52n2104/T52n2104.org][T52n2104]] 集古今佛道論衡
 :PROPERTIES: 
 :CBETA_ID:  T52n2104
 :GENRE: 史傳
@@ -5300,7 +5407,7 @@
 :WITID: wit99
 :END:
 
-*** KR6r0157 [[mandoku:ZB6r0157.org][ZB6r0157]]  [[cbeta:X/X87n1624/X87n1624.org][X87n1624]] 林間錄
+*** KR6r0157 [[mandoku:ZB6r0157.org][ZB6r0157]] [[cbeta:X/X87n1624/X87n1624.org][X87n1624]] ZB3m0009 林間錄
 :PROPERTIES: 
 :CBETA_ID:  X87n1624
 :GENRE: 史傳

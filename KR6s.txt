@@ -57,7 +57,7 @@
 :WITID: wit22
 :END:
 
-*** KR6s0002 [[mandoku:ZB6s0002.org][ZB6s0002]]  [[cbeta:T/T53n2122/T53n2122.org][T53n2122]] 法苑珠林
+*** KR6s0002 [[mandoku:ZB6s0002.org][ZB6s0002]] [[cbeta:T/T53n2122/T53n2122.org][T53n2122]] ZB3m0003 法苑珠林
 :PROPERTIES: 
 :CBETA_ID:  T53n2122
 :GENRE: 事彙
@@ -122,6 +122,35 @@
 :PROPERTIES: 
 :WITID: wit14
 :END:
+
+***** WYG [[mandoku:ZB3m0003.org][ZB3m0003]] 法苑珠林
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0003
+:SOURCE:   四庫全書 文淵閣版, V1049.1, p1 - V1050.1
+:EXTENT: 120 卷
+:BOOK:   62
+:END:
+****** responsible:
+******* 釋道世
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:DATES:    7th cent
+       	:END:
+
+
+****** (附)校譌
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:BOOK:   (62)
+       	:END:
+
+****** 音釋
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:BOOK:   (62)
+       	:END:
+
 
 *** KR6s0003 [[mandoku:ZB6s0003.org][ZB6s0003]]  [[cbeta:T/T54n2123/T54n2123.org][T54n2123]] 諸經要集
 :PROPERTIES: 
@@ -2476,7 +2505,7 @@
 :WITID: wit8
 :END:
 
-*** KR6s0093 [[mandoku:ZB6s0093.org][ZB6s0093]]  [[cbeta:T/T55n2154/T55n2154.org][T55n2154]] 開元釋教錄
+*** KR6s0093 [[mandoku:ZB6s0093.org][ZB6s0093]]  [[cbeta:T/T55n2154/T55n2154.org][T55n2154]] ZB3m0004 開元釋教錄
 :PROPERTIES: 
 :CBETA_ID:  T55n2154
 :GENRE: 目録
@@ -2531,6 +2560,22 @@
 :PROPERTIES: 
 :WITID: wit13
 :END:
+
+***** WYG [[mandoku:ZB3m0004.org][ZB3m0004]] 開元釋教錄
+:PROPERTIES:
+:CUSTOM_ID:  ZB3m0004
+:SOURCE:   四庫全書 文淵閣版, V1051.1, p1
+:EXTENT: 20 卷
+:BOOK:   10
+:END:
+****** responsible:
+******* 釋智昇
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 撰
+       	:END:
+
+
 
 *** KR6s0094 [[mandoku:ZB6s0094.org][ZB6s0094]]  [[cbeta:T/T55n2155/T55n2155.org][T55n2155]] 開元釋教錄略出
 :PROPERTIES: 

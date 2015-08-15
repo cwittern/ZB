@@ -1069,7 +1069,7 @@ DZJ0: [[dzjy:JY299/JY299_01.txt][JY299 漢天師世家 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5h0056 [[mandoku:ZB5h0056.org][ZB5h0056]] 老子翼
+*** KR5h0056 [[mandoku:ZB5h0056.org][ZB5h0056]] ZB3n0009 老子翼
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0056
 :TTC: 670 - 671
@@ -1091,7 +1091,37 @@ DZJ0: [[dzjy:JY299/JY299_01.txt][JY299 漢天師世家 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5h0057 [[mandoku:ZB5h0057.org][ZB5h0057]] 莊子翼
+***** WYG  [[mandoku:ZB3n0009.org][ZB3n0009]] 老子翼
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0009
+:SOURCE:   四庫全書 文淵閣版, V1055.10, p323
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+****** responsible:
+******* 焦竑
+       	:PROPERTIES:
+       	:DYNASTY:  明
+       	:FUNCTION: 撰
+       	:DATES:    1541 - 1620
+       	:END:
+
+****** 采摭書目
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (3)
+       	:END:
+
+****** 考異
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (3)
+       	:END:
+
+
+*** KR5h0057 [[mandoku:ZB5h0057.org][ZB5h0057]] ZB3n0020 莊子翼
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0057
 :TTC: 680 - 681
@@ -1114,6 +1144,56 @@ DZJ0: [[dzjy:JY299/JY299_01.txt][JY299 漢天師世家 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG *** [[mandoku:ZB3n0020.org][ZB3n0020]] 莊子翼
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0020
+:SOURCE:   四庫全書 文淵閣版, V1058.1, p1
+:EXTENT: 8 卷
+:BOOK:   8
+:END:
+****** responsible:
+******* 焦竑
+       	:PROPERTIES:
+       	:DYNASTY:  明
+       	:FUNCTION: 撰
+       	:DATES:    1541 - 1620
+       	:END:
+
+****** 采摭書目
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (8)
+       	:END:
+
+****** (附)莊子闕誤
+       	:PROPERTIES:
+       	:TYPE:   appendix
+       	:EXTENT: 1 卷
+       	:BOOK:   (8)
+       	:END:
+******** responsible:
+********* 陳景元
+       	 :PROPERTIES:
+       	 :DYNASTY:  宋
+       	 :FUNCTION: 撰
+       	 :END:
+
+******* 附錄
+	 :PROPERTIES:
+	 :TYPE:   appendix
+	 :EXTENT: 1 卷
+	 :BOOK:   (8)
+	 :END:
+******** responsible:
+********* 焦竑
+	 :PROPERTIES:
+	 :DYNASTY:  明
+	 :FUNCTION: 輯
+	 :DATES:    1541 - 1620
+	 :END:
+
+
 **** [[mandoku:ZB5h0058.org][ZB5h0058]] 莊子翼附錄#
 :PROPERTIES:
 :CUSTOM_ID: ZB5h0058

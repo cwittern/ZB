@@ -2087,7 +2087,7 @@ DZJ0: [[dzjy:JY058/JY058_01.txt][JY058 太上赤文洞古經註 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5a0110 [[mandoku:ZB5a0110.org][ZB5a0110]] 黃帝陰符經講義
+*** KR5a0110 [[mandoku:ZB5a0110.org][ZB5a0110]] ZB3n0002 黃帝陰符經講義
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0110
 :TTC: 697
@@ -2109,7 +2109,23 @@ DZJ0: [[dzjy:JY058/JY058_01.txt][JY058 太上赤文洞古經註 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
- CH010325 xx xx x 黃帝陰符經講義圖說(宋-夏元鼎) ZHDZ00p0000 XWDZ03p0838 HFL藏下
+***** WYG [[mandoku:ZB3n0002.org][ZB3n0002]] 陰符經講義
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0002
+:SOURCE:   四庫全書 文淵閣版, V1055.3, p19
+:EXTENT: 4 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 夏元鼎
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    fl. 1224
+       	:END:
+
+
+   CH010325 xx xx x 黃帝陰符經講義圖說(宋-夏元鼎) ZHDZ00p0000 XWDZ03p0838 HFL藏下
 *** KR5a0111 [[mandoku:ZB5a0111.org][ZB5a0111]] 黃帝陰符經疏
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0111
@@ -2191,7 +2207,7 @@ DZJ0: [[dzjy:JY115/JY115_01.txt][JY115 黃帝陰符經十真集解]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5a0114 [[mandoku:ZB5a0114.org][ZB5a0114]] 黃帝陰符經解
+*** KR5a0114 [[mandoku:ZB5a0114.org][ZB5a0114]] ZB3n0001 黃帝陰符經解
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0114
 :TTC: 693 - 694
@@ -2212,7 +2228,25 @@ DZJ0: [[dzjy:JY115/JY115_01.txt][JY115 黃帝陰符經十真集解]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-***** WYG 
+***** WYG [[mandoku:ZB3n0001.org][ZB3n0001]] 陰符經解
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0001
+:SOURCE:   四庫全書 文淵閣版, V1055.1, p1
+:EXTENT: 1 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 黃帝
+       	:PROPERTIES:
+       	:FUNCTION: 撰
+       	:END:
+
+******* 李筌
+       	:PROPERTIES:
+       	:DYNASTY:  唐
+       	:FUNCTION: 註
+       	:END:
+
 *** KR5a0115 [[mandoku:ZB5a0115.org][ZB5a0115]] 黃帝陰符經註解
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0115
@@ -2796,7 +2830,7 @@ DZJ0: [[dzjy:JY095/JY095_01.txt][JY095 胎息經註 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5a0142 [[mandoku:ZB5a0142.org][ZB5a0142]] 紫陽真人悟真篇註疏
+*** KR5a0142 [[mandoku:ZB5a0142.org][ZB5a0142]] ZB3n0039 紫陽真人悟真篇註疏
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0142
 :TTC: 817 - 818
@@ -2838,6 +2872,34 @@ DZJ0: [[dzjy:JY095/JY095_01.txt][JY095 胎息經註 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0039.org][ZB3n0039]] 悟眞篇註疏
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0039
+:SOURCE:   四庫全書 文淵閣版, V1061.2, p429
+:EXTENT: 3 卷
+:BOOK:   3
+:END:
+****** responsible:
+******* 張伯端
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 撰
+       	:DATES:    ca. 980 - ca. 1078
+       	:END:
+
+******* 翁葆光
+       	:PROPERTIES:
+       	:DYNASTY:  宋
+       	:FUNCTION: 註
+       	:END:
+
+******* 戴起宗
+       	:PROPERTIES:
+       	:DYNASTY:  元
+       	:FUNCTION: 疏
+       	:END:
+
+
 ***** DZJY  *JY179 石橋歌  Shiqiao ge					:can:
 :PROPERTIES:
 :EXTENT:  1 fol.
@@ -6408,7 +6470,7 @@ DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5a0306 [[mandoku:ZB5a0306.org][ZB5a0306]] 列仙傳
+*** KR5a0306 [[mandoku:ZB5a0306.org][ZB5a0306]] ZB3n0023 列仙傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0306
 :TTC: 114
@@ -6429,7 +6491,23 @@ DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-*** KR5a0307 [[mandoku:ZB5a0307.org][ZB5a0307]] 續仙傳
+***** WYG  [[mandoku:ZB3n0023.org][ZB3n0023]] 列仙傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0023
+:SOURCE:   四庫全書 文淵閣版, V1058.4, p487
+:EXTENT: 2 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 劉向
+       	:PROPERTIES:
+       	:DYNASTY:  漢
+       	:FUNCTION: 撰
+       	:DATES:    -77 - -6
+       	:END:
+
+
+*** KR5a0307 [[mandoku:ZB5a0307.org][ZB5a0307]] ZB3n0037 續仙傳
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0307
 :TTC: 429 - 430
@@ -6450,6 +6528,22 @@ DZJ0: [[dzjy:JY184/JY184_01.txt][JY184 析疑指迷論 ]]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
+***** WYG  [[mandoku:ZB3n0037.org][ZB3n0037]] 續仙傳
+:PROPERTIES:
+:CUSTOM_ID:  ZB3n0037
+:SOURCE:   四庫全書 文淵閣版, V1059.8, p583
+:EXTENT: 3 卷
+:BOOK:   1
+:END:
+****** responsible:
+******* 沈汾
+       	:PROPERTIES:
+       	:DYNASTY:  南唐
+       	:FUNCTION: 撰
+       	:DATES:    10th cent
+       	:END:
+
+
 *** KR5a0308 [[mandoku:ZB5a0308.org][ZB5a0308]] 歷世真仙體道通鑑
 :PROPERTIES:
 :CUSTOM_ID: ZB5a0308
